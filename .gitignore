@@ -12,10 +12,6 @@ dist
 dist-ssr
 *.local
 
-# Brand assets, kept local only, never published to the public repo so the logo
-# can't be pulled or copied from GitHub
-public/brand/
-
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
