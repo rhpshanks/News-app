@@ -1,0 +1,109 @@
+:root {
+  /* Section 4.1 — color tokens, Editorial trust palette */
+  --color-accent: #185fa5;
+  --color-accent-tint: #e6f1fb;
+  --color-bg-primary: #ffffff;
+  --color-surface: #ffffff;
+  --color-text-primary: #1a1a1a;
+  --color-text-secondary: #6b7280;
+  --color-border: #e5e7eb;
+
+  /* indicator colors, fixed regardless of palette, see 4.1 */
+  --color-positive-bg: #eaf3de;
+  --color-positive-text: #27500a;
+  --color-neutral-bg: #faeeda;
+  --color-neutral-text: #633806;
+  --color-negative-bg: #fcebeb;
+  --color-negative-text: #791f1f;
+
+  /* Section 4.2 — typography */
+  --font-headline: "Source Serif 4", Georgia, serif;
+  --font-body: "Inter", Roboto, -apple-system, sans-serif;
+
+  /* Section 4.3 — spacing scale, 4px base unit */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-6: 24px;
+  --space-8: 32px;
+  --space-12: 48px;
+
+  --radius-card: 12px;
+  --radius-pill: 999px;
+
+  color-scheme: light;
+}
+
+:root[data-theme="dark"] {
+  --color-accent: #85b7eb;
+  --color-accent-tint: #0c447c;
+  --color-bg-primary: #0d1117;
+  --color-surface: #161b22;
+  --color-text-primary: #f2f2f2;
+  --color-text-secondary: #9ca3af;
+  --color-border: #2a2f38;
+
+  --color-positive-bg: #173404;
+  --color-positive-text: #97c459;
+  --color-neutral-bg: #412402;
+  --color-neutral-text: #fac775;
+  --color-negative-bg: #501313;
+  --color-negative-text: #f09595;
+
+  color-scheme: dark;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --color-accent: #85b7eb;
+    --color-accent-tint: #0c447c;
+    --color-bg-primary: #0d1117;
+    --color-surface: #161b22;
+    --color-text-primary: #f2f2f2;
+    --color-text-secondary: #9ca3af;
+    --color-border: #2a2f38;
+
+    --color-positive-bg: #173404;
+    --color-positive-text: #97c459;
+    --color-neutral-bg: #412402;
+    --color-neutral-text: #fac775;
+    --color-negative-bg: #501313;
+    --color-negative-text: #f09595;
+
+    color-scheme: dark;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: var(--color-bg-primary);
+  color: var(--color-text-primary);
+  font-family: var(--font-body);
+  font-size: 15px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  transition: background 0.15s ease, color 0.15s ease;
+}
+
+a {
+  color: var(--color-accent);
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+}
+
+#root {
+  min-height: 100vh;
+}
