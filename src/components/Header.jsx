@@ -31,7 +31,7 @@ export default function Header({ theme, onToggleTheme }) {
     <header className="header">
       <div className="header__row">
         <div>
-          <p className="header__eyebrow">News app, placeholder name</p>
+          <p className="header__eyebrow">Miqyas</p>
           <h1 className="header__title">Today&#8217;s headlines</h1>
         </div>
         <button

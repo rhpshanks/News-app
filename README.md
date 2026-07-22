@@ -1,16 +1,23 @@
-# React + Vite
+# Miqyas
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+An AI-analyzed news reader built on Dawn News. Every article gets a short AI summary
+and six indicators (economic, political, social, market relevance, political lean, and
+AI confidence), shown as shape-and-color-coded badges so the reading is never color
+alone. Full write-up of the design and editorial rules is in the project's SOP.
 
-Currently, two official plugins are available:
+Live article data refreshes daily at 6:00 AM Pakistan Standard Time via a scheduled
+crawl of Dawn News's RSS feed, written to `public/articles.json`. If that file hasn't
+run yet, the app falls back to a small sample set in `src/data/articles.js`.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Development
 
-## React Compiler
+```
+npm install
+npm run dev
+```
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Build
 
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+```
+npm run build
+```
