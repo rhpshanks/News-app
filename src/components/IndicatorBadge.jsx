@@ -18,7 +18,7 @@ const LABELS = {
   confidence: "Confidence",
 };
 
-const TONE_ICON = {
+export const TONE_ICON = {
   positive: (
     <svg width="11" height="11" viewBox="0 0 11 11" aria-hidden="true">
       <circle cx="5.5" cy="5.5" r="4.5" fill="none" stroke="currentColor" strokeWidth="1.6" />

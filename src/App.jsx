@@ -2,13 +2,27 @@ import { useEffect, useMemo, useState } from "react";
 import Header from "./components/Header";
 import ArticleCard from "./components/ArticleCard";
 import SkeletonCard from "./components/SkeletonCard";
+import Trends from "./components/Trends";
+import Watchlist from "./components/Watchlist";
+import DigestSignup from "./components/DigestSignup";
 import { sampleArticles } from "./data/articles";
 import "./App.css";
+
+const FREE_UNLOCKED_COUNT = 2; // how many grid articles stay visible in the free-tier preview
 
 function getInitialTheme() {
   const stored = window.localStorage.getItem("theme");
   if (stored === "light" || stored === "dark") return stored;
   return window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+}
+
+function getStoredList(key) {
+  try {
+    const raw = window.localStorage.getItem(key);
+    return raw ? JSON.parse(raw) : [];
+  } catch {
+    return [];
+  }
 }
 
 function formatGeneratedAt(iso) {
@@ -30,13 +44,25 @@ function App() {
   const [toast, setToast] = useState(null);
   const [status, setStatus] = useState("loading"); // loading | live | fallback
   const [articles, setArticles] = useState([]);
+  const [history, setHistory] = useState([]);
   const [generatedAt, setGeneratedAt] = useState(null);
   const [query, setQuery] = useState("");
+  const [topics, setTopics] = useState(() => getStoredList("watchlistTopics"));
+  const [followingOnly, setFollowingOnly] = useState(false);
+  const [plan, setPlan] = useState(() => window.localStorage.getItem("previewPlan") || "free");
 
   useEffect(() => {
     document.documentElement.dataset.theme = theme;
     window.localStorage.setItem("theme", theme);
   }, [theme]);
+
+  useEffect(() => {
+    window.localStorage.setItem("watchlistTopics", JSON.stringify(topics));
+  }, [topics]);
+
+  useEffect(() => {
+    window.localStorage.setItem("previewPlan", plan);
+  }, [plan]);
 
   useEffect(() => {
     if (!toast) return;
@@ -46,16 +72,21 @@ function App() {
 
   useEffect(() => {
     let cancelled = false;
-    // public/articles.json is written daily at 6am by the "news-app-daily-crawl"
-    // scheduled task. Cache-bust so a stale browser cache never masks a new run.
-    fetch(`/articles.json?t=${Date.now()}`)
-      .then((res) => (res.ok ? res.json() : Promise.reject(res.status)))
-      .then((data) => {
+    // public/articles.json and public/history.json are written daily at 6am by the
+    // "news-app-daily-crawl" scheduled task. Cache-bust so a stale browser cache
+    // never masks a new run.
+    const bust = Date.now();
+    Promise.all([
+      fetch(`/articles.json?t=${bust}`).then((res) => (res.ok ? res.json() : Promise.reject(res.status))),
+      fetch(`/history.json?t=${bust}`).then((res) => (res.ok ? res.json() : [])).catch(() => []),
+    ])
+      .then(([articlesData, historyData]) => {
         if (cancelled) return;
-        if (Array.isArray(data.articles) && data.articles.length > 0) {
-          setArticles(data.articles);
+        if (Array.isArray(articlesData.articles) && articlesData.articles.length > 0) {
+          setArticles(articlesData.articles);
           setStatus("live");
-          setGeneratedAt(data.generatedAt ?? null);
+          setGeneratedAt(articlesData.generatedAt ?? null);
+          setHistory(Array.isArray(historyData) ? historyData : []);
         } else {
           setArticles(sampleArticles);
           setStatus("fallback");
@@ -71,17 +102,27 @@ function App() {
     };
   }, []);
 
-  const filteredArticles = useMemo(() => {
-    const q = query.trim().toLowerCase();
-    if (!q) return articles;
-    return articles.filter(
-      (a) => a.headline.toLowerCase().includes(q) || a.summary.toLowerCase().includes(q)
-    );
-  }, [articles, query]);
+  function matchesText(article, text) {
+    const q = text.trim().toLowerCase();
+    if (!q) return true;
+    return article.headline.toLowerCase().includes(q) || article.summary.toLowerCase().includes(q);
+  }
 
-  const isSearching = query.trim() !== "";
+  const followingSet = useMemo(() => topics.map((t) => t.toLowerCase()), [topics]);
+
+  function isFollowed(article) {
+    return followingSet.some((topic) => matchesText(article, topic));
+  }
+
+  const filteredArticles = useMemo(() => {
+    return articles.filter((a) => matchesText(a, query) && (!followingOnly || isFollowed(a)));
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [articles, query, followingOnly, followingSet]);
+
+  const isSearching = query.trim() !== "" || followingOnly;
   const [leadArticle, ...restArticles] = filteredArticles;
   const showLead = !isSearching && leadArticle;
+  const gridArticles = showLead ? restArticles : filteredArticles;
 
   function handleReport(articleId, indicatorType) {
     // No backend queue wired up yet, section 5.3 requires the action to exist in the UI
@@ -89,24 +130,65 @@ function App() {
     setToast(`Report sent for the ${indicatorType} reading on article ${articleId}.`);
   }
 
+  function handleAddTopic(topic) {
+    setTopics((current) => (current.some((t) => t.toLowerCase() === topic.toLowerCase()) ? current : [...current, topic]));
+  }
+
+  function handleRemoveTopic(topic) {
+    setTopics((current) => current.filter((t) => t !== topic));
+    setFollowingOnly(false);
+  }
+
+  function handleUpgradeClick() {
+    setToast("This is a preview of the paid tier, no real payment is wired up yet.");
+  }
+
   return (
     <div className="page">
       <Header theme={theme} onToggleTheme={() => setTheme((t) => (t === "dark" ? "light" : "dark"))} />
 
-      <div className="search">
-        <svg width="15" height="15" viewBox="0 0 24 24" aria-hidden="true" className="search__icon">
-          <circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" strokeWidth="2" />
-          <line x1="21" y1="21" x2="16.65" y2="16.65" stroke="currentColor" strokeWidth="2" strokeLinecap="round" />
-        </svg>
-        <input
-          type="search"
-          className="search__input"
-          placeholder="Search today's headlines"
-          value={query}
-          onChange={(e) => setQuery(e.target.value)}
-          aria-label="Search today's headlines"
-        />
+      <div className="toolbar">
+        <div className="search">
+          <svg width="15" height="15" viewBox="0 0 24 24" aria-hidden="true" className="search__icon">
+            <circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" strokeWidth="2" />
+            <line x1="21" y1="21" x2="16.65" y2="16.65" stroke="currentColor" strokeWidth="2" strokeLinecap="round" />
+          </svg>
+          <input
+            type="search"
+            className="search__input"
+            placeholder="Search today's headlines"
+            value={query}
+            onChange={(e) => setQuery(e.target.value)}
+            aria-label="Search today's headlines"
+          />
+        </div>
+
+        <div className="plan-toggle" role="group" aria-label="Preview plan">
+          <span className="plan-toggle__label">Preview as</span>
+          <button
+            type="button"
+            className={plan === "free" ? "plan-toggle__btn plan-toggle__btn--active" : "plan-toggle__btn"}
+            onClick={() => setPlan("free")}
+          >
+            Free
+          </button>
+          <button
+            type="button"
+            className={plan === "paid" ? "plan-toggle__btn plan-toggle__btn--active" : "plan-toggle__btn"}
+            onClick={() => setPlan("paid")}
+          >
+            Paid
+          </button>
+        </div>
       </div>
+
+      <Watchlist
+        topics={topics}
+        onAdd={handleAddTopic}
+        onRemove={handleRemoveTopic}
+        followingOnly={followingOnly}
+        onToggleFollowingOnly={() => setFollowingOnly((v) => !v)}
+      />
 
       <main>
         {status === "loading" && (
@@ -118,30 +200,60 @@ function App() {
         )}
 
         {status !== "loading" && filteredArticles.length === 0 && (
-          <p className="empty-state">No headlines match &#8220;{query}&#8221;.</p>
+          <p className="empty-state">
+            {followingOnly ? "No followed topics match today's headlines." : `No headlines match “${query}”.`}
+          </p>
         )}
 
         {status !== "loading" && filteredArticles.length > 0 && (
           <>
             {showLead && (
               <div className="lead">
-                <ArticleCard article={leadArticle} featured onReport={handleReport} />
+                <ArticleCard
+                  article={leadArticle}
+                  featured
+                  following={isFollowed(leadArticle)}
+                  onReport={handleReport}
+                />
               </div>
             )}
+
+            <div className={plan === "free" ? "trends-wrap trends-wrap--locked" : "trends-wrap"}>
+              <Trends history={history} />
+              {plan === "free" && history.length > 0 && (
+                <div className="trends-wrap__overlay">
+                  <p>Trend history is a paid feature</p>
+                  <button type="button" className="card__unlock" onClick={handleUpgradeClick}>
+                    Upgrade to paid
+                  </button>
+                </div>
+              )}
+            </div>
+
             <div className="grid">
-              {(showLead ? restArticles : filteredArticles).map((article) => (
-                <ArticleCard key={article.id} article={article} onReport={handleReport} />
+              {gridArticles.map((article, index) => (
+                <ArticleCard
+                  key={article.id}
+                  article={article}
+                  following={isFollowed(article)}
+                  locked={plan === "free" && index >= FREE_UNLOCKED_COUNT}
+                  onUnlock={handleUpgradeClick}
+                  onReport={handleReport}
+                />
               ))}
             </div>
           </>
         )}
       </main>
 
+      <DigestSignup />
+
       <footer className="footer">
         {status === "live" ? (
           <p>
-            Source: Dawn News. Live data, last updated {formatGeneratedAt(generatedAt) ?? "recently"},
-            refreshed daily at 6:00 AM Pakistan Standard Time.
+            Source: Dawn News and Business Recorder. Live data, last updated{" "}
+            {formatGeneratedAt(generatedAt) ?? "recently"}, refreshed daily at 6:00 AM Pakistan Standard
+            Time.
           </p>
         ) : (
           <p>Source: Dawn News. Sample data shown, the daily live update has not run yet.</p>

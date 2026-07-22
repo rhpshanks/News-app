@@ -1,0 +1,11 @@
+[
+  {
+    "date": "2026-07-22",
+    "articleCount": 8,
+    "counts": {
+      "economic": { "positive": 2, "neutral": 6, "negative": 0 },
+      "political": { "positive": 3, "neutral": 5, "negative": 0 },
+      "social": { "positive": 1, "neutral": 6, "negative": 1 }
+    }
+  }
+]

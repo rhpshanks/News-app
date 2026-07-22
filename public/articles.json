@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T20:15:00+05:00",
+  "generatedAt": "2026-07-22T21:40:00+05:00",
   "articles": [
     {
       "id": 1,
@@ -71,36 +71,70 @@
     },
     {
       "id": 5,
-      "headline": "Intermittent heavy rain hits Punjab cities, Lahore receives 123mm",
-      "summary": "AI summary: intermittent heavy rain across Punjab, including a record 245mm in Gujranwala, flooded roads and caused prolonged power outages, monsoon-related deaths this season reached 17.",
-      "source": "Dawn News",
-      "timestamp": "Jul 22, 7:10 PM",
-      "sourceUrl": "https://www.dawn.com/news/2017532/intermittent-heavy-rain-hits-punjab-cities-lahore-receives-123mm",
+      "headline": "Pakistan condemns Houthi threats against Saudi Arabia, Red Sea shipping",
+      "summary": "AI summary: Pakistan's Foreign Office condemned continued Houthi threats against Saudi Arabia and Red Sea shipping, warning the actions endanger regional stability and violate international law.",
+      "source": "Business Recorder",
+      "timestamp": "Jul 22, 9:20 PM",
+      "sourceUrl": "https://www.brecorder.com/news/40431293/pakistan-condemns-houthi-threats-against-saudi-arabia-red-sea-shipping",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "negative", "reason": "Flood damage, power outages, and blocked roads disrupt commerce and add cleanup costs." },
-        "political": { "value": "neutral", "reason": "A weather event without a clear government response angle in this report." },
-        "social": { "value": "negative", "reason": "Flooding, power outages, and monsoon deaths directly harm public safety and daily life." },
-        "market": { "value": "low", "reason": "Localized weather disruption with limited direct relevance to broader markets." },
-        "lean": { "value": "balanced", "reason": "A factual weather and casualty report, no political framing present." },
-        "confidence": { "value": "high", "reason": "Rainfall figures and casualty counts are specific and directly reported." }
+        "economic": { "value": "neutral", "reason": "No direct economic measure announced, though Red Sea shipping risk is an underlying concern." },
+        "political": { "value": "neutral", "reason": "A routine foreign policy statement, no domestic political shift signaled." },
+        "social": { "value": "neutral", "reason": "No immediate effect on the public beyond general regional security awareness." },
+        "market": { "value": "medium", "reason": "Shipping and trade route risk in the Red Sea touches freight and oil costs relevant to importers." },
+        "lean": { "value": "balanced", "reason": "Sourced to the Foreign Office's own statement on international law, not domestic party politics." },
+        "confidence": { "value": "medium", "reason": "The statement is on record, but how the situation develops remains uncertain." }
       }
     },
     {
       "id": 6,
-      "headline": "Hitler's Austrian birthplace transformed into police station",
-      "summary": "AI summary: Austria has converted Adolf Hitler's birthplace into a police station after a costly renovation, aiming to discourage extremist pilgrimages to the site.",
-      "source": "Dawn News",
-      "timestamp": "Jul 22, 7:11 PM",
-      "sourceUrl": "https://www.dawn.com/news/2017557/hitlers-austrian-birthplace-transformed-into-police-station",
+      "headline": "PM Shehbaz calls for national innovation ecosystem to advance indigenous robotics technology",
+      "summary": "AI summary: PM Shehbaz Sharif announced the Spark and Elevate programme and a $20 million Pakistan Venture Fund to build domestic robotics and autonomous systems capability, part of a push for a national innovation ecosystem.",
+      "source": "Business Recorder",
+      "timestamp": "Jul 22, 6:21 PM",
+      "sourceUrl": "https://www.brecorder.com/news/40431277/pm-shehbaz-calls-for-national-innovation-ecosystem-to-advance-indigenous-robotics-technology",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "A foreign public-works story with no bearing on Pakistan's economy." },
-        "political": { "value": "neutral", "reason": "Concerns Austrian domestic policy, no relevance to Pakistan's governance." },
-        "social": { "value": "neutral", "reason": "Limited direct relevance to Pakistani readers' daily lives." },
-        "market": { "value": "low", "reason": "No connection to markets or business relevant to this app's audience." },
-        "lean": { "value": "balanced", "reason": "A factual international story with no domestic Pakistani political framing." },
-        "confidence": { "value": "medium", "reason": "Content matches standard wire reporting, though original sourcing was not independently cross-checked." }
+        "economic": { "value": "positive", "reason": "A dedicated venture fund and named programme signal direct investment in a growth technology sector." },
+        "political": { "value": "neutral", "reason": "A policy announcement without an evident stability signal either way." },
+        "social": { "value": "neutral", "reason": "Longer-term workforce and innovation effects, no immediate impact on daily life." },
+        "market": { "value": "medium", "reason": "Relevant to the tech and venture investment sector, less so to broader markets today." },
+        "lean": { "value": "balanced", "reason": "Reports a government initiative and funding figures without contrasting political commentary present." },
+        "confidence": { "value": "high", "reason": "The programme name and funding figure are directly attributed to the PM's own announcement." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "10 terrorists killed, two female suicide bombers arrested in Balochistan: ISPR",
+      "summary": "AI summary: ISPR said security forces killed 10 alleged militants and detained two female suicide bombers in operations across two Balochistan districts over 24 hours, describing the group as linked to networks it names Fitna al Hindustan and Fitna al Khwarij.",
+      "source": "Business Recorder",
+      "timestamp": "Jul 22, 3:58 PM",
+      "sourceUrl": "https://www.brecorder.com/news/40431262/10-terrorists-killed-two-female-suicide-bombers-arrested-in-balochistan-ispr",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A security operations report with no direct economic content." },
+        "political": { "value": "neutral", "reason": "Reported as a routine security operation, not framed around domestic political contest." },
+        "social": { "value": "negative", "reason": "Reports of violence and casualties in the region, even framed as a security success, reflect ongoing instability affecting residents." },
+        "market": { "value": "low", "reason": "Limited direct relevance to markets or broader business activity." },
+        "lean": { "value": "balanced", "reason": "Sourced entirely to the military's own public statement, with no opposing account presented in this report." },
+        "confidence": { "value": "medium", "reason": "The account comes from a single official military source with no independent confirmation in this report." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "AI-powered monitoring system: PM launches PMOS to manage complete lifecycle of directives",
+      "summary": "AI summary: PM Shehbaz launched the Prime Minister's Office System, an AI-assisted platform to track government directives from issuance to completion, and directed all federal ministries to move official work onto it as part of a paperless-governance push.",
+      "source": "Business Recorder",
+      "timestamp": "Jul 22, 5:43 AM",
+      "sourceUrl": "https://www.brecorder.com/news/40431190/ai-powered-monitoring-system-pm-launches-pmos-to-manage-complete-lifecycle-of-directives",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "An internal governance tool with no direct market or business provisions." },
+        "political": { "value": "positive", "reason": "A functioning digital oversight system suggests stronger institutional follow-through on directives." },
+        "social": { "value": "neutral", "reason": "Primarily affects internal government operations, limited direct effect on the public day to day." },
+        "market": { "value": "low", "reason": "An internal government IT system with little relevance to markets or investors." },
+        "lean": { "value": "balanced", "reason": "Reports a government system launch and its stated purpose without partisan commentary." },
+        "confidence": { "value": "high", "reason": "The system's name, purpose, and directive are attributed directly to the PM's own launch announcement." }
       }
     }
   ]
