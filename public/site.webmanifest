@@ -1,0 +1,16 @@
+{
+  "name": "Miqyas",
+  "short_name": "Miqyas",
+  "description": "AI-analyzed Dawn News headlines with a six-part impact reading for every story.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#185fa5",
+  "icons": [
+    {
+      "src": "/brand/miqyas.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

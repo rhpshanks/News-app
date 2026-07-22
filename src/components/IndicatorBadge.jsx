@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useEffect, useRef } from "react";
 
 // Section 5.1 — six indicator categories.
 // Economic / political / social carry a positive-neutral-negative judgment, so they get
@@ -62,19 +62,37 @@ function displayValue(type, value) {
   return value.charAt(0).toUpperCase() + value.slice(1);
 }
 
-export default function IndicatorBadge({ type, value, reason, onReport }) {
-  const [open, setOpen] = useState(false);
+export default function IndicatorBadge({ type, value, reason, isOpen, onToggle, onClose, onReport }) {
+  const wrapRef = useRef(null);
   const isTone = type === "economic" || type === "political" || type === "social";
   const isScale = type === "market" || type === "confidence";
   const toneClass = isTone ? TONE_CLASS[value] : "badge--neutralscale";
 
+  useEffect(() => {
+    if (!isOpen) return;
+
+    function handlePointerDown(event) {
+      if (wrapRef.current && !wrapRef.current.contains(event.target)) onClose();
+    }
+    function handleKeyDown(event) {
+      if (event.key === "Escape") onClose();
+    }
+
+    document.addEventListener("mousedown", handlePointerDown);
+    document.addEventListener("keydown", handleKeyDown);
+    return () => {
+      document.removeEventListener("mousedown", handlePointerDown);
+      document.removeEventListener("keydown", handleKeyDown);
+    };
+  }, [isOpen, onClose]);
+
   return (
-    <div className="badge-wrap">
+    <div className="badge-wrap" ref={wrapRef}>
       <button
         type="button"
         className={`badge ${toneClass}`}
-        onClick={() => setOpen((v) => !v)}
-        aria-expanded={open}
+        onClick={() => onToggle(type)}
+        aria-expanded={isOpen}
       >
         {isTone && TONE_ICON[value]}
         {isScale && scaleDots(value)}
@@ -82,14 +100,10 @@ export default function IndicatorBadge({ type, value, reason, onReport }) {
         <span className="badge__value">{displayValue(type, value)}</span>
       </button>
 
-      {open && (
+      {isOpen && (
         <div className="badge__reason" role="note">
           <p>{reason}</p>
-          <button
-            type="button"
-            className="badge__report"
-            onClick={() => onReport?.(type)}
-          >
+          <button type="button" className="badge__report" onClick={() => onReport?.(type)}>
             Report this reading
           </button>
         </div>
