@@ -30,13 +30,11 @@ export default function Header({ theme, onToggleTheme }) {
   return (
     <header className="header">
       <div className="header__row">
-        <div className="header__brand">
-          <img className="header__mark" src="/brand/miqyas.png" alt="Miqyas" />
-          <div>
-            <p className="header__eyebrow">Miqyas</p>
-            <h1 className="header__title">Today&#8217;s headlines</h1>
-          </div>
+        <div>
+          <p className="header__eyebrow">Miqyas</p>
+          <h1 className="header__title">Today&#8217;s headlines</h1>
         </div>
+        <img className="header__mark" src="/brand/miqyas.png" alt="Miqyas" />
         <button
           type="button"
           className="theme-toggle"
