@@ -1,7 +1,7 @@
 // Fallback data only, used if the live feed at /articles.json has not run yet or a
 // fetch fails. The live pipeline is a scheduled task ("news-app-daily-crawl") that
-// fetches Dawn News's RSS feed and writes public/articles.json daily at 6am, see
-// Section 5.2 and 6 of the SOP.
+// fetches Dawn News, Geo News, and Business Recorder's RSS feeds and writes
+// public/articles.json daily at 6am, see Section 5.2 and 6 of the SOP.
 
 export const sampleArticles = [
   {
@@ -9,9 +9,8 @@ export const sampleArticles = [
     headline: "Budget session ends with new tax proposal",
     summary:
       "AI summary: the measure raises revenue but adds cost pressure on small business, lawmakers say implementation details are still being worked out.",
-    source: "Dawn News",
+    sources: [{ name: "Dawn News", url: "https://www.dawn.com/" }],
     timestamp: "Today, 6:00 AM",
-    sourceUrl: "https://www.dawn.com/",
     flaggedForReview: false,
     indicators: {
       economic: { value: "neutral", reason: "Revenue gain is offset by added compliance cost for small firms." },
@@ -27,9 +26,8 @@ export const sampleArticles = [
     headline: "Central bank holds interest rate steady",
     summary:
       "AI summary: the decision favors stability over stimulus, borrowing costs stay unchanged for a third straight quarter.",
-    source: "Dawn News",
+    sources: [{ name: "Dawn News", url: "https://www.dawn.com/" }],
     timestamp: "Today, 6:00 AM",
-    sourceUrl: "https://www.dawn.com/",
     flaggedForReview: false,
     indicators: {
       economic: { value: "positive", reason: "Signals confidence in easing inflation without new stimulus risk." },
@@ -45,9 +43,8 @@ export const sampleArticles = [
     headline: "Opposition lawmakers walk out of parliamentary session",
     summary:
       "AI summary: the walkout stalls a scheduled vote, both sides trade blame over procedure rather than the bill's content.",
-    source: "Dawn News",
+    sources: [{ name: "Dawn News", url: "https://www.dawn.com/" }],
     timestamp: "Today, 6:00 AM",
-    sourceUrl: "https://www.dawn.com/",
     flaggedForReview: true,
     indicators: {
       economic: { value: "neutral", reason: "The stalled bill has no direct economic provisions." },
@@ -63,9 +60,8 @@ export const sampleArticles = [
     headline: "New metro bus route opens connecting twin cities",
     summary:
       "AI summary: the route is expected to cut commute times for tens of thousands of daily riders starting next week.",
-    source: "Dawn News",
+    sources: [{ name: "Dawn News", url: "https://www.dawn.com/" }],
     timestamp: "Today, 6:00 AM",
-    sourceUrl: "https://www.dawn.com/",
     flaggedForReview: false,
     indicators: {
       economic: { value: "positive", reason: "Lower commute costs and time free up household spending." },
@@ -81,9 +77,8 @@ export const sampleArticles = [
     headline: "Currency slips against dollar amid import pressure",
     summary:
       "AI summary: a widening trade gap is cited as the main driver, analysts expect further pressure into next quarter.",
-    source: "Dawn News",
+    sources: [{ name: "Dawn News", url: "https://www.dawn.com/" }],
     timestamp: "Today, 6:00 AM",
-    sourceUrl: "https://www.dawn.com/",
     flaggedForReview: false,
     indicators: {
       economic: { value: "negative", reason: "Weaker currency raises import costs across the economy." },
@@ -99,9 +94,8 @@ export const sampleArticles = [
     headline: "Government launches youth technology scholarship program",
     summary:
       "AI summary: the program funds coding bootcamps for public university students, first cohort begins in the autumn term.",
-    source: "Dawn News",
+    sources: [{ name: "Dawn News", url: "https://www.dawn.com/" }],
     timestamp: "Today, 6:00 AM",
-    sourceUrl: "https://www.dawn.com/",
     flaggedForReview: false,
     indicators: {
       economic: { value: "positive", reason: "Builds a skilled workforce pipeline at limited near-term cost." },

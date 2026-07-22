@@ -112,6 +112,12 @@ function App() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [articles, query, followingOnly, followingSet]);
 
+  const sourceNames = useMemo(() => {
+    const names = new Set();
+    articles.forEach((a) => a.sources.forEach((s) => names.add(s.name)));
+    return [...names];
+  }, [articles]);
+
   const isSearching = query.trim() !== "" || followingOnly;
   const [leadArticle, ...restArticles] = filteredArticles;
   const showLead = !isSearching && leadArticle;
@@ -212,9 +218,10 @@ function App() {
       <footer className="footer">
         {status === "live" ? (
           <p>
-            Source: Dawn News and Business Recorder. Live data, last updated{" "}
+            Sources: {sourceNames.join(", ")}. Live data, last updated{" "}
             {formatGeneratedAt(generatedAt) ?? "recently"}, refreshed daily at 6:00 AM Pakistan Standard
-            Time.
+            Time. Stories covered by more than one outlet are shown as a single card with a link to
+            each.
           </p>
         ) : (
           <p>Source: Dawn News. Sample data shown, the daily live update has not run yet.</p>
