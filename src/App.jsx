@@ -8,8 +8,6 @@ import DigestSignup from "./components/DigestSignup";
 import { sampleArticles } from "./data/articles";
 import "./App.css";
 
-const FREE_UNLOCKED_COUNT = 2; // how many grid articles stay visible in the free-tier preview
-
 function getInitialTheme() {
   const stored = window.localStorage.getItem("theme");
   if (stored === "light" || stored === "dark") return stored;
@@ -49,7 +47,6 @@ function App() {
   const [query, setQuery] = useState("");
   const [topics, setTopics] = useState(() => getStoredList("watchlistTopics"));
   const [followingOnly, setFollowingOnly] = useState(false);
-  const [plan, setPlan] = useState(() => window.localStorage.getItem("previewPlan") || "free");
 
   useEffect(() => {
     document.documentElement.dataset.theme = theme;
@@ -59,10 +56,6 @@ function App() {
   useEffect(() => {
     window.localStorage.setItem("watchlistTopics", JSON.stringify(topics));
   }, [topics]);
-
-  useEffect(() => {
-    window.localStorage.setItem("previewPlan", plan);
-  }, [plan]);
 
   useEffect(() => {
     if (!toast) return;
@@ -139,10 +132,6 @@ function App() {
     setFollowingOnly(false);
   }
 
-  function handleUpgradeClick() {
-    setToast("This is a preview of the paid tier, no real payment is wired up yet.");
-  }
-
   return (
     <div className="page">
       <Header theme={theme} onToggleTheme={() => setTheme((t) => (t === "dark" ? "light" : "dark"))} />
@@ -161,24 +150,6 @@ function App() {
             onChange={(e) => setQuery(e.target.value)}
             aria-label="Search today's headlines"
           />
-        </div>
-
-        <div className="plan-toggle" role="group" aria-label="Preview plan">
-          <span className="plan-toggle__label">Preview as</span>
-          <button
-            type="button"
-            className={plan === "free" ? "plan-toggle__btn plan-toggle__btn--active" : "plan-toggle__btn"}
-            onClick={() => setPlan("free")}
-          >
-            Free
-          </button>
-          <button
-            type="button"
-            className={plan === "paid" ? "plan-toggle__btn plan-toggle__btn--active" : "plan-toggle__btn"}
-            onClick={() => setPlan("paid")}
-          >
-            Paid
-          </button>
         </div>
       </div>
 
@@ -218,26 +189,16 @@ function App() {
               </div>
             )}
 
-            <div className={plan === "free" ? "trends-wrap trends-wrap--locked" : "trends-wrap"}>
+            <div className="trends-wrap">
               <Trends history={history} />
-              {plan === "free" && history.length > 0 && (
-                <div className="trends-wrap__overlay">
-                  <p>Trend history is a paid feature</p>
-                  <button type="button" className="card__unlock" onClick={handleUpgradeClick}>
-                    Upgrade to paid
-                  </button>
-                </div>
-              )}
             </div>
 
             <div className="grid">
-              {gridArticles.map((article, index) => (
+              {gridArticles.map((article) => (
                 <ArticleCard
                   key={article.id}
                   article={article}
                   following={isFollowed(article)}
-                  locked={plan === "free" && index >= FREE_UNLOCKED_COUNT}
-                  onUnlock={handleUpgradeClick}
                   onReport={handleReport}
                 />
               ))}
