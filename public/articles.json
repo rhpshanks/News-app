@@ -1,138 +1,100 @@
 {
-  "generatedAt": "2026-07-23T09:15:00+05:00",
+  "generatedAt": "2026-07-23T10:53:01+05:00",
   "articles": [
     {
       "id": 1,
-      "headline": "Petrol pump owners defer strike call after talks with petroleum minister",
-      "summary": "AI summary: petrol pump owners called off a threatened nationwide strike after the petroleum minister agreed to review dealer margins and pricing within two weeks.",
+      "headline": "Houthis attack Saudi tankers in Red Sea as US strikes Iran for 12th consecutive day",
+      "summary": "AI summary: Yemen's Houthi rebels said they struck two Saudi Arabian oil tankers in the Red Sea with missiles and drones, while the US carried out its 12th consecutive night of strikes on Iran, as regional maritime and military tensions continued to escalate.",
       "sources": [
-        { "name": "Dawn News", "url": "https://www.dawn.com/news/2017561/petrol-pump-owners-defer-strike-call-after-talks-with-petroleum-minister" }
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2017740/houthis-attack-saudi-tankers-in-red-sea-as-us-strikes-iran-for-12th-consecutive-day" }
       ],
-      "timestamp": "Jul 22, 7:56 PM",
+      "timestamp": "Jul 23, 10:32 AM",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "Averts a fuel supply disruption, but the underlying dealer margin dispute is only postponed, not resolved." },
-        "political": { "value": "positive", "reason": "Government defused a supply-chain dispute through negotiation, avoiding public disruption." },
-        "social": { "value": "positive", "reason": "A strike would have disrupted fuel access nationwide, that risk is temporarily removed." },
-        "market": { "value": "medium", "reason": "Relevant to the energy and fuel retail sector, limited broader market impact." },
-        "lean": { "value": "balanced", "reason": "Reports a government minister's negotiation with an industry group, no partisan framing." },
-        "confidence": { "value": "high", "reason": "Clear on-record statements from the minister and the dispute's resolution terms." }
+        "economic": { "value": "negative", "reason": "Red Sea shipping attacks and the prolonged US-Iran conflict threaten oil supply routes and freight/insurance costs, a direct risk to Pakistan's energy imports transiting the region." },
+        "political": { "value": "neutral", "reason": "Reports an external regional conflict with no direct bearing on Pakistani domestic governance stability." },
+        "social": { "value": "negative", "reason": "Escalating regional war raises risk to shipping and energy security and reflects a broader deteriorating security environment." },
+        "market": { "value": "high", "reason": "Red Sea disruption and Iran strikes directly affect oil prices and freight/insurance costs relevant to import-dependent Pakistani businesses." },
+        "lean": { "value": "balanced", "reason": "A foreign conflict report sourced to Saudi, Houthi, UK maritime and US military statements, with no domestic party framing." },
+        "confidence": { "value": "high", "reason": "Corroborated by multiple named sources: Saudi state agency, UKMTO, Vanguard, the Houthi statement and US Centcom." }
       }
     },
     {
       "id": 2,
-      "headline": "S&P Global Ratings upgrades Pakistan's sovereign credit rating to 'B'",
-      "summary": "AI summary: S&P Global raised Pakistan's sovereign credit rating from B- to B, citing rebuilt foreign reserves and progress on IMF-backed reforms.",
+      "headline": "Govt increases petrol price by Rs6.39, diesel by Rs7.83 per litre",
+      "summary": "AI summary: The government raised petrol prices by Rs6.39 and diesel by Rs7.83 per litre effective July 23, citing global price swings from the Iran-US conflict, and moved to daily fuel pricing days after pump owners deferred a strike threat.",
       "sources": [
-        { "name": "Dawn News", "url": "https://www.dawn.com/news/2017530/sampp-global-ratings-upgrades-pakistans-sovereign-credit-rating-to-b" }
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2017573/govt-increases-petrol-price-by-rs639-diesel-by-rs783-per-litre" }
       ],
-      "timestamp": "Jul 22, 7:07 PM",
+      "timestamp": "Jul 23, 9:52 AM",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "positive", "reason": "A credit upgrade lowers borrowing costs and signals an improved fiscal and reserve position." },
-        "political": { "value": "positive", "reason": "Reflects sustained implementation of reform commitments under a stable policy environment." },
-        "social": { "value": "neutral", "reason": "Benefit to households depends on whether macro gains translate into lower prices or wages, not yet visible." },
-        "market": { "value": "high", "reason": "Sovereign rating changes directly move bond yields, equity valuations, and investor sentiment." },
-        "lean": { "value": "balanced", "reason": "Sourced to an independent ratings agency and analysts, not government or opposition messaging." },
-        "confidence": { "value": "high", "reason": "Rating figures and reserve numbers are directly attributable to S&P's own release." }
+        "economic": { "value": "negative", "reason": "Higher fuel costs raise transport and input costs economy-wide, though this reflects pass-through of global prices rather than a policy failure." },
+        "political": { "value": "neutral", "reason": "A routine, mandated pricing adjustment under an existing formula, not itself a stability signal." },
+        "social": { "value": "negative", "reason": "Higher pump prices directly raise the cost of living and transport for the public." },
+        "market": { "value": "medium", "reason": "Relevant to fuel retail, transport and logistics sectors and to energy-import-exposed businesses." },
+        "lean": { "value": "balanced", "reason": "Reports a government pricing mechanism decision with factual figures, no partisan framing." },
+        "confidence": { "value": "high", "reason": "An official Petroleum Division notification with specific figures is cited directly." }
       }
     },
     {
       "id": 3,
-      "headline": "Pakistan condemns Houthi threats against Saudi Arabia and Red Sea shipping",
-      "summary": "AI summary: Pakistan's Foreign Office condemned continued Houthi threats against Saudi Arabia and Red Sea shipping, warning the actions endanger regional stability, violate international law, and that Pakistan would defend its own vessels if targeted.",
+      "headline": "President directs authorities to step up monsoon preparedness as rains batter country",
+      "summary": "AI summary: President Asif Ali Zardari directed federal, provincial and local authorities to intensify flood preparedness and relief efforts as monsoon rains continue, after at least 37 deaths were reported in rain-related incidents.",
       "sources": [
-        { "name": "Dawn News", "url": "https://www.dawn.com/news/2017517/islamabad-condemns-houthis-threats-to-riyadh-warns-against-targeting-pakistani-maritime-interests" },
-        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40431293/pakistan-condemns-houthi-threats-against-saudi-arabia-red-sea-shipping" }
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2017746/president-directs-authorities-to-step-up-monsoon-preparedness-as-rains-batter-country" }
       ],
-      "timestamp": "Jul 22, 9:20 PM",
+      "timestamp": "Jul 23, 10:31 AM",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "No direct economic measure announced, though Red Sea shipping risk is an underlying concern for freight and oil costs." },
-        "political": { "value": "neutral", "reason": "A routine foreign policy statement invoking an existing defence agreement, no domestic political shift." },
-        "social": { "value": "neutral", "reason": "No immediate effect on the public beyond general regional security awareness." },
-        "market": { "value": "medium", "reason": "Red Sea shipping and trade route risk touches freight and oil costs relevant to importers." },
-        "lean": { "value": "balanced", "reason": "Sourced to the Foreign Office's own statement on international law, not domestic party politics." },
-        "confidence": { "value": "high", "reason": "Reported consistently across multiple independent outlets with matching details, which strengthens confidence in the account." }
+        "economic": { "value": "negative", "reason": "Flooding damages infrastructure, homes and crops, disrupting economic activity in affected areas." },
+        "political": { "value": "neutral", "reason": "A routine disaster-coordination directive, not itself a partisan or stability signal." },
+        "social": { "value": "negative", "reason": "Deaths, displacement and flood risk directly harm public safety and wellbeing." },
+        "market": { "value": "low", "reason": "Primarily a domestic disaster-response matter with limited direct relevance to investors." },
+        "lean": { "value": "balanced", "reason": "Reports the president's official directive and disaster statistics without partisan framing." },
+        "confidence": { "value": "high", "reason": "Directly quotes the President's Secretariat statement and cites a specific death toll figure." }
       }
     },
     {
       "id": 4,
-      "headline": "PPP chairman calls upcoming AJK elections 'most significant' in history",
-      "summary": "AI summary: PPP chairman Bilawal Bhutto Zardari called the upcoming AJK elections historically significant at a campaign rally, the report carries only his statements with no opposing response included.",
+      "headline": "US announces civilian nuclear deal with Saudi Arabia, says it includes non-proliferation safeguards",
+      "summary": "AI summary: The US and Saudi Arabia signed civilian nuclear cooperation and safeguards agreements that Washington says include non-proliferation protections, in a deal reported to potentially let US firms help build a Saudi uranium enrichment facility, drawing US and Israeli non-proliferation concerns.",
       "sources": [
-        { "name": "Dawn News", "url": "https://www.dawn.com/news/2017539/ppp-chairman-calls-upcoming-ajk-elections-most-significant-in-history" }
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2017738/us-announces-civilian-nuclear-deal-with-saudi-arabia-says-it-includes-non-proliferation-safeguards" }
       ],
-      "timestamp": "Jul 22, 6:04 PM",
+      "timestamp": "Jul 23, 8:20 AM",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "A campaign speech with no concrete economic policy details beyond general employment promises." },
-        "political": { "value": "neutral", "reason": "Routine campaign rhetoric ahead of a scheduled election, no stability signal either way." },
-        "social": { "value": "neutral", "reason": "No immediate effect on daily life, addresses future governance promises only." },
-        "market": { "value": "low", "reason": "Regional campaign rhetoric carries little direct relevance for investors or markets." },
-        "lean": { "value": "balanced", "reason": "The report is sourced only to the speaker with no rival response, but the current government or opposition alignment is not asserted with confidence here." },
-        "confidence": { "value": "low", "reason": "One-sided sourcing makes the framing harder to judge fairly, and today's exact government or opposition lineup is not confidently known." }
+        "economic": { "value": "neutral", "reason": "A foreign bilateral deal with no direct Pakistani economic provisions, though it signals continued Gulf energy and security investment relevant to regional partners." },
+        "political": { "value": "neutral", "reason": "A US-Saudi diplomatic and energy agreement with no direct bearing on Pakistani governance." },
+        "social": { "value": "neutral", "reason": "No direct or immediate effect on the Pakistani public." },
+        "market": { "value": "low", "reason": "A foreign nuclear-energy deal with limited direct relevance to Pakistani markets beyond general Gulf-region monitoring." },
+        "lean": { "value": "balanced", "reason": "Reports competing US, Saudi, congressional and Israeli perspectives without any domestic Pakistani party framing." },
+        "confidence": { "value": "medium", "reason": "A key detail, the uranium enrichment provision, is attributed only to a Wall Street Journal report the US Energy Department would not confirm." }
       }
     },
     {
       "id": 5,
-      "headline": "PM Shehbaz calls for national innovation ecosystem to advance indigenous robotics technology",
-      "summary": "AI summary: PM Shehbaz Sharif announced the Spark and Elevate programme and a $20 million Pakistan Venture Fund to build domestic robotics and autonomous systems capability, part of a push for a national innovation ecosystem.",
+      "headline": "Pakistan, Egypt reaffirm support for de-escalation amid Middle East tensions",
+      "summary": "AI summary: Deputy PM and Foreign Minister Ishaq Dar and Egypt's foreign minister, meeting on the sidelines of the ASEAN Regional Forum in Manila, called for dialogue and de-escalation in the Middle East and agreed to deepen bilateral trade and investment cooperation.",
       "sources": [
-        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40431277/pm-shehbaz-calls-for-national-innovation-ecosystem-to-advance-indigenous-robotics-technology" }
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/674325-pakistan-egypt-reaffirm-support-for-de-escalation-amid-middle-east-tensions" }
       ],
-      "timestamp": "Jul 22, 6:21 PM",
+      "timestamp": "Jul 23, 1:18 AM",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "positive", "reason": "A dedicated venture fund and named programme signal direct investment in a growth technology sector." },
-        "political": { "value": "neutral", "reason": "A policy announcement without an evident stability signal either way." },
-        "social": { "value": "neutral", "reason": "Longer-term workforce and innovation effects, no immediate impact on daily life." },
-        "market": { "value": "medium", "reason": "Relevant to the tech and venture investment sector, less so to broader markets today." },
-        "lean": { "value": "balanced", "reason": "Reports a government initiative and funding figures without contrasting political commentary present." },
-        "confidence": { "value": "high", "reason": "The programme name and funding figure are directly attributed to the PM's own announcement." }
+        "economic": { "value": "neutral", "reason": "Discussions on expanding trade and investment cooperation are general in nature with no concrete commitments announced." },
+        "political": { "value": "positive", "reason": "Active diplomatic engagement on regional de-escalation reflects stable, functioning conduct of foreign policy." },
+        "social": { "value": "neutral", "reason": "No direct or immediate effect on the Pakistani public." },
+        "market": { "value": "low", "reason": "Diplomatic dialogue with no immediate business or investment terms attached." },
+        "lean": { "value": "balanced", "reason": "A joint government-to-government readout with no domestic party framing." },
+        "confidence": { "value": "high", "reason": "The meeting and statements are directly attributed to an official Deputy Prime Minister's Office statement." }
       }
     },
     {
       "id": 6,
-      "headline": "10 terrorists killed, two female suicide bombers arrested in Balochistan operations",
-      "summary": "AI summary: ISPR said security forces killed 10 alleged militants and detained two female suicide bombers in operations across Balochistan's Surab and Mastung districts over 24 hours, describing the group as linked to networks it names Fitna al Hindustan and Fitna al Khwarij.",
-      "sources": [
-        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40431262/10-terrorists-killed-two-female-suicide-bombers-arrested-in-balochistan-ispr" },
-        { "name": "Geo News", "url": "https://www.geo.tv/latest/674240-security-forces-kill-10-terrorists-arrest-two-female-suicide-bombers-in-balochistan-ibos" }
-      ],
-      "timestamp": "Jul 22, 3:58 PM",
-      "flaggedForReview": false,
-      "indicators": {
-        "economic": { "value": "neutral", "reason": "A security operations report with no direct economic content." },
-        "political": { "value": "neutral", "reason": "Reported as a routine security operation, not framed around domestic political contest." },
-        "social": { "value": "negative", "reason": "Reports of violence and casualties in the region, even framed as a security success, reflect ongoing instability affecting residents." },
-        "market": { "value": "low", "reason": "Limited direct relevance to markets or broader business activity." },
-        "lean": { "value": "balanced", "reason": "Sourced entirely to the military's own public statement, with no opposing account presented in either report." },
-        "confidence": { "value": "medium", "reason": "The account is corroborated across two outlets but still traces back to a single official military source with no independent confirmation." }
-      }
-    },
-    {
-      "id": 7,
-      "headline": "AI-powered monitoring system: PM launches PMOS to manage complete lifecycle of directives",
-      "summary": "AI summary: PM Shehbaz launched the Prime Minister's Office System, an AI-assisted platform to track government directives from issuance to completion, and directed all federal ministries to move official work onto it as part of a paperless-governance push.",
-      "sources": [
-        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40431190/ai-powered-monitoring-system-pm-launches-pmos-to-manage-complete-lifecycle-of-directives" }
-      ],
-      "timestamp": "Jul 22, 5:43 AM",
-      "flaggedForReview": false,
-      "indicators": {
-        "economic": { "value": "neutral", "reason": "An internal governance tool with no direct market or business provisions." },
-        "political": { "value": "positive", "reason": "A functioning digital oversight system suggests stronger institutional follow-through on directives." },
-        "social": { "value": "neutral", "reason": "Primarily affects internal government operations, limited direct effect on the public day to day." },
-        "market": { "value": "low", "reason": "An internal government IT system with little relevance to markets or investors." },
-        "lean": { "value": "balanced", "reason": "Reports a government system launch and its stated purpose without partisan commentary." },
-        "confidence": { "value": "high", "reason": "The system's name, purpose, and directive are attributed directly to the PM's own launch announcement." }
-      }
-    },
-    {
-      "id": 8,
       "headline": "Pakistan, Iran reaffirm commitment to stronger security, border cooperation",
-      "summary": "AI summary: Pakistan and Iran's interior ministers agreed to deepen counterterrorism, counternarcotics, and border security cooperation during a three-day visit by Iran's minister to Islamabad.",
+      "summary": "AI summary: Federal Interior Minister Mohsin Naqvi and visiting Iranian Interior Minister Eskandar Momeni agreed to deepen cooperation on counterterrorism, counternarcotics, and curbing illegal immigration and human smuggling along the shared border.",
       "sources": [
         { "name": "Geo News", "url": "https://www.geo.tv/latest/674295-pakistan-iran-reaffirm-commitment-to-stronger-security-border-cooperation" }
       ],
@@ -140,35 +102,35 @@
       "flaggedForReview": false,
       "indicators": {
         "economic": { "value": "neutral", "reason": "A security cooperation agreement with no direct trade or fiscal provisions." },
-        "political": { "value": "positive", "reason": "Strengthened bilateral coordination signals stable, improving diplomatic ties with a neighboring state." },
+        "political": { "value": "positive", "reason": "Strengthened bilateral security coordination signals stable, improving diplomatic ties with a neighboring state." },
         "social": { "value": "neutral", "reason": "Border security gains take time to reach the public, no immediate daily-life effect." },
         "market": { "value": "low", "reason": "Limited direct relevance to investors or business activity." },
-        "lean": { "value": "balanced", "reason": "A joint government-to-government statement, no domestic party framing present." },
-        "confidence": { "value": "high", "reason": "Both ministers' commitments are directly quoted and dated." }
+        "lean": { "value": "balanced", "reason": "A joint ministerial statement on security cooperation, no domestic party framing present." },
+        "confidence": { "value": "high", "reason": "Both ministers' agreed cooperation areas and quotes are directly attributed and specific." }
       }
     },
     {
-      "id": 9,
+      "id": 7,
       "headline": "UK minister faces criticism from British-Pakistanis over Rochdale rapist deportation stance",
-      "summary": "AI summary: UK Home Secretary Shabana Mahmood is moving to deport a Rochdale grooming gang ringleader to Pakistan and has threatened visa sanctions and aid cuts if Pakistan refuses, drawing criticism from British-Pakistanis who argue Britain should retain responsibility for the case.",
+      "summary": "AI summary: British Home Secretary Shabana Mahmood is pushing to deport Rochdale grooming-gang ringleader Shabir Ahmed to Pakistan after his release, but Pakistan says he renounced his citizenship, and British-Pakistani community figures are divided, with some warning of damage to bilateral ties and others rejecting the deportation demand as unfair.",
       "sources": [
         { "name": "Geo News", "url": "https://www.geo.tv/latest/674294-uk-minister-faces-criticism-from-british-pakistanis-over-rochdale-rapist-deportation-stance" }
       ],
       "timestamp": "Jul 22, 9:48 PM",
       "flaggedForReview": true,
       "indicators": {
-        "economic": { "value": "negative", "reason": "Threatened visa sanctions and aid cuts would directly harm trade, remittances, and diplomatic economic ties if carried out." },
-        "political": { "value": "negative", "reason": "A foreign government's sanction threat over a citizenship dispute strains diplomatic relations with the UK." },
-        "social": { "value": "neutral", "reason": "Primarily a diplomatic and legal dispute, no immediate direct effect on the Pakistani public day to day." },
+        "economic": { "value": "negative", "reason": "A UK peer warned Pakistan's refusal could affect UK development assistance, a tangible economic risk if relations sour further." },
+        "political": { "value": "negative", "reason": "An unresolved diplomatic standoff with the UK over a rejected deportation strains bilateral relations." },
+        "social": { "value": "neutral", "reason": "Primarily a diplomatic and legal dispute; direct effects on the Pakistani public are limited so far." },
         "market": { "value": "low", "reason": "Limited direct market relevance despite the diplomatic friction." },
-        "lean": { "value": "balanced", "reason": "The report presents both the UK minister's position and British-Pakistani critics' objections." },
-        "confidence": { "value": "medium", "reason": "The dispute is ongoing and its outcome, including whether sanctions are actually imposed, is not yet resolved." }
+        "lean": { "value": "balanced", "reason": "The report presents multiple, opposing British-Pakistani voices on both sides of the issue." },
+        "confidence": { "value": "medium", "reason": "The dispute is still unresolved and its outcome, including whether sanctions or deportation proceed, is not yet known." }
       }
     },
     {
-      "id": 10,
-      "headline": "PML-N seeking constitutional amendment, wants to make Nawaz Sharif AJK premier: Bilawal",
-      "summary": "AI summary: PPP's Bilawal Bhutto-Zardari alleged PML-N wants a constitutional amendment letting the prime minister appoint Nawaz Sharif as AJK premier, the report includes no response from PML-N or the government.",
+      "id": 8,
+      "headline": "PML-N seeking constitutional amendment, wants to make Nawaz AJK premier: Bilawal",
+      "summary": "AI summary: PPP chairman Bilawal Bhutto-Zardari, at an AJK election rally, alleged federal coalition partner PML-N wants to amend the constitution so the prime minister can appoint Nawaz Sharif as AJK premier, a claim made a day after Nawaz jokingly floated the same idea; PML-N has not responded.",
       "sources": [
         { "name": "Geo News", "url": "https://www.geo.tv/latest/674270-pml-n-seeking-constitutional-amendment-wants-to-make-nawaz-sharif-ajk-premier-bilawal" }
       ],
@@ -176,11 +138,83 @@
       "flaggedForReview": true,
       "indicators": {
         "economic": { "value": "neutral", "reason": "A constitutional and political allegation with no economic provisions." },
-        "political": { "value": "negative", "reason": "An unrebutted allegation of a major constitutional power shift signals real institutional contention between parties." },
-        "social": { "value": "neutral", "reason": "No immediate effect on daily life, a dispute over future governance structure." },
+        "political": { "value": "negative", "reason": "A public dispute between federal coalition partners over a proposed constitutional change for a specific individual's benefit signals real friction within the ruling coalition." },
+        "social": { "value": "neutral", "reason": "No immediate effect on daily life, a dispute over AJK's future governance structure." },
         "market": { "value": "low", "reason": "Limited direct relevance to markets or investors at this stage." },
-        "lean": { "value": "balanced", "reason": "The report carries only PPP's allegation with no PML-N response, but which party currently holds government versus opposition is not asserted with confidence here." },
-        "confidence": { "value": "low", "reason": "One-sided sourcing and an unresolved, unrebutted allegation make this hard to judge fairly." }
+        "lean": { "value": "balanced", "reason": "PPP is itself a coalition partner in the federal government alongside PML-N, so this reads as an intra-coalition dispute rather than a government-versus-opposition attack; PML-N has not responded." },
+        "confidence": { "value": "medium", "reason": "The coalition context is clear, but the claim itself is one-sided with no PML-N rebuttal included." }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "Curfew imposed in Mastung’s Khud Kocha",
+      "summary": "AI summary: Balochistan authorities imposed an indefinite curfew in Mastung's Khud Kocha after a gun attack killed three people and injured five on a Karachi-bound bus and a bridge on the National Highway was damaged in an explosion, days after security forces reported killing 10 militants in the same districts.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40431355/curfew-imposed-in-mastungs-khud-kocha" }
+      ],
+      "timestamp": "Jul 23, 5:26 AM",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Damage to a National Highway bridge and an indefinite curfew disrupt a key transport route and local commerce." },
+        "political": { "value": "neutral", "reason": "A provincial security and law-and-order response, not framed around domestic political contest." },
+        "social": { "value": "negative", "reason": "Civilian deaths, injuries and a curfew confining residents directly harm public safety and daily life." },
+        "market": { "value": "low", "reason": "A localized security incident with limited direct relevance to broader markets." },
+        "lean": { "value": "balanced", "reason": "Sourced to the Balochistan Home Department's official statement, no partisan framing." },
+        "confidence": { "value": "high", "reason": "Specific casualty figures and the curfew order are directly attributed to the Home Department spokesperson." }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "Balochistan IBOs: 10 terrorists killed, two female suicide bombers held",
+      "summary": "AI summary: ISPR said security forces killed 10 alleged militants and arrested two female suicide bombers and a facilitator during intelligence-based operations in Surab and Mastung, part of what it calls the Azm-e-Istehkam campaign against India-linked networks it names Fitna al Hindustan and Fitna al Khwarij.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40431351/balochistan-ibos-10-terrorists-killed-two-female-suicide-bombers-held" }
+      ],
+      "timestamp": "Jul 23, 5:26 AM",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A security operations report with no direct economic content." },
+        "political": { "value": "neutral", "reason": "Reported as a routine counterterrorism operation, not framed around domestic political contest." },
+        "social": { "value": "negative", "reason": "Continued militant violence and security operations in the region reflect ongoing instability affecting residents, even when framed as a security success." },
+        "market": { "value": "low", "reason": "Limited direct relevance to markets or broader business activity." },
+        "lean": { "value": "balanced", "reason": "Sourced entirely to the military's own public statement, with no opposing account presented." },
+        "confidence": { "value": "medium", "reason": "The account rests on a single official military source (ISPR) with no independent corroboration in this report." }
+      }
+    },
+    {
+      "id": 11,
+      "headline": "8 PPP, 4 IPP ministers inducted into GB cabinet",
+      "summary": "AI summary: Gilgit-Baltistan's governor approved a 12-member provincial cabinet, eight ministers from the PPP and four from the Istehkam-e-Pakistan Party, completing the region's new administration though portfolios have not yet been assigned.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40431380/8-ppp-4-ipp-ministers-inducted-into-gb-cabinet" }
+      ],
+      "timestamp": "Jul 23, 5:26 AM",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A cabinet formation announcement with no immediate economic policy content." },
+        "political": { "value": "positive", "reason": "Completing the provincial cabinet formation reflects normal institutional process and the new administration becoming functional." },
+        "social": { "value": "neutral", "reason": "Limited direct or immediate effect on the public's daily life." },
+        "market": { "value": "low", "reason": "A regional administrative appointment with little relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "A factual notification of cabinet composition, no partisan commentary." },
+        "confidence": { "value": "high", "reason": "The cabinet's party breakdown and named ministers are directly attributed to an official notification." }
+      }
+    },
+    {
+      "id": 12,
+      "headline": "Salaries payment, dues of ex-Pak PWD employees: Senate body concerned over delays",
+      "summary": "AI summary: A Senate standing committee voiced concern that thousands of former Pakistan Public Works Department employees adjusted into other ministries still haven't received due salaries and arrears, and directed officials to clear the backlog without further delay.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40431367/salaries-payment-dues-of-ex-pak-pwd-employees-senate-body-concerned-over-delays" }
+      ],
+      "timestamp": "Jul 23, 5:26 AM",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Unpaid salaries and arrears directly harm the affected employees' household finances." },
+        "political": { "value": "neutral", "reason": "A routine parliamentary oversight committee proceeding, not itself a stability signal." },
+        "social": { "value": "negative", "reason": "Thousands of employees and their families are affected by prolonged non-payment of wages." },
+        "market": { "value": "low", "reason": "An internal administrative and personnel matter with little relevance to broader markets." },
+        "lean": { "value": "balanced", "reason": "Reports a parliamentary committee's oversight of an administrative delay, no partisan framing." },
+        "confidence": { "value": "high", "reason": "Specific employee and case counts are directly attributed to ministry officials' testimony to the committee." }
       }
     }
   ]
