@@ -220,8 +220,7 @@ function App() {
           <p>
             Sources: {sourceNames.join(", ")}. Live data, last updated{" "}
             {formatGeneratedAt(generatedAt) ?? "recently"}, refreshed daily at 6:00 AM Pakistan Standard
-            Time. Stories covered by more than one outlet are shown as a single card with a link to
-            each.
+            Time.
           </p>
         ) : (
           <p>Source: Dawn News. Sample data shown, the daily live update has not run yet.</p>
