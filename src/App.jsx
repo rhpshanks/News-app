@@ -1,4 +1,5 @@
 import { useEffect, useMemo, useState } from "react";
+import { Analytics } from "@vercel/analytics/react";
 import Header from "./components/Header";
 import ArticleCard from "./components/ArticleCard";
 import SkeletonCard from "./components/SkeletonCard";
@@ -232,6 +233,8 @@ function App() {
           {toast}
         </div>
       )}
+
+      <Analytics />
     </div>
   );
 }
