@@ -15,6 +15,17 @@ function getInitialTheme() {
   return window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
 }
 
+function sortByNewest(articles) {
+  return [...articles].sort((a, b) => {
+    const aTime = a.publishedAt ? new Date(a.publishedAt).getTime() : NaN;
+    const bTime = b.publishedAt ? new Date(b.publishedAt).getTime() : NaN;
+    if (Number.isNaN(aTime) && Number.isNaN(bTime)) return 0;
+    if (Number.isNaN(aTime)) return 1;
+    if (Number.isNaN(bTime)) return -1;
+    return bTime - aTime;
+  });
+}
+
 function getStoredList(key) {
   try {
     const raw = window.localStorage.getItem(key);
@@ -77,18 +88,18 @@ function App() {
       .then(([articlesData, historyData]) => {
         if (cancelled) return;
         if (Array.isArray(articlesData.articles) && articlesData.articles.length > 0) {
-          setArticles(articlesData.articles);
+          setArticles(sortByNewest(articlesData.articles));
           setStatus("live");
           setGeneratedAt(articlesData.generatedAt ?? null);
           setHistory(Array.isArray(historyData) ? historyData : []);
         } else {
-          setArticles(sampleArticles);
+          setArticles(sortByNewest(sampleArticles));
           setStatus("fallback");
         }
       })
       .catch(() => {
         if (cancelled) return;
-        setArticles(sampleArticles);
+        setArticles(sortByNewest(sampleArticles));
         setStatus("fallback");
       });
     return () => {

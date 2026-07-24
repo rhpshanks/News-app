@@ -9,6 +9,7 @@
         { "name": "Dawn News", "url": "https://www.dawn.com/news/2017941/us-unveils-new-tariffs-on-60-trade-partners-including-pakistan-over-forced-labour-concerns" }
       ],
       "timestamp": "Jul 24, 9:50 AM",
+      "publishedAt": "2026-07-24T09:50:01+05:00",
       "flaggedForReview": false,
       "indicators": {
         "economic": { "value": "negative", "reason": "New US tariffs raise costs for Pakistani exporters and add trade friction, even at the lowest assigned tier." },
@@ -27,6 +28,7 @@
         { "name": "Dawn News", "url": "https://www.dawn.com/news/2017857/petrol-price-up-by-rs440-diesel-by-rs362-per-litre" }
       ],
       "timestamp": "Jul 24, 7:00 AM",
+      "publishedAt": "2026-07-24T07:00:35+05:00",
       "flaggedForReview": false,
       "indicators": {
         "economic": { "value": "negative", "reason": "Higher fuel prices raise transport and input costs across the economy, though this tracks global price pass-through under an existing formula." },
@@ -45,6 +47,7 @@
         { "name": "Dawn News", "url": "https://www.dawn.com/news/2017926/pakistan-warns-houthi-rebels-to-steer-clear-of-its-ships" }
       ],
       "timestamp": "Jul 24, 7:24 AM",
+      "publishedAt": "2026-07-24T07:24:59+05:00",
       "flaggedForReview": false,
       "indicators": {
         "economic": { "value": "neutral", "reason": "No direct economic measure, though shipping security risk remains an underlying concern for trade routes." },
@@ -63,6 +66,7 @@
         { "name": "Dawn News", "url": "https://www.dawn.com/news/2018009/unacceptable-pakistan-7-other-countries-condemn-israeli-minister-ben-gvirs-al-aqsa-incursion" }
       ],
       "timestamp": "Jul 24, 10:30 AM",
+      "publishedAt": "2026-07-24T10:30:01+05:00",
       "flaggedForReview": false,
       "indicators": {
         "economic": { "value": "neutral", "reason": "A diplomatic condemnation with no direct economic provisions for Pakistan." },
@@ -82,6 +86,7 @@
         { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40431561/cdf-vows-to-dismantle-terrorist-infrastructure" }
       ],
       "timestamp": "Jul 23, 8:17 PM",
+      "publishedAt": "2026-07-23T20:17:00+05:00",
       "flaggedForReview": false,
       "indicators": {
         "economic": { "value": "neutral", "reason": "A military commitment statement with no direct economic provisions, though it touches on the province's development framing." },
@@ -100,6 +105,7 @@
         { "name": "Geo News", "url": "https://www.geo.tv/latest/674441-pdma-issues-province-wide-alert-as-rain-thunderstorms-forecast-across-sindh" }
       ],
       "timestamp": "Jul 23, 9:29 PM",
+      "publishedAt": "2026-07-23T21:29:00+05:00",
       "flaggedForReview": false,
       "indicators": {
         "economic": { "value": "negative", "reason": "Severe weather risk to infrastructure and travel disruption can affect commerce in affected districts." },
@@ -118,6 +124,7 @@
         { "name": "Geo News", "url": "https://www.geo.tv/latest/674428-mobile-internet-services-begin-restoring-in-ajks-mirpur-after-45-day-suspension" }
       ],
       "timestamp": "Jul 23, 6:39 PM",
+      "publishedAt": "2026-07-23T18:39:00+05:00",
       "flaggedForReview": false,
       "indicators": {
         "economic": { "value": "positive", "reason": "Restored connectivity removes a real constraint on local commerce and communication ahead of a business-relevant election period." },
@@ -136,6 +143,7 @@
         { "name": "Geo News", "url": "https://www.geo.tv/latest/674414-pakistan-urges-amnesty-global-community-to-scrutinise-afghan-talibans-terror-patronage" }
       ],
       "timestamp": "Jul 23, 5:13 PM",
+      "publishedAt": "2026-07-23T17:13:25+05:00",
       "flaggedForReview": false,
       "indicators": {
         "economic": { "value": "neutral", "reason": "A diplomatic and security dispute with no direct economic provisions." },
@@ -154,6 +162,7 @@
         { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40431517/senate-panel-told-govt-unaware-of-indias-chenab-water-release" }
       ],
       "timestamp": "Jul 24, 5:06 AM",
+      "publishedAt": "2026-07-24T05:06:38+05:00",
       "flaggedForReview": false,
       "indicators": {
         "economic": { "value": "neutral", "reason": "A water-management briefing with no direct economic measure announced." },
@@ -172,6 +181,7 @@
         { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40431519/newspaper-columnist-senate-panel-orders-nccia-to-refer-complaint-to-pcp" }
       ],
       "timestamp": "Jul 24, 5:06 AM",
+      "publishedAt": "2026-07-24T05:06:39+05:00",
       "flaggedForReview": false,
       "indicators": {
         "economic": { "value": "neutral", "reason": "A press-regulation procedural matter with no economic provisions." },
@@ -190,6 +200,7 @@
         { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40431567/benefits-under-armed-forces-law-fcc-sets-aside-shc-order-in-ogdcl-employees-case" }
       ],
       "timestamp": "Jul 24, 6:15 AM",
+      "publishedAt": "2026-07-24T06:15:05+05:00",
       "flaggedForReview": false,
       "indicators": {
         "economic": { "value": "neutral", "reason": "A specific employment-benefits legal ruling with no broader economic provisions." },

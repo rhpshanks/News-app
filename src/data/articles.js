@@ -11,6 +11,7 @@ export const sampleArticles = [
       "AI summary: the measure raises revenue but adds cost pressure on small business, lawmakers say implementation details are still being worked out.",
     sources: [{ name: "Dawn News", url: "https://www.dawn.com/" }],
     timestamp: "Today, 6:00 AM",
+    publishedAt: "2026-01-01T06:00:00+05:00",
     flaggedForReview: false,
     indicators: {
       economic: { value: "neutral", reason: "Revenue gain is offset by added compliance cost for small firms." },
@@ -28,6 +29,7 @@ export const sampleArticles = [
       "AI summary: the decision favors stability over stimulus, borrowing costs stay unchanged for a third straight quarter.",
     sources: [{ name: "Dawn News", url: "https://www.dawn.com/" }],
     timestamp: "Today, 6:00 AM",
+    publishedAt: "2026-01-01T05:00:00+05:00",
     flaggedForReview: false,
     indicators: {
       economic: { value: "positive", reason: "Signals confidence in easing inflation without new stimulus risk." },
@@ -45,6 +47,7 @@ export const sampleArticles = [
       "AI summary: the walkout stalls a scheduled vote, both sides trade blame over procedure rather than the bill's content.",
     sources: [{ name: "Dawn News", url: "https://www.dawn.com/" }],
     timestamp: "Today, 6:00 AM",
+    publishedAt: "2026-01-01T04:00:00+05:00",
     flaggedForReview: true,
     indicators: {
       economic: { value: "neutral", reason: "The stalled bill has no direct economic provisions." },
@@ -62,6 +65,7 @@ export const sampleArticles = [
       "AI summary: the route is expected to cut commute times for tens of thousands of daily riders starting next week.",
     sources: [{ name: "Dawn News", url: "https://www.dawn.com/" }],
     timestamp: "Today, 6:00 AM",
+    publishedAt: "2026-01-01T03:00:00+05:00",
     flaggedForReview: false,
     indicators: {
       economic: { value: "positive", reason: "Lower commute costs and time free up household spending." },
@@ -79,6 +83,7 @@ export const sampleArticles = [
       "AI summary: a widening trade gap is cited as the main driver, analysts expect further pressure into next quarter.",
     sources: [{ name: "Dawn News", url: "https://www.dawn.com/" }],
     timestamp: "Today, 6:00 AM",
+    publishedAt: "2026-01-01T02:00:00+05:00",
     flaggedForReview: false,
     indicators: {
       economic: { value: "negative", reason: "Weaker currency raises import costs across the economy." },
@@ -96,6 +101,7 @@ export const sampleArticles = [
       "AI summary: the program funds coding bootcamps for public university students, first cohort begins in the autumn term.",
     sources: [{ name: "Dawn News", url: "https://www.dawn.com/" }],
     timestamp: "Today, 6:00 AM",
+    publishedAt: "2026-01-01T01:00:00+05:00",
     flaggedForReview: false,
     indicators: {
       economic: { value: "positive", reason: "Builds a skilled workforce pipeline at limited near-term cost." },
