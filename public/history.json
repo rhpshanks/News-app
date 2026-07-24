@@ -16,5 +16,14 @@
       "political": { "positive": 3, "neutral": 7, "negative": 2 },
       "social": { "positive": 0, "neutral": 6, "negative": 6 }
     }
+  },
+  {
+    "date": "2026-07-24",
+    "articleCount": 11,
+    "counts": {
+      "economic": { "positive": 1, "neutral": 7, "negative": 3 },
+      "political": { "positive": 2, "neutral": 9, "negative": 0 },
+      "social": { "positive": 1, "neutral": 6, "negative": 4 }
+    }
   }
 ]
