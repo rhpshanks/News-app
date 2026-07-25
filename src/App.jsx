@@ -1,4 +1,5 @@
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
+import { useWindowVirtualizer } from "@tanstack/react-virtual";
 import { Analytics } from "@vercel/analytics/react";
 import Header from "./components/Header";
 import ArticleCard from "./components/ArticleCard";
@@ -6,24 +7,15 @@ import SkeletonCard from "./components/SkeletonCard";
 import Trends from "./components/Trends";
 import Watchlist from "./components/Watchlist";
 import DigestSignup from "./components/DigestSignup";
-import { sampleArticles } from "./data/articles";
+import { useArticleArchive } from "./hooks/useArticleArchive";
 import "./App.css";
+
+const AUTO_EXPAND_LIMIT = 14; // how many extra days a live search will auto-load looking for a match
 
 function getInitialTheme() {
   const stored = window.localStorage.getItem("theme");
   if (stored === "light" || stored === "dark") return stored;
   return window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
-}
-
-function sortByNewest(articles) {
-  return [...articles].sort((a, b) => {
-    const aTime = a.publishedAt ? new Date(a.publishedAt).getTime() : NaN;
-    const bTime = b.publishedAt ? new Date(b.publishedAt).getTime() : NaN;
-    if (Number.isNaN(aTime) && Number.isNaN(bTime)) return 0;
-    if (Number.isNaN(aTime)) return 1;
-    if (Number.isNaN(bTime)) return -1;
-    return bTime - aTime;
-  });
 }
 
 function getStoredList(key) {
@@ -52,13 +44,22 @@ function formatGeneratedAt(iso) {
 function App() {
   const [theme, setTheme] = useState(getInitialTheme);
   const [toast, setToast] = useState(null);
-  const [status, setStatus] = useState("loading"); // loading | live | fallback
-  const [articles, setArticles] = useState([]);
-  const [history, setHistory] = useState([]);
-  const [generatedAt, setGeneratedAt] = useState(null);
   const [query, setQuery] = useState("");
   const [topics, setTopics] = useState(() => getStoredList("watchlistTopics"));
   const [followingOnly, setFollowingOnly] = useState(false);
+  const [autoExpandCount, setAutoExpandCount] = useState(0);
+
+  const {
+    status,
+    articles,
+    history,
+    generatedAt,
+    loadMore,
+    loadingMore,
+    allDaysLoaded,
+    daysLoadedCount,
+    totalDaysAvailable,
+  } = useArticleArchive();
 
   useEffect(() => {
     document.documentElement.dataset.theme = theme;
@@ -74,38 +75,6 @@ function App() {
     const id = setTimeout(() => setToast(null), 2600);
     return () => clearTimeout(id);
   }, [toast]);
-
-  useEffect(() => {
-    let cancelled = false;
-    // public/articles.json and public/history.json are written daily at 6am by the
-    // "news-app-daily-crawl" scheduled task. Cache-bust so a stale browser cache
-    // never masks a new run.
-    const bust = Date.now();
-    Promise.all([
-      fetch(`/articles.json?t=${bust}`).then((res) => (res.ok ? res.json() : Promise.reject(res.status))),
-      fetch(`/history.json?t=${bust}`).then((res) => (res.ok ? res.json() : [])).catch(() => []),
-    ])
-      .then(([articlesData, historyData]) => {
-        if (cancelled) return;
-        if (Array.isArray(articlesData.articles) && articlesData.articles.length > 0) {
-          setArticles(sortByNewest(articlesData.articles));
-          setStatus("live");
-          setGeneratedAt(articlesData.generatedAt ?? null);
-          setHistory(Array.isArray(historyData) ? historyData : []);
-        } else {
-          setArticles(sortByNewest(sampleArticles));
-          setStatus("fallback");
-        }
-      })
-      .catch(() => {
-        if (cancelled) return;
-        setArticles(sortByNewest(sampleArticles));
-        setStatus("fallback");
-      });
-    return () => {
-      cancelled = true;
-    };
-  }, []);
 
   function matchesText(article, text) {
     const q = text.trim().toLowerCase();
@@ -124,16 +93,69 @@ function App() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [articles, query, followingOnly, followingSet]);
 
+  const isSearching = query.trim() !== "" || followingOnly;
+
+  // Search only ever runs over days already downloaded, that's the whole point of
+  // pagination, an archive of tens of thousands of cards can't be shipped to the
+  // browser just in case someone searches it. Instead, an empty result while actively
+  // searching pulls in a few more days automatically, capped so a typo can't quietly
+  // download the entire archive.
+  useEffect(() => {
+    setAutoExpandCount(0);
+  }, [query, followingOnly]);
+
+  useEffect(() => {
+    if (!isSearching) return;
+    if (filteredArticles.length > 0) return;
+    if (allDaysLoaded || loadingMore) return;
+    if (autoExpandCount >= AUTO_EXPAND_LIMIT) return;
+    setAutoExpandCount((c) => c + 1);
+    loadMore();
+  }, [isSearching, filteredArticles.length, allDaysLoaded, loadingMore, autoExpandCount, loadMore]);
+
   const sourceNames = useMemo(() => {
     const names = new Set();
     articles.forEach((a) => a.sources.forEach((s) => names.add(s.name)));
     return [...names];
   }, [articles]);
 
-  const isSearching = query.trim() !== "" || followingOnly;
   const [leadArticle, ...restArticles] = filteredArticles;
   const showLead = !isSearching && leadArticle;
   const gridArticles = showLead ? restArticles : filteredArticles;
+
+  // Infinite scroll: a sentinel just past the visible list triggers loading the next
+  // day, only while browsing normally, an active search drives its own expansion above.
+  const loadMoreRef = useRef(loadMore);
+  loadMoreRef.current = loadMore;
+
+  useEffect(() => {
+    if (isSearching || allDaysLoaded) return;
+    const threshold = 800;
+
+    function checkScrollPosition() {
+      const nearBottom =
+        window.scrollY + window.innerHeight >= document.documentElement.scrollHeight - threshold;
+      if (nearBottom) loadMoreRef.current();
+    }
+
+    checkScrollPosition(); // covers pages short enough that no scrolling is needed at all
+    window.addEventListener("scroll", checkScrollPosition, { passive: true });
+    window.addEventListener("resize", checkScrollPosition);
+    return () => {
+      window.removeEventListener("scroll", checkScrollPosition);
+      window.removeEventListener("resize", checkScrollPosition);
+    };
+  }, [isSearching, allDaysLoaded, status]);
+
+  // Only the cards actually near the viewport are mounted, this is what keeps the page
+  // fast once many days (potentially thousands of cards) have been loaded in.
+  const listRef = useRef(null);
+  const virtualizer = useWindowVirtualizer({
+    count: gridArticles.length,
+    estimateSize: () => 300,
+    overscan: 6,
+    scrollMargin: listRef.current?.offsetTop ?? 0,
+  });
 
   function handleReport(articleId, indicatorType) {
     // No backend queue wired up yet, section 5.3 requires the action to exist in the UI
@@ -150,6 +172,8 @@ function App() {
     setFollowingOnly(false);
   }
 
+  const searchExhausted = isSearching && filteredArticles.length === 0 && (allDaysLoaded || autoExpandCount >= AUTO_EXPAND_LIMIT);
+
   return (
     <div className="page">
       <Header theme={theme} onToggleTheme={() => setTheme((t) => (t === "dark" ? "light" : "dark"))} />
@@ -163,10 +187,10 @@ function App() {
           <input
             type="search"
             className="search__input"
-            placeholder="Search today's headlines"
+            placeholder="Search loaded headlines"
             value={query}
             onChange={(e) => setQuery(e.target.value)}
-            aria-label="Search today's headlines"
+            aria-label="Search loaded headlines"
           />
         </div>
       </div>
@@ -190,7 +214,13 @@ function App() {
 
         {status !== "loading" && filteredArticles.length === 0 && (
           <p className="empty-state">
-            {followingOnly ? "No followed topics match today's headlines." : `No headlines match “${query}”.`}
+            {searchExhausted
+              ? `No matches in the ${daysLoadedCount} most recent day${daysLoadedCount === 1 ? "" : "s"} loaded.`
+              : isSearching && (loadingMore || autoExpandCount > 0)
+                ? "Searching further back…"
+                : followingOnly
+                  ? "No followed topics match the loaded headlines."
+                  : `No headlines match “${query}”.`}
           </p>
         )}
 
@@ -211,18 +241,33 @@ function App() {
               <Trends history={history} />
             </div>
 
-            <div className="grid">
-              {gridArticles.map((article) => (
-                <ArticleCard
-                  key={article.id}
-                  article={article}
-                  following={isFollowed(article)}
-                  onReport={handleReport}
-                />
-              ))}
+            <div ref={listRef} style={{ position: "relative", height: virtualizer.getTotalSize() }}>
+              {virtualizer.getVirtualItems().map((virtualRow) => {
+                const article = gridArticles[virtualRow.index];
+                if (!article) return null;
+                return (
+                  <div
+                    key={article.id}
+                    data-index={virtualRow.index}
+                    ref={virtualizer.measureElement}
+                    className="grid-row"
+                    style={{
+                      position: "absolute",
+                      top: 0,
+                      left: 0,
+                      width: "100%",
+                      transform: `translateY(${virtualRow.start - virtualizer.options.scrollMargin}px)`,
+                    }}
+                  >
+                    <ArticleCard article={article} following={isFollowed(article)} onReport={handleReport} />
+                  </div>
+                );
+              })}
             </div>
           </>
         )}
+
+        {!isSearching && loadingMore && <p className="load-more-note">Loading more…</p>}
       </main>
 
       <DigestSignup />
@@ -231,8 +276,9 @@ function App() {
         {status === "live" ? (
           <p>
             Sources: {sourceNames.join(", ")}. Live data, last updated{" "}
-            {formatGeneratedAt(generatedAt) ?? "recently"}, refreshed daily at 6:00 AM Pakistan Standard
-            Time.
+            {formatGeneratedAt(generatedAt) ?? "recently"}, refreshed daily at 6:00 AM Pakistan Standard Time.
+            Showing {daysLoadedCount} of {totalDaysAvailable} day{totalDaysAvailable === 1 ? "" : "s"} available,
+            more load automatically as you scroll.
           </p>
         ) : (
           <p>Source: Dawn News. Sample data shown, the daily live update has not run yet.</p>

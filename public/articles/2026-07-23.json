@@ -1,0 +1,405 @@
+{
+  "generatedAt": "2026-07-23T10:53:01+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Houthis attack Saudi tankers in Red Sea as US strikes Iran for 12th consecutive day",
+      "summary": "AI summary: Yemen's Houthi rebels said they struck two Saudi Arabian oil tankers in the Red Sea with missiles and drones, while the US carried out its 12th consecutive night of strikes on Iran, as regional maritime and military tensions continued to escalate.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2017740/houthis-attack-saudi-tankers-in-red-sea-as-us-strikes-iran-for-12th-consecutive-day"
+        }
+      ],
+      "timestamp": "Jul 23, 10:32 AM",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Red Sea shipping attacks and the prolonged US-Iran conflict threaten oil supply routes and freight/insurance costs, a direct risk to Pakistan's energy imports transiting the region."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Reports an external regional conflict with no direct bearing on Pakistani domestic governance stability."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Escalating regional war raises risk to shipping and energy security and reflects a broader deteriorating security environment."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Red Sea disruption and Iran strikes directly affect oil prices and freight/insurance costs relevant to import-dependent Pakistani businesses."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "A foreign conflict report sourced to Saudi, Houthi, UK maritime and US military statements, with no domestic party framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Corroborated by multiple named sources: Saudi state agency, UKMTO, Vanguard, the Houthi statement and US Centcom."
+        }
+      },
+      "publishedAt": "2026-07-23T10:32:00+05:00"
+    },
+    {
+      "id": 2,
+      "headline": "Govt increases petrol price by Rs6.39, diesel by Rs7.83 per litre",
+      "summary": "AI summary: The government raised petrol prices by Rs6.39 and diesel by Rs7.83 per litre effective July 23, citing global price swings from the Iran-US conflict, and moved to daily fuel pricing days after pump owners deferred a strike threat.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2017573/govt-increases-petrol-price-by-rs639-diesel-by-rs783-per-litre"
+        }
+      ],
+      "timestamp": "Jul 23, 9:52 AM",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Higher fuel costs raise transport and input costs economy-wide, though this reflects pass-through of global prices rather than a policy failure."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A routine, mandated pricing adjustment under an existing formula, not itself a stability signal."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Higher pump prices directly raise the cost of living and transport for the public."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Relevant to fuel retail, transport and logistics sectors and to energy-import-exposed businesses."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports a government pricing mechanism decision with factual figures, no partisan framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "An official Petroleum Division notification with specific figures is cited directly."
+        }
+      },
+      "publishedAt": "2026-07-23T09:52:00+05:00"
+    },
+    {
+      "id": 3,
+      "headline": "President directs authorities to step up monsoon preparedness as rains batter country",
+      "summary": "AI summary: President Asif Ali Zardari directed federal, provincial and local authorities to intensify flood preparedness and relief efforts as monsoon rains continue, after at least 37 deaths were reported in rain-related incidents.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2017746/president-directs-authorities-to-step-up-monsoon-preparedness-as-rains-batter-country"
+        }
+      ],
+      "timestamp": "Jul 23, 10:31 AM",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Flooding damages infrastructure, homes and crops, disrupting economic activity in affected areas."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A routine disaster-coordination directive, not itself a partisan or stability signal."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Deaths, displacement and flood risk directly harm public safety and wellbeing."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Primarily a domestic disaster-response matter with limited direct relevance to investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the president's official directive and disaster statistics without partisan framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Directly quotes the President's Secretariat statement and cites a specific death toll figure."
+        }
+      },
+      "publishedAt": "2026-07-23T10:31:00+05:00"
+    },
+    {
+      "id": 4,
+      "headline": "US announces civilian nuclear deal with Saudi Arabia, says it includes non-proliferation safeguards",
+      "summary": "AI summary: The US and Saudi Arabia signed civilian nuclear cooperation and safeguards agreements that Washington says include non-proliferation protections, in a deal reported to potentially let US firms help build a Saudi uranium enrichment facility, drawing US and Israeli non-proliferation concerns.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2017738/us-announces-civilian-nuclear-deal-with-saudi-arabia-says-it-includes-non-proliferation-safeguards"
+        }
+      ],
+      "timestamp": "Jul 23, 8:20 AM",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A foreign bilateral deal with no direct Pakistani economic provisions, though it signals continued Gulf energy and security investment relevant to regional partners."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A US-Saudi diplomatic and energy agreement with no direct bearing on Pakistani governance."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct or immediate effect on the Pakistani public."
+        },
+        "market": {
+          "value": "low",
+          "reason": "A foreign nuclear-energy deal with limited direct relevance to Pakistani markets beyond general Gulf-region monitoring."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports competing US, Saudi, congressional and Israeli perspectives without any domestic Pakistani party framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "A key detail, the uranium enrichment provision, is attributed only to a Wall Street Journal report the US Energy Department would not confirm."
+        }
+      },
+      "publishedAt": "2026-07-23T08:20:00+05:00"
+    },
+    {
+      "id": 5,
+      "headline": "Pakistan, Egypt reaffirm support for de-escalation amid Middle East tensions",
+      "summary": "AI summary: Deputy PM and Foreign Minister Ishaq Dar and Egypt's foreign minister, meeting on the sidelines of the ASEAN Regional Forum in Manila, called for dialogue and de-escalation in the Middle East and agreed to deepen bilateral trade and investment cooperation.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/674325-pakistan-egypt-reaffirm-support-for-de-escalation-amid-middle-east-tensions"
+        }
+      ],
+      "timestamp": "Jul 23, 1:18 AM",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Discussions on expanding trade and investment cooperation are general in nature with no concrete commitments announced."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "Active diplomatic engagement on regional de-escalation reflects stable, functioning conduct of foreign policy."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct or immediate effect on the Pakistani public."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Diplomatic dialogue with no immediate business or investment terms attached."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "A joint government-to-government readout with no domestic party framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "The meeting and statements are directly attributed to an official Deputy Prime Minister's Office statement."
+        }
+      },
+      "publishedAt": "2026-07-23T01:18:00+05:00"
+    },
+    {
+      "id": 8,
+      "headline": "PML-N seeking constitutional amendment, wants to make Nawaz AJK premier: Bilawal",
+      "summary": "AI summary: PPP chairman Bilawal Bhutto-Zardari, at an AJK election rally, alleged federal coalition partner PML-N wants to amend the constitution so the prime minister can appoint Nawaz Sharif as AJK premier, a claim made a day after Nawaz jokingly floated the same idea; PML-N has not responded.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/674270-pml-n-seeking-constitutional-amendment-wants-to-make-nawaz-sharif-ajk-premier-bilawal"
+        }
+      ],
+      "timestamp": "Jul 22, 6:11 PM",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A constitutional and political allegation with no economic provisions."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "A public dispute between federal coalition partners over a proposed constitutional change for a specific individual's benefit signals real friction within the ruling coalition."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate effect on daily life, a dispute over AJK's future governance structure."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited direct relevance to markets or investors at this stage."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "PPP is itself a coalition partner in the federal government alongside PML-N, so this reads as an intra-coalition dispute rather than a government-versus-opposition attack; PML-N has not responded."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "The coalition context is clear, but the claim itself is one-sided with no PML-N rebuttal included."
+        }
+      },
+      "publishedAt": "2026-07-22T18:11:00+05:00"
+    },
+    {
+      "id": 9,
+      "headline": "Curfew imposed in Mastung’s Khud Kocha",
+      "summary": "AI summary: Balochistan authorities imposed an indefinite curfew in Mastung's Khud Kocha after a gun attack killed three people and injured five on a Karachi-bound bus and a bridge on the National Highway was damaged in an explosion, days after security forces reported killing 10 militants in the same districts.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40431355/curfew-imposed-in-mastungs-khud-kocha"
+        }
+      ],
+      "timestamp": "Jul 23, 5:26 AM",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Damage to a National Highway bridge and an indefinite curfew disrupt a key transport route and local commerce."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A provincial security and law-and-order response, not framed around domestic political contest."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Civilian deaths, injuries and a curfew confining residents directly harm public safety and daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "A localized security incident with limited direct relevance to broader markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Sourced to the Balochistan Home Department's official statement, no partisan framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Specific casualty figures and the curfew order are directly attributed to the Home Department spokesperson."
+        }
+      },
+      "publishedAt": "2026-07-23T05:26:00+05:00"
+    },
+    {
+      "id": 10,
+      "headline": "Balochistan IBOs: 10 terrorists killed, two female suicide bombers held",
+      "summary": "AI summary: ISPR said security forces killed 10 alleged militants and arrested two female suicide bombers and a facilitator during intelligence-based operations in Surab and Mastung, part of what it calls the Azm-e-Istehkam campaign against India-linked networks it names Fitna al Hindustan and Fitna al Khwarij.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40431351/balochistan-ibos-10-terrorists-killed-two-female-suicide-bombers-held"
+        }
+      ],
+      "timestamp": "Jul 23, 5:26 AM",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A security operations report with no direct economic content."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Reported as a routine counterterrorism operation, not framed around domestic political contest."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Continued militant violence and security operations in the region reflect ongoing instability affecting residents, even when framed as a security success."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited direct relevance to markets or broader business activity."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Sourced entirely to the military's own public statement, with no opposing account presented."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "The account rests on a single official military source (ISPR) with no independent corroboration in this report."
+        }
+      },
+      "publishedAt": "2026-07-23T05:26:00+05:00"
+    },
+    {
+      "id": 11,
+      "headline": "8 PPP, 4 IPP ministers inducted into GB cabinet",
+      "summary": "AI summary: Gilgit-Baltistan's governor approved a 12-member provincial cabinet, eight ministers from the PPP and four from the Istehkam-e-Pakistan Party, completing the region's new administration though portfolios have not yet been assigned.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40431380/8-ppp-4-ipp-ministers-inducted-into-gb-cabinet"
+        }
+      ],
+      "timestamp": "Jul 23, 5:26 AM",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A cabinet formation announcement with no immediate economic policy content."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "Completing the provincial cabinet formation reflects normal institutional process and the new administration becoming functional."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Limited direct or immediate effect on the public's daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "A regional administrative appointment with little relevance to investors or markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "A factual notification of cabinet composition, no partisan commentary."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "The cabinet's party breakdown and named ministers are directly attributed to an official notification."
+        }
+      },
+      "publishedAt": "2026-07-23T05:26:00+05:00"
+    },
+    {
+      "id": 12,
+      "headline": "Salaries payment, dues of ex-Pak PWD employees: Senate body concerned over delays",
+      "summary": "AI summary: A Senate standing committee voiced concern that thousands of former Pakistan Public Works Department employees adjusted into other ministries still haven't received due salaries and arrears, and directed officials to clear the backlog without further delay.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40431367/salaries-payment-dues-of-ex-pak-pwd-employees-senate-body-concerned-over-delays"
+        }
+      ],
+      "timestamp": "Jul 23, 5:26 AM",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Unpaid salaries and arrears directly harm the affected employees' household finances."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A routine parliamentary oversight committee proceeding, not itself a stability signal."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Thousands of employees and their families are affected by prolonged non-payment of wages."
+        },
+        "market": {
+          "value": "low",
+          "reason": "An internal administrative and personnel matter with little relevance to broader markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports a parliamentary committee's oversight of an administrative delay, no partisan framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Specific employee and case counts are directly attributed to ministry officials' testimony to the committee."
+        }
+      },
+      "publishedAt": "2026-07-23T05:26:00+05:00"
+    }
+  ]
+}

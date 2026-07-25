@@ -256,6 +256,21 @@
   gap: var(--space-6);
 }
 
+/* Virtualized single-column list, see useArticleArchive. Only cards near the
+   viewport are ever mounted, spacing lives in the row's own padding since
+   absolutely positioned siblings can't use a CSS gap. */
+
+.grid-row {
+  padding-bottom: var(--space-6);
+}
+
+.load-more-note {
+  padding: var(--space-4) 0;
+  text-align: center;
+  font-size: 12px;
+  color: var(--color-text-secondary);
+}
+
 /* Article card, Section 4 / 5.3 / 6 */
 
 .card {

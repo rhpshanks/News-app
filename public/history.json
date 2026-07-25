@@ -10,11 +10,11 @@
   },
   {
     "date": "2026-07-23",
-    "articleCount": 12,
+    "articleCount": 10,
     "counts": {
-      "economic": { "positive": 0, "neutral": 6, "negative": 6 },
-      "political": { "positive": 3, "neutral": 7, "negative": 2 },
-      "social": { "positive": 0, "neutral": 6, "negative": 6 }
+      "economic": { "positive": 0, "neutral": 5, "negative": 5 },
+      "political": { "positive": 2, "neutral": 7, "negative": 1 },
+      "social": { "positive": 0, "neutral": 4, "negative": 6 }
     }
   },
   {

@@ -1,0 +1,215 @@
+{
+  "generatedAt": "2026-07-24T11:05:00+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "US unveils new tariffs on 60 trade partners, including Pakistan, over forced labour concerns",
+      "summary": "AI summary: The US imposed new tariffs of 10 to 12.5 percent on 60 trading partners over forced labour concerns, effective July 25, with Pakistan assigned the lowest 10 percent tier alongside India and Bangladesh after submitting responses to US investigators.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2017941/us-unveils-new-tariffs-on-60-trade-partners-including-pakistan-over-forced-labour-concerns" }
+      ],
+      "timestamp": "Jul 24, 9:50 AM",
+      "publishedAt": "2026-07-24T09:50:01+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "New US tariffs raise costs for Pakistani exporters and add trade friction, even at the lowest assigned tier." },
+        "political": { "value": "neutral", "reason": "A US trade policy action applied across many countries, not specific to Pakistani governance." },
+        "social": { "value": "neutral", "reason": "Effects would flow through export-sector jobs over time, no immediate direct impact on daily life." },
+        "market": { "value": "high", "reason": "Directly affects export-oriented businesses, trade forecasts, and investor assessment of Pakistan's US market access." },
+        "lean": { "value": "balanced", "reason": "Reports a US government trade action and Pakistan's procedural response, no domestic party framing." },
+        "confidence": { "value": "high", "reason": "Specific tariff rates, the effective date, and the USTR's own statement are directly cited." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Petrol price up by Rs4.40, diesel by Rs3.62 per litre",
+      "summary": "AI summary: The government raised petrol by Rs4.40 and diesel by Rs3.62 per litre effective July 24, citing global price swings from the ongoing Persian Gulf conflict, and shifted to daily rather than weekly price adjustments.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2017857/petrol-price-up-by-rs440-diesel-by-rs362-per-litre" }
+      ],
+      "timestamp": "Jul 24, 7:00 AM",
+      "publishedAt": "2026-07-24T07:00:35+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Higher fuel prices raise transport and input costs across the economy, though this tracks global price pass-through under an existing formula." },
+        "political": { "value": "neutral", "reason": "A routine, formula-driven pricing adjustment, not itself a stability signal." },
+        "social": { "value": "negative", "reason": "Higher pump prices directly raise the cost of living and transport for the public." },
+        "market": { "value": "medium", "reason": "Relevant to fuel retail, transport and logistics sectors and energy-import-exposed businesses." },
+        "lean": { "value": "balanced", "reason": "Reports a government pricing mechanism decision with specific figures, no partisan framing." },
+        "confidence": { "value": "high", "reason": "Specific new prices and the shift to daily adjustment are directly attributed to the Petroleum Division." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Pakistan warns Houthi rebels to steer clear of its ships",
+      "summary": "AI summary: Pakistan's Foreign Office called any strike on Pakistani-flagged or commercial vessels a red line warranting a self-defence response, while also affirming continued diplomatic efforts toward de-escalation with Houthi forces through regional mediators.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2017926/pakistan-warns-houthi-rebels-to-steer-clear-of-its-ships" }
+      ],
+      "timestamp": "Jul 24, 7:24 AM",
+      "publishedAt": "2026-07-24T07:24:59+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct economic measure, though shipping security risk remains an underlying concern for trade routes." },
+        "political": { "value": "neutral", "reason": "A firm but standard foreign policy statement reaffirming an existing defence stance, no domestic shift." },
+        "social": { "value": "neutral", "reason": "No immediate effect on the public beyond general regional security awareness." },
+        "market": { "value": "medium", "reason": "Red Sea shipping security is relevant to freight and oil costs for import-dependent businesses." },
+        "lean": { "value": "balanced", "reason": "An official Foreign Office statement pairing deterrence with stated commitment to dialogue, no partisan framing." },
+        "confidence": { "value": "high", "reason": "The spokesperson's warning and the diplomatic stance are both directly quoted." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "'Unacceptable': Pakistan, 7 other countries condemn Israeli minister Ben Gvir's Al Aqsa incursion",
+      "summary": "AI summary: Pakistan joined Egypt, Turkey, Indonesia, Jordan, Qatar, Saudi Arabia and the UAE in a joint statement calling Israeli minister Ben Gvir's incursion into Al Aqsa mosque with hundreds of settlers unacceptable and a violation of international law.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2018009/unacceptable-pakistan-7-other-countries-condemn-israeli-minister-ben-gvirs-al-aqsa-incursion" }
+      ],
+      "timestamp": "Jul 24, 10:30 AM",
+      "publishedAt": "2026-07-24T10:30:01+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic condemnation with no direct economic provisions for Pakistan." },
+        "political": { "value": "neutral", "reason": "A joint foreign policy statement aligned with regional partners, not a domestic stability signal." },
+        "social": { "value": "neutral", "reason": "No direct effect on the Pakistani public's daily life." },
+        "market": { "value": "low", "reason": "Limited direct relevance to Pakistani markets or investors." },
+        "lean": { "value": "balanced", "reason": "A multilateral joint statement citing international law, not framed around domestic party politics." },
+        "confidence": { "value": "high", "reason": "The signatory countries and the statement's specific language are directly quoted." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "CDF Munir vows to defeat foreign-backed proxies' nefarious designs in Balochistan",
+      "summary": "AI summary: Field Marshal Asim Munir told the 20th National Workshop Balochistan that security forces would continue targeted operations against Fitna al Khawarij and Fitna al Hindustan and dismantle terrorist infrastructure wherever it threatens Pakistan, framing the effort as needing unified national resolve.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/674450-cdf-munir-vows-to-defeat-foreign-backed-proxies-nefarious-designs-in-balochistan" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40431561/cdf-vows-to-dismantle-terrorist-infrastructure" }
+      ],
+      "timestamp": "Jul 23, 8:17 PM",
+      "publishedAt": "2026-07-23T20:17:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A military commitment statement with no direct economic provisions, though it touches on the province's development framing." },
+        "political": { "value": "positive", "reason": "A senior military commander publicly reaffirming a coordinated counterterrorism commitment signals institutional resolve rather than instability." },
+        "social": { "value": "negative", "reason": "The statement itself reflects an ongoing security threat environment in Balochistan that continues to affect residents, even when framed as resolve to counter it." },
+        "market": { "value": "low", "reason": "Limited direct relevance to markets beyond general Balochistan security-risk perception." },
+        "lean": { "value": "balanced", "reason": "A military leader's public address reported factually, no domestic party framing present." },
+        "confidence": { "value": "high", "reason": "The same remarks are corroborated across two independent outlets with matching quotes and detail." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "PDMA issues province-wide alert as rain, thunderstorms forecast across Sindh",
+      "summary": "AI summary: Sindh's disaster management authority issued a province-wide alert for heavy rain and thunderstorms from July 23 to 25, warning of risks to weak structures and power infrastructure and urging residents to avoid unnecessary travel.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/674441-pdma-issues-province-wide-alert-as-rain-thunderstorms-forecast-across-sindh" }
+      ],
+      "timestamp": "Jul 23, 9:29 PM",
+      "publishedAt": "2026-07-23T21:29:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Severe weather risk to infrastructure and travel disruption can affect commerce in affected districts." },
+        "political": { "value": "neutral", "reason": "A routine disaster-preparedness advisory, not a political signal." },
+        "social": { "value": "negative", "reason": "Storm and flooding risk directly threatens public safety and daily activity across multiple districts." },
+        "market": { "value": "low", "reason": "A localized weather advisory with limited direct relevance to broader markets." },
+        "lean": { "value": "balanced", "reason": "A factual disaster-management advisory, no political framing present." },
+        "confidence": { "value": "high", "reason": "Specific districts, dates, and warnings are directly attributed to PDMA's own alert." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Mobile, internet services begin restoring in AJK's Mirpur after 45-day suspension",
+      "summary": "AI summary: Mobile and internet service began restoring in AJK's Mirpur after a 45-day suspension imposed following violent protests by the now-banned JAAC over reserved refugee assembly seats, ahead of elections starting July 27.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/674428-mobile-internet-services-begin-restoring-in-ajks-mirpur-after-45-day-suspension" }
+      ],
+      "timestamp": "Jul 23, 6:39 PM",
+      "publishedAt": "2026-07-23T18:39:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Restored connectivity removes a real constraint on local commerce and communication ahead of a business-relevant election period." },
+        "political": { "value": "neutral", "reason": "Service restoration ahead of a scheduled election is a procedural step, not itself a stability signal either way." },
+        "social": { "value": "positive", "reason": "Ends a lengthy communications blackout that directly affected residents' daily life." },
+        "market": { "value": "low", "reason": "A regional connectivity story with limited direct relevance to broader markets." },
+        "lean": { "value": "balanced", "reason": "Reports the restoration and quotes a PPP figure's gratitude toward the election commission, but doesn't frame this around a government-versus-opposition contest." },
+        "confidence": { "value": "high", "reason": "The suspension's cause, duration, and restoration timing are specifically detailed." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Pakistan urges Amnesty, global community to scrutinise Afghan Taliban's terror patronage",
+      "summary": "AI summary: Pakistan's Foreign Office urged Amnesty International and the global community to examine the Afghan Taliban's support for groups including the TTP and BLA, after Amnesty called for an investigation into Pakistani airstrikes in Kabul from four months earlier.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/674414-pakistan-urges-amnesty-global-community-to-scrutinise-afghan-talibans-terror-patronage" }
+      ],
+      "timestamp": "Jul 23, 5:13 PM",
+      "publishedAt": "2026-07-23T17:13:25+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic and security dispute with no direct economic provisions." },
+        "political": { "value": "neutral", "reason": "A foreign policy response defending prior military action, not a domestic governance signal." },
+        "social": { "value": "negative", "reason": "Reflects an ongoing cross-border militant threat that continues to affect security conditions." },
+        "market": { "value": "low", "reason": "Limited direct relevance to markets or investors." },
+        "lean": { "value": "balanced", "reason": "Reports Pakistan's official response to an international rights body's request, no domestic party framing." },
+        "confidence": { "value": "medium", "reason": "Pakistan's own statement is directly quoted, but the underlying dispute over the earlier airstrikes remains contested and unresolved." }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "Senate panel told: Govt unaware of India's Chenab water release",
+      "summary": "AI summary: Pakistan's Indus Waters Commissioner told a Senate panel the government has no information on any Indian release of water through Chenab River dam spillways that could trigger flooding, adding current water levels remain within normal historical range.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40431517/senate-panel-told-govt-unaware-of-indias-chenab-water-release" }
+      ],
+      "timestamp": "Jul 24, 5:06 AM",
+      "publishedAt": "2026-07-24T05:06:38+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A water-management briefing with no direct economic measure announced." },
+        "political": { "value": "neutral", "reason": "Routine Senate committee testimony on a technical matter, not a stability signal." },
+        "social": { "value": "neutral", "reason": "Reassures on flood risk but doesn't itself change the public's immediate situation." },
+        "market": { "value": "low", "reason": "Limited direct relevance to markets beyond general agriculture and water-security monitoring." },
+        "lean": { "value": "balanced", "reason": "Reports official testimony to a Senate committee, no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Testimony is directly quoted, but it describes an absence of information rather than a confirmed fact about India's actions." }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "Senate panel orders NCCIA to refer newspaper columnist complaint to PCP",
+      "summary": "AI summary: A Senate committee directed Pakistan's cyber crime agency to refer a complaint against a newspaper columnist to the Press Council of Pakistan instead, ruling the council the appropriate forum, while reaffirming that PECA would not target newspaper websites and digital platforms.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40431519/newspaper-columnist-senate-panel-orders-nccia-to-refer-complaint-to-pcp" }
+      ],
+      "timestamp": "Jul 24, 5:06 AM",
+      "publishedAt": "2026-07-24T05:06:39+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A press-regulation procedural matter with no economic provisions." },
+        "political": { "value": "positive", "reason": "Directing the complaint to a press-specific body over a cyber crime agency, plus reaffirming PECA won't target news platforms, reflects an institutional check on regulatory overreach." },
+        "social": { "value": "neutral", "reason": "Primarily a procedural media-regulation matter, no direct immediate effect on the public." },
+        "market": { "value": "low", "reason": "Limited direct relevance to markets or investors." },
+        "lean": { "value": "balanced", "reason": "Reports a Senate committee's procedural ruling and its own stated reasoning, no partisan framing." },
+        "confidence": { "value": "medium", "reason": "The committee's decision is directly reported, though the underlying complaint's specifics are not detailed here." }
+      }
+    },
+    {
+      "id": 11,
+      "headline": "Benefits under armed forces law: FCC sets aside SHC order in OGDCL employee's case",
+      "summary": "AI summary: The Federal Constitutional Court ruled that OGDCL, since its 1997 transformation into a public limited company, no longer qualifies as an entity covered by the Compulsory Service in the Armed Forces Ordinance, setting aside a Sindh High Court order that had granted an employee benefits under that law.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40431567/benefits-under-armed-forces-law-fcc-sets-aside-shc-order-in-ogdcl-employees-case" }
+      ],
+      "timestamp": "Jul 24, 6:15 AM",
+      "publishedAt": "2026-07-24T06:15:05+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A specific employment-benefits legal ruling with no broader economic provisions." },
+        "political": { "value": "neutral", "reason": "Routine judicial determination on a corporate-status question, not a stability signal." },
+        "social": { "value": "neutral", "reason": "Affects a specific case's benefit eligibility, limited direct effect on the wider public." },
+        "market": { "value": "low", "reason": "Relevant mainly to OGDCL's own corporate-legal standing, limited broader market relevance." },
+        "lean": { "value": "balanced", "reason": "Reports a court ruling and its legal reasoning, no partisan framing." },
+        "confidence": { "value": "high", "reason": "The court's specific legal reasoning and the case's history are directly detailed." }
+      }
+    }
+  ]
+}

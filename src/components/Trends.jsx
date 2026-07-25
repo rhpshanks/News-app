@@ -65,14 +65,14 @@ export default function Trends({ history }) {
     }));
   }, [days, category]);
 
-  if (!history || history.length === 0) return null;
-
   const xLabels = useMemo(() => {
     const n = days.length;
     if (n === 0) return [];
     const positions = n <= 5 ? days.map((_, i) => i) : [0, Math.round((n - 1) * 0.25), Math.round((n - 1) * 0.5), Math.round((n - 1) * 0.75), n - 1];
     return [...new Set(positions)].map((i) => ({ i, label: formatDate(days[i].date, true) }));
   }, [days]);
+
+  if (!history || history.length === 0) return null;
 
   function handleMove(clientX) {
     if (!svgRef.current || days.length === 0) return;
