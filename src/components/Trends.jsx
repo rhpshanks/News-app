@@ -41,7 +41,7 @@ function yAt(pct) {
   return PLOT_BOTTOM - (pct / 100) * PLOT_HEIGHT;
 }
 
-export default function Trends({ history }) {
+export default function Trends({ history, lockedRange = false }) {
   const [category, setCategory] = useState("economic");
   const [range, setRange] = useState("30");
   const [hoverIndex, setHoverIndex] = useState(null);
@@ -49,9 +49,10 @@ export default function Trends({ history }) {
 
   const days = useMemo(() => {
     const sorted = [...(history ?? [])].sort((a, b) => (a.date < b.date ? -1 : 1));
+    if (lockedRange) return sorted; // parent already scoped history to the exact date filter
     const rangeDays = RANGES.find((r) => r.key === range)?.days ?? 30;
     return sorted.slice(Math.max(0, sorted.length - rangeDays));
-  }, [history, range]);
+  }, [history, range, lockedRange]);
 
   const series = useMemo(() => {
     return TONES.map((tone) => ({
@@ -105,23 +106,26 @@ export default function Trends({ history }) {
           ))}
         </div>
 
-        <div className="trends__ranges" role="group" aria-label="Date range">
-          {RANGES.map((r) => (
-            <button
-              key={r.key}
-              type="button"
-              className={range === r.key ? "trends__range trends__range--active" : "trends__range"}
-              onClick={() => setRange(r.key)}
-            >
-              {r.label}
-            </button>
-          ))}
-        </div>
+        {!lockedRange && (
+          <div className="trends__ranges" role="group" aria-label="Date range">
+            {RANGES.map((r) => (
+              <button
+                key={r.key}
+                type="button"
+                className={range === r.key ? "trends__range trends__range--active" : "trends__range"}
+                onClick={() => setRange(r.key)}
+              >
+                {r.label}
+              </button>
+            ))}
+          </div>
+        )}
       </div>
 
       <p className="trends__caption">
-        Showing {days.length} day{days.length === 1 ? "" : "s"} of history, share of each day's stories by
-        reading, hover or touch the chart for exact counts.
+        {lockedRange
+          ? `Matching the date filter above, ${days.length} day${days.length === 1 ? "" : "s"}, share of each day's stories by reading, hover or touch the chart for exact counts.`
+          : `Showing ${days.length} day${days.length === 1 ? "" : "s"} of history, share of each day's stories by reading, hover or touch the chart for exact counts.`}
       </p>
 
       <div className="trends__chart-wrap">

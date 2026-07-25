@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useMemo, useState } from "react";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { sampleArticles } from "../data/articles";
 
 function sortByNewest(articles) {
@@ -25,6 +25,10 @@ function withUniqueIds(articles, date) {
   return articles.map((a) => ({ ...a, id: date ? `${date}-${a.id}` : a.id }));
 }
 
+function toDayEntry(date, day) {
+  return { date, generatedAt: day.generatedAt ?? null, articles: sortByNewest(withUniqueIds(day.articles ?? [], date)) };
+}
+
 // Archive is paginated one calendar day per file (public/articles/<date>.json), listed
 // newest-first in public/articles/index.json. Only the index and the newest day are
 // cache-busted, older days are immutable once written so the browser can cache them
@@ -38,6 +42,11 @@ export function useArticleArchive() {
   const [loadingMore, setLoadingMore] = useState(false);
   const [history, setHistory] = useState([]);
 
+  const loadedDatesRef = useRef(new Set());
+  useEffect(() => {
+    loadedDatesRef.current = new Set(loadedDays.map((d) => d.date));
+  }, [loadedDays]);
+
   useEffect(() => {
     let cancelled = false;
     (async () => {
@@ -50,9 +59,7 @@ export function useArticleArchive() {
         if (cancelled) return;
 
         setDateIndex(dates);
-        setLoadedDays([
-          { date: dates[0], generatedAt: first.generatedAt ?? null, articles: sortByNewest(withUniqueIds(first.articles ?? [], dates[0])) },
-        ]);
+        setLoadedDays([toDayEntry(dates[0], first)]);
         setCursor(1);
         setStatus("live");
 
@@ -77,13 +84,11 @@ export function useArticleArchive() {
     setLoadingMore(true);
     const date = dateIndex[cursor];
     try {
+      if (loadedDatesRef.current.has(date)) return; // already fetched via a date-range pick
       // Older, already-published days never change, so no cache-busting query here,
       // the browser (and any CDN in front of it) can cache these responses forever.
       const day = await fetchJson(`/articles/${date}.json`);
-      setLoadedDays((prev) => [
-        ...prev,
-        { date, generatedAt: day.generatedAt ?? null, articles: sortByNewest(withUniqueIds(day.articles ?? [], date)) },
-      ]);
+      setLoadedDays((prev) => (prev.some((d) => d.date === date) ? prev : [...prev, toDayEntry(date, day)]));
     } catch {
       // A missing or broken day file shouldn't block the rest of the archive, skip it.
     } finally {
@@ -91,6 +96,35 @@ export function useArticleArchive() {
       setLoadingMore(false);
     }
   }, [cursor, dateIndex, loadingMore]);
+
+  // Fetches every day between fromDate and toDate (inclusive, YYYY-MM-DD strings) that
+  // isn't already loaded, for the explicit date-range filter, distinct from the
+  // sequential newest-first infinite scroll above.
+  const loadDateRange = useCallback(
+    async (fromDate, toDate) => {
+      const [lo, hi] = fromDate <= toDate ? [fromDate, toDate] : [toDate, fromDate];
+      const targets = dateIndex.filter((d) => d >= lo && d <= hi && !loadedDatesRef.current.has(d));
+      if (targets.length === 0) return;
+      setLoadingMore(true);
+      try {
+        const fetched = await Promise.all(
+          targets.map((d) =>
+            fetchJson(`/articles/${d}.json`)
+              .then((day) => toDayEntry(d, day))
+              .catch(() => null)
+          )
+        );
+        setLoadedDays((prev) => {
+          const existing = new Set(prev.map((d) => d.date));
+          const toAdd = fetched.filter((d) => d && !existing.has(d.date));
+          return [...prev, ...toAdd].sort((a, b) => (a.date < b.date ? 1 : -1));
+        });
+      } finally {
+        setLoadingMore(false);
+      }
+    },
+    [dateIndex]
+  );
 
   const articles = useMemo(() => loadedDays.flatMap((d) => d.articles), [loadedDays]);
   const allDaysLoaded = status === "fallback" || (dateIndex.length > 0 && cursor >= dateIndex.length);
@@ -101,9 +135,12 @@ export function useArticleArchive() {
     history,
     generatedAt: loadedDays[0]?.generatedAt ?? null,
     loadMore,
+    loadDateRange,
     loadingMore,
     allDaysLoaded,
     daysLoadedCount: loadedDays.length,
     totalDaysAvailable: dateIndex.length,
+    oldestDate: dateIndex[dateIndex.length - 1] ?? null,
+    newestDate: dateIndex[0] ?? null,
   };
 }

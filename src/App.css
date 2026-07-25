@@ -107,6 +107,61 @@
   }
 }
 
+/* Date filter */
+
+.date-filter {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  flex-shrink: 0;
+}
+
+.date-filter__input {
+  padding: 9px 10px;
+  border-radius: var(--radius-card);
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+  color: var(--color-text-primary);
+  font-size: 13px;
+}
+
+.date-filter__sep {
+  font-size: 12px;
+  color: var(--color-text-secondary);
+}
+
+.date-filter__clear {
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+  color: var(--color-text-secondary);
+  padding: 8px 12px;
+  border-radius: var(--radius-pill);
+  font-size: 12px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.date-filter__clear:not(:disabled):hover {
+  border-color: var(--color-accent);
+  color: var(--color-accent);
+}
+
+.date-filter__clear:disabled {
+  opacity: 0.45;
+  cursor: default;
+}
+
+@media (max-width: 560px) {
+  .date-filter {
+    flex-wrap: wrap;
+  }
+
+  .date-filter__input {
+    flex: 1;
+    min-width: 0;
+  }
+}
+
 /* Search */
 
 .search {
@@ -260,8 +315,22 @@
    viewport are ever mounted, spacing lives in the row's own padding since
    absolutely positioned siblings can't use a CSS gap. */
 
+.article-scroll {
+  height: 70vh;
+  min-height: 480px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-card);
+  padding: var(--space-4);
+}
+
 .grid-row {
   padding-bottom: var(--space-6);
+}
+
+.grid-row:last-child {
+  padding-bottom: 0;
 }
 
 .load-more-note {
