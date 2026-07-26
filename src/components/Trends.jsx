@@ -169,11 +169,17 @@ export default function Trends({ history, lockedRange = false }) {
               <circle key={s.tone} className={`trends__dot ${TONE_CLASS[s.tone]}`} cx={s.points[0].x} cy={s.points[0].y} r="4" />
             ))}
 
-          {xLabels.map(({ i, label }) => (
-            <text key={i} x={xAt(i, days.length)} y={HEIGHT - 6} className="trends__x-label" textAnchor="middle">
-              {label}
-            </text>
-          ))}
+          {xLabels.map(({ i, label }) => {
+            // Middle labels center on their point, but the first and last would
+            // otherwise overhang past the plot edge and get clipped by the SVG's
+            // viewBox, anchor those to grow inward instead.
+            const anchor = i === 0 ? "start" : i === days.length - 1 ? "end" : "middle";
+            return (
+              <text key={i} x={xAt(i, days.length)} y={HEIGHT - 6} className="trends__x-label" textAnchor={anchor}>
+                {label}
+              </text>
+            );
+          })}
 
           {hoverIndex !== null && (
             <g>
