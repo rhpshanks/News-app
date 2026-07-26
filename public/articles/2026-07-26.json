@@ -1,0 +1,233 @@
+{
+  "generatedAt": "2026-07-26T16:14:48+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Chenab flood level eases from medium to low; PMD forecasts more rain in upper parts of Punjab from July 29",
+      "summary": "AI summary: Punjab's Chenab River flood level eased from medium to low as flows stabilized across major barrages, even as authorities recorded 29 deaths and 203 injuries from monsoon flooding since June 25 and Pakistan's weather bureau forecast a fresh rain spell starting July 29.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2018500/chenab-flood-level-eases-from-medium-to-low-pmd-forecasts-more-rain-in-upper-parts-of-punjab-from-july-29" }
+      ],
+      "timestamp": "Jul 26, 3:22 PM",
+      "publishedAt": "2026-07-26T15:22:04+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Continued flooding submerges farmland and requires costly government compensation payouts." },
+        "political": { "value": "neutral", "reason": "Routine disaster response by provincial authorities; no governance controversy." },
+        "social": { "value": "negative", "reason": "29 deaths, 203 injuries, and submerged land directly affect public safety and daily life." },
+        "market": { "value": "low", "reason": "Localized flood-recovery news with limited direct relevance to broader markets or investors." },
+        "lean": { "value": "balanced", "reason": "Reports official disaster data and forecasts without favoring any political side." },
+        "confidence": { "value": "high", "reason": "Based on the full article citing PDMA flow data and PMD's forecast directly." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Israeli settlers torch 2 mosques in West Bank: Palestinian officials",
+      "summary": "AI summary: Palestinian officials say Israeli settlers set fire to two mosques in the West Bank overnight, one under construction in Qusra and another in Kour near Tulkarem, both defaced with Hebrew graffiti, days after a deadly attack in Tell village and subsequent Israeli military raids in Nablus.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2018507/israeli-settlers-torch-2-mosques-in-west-bank-palestinian-officials" }
+      ],
+      "timestamp": "Jul 26, 2:42 PM",
+      "publishedAt": "2026-07-26T14:42:09+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Property damage is localized and has no material economic effect on broader markets." },
+        "political": { "value": "negative", "reason": "Extrajudicial arson attacks by settlers signal eroding rule of law and escalate regional instability." },
+        "social": { "value": "negative", "reason": "Attacks on religious sites heighten fear and harm affected communities." },
+        "market": { "value": "low", "reason": "No direct bearing on Pakistani or global markets." },
+        "lean": { "value": "balanced", "reason": "Attributes claims to Palestinian officials and also includes the Israeli military's confirmation and response." },
+        "confidence": { "value": "medium", "reason": "Based on the full article, though sourced mainly from Palestinian officials with only partial Israeli corroboration." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Anum Uzair conquers Pakistan's first Galiyat Mountain Trail Ultra Marathon",
+      "summary": "AI summary: Pakistani mountaineer and trail runner Anum Uzair won the country's first 100-kilometre Galiyat Mountain Trail Ultra Marathon, adding to her list of endurance achievements.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/674807-anum-uzair-conquers-pakistans-first-galiyat-mountain-trail-ultra-marathon" }
+      ],
+      "timestamp": "Jul 26, 1:34 PM",
+      "publishedAt": "2026-07-26T13:34:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A sporting achievement with no notable effect on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "Purely a sports story with no bearing on governance or institutions." },
+        "social": { "value": "positive", "reason": "A celebrated athletic achievement lifts public morale and highlights local sporting culture." },
+        "market": { "value": "low", "reason": "No relevance to investors or business decision-making." },
+        "lean": { "value": "balanced", "reason": "Straightforward achievement reporting with no political framing." },
+        "confidence": { "value": "medium", "reason": "Based only on the RSS description excerpt, not the full article." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "11 killed, 25 injured in rain-related incidents across Pakistan",
+      "summary": "AI summary: Pakistan's disaster management authority reported 11 more deaths and 25 injuries from rain-related incidents in the past 24 hours, pushing the monsoon season's death toll to 97 since late June, with fresh damage to homes and livestock across several provinces.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40431867/11-killed-25-injured-in-rain-related-incidents-across-pakistan" }
+      ],
+      "timestamp": "Jul 26, 12:50 PM",
+      "publishedAt": "2026-07-26T12:50:13+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Destroyed homes and livestock losses add to mounting monsoon-season economic damage." },
+        "political": { "value": "neutral", "reason": "Reports NDMA disaster data without implicating government performance or institutional stability." },
+        "social": { "value": "negative", "reason": "New deaths, injuries, and displacement directly harm public safety and wellbeing." },
+        "market": { "value": "low", "reason": "Domestic disaster toll with limited direct relevance to markets or investors." },
+        "lean": { "value": "balanced", "reason": "Presents official NDMA casualty figures without favoring any political side." },
+        "confidence": { "value": "medium", "reason": "Based on the RSS description excerpt rather than the full article, though it cites specific NDMA figures." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "US holds fire against Iran as reports of concerns over dwindling munitions emerge",
+      "summary": "AI summary: The US has paused nightly airstrikes on Iran after nearly five months of conflict, with reports of dwindling munitions supplies and internal concerns from Vice President Vance and military leadership reviving hopes for diplomatic talks, even as Trump has threatened further escalation.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2018487/us-holds-fire-against-iran-as-reports-of-concerns-over-dwindling-munitions-emerge" }
+      ],
+      "timestamp": "Jul 26, 12:24 PM",
+      "publishedAt": "2026-07-26T12:24:27+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct bearing on Pakistan's economy; broader global oil and security implications are indirect." },
+        "political": { "value": "neutral", "reason": "A foreign conflict pause with no direct effect on Pakistani governance or institutions." },
+        "social": { "value": "neutral", "reason": "Limited direct effect on Pakistani public wellbeing or daily life." },
+        "market": { "value": "medium", "reason": "A US-Iran conflict pause affects regional oil markets and shipping routes relevant to investors." },
+        "lean": { "value": "balanced", "reason": "Reports multiple viewpoints including Pentagon, White House, and Iranian officials without favoring a side." },
+        "confidence": { "value": "high", "reason": "Based on the full article citing named officials and multiple corroborated details." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Security forces have killed 16 terrorists so far during ongoing Operation Al-Azm in Balochistan: state media",
+      "summary": "AI summary: State media reports Pakistani security forces have killed 16 militants so far in Operation Al-Azm, a counterterrorism campaign in Balochistan launched after a July 23 coach attack near Quetta killed three people, amid a broader spike in provincial terrorist attacks this year.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2018497/security-forces-have-killed-16-terrorists-so-far-during-ongoing-operation-al-azm-in-balochistan-state-media" }
+      ],
+      "timestamp": "Jul 26, 11:58 AM",
+      "publishedAt": "2026-07-26T11:58:12+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Ongoing insurgent attacks and military operations disrupt business activity and investment in Balochistan." },
+        "political": { "value": "negative", "reason": "A 109% rise in attacks and an escalating military campaign point to deteriorating security control in the province." },
+        "social": { "value": "negative", "reason": "Continuing attacks and military operations threaten public safety, even though the operation itself is framed as a security success." },
+        "market": { "value": "medium", "reason": "Security instability in a resource-rich province affects investor confidence and business risk assessments." },
+        "lean": { "value": "balanced", "reason": "Attributes kill claims to state media/ISPR rather than presenting them as independently verified, while also reporting the government's security narrative." },
+        "confidence": { "value": "medium", "reason": "Claims are attributed to state media and ISPR rather than independently verified, though based on the full article." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Dar talks with KSA FM",
+      "summary": "AI summary: Pakistan's Deputy PM and Foreign Minister Ishaq Dar spoke with Saudi Arabia's Foreign Minister Prince Faisal bin Farhan Al Saud, with both sides reaffirming their commitment to strengthening bilateral ties and regional diplomatic stability.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40431848/dar-talks-with-ksa-fm" }
+      ],
+      "timestamp": "Jul 26, 2:25 AM",
+      "publishedAt": "2026-07-26T02:25:07+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "General diplomatic dialogue without concrete economic or trade commitments mentioned." },
+        "political": { "value": "positive", "reason": "Reaffirmed diplomatic ties with a key ally supports Pakistan's international standing and stability." },
+        "social": { "value": "neutral", "reason": "A diplomatic call has no direct bearing on daily public life." },
+        "market": { "value": "low", "reason": "No specific investment, trade, or business decisions announced." },
+        "lean": { "value": "balanced", "reason": "Routine diplomatic readout without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on the RSS description excerpt rather than the full article." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "DG FDA for safeguarding institutional interests",
+      "summary": "AI summary: The Director General of the Faisalabad Development Authority directed officials to ensure legal compliance in court cases while protecting the institution's interests, and called for modernizing service delivery systems.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40431849/dg-fda-for-safeguarding-institutional-interests" }
+      ],
+      "timestamp": "Jul 26, 2:25 AM",
+      "publishedAt": "2026-07-26T02:25:07+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "An internal administrative directive with no direct market or business impact." },
+        "political": { "value": "neutral", "reason": "Routine internal governance directive at a local development authority, with no notable stability impact." },
+        "social": { "value": "neutral", "reason": "No direct effect on public wellbeing or daily life mentioned." },
+        "market": { "value": "low", "reason": "A local authority's internal management matter, not relevant to investors." },
+        "lean": { "value": "balanced", "reason": "A straightforward administrative statement without political framing." },
+        "confidence": { "value": "medium", "reason": "Based on the RSS description excerpt rather than the full article." }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "Governor seeks stronger Pak-Türkiye partnership in healthcare",
+      "summary": "AI summary: Sindh Governor Syed Muhammad Nihal Hashmi called for deeper healthcare and medical research cooperation with Turkey, discussing expanded investment opportunities in Sindh's medical sector with the Ibn Sina Foundation.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40431850/governor-seeks-stronger-pak-turkiye-partnership-in-healthcare" }
+      ],
+      "timestamp": "Jul 26, 2:25 AM",
+      "publishedAt": "2026-07-26T02:25:07+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Proposed healthcare investment and cooperation could boost Sindh's medical sector and related business activity." },
+        "political": { "value": "neutral", "reason": "A routine diplomatic and bilateral cooperation statement with no bearing on governance stability." },
+        "social": { "value": "positive", "reason": "Expanded healthcare cooperation could improve medical services and public wellbeing." },
+        "market": { "value": "low", "reason": "Early-stage cooperation talk without concrete deals or figures for investors to act on." },
+        "lean": { "value": "balanced", "reason": "A straightforward cooperation announcement without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on the RSS description excerpt rather than the full article." }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "Dust storm hits Karachi as rain falls in parts of city",
+      "summary": "AI summary: Karachi experienced its second consecutive day of rain along with a dust storm that briefly disrupted normal activity, as Pakistan's weather bureau forecast more showers across the country through July 27.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/674761-dust-storm-hits-karachi-as-rain-falls-in-parts-of-city" }
+      ],
+      "timestamp": "Jul 25, 10:53 PM",
+      "publishedAt": "2026-07-25T22:53:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Brief weather disruption with no lasting effect on business activity reported." },
+        "political": { "value": "neutral", "reason": "A routine weather report with no bearing on governance or institutions." },
+        "social": { "value": "negative", "reason": "Dust storm and rain briefly disrupted normal daily activity in the city." },
+        "market": { "value": "low", "reason": "Routine weather coverage with minimal relevance to investors." },
+        "lean": { "value": "balanced", "reason": "Straightforward weather reporting without political framing." },
+        "confidence": { "value": "medium", "reason": "Based only on the RSS description excerpt, not the full article." }
+      }
+    },
+    {
+      "id": 11,
+      "headline": "Four terrorists killed as forces foil attack on South Waziristan checkpost: ISPR",
+      "summary": "AI summary: ISPR said security forces foiled an attack on a checkpost in South Waziristan, killing four militants including a suicide bomber who detonated an explosive-laden vehicle near the checkpost perimeter.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/674756-four-terrorists-killed-as-forces-foil-attack-on-south-waziristan-checkpost-ispr" }
+      ],
+      "timestamp": "Jul 25, 10:01 PM",
+      "publishedAt": "2026-07-25T22:01:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A single foiled attack with no reported broader economic disruption." },
+        "political": { "value": "negative", "reason": "A militant attack on a security checkpost reflects persistent instability challenging state authority in the tribal region." },
+        "social": { "value": "negative", "reason": "An armed attack and suicide bombing near a security post pose direct danger to personnel and residents, even though it was repelled." },
+        "market": { "value": "low", "reason": "A localized security incident with limited direct relevance to markets or investors." },
+        "lean": { "value": "balanced", "reason": "Attributes the account to ISPR rather than presenting it as independently verified." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt, and the account rests solely on the military's own statement." }
+      }
+    },
+    {
+      "id": 12,
+      "headline": "Centre vows 'every possible support' for Balochistan against terrorism",
+      "summary": "AI summary: Federal officials pledged to provide every possible support to Balochistan in its fight against terrorism, discussing the province's security situation and vowing to ensure lasting peace.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/674739-centre-vows-every-possible-support-for-balochistan-against-terrorism" }
+      ],
+      "timestamp": "Jul 25, 7:21 PM",
+      "publishedAt": "2026-07-25T19:21:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A statement of intent without specific economic measures announced." },
+        "political": { "value": "neutral", "reason": "Signals routine federal-provincial coordination on security rather than instability." },
+        "social": { "value": "neutral", "reason": "A pledge of support without immediate direct effect on daily life." },
+        "market": { "value": "low", "reason": "No concrete economic or investment details for market relevance." },
+        "lean": { "value": "balanced", "reason": "Reports a government pledge without contesting or endorsing framing." },
+        "confidence": { "value": "medium", "reason": "Based only on the RSS description excerpt, not the full article." }
+      }
+    }
+  ]
+}
