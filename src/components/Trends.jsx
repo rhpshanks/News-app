@@ -69,7 +69,16 @@ export default function Trends({ history, lockedRange = false }) {
   const xLabels = useMemo(() => {
     const n = days.length;
     if (n === 0) return [];
-    const positions = n <= 5 ? days.map((_, i) => i) : [0, Math.round((n - 1) * 0.25), Math.round((n - 1) * 0.5), Math.round((n - 1) * 0.75), n - 1];
+    // Below the cap, label every point, plenty of room for short date labels at that
+    // count. Above it, space a fixed number of labels evenly by index so a small n
+    // (e.g. 6) can't land two picks on the same rounded position and silently drop
+    // one, which a fixed 25/50/75% split did.
+    const maxLabels = 8;
+    if (n <= maxLabels) {
+      return days.map((d, i) => ({ i, label: formatDate(d.date, true) }));
+    }
+    const step = (n - 1) / (maxLabels - 1);
+    const positions = Array.from({ length: maxLabels }, (_, k) => Math.round(k * step));
     return [...new Set(positions)].map((i) => ({ i, label: formatDate(days[i].date, true) }));
   }, [days]);
 
