@@ -1,0 +1,197 @@
+{
+  "generatedAt": "2026-07-27T10:15:00+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "FO Condemns Indian Minister's Remarks on Kashmir Issue",
+      "summary": "AI summary: Pakistan's Foreign Office rejected as \"highly provocative and irresponsible\" Indian Defence Minister Rajnath Singh's remarks ruling out talks with Pakistan and calling Kashmir a settled matter, while Defence Minister Khawaja Asif dismissed the comments as an attempt to distract from India's own instability.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/674895-pakistan-slams-indias-misplaced-rhetoric-of-aggression-belligerence" },
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2018711/fo-condemns-indian-ministers-remarks-on-kashmir-issue-warns-against-underestimating-resolve-to-thwart-any-adventurism" }
+      ],
+      "timestamp": "Jul 27, 8:34 AM",
+      "publishedAt": "2026-07-27T08:34:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Diplomatic rhetoric with no direct effect on trade, prices, or business activity." },
+        "political": { "value": "negative", "reason": "Sharpening India-Pakistan rhetoric over Kashmir raises cross-border tension and echoes the run-up to the May 2025 conflict." },
+        "social": { "value": "neutral", "reason": "Verbal exchange between officials with no immediate on-the-ground impact on the public." },
+        "market": { "value": "low", "reason": "Rhetorical escalation alone has limited direct bearing on markets absent concrete military action." },
+        "lean": { "value": "balanced", "reason": "Reports both India's original statement and Pakistan's official rebuttal without favoring a domestic political side." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two outlets, though the Geo account was limited to its RSS excerpt rather than the full article." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "First Phase of AJK Polls Begins in Mirpur Division",
+      "summary": "AI summary: Voting opened Monday across 13 constituencies in Azad Jammu and Kashmir's Mirpur division with about 288 candidates on the ballot, backed by over 18,000 security personnel under a three-tier security plan, with two further polling phases scheduled for August 2 and August 10.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2018691/first-phase-of-ajk-polls-begins-in-mirpur-division" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/674898-polling-begins-in-first-phase-of-ajk-elections-across-mirpur-division" }
+      ],
+      "timestamp": "Jul 27, 8:00 AM",
+      "publishedAt": "2026-07-27T08:00:40+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A scheduled regional election phase with no direct bearing on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "Routine phase of a multi-stage election proceeding as planned; heavy security is precautionary rather than a sign of instability." },
+        "social": { "value": "neutral", "reason": "A public holiday and heavy security presence disrupt normal routine locally but reflect a standard election-day exercise." },
+        "market": { "value": "low", "reason": "Limited relevance to investors or broader business decisions." },
+        "lean": { "value": "balanced", "reason": "Reports voter and security logistics factually, mentioning both PML-N and PPP without favoring either." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two outlets, though the Geo account was limited to its RSS excerpt rather than the full article." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Lull in Iran, US Fighting Achieved by Fresh Round of Diplomacy",
+      "summary": "AI summary: After 13 consecutive nights of US airstrikes on Iran, both sides paused hostilities over the weekend following diplomatic outreach involving Pakistan, Turkey and Qatar, with US officials also citing depleted missile stockpiles and internal opposition to further escalation as factors behind the pause.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2018664/lull-in-iran-us-fighting-achieved-by-fresh-round-of-diplomacy" }
+      ],
+      "timestamp": "Jul 27, 7:28 AM",
+      "publishedAt": "2026-07-27T07:28:31+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Easing of a nearby regional conflict reduces the risk of oil-price and supply-chain shocks that would affect Pakistan." },
+        "political": { "value": "positive", "reason": "Pakistan's cited role as a diplomatic channel among Tehran, Washington, Riyadh and Beijing reinforces its regional standing." },
+        "social": { "value": "positive", "reason": "A pause in a nearby active conflict reduces regional instability risk near Pakistan's neighborhood." },
+        "market": { "value": "medium", "reason": "Regional conflict de-escalation is relevant to oil prices and broader market sentiment." },
+        "lean": { "value": "balanced", "reason": "Cites multiple named officials and outlets on both the US and Iranian sides without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on a single detailed article citing named officials, but not independently corroborated by the other two feeds." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "President, PM, Others Return Gifts to Toshakhana",
+      "summary": "AI summary: Newly released cabinet division records show President Zardari, PM Shehbaz Sharif, Deputy PM Ishaq Dar and other officials deposited numerous gifts received from foreign dignitaries, including luxury watches and jewelry, into the state's Toshakhana repository, though the identities of the gift-givers were withheld and item valuations remain pending.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2018662/president-pm-others-return-gifts-to-toshakhana" }
+      ],
+      "timestamp": "Jul 27, 7:17 AM",
+      "publishedAt": "2026-07-27T07:17:39+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Routine disclosure of gift records with no broader economic effect." },
+        "political": { "value": "neutral", "reason": "Presented as routine compliance with disclosure rules rather than a scandal, though withheld donor identities leave a minor transparency gap." },
+        "social": { "value": "neutral", "reason": "Does not directly affect the general public's daily life or safety." },
+        "market": { "value": "low", "reason": "No relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Factual reporting of official records with quotes from the information minister, no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on the full article and official records, but from a single source." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Bilawal Renews Call for 'Truth and Reconciliation Commission' in AJK",
+      "summary": "AI summary: PPP Chairman Bilawal Bhutto-Zardari repeated his call for an independent Truth and Reconciliation Commission to address grievances in Azad Jammu and Kashmir, framing it as a path to justice for affected families while campaigning ahead of the AJK polls.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40431934/bilawal-renews-call-for-truth-and-reconciliation-commission-in-ajk" }
+      ],
+      "timestamp": "Jul 27, 5:04 AM",
+      "publishedAt": "2026-07-27T05:04:59+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A campaign policy proposal with no direct economic effect." },
+        "political": { "value": "neutral", "reason": "A campaign-trail policy proposal rather than a governance-stability issue." },
+        "social": { "value": "neutral", "reason": "A proposed commission, not yet an action affecting public wellbeing." },
+        "market": { "value": "low", "reason": "No relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "PPP's precise current standing as government or opposition party in this context is not confidently known, so this defaults to balanced per SOP guidance." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt (Business Recorder's article page returned 403 Forbidden), and PPP's government/opposition status here is uncertain." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "SSUET to Organize Job Fair",
+      "summary": "AI summary: Sir Syed University of Engineering and Technology announced it will hold Job Fair 2026 on July 30 to connect students and graduates with employers for career opportunities and on-the-spot interviews.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40431891/ssuet-to-organize-job-fair" }
+      ],
+      "timestamp": "Jul 27, 5:04 AM",
+      "publishedAt": "2026-07-27T05:04:58+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "A job fair supports hiring activity and connects graduates with employers." },
+        "political": { "value": "neutral", "reason": "A university-run event with no bearing on governance stability." },
+        "social": { "value": "positive", "reason": "Creates employment and career opportunities for students and graduates." },
+        "market": { "value": "low", "reason": "A local university event with limited relevance to broader markets." },
+        "lean": { "value": "balanced", "reason": "A straightforward institutional announcement with no political framing." },
+        "confidence": { "value": "medium", "reason": "Based only on the RSS description excerpt (Business Recorder's article page returned 403 Forbidden), though the announcement itself is unambiguous." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "WAPDA Union Rejects Privatisation of DISCOs",
+      "summary": "AI summary: WAPDA employees across Khyber Pakhtunkhwa protested the government's planned privatisation of electricity distribution companies, warning it would raise tariffs and burden consumers, while demanding regularisation of contract staff and stronger action against electricity theft.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40431892/wapda-union-rejects-privatisation-of-discos" }
+      ],
+      "timestamp": "Jul 27, 5:04 AM",
+      "publishedAt": "2026-07-27T05:04:58+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Labor opposition to DISCO privatisation and warnings of higher tariffs signal friction around a key power-sector reform." },
+        "political": { "value": "negative", "reason": "Public-sector union protest against government privatisation policy signals friction between labor and the state over a major reform." },
+        "social": { "value": "negative", "reason": "Warnings of higher electricity tariffs directly concern consumers' daily costs and wellbeing." },
+        "market": { "value": "medium", "reason": "Relevant to investors tracking the DISCO privatisation and broader energy-sector reform agenda." },
+        "lean": { "value": "balanced", "reason": "Reports the union's grievances and demands as attributed claims, not asserted as fact or framed against a specific political party." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt, as Business Recorder's article page returned 403 Forbidden." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Sindh on High Alert as Heavy Monsoon Rains Loom",
+      "summary": "AI summary: Sindh's government placed disaster-response agencies on alert ahead of expected heavy monsoon rains, deploying dozens of dewatering vehicles and positioning over 1,500 Rescue 1122 personnel with boats and equipment for round-the-clock flood response.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40431896/sindh-on-high-alert-as-heavy-monsoon-rains-loom" }
+      ],
+      "timestamp": "Jul 27, 5:04 AM",
+      "publishedAt": "2026-07-27T05:04:58+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Potential heavy flooding threatens infrastructure, farmland, and business activity." },
+        "political": { "value": "neutral", "reason": "A routine precautionary mobilization by provincial authorities, not a governance controversy." },
+        "social": { "value": "negative", "reason": "Flood risk directly threatens public safety and daily life in affected areas." },
+        "market": { "value": "low", "reason": "Localized disaster-preparedness news with limited direct relevance to broader markets." },
+        "lean": { "value": "balanced", "reason": "Factual reporting of preparedness measures with no political framing." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt, as Business Recorder's article page returned 403 Forbidden." }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "PDMA Issues GLOF Advisory for Northern Areas; Chitral, Upper Kohistan Swat Put on High Alert",
+      "summary": "AI summary: Pakistan's Disaster Management Authority warned of possible glacial lake outburst flooding in the north, placing Chitral and Upper Kohistan Swat on high alert and directing authorities to closely monitor vulnerable glacial lakes and nearby communities.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/674854-pdma-issues-glof-advisory-for-northern-areas-chitral-upper-kohistan-swat-put-on-high-alert" }
+      ],
+      "timestamp": "Jul 26, 9:13 PM",
+      "publishedAt": "2026-07-26T21:13:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Potential glacial lake flooding threatens agriculture and infrastructure in vulnerable northern areas." },
+        "political": { "value": "neutral", "reason": "A routine disaster-preparedness advisory by the relevant provincial authority." },
+        "social": { "value": "negative", "reason": "Flood risk directly threatens public safety in Chitral and Upper Kohistan Swat." },
+        "market": { "value": "low", "reason": "Localized, limited relevance to investors or broader markets." },
+        "lean": { "value": "balanced", "reason": "A factual safety advisory with no political framing." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt, as Geo's article page returned 403 Forbidden on this run." }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "Karachi Areas May Face Water Shortage as Power Breakdown Hits Dhabeji Pumping Station",
+      "summary": "AI summary: A power breakdown at the Dhabeji pumping station cut Karachi's water supply by roughly 75 million gallons a day, raising the risk of shortages in parts of the city until power is restored.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/674851-karachi-areas-may-face-water-shortage-as-power-breakdown-hits-dhabeji-pumping-station" }
+      ],
+      "timestamp": "Jul 26, 7:56 PM",
+      "publishedAt": "2026-07-26T19:56:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Reduced water supply disrupts households and businesses reliant on it in affected areas." },
+        "political": { "value": "neutral", "reason": "An infrastructure/utility failure rather than a governance-stability issue." },
+        "social": { "value": "negative", "reason": "Directly reduces residents' access to water, affecting daily life." },
+        "market": { "value": "low", "reason": "A localized utility disruption with limited relevance to broader markets." },
+        "lean": { "value": "balanced", "reason": "A factual infrastructure report with no political framing." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt, as Geo's article page returned 403 Forbidden on this run." }
+      }
+    }
+  ]
+}

@@ -3,45 +3,126 @@
     "date": "2026-07-22",
     "articleCount": 10,
     "counts": {
-      "economic": { "positive": 2, "neutral": 7, "negative": 1 },
-      "political": { "positive": 4, "neutral": 4, "negative": 2 },
-      "social": { "positive": 1, "neutral": 8, "negative": 1 }
+      "economic": {
+        "positive": 2,
+        "neutral": 7,
+        "negative": 1
+      },
+      "political": {
+        "positive": 4,
+        "neutral": 4,
+        "negative": 2
+      },
+      "social": {
+        "positive": 1,
+        "neutral": 8,
+        "negative": 1
+      }
     }
   },
   {
     "date": "2026-07-23",
     "articleCount": 10,
     "counts": {
-      "economic": { "positive": 0, "neutral": 5, "negative": 5 },
-      "political": { "positive": 2, "neutral": 7, "negative": 1 },
-      "social": { "positive": 0, "neutral": 4, "negative": 6 }
+      "economic": {
+        "positive": 0,
+        "neutral": 5,
+        "negative": 5
+      },
+      "political": {
+        "positive": 2,
+        "neutral": 7,
+        "negative": 1
+      },
+      "social": {
+        "positive": 0,
+        "neutral": 4,
+        "negative": 6
+      }
     }
   },
   {
     "date": "2026-07-24",
     "articleCount": 11,
     "counts": {
-      "economic": { "positive": 1, "neutral": 7, "negative": 3 },
-      "political": { "positive": 2, "neutral": 9, "negative": 0 },
-      "social": { "positive": 1, "neutral": 6, "negative": 4 }
+      "economic": {
+        "positive": 1,
+        "neutral": 7,
+        "negative": 3
+      },
+      "political": {
+        "positive": 2,
+        "neutral": 9,
+        "negative": 0
+      },
+      "social": {
+        "positive": 1,
+        "neutral": 6,
+        "negative": 4
+      }
     }
   },
   {
     "date": "2026-07-25",
     "articleCount": 10,
     "counts": {
-      "economic": { "positive": 1, "neutral": 5, "negative": 4 },
-      "political": { "positive": 1, "neutral": 5, "negative": 4 },
-      "social": { "positive": 0, "neutral": 4, "negative": 6 }
+      "economic": {
+        "positive": 1,
+        "neutral": 5,
+        "negative": 4
+      },
+      "political": {
+        "positive": 1,
+        "neutral": 5,
+        "negative": 4
+      },
+      "social": {
+        "positive": 0,
+        "neutral": 4,
+        "negative": 6
+      }
     }
   },
   {
     "date": "2026-07-26",
     "articleCount": 12,
     "counts": {
-      "economic": { "positive": 1, "neutral": 8, "negative": 3 },
-      "political": { "positive": 1, "neutral": 8, "negative": 3 },
-      "social": { "positive": 2, "neutral": 4, "negative": 6 }
+      "economic": {
+        "positive": 1,
+        "neutral": 8,
+        "negative": 3
+      },
+      "political": {
+        "positive": 1,
+        "neutral": 8,
+        "negative": 3
+      },
+      "social": {
+        "positive": 2,
+        "neutral": 4,
+        "negative": 6
+      }
+    }
+  },
+  {
+    "date": "2026-07-27",
+    "articleCount": 10,
+    "counts": {
+      "economic": {
+        "positive": 2,
+        "neutral": 4,
+        "negative": 4
+      },
+      "political": {
+        "positive": 1,
+        "neutral": 7,
+        "negative": 2
+      },
+      "social": {
+        "positive": 2,
+        "neutral": 4,
+        "negative": 4
+      }
     }
   }
 ]
