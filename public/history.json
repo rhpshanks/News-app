@@ -135,14 +135,14 @@
         "negative": 1
       },
       "political": {
-        "positive": 2,
-        "neutral": 5,
-        "negative": 2
+        "positive": 0,
+        "neutral": 6,
+        "negative": 3
       },
       "social": {
-        "positive": 0,
-        "neutral": 5,
-        "negative": 4
+        "positive": 2,
+        "neutral": 2,
+        "negative": 5
       }
     }
   }

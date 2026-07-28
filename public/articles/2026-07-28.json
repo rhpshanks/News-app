@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-07-28T23:05:00+05:00",
+  "generatedAt": "2026-07-28T23:58:00+05:00",
   "articles": [
     {
       "id": 1,
       "headline": "Netanyahu visits White House for first Trump talks during Iran war",
-      "summary": "AI summary: Israeli PM Netanyahu held his first in-person White House meeting with President Trump since February's Iran war began, with talks focused primarily on Iran alongside Lebanon, Gaza, and regional security.",
+      "summary": "AI summary: Israeli PM Benjamin Netanyahu held roughly 90 minutes of closed-door talks with US President Trump at the White House, their first in-person meeting since the Iran war began in February, covering Iran, the Israel-Lebanon framework deal, and stalled Gaza reconstruction.",
       "sources": [
         { "name": "Dawn News", "url": "https://www.dawn.com/news/2019032/netanyahu-visits-white-house-for-first-trump-talks-during-iran-war" }
       ],
-      "timestamp": "Jul 28, 10:30 PM",
-      "publishedAt": "2026-07-28T22:30:09+05:00",
+      "timestamp": "Jul 28, 10:40 PM",
+      "publishedAt": "2026-07-28T22:40:26+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "A foreign leaders' meeting with no direct, immediate bearing on Pakistan's economy." },
-        "political": { "value": "neutral", "reason": "Diplomatic talks between Israel and the US on Iran; no direct effect on Pakistani institutional stability." },
-        "social": { "value": "neutral", "reason": "No new escalation reported; talks occur during a reported pause in the Iran conflict." },
-        "market": { "value": "medium", "reason": "Iran war developments and Strait of Hormuz tensions carry global oil-market relevance." },
-        "lean": { "value": "balanced", "reason": "Reports both leaders' positions and past friction without favoring either side." },
-        "confidence": { "value": "medium", "reason": "Single-source report on a foreign policy meeting; details are consistent and specific." }
+        "economic": { "value": "neutral", "reason": "A foreign-policy meeting with no direct bearing on Pakistan's economy." },
+        "political": { "value": "neutral", "reason": "Concerns Israel-US relations and does not touch Pakistani institutional stability." },
+        "social": { "value": "neutral", "reason": "No direct effect on Pakistani public wellbeing or daily life." },
+        "market": { "value": "medium", "reason": "Iran-war and Gaza developments feed into global oil price expectations, which matter to Pakistan as an oil importer." },
+        "lean": { "value": "balanced", "reason": "A foreign-affairs report on an Israel-US meeting, unrelated to Pakistani government or opposition framing." },
+        "confidence": { "value": "medium", "reason": "Single detailed source drawing on official statements and analyst comment, not independently cross-verified." }
       }
     },
     {
       "id": 2,
       "headline": "Militant elements within proscribed JAAC protests pursuing foreign agenda: Tarar",
-      "summary": "AI summary: Pakistani and AJK government officials, including Information Minister Attaullah Tarar, alleged that banned group JAAC's protests during AJK's elections involved militant elements with foreign backing, citing seized weapons and the killing of a police officer as evidence.",
+      "summary": "AI summary: Federal Information Minister Attaullah Tarar and Interior State Minister Talal Chaudhry told a joint press conference that militants linked to the banned JAAC, allegedly backed by Indian funding, were behind violent protests during AJK's elections, citing seized weapons, a slain police officer, and video evidence, while noting that most JAAC demands had already been accepted.",
       "sources": [
         { "name": "Geo News", "url": "https://www.geo.tv/latest/675152-banned-jaac-tried-to-disrupt-ajk-elections-through-unrest-information-secretary" },
         { "name": "Dawn News", "url": "https://www.dawn.com/news/2019021/militant-elements-within-proscribed-jaac-protests-pursuing-foreign-agenda-tarar" }
@@ -32,9 +32,9 @@
       "publishedAt": "2026-07-28T20:28:00+05:00",
       "flaggedForReview": true,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "No direct economic impact described; the story is a security and political dispute." },
+        "economic": { "value": "neutral", "reason": "A security and political dispute with no direct economic dimension." },
         "political": { "value": "negative", "reason": "Officials allege militant infiltration of an election-period protest movement, with a security death and weapons seized, pointing to real strain on institutional stability during AJK's polls." },
-        "social": { "value": "negative", "reason": "Officials report a police fatality, several injuries, and allege armed protesters used women and children as human shields." },
+        "social": { "value": "negative", "reason": "A police officer was killed and others injured, including by sniper fire, according to officials." },
         "market": { "value": "low", "reason": "A domestic political-security dispute with little direct market relevance." },
         "lean": { "value": "pro-government", "reason": "Both reports center on a government press conference and relay officials' claims about JAAC without a JAAC response or independent verification." },
         "confidence": { "value": "medium", "reason": "Corroborated by two outlets covering the same press conference with matching detail, but claims are attributed to officials rather than independently verified." }
@@ -43,7 +43,7 @@
     {
       "id": 3,
       "headline": "Govt finally revamps oil refining policy; what does it mean?",
-      "summary": "AI summary: Pakistan's cabinet approved a long-delayed Brownfield Refining Policy directing roughly $6 billion into upgrading the country's five refineries to Euro-V standards, aiming to raise petrol and diesel output while cutting furnace oil production.",
+      "summary": "AI summary: Pakistan's Cabinet Committee on Energy approved a long-delayed Brownfield Refining Policy backing roughly $6 billion in refinery upgrades, mandating higher petrol and diesel output, a sharp cut in furnace oil production, and Euro-V emission standards, in exchange for tariff protection and tax incentives.",
       "sources": [
         { "name": "Dawn News", "url": "https://www.dawn.com/news/2019003/govt-finally-revamps-oil-refining-policy-what-does-it-mean" }
       ],
@@ -51,37 +51,37 @@
       "publishedAt": "2026-07-28T19:10:30+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "positive", "reason": "Roughly $6 billion in refinery investment, higher fuel output, and reduced import reliance support business activity." },
-        "political": { "value": "neutral", "reason": "A routine cabinet policy approval with no apparent controversy." },
-        "social": { "value": "neutral", "reason": "Effects on consumers via fuel supply and emissions standards are indirect and long-term." },
-        "market": { "value": "high", "reason": "Directly relevant to refiners, energy investors, and import/fuel-price planning." },
-        "lean": { "value": "balanced", "reason": "Straightforward policy reporting on incentives and targets without partisan framing." },
-        "confidence": { "value": "medium", "reason": "Single-source report, but specific and consistent with cited figures." }
+        "economic": { "value": "positive", "reason": "A $6 billion refinery modernization framework with incentives is a significant investment and supply-side boost for the energy sector." },
+        "political": { "value": "neutral", "reason": "A technical cabinet policy approval, not a matter of institutional stability." },
+        "social": { "value": "positive", "reason": "Mandated Euro-V emission standards and reduced furnace-oil output should improve fuel quality and air quality over time." },
+        "market": { "value": "high", "reason": "Directly relevant to refiners, oil-marketing companies, and energy investors given the tariff protections and investment scale." },
+        "lean": { "value": "balanced", "reason": "A straightforward policy report with no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single detailed source with specific figures, not independently cross-verified against other outlets." }
       }
     },
     {
       "id": 4,
       "headline": "SHO among 11 cops booked for mistaken raid on AGP Awan's Lahore residence",
-      "summary": "AI summary: An SHO and ten other police personnel were booked after allegedly conducting a mistaken raid on Attorney General Mansoor Usman Awan's Lahore residence, with the AGP's driver accusing officers of scaling the gate and later deleting the raid's DVR footage.",
+      "summary": "AI summary: Eleven Lahore police personnel, including an SHO, were booked after allegedly climbing over the gate of Attorney General Mansoor Usman Awan's residence and carrying out a mistaken raid, with a household representative accusing police of deleting the raid's footage from the property's DVR.",
       "sources": [
         { "name": "Geo News", "url": "https://www.geo.tv/latest/675137-sho-among-11-cops-booked-for-mistaken-raid-on-agp-awans-lahore-residence" }
       ],
       "timestamp": "Jul 28, 6:54 PM",
       "publishedAt": "2026-07-28T18:54:00+05:00",
-      "flaggedForReview": false,
+      "flaggedForReview": true,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "No economic dimension to a local policing incident." },
-        "political": { "value": "neutral", "reason": "An isolated law-enforcement error against a senior legal official, with an accountability case already registered." },
-        "social": { "value": "negative", "reason": "Allegations of a mistaken raid and destroyed evidence raise public trust and rule-of-law concerns for those affected." },
-        "market": { "value": "low", "reason": "No relevance to markets or investors." },
-        "lean": { "value": "balanced", "reason": "Reports the driver's allegations factually without visible partisan framing." },
-        "confidence": { "value": "low", "reason": "Based only on an RSS description excerpt, not the full article." }
+        "economic": { "value": "neutral", "reason": "A local law-enforcement incident with no economic dimension." },
+        "political": { "value": "negative", "reason": "A mistaken raid on the country's top law officer's residence, with an allegation that police deleted evidence, raises institutional accountability concerns." },
+        "social": { "value": "negative", "reason": "The incident and alleged cover-up raise public concerns about police overreach and accountability." },
+        "market": { "value": "low", "reason": "A local law-enforcement story with no market relevance." },
+        "lean": { "value": "balanced", "reason": "Limited excerpt available; no clear framing favoring government or opposition." },
+        "confidence": { "value": "low", "reason": "Full article was inaccessible; this reading is based only on the RSS description excerpt." }
       }
     },
     {
       "id": 5,
       "headline": "Pakistan govt nearly doubles Diyat value to Rs19.35mn for FY27",
-      "summary": "AI summary: The government nearly doubled Pakistan's official Diyat (blood money) compensation value to about Rs19.35 million for FY27, up from roughly Rs9.83 million, reflecting a rise in silver prices under the Pakistan Penal Code's annual formula.",
+      "summary": "AI summary: The federal government raised the statutory Diyat (blood money) rate by about 97% to Rs19.352 million for FY2026-27, up from Rs9.829 million, tracking a sharp rise in the silver prices used to benchmark the compensation figure under the Pakistan Penal Code.",
       "sources": [
         { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40432203/pakistan-govt-nearly-doubles-diyat-value-to-rs1935mn-for-fy27" }
       ],
@@ -89,18 +89,18 @@
       "publishedAt": "2026-07-28T18:42:03+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "A routine legal-compensation adjustment tied to silver prices, not a broad economic shift." },
-        "political": { "value": "neutral", "reason": "A standard annual administrative revision required by law, not a governance dispute." },
-        "social": { "value": "neutral", "reason": "Affects compensation in criminal cases for victims' heirs but has no broad, immediate social impact." },
-        "market": { "value": "low", "reason": "Narrow relevance limited to legal/compensation contexts, not general markets." },
-        "lean": { "value": "balanced", "reason": "A factual notification report with no partisan angle." },
-        "confidence": { "value": "medium", "reason": "Based on a detailed RSS description with specific figures, though from a single source." }
+        "economic": { "value": "neutral", "reason": "A statutory compensation adjustment tracking silver prices, not a broad economic driver." },
+        "political": { "value": "neutral", "reason": "A routine annual administrative/legal revision." },
+        "social": { "value": "positive", "reason": "Keeps compensation for victims' families in line with inflation and silver prices." },
+        "market": { "value": "low", "reason": "A legal/administrative figure with little relevance to investors or broader markets." },
+        "lean": { "value": "balanced", "reason": "A factual government notification with no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on a detailed RSS description with concrete figures, though the full article was inaccessible." }
       }
     },
     {
       "id": 6,
       "headline": "Pakistani passport ranks fourth weakest in world",
-      "summary": "AI summary: Pakistan's passport was ranked the world's fourth weakest in a new global index, placing 101st with visa-free or visa-on-arrival access to only 29 destinations.",
+      "summary": "AI summary: Pakistan's passport ranked 101st globally on the latest Henley Passport Index, the world's fourth-weakest, offering visa-free or visa-on-arrival access to only 29 destinations.",
       "sources": [
         { "name": "Geo News", "url": "https://www.geo.tv/latest/675124-pakistani-passport-ranks-fourth-weakest-in-world" }
       ],
@@ -108,18 +108,18 @@
       "publishedAt": "2026-07-28T18:33:00+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "negative", "reason": "Limited visa-free access constrains business travel and international opportunity for citizens." },
-        "political": { "value": "neutral", "reason": "A reputational ranking rather than a governance or stability event." },
-        "social": { "value": "negative", "reason": "Restricted travel access is a tangible limitation for citizens seeking work, study, or travel abroad." },
-        "market": { "value": "low", "reason": "Limited direct relevance to investors or business decisions." },
-        "lean": { "value": "balanced", "reason": "A factual ranking report with no political framing." },
-        "confidence": { "value": "medium", "reason": "Based on an RSS description excerpt citing a specific ranking and figures." }
+        "economic": { "value": "negative", "reason": "A weak passport ranking hampers business travel and trade facilitation for Pakistani citizens." },
+        "political": { "value": "neutral", "reason": "An index ranking, not tied to a specific institutional or governance event." },
+        "social": { "value": "negative", "reason": "Reflects limited global mobility and opportunity for ordinary citizens." },
+        "market": { "value": "low", "reason": "A mobility index with indirect relevance to markets or business decisions." },
+        "lean": { "value": "balanced", "reason": "A factual index report with no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on a detailed RSS description citing the index and rank, though the full article was inaccessible." }
       }
     },
     {
       "id": 7,
       "headline": "Pakistan eyes doubling trade with US to $20bn in five years: Dar",
-      "summary": "AI summary: Deputy PM Ishaq Dar told US congressional and business representatives in Islamabad that Pakistan aims to double bilateral trade with the United States to $20 billion within five years, citing over 80 American firms operating locally and a $1.25 billion US EXIM Bank commitment to the Reko Diq mining project.",
+      "summary": "AI summary: Deputy PM Ishaq Dar said Pakistan aims to double bilateral trade with the United States to $20 billion within five years, building on last fiscal year's $9.4 billion in trade and highlighting cotton, soybean, and hydrocarbon imports from the US.",
       "sources": [
         { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40432186/pakistan-eyes-doubling-trade-with-us-to-20bn-in-five-years-dar" }
       ],
@@ -127,18 +127,18 @@
       "publishedAt": "2026-07-28T16:35:02+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "positive", "reason": "Prospective trade growth, US investment, and financing for Reko Diq support business activity and exports." },
-        "political": { "value": "positive", "reason": "Deepening US-Pakistan economic ties reflects positively on diplomatic and institutional standing." },
-        "social": { "value": "neutral", "reason": "Effects on daily life are indirect and long-term at this stage." },
-        "market": { "value": "high", "reason": "Directly relevant to investors given trade, mining, tech, energy, and defense sector opportunities cited." },
-        "lean": { "value": "pro-government", "reason": "Relays a government minister's trade claims and figures without independent or opposition commentary." },
-        "confidence": { "value": "medium", "reason": "Based on a detailed RSS description from a single source." }
+        "economic": { "value": "positive", "reason": "A stated goal of doubling bilateral trade signals a positive economic and trade outlook." },
+        "political": { "value": "neutral", "reason": "A trade-policy statement, not an institutional stability matter." },
+        "social": { "value": "neutral", "reason": "No direct, immediate effect on public wellbeing or daily life." },
+        "market": { "value": "high", "reason": "Directly relevant to investors and trade-dependent businesses given the concrete trade figures cited." },
+        "lean": { "value": "balanced", "reason": "Reports a minister's stated goal without partisan framing against the opposition." },
+        "confidence": { "value": "medium", "reason": "Based on a detailed RSS description with concrete figures from an official statement, though the full article was inaccessible." }
       }
     },
     {
       "id": 8,
       "headline": "PM Shehbaz orders fast-tracking of govt rightsizing, calls for third-party audit",
-      "summary": "AI summary: PM Shehbaz Sharif directed federal institutions to speed up government rightsizing and ordered third-party audits of eliminated departments, with officials citing completed privatizations of PIA and First Women Bank as part of the wider downsizing drive.",
+      "summary": "AI summary: PM Shehbaz Sharif directed officials to accelerate the rightsizing of federal institutions and sought a third-party audit of the reforms, noting that closures of entities like USC, Pak PWD, and PASCO have already generated savings.",
       "sources": [
         { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40432174/pm-shehbaz-orders-fast-tracking-of-govt-rightsizing-calls-for-third-party-audit" }
       ],
@@ -146,18 +146,18 @@
       "publishedAt": "2026-07-28T14:59:47+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "positive", "reason": "Reduced government expenditure and completed privatizations are generally framed as fiscal and efficiency gains, though some eliminated positions represent job losses." },
-        "political": { "value": "positive", "reason": "PM-directed reform with added third-party audits signals governance follow-through and accountability." },
-        "social": { "value": "neutral", "reason": "No direct, immediate effect on public wellbeing described." },
-        "market": { "value": "medium", "reason": "Privatization progress (PIA, First Women Bank) is relevant to investors, though details are limited." },
-        "lean": { "value": "pro-government", "reason": "Presents the government's own reform narrative and claimed savings without independent or opposition commentary." },
-        "confidence": { "value": "medium", "reason": "Based on a detailed RSS description from a single source." }
+        "economic": { "value": "positive", "reason": "Abolishing redundant posts and closing loss-making entities is framed as generating fiscal savings." },
+        "political": { "value": "neutral", "reason": "An internal administrative reform directive, not a stability-threatening event." },
+        "social": { "value": "negative", "reason": "Rightsizing involves abolishing government posts, raising job-loss concerns for public-sector employees." },
+        "market": { "value": "medium", "reason": "Relevant to fiscal-policy watchers and public-finance-focused investors, though it is a domestic administrative matter." },
+        "lean": { "value": "pro-government", "reason": "The report relays the PM's reform narrative and cited savings uncontested, without independent scrutiny or an opposing view." },
+        "confidence": { "value": "medium", "reason": "Based on a detailed RSS description of an official statement, but the full article was inaccessible and figures are not independently verified." }
       }
     },
     {
       "id": 9,
       "headline": "Coalition partners PPP, PML-N spar after first phase of AJK elections as political temperatures rise",
-      "summary": "AI summary: PML-N won 9 of 13 Mirpur Division seats in AJK's first-phase elections; PML-N figures including Maryam Nawaz called it a clear mandate, while PPP officials alleged rigging and reported that a party worker was killed in election-related violence.",
+      "summary": "AI summary: PML-N won 9 of 13 seats in AJK's first-phase elections in Mirpur Division against PPP's 4, prompting Punjab CM Maryam Nawaz to urge PPP to accept the result and reject rigging claims, while PPP officials alleged vote-rigging and said a party worker was killed amid election violence.",
       "sources": [
         { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40432166/pml-n-dominates-mirpur-division-as-ajk-election-results-show-9-4-lead-over-ppp" },
         { "name": "Geo News", "url": "https://www.geo.tv/latest/675135-stop-crying-accept-ajk-polls-results-with-open-heart-maryam-hits-back-at-bilawal" },
@@ -171,7 +171,7 @@
         "political": { "value": "negative", "reason": "Rigging allegations and open sparring between federal coalition partners over AJK results point to friction within the governing coalition." },
         "social": { "value": "negative", "reason": "PPP officials report a party worker was killed and describe violence and scuffles during polling." },
         "market": { "value": "low", "reason": "A domestic political dispute with little bearing on markets." },
-        "lean": { "value": "balanced", "reason": "Coverage carries quotes from both PML-N (Maryam Nawaz, Ahsan Iqbal) and PPP (Sharjeel Memon), presenting both sides' claims." },
+        "lean": { "value": "balanced", "reason": "Coverage carries quotes from both PML-N (Maryam Nawaz) and PPP (Sharjeel Memon), presenting both sides' claims." },
         "confidence": { "value": "medium", "reason": "Corroborated by three outlets on the core result figures, though the rigging allegations themselves remain unverified claims from each side." }
       }
     }
