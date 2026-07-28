@@ -1,23 +1,44 @@
 {
-  "generatedAt": "2026-07-28T23:58:00+05:00",
+  "generatedAt": "2026-07-28T22:50:48+05:00",
   "articles": [
     {
       "id": 1,
       "headline": "Netanyahu visits White House for first Trump talks during Iran war",
       "summary": "AI summary: Israeli PM Benjamin Netanyahu held roughly 90 minutes of closed-door talks with US President Trump at the White House, their first in-person meeting since the Iran war began in February, covering Iran, the Israel-Lebanon framework deal, and stalled Gaza reconstruction.",
       "sources": [
-        { "name": "Dawn News", "url": "https://www.dawn.com/news/2019032/netanyahu-visits-white-house-for-first-trump-talks-during-iran-war" }
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2019032/netanyahu-visits-white-house-for-first-trump-talks-during-iran-war"
+        }
       ],
       "timestamp": "Jul 28, 10:40 PM",
       "publishedAt": "2026-07-28T22:40:26+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "A foreign-policy meeting with no direct bearing on Pakistan's economy." },
-        "political": { "value": "neutral", "reason": "Concerns Israel-US relations and does not touch Pakistani institutional stability." },
-        "social": { "value": "neutral", "reason": "No direct effect on Pakistani public wellbeing or daily life." },
-        "market": { "value": "medium", "reason": "Iran-war and Gaza developments feed into global oil price expectations, which matter to Pakistan as an oil importer." },
-        "lean": { "value": "balanced", "reason": "A foreign-affairs report on an Israel-US meeting, unrelated to Pakistani government or opposition framing." },
-        "confidence": { "value": "medium", "reason": "Single detailed source drawing on official statements and analyst comment, not independently cross-verified." }
+        "economic": {
+          "value": "neutral",
+          "reason": "A foreign-policy meeting with no direct bearing on Pakistan's economy."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Concerns Israel-US relations and does not touch Pakistani institutional stability."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on Pakistani public wellbeing or daily life."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Iran-war and Gaza developments feed into global oil price expectations, which matter to Pakistan as an oil importer."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "A foreign-affairs report on an Israel-US meeting, unrelated to Pakistani government or opposition framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single detailed source drawing on official statements and analyst comment, not independently cross-verified."
+        }
       }
     },
     {
@@ -25,19 +46,43 @@
       "headline": "Militant elements within proscribed JAAC protests pursuing foreign agenda: Tarar",
       "summary": "AI summary: Federal Information Minister Attaullah Tarar and Interior State Minister Talal Chaudhry told a joint press conference that militants linked to the banned JAAC, allegedly backed by Indian funding, were behind violent protests during AJK's elections, citing seized weapons, a slain police officer, and video evidence, while noting that most JAAC demands had already been accepted.",
       "sources": [
-        { "name": "Geo News", "url": "https://www.geo.tv/latest/675152-banned-jaac-tried-to-disrupt-ajk-elections-through-unrest-information-secretary" },
-        { "name": "Dawn News", "url": "https://www.dawn.com/news/2019021/militant-elements-within-proscribed-jaac-protests-pursuing-foreign-agenda-tarar" }
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/675152-banned-jaac-tried-to-disrupt-ajk-elections-through-unrest-information-secretary"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2019021/militant-elements-within-proscribed-jaac-protests-pursuing-foreign-agenda-tarar"
+        }
       ],
       "timestamp": "Jul 28, 8:28 PM",
       "publishedAt": "2026-07-28T20:28:00+05:00",
       "flaggedForReview": true,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "A security and political dispute with no direct economic dimension." },
-        "political": { "value": "negative", "reason": "Officials allege militant infiltration of an election-period protest movement, with a security death and weapons seized, pointing to real strain on institutional stability during AJK's polls." },
-        "social": { "value": "negative", "reason": "A police officer was killed and others injured, including by sniper fire, according to officials." },
-        "market": { "value": "low", "reason": "A domestic political-security dispute with little direct market relevance." },
-        "lean": { "value": "pro-government", "reason": "Both reports center on a government press conference and relay officials' claims about JAAC without a JAAC response or independent verification." },
-        "confidence": { "value": "medium", "reason": "Corroborated by two outlets covering the same press conference with matching detail, but claims are attributed to officials rather than independently verified." }
+        "economic": {
+          "value": "neutral",
+          "reason": "A security and political dispute with no direct economic dimension."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Officials allege militant infiltration of an election-period protest movement, with a security death and weapons seized, pointing to real strain on institutional stability during AJK's polls."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "A police officer was killed and others injured, including by sniper fire, according to officials."
+        },
+        "market": {
+          "value": "low",
+          "reason": "A domestic political-security dispute with little direct market relevance."
+        },
+        "lean": {
+          "value": "pro-government",
+          "reason": "Both reports center on a government press conference and relay officials' claims about JAAC without a JAAC response or independent verification."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Corroborated by two outlets covering the same press conference with matching detail, but claims are attributed to officials rather than independently verified."
+        }
       }
     },
     {
@@ -45,18 +90,39 @@
       "headline": "Govt finally revamps oil refining policy; what does it mean?",
       "summary": "AI summary: Pakistan's Cabinet Committee on Energy approved a long-delayed Brownfield Refining Policy backing roughly $6 billion in refinery upgrades, mandating higher petrol and diesel output, a sharp cut in furnace oil production, and Euro-V emission standards, in exchange for tariff protection and tax incentives.",
       "sources": [
-        { "name": "Dawn News", "url": "https://www.dawn.com/news/2019003/govt-finally-revamps-oil-refining-policy-what-does-it-mean" }
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2019003/govt-finally-revamps-oil-refining-policy-what-does-it-mean"
+        }
       ],
       "timestamp": "Jul 28, 7:10 PM",
       "publishedAt": "2026-07-28T19:10:30+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "positive", "reason": "A $6 billion refinery modernization framework with incentives is a significant investment and supply-side boost for the energy sector." },
-        "political": { "value": "neutral", "reason": "A technical cabinet policy approval, not a matter of institutional stability." },
-        "social": { "value": "positive", "reason": "Mandated Euro-V emission standards and reduced furnace-oil output should improve fuel quality and air quality over time." },
-        "market": { "value": "high", "reason": "Directly relevant to refiners, oil-marketing companies, and energy investors given the tariff protections and investment scale." },
-        "lean": { "value": "balanced", "reason": "A straightforward policy report with no partisan framing." },
-        "confidence": { "value": "medium", "reason": "Single detailed source with specific figures, not independently cross-verified against other outlets." }
+        "economic": {
+          "value": "positive",
+          "reason": "A $6 billion refinery modernization framework with incentives is a significant investment and supply-side boost for the energy sector."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A technical cabinet policy approval, not a matter of institutional stability."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Mandated Euro-V emission standards and reduced furnace-oil output should improve fuel quality and air quality over time."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Directly relevant to refiners, oil-marketing companies, and energy investors given the tariff protections and investment scale."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "A straightforward policy report with no partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single detailed source with specific figures, not independently cross-verified against other outlets."
+        }
       }
     },
     {
@@ -64,18 +130,39 @@
       "headline": "SHO among 11 cops booked for mistaken raid on AGP Awan's Lahore residence",
       "summary": "AI summary: Eleven Lahore police personnel, including an SHO, were booked after allegedly climbing over the gate of Attorney General Mansoor Usman Awan's residence and carrying out a mistaken raid, with a household representative accusing police of deleting the raid's footage from the property's DVR.",
       "sources": [
-        { "name": "Geo News", "url": "https://www.geo.tv/latest/675137-sho-among-11-cops-booked-for-mistaken-raid-on-agp-awans-lahore-residence" }
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/675137-sho-among-11-cops-booked-for-mistaken-raid-on-agp-awans-lahore-residence"
+        }
       ],
       "timestamp": "Jul 28, 6:54 PM",
       "publishedAt": "2026-07-28T18:54:00+05:00",
       "flaggedForReview": true,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "A local law-enforcement incident with no economic dimension." },
-        "political": { "value": "negative", "reason": "A mistaken raid on the country's top law officer's residence, with an allegation that police deleted evidence, raises institutional accountability concerns." },
-        "social": { "value": "negative", "reason": "The incident and alleged cover-up raise public concerns about police overreach and accountability." },
-        "market": { "value": "low", "reason": "A local law-enforcement story with no market relevance." },
-        "lean": { "value": "balanced", "reason": "Limited excerpt available; no clear framing favoring government or opposition." },
-        "confidence": { "value": "low", "reason": "Full article was inaccessible; this reading is based only on the RSS description excerpt." }
+        "economic": {
+          "value": "neutral",
+          "reason": "A local law-enforcement incident with no economic dimension."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "A mistaken raid on the country's top law officer's residence, with an allegation that police deleted evidence, raises institutional accountability concerns."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "The incident and alleged cover-up raise public concerns about police overreach and accountability."
+        },
+        "market": {
+          "value": "low",
+          "reason": "A local law-enforcement story with no market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Limited excerpt available; no clear framing favoring government or opposition."
+        },
+        "confidence": {
+          "value": "low",
+          "reason": "Full article was inaccessible; this reading is based only on the RSS description excerpt."
+        }
       }
     },
     {
@@ -83,18 +170,39 @@
       "headline": "Pakistan govt nearly doubles Diyat value to Rs19.35mn for FY27",
       "summary": "AI summary: The federal government raised the statutory Diyat (blood money) rate by about 97% to Rs19.352 million for FY2026-27, up from Rs9.829 million, tracking a sharp rise in the silver prices used to benchmark the compensation figure under the Pakistan Penal Code.",
       "sources": [
-        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40432203/pakistan-govt-nearly-doubles-diyat-value-to-rs1935mn-for-fy27" }
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40432203/pakistan-govt-nearly-doubles-diyat-value-to-rs1935mn-for-fy27"
+        }
       ],
       "timestamp": "Jul 28, 6:42 PM",
       "publishedAt": "2026-07-28T18:42:03+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "A statutory compensation adjustment tracking silver prices, not a broad economic driver." },
-        "political": { "value": "neutral", "reason": "A routine annual administrative/legal revision." },
-        "social": { "value": "positive", "reason": "Keeps compensation for victims' families in line with inflation and silver prices." },
-        "market": { "value": "low", "reason": "A legal/administrative figure with little relevance to investors or broader markets." },
-        "lean": { "value": "balanced", "reason": "A factual government notification with no partisan framing." },
-        "confidence": { "value": "medium", "reason": "Based on a detailed RSS description with concrete figures, though the full article was inaccessible." }
+        "economic": {
+          "value": "neutral",
+          "reason": "A statutory compensation adjustment tracking silver prices, not a broad economic driver."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A routine annual administrative/legal revision."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Keeps compensation for victims' families in line with inflation and silver prices."
+        },
+        "market": {
+          "value": "low",
+          "reason": "A legal/administrative figure with little relevance to investors or broader markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "A factual government notification with no partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on a detailed RSS description with concrete figures, though the full article was inaccessible."
+        }
       }
     },
     {
@@ -102,18 +210,39 @@
       "headline": "Pakistani passport ranks fourth weakest in world",
       "summary": "AI summary: Pakistan's passport ranked 101st globally on the latest Henley Passport Index, the world's fourth-weakest, offering visa-free or visa-on-arrival access to only 29 destinations.",
       "sources": [
-        { "name": "Geo News", "url": "https://www.geo.tv/latest/675124-pakistani-passport-ranks-fourth-weakest-in-world" }
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/675124-pakistani-passport-ranks-fourth-weakest-in-world"
+        }
       ],
       "timestamp": "Jul 28, 6:33 PM",
       "publishedAt": "2026-07-28T18:33:00+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "negative", "reason": "A weak passport ranking hampers business travel and trade facilitation for Pakistani citizens." },
-        "political": { "value": "neutral", "reason": "An index ranking, not tied to a specific institutional or governance event." },
-        "social": { "value": "negative", "reason": "Reflects limited global mobility and opportunity for ordinary citizens." },
-        "market": { "value": "low", "reason": "A mobility index with indirect relevance to markets or business decisions." },
-        "lean": { "value": "balanced", "reason": "A factual index report with no partisan framing." },
-        "confidence": { "value": "medium", "reason": "Based on a detailed RSS description citing the index and rank, though the full article was inaccessible." }
+        "economic": {
+          "value": "negative",
+          "reason": "A weak passport ranking hampers business travel and trade facilitation for Pakistani citizens."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "An index ranking, not tied to a specific institutional or governance event."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Reflects limited global mobility and opportunity for ordinary citizens."
+        },
+        "market": {
+          "value": "low",
+          "reason": "A mobility index with indirect relevance to markets or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "A factual index report with no partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on a detailed RSS description citing the index and rank, though the full article was inaccessible."
+        }
       }
     },
     {
@@ -121,18 +250,39 @@
       "headline": "Pakistan eyes doubling trade with US to $20bn in five years: Dar",
       "summary": "AI summary: Deputy PM Ishaq Dar said Pakistan aims to double bilateral trade with the United States to $20 billion within five years, building on last fiscal year's $9.4 billion in trade and highlighting cotton, soybean, and hydrocarbon imports from the US.",
       "sources": [
-        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40432186/pakistan-eyes-doubling-trade-with-us-to-20bn-in-five-years-dar" }
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40432186/pakistan-eyes-doubling-trade-with-us-to-20bn-in-five-years-dar"
+        }
       ],
       "timestamp": "Jul 28, 4:35 PM",
       "publishedAt": "2026-07-28T16:35:02+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "positive", "reason": "A stated goal of doubling bilateral trade signals a positive economic and trade outlook." },
-        "political": { "value": "neutral", "reason": "A trade-policy statement, not an institutional stability matter." },
-        "social": { "value": "neutral", "reason": "No direct, immediate effect on public wellbeing or daily life." },
-        "market": { "value": "high", "reason": "Directly relevant to investors and trade-dependent businesses given the concrete trade figures cited." },
-        "lean": { "value": "balanced", "reason": "Reports a minister's stated goal without partisan framing against the opposition." },
-        "confidence": { "value": "medium", "reason": "Based on a detailed RSS description with concrete figures from an official statement, though the full article was inaccessible." }
+        "economic": {
+          "value": "positive",
+          "reason": "A stated goal of doubling bilateral trade signals a positive economic and trade outlook."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A trade-policy statement, not an institutional stability matter."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct, immediate effect on public wellbeing or daily life."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Directly relevant to investors and trade-dependent businesses given the concrete trade figures cited."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports a minister's stated goal without partisan framing against the opposition."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on a detailed RSS description with concrete figures from an official statement, though the full article was inaccessible."
+        }
       }
     },
     {
@@ -140,18 +290,39 @@
       "headline": "PM Shehbaz orders fast-tracking of govt rightsizing, calls for third-party audit",
       "summary": "AI summary: PM Shehbaz Sharif directed officials to accelerate the rightsizing of federal institutions and sought a third-party audit of the reforms, noting that closures of entities like USC, Pak PWD, and PASCO have already generated savings.",
       "sources": [
-        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40432174/pm-shehbaz-orders-fast-tracking-of-govt-rightsizing-calls-for-third-party-audit" }
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40432174/pm-shehbaz-orders-fast-tracking-of-govt-rightsizing-calls-for-third-party-audit"
+        }
       ],
       "timestamp": "Jul 28, 2:59 PM",
       "publishedAt": "2026-07-28T14:59:47+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "positive", "reason": "Abolishing redundant posts and closing loss-making entities is framed as generating fiscal savings." },
-        "political": { "value": "neutral", "reason": "An internal administrative reform directive, not a stability-threatening event." },
-        "social": { "value": "negative", "reason": "Rightsizing involves abolishing government posts, raising job-loss concerns for public-sector employees." },
-        "market": { "value": "medium", "reason": "Relevant to fiscal-policy watchers and public-finance-focused investors, though it is a domestic administrative matter." },
-        "lean": { "value": "pro-government", "reason": "The report relays the PM's reform narrative and cited savings uncontested, without independent scrutiny or an opposing view." },
-        "confidence": { "value": "medium", "reason": "Based on a detailed RSS description of an official statement, but the full article was inaccessible and figures are not independently verified." }
+        "economic": {
+          "value": "positive",
+          "reason": "Abolishing redundant posts and closing loss-making entities is framed as generating fiscal savings."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "An internal administrative reform directive, not a stability-threatening event."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Rightsizing involves abolishing government posts, raising job-loss concerns for public-sector employees."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Relevant to fiscal-policy watchers and public-finance-focused investors, though it is a domestic administrative matter."
+        },
+        "lean": {
+          "value": "pro-government",
+          "reason": "The report relays the PM's reform narrative and cited savings uncontested, without independent scrutiny or an opposing view."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on a detailed RSS description of an official statement, but the full article was inaccessible and figures are not independently verified."
+        }
       }
     },
     {
@@ -159,20 +330,455 @@
       "headline": "Coalition partners PPP, PML-N spar after first phase of AJK elections as political temperatures rise",
       "summary": "AI summary: PML-N won 9 of 13 seats in AJK's first-phase elections in Mirpur Division against PPP's 4, prompting Punjab CM Maryam Nawaz to urge PPP to accept the result and reject rigging claims, while PPP officials alleged vote-rigging and said a party worker was killed amid election violence.",
       "sources": [
-        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40432166/pml-n-dominates-mirpur-division-as-ajk-election-results-show-9-4-lead-over-ppp" },
-        { "name": "Geo News", "url": "https://www.geo.tv/latest/675135-stop-crying-accept-ajk-polls-results-with-open-heart-maryam-hits-back-at-bilawal" },
-        { "name": "Dawn News", "url": "https://www.dawn.com/news/2019014/coalition-partners-ppp-pml-n-spar-after-first-phase-of-ajk-elections-as-political-temperatures-rise" }
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40432166/pml-n-dominates-mirpur-division-as-ajk-election-results-show-9-4-lead-over-ppp"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/675135-stop-crying-accept-ajk-polls-results-with-open-heart-maryam-hits-back-at-bilawal"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2019014/coalition-partners-ppp-pml-n-spar-after-first-phase-of-ajk-elections-as-political-temperatures-rise"
+        }
       ],
       "timestamp": "Jul 28, 1:15 PM",
       "publishedAt": "2026-07-28T13:15:07+05:00",
       "flaggedForReview": true,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "An electoral and political dispute with no direct economic dimension." },
-        "political": { "value": "negative", "reason": "Rigging allegations and open sparring between federal coalition partners over AJK results point to friction within the governing coalition." },
-        "social": { "value": "negative", "reason": "PPP officials report a party worker was killed and describe violence and scuffles during polling." },
-        "market": { "value": "low", "reason": "A domestic political dispute with little bearing on markets." },
-        "lean": { "value": "balanced", "reason": "Coverage carries quotes from both PML-N (Maryam Nawaz) and PPP (Sharjeel Memon), presenting both sides' claims." },
-        "confidence": { "value": "medium", "reason": "Corroborated by three outlets on the core result figures, though the rigging allegations themselves remain unverified claims from each side." }
+        "economic": {
+          "value": "neutral",
+          "reason": "An electoral and political dispute with no direct economic dimension."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Rigging allegations and open sparring between federal coalition partners over AJK results point to friction within the governing coalition."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "PPP officials report a party worker was killed and describe violence and scuffles during polling."
+        },
+        "market": {
+          "value": "low",
+          "reason": "A domestic political dispute with little bearing on markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Coverage carries quotes from both PML-N (Maryam Nawaz) and PPP (Sharjeel Memon), presenting both sides' claims."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Corroborated by three outlets on the core result figures, though the rigging allegations themselves remain unverified claims from each side."
+        }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "PHC stops deportation of man named 'Quaid-i-Azam', directs him to appear before Nadra board",
+      "summary": "AI summary: The Peshawar High Court halted deportation proceedings against a Dubai-based businessman named Quaid-i-Azam after Nadra blocked his identity card as \"suspicious,\" ordering him instead to appear before Nadra's verification board.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2018808/phc-stops-deportation-of-man-named-quaid-i-azam-directs-him-to-appear-before-nadra-board"
+        }
+      ],
+      "timestamp": "Jul 28, 7:53 AM",
+      "publishedAt": "2026-07-28T07:53:28+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "An individual immigration/identity case with no bearing on broader economic activity."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A routine court order on an individual case, not indicative of broader institutional stress."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Affects one individual's circumstances rather than the wider public."
+        },
+        "market": {
+          "value": "low",
+          "reason": "No relevance to investors or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straightforward court reporting presenting both the petitioner's and Nadra's positions."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Based on a full article with direct quotes and case details from a single credible source."
+        }
+      }
+    },
+    {
+      "id": 11,
+      "headline": "Floodwaters sever rail link between Lahore, Faisalabad",
+      "summary": "AI summary: Pakistan Railways suspended all passenger and freight trains on the Lahore-Faisalabad route after monsoon floodwaters eroded bridge foundations at 25 breach points, with services rerouted or cancelled as the country's monsoon death toll passed 100.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2018903/floodwaters-sever-rail-link-between-lahore-faisalabad"
+        }
+      ],
+      "timestamp": "Jul 28, 7:16 AM",
+      "publishedAt": "2026-07-28T07:16:13+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Suspension of freight and passenger rail between two major industrial cities disrupts commerce and logistics."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A natural-disaster response story with no clear institutional blame assigned in the report."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Reflects a monsoon season that has already caused over 100 deaths and displaced travelers and commuters."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Disruption to a major transport corridor affects logistics-dependent businesses."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual disaster reporting with no partisan framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article with official quotes and specific figures on breach locations and water levels."
+        }
+      }
+    },
+    {
+      "id": 12,
+      "headline": "Govt decreases petrol price by Re1, increases HSD price by Rs3.37",
+      "summary": "AI summary: Pakistan's government cut petrol prices by Re1 to Rs334.18 per litre while raising high-speed diesel by Rs3.77 to Rs386.83, as the petroleum minister confirmed fuel prices will now be revised daily rather than weekly to track volatile global oil markets.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2018803/govt-decreases-petrol-price-by-re1-increases-hsd-price-by-rs337"
+        }
+      ],
+      "timestamp": "Jul 28, 7:10 AM",
+      "publishedAt": "2026-07-28T07:10:54+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "The diesel price hike raises transport, freight, and power-generation costs, outweighing the marginal petrol cut."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A routine pricing adjustment, though the dealers' association has objected to the new daily-pricing policy."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Mixed effect: petrol (used by most commuters) got cheaper while diesel (freight, transport fares) got costlier."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Relevant to transport, logistics, and energy-sector business planning, plus the shift to daily pricing."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the government's pricing decision alongside the dealers' association's objection."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article with precise figures and an official quote from the petroleum minister."
+        }
+      }
+    },
+    {
+      "id": 13,
+      "headline": "Pakistan condemns Indian officials' statement on Kashmir",
+      "summary": "AI summary: Pakistan's Defence Minister Khawaja Asif warned that increasingly confrontational Indian statements on Kashmir, including recent remarks by India's defence minister, could raise the risk of conflict between the two nuclear-armed states, as Pakistan's Foreign Office urged the international community to take note.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40432120/pakistan-condemns-indian-officials-statement-on-kashmir"
+        }
+      ],
+      "timestamp": "Jul 28, 5:33 AM",
+      "publishedAt": "2026-07-28T05:33:45+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No immediate economic effect, though prolonged regional tension carries longer-term risk."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Escalating rhetoric between two nuclear-armed neighbours over Kashmir signals rising diplomatic and regional-security strain."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Heightened cross-border rhetoric raises public anxiety and regional security risk."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Escalating India-Pakistan tension can weigh on investor sentiment and regional risk premiums."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports Pakistan's official condemnation of Indian statements; this is an India-Pakistan diplomatic story, not a domestic government-vs-opposition frame."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on an RSS description of official statements from Pakistan's side only, with no independent or Indian-side corroboration."
+        }
+      }
+    },
+    {
+      "id": 14,
+      "headline": "AJK elections: PML-N grabs 9 out of 13 seats across Mirpur division, unofficial results show",
+      "summary": "AI summary: Vote counting in the first phase of Azad Jammu and Kashmir's Mirpur division assembly elections shifted through the day, from an early PPP lead to PML-N ultimately winning 9 of 13 seats in unofficial results; polling was also marked by violence, a torched ballot box, and mutual rigging accusations between the two parties.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2018960/ajk-elections-pml-n-grabs-9-out-of-13-seats-across-mirpur-division-unofficial-results-show"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/675066-pml-n-wins-eight-of-11-declared-seats-in-first-phase-of-ajk-elections"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40432109/ajk-elections-ppp-takes-narrow-lead"
+        }
+      ],
+      "timestamp": "Jul 28, 5:33 AM",
+      "publishedAt": "2026-07-28T05:33:45+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A regional assembly election result carries no direct near-term economic effect."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Voting was marred by violence, a torched ballot box, suspended presiding officers, and mutual rigging allegations between PML-N and PPP."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Clashes and violence at polling stations posed safety risks to voters."
+        },
+        "market": {
+          "value": "low",
+          "reason": "A regional AJK assembly election has little direct relevance to investors or markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Coverage reflects both parties' claims and wins across the three sources without favoring one narrative."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Corroborated by three outlets, but exact seat tallies differ between them as vote counting was still in progress when each report was filed."
+        }
+      }
+    },
+    {
+      "id": 15,
+      "headline": "Group Captain murder case: Court extends physical remand of accused",
+      "summary": "AI summary: An anti-terrorism court granted a seven-day remand extension for the suspect accused of murdering PAF Group Captain Asim Tariq, after police recovered the alleged murder weapon but not the suspect's phone; he is due back in court on August 3.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40432114/group-captain-murder-case-court-extends-physical-remand-of-accused"
+        }
+      ],
+      "timestamp": "Jul 28, 5:33 AM",
+      "publishedAt": "2026-07-28T05:33:45+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No bearing on economic activity."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A routine judicial proceeding with no institutional-stability angle."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Relates to an unresolved murder of a military officer, an ongoing public safety concern."
+        },
+        "market": {
+          "value": "low",
+          "reason": "No relevance to markets or investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual court reporting of prosecution and defence proceedings."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on an RSS description excerpt rather than the full article."
+        }
+      }
+    },
+    {
+      "id": 16,
+      "headline": "CDF, US lawmakers discuss regional security",
+      "summary": "AI summary: According to ISPR, two visiting US congressmen met Pakistan's military chief Field Marshal Asim Munir to discuss regional security, bilateral defence cooperation, and opportunities to expand economic ties between the two countries.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40432101/cdf-us-lawmakers-discuss-regional-security"
+        }
+      ],
+      "timestamp": "Jul 28, 5:33 AM",
+      "publishedAt": "2026-07-28T05:33:44+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "ISPR's statement cites discussion of enhanced economic collaboration and foreign investment opportunities."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "Reflects continued US-Pakistan military and diplomatic engagement, framed by ISPR as strengthening bilateral ties."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct bearing on public daily life."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Mentions of foreign investment and economic collaboration have some relevance to investors, though no concrete deals were announced."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Relays an ISPR statement on a bilateral military meeting; no domestic government-vs-opposition framing involved."
+        },
+        "confidence": {
+          "value": "low",
+          "reason": "Based solely on an ISPR statement via RSS excerpt, with no independent corroboration."
+        }
+      }
+    },
+    {
+      "id": 17,
+      "headline": "Kuwait's foreign minister due in Pakistan today to discuss regional developments",
+      "summary": "AI summary: Kuwait's foreign minister is set to visit Pakistan on July 28-29 for talks with Deputy PM Ishaq Dar on regional developments and bilateral relations, Pakistan's Foreign Office confirmed.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/675012-kuwaiti-foreign-minister-due-in-pakistan-tomorrow-to-discuss-regional-developments"
+        }
+      ],
+      "timestamp": "Jul 27, 10:53 PM",
+      "publishedAt": "2026-07-27T22:53:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A diplomatic visit with no concrete economic action announced yet."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "Reflects strengthening diplomatic engagement, generally viewed as positive for Pakistan's foreign relations."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct bearing on public daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "No concrete economic or trade announcements yet from this visit."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Routine diplomatic news based on an official Foreign Office readout."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on an RSS description excerpt rather than the full article."
+        }
+      }
+    },
+    {
+      "id": 18,
+      "headline": "Widespread rains likely across Sindh including Karachi by August 2: experts",
+      "summary": "AI summary: Weather experts are forecasting widespread rain across most of Sindh, including Karachi, by August 2 as a new weather system develops over the Bay of Bengal, adding to an already active monsoon season.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/675008-widespread-rains-likely-across-sindh-by-august-2-experts"
+        }
+      ],
+      "timestamp": "Jul 27, 10:27 PM",
+      "publishedAt": "2026-07-27T22:27:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Forecast heavy rain raises the risk of further disruption to agriculture, transport, and infrastructure amid an already severe flood season."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A weather forecast with no political dimension."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Warns of potential flooding risk to public safety in a major urban centre and across the province."
+        },
+        "market": {
+          "value": "low",
+          "reason": "A forecast alone has limited direct market relevance at this stage."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual weather reporting with no partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on an RSS description excerpt rather than the full article."
+        }
+      }
+    },
+    {
+      "id": 19,
+      "headline": "Flooding forces residents to flee homes by boat in Punjab",
+      "summary": "AI summary: Heavy monsoon rains have flooded villages across Punjab, forcing residents to evacuate by small boat as volunteers ferry people from homes surrounded by floodwater, according to AFP witnesses on the ground.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/674990-flooding-forces-residents-to-flee-homes-by-boat-in-punjab"
+        }
+      ],
+      "timestamp": "Jul 27, 8:44 PM",
+      "publishedAt": "2026-07-27T20:44:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Flooding of villages and farmland implies crop and property damage and disrupted livelihoods."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Disaster reporting with no explicit blame of officials in the available excerpt."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Clear humanitarian impact as residents are forced to flee their homes by boat."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Flooding in agriculture-heavy Punjab could affect crop yields and supply chains."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "AFP-sourced factual disaster reporting with no partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on an RSS description excerpt rather than the full article."
+        }
       }
     }
   ]
