@@ -1,0 +1,197 @@
+{
+  "generatedAt": "2026-07-29T11:37:28+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Rescuers in Japan haul survivors from collapsed mall as earthquake toll rises to 13",
+      "summary": "AI summary: A 7.1-magnitude earthquake in Japan's Kumamoto region triggered a mall gas explosion and building collapses, killing at least 13 people as thousands remain without power and rescuers continue searching for missing workers.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2019208/rescuers-in-japan-haul-survivors-from-collapsed-mall-as-earthquake-toll-rises-to-13" }
+      ],
+      "timestamp": "Jul 29, 11:16 AM",
+      "publishedAt": "2026-07-29T11:16:49+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Mall collapse, power outages for over 36,000 homes, and factory damage disrupt local economic activity." },
+        "political": { "value": "neutral", "reason": "A foreign natural disaster with no bearing on Pakistan's institutional or governance stability." },
+        "social": { "value": "negative", "reason": "At least 13 deaths, missing workers, 260,000 evacuated and heat-stroke risk from prolonged power outages harm public wellbeing and safety." },
+        "market": { "value": "low", "reason": "A foreign natural disaster with limited direct relevance to Pakistani investors or markets." },
+        "lean": { "value": "balanced", "reason": "Straight disaster reporting citing official casualty and rescue figures, no political framing." },
+        "confidence": { "value": "medium", "reason": "Based on a single full article from Dawn; not corroborated by the other two monitored outlets in this run." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "US, Saudi forces strike 'Iran-aligned terrorists' in Iraq in retaliation for recent attacks",
+      "summary": "AI summary: US and Saudi forces carried out fresh air strikes on Iran-aligned militant sites in Iraq following a wave of drone attacks, as oil prices jumped on renewed Middle East tensions and President Trump met Israeli PM Netanyahu at the White House.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2019202/us-saudi-forces-strike-iran-aligned-terrorists-in-iraq-in-retaliation-for-recent-attacks" }
+      ],
+      "timestamp": "Jul 29, 10:09 AM",
+      "publishedAt": "2026-07-29T10:09:17+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Renewed Gulf conflict pushed crude oil prices up over 4%, raising import costs for oil-dependent economies like Pakistan's." },
+        "political": { "value": "neutral", "reason": "A foreign military and diplomatic development with no direct bearing on Pakistan's own governance or institutions." },
+        "social": { "value": "negative", "reason": "Escalating regional conflict and rising oil prices threaten to raise living costs and instability affecting the wider region, including Pakistanis." },
+        "market": { "value": "high", "reason": "Oil price swings and Gulf conflict escalation are highly relevant to investors and businesses reliant on energy costs." },
+        "lean": { "value": "balanced", "reason": "Reports statements from US, Saudi and Iranian sources without favoring a domestic Pakistani political side." },
+        "confidence": { "value": "medium", "reason": "Based on a single full Dawn article; not independently corroborated across the monitored outlets." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Govt increases petrol price by Rs1.63, HSD price by Rs1.55",
+      "summary": "AI summary: Pakistan raised petrol prices by Rs1.63 and diesel by Rs1.55 per litre, citing volatile global oil prices after the renewed Gulf conflict, as the government shifts to daily fuel-price revisions despite dealer objections.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2019031/govt-increases-petrol-price-by-rs163-hsd-price-by-rs155" }
+      ],
+      "timestamp": "Jul 29, 7:00 AM",
+      "publishedAt": "2026-07-29T07:00:42+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Higher fuel prices raise transport and production costs across the economy, squeezing households and businesses." },
+        "political": { "value": "neutral", "reason": "A routine administrative pricing decision; the shift to daily revisions is a policy detail, not a governance crisis." },
+        "social": { "value": "negative", "reason": "Fuel price hikes disproportionately burden middle- and lower-income households who rely on petrol and diesel." },
+        "market": { "value": "high", "reason": "Fuel pricing directly affects transport, logistics and manufacturing costs, making it highly relevant to businesses and investors." },
+        "lean": { "value": "balanced", "reason": "Reports the price change and the dealer association's objection without favoring government or opposition framing." },
+        "confidence": { "value": "medium", "reason": "Based on a single full Dawn article; not corroborated by the other two outlets." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "ME situation: Pakistan expresses support to Jordan's proposal",
+      "summary": "AI summary: Pakistan's foreign minister Ishaq Dar told Jordan's counterpart that Islamabad backs Jordan's push for a meeting of Arab and Islamic nations over Israel's actions in Gaza and the West Bank, reaffirming support for a two-state solution.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40432276/me-situation-pakistan-expresses-support-to-jordans-proposal" }
+      ],
+      "timestamp": "Jul 29, 5:14 AM",
+      "publishedAt": "2026-07-29T05:14:34+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic statement of solidarity with no direct economic consequence for Pakistan." },
+        "political": { "value": "neutral", "reason": "Routine diplomatic engagement; doesn't materially affect Pakistan's institutional or governance stability." },
+        "social": { "value": "neutral", "reason": "A foreign-policy statement with no direct bearing on Pakistanis' daily life or safety." },
+        "market": { "value": "low", "reason": "Limited relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Reports a routine diplomatic statement without partisan framing." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt after the full article page returned a 403 error; not the complete article text." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Pakistani passport ranked fourth weakest in the world",
+      "summary": "AI summary: Pakistan's passport slipped to 101st in the 2026 Henley Passport Index with visa-free access to only 30 destinations, ranking as the world's fourth-weakest passport behind only Iraq, Syria and Afghanistan.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40432257/pakistani-passport-ranked-fourth-weakest-in-the-world" }
+      ],
+      "timestamp": "Jul 29, 5:14 AM",
+      "publishedAt": "2026-07-29T05:14:34+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "A weak passport ranking limits business travel and mobility, indirectly hurting trade and investment ties." },
+        "political": { "value": "negative", "reason": "A near-bottom global ranking reflects poorly on Pakistan's diplomatic standing and the international trust placed in its institutions." },
+        "social": { "value": "negative", "reason": "Restricted global mobility affects opportunities and morale for citizens seeking travel, work, or education abroad." },
+        "market": { "value": "low", "reason": "A passport ranking has limited direct relevance to investors or business decision-making." },
+        "lean": { "value": "balanced", "reason": "Straightforward reporting of an international index ranking without framing toward government or opposition." },
+        "confidence": { "value": "medium", "reason": "Based on a detailed RSS description with specific figures; the article page itself was unavailable (403)." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "CM launches 45km Green Railway Corridor project",
+      "summary": "AI summary: Punjab Chief Minister Maryam Nawaz Sharif launched a 45-kilometre Green Railway Corridor project converting abandoned rail land into 32 parks across the province, with the first 21 parks from Shahdara to Raiwind already open.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40432243/cm-launches-45km-green-railway-corridor-project" }
+      ],
+      "timestamp": "Jul 29, 5:14 AM",
+      "publishedAt": "2026-07-29T05:14:34+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Urban development spending and new park infrastructure can boost local land value, tourism and construction activity." },
+        "political": { "value": "positive", "reason": "A visible, functioning provincial development project reflects positively on governance delivery capacity." },
+        "social": { "value": "positive", "reason": "New public parks and green spaces improve residents' quality of life and recreational access in Punjab." },
+        "market": { "value": "low", "reason": "A provincial infrastructure/beautification project has limited direct relevance to broader investors or markets." },
+        "lean": { "value": "pro-government", "reason": "Coverage is framed entirely around the government's achievement with laudatory language and no critical or opposing voice." },
+        "confidence": { "value": "medium", "reason": "Based on a detailed RSS description; the article page itself was unavailable (403)." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Kuwait's FM arrives in Islamabad to discuss regional developments",
+      "summary": "AI summary: Kuwait's Foreign Minister Sheikh Jarrah Jaber Al-Ahmad Al-Sabah arrived in Islamabad at the invitation of Pakistan's Deputy PM and Foreign Minister Ishaq Dar for an official visit, with both sides set to discuss bilateral, regional and international matters.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/675168-kuwaits-fm-arrives-in-islamabad-to-discuss-regional-developments" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40432299/kuwaiti-fm-arrives" }
+      ],
+      "timestamp": "Jul 28, 10:44 PM",
+      "publishedAt": "2026-07-28T22:44:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic visit with no immediate, concrete economic outcome reported yet." },
+        "political": { "value": "neutral", "reason": "Routine bilateral diplomacy between two states; doesn't materially affect Pakistan's institutional or governance stability." },
+        "social": { "value": "neutral", "reason": "A foreign-ministerial visit with no direct bearing on Pakistanis' daily life or safety." },
+        "market": { "value": "low", "reason": "A general diplomatic visit with limited direct relevance to investors ahead of any concrete agreements." },
+        "lean": { "value": "balanced", "reason": "Both sources report the visit's logistics and stated purpose without favoring a domestic political side." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two independent outlets (Geo News and Business Recorder), though both accounts were RSS description excerpts rather than full articles." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Centre stands with AJK govt to crush agitators trying to sabotage elections: minister",
+      "summary": "AI summary: Federal Information Minister Attaullah Tarar and State Interior Minister Talal Chaudhry said the federal government backs the AJK administration in confronting agitators they allege are trying to disrupt the region's elections, accusing the banned JAAC of stoking unrest.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/675152-banned-jaac-tried-to-disrupt-ajk-elections-through-unrest-information-secretary" }
+      ],
+      "timestamp": "Jul 28, 8:28 PM",
+      "publishedAt": "2026-07-28T20:28:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A political statement about election security with no direct, immediate economic effect." },
+        "political": { "value": "negative", "reason": "Allegations of organized attempts to disrupt AJK's electoral process signal political tension and contested legitimacy around the vote." },
+        "social": { "value": "negative", "reason": "Reports of unrest and agitation around elections raise concerns for public safety and order in AJK." },
+        "market": { "value": "low", "reason": "Limited direct relevance to broader investors or markets." },
+        "lean": { "value": "pro-government", "reason": "The report presents only the federal ministers' claims and allegations against a banned group, without any opposing viewpoint quoted." },
+        "confidence": { "value": "low", "reason": "Based only on a truncated RSS description excerpt, not the full article, after the article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "Stop crying, accept AJK polls results with 'open heart', Maryam hits back at Bilawal",
+      "summary": "AI summary: Punjab Chief Minister Maryam Nawaz Sharif urged the PPP to accept the AJK election results gracefully, rejecting Bilawal Bhutto-Zardari's rigging allegations and saying voters, not the state, decide outcomes.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/675135-stop-crying-accept-ajk-polls-results-with-open-heart-maryam-hits-back-at-bilawal" }
+      ],
+      "timestamp": "Jul 28, 6:58 PM",
+      "publishedAt": "2026-07-28T18:58:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A political dispute over election results with no direct economic effect." },
+        "political": { "value": "negative", "reason": "Public rigging allegations and a sharp exchange between ruling and opposition figures reflect ongoing contestation over the AJK election's legitimacy." },
+        "social": { "value": "neutral", "reason": "A dispute between party leaders with limited direct bearing on public safety or daily life." },
+        "market": { "value": "low", "reason": "Limited relevance to investors or business decisions." },
+        "lean": { "value": "pro-government", "reason": "The description centers on Maryam Nawaz's rebuttal and framing of the dispute, without Bilawal's own reasoning or PPP's response included." },
+        "confidence": { "value": "low", "reason": "Based only on a truncated RSS description excerpt from a single outlet, not the full article." }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "SHO among 11 cops booked over raid on AGP Mansoor Awan's house in Lahore",
+      "summary": "AI summary: Eleven Lahore police officers, including the station house officer, were booked after mistakenly raiding Attorney General Mansoor Awan's residence on July 27, scaling the gate, harassing staff, damaging property, and allegedly deleting the home's CCTV footage before the SHO secured bail.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2019093/sho-among-11-cops-booked-over-raid-on-agp-mansoor-awans-house-in-lahore" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/675137-sho-among-11-cops-booked-for-mistaken-raid-on-agp-awans-lahore-residence" }
+      ],
+      "timestamp": "Jul 28, 6:54 PM",
+      "publishedAt": "2026-07-28T18:54:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "An isolated policing incident with no direct economic effect." },
+        "political": { "value": "negative", "reason": "An unauthorized raid on the country's top law officer's home by police raises serious questions about law-enforcement discipline and oversight." },
+        "social": { "value": "negative", "reason": "Harassment of household staff, property damage and alleged evidence tampering by police undermine public trust and safety." },
+        "market": { "value": "low", "reason": "Limited relevance to investors or broader business decisions." },
+        "lean": { "value": "balanced", "reason": "Both sources report the police account and the driver's allegations, attributing claims to their sources without favoring a political side." },
+        "confidence": { "value": "high", "reason": "Corroborated by two independent full-text sources (Dawn and Geo) with matching factual details." }
+      }
+    }
+  ]
+}
