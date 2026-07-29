@@ -1,8 +1,87 @@
 {
-  "generatedAt": "2026-07-29T11:37:28+05:00",
+  "generatedAt": "2026-07-29T15:12:43+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "PPP assails AJK Election Commission for 'facilitating rigging' in first phase of AJK polls",
+      "summary": "AI summary: The PPP accused the AJK Election Commission of facilitating rigging in the first phase of AJK's polls, in which PML-N won 9 of 13 contested seats, alleging polling stations were held hostage, its agents were barred from monitoring, and voting hours were extended to allow ballot stuffing, claims PML-N has dismissed while urging PPP to accept the result.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2019220/ppp-assails-ajk-election-commission-for-facilitating-rigging-in-first-phase-of-ajk-polls" }
+      ],
+      "timestamp": "Jul 29, 2:52 PM",
+      "publishedAt": "2026-07-29T14:52:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A political dispute over election conduct with no direct, immediate economic effect." },
+        "political": { "value": "negative", "reason": "Allegations that an election commission facilitated rigging strike at institutional credibility and electoral legitimacy." },
+        "social": { "value": "neutral", "reason": "A dispute between parties over vote conduct with no reported direct threat to public safety in this piece." },
+        "market": { "value": "low", "reason": "Limited relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "The report carries PPP's detailed rigging allegations alongside PML-N's dismissal and rebuttal, without asserting either side's claims as fact." },
+        "confidence": { "value": "medium", "reason": "Based on a single full Dawn article with specific figures; not corroborated by the other two monitored outlets." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Situation in Middle East comes under discussion as DPM Dar meets Kuwait FM",
+      "summary": "AI summary: Deputy PM and Foreign Minister Ishaq Dar held talks in Islamabad with visiting Kuwaiti Foreign Minister Sheikh Jarrah Jaber Al-Ahmad Al-Sabah, with both sides discussing bilateral cooperation across trade, energy and defence alongside the evolving Middle East situation and the Palestinian issue.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2019222/situation-in-middle-east-comes-under-discussion-as-dpm-dar-meets-kuwait-fm" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/675235-middle-east-situation-in-focus-as-dpm-dar-kuwaiti-fm-meet-in-islamabad" }
+      ],
+      "timestamp": "Jul 29, 2:09 PM",
+      "publishedAt": "2026-07-29T14:09:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Diplomatic talks referenced trade, investment and energy cooperation but produced no concrete deal or figure yet." },
+        "political": { "value": "neutral", "reason": "Routine bilateral diplomacy with no direct bearing on Pakistan's own institutional or governance stability." },
+        "social": { "value": "neutral", "reason": "A foreign-ministerial meeting with no direct bearing on Pakistanis' daily life or safety." },
+        "market": { "value": "low", "reason": "General diplomatic talks with limited direct relevance to investors ahead of any concrete agreements." },
+        "lean": { "value": "balanced", "reason": "Straight diplomatic reporting citing the Foreign Office readout without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Full text available from Dawn; Geo's article page returned a 403 error so its corroboration is based on headline and pubDate only." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Four terrorists killed in Swat operation, Elite Force constable martyred",
+      "summary": "AI summary: A Counter-Terrorism Department and police operation against terrorists in Swat's Shalkho Sar area of Kabal tehsil left Elite Force Constable Gulfam martyred, with police saying four terrorists were killed and heavy casualties inflicted on militants as the operation continued.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2019223/cop-martyred-as-operation-against-terrorists-continues-in-swats-shalkho-sar-area-police" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/675239-four-terrorists-killed-in-swat-operation-elite-force-constable-martyred" }
+      ],
+      "timestamp": "Jul 29, 2:02 PM",
+      "publishedAt": "2026-07-29T14:02:50+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Continued terrorist activity and security operations in Swat weigh on local business and tourism activity in the region." },
+        "political": { "value": "negative", "reason": "Ongoing terrorist violence and security-force casualties reflect a deteriorating security situation in Khyber Pakhtunkhwa, straining governance and control." },
+        "social": { "value": "negative", "reason": "A police officer's death and an active anti-terrorist operation directly threaten public safety in the area." },
+        "market": { "value": "low", "reason": "A localized security operation with limited direct relevance to broader investors or markets." },
+        "lean": { "value": "balanced", "reason": "Both sources report the police account of the operation and casualties without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two outlets on the core facts (constable martyred, Swat operation), though exact terrorist casualty figures came only from Geo's headline, whose article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "AJK police accuse JAAC of working under an 'agenda', say sophisticated weapons seized from arrested suspects",
+      "summary": "AI summary: AJK Police said sophisticated weapons, including automatic firearms, were recovered from suspects arrested after armed clashes in Rawalakot and Mirpur that killed a Ranger and injured about 15 law enforcement personnel, accusing the proscribed Joint Awami Action Committee of pursuing a hidden agenda to destabilise the region amid its weeks-long protest over reserved refugee assembly seats, a claim JAAC disputes.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2019216/ajk-police-accuse-jaac-of-working-under-an-agenda-say-sophisticated-weapons-seized-from-arrested-suspects" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/675229-law-enforcers-continue-operations-against-armed-groups-in-rawalakot-ajk-police" }
+      ],
+      "timestamp": "Jul 29, 12:50 PM",
+      "publishedAt": "2026-07-29T12:50:20+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Armed clashes and ongoing unrest in Rawalakot and Mirpur disrupt normal commerce and business activity in the affected areas." },
+        "political": { "value": "negative", "reason": "Allegations of a banned group's foreign-backed agenda to destabilise the region, alongside a security-personnel death, signal contested governance and unresolved unrest in AJK." },
+        "social": { "value": "negative", "reason": "A Ranger's death, around 15 injured law enforcement personnel, and ambushes with heavy weaponry directly threaten public safety." },
+        "market": { "value": "low", "reason": "A regional security matter with limited direct relevance to broader investors or markets." },
+        "lean": { "value": "balanced", "reason": "The report carries the police's allegations against JAAC as well as JAAC's own disputed counter-claims, attributing each to its source." },
+        "confidence": { "value": "medium", "reason": "Based on a full Dawn article; Geo's article page returned a 403 error so its corroboration is based on headline and pubDate only." }
+      }
+    },
+    {
+      "id": 5,
       "headline": "Rescuers in Japan haul survivors from collapsed mall as earthquake toll rises to 13",
       "summary": "AI summary: A 7.1-magnitude earthquake in Japan's Kumamoto region triggered a mall gas explosion and building collapses, killing at least 13 people as thousands remain without power and rescuers continue searching for missing workers.",
       "sources": [
@@ -21,7 +100,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 6,
       "headline": "US, Saudi forces strike 'Iran-aligned terrorists' in Iraq in retaliation for recent attacks",
       "summary": "AI summary: US and Saudi forces carried out fresh air strikes on Iran-aligned militant sites in Iraq following a wave of drone attacks, as oil prices jumped on renewed Middle East tensions and President Trump met Israeli PM Netanyahu at the White House.",
       "sources": [
@@ -40,7 +119,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 7,
       "headline": "Govt increases petrol price by Rs1.63, HSD price by Rs1.55",
       "summary": "AI summary: Pakistan raised petrol prices by Rs1.63 and diesel by Rs1.55 per litre, citing volatile global oil prices after the renewed Gulf conflict, as the government shifts to daily fuel-price revisions despite dealer objections.",
       "sources": [
@@ -59,7 +138,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 8,
       "headline": "ME situation: Pakistan expresses support to Jordan's proposal",
       "summary": "AI summary: Pakistan's foreign minister Ishaq Dar told Jordan's counterpart that Islamabad backs Jordan's push for a meeting of Arab and Islamic nations over Israel's actions in Gaza and the West Bank, reaffirming support for a two-state solution.",
       "sources": [
@@ -78,7 +157,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 9,
       "headline": "Pakistani passport ranked fourth weakest in the world",
       "summary": "AI summary: Pakistan's passport slipped to 101st in the 2026 Henley Passport Index with visa-free access to only 30 destinations, ranking as the world's fourth-weakest passport behind only Iraq, Syria and Afghanistan.",
       "sources": [
@@ -97,7 +176,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 10,
       "headline": "CM launches 45km Green Railway Corridor project",
       "summary": "AI summary: Punjab Chief Minister Maryam Nawaz Sharif launched a 45-kilometre Green Railway Corridor project converting abandoned rail land into 32 parks across the province, with the first 21 parks from Shahdara to Raiwind already open.",
       "sources": [
@@ -116,7 +195,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 11,
       "headline": "Kuwait's FM arrives in Islamabad to discuss regional developments",
       "summary": "AI summary: Kuwait's Foreign Minister Sheikh Jarrah Jaber Al-Ahmad Al-Sabah arrived in Islamabad at the invitation of Pakistan's Deputy PM and Foreign Minister Ishaq Dar for an official visit, with both sides set to discuss bilateral, regional and international matters.",
       "sources": [
@@ -136,7 +215,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 12,
       "headline": "Centre stands with AJK govt to crush agitators trying to sabotage elections: minister",
       "summary": "AI summary: Federal Information Minister Attaullah Tarar and State Interior Minister Talal Chaudhry said the federal government backs the AJK administration in confronting agitators they allege are trying to disrupt the region's elections, accusing the banned JAAC of stoking unrest.",
       "sources": [
@@ -155,7 +234,7 @@
       }
     },
     {
-      "id": 9,
+      "id": 13,
       "headline": "Stop crying, accept AJK polls results with 'open heart', Maryam hits back at Bilawal",
       "summary": "AI summary: Punjab Chief Minister Maryam Nawaz Sharif urged the PPP to accept the AJK election results gracefully, rejecting Bilawal Bhutto-Zardari's rigging allegations and saying voters, not the state, decide outcomes.",
       "sources": [
@@ -174,7 +253,7 @@
       }
     },
     {
-      "id": 10,
+      "id": 14,
       "headline": "SHO among 11 cops booked over raid on AGP Mansoor Awan's house in Lahore",
       "summary": "AI summary: Eleven Lahore police officers, including the station house officer, were booked after mistakenly raiding Attorney General Mansoor Awan's residence on July 27, scaling the gate, harassing staff, damaging property, and allegedly deleting the home's CCTV footage before the SHO secured bail.",
       "sources": [
