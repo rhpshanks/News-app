@@ -1,0 +1,122 @@
+{
+  "generatedAt": "2026-07-30T01:46:28+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "22 villages in Punjab's Multan district partially submerged under floodwaters",
+      "summary": "AI summary: Monsoon floodwaters from the River Chenab partially submerged 22 villages across three tehsils of Multan district, reaching 3-4 feet in places and destroying standing cotton and fodder crops, though officials say no village is severely affected and water levels are receding as the provincial disaster authority warns of further rain and possible urban flooding elsewhere.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2019292/22-villages-in-punjabs-multan-district-partially-submerged-under-floodwaters" }
+      ],
+      "timestamp": "Jul 30, 12:04 AM",
+      "publishedAt": "2026-07-30T00:04:32+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Destroyed cotton and fodder crops and washed-out protective bunds cause direct agricultural losses in the affected tehsils." },
+        "political": { "value": "neutral", "reason": "District administration and provincial disaster authority are actively monitoring and responding, with no governance failure alleged." },
+        "social": { "value": "negative", "reason": "Thousands relocated with livestock and homes/crops were damaged, even though no deaths are reported and no formal evacuation was ordered." },
+        "market": { "value": "low", "reason": "A localized agricultural flooding event with limited direct relevance to broader investors or markets." },
+        "lean": { "value": "balanced", "reason": "Straight disaster reporting citing the Deputy Commissioner and Provincial Disaster Management Authority without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on a single full Dawn article; not corroborated by the other two monitored outlets in this run." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Factory fire brought under control near Karachi's Gulshan-e-Maymar",
+      "summary": "AI summary: A factory fire in Karachi's Gulshan-e-Maymar area was brought under control after a rapid response from fire and rescue teams, with no casualties reported and the cause still under investigation as cooling operations continued to prevent reignition.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40432400/factory-fire-brought-under-control-near-karachis-gulshan-e-maymar" }
+      ],
+      "timestamp": "Jul 29, 11:51 PM",
+      "publishedAt": "2026-07-29T23:51:20+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "A factory fire disrupts production and causes property damage for the affected business, even though it was contained quickly." },
+        "political": { "value": "neutral", "reason": "A routine emergency-response incident with no bearing on institutional or governance stability." },
+        "social": { "value": "neutral", "reason": "No casualties were reported and the fire was brought under control quickly by emergency responders." },
+        "market": { "value": "low", "reason": "A localized industrial incident with limited direct relevance to broader investors or markets." },
+        "lean": { "value": "balanced", "reason": "Factual reporting of the emergency response with no political framing." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt after the full article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "DSP among seven personnel martyred in Hangu checkpost attack: police",
+      "summary": "AI summary: Police said at least seven police personnel, including DSP Diyar Khan, were martyred and around 22 others injured when militants attacked a checkpost in Hangu, Khyber Pakhtunkhwa, with a counter-terrorism operation against the attackers continuing in the area.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/675317-dsp-among-seven-personnel-martyred-in-hangu-checkpost-attack-police" }
+      ],
+      "timestamp": "Jul 29, 11:25 PM",
+      "publishedAt": "2026-07-29T23:25:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Continued militant attacks and an active counter-terrorism operation weigh on local business and economic activity in the affected area." },
+        "political": { "value": "negative", "reason": "A militant attack killing multiple police personnel, including a DSP, reflects a serious ongoing security and governance challenge in the region." },
+        "social": { "value": "negative", "reason": "Multiple deaths and roughly 22 injuries among police personnel directly threaten public safety in the area." },
+        "market": { "value": "low", "reason": "A localized security incident with limited direct relevance to broader investors or markets." },
+        "lean": { "value": "balanced", "reason": "Claims are attributed to police and the DPO as their source rather than asserted as independently verified fact, with no partisan framing." },
+        "confidence": { "value": "low", "reason": "Based only on a truncated RSS description excerpt from a single outlet after the article page returned a 403 error twice." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Govt increases diesel price by Rs2.24, decreases petrol's by 75 paisas",
+      "summary": "AI summary: Pakistan raised diesel prices by Rs2.24 to Rs390.62 per litre while cutting petrol by 75 paisas to Rs335.06, effective July 30, with the petroleum ministry citing international market fluctuations following renewed Iran-US tensions and continuing its new policy of daily rather than weekly price revisions, which the dealers' association has rejected.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2019282/govt-increases-diesel-price-by-rs224-decreases-petrols-by-75-paisas" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40432398/diesel-price-up-rs224-petrols-down-re075-per-litre" }
+      ],
+      "timestamp": "Jul 29, 10:59 PM",
+      "publishedAt": "2026-07-29T22:59:35+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "The larger diesel increase raises transport, freight and agricultural costs across the economy more than the small petrol relief offsets." },
+        "political": { "value": "neutral", "reason": "A routine administrative pricing decision; the shift to daily revisions is a policy detail, and dealer objections are a policy dispute, not a governance crisis." },
+        "social": { "value": "negative", "reason": "Higher diesel costs feed into transport and food prices affecting households broadly, outweighing the minor petrol price relief for private commuters." },
+        "market": { "value": "high", "reason": "Fuel pricing and the shift to daily revisions directly affect transport, logistics and manufacturing costs, making it highly relevant to businesses and investors." },
+        "lean": { "value": "balanced", "reason": "Reports the price change and the dealers' association's rejection without favoring government or opposition framing." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two independent outlets (a full Dawn article and a Business Recorder RSS description) with matching price figures." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Archaeologists call for new research, reconstruction of Mohenjo-daro city wall",
+      "summary": "AI summary: Archaeologists presented findings from Mohenjo-daro's 2025-2026 field season revealing a substantial mudbrick defensive wall from the Early Harappan period, radiocarbon-dated to roughly 2708-2576 BCE, and called for building an interpretive reconstruction of the wall to boost public engagement and cultural tourism at the UNESCO heritage site.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40432394/archaeologists-call-for-new-research-reconstruction-of-mohenjo-daro-city-wall" }
+      ],
+      "timestamp": "Jul 29, 9:24 PM",
+      "publishedAt": "2026-07-29T21:24:54+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "A proposed reconstructed heritage wall could boost tourism and related local economic activity at the site." },
+        "political": { "value": "neutral", "reason": "An academic and heritage-conservation matter with no bearing on institutional or governance stability." },
+        "social": { "value": "positive", "reason": "New archaeological findings and proposed public engagement improve cultural access and heritage appreciation." },
+        "market": { "value": "low", "reason": "A niche heritage/tourism development with limited direct relevance to broader investors or markets." },
+        "lean": { "value": "balanced", "reason": "Straight academic reporting of research findings and recommendations with no political framing." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt after the full article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Pakistan welcomes Kuwait's recent ratification of 2023 pact to expand defence cooperation",
+      "summary": "AI summary: Pakistan's Foreign Office welcomed Kuwait's ratification of a 2023 bilateral defence cooperation agreement, first signed in June 2023, calling it a milestone that builds an institutional framework for military training, joint exercises and expertise exchange and deepens a defence partnership between the two countries dating back to the early 1980s.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2019274/pakistan-welcomes-kuwaits-recent-ratification-of-2023-pact-to-expand-defence-cooperation" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/675308-pakistan-welcomes-kuwaits-ratification-of-2023-defence-agreement" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40432396/pakistan-welcomes-kuwaits-ratification-of-2023-defence-cooperation-agreement" }
+      ],
+      "timestamp": "Jul 29, 9:21 PM",
+      "publishedAt": "2026-07-29T21:21:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A defence-institutional announcement with no immediate concrete economic outcome, though reporting notes possible future energy and investment linkage." },
+        "political": { "value": "positive", "reason": "Formalizing and strengthening a decades-long bilateral defence partnership reflects positively on Pakistan's diplomatic and institutional standing." },
+        "social": { "value": "neutral", "reason": "A military-diplomatic agreement with no direct bearing on Pakistanis' daily life or safety." },
+        "market": { "value": "low", "reason": "A defence-cooperation announcement with limited direct relevance to investors absent concrete economic deals." },
+        "lean": { "value": "balanced", "reason": "Routine diplomatic reporting citing the Foreign Office spokesperson's statement without partisan framing." },
+        "confidence": { "value": "high", "reason": "Corroborated by three independent outlets with matching core facts about the 2023 pact and its ratification." }
+      }
+    }
+  ]
+}
