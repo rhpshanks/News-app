@@ -1,0 +1,197 @@
+{
+  "generatedAt": "2026-07-31T00:13:36+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "10 climbers feared missing after Broad Peak avalanche",
+      "summary": "AI summary: About 10 mountaineers, including well-known Nepali climber Nims Dai and Pakistani climber Sohail Sakhi of Hunza, lost contact after an avalanche struck their route on Broad Peak, according to GPS tracking data cited in reports.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/675475-10-climbers-feared-missing-after-broad-peak-avalanche" }
+      ],
+      "timestamp": "Jul 30, 11:53 PM",
+      "publishedAt": "2026-07-30T23:53:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A mountaineering accident has minimal direct effect on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "No governance or institutional dimension to a mountaineering accident." },
+        "social": { "value": "negative", "reason": "Loss of contact with roughly 10 climbers on a major peak is a serious safety tragedy." },
+        "market": { "value": "low", "reason": "Not relevant to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Straightforward factual report with no political framing." },
+        "confidence": { "value": "low", "reason": "Full article page returned 403; based only on a truncated RSS description excerpt." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Gangster Uzair Baloch's brother shot, critically injured in Karachi's Lyari: police",
+      "summary": "AI summary: Zubair Baloch, brother of jailed gang leader Uzair Baloch, was shot and critically wounded by motorcycle-borne gunmen outside his Lyari residence in Karachi on Thursday evening, with two bystanders also hurt; police are probing gang rivalry and personal enmity as possible motives.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2019527/gangster-uzair-balochs-brother-shot-critically-injured-in-karachis-lyari-police" }
+      ],
+      "timestamp": "Jul 30, 11:33 PM",
+      "publishedAt": "2026-07-30T23:33:35+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "An isolated shooting has no discernible economic impact." },
+        "political": { "value": "neutral", "reason": "A gang-related crime, not an institutional or governance matter." },
+        "social": { "value": "negative", "reason": "Violent, armed attack injuring the target and two bystanders raises public safety concerns." },
+        "market": { "value": "low", "reason": "No relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Factual crime reporting attributed to police, no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single-source report; some details (returning-gangster theory) are explicitly flagged as unconfirmed." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Govt increases petrol price by Rs1.09, HSD price by Rs2.42",
+      "summary": "AI summary: Pakistan raised petrol prices by Rs1.09 per litre to Rs336.15 and high-speed diesel by Rs2.42 to Rs393.04, effective July 31, 2026, under the now-daily OGRA pricing mechanism tied to international oil markets, though fuel dealers have opposed the approach and threatened protests.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2019530/govt-increases-petrol-price-by-rs109-hsd-price-by-rs242" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40432583/govt-increases-petrol-price-by-rs109-diesels-by-rs242-per-litre" }
+      ],
+      "timestamp": "Jul 30, 11:36 PM",
+      "publishedAt": "2026-07-30T23:00:59+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Higher fuel prices raise transport and production costs across the economy, even if the increase is modest." },
+        "political": { "value": "neutral", "reason": "Routine, mechanism-driven price adjustment rather than a discretionary political decision, despite dealer pushback." },
+        "social": { "value": "negative", "reason": "Fuel price increases raise the cost of living for the public." },
+        "market": { "value": "medium", "reason": "Fuel costs affect a wide range of businesses and cost structures relevant to investors." },
+        "lean": { "value": "balanced", "reason": "Factual pricing report corroborated by both sources with matching figures." },
+        "confidence": { "value": "high", "reason": "Independently corroborated by two outlets with matching prices and figures." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Renewed Middle East tensions pose downside risks to inflation, external sector: finance ministry",
+      "summary": "AI summary: Pakistan's finance ministry warned in its July 2026 Monthly Economic Update that renewed Middle East tensions could disrupt global energy prices and trade, posing downside risks to inflation and the external sector, while expressing confidence that stronger macroeconomic fundamentals and reserves would help cushion the impact.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2019526/renewed-middle-east-tensions-pose-downside-risks-to-inflation-external-sector-finance-ministry" }
+      ],
+      "timestamp": "Jul 30, 10:56 PM",
+      "publishedAt": "2026-07-30T22:56:13+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Ministry itself flags downside risks to inflation and the external sector from geopolitical tension." },
+        "political": { "value": "neutral", "reason": "An external geopolitical risk assessment, not a domestic governance matter." },
+        "social": { "value": "neutral", "reason": "A forward-looking risk statement rather than a materialized impact on daily life." },
+        "market": { "value": "high", "reason": "Directly relevant to investors and businesses tracking inflation and external-sector outlook." },
+        "lean": { "value": "balanced", "reason": "Straightforward relay of an official ministry statement." },
+        "confidence": { "value": "medium", "reason": "Based on a single official source summarizing a forward-looking risk assessment." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Naqvi urges 'all political parties' to settle issue of more provinces, says current 'system' has collapsed",
+      "summary": "AI summary: Interior Minister Mohsin Naqvi told the Pakistan Economic Summit 2026 that the country's governance \"system has collapsed\" and called on all political parties to jointly resolve disputes such as demands for new provinces, warning that talk of development alone cannot fix Pakistan's deepening economic and debt crisis.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2019502/naqvi-urges-all-political-parties-to-settle-issue-of-more-provinces-says-current-system-has-collapsed" }
+      ],
+      "timestamp": "Jul 30, 10:53 PM",
+      "publishedAt": "2026-07-30T22:53:21+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Minister explicitly cites a deepening economic crisis and heavy debt burden as backdrop." },
+        "political": { "value": "negative", "reason": "A sitting minister publicly declaring the governance \"system has collapsed\" signals institutional strain and unresolved disputes like provincial reorganization." },
+        "social": { "value": "negative", "reason": "Minister links the crisis to citizens' inability to access basic necessities." },
+        "market": { "value": "medium", "reason": "Commentary on systemic governance and economic crisis is relevant to investor sentiment." },
+        "lean": { "value": "balanced", "reason": "Naqvi's remarks criticize the overall system and call for cross-party consensus rather than singling out one side; not confident this favors government or opposition." },
+        "confidence": { "value": "medium", "reason": "Single-source report; not fully certain how to classify the political framing." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "PM Shehbaz orders technical audit of DISCOs' billing system, stresses power sector reforms",
+      "summary": "AI summary: Prime Minister Shehbaz Sharif ordered a technical audit of power distribution companies' billing systems and called for reforms to eliminate electricity theft, roll out smart meters nationwide, reward top-performing DISCOs, and expand decentralized solar power in rural areas.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40432584/pm-shehbaz-orders-technical-audit-of-discos-billing-system-stresses-power-sector-reforms" }
+      ],
+      "timestamp": "Jul 30, 10:27 PM",
+      "publishedAt": "2026-07-30T22:27:38+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Reforms targeting electricity theft and billing efficiency could improve power-sector finances." },
+        "political": { "value": "neutral", "reason": "A routine executive directive on administrative reform, no evidence of controversy." },
+        "social": { "value": "positive", "reason": "More accurate billing, smart meters, and rural solar expansion could benefit ordinary consumers." },
+        "market": { "value": "medium", "reason": "Relevant to power-sector investors and businesses tracking DISCO reform." },
+        "lean": { "value": "balanced", "reason": "Reports the PM's own directive without partisan framing." },
+        "confidence": { "value": "low", "reason": "Article page returned 403; based only on a truncated RSS description excerpt." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Bodies of nine labourers recovered as coalmine in Quetta caves in",
+      "summary": "AI summary: A coalmine collapsed in the Sorange area near Quetta, which the mine owner attributed to a methane gas explosion, with the bodies of several labourers reportedly recovered so far; a separate miner also died in an incident in Harnai district.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/675460-bodies-of-seven-labourers-recovered-as-coalmine-in-quetta-caves-in" }
+      ],
+      "timestamp": "Jul 30, 10:09 PM",
+      "publishedAt": "2026-07-30T22:09:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Mining accident disrupts operations and raises worker-safety and regulatory concerns for the sector." },
+        "political": { "value": "neutral", "reason": "No stated governance or institutional angle in the available excerpt." },
+        "social": { "value": "negative", "reason": "Multiple worker deaths in a mine collapse is a significant public-safety tragedy." },
+        "market": { "value": "low", "reason": "A localized mining incident with limited broader market relevance." },
+        "lean": { "value": "balanced", "reason": "Factual incident report, no political framing." },
+        "confidence": { "value": "low", "reason": "Full article returned 403; based on a truncated RSS description, and the headline's death toll (nine) conflicts with the article URL slug (seven), indicating unresolved reporting." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Security forces neutralise 4 India-sponsored terrorists in Balochistan's Khuzdar",
+      "summary": "AI summary: The military said security forces killed four militants linked to \"Fitna al-Hindustan\" during an intelligence-based operation in Balochistan's Khuzdar district, intercepting two explosives-laden vehicles as sanitisation operations continued in the area, according to ISPR.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/675458-security-forces-neutralise-4-indian-sponsored-terrorists-in-khuzdar" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40432582/security-forces-kill-four-terrorists-in-balochistan-operation" }
+      ],
+      "timestamp": "Jul 30, 10:08 PM",
+      "publishedAt": "2026-07-30T22:08:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A localized security operation with minimal direct economic effect." },
+        "political": { "value": "neutral", "reason": "Routine counter-militancy reporting attributed to ISPR, not an institutional stability event." },
+        "social": { "value": "negative", "reason": "Ongoing militancy and explosives-laden vehicles in the area point to continued instability and risk to public safety in the region, despite the operation being framed as a success." },
+        "market": { "value": "low", "reason": "Localized security incident with limited market relevance." },
+        "lean": { "value": "balanced", "reason": "Both sources properly attribute claims to ISPR rather than asserting them as independently verified fact." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two independent outlets with matching details, but all facts trace to a single official military source." }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "Sindh restores six-day school week from August 1",
+      "summary": "AI summary: Sindh's education department reinstated a six-day school week (Monday to Saturday) for public and private schools starting August 1, 2026, superseding an earlier order from March 2026 that had set an alternate weekly schedule.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40432581/sindh-restores-six-day-school-week-from-august-1" }
+      ],
+      "timestamp": "Jul 30, 9:39 PM",
+      "publishedAt": "2026-07-30T21:39:01+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A school scheduling change has negligible direct economic effect." },
+        "political": { "value": "neutral", "reason": "Routine provincial education administration, no governance controversy stated." },
+        "social": { "value": "neutral", "reason": "Effect on families is mixed: more instructional time versus a heavier weekly schedule, with no reaction reported either way." },
+        "market": { "value": "low", "reason": "Not relevant to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Factual administrative notice with no political framing." },
+        "confidence": { "value": "medium", "reason": "Clear, specific factual policy notice, though based on RSS description rather than the full article." }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "Federal govt's countdown will begin if AJK elections rigged, warns Bilawal",
+      "summary": "AI summary: PPP Chairman Bilawal Bhutto Zardari told a rally in Muzaffarabad that the \"people's mandate must be decided through ballot\" in the upcoming AJK elections, warning that rigging would trigger a \"countdown\" for the federal government, and said a constitutional convention would follow once genuine representation is secured.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/675439-federal-govts-countdown-will-begin-if-ajk-elections-rigged-warns-bilawal" }
+      ],
+      "timestamp": "Jul 30, 7:55 PM",
+      "publishedAt": "2026-07-30T19:55:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A political rally speech with no direct economic content." },
+        "political": { "value": "negative", "reason": "A warning of a federal-government \"countdown\" tied to disputed election legitimacy signals political tension around institutional/electoral stability." },
+        "social": { "value": "neutral", "reason": "Rally rhetoric with no direct, immediate effect on public wellbeing or safety." },
+        "market": { "value": "low", "reason": "Not relevant to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Not confident of which side currently holds government versus opposition, so defaulting to balanced rather than asserting a lean." },
+        "confidence": { "value": "low", "reason": "Based on a truncated RSS description excerpt, and uncertain of current government/opposition alignment for lean classification." }
+      }
+    }
+  ]
+}
