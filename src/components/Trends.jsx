@@ -69,16 +69,20 @@ export default function Trends({ history, lockedRange = false }) {
   const xLabels = useMemo(() => {
     const n = days.length;
     if (n === 0) return [];
-    // Below the cap, label every point, plenty of room for short date labels at that
-    // count. Above it, space a fixed number of labels evenly by index so a small n
-    // (e.g. 6) can't land two picks on the same rounded position and silently drop
-    // one, which a fixed 25/50/75% split did.
-    const maxLabels = 8;
-    if (n <= maxLabels) {
+    // Any rounded even-spacing formula skips a point somewhere, that's fine once n is
+    // large enough that the skip is proportionally invisible, but jarring when n is
+    // small (a single missing day out of 9 reads as a bug, not "downsampling"). The
+    // plot is ~680px wide and a short date label is roughly 30-40px, so it comfortably
+    // fits far more than the 5-8 labels this used to cap at. Label every point up to a
+    // generous threshold, and only sample beyond that, where individual gaps stop
+    // being visually meaningful.
+    const SHOW_ALL_UP_TO = 20;
+    if (n <= SHOW_ALL_UP_TO) {
       return days.map((d, i) => ({ i, label: formatDate(d.date, true) }));
     }
-    const step = (n - 1) / (maxLabels - 1);
-    const positions = Array.from({ length: maxLabels }, (_, k) => Math.round(k * step));
+    const sampleCount = 12;
+    const step = (n - 1) / (sampleCount - 1);
+    const positions = Array.from({ length: sampleCount }, (_, k) => Math.round(k * step));
     return [...new Set(positions)].map((i) => ({ i, label: formatDate(days[i].date, true) }));
   }, [days]);
 
