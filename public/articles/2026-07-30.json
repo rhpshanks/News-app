@@ -1,8 +1,141 @@
 {
-  "generatedAt": "2026-07-30T01:46:28+05:00",
+  "generatedAt": "2026-07-30T10:22:00+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "9 cops martyred, 28 injured as police checkpost comes under attack in KP's Hangu",
+      "summary": "AI summary: Police said militants attacked the Khazina Banda checkpost in Hangu, Khyber Pakhtunkhwa, killing nine officers, including DSP Diyar Khan, and wounding 28 others as reinforcements were also ambushed, while security forces reported killing 15 attackers and the interior minister condemned the assault.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2019442/9-cops-martyred-28-injured-as-police-checkpost-comes-under-attack-in-kps-hangu" }
+      ],
+      "timestamp": "Jul 30, 9:28 AM",
+      "publishedAt": "2026-07-30T09:28:07+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Continued militant violence and an active security response weigh on economic activity in the affected area." },
+        "political": { "value": "negative", "reason": "A militant attack killing nine police personnel, including a DSP, reflects a serious and escalating security and governance challenge in the region." },
+        "social": { "value": "negative", "reason": "Multiple deaths and 28 injuries among police personnel directly threaten public safety in the area." },
+        "market": { "value": "low", "reason": "A localized security incident with limited direct relevance to broader investors or markets." },
+        "lean": { "value": "balanced", "reason": "Claims are attributed to the KP Inspector General's statement rather than asserted as independently verified fact, with no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on a full Dawn article citing the KP Inspector General's on-record statement with specific updated casualty figures." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Punjab shuffles senior bureaucrats",
+      "summary": "AI summary: The Punjab government carried out a chain reshuffle of senior bureaucrats after the federal government moved Additional Chief Secretary Ahmad Raza Sarwar to a national interior ministry post, triggering a series of reassignments among officials overseeing agriculture, industries and commerce, services, and information and culture.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2019400/punjab-shuffles-senior-bureaucrats" }
+      ],
+      "timestamp": "Jul 30, 9:19 AM",
+      "publishedAt": "2026-07-30T09:19:55+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A routine administrative reshuffle with no direct economic effect." },
+        "political": { "value": "neutral", "reason": "A routine bureaucratic transfer process, not indicative of governance instability." },
+        "social": { "value": "neutral", "reason": "An internal administrative matter with no direct bearing on public wellbeing." },
+        "market": { "value": "low", "reason": "An internal government personnel matter with negligible investor relevance." },
+        "lean": { "value": "balanced", "reason": "Factual reporting of the transfers with no political framing." },
+        "confidence": { "value": "medium", "reason": "Based on a single full Dawn article with clear, specific named details of each transfer." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Govt hints at new power tariff package as demand falls",
+      "summary": "AI summary: Pakistan's power division is developing a new electricity tariff package covering time-of-use pricing, captive power plants and battery storage integration after officials linked a more than 3% year-on-year fall in June electricity demand partly to growing solar adoption, even as the government seeks an additional Rs1.20-per-unit fuel charge on August bills.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2019376/govt-hints-at-new-power-tariff-package-as-demand-falls" }
+      ],
+      "timestamp": "Jul 30, 7:16 AM",
+      "publishedAt": "2026-07-30T07:16:26+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "A further Rs1.20/unit fuel surcharge and falling consumption across most consumer segments signal near-term cost pressure even as tariff reform is proposed." },
+        "political": { "value": "neutral", "reason": "A routine regulatory policy development still in early stages, with no bearing on governance stability." },
+        "social": { "value": "neutral", "reason": "A tariff policy still under development with no immediate direct impact on households." },
+        "market": { "value": "high", "reason": "Electricity pricing and tariff restructuring directly affect discos, industry and investors." },
+        "lean": { "value": "balanced", "reason": "Factual reporting citing power division officials' figures and statements without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on a single full Dawn article with detailed official figures and named officials." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Ratification of Pakistan-Kuwait Defence deal welcomed",
+      "summary": "AI summary: Pakistan's Foreign Ministry welcomed Kuwait's ratification of the June 2023 Defence Cooperation Agreement, calling it a milestone in a defence partnership dating to the early 1980s that sets up frameworks for military training, joint exercises and expertise exchanges.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40432463/ratification-of-pakistan-kuwait-defence-deal-welcomed" }
+      ],
+      "timestamp": "Jul 30, 7:16 AM",
+      "publishedAt": "2026-07-30T07:16:09+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A defence-institutional announcement with no immediate concrete economic outcome." },
+        "political": { "value": "positive", "reason": "Formalizing and strengthening a decades-long bilateral defence partnership reflects positively on diplomatic and institutional standing." },
+        "social": { "value": "neutral", "reason": "A military-diplomatic agreement with no direct bearing on daily life." },
+        "market": { "value": "low", "reason": "A defence-cooperation announcement with limited direct relevance to investors absent concrete economic deals." },
+        "lean": { "value": "balanced", "reason": "Routine diplomatic reporting citing the Foreign Ministry spokesperson without partisan framing." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt after the full article page returned a 403 error; single-sourced for this specific card." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "CDF, Kuwaiti FM vow to promote regional peace",
+      "summary": "AI summary: Field Marshal Syed Asim Munir met Kuwaiti Foreign Minister Sheikh Jarrah Jaber Al-Ahmad Al-Sabah, with both sides reaffirming deeper bilateral cooperation, discussing regional security, and voicing a shared commitment to stability and peace in the region.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40432462/cdf-kuwaiti-fm-vow-to-promote-regional-peace" }
+      ],
+      "timestamp": "Jul 30, 7:14 AM",
+      "publishedAt": "2026-07-30T07:14:37+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic/military meeting with no direct economic outcome." },
+        "political": { "value": "positive", "reason": "A high-level military-diplomatic meeting reaffirming bilateral cooperation reflects positively on Pakistan's diplomatic engagement." },
+        "social": { "value": "neutral", "reason": "A diplomatic meeting with no direct bearing on daily life." },
+        "market": { "value": "low", "reason": "A diplomatic engagement with limited direct relevance to broader markets." },
+        "lean": { "value": "balanced", "reason": "Routine diplomatic reporting with no partisan framing." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt after the full article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "'Case must be decided according to what is pleaded and proved': SC",
+      "summary": "AI summary: The Supreme Court ruled that cases must be decided strictly on what is pleaded and proved, finding that a lower tribunal in a Medical Teaching Institutions appeal had exceeded its jurisdiction by issuing directions beyond the case's scope, and stressed that tribunals must act as neutral arbiters rather than investigators.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40432487/case-must-be-decided-according-to-what-is-pleaded-and-proved-sc" }
+      ],
+      "timestamp": "Jul 30, 5:15 AM",
+      "publishedAt": "2026-07-30T05:15:44+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A judicial procedural ruling with no direct economic effect." },
+        "political": { "value": "positive", "reason": "The ruling reinforces judicial boundaries and institutional discipline by curbing tribunals from exceeding their jurisdiction." },
+        "social": { "value": "neutral", "reason": "A legal/procedural matter with no direct bearing on public daily life or safety." },
+        "market": { "value": "low", "reason": "A specific case ruling with limited direct relevance to broader markets." },
+        "lean": { "value": "balanced", "reason": "Straight judicial reporting of the court's reasoning with no political framing." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt after the full article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Sharjeel says PML-N ruling Punjab with 'manipulated mandate'",
+      "summary": "AI summary: PPP leader Sharjeel Inam Memon alleged PML-N is governing Punjab on a rigged 2024 election mandate and claimed similar irregularities occurred in the Azad Jammu and Kashmir elections, calling for fresh polls in disputed constituencies and saying his party would pursue the matter through constitutional means.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40432490/sharjeel-says-pml-n-ruling-punjab-with-manipulated-mandate" }
+      ],
+      "timestamp": "Jul 30, 5:15 AM",
+      "publishedAt": "2026-07-30T05:15:44+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A political statement with no direct economic effect." },
+        "political": { "value": "negative", "reason": "Public allegations of a rigged provincial mandate and calls for fresh polls reflect a contested-legitimacy dispute relevant to governance stability." },
+        "social": { "value": "neutral", "reason": "A partisan political dispute with no direct bearing on public daily life or safety." },
+        "market": { "value": "low", "reason": "A domestic political dispute with limited direct relevance to markets." },
+        "lean": { "value": "balanced", "reason": "Not confidently certain of the precise current government/opposition alignment in this specific case, so defaulting to balanced rather than asserting a side; the excerpt is also one-sided with only the PPP leader's claims quoted." },
+        "confidence": { "value": "low", "reason": "Based only on a truncated RSS description excerpt from a single outlet after the article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 8,
       "headline": "22 villages in Punjab's Multan district partially submerged under floodwaters",
       "summary": "AI summary: Monsoon floodwaters from the River Chenab partially submerged 22 villages across three tehsils of Multan district, reaching 3-4 feet in places and destroying standing cotton and fodder crops, though officials say no village is severely affected and water levels are receding as the provincial disaster authority warns of further rain and possible urban flooding elsewhere.",
       "sources": [
@@ -21,7 +154,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 9,
       "headline": "Factory fire brought under control near Karachi's Gulshan-e-Maymar",
       "summary": "AI summary: A factory fire in Karachi's Gulshan-e-Maymar area was brought under control after a rapid response from fire and rescue teams, with no casualties reported and the cause still under investigation as cooling operations continued to prevent reignition.",
       "sources": [
@@ -40,7 +173,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 10,
       "headline": "DSP among seven personnel martyred in Hangu checkpost attack: police",
       "summary": "AI summary: Police said at least seven police personnel, including DSP Diyar Khan, were martyred and around 22 others injured when militants attacked a checkpost in Hangu, Khyber Pakhtunkhwa, with a counter-terrorism operation against the attackers continuing in the area.",
       "sources": [
@@ -59,7 +192,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 11,
       "headline": "Govt increases diesel price by Rs2.24, decreases petrol's by 75 paisas",
       "summary": "AI summary: Pakistan raised diesel prices by Rs2.24 to Rs390.62 per litre while cutting petrol by 75 paisas to Rs335.06, effective July 30, with the petroleum ministry citing international market fluctuations following renewed Iran-US tensions and continuing its new policy of daily rather than weekly price revisions, which the dealers' association has rejected.",
       "sources": [
@@ -79,7 +212,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 12,
       "headline": "Archaeologists call for new research, reconstruction of Mohenjo-daro city wall",
       "summary": "AI summary: Archaeologists presented findings from Mohenjo-daro's 2025-2026 field season revealing a substantial mudbrick defensive wall from the Early Harappan period, radiocarbon-dated to roughly 2708-2576 BCE, and called for building an interpretive reconstruction of the wall to boost public engagement and cultural tourism at the UNESCO heritage site.",
       "sources": [
@@ -98,7 +231,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 13,
       "headline": "Pakistan welcomes Kuwait's recent ratification of 2023 pact to expand defence cooperation",
       "summary": "AI summary: Pakistan's Foreign Office welcomed Kuwait's ratification of a 2023 bilateral defence cooperation agreement, first signed in June 2023, calling it a milestone that builds an institutional framework for military training, joint exercises and expertise exchange and deepens a defence partnership between the two countries dating back to the early 1980s.",
       "sources": [
