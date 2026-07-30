@@ -1,8 +1,143 @@
 {
-  "generatedAt": "2026-07-30T10:22:00+05:00",
+  "generatedAt": "2026-07-30T18:20:57+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "Naqvi says current system has 'collapsed', proposes administrative units to tackle challenges",
+      "summary": "AI summary: Interior Minister Mohsin Naqvi said Pakistan's existing governance system has collapsed and is no longer capable of addressing the country's challenges, proposing new administrative units as a way forward.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/675427-naqvi-says-current-system-has-collapsed-proposes-administrative-units-to-tackle-challenges" }
+      ],
+      "timestamp": "Jul 30, 6:02 PM",
+      "publishedAt": "2026-07-30T18:02:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A governance-reform statement with no direct near-term economic effect." },
+        "political": { "value": "negative", "reason": "A sitting Interior Minister publicly declaring that the governance system has 'collapsed' reflects a serious admission of institutional dysfunction." },
+        "social": { "value": "neutral", "reason": "A proposed administrative restructuring with no immediate direct bearing on daily life." },
+        "market": { "value": "low", "reason": "A domestic political-administrative commentary with limited direct relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Straight reporting of a minister's statement and proposal with no partisan framing toward government or opposition." },
+        "confidence": { "value": "low", "reason": "Based only on a truncated RSS description excerpt after the full article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Arshad Nadeem qualifies for javelin throw final at Commonwealth Games",
+      "summary": "AI summary: Pakistani Olympic gold medallist Arshad Nadeem qualified for the men's javelin throw final at the 2026 Commonwealth Games in Glasgow with a season-best throw of 78.63 metres, placing seventh among qualifiers ahead of the July 31 final against competitors including India's Neeraj Chopra and Sri Lanka's Rumesh Tharanga.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2019491/arshad-nadeem-qualifies-for-javelin-throw-final-at-commonwealth-games" }
+      ],
+      "timestamp": "Jul 30, 5:52 PM",
+      "publishedAt": "2026-07-30T17:52:27+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A sporting event result with no direct economic effect." },
+        "political": { "value": "neutral", "reason": "A sports achievement with no bearing on institutional or governance stability." },
+        "social": { "value": "positive", "reason": "A national sporting success that boosts public morale and national pride." },
+        "market": { "value": "low", "reason": "A sports result with no investor or market relevance." },
+        "lean": { "value": "balanced", "reason": "Straight sports reporting with no political framing." },
+        "confidence": { "value": "high", "reason": "Based on a full, detailed Dawn article with specific verifiable competition figures." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Bodies of six abducted labourers found in Balochistan's Nasirabad",
+      "summary": "AI summary: Police said the bodies of six labourers, who had been abducted from the Kalatak area of Balochistan's Nasirabad district on July 28 while working on development projects, four from Punjab and two from Khyber Pakhtunkhwa, have been found.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/675423-bodies-of-six-abducted-labourers-found-in-balochistans-nasirabad" }
+      ],
+      "timestamp": "Jul 30, 5:42 PM",
+      "publishedAt": "2026-07-30T17:42:29+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Attacks targeting migrant labourers on development projects threaten labour supply and project continuity in the region." },
+        "political": { "value": "negative", "reason": "The targeted killing of labourers from other provinces reflects a serious security and governance failure in the area." },
+        "social": { "value": "negative", "reason": "Six deaths among abducted labourers directly threaten public safety and reflect ongoing violence in the region." },
+        "market": { "value": "low", "reason": "A localized security incident with limited direct relevance to broader investors or markets." },
+        "lean": { "value": "balanced", "reason": "Claims are attributed to police as the stated source, with no partisan framing." },
+        "confidence": { "value": "low", "reason": "Based only on a truncated RSS description excerpt after the full article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Sindh imposes province-wide pillion riding ban on Chehlum",
+      "summary": "AI summary: The Sindh Home Department imposed a province-wide ban on pillion riding (two people on a motorcycle) as a security precaution ahead of the Chehlum of Hazrat Imam Hussain.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/675410-sindh-imposes-province-wide-pillion-riding-ban-on-chehlum" }
+      ],
+      "timestamp": "Jul 30, 5:22 PM",
+      "publishedAt": "2026-07-30T17:22:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A temporary security measure with minimal broad economic effect." },
+        "political": { "value": "neutral", "reason": "A routine annual security precaution during a religious observance, not indicative of governance instability." },
+        "social": { "value": "positive", "reason": "A proactive measure intended to prevent motorcycle-borne attacks during a large religious procession protects public safety." },
+        "market": { "value": "low", "reason": "A localized, temporary security measure with no investor relevance." },
+        "lean": { "value": "balanced", "reason": "Routine government security announcement with no partisan framing." },
+        "confidence": { "value": "low", "reason": "Based only on a truncated RSS description excerpt after the full article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Sindh schools, colleges to have classes six days a week from Aug 1",
+      "summary": "AI summary: The Sindh government mandated that all public and private schools and colleges operate six days a week (Monday to Saturday) from August 1, reversing a fuel-conservation policy after officials said teachers had also started taking Saturdays off, disrupting curriculum completion.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/675392-sindh-dec" },
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2019492/sindh-schools-colleges-to-have-classes-six-days-a-week-from-aug-1" }
+      ],
+      "timestamp": "Jul 30, 2:37 PM",
+      "publishedAt": "2026-07-30T14:37:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A routine education-administrative policy change with no direct broad economic effect." },
+        "political": { "value": "neutral", "reason": "A routine provincial administrative decision, not indicative of governance instability." },
+        "social": { "value": "neutral", "reason": "The change restores curriculum delivery but reduces weekend rest for students, teachers and families, a mixed effect on daily life." },
+        "market": { "value": "low", "reason": "A domestic education-policy matter with negligible investor relevance." },
+        "lean": { "value": "balanced", "reason": "Factual reporting citing official notifications and the chief minister's spokesperson's rationale, with no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two independent outlets (a full Dawn article and a Geo News description) with matching effective date and department source." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Pakistan says 'doing utmost' to bring US, Iran back to Islamabad MoU",
+      "summary": "AI summary: At a weekly briefing, Foreign Office Spokesperson Tahir Andrabi said Pakistan is doing its utmost to bring the United States and Iran back to the Islamabad Memorandum of Understanding, with technical-level talks ongoing to normalise the situation after fighting reignited on July 7, and urged both sides to exercise maximum restraint.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2019454/pakistan-says-doing-utmost-to-bring-us-iran-back-to-islamabad-mou" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40432557/iran-us-war-negotiations-between-parties-ongoing-to-normalise-situation-fo-says" }
+      ],
+      "timestamp": "Jul 30, 1:23 PM",
+      "publishedAt": "2026-07-30T13:23:12+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Diplomatic efforts toward de-escalation could ease Strait of Hormuz-related shipping and energy cost pressure, but there is no concrete outcome yet." },
+        "political": { "value": "neutral", "reason": "A foreign-policy statement about mediating between other nations, with no direct bearing on Pakistan's own domestic institutional stability." },
+        "social": { "value": "neutral", "reason": "A diplomatic statement with no direct bearing on Pakistanis' daily life." },
+        "market": { "value": "medium", "reason": "Iran-US tensions and Strait of Hormuz stability affect regional oil and shipping costs relevant to Pakistani businesses, though this is rhetoric rather than a concrete development." },
+        "lean": { "value": "balanced", "reason": "Straight reporting of the Foreign Office spokesperson's statement with no partisan framing." },
+        "confidence": { "value": "high", "reason": "Corroborated by two independent outlets with matching direct quotes from the same briefing." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Pakistan Navy rescues 19 crew members of fishing vessel stranded near Gwadar",
+      "summary": "AI summary: The Pakistan Navy rescued all 19 crew members, 11 Pakistani and 8 Iranian nationals, of the fishing vessel Al Jalali after it suffered engine failure about 120 nautical miles south of Gwadar during monsoon weather, with PNS Taimur providing food, water and medical care before towing the vessel safely to shore.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40432529/pakistan-navy-rescues-19-crew-members-of-fishing-vessel-stranded-near-gwadar" }
+      ],
+      "timestamp": "Jul 30, 1:20 PM",
+      "publishedAt": "2026-07-30T13:20:50+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A maritime rescue operation with no material broader economic effect." },
+        "political": { "value": "positive", "reason": "Reflects positively on the Navy's operational capability, praised by both the President and Prime Minister." },
+        "social": { "value": "positive", "reason": "Saved 19 lives at sea, directly benefiting public safety and wellbeing." },
+        "market": { "value": "low", "reason": "A maritime rescue operation with limited direct relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Factual reporting of a rescue operation with official statements, no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on a full, detailed official Navy statement, but not corroborated by the other two monitored outlets in this run." }
+      }
+    },
+    {
+      "id": 8,
       "headline": "9 cops martyred, 28 injured as police checkpost comes under attack in KP's Hangu",
       "summary": "AI summary: Police said militants attacked the Khazina Banda checkpost in Hangu, Khyber Pakhtunkhwa, killing nine officers, including DSP Diyar Khan, and wounding 28 others as reinforcements were also ambushed, while security forces reported killing 15 attackers and the interior minister condemned the assault.",
       "sources": [
@@ -21,7 +156,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 9,
       "headline": "Punjab shuffles senior bureaucrats",
       "summary": "AI summary: The Punjab government carried out a chain reshuffle of senior bureaucrats after the federal government moved Additional Chief Secretary Ahmad Raza Sarwar to a national interior ministry post, triggering a series of reassignments among officials overseeing agriculture, industries and commerce, services, and information and culture.",
       "sources": [
@@ -40,7 +175,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 10,
       "headline": "Govt hints at new power tariff package as demand falls",
       "summary": "AI summary: Pakistan's power division is developing a new electricity tariff package covering time-of-use pricing, captive power plants and battery storage integration after officials linked a more than 3% year-on-year fall in June electricity demand partly to growing solar adoption, even as the government seeks an additional Rs1.20-per-unit fuel charge on August bills.",
       "sources": [
@@ -59,7 +194,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 11,
       "headline": "Ratification of Pakistan-Kuwait Defence deal welcomed",
       "summary": "AI summary: Pakistan's Foreign Ministry welcomed Kuwait's ratification of the June 2023 Defence Cooperation Agreement, calling it a milestone in a defence partnership dating to the early 1980s that sets up frameworks for military training, joint exercises and expertise exchanges.",
       "sources": [
@@ -78,7 +213,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 12,
       "headline": "CDF, Kuwaiti FM vow to promote regional peace",
       "summary": "AI summary: Field Marshal Syed Asim Munir met Kuwaiti Foreign Minister Sheikh Jarrah Jaber Al-Ahmad Al-Sabah, with both sides reaffirming deeper bilateral cooperation, discussing regional security, and voicing a shared commitment to stability and peace in the region.",
       "sources": [
@@ -97,7 +232,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 13,
       "headline": "'Case must be decided according to what is pleaded and proved': SC",
       "summary": "AI summary: The Supreme Court ruled that cases must be decided strictly on what is pleaded and proved, finding that a lower tribunal in a Medical Teaching Institutions appeal had exceeded its jurisdiction by issuing directions beyond the case's scope, and stressed that tribunals must act as neutral arbiters rather than investigators.",
       "sources": [
@@ -116,7 +251,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 14,
       "headline": "Sharjeel says PML-N ruling Punjab with 'manipulated mandate'",
       "summary": "AI summary: PPP leader Sharjeel Inam Memon alleged PML-N is governing Punjab on a rigged 2024 election mandate and claimed similar irregularities occurred in the Azad Jammu and Kashmir elections, calling for fresh polls in disputed constituencies and saying his party would pursue the matter through constitutional means.",
       "sources": [
@@ -135,7 +270,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 15,
       "headline": "22 villages in Punjab's Multan district partially submerged under floodwaters",
       "summary": "AI summary: Monsoon floodwaters from the River Chenab partially submerged 22 villages across three tehsils of Multan district, reaching 3-4 feet in places and destroying standing cotton and fodder crops, though officials say no village is severely affected and water levels are receding as the provincial disaster authority warns of further rain and possible urban flooding elsewhere.",
       "sources": [
@@ -154,7 +289,7 @@
       }
     },
     {
-      "id": 9,
+      "id": 16,
       "headline": "Factory fire brought under control near Karachi's Gulshan-e-Maymar",
       "summary": "AI summary: A factory fire in Karachi's Gulshan-e-Maymar area was brought under control after a rapid response from fire and rescue teams, with no casualties reported and the cause still under investigation as cooling operations continued to prevent reignition.",
       "sources": [
@@ -173,7 +308,7 @@
       }
     },
     {
-      "id": 10,
+      "id": 17,
       "headline": "DSP among seven personnel martyred in Hangu checkpost attack: police",
       "summary": "AI summary: Police said at least seven police personnel, including DSP Diyar Khan, were martyred and around 22 others injured when militants attacked a checkpost in Hangu, Khyber Pakhtunkhwa, with a counter-terrorism operation against the attackers continuing in the area.",
       "sources": [
@@ -192,7 +327,7 @@
       }
     },
     {
-      "id": 11,
+      "id": 18,
       "headline": "Govt increases diesel price by Rs2.24, decreases petrol's by 75 paisas",
       "summary": "AI summary: Pakistan raised diesel prices by Rs2.24 to Rs390.62 per litre while cutting petrol by 75 paisas to Rs335.06, effective July 30, with the petroleum ministry citing international market fluctuations following renewed Iran-US tensions and continuing its new policy of daily rather than weekly price revisions, which the dealers' association has rejected.",
       "sources": [
@@ -212,7 +347,7 @@
       }
     },
     {
-      "id": 12,
+      "id": 19,
       "headline": "Archaeologists call for new research, reconstruction of Mohenjo-daro city wall",
       "summary": "AI summary: Archaeologists presented findings from Mohenjo-daro's 2025-2026 field season revealing a substantial mudbrick defensive wall from the Early Harappan period, radiocarbon-dated to roughly 2708-2576 BCE, and called for building an interpretive reconstruction of the wall to boost public engagement and cultural tourism at the UNESCO heritage site.",
       "sources": [
@@ -231,7 +366,7 @@
       }
     },
     {
-      "id": 13,
+      "id": 20,
       "headline": "Pakistan welcomes Kuwait's recent ratification of 2023 pact to expand defence cooperation",
       "summary": "AI summary: Pakistan's Foreign Office welcomed Kuwait's ratification of a 2023 bilateral defence cooperation agreement, first signed in June 2023, calling it a milestone that builds an institutional framework for military training, joint exercises and expertise exchange and deepens a defence partnership between the two countries dating back to the early 1980s.",
       "sources": [
