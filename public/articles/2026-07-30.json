@@ -1,8 +1,85 @@
 {
-  "generatedAt": "2026-07-30T18:20:57+05:00",
+  "generatedAt": "2026-07-30T21:35:22+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "PM Shehbaz briefed on digitisation of consular services for overseas Pakistanis: PMO",
+      "summary": "AI summary: Prime Minister Shehbaz Sharif was briefed on new digital initiatives for overseas Pakistanis, including a QR code-based document verification system already in use and a mobile app under development for attesting documents such as birth and marriage certificates. He directed that the QR codes be prominently displayed at Pakistani missions abroad to improve accessibility.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2019498/pm-shehbaz-briefed-on-digitisation-of-consular-services-for-overseas-pakistanis-pmo" }
+      ],
+      "timestamp": "Jul 30, 9:33 PM",
+      "publishedAt": "2026-07-30T21:33:30+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Administrative digitisation for expatriates has limited direct effect on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "A routine administrative briefing with no bearing on institutional or governance stability." },
+        "social": { "value": "positive", "reason": "Digitised consular services would ease document processes and daily life for millions of overseas Pakistanis." },
+        "market": { "value": "low", "reason": "Consular service delivery has minimal relevance to investors or business decision-making." },
+        "lean": { "value": "balanced", "reason": "A straightforward PMO statement without a contesting narrative or partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on a single official PMO-sourced Dawn report; not independently corroborated by other outlets." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "120 firms join SSUET job fair as Sindh governor inaugurates AI lab",
+      "summary": "AI summary: More than 120 companies took part in a job fair at Sir Syed University of Engineering and Technology in Karachi, where Sindh Governor Nihal Hashmi inaugurated a new AI and game development lab. Organisers said the event aimed to connect students with employers and strengthen academia-industry links through internships and training.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40432580/120-firms-join-ssuet-job-fair-as-sindh-governor-inaugurates-ai-lab" }
+      ],
+      "timestamp": "Jul 30, 9:30 PM",
+      "publishedAt": "2026-07-30T21:30:27+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "A large job fair and new AI lab support youth employment and industry-academia links, a modest economic positive." },
+        "political": { "value": "neutral", "reason": "A routine educational/ceremonial event with no bearing on government-opposition dynamics." },
+        "social": { "value": "positive", "reason": "Expands career opportunities and skills training for students." },
+        "market": { "value": "low", "reason": "A single university job fair has limited relevance for investors or broader market decisions." },
+        "lean": { "value": "balanced", "reason": "Coverage of a ceremonial inauguration with no partisan framing evident." },
+        "confidence": { "value": "medium", "reason": "Based only on the RSS description excerpt, not the full article, since the article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Two miners killed, several feared trapped after Quetta coal mine explosion",
+      "summary": "AI summary: An explosion at a coal mine in Quetta's Sorange area killed at least two workers, with roughly 22 others reported still trapped underground out of about 25 who were inside. Rescue teams, including Rescue 1122 and the Provincial Disaster Management Authority, mobilised ambulances and equipment, though difficult terrain slowed their arrival at the remote site.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2019505/two-miners-killed-several-feared-trapped-after-quetta-coal-mine-explosion" }
+      ],
+      "timestamp": "Jul 30, 9:13 PM",
+      "publishedAt": "2026-07-30T21:13:47+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Mine deaths and a halted operation disrupt production and highlight costly safety failures in Balochistan's coal sector." },
+        "political": { "value": "negative", "reason": "Repeated mining disasters point to weak enforcement of safety regulation, straining provincial governance credibility." },
+        "social": { "value": "negative", "reason": "Loss of life and workers trapped underground directly harms worker safety and community wellbeing." },
+        "market": { "value": "low", "reason": "A single local mine incident has limited direct relevance to broader investor or market decisions." },
+        "lean": { "value": "balanced", "reason": "Report attributes figures and statements to named officials and a labour leader without favouring any party." },
+        "confidence": { "value": "medium", "reason": "Based on a single Dawn report citing officials and a labour leader; casualty and trapped-worker figures may still change." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Bilawal warns 'countdown' will begin for federal government if it 'steals' AJK election",
+      "summary": "AI summary: PPP chairman Bilawal Bhutto-Zardari warned at a Muzaffarabad rally ahead of the August 2 Azad Kashmir election that a 'countdown' would begin for the federal government if the vote is rigged, while also inviting PTI to abandon boycott politics and questioning the AJK Election Commission's impartiality. The warning follows violence and rigging allegations during the election's first phase in Mirpur division on July 28.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2019507/bilawal-warns-countdown-will-begin-for-federal-government-if-it-steals-ajk-election" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/675439-federal-govts-countdown-will-begin-if-ajk-elections-rigged-warns-bilawal" }
+      ],
+      "timestamp": "Jul 30, 7:55 PM",
+      "publishedAt": "2026-07-30T19:55:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A political rally speech has no direct bearing on jobs, prices, or business activity." },
+        "political": { "value": "negative", "reason": "A major opposition figure threatening consequences against the federal government amid rigging allegations signals rising political confrontation and instability." },
+        "social": { "value": "neutral", "reason": "The rally itself does not directly affect public safety or daily life, though it reflects ongoing election tension." },
+        "market": { "value": "low", "reason": "Political rhetoric around a regional election carries limited direct relevance for investors or markets." },
+        "lean": { "value": "balanced", "reason": "Not confidently certain of PPP's precise government/opposition standing at this time, so defaulting to balanced; the reporting also relays only the PPP chairman's warnings without a countering official response in this coverage." },
+        "confidence": { "value": "low", "reason": "Corroborated by two independent outlets (Dawn and Geo) with matching quotes, but government/opposition alignment is uncertain and only one side's framing is presented." }
+      }
+    },
+    {
+      "id": 5,
       "headline": "Naqvi says current system has 'collapsed', proposes administrative units to tackle challenges",
       "summary": "AI summary: Interior Minister Mohsin Naqvi said Pakistan's existing governance system has collapsed and is no longer capable of addressing the country's challenges, proposing new administrative units as a way forward.",
       "sources": [
@@ -21,7 +98,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 6,
       "headline": "Arshad Nadeem qualifies for javelin throw final at Commonwealth Games",
       "summary": "AI summary: Pakistani Olympic gold medallist Arshad Nadeem qualified for the men's javelin throw final at the 2026 Commonwealth Games in Glasgow with a season-best throw of 78.63 metres, placing seventh among qualifiers ahead of the July 31 final against competitors including India's Neeraj Chopra and Sri Lanka's Rumesh Tharanga.",
       "sources": [
@@ -40,7 +117,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 7,
       "headline": "Bodies of six abducted labourers found in Balochistan's Nasirabad",
       "summary": "AI summary: Police said the bodies of six labourers, who had been abducted from the Kalatak area of Balochistan's Nasirabad district on July 28 while working on development projects, four from Punjab and two from Khyber Pakhtunkhwa, have been found.",
       "sources": [
@@ -59,7 +136,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 8,
       "headline": "Sindh imposes province-wide pillion riding ban on Chehlum",
       "summary": "AI summary: The Sindh Home Department imposed a province-wide ban on pillion riding (two people on a motorcycle) as a security precaution ahead of the Chehlum of Hazrat Imam Hussain.",
       "sources": [
@@ -78,7 +155,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 9,
       "headline": "Sindh schools, colleges to have classes six days a week from Aug 1",
       "summary": "AI summary: The Sindh government mandated that all public and private schools and colleges operate six days a week (Monday to Saturday) from August 1, reversing a fuel-conservation policy after officials said teachers had also started taking Saturdays off, disrupting curriculum completion.",
       "sources": [
@@ -98,7 +175,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 10,
       "headline": "Pakistan says 'doing utmost' to bring US, Iran back to Islamabad MoU",
       "summary": "AI summary: At a weekly briefing, Foreign Office Spokesperson Tahir Andrabi said Pakistan is doing its utmost to bring the United States and Iran back to the Islamabad Memorandum of Understanding, with technical-level talks ongoing to normalise the situation after fighting reignited on July 7, and urged both sides to exercise maximum restraint.",
       "sources": [
@@ -118,7 +195,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 11,
       "headline": "Pakistan Navy rescues 19 crew members of fishing vessel stranded near Gwadar",
       "summary": "AI summary: The Pakistan Navy rescued all 19 crew members, 11 Pakistani and 8 Iranian nationals, of the fishing vessel Al Jalali after it suffered engine failure about 120 nautical miles south of Gwadar during monsoon weather, with PNS Taimur providing food, water and medical care before towing the vessel safely to shore.",
       "sources": [
@@ -137,7 +214,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 12,
       "headline": "9 cops martyred, 28 injured as police checkpost comes under attack in KP's Hangu",
       "summary": "AI summary: Police said militants attacked the Khazina Banda checkpost in Hangu, Khyber Pakhtunkhwa, killing nine officers, including DSP Diyar Khan, and wounding 28 others as reinforcements were also ambushed, while security forces reported killing 15 attackers and the interior minister condemned the assault.",
       "sources": [
@@ -156,7 +233,7 @@
       }
     },
     {
-      "id": 9,
+      "id": 13,
       "headline": "Punjab shuffles senior bureaucrats",
       "summary": "AI summary: The Punjab government carried out a chain reshuffle of senior bureaucrats after the federal government moved Additional Chief Secretary Ahmad Raza Sarwar to a national interior ministry post, triggering a series of reassignments among officials overseeing agriculture, industries and commerce, services, and information and culture.",
       "sources": [
@@ -175,7 +252,7 @@
       }
     },
     {
-      "id": 10,
+      "id": 14,
       "headline": "Govt hints at new power tariff package as demand falls",
       "summary": "AI summary: Pakistan's power division is developing a new electricity tariff package covering time-of-use pricing, captive power plants and battery storage integration after officials linked a more than 3% year-on-year fall in June electricity demand partly to growing solar adoption, even as the government seeks an additional Rs1.20-per-unit fuel charge on August bills.",
       "sources": [
@@ -194,7 +271,7 @@
       }
     },
     {
-      "id": 11,
+      "id": 15,
       "headline": "Ratification of Pakistan-Kuwait Defence deal welcomed",
       "summary": "AI summary: Pakistan's Foreign Ministry welcomed Kuwait's ratification of the June 2023 Defence Cooperation Agreement, calling it a milestone in a defence partnership dating to the early 1980s that sets up frameworks for military training, joint exercises and expertise exchanges.",
       "sources": [
@@ -213,7 +290,7 @@
       }
     },
     {
-      "id": 12,
+      "id": 16,
       "headline": "CDF, Kuwaiti FM vow to promote regional peace",
       "summary": "AI summary: Field Marshal Syed Asim Munir met Kuwaiti Foreign Minister Sheikh Jarrah Jaber Al-Ahmad Al-Sabah, with both sides reaffirming deeper bilateral cooperation, discussing regional security, and voicing a shared commitment to stability and peace in the region.",
       "sources": [
@@ -232,7 +309,7 @@
       }
     },
     {
-      "id": 13,
+      "id": 17,
       "headline": "'Case must be decided according to what is pleaded and proved': SC",
       "summary": "AI summary: The Supreme Court ruled that cases must be decided strictly on what is pleaded and proved, finding that a lower tribunal in a Medical Teaching Institutions appeal had exceeded its jurisdiction by issuing directions beyond the case's scope, and stressed that tribunals must act as neutral arbiters rather than investigators.",
       "sources": [
@@ -251,7 +328,7 @@
       }
     },
     {
-      "id": 14,
+      "id": 18,
       "headline": "Sharjeel says PML-N ruling Punjab with 'manipulated mandate'",
       "summary": "AI summary: PPP leader Sharjeel Inam Memon alleged PML-N is governing Punjab on a rigged 2024 election mandate and claimed similar irregularities occurred in the Azad Jammu and Kashmir elections, calling for fresh polls in disputed constituencies and saying his party would pursue the matter through constitutional means.",
       "sources": [
@@ -270,7 +347,7 @@
       }
     },
     {
-      "id": 15,
+      "id": 19,
       "headline": "22 villages in Punjab's Multan district partially submerged under floodwaters",
       "summary": "AI summary: Monsoon floodwaters from the River Chenab partially submerged 22 villages across three tehsils of Multan district, reaching 3-4 feet in places and destroying standing cotton and fodder crops, though officials say no village is severely affected and water levels are receding as the provincial disaster authority warns of further rain and possible urban flooding elsewhere.",
       "sources": [
@@ -289,7 +366,7 @@
       }
     },
     {
-      "id": 16,
+      "id": 20,
       "headline": "Factory fire brought under control near Karachi's Gulshan-e-Maymar",
       "summary": "AI summary: A factory fire in Karachi's Gulshan-e-Maymar area was brought under control after a rapid response from fire and rescue teams, with no casualties reported and the cause still under investigation as cooling operations continued to prevent reignition.",
       "sources": [
@@ -308,7 +385,7 @@
       }
     },
     {
-      "id": 17,
+      "id": 21,
       "headline": "DSP among seven personnel martyred in Hangu checkpost attack: police",
       "summary": "AI summary: Police said at least seven police personnel, including DSP Diyar Khan, were martyred and around 22 others injured when militants attacked a checkpost in Hangu, Khyber Pakhtunkhwa, with a counter-terrorism operation against the attackers continuing in the area.",
       "sources": [
@@ -327,7 +404,7 @@
       }
     },
     {
-      "id": 18,
+      "id": 22,
       "headline": "Govt increases diesel price by Rs2.24, decreases petrol's by 75 paisas",
       "summary": "AI summary: Pakistan raised diesel prices by Rs2.24 to Rs390.62 per litre while cutting petrol by 75 paisas to Rs335.06, effective July 30, with the petroleum ministry citing international market fluctuations following renewed Iran-US tensions and continuing its new policy of daily rather than weekly price revisions, which the dealers' association has rejected.",
       "sources": [
@@ -347,7 +424,7 @@
       }
     },
     {
-      "id": 19,
+      "id": 23,
       "headline": "Archaeologists call for new research, reconstruction of Mohenjo-daro city wall",
       "summary": "AI summary: Archaeologists presented findings from Mohenjo-daro's 2025-2026 field season revealing a substantial mudbrick defensive wall from the Early Harappan period, radiocarbon-dated to roughly 2708-2576 BCE, and called for building an interpretive reconstruction of the wall to boost public engagement and cultural tourism at the UNESCO heritage site.",
       "sources": [
@@ -366,7 +443,7 @@
       }
     },
     {
-      "id": 20,
+      "id": 24,
       "headline": "Pakistan welcomes Kuwait's recent ratification of 2023 pact to expand defence cooperation",
       "summary": "AI summary: Pakistan's Foreign Office welcomed Kuwait's ratification of a 2023 bilateral defence cooperation agreement, first signed in June 2023, calling it a milestone that builds an institutional framework for military training, joint exercises and expertise exchange and deepens a defence partnership between the two countries dating back to the early 1980s.",
       "sources": [
