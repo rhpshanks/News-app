@@ -1,8 +1,46 @@
 {
-  "generatedAt": "2026-07-31T21:45:00+05:00",
+  "generatedAt": "2026-07-31T22:44:00+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "Pakistan welcomes progress on Gaza Peace Plan, backs disarmament process",
+      "summary": "AI summary: Prime Minister Shehbaz Sharif welcomed progress under the Board of Peace toward the disarmament process envisaged in the Gaza Peace Plan, crediting US, Egyptian, Qatari and Turkish mediation, reaffirming Pakistan's support for an independent Palestinian state on pre-1967 borders, as reports indicated Hamas had agreed in principle to disarm under the framework.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40432770/pakistan-welcomes-progress-on-gaza-peace-plan-backs-disarmament-process" }
+      ],
+      "timestamp": "Jul 31, 10:36 PM",
+      "publishedAt": "2026-07-31T22:36:40+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic statement with no direct effect on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "Foreign policy commentary on an external peace process, not a domestic governance matter." },
+        "social": { "value": "neutral", "reason": "Concerns Gaza's disarmament process abroad, with no direct effect on Pakistani daily life." },
+        "market": { "value": "medium", "reason": "Middle East de-escalation is relevant to regional stability watched by investors, though effects on Pakistan itself are indirect." },
+        "lean": { "value": "balanced", "reason": "Factual relay of the PM's official statement, no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on a detailed RSS description of an official statement rather than the full article, single source." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Sindh govt leaves Saturday school decision to private sector",
+      "summary": "AI summary: Sindh's Education and Literacy Department clarified that privately managed schools may set their own weekly teaching schedule, confirming that the six-day working week ordered on July 29 applies only to public sector schools, per a circular issued by the Directorate of Inspection.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40432768/sindh-govt-leaves-saturday-school-decision-to-private-sector" }
+      ],
+      "timestamp": "Jul 31, 10:22 PM",
+      "publishedAt": "2026-07-31T22:22:42+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A school-scheduling clarification with negligible direct economic effect." },
+        "political": { "value": "neutral", "reason": "A routine administrative clarification, not a governance dispute." },
+        "social": { "value": "neutral", "reason": "Gives private schools flexibility but reflects a policy walk-back within days of the original order." },
+        "market": { "value": "low", "reason": "Not relevant to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Factual administrative clarification with no political framing." },
+        "confidence": { "value": "medium", "reason": "Detailed official circular described, though based on an RSS description rather than the full article, single source." }
+      }
+    },
+    {
+      "id": 3,
       "headline": "Shangla mourns 28 miners killed in Balochistan coal mine accident",
       "summary": "AI summary: A methane gas explosion and collapse at a government-run coal mine in the Sorange coalfield near Quetta killed 28 miners, most from Shangla district in Khyber Pakhtunkhwa, with rescue teams recovering 32 bodies across two affected mines and still searching for two more, as a workers' association blamed the deaths on the mine's lack of proper ventilation.",
       "sources": [
@@ -21,7 +59,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 4,
       "headline": "Mild 2.9-magnitude earthquake strikes parts of Karachi",
       "summary": "AI summary: A mild 2.9-magnitude earthquake struck Karachi around 6pm on Friday, with its epicentre located within the city and a depth of about 10 kilometres according to the Pakistan Meteorological Department, and no immediate reports of casualties or damage.",
       "sources": [
@@ -41,7 +79,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 5,
       "headline": "Supreme Court accepts PTI founder's chamber appeal, orders fixation of case before bench",
       "summary": "AI summary: The Supreme Court accepted a chamber appeal filed by jailed PTI founder Imran Khan, removing Registrar's Office objections and ordering his petition seeking medical accommodations, including transfer to a private Islamabad hospital and access to personal physicians for a serious eye condition, to be fixed before a bench, while also agreeing to hear a related petition from his sister challenging an earlier Islamabad High Court denial.",
       "sources": [
@@ -60,7 +98,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 6,
       "headline": "PML-N stands firmly behind Kashmiris' right to refugee seats, says minister",
       "summary": "AI summary: State Minister for Finance Bilal Azhar Kayani, addressing a corner meeting in Muzaffarabad ahead of the second phase of Azad Jammu and Kashmir Legislative Assembly elections, said the PML-N firmly supports Kashmiris' right to reserved refugee seats.",
       "sources": [
@@ -79,7 +117,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 7,
       "headline": "Sindh schools to remain closed on August 4 for Chehlum",
       "summary": "AI summary: The Sindh School Education Department announced that all public and private educational institutions in the province will remain closed on August 4, 2026, for the Chehlum of Imam Hussain, with the notification circulated to school boards and stakeholders across major cities.",
       "sources": [
@@ -99,7 +137,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 8,
       "headline": "Private schools in Sindh to decide weekly working days at their own convenience, education department says",
       "summary": "AI summary: Sindh's education department clarified that private schools may set their own weekly working days rather than follow the province's newly imposed six-day school week, walking back part of a July 29 order that had required all public and private institutions to hold classes Monday through Saturday from August 1 after teachers stopped working Saturdays under an earlier policy.",
       "sources": [
@@ -118,7 +156,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 9,
       "headline": "Over 2,000 terrorists killed in 2026 operations, no talks with terrorists: DG ISPR",
       "summary": "AI summary: DG ISPR Lt Gen Ahmed Sharif Chaudhry told a Rawalpindi press conference that security forces conducted over 40,000 intelligence-based operations in 2026, killing more than 2,000 terrorists (mostly in Balochistan and Khyber Pakhtunkhwa) while losing 819 personnel, and ruled out any negotiations with terrorist groups; he also called good governance essential to security and urged politicians to pursue any debate over Pakistan's administrative structure, including the provinces question, through constitutional and legal means.",
       "sources": [
@@ -139,7 +177,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 10,
       "headline": "President Zardari approves Nishan-i-Imtiaz (Military) for Gen Aamer Raza",
       "summary": "AI summary: President Asif Ali Zardari approved conferring Pakistan's Nishan-i-Imtiaz (Military) award on General Syed Aamer Raza, commander of the newly created National Strategic Command overseeing the country's nuclear command and strategic forces, following his promotion to four-star general and appointment under the 27th Constitutional Amendment.",
       "sources": [
@@ -158,7 +196,7 @@
       }
     },
     {
-      "id": 9,
+      "id": 11,
       "headline": "Riyadh unveils maritime alliance as war spreads",
       "summary": "AI summary: Saudi Arabia launched a multinational maritime security coalition to protect Red Sea and Gulf of Aden shipping routes, with representatives from 43 countries attending and 14 nations, including Pakistan, issuing a joint statement of support, as the region saw fresh US strikes on Iranian facilities, Iranian retaliation against US-linked targets, and a drone attack on an Egyptian port.",
       "sources": [
@@ -177,7 +215,7 @@
       }
     },
     {
-      "id": 10,
+      "id": 12,
       "headline": "Pakistan backs Saudi right to self-defence after Iraq strikes",
       "summary": "AI summary: Pakistan's Foreign Office said Saudi Arabia has the right to self-defence under Article 51 of the UN Charter following coordinated Saudi-US strikes on Iraqi Popular Mobilisation Units sites blamed for attacks on Saudi oil facilities, while reaffirming its own defence agreements with Gulf states and insisting its role mediating Iran-US tensions remains unaffected.",
       "sources": [
@@ -196,7 +234,7 @@
       }
     },
     {
-      "id": 11,
+      "id": 13,
       "headline": "FO says US-Iran talks ongoing",
       "summary": "AI summary: Pakistan's Foreign Office said it continues facilitating talks between Iran and the United States under the Islamabad Memorandum of Understanding framework to de-escalate tensions in the Strait of Hormuz, with spokesperson Tahir Andrabi also rejecting a recent documentary on Pakistan's nuclear command-and-control as biased and voicing confidence in its safety mechanisms.",
       "sources": [
@@ -215,7 +253,7 @@
       }
     },
     {
-      "id": 12,
+      "id": 14,
       "headline": "Coal mine complex blast kills 11, dozens missing",
       "summary": "AI summary: An explosion buried part of a mining complex in Balochistan, killing at least 11 coal miners, with Balochistan's mines minister Shoaib Nosherwani saying 36 workers were in the collapsed section and 25 remained missing as of Thursday night.",
       "sources": [
@@ -234,7 +272,7 @@
       }
     },
     {
-      "id": 13,
+      "id": 15,
       "headline": "House collapse during monsoon kills 11 in Lahore",
       "summary": "AI summary: A house collapsed during heavy monsoon rain in Lahore, killing 11 people, all from the same family, and injuring six others, according to assistant commissioner Amir Butt, with a neighbour describing hearing a loud bang like an explosion the previous evening.",
       "sources": [
@@ -253,7 +291,7 @@
       }
     },
     {
-      "id": 14,
+      "id": 16,
       "headline": "Mechanism to ensure adherence to axle load limits ordered",
       "summary": "AI summary: Federal Communications Minister Abdul Aleem Khan ordered stricter, round-the-clock enforcement of axle load limits at weigh stations nationwide, including near Karachi Port, with heavier financial penalties for overloaded trucks, aiming to curb road infrastructure damage from vehicle overloading.",
       "sources": [
@@ -272,7 +310,7 @@
       }
     },
     {
-      "id": 15,
+      "id": 17,
       "headline": "10 climbers feared missing after Broad Peak avalanche",
       "summary": "AI summary: About 10 mountaineers, including well-known Nepali climber Nims Dai and Pakistani climber Sohail Sakhi of Hunza, lost contact after an avalanche struck their route on Broad Peak, according to GPS tracking data cited in reports.",
       "sources": [
@@ -291,7 +329,7 @@
       }
     },
     {
-      "id": 16,
+      "id": 18,
       "headline": "Gangster Uzair Baloch's brother shot, critically injured in Karachi's Lyari: police",
       "summary": "AI summary: Zubair Baloch, brother of jailed gang leader Uzair Baloch, was shot and critically wounded by motorcycle-borne gunmen outside his Lyari residence in Karachi on Thursday evening, with two bystanders also hurt; police are probing gang rivalry and personal enmity as possible motives.",
       "sources": [
@@ -310,7 +348,7 @@
       }
     },
     {
-      "id": 17,
+      "id": 19,
       "headline": "Govt increases petrol price by Rs1.09, HSD price by Rs2.42",
       "summary": "AI summary: Pakistan raised petrol prices by Rs1.09 per litre to Rs336.15 and high-speed diesel by Rs2.42 to Rs393.04, effective July 31, 2026, under the now-daily OGRA pricing mechanism tied to international oil markets, though fuel dealers have opposed the approach and threatened protests.",
       "sources": [
@@ -330,7 +368,7 @@
       }
     },
     {
-      "id": 18,
+      "id": 20,
       "headline": "Renewed Middle East tensions pose downside risks to inflation, external sector: finance ministry",
       "summary": "AI summary: Pakistan's finance ministry warned in its July 2026 Monthly Economic Update that renewed Middle East tensions could disrupt global energy prices and trade, posing downside risks to inflation and the external sector, while expressing confidence that stronger macroeconomic fundamentals and reserves would help cushion the impact.",
       "sources": [
@@ -349,7 +387,7 @@
       }
     },
     {
-      "id": 19,
+      "id": 21,
       "headline": "Naqvi urges 'all political parties' to settle issue of more provinces, says current 'system' has collapsed",
       "summary": "AI summary: Interior Minister Mohsin Naqvi told the Pakistan Economic Summit 2026 that the country's governance \"system has collapsed\" and called on all political parties to jointly resolve disputes such as demands for new provinces, warning that talk of development alone cannot fix Pakistan's deepening economic and debt crisis.",
       "sources": [
@@ -368,7 +406,7 @@
       }
     },
     {
-      "id": 20,
+      "id": 22,
       "headline": "PM Shehbaz orders technical audit of DISCOs' billing system, stresses power sector reforms",
       "summary": "AI summary: Prime Minister Shehbaz Sharif ordered a technical audit of power distribution companies' billing systems and called for reforms to eliminate electricity theft, roll out smart meters nationwide, reward top-performing DISCOs, and expand decentralized solar power in rural areas.",
       "sources": [
@@ -387,7 +425,7 @@
       }
     },
     {
-      "id": 21,
+      "id": 23,
       "headline": "Bodies of nine labourers recovered as coalmine in Quetta caves in",
       "summary": "AI summary: A coalmine collapsed in the Sorange area near Quetta, which the mine owner attributed to a methane gas explosion, with the bodies of several labourers reportedly recovered so far; a separate miner also died in an incident in Harnai district.",
       "sources": [
@@ -406,7 +444,7 @@
       }
     },
     {
-      "id": 22,
+      "id": 24,
       "headline": "Security forces neutralise 4 India-sponsored terrorists in Balochistan's Khuzdar",
       "summary": "AI summary: The military said security forces killed four militants linked to \"Fitna al-Hindustan\" during an intelligence-based operation in Balochistan's Khuzdar district, intercepting two explosives-laden vehicles as sanitisation operations continued in the area, according to ISPR.",
       "sources": [
@@ -426,7 +464,7 @@
       }
     },
     {
-      "id": 23,
+      "id": 25,
       "headline": "Sindh restores six-day school week from August 1",
       "summary": "AI summary: Sindh's education department reinstated a six-day school week (Monday to Saturday) for public and private schools starting August 1, 2026, superseding an earlier order from March 2026 that had set an alternate weekly schedule.",
       "sources": [
@@ -445,7 +483,7 @@
       }
     },
     {
-      "id": 24,
+      "id": 26,
       "headline": "Federal govt's countdown will begin if AJK elections rigged, warns Bilawal",
       "summary": "AI summary: PPP Chairman Bilawal Bhutto Zardari told a rally in Muzaffarabad that the \"people's mandate must be decided through ballot\" in the upcoming AJK elections, warning that rigging would trigger a \"countdown\" for the federal government, and said a constitutional convention would follow once genuine representation is secured.",
       "sources": [
