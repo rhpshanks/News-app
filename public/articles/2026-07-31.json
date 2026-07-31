@@ -1,8 +1,164 @@
 {
-  "generatedAt": "2026-07-31T09:06:56+05:00",
+  "generatedAt": "2026-07-31T21:45:00+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "Shangla mourns 28 miners killed in Balochistan coal mine accident",
+      "summary": "AI summary: A methane gas explosion and collapse at a government-run coal mine in the Sorange coalfield near Quetta killed 28 miners, most from Shangla district in Khyber Pakhtunkhwa, with rescue teams recovering 32 bodies across two affected mines and still searching for two more, as a workers' association blamed the deaths on the mine's lack of proper ventilation.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2019732/shangla-mourns-28-miners-killed-in-balochistan-coal-mine-accident" }
+      ],
+      "timestamp": "Jul 31, 9:25 PM",
+      "publishedAt": "2026-07-31T21:25:08+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "A second major mining disaster in the same period disrupts operations and points to serious, recurring worker-safety failures in the sector." },
+        "political": { "value": "neutral", "reason": "Negligence claim is attributed to a workers' association about a specific mine, not framed as a broader institutional or governance crisis." },
+        "social": { "value": "negative", "reason": "A death toll of 28, with rescue efforts ongoing, is a major public-safety tragedy compounding an earlier mining disaster the same day." },
+        "market": { "value": "low", "reason": "A localized mining incident with limited broader market relevance." },
+        "lean": { "value": "balanced", "reason": "Negligence claim is attributed to a named workers' association rather than asserted as fact." },
+        "confidence": { "value": "medium", "reason": "Full article read with detailed, named sourcing, but from a single outlet." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Mild 2.9-magnitude earthquake strikes parts of Karachi",
+      "summary": "AI summary: A mild 2.9-magnitude earthquake struck Karachi around 6pm on Friday, with its epicentre located within the city and a depth of about 10 kilometres according to the Pakistan Meteorological Department, and no immediate reports of casualties or damage.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/675583-earthquake-shakes-parts-of-karachi" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40432745/mild-29-magnitude-earthquake-strikes-parts-of-karachi" }
+      ],
+      "timestamp": "Jul 31, 6:37 PM",
+      "publishedAt": "2026-07-31T18:37:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No damage or disruption reported from this low-intensity tremor." },
+        "political": { "value": "neutral", "reason": "A natural, non-governance event." },
+        "social": { "value": "neutral", "reason": "No casualties or damage reported, minimal effect on daily life." },
+        "market": { "value": "low", "reason": "Not relevant to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Factual meteorological reporting with no framing." },
+        "confidence": { "value": "high", "reason": "Independently corroborated by two outlets with matching magnitude, timing, and location." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Supreme Court accepts PTI founder's chamber appeal, orders fixation of case before bench",
+      "summary": "AI summary: The Supreme Court accepted a chamber appeal filed by jailed PTI founder Imran Khan, removing Registrar's Office objections and ordering his petition seeking medical accommodations, including transfer to a private Islamabad hospital and access to personal physicians for a serious eye condition, to be fixed before a bench, while also agreeing to hear a related petition from his sister challenging an earlier Islamabad High Court denial.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2019723/supreme-court-accepts-pti-founders-chamber-appeal-orders-fixation-of-case-before-bench" }
+      ],
+      "timestamp": "Jul 31, 6:28 PM",
+      "publishedAt": "2026-07-31T18:28:09+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A judicial procedural matter with no economic content." },
+        "political": { "value": "neutral", "reason": "A routine procedural court order on a medical-access petition, not a ruling on the underlying conviction or a governance dispute." },
+        "social": { "value": "neutral", "reason": "Concerns one individual's medical access; case is only being scheduled, not yet decided." },
+        "market": { "value": "low", "reason": "Not relevant to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Factual procedural reporting on a court order, without editorializing for or against either side." },
+        "confidence": { "value": "medium", "reason": "Full article read, single source." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "PML-N stands firmly behind Kashmiris' right to refugee seats, says minister",
+      "summary": "AI summary: State Minister for Finance Bilal Azhar Kayani, addressing a corner meeting in Muzaffarabad ahead of the second phase of Azad Jammu and Kashmir Legislative Assembly elections, said the PML-N firmly supports Kashmiris' right to reserved refugee seats.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/675597-pml-n-stands-firmly-behind-kashmiris-right-to-refugee-seats-says-minister" }
+      ],
+      "timestamp": "Jul 31, 6:28 PM",
+      "publishedAt": "2026-07-31T18:28:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A campaign statement with no direct economic content." },
+        "political": { "value": "neutral", "reason": "Routine election-campaign messaging ahead of AJK polls, no stated controversy." },
+        "social": { "value": "neutral", "reason": "No direct effect on public wellbeing or daily life." },
+        "market": { "value": "low", "reason": "Not relevant to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Relays one minister's policy statement without attacking the opposition or omitting context; not confident this constitutes one-sided framing." },
+        "confidence": { "value": "low", "reason": "Full article page returned 403; based only on a truncated RSS description excerpt." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Sindh schools to remain closed on August 4 for Chehlum",
+      "summary": "AI summary: The Sindh School Education Department announced that all public and private educational institutions in the province will remain closed on August 4, 2026, for the Chehlum of Imam Hussain, with the notification circulated to school boards and stakeholders across major cities.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/675580-schools-colleges-to-remain-closed-in-sindh-on-august-4" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40432753/sindh-schools-to-remain-closed-on-august-4-for-chehlum" }
+      ],
+      "timestamp": "Jul 31, 6:27 PM",
+      "publishedAt": "2026-07-31T18:27:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A routine one-day school holiday has negligible economic effect." },
+        "political": { "value": "neutral", "reason": "A standard administrative notice for a religious observance, no controversy stated." },
+        "social": { "value": "neutral", "reason": "A routine, expected religious holiday closure affecting school schedules only." },
+        "market": { "value": "low", "reason": "Not relevant to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Factual administrative notice with no political framing." },
+        "confidence": { "value": "high", "reason": "Independently corroborated by two outlets with matching date and reason." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Private schools in Sindh to decide weekly working days at their own convenience, education department says",
+      "summary": "AI summary: Sindh's education department clarified that private schools may set their own weekly working days rather than follow the province's newly imposed six-day school week, walking back part of a July 29 order that had required all public and private institutions to hold classes Monday through Saturday from August 1 after teachers stopped working Saturdays under an earlier policy.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2019711/private-schools-in-sindh-to-decide-weekly-working-days-at-their-own-convenience-education-department-says" }
+      ],
+      "timestamp": "Jul 31, 5:32 PM",
+      "publishedAt": "2026-07-31T17:32:24+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A school-scheduling clarification with negligible direct economic effect." },
+        "political": { "value": "neutral", "reason": "A routine administrative clarification, not a governance dispute." },
+        "social": { "value": "neutral", "reason": "Gives private schools more flexibility but reflects a policy reversal within days of the original order." },
+        "market": { "value": "low", "reason": "Not relevant to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Factual administrative clarification with no political framing." },
+        "confidence": { "value": "medium", "reason": "Full article read, single source." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Over 2,000 terrorists killed in 2026 operations, no talks with terrorists: DG ISPR",
+      "summary": "AI summary: DG ISPR Lt Gen Ahmed Sharif Chaudhry told a Rawalpindi press conference that security forces conducted over 40,000 intelligence-based operations in 2026, killing more than 2,000 terrorists (mostly in Balochistan and Khyber Pakhtunkhwa) while losing 819 personnel, and ruled out any negotiations with terrorist groups; he also called good governance essential to security and urged politicians to pursue any debate over Pakistan's administrative structure, including the provinces question, through constitutional and legal means.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2019472/good-governance-quintessential-for-security-and-stability-of-pakistan-dg-ispr" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/675533-ispr-dg-addresses-press-conference-on-counterterrorism-security-situation" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40432731/over-2000-terrorists-killed-in-2026-operations-no-talks-with-terrorists-dg-ispr" }
+      ],
+      "timestamp": "Jul 31, 3:21 PM",
+      "publishedAt": "2026-07-31T15:21:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A security briefing with no direct stated effect on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "Raises the provinces/administrative-structure debate but explicitly frames it as requiring constitutional and legal methods, not a declaration of institutional crisis." },
+        "social": { "value": "negative", "reason": "Large-scale, ongoing counter-terrorism operations with hundreds of casualties reflect continued instability and risk in affected regions." },
+        "market": { "value": "medium", "reason": "Relevant to investors and businesses tracking Pakistan's security situation, particularly in Balochistan." },
+        "lean": { "value": "balanced", "reason": "A firm anti-negotiation stance paired with a call for cross-party constitutional reform, not favoring one political side." },
+        "confidence": { "value": "high", "reason": "Independently corroborated by three outlets with matching operation, casualty, and fatality figures." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "President Zardari approves Nishan-i-Imtiaz (Military) for Gen Aamer Raza",
+      "summary": "AI summary: President Asif Ali Zardari approved conferring Pakistan's Nishan-i-Imtiaz (Military) award on General Syed Aamer Raza, commander of the newly created National Strategic Command overseeing the country's nuclear command and strategic forces, following his promotion to four-star general and appointment under the 27th Constitutional Amendment.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40432724/president-zardari-approves-nishan-i-imtiaz-military-for-gen-aamer-raza" }
+      ],
+      "timestamp": "Jul 31, 2:22 PM",
+      "publishedAt": "2026-07-31T14:22:55+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A ceremonial military honour with no economic content." },
+        "political": { "value": "neutral", "reason": "A routine ceremonial approval, no stated controversy." },
+        "social": { "value": "neutral", "reason": "No direct effect on public wellbeing or daily life." },
+        "market": { "value": "low", "reason": "Not relevant to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Factual ceremonial announcement with no political framing." },
+        "confidence": { "value": "medium", "reason": "Based on an RSS description excerpt of an official announcement." }
+      }
+    },
+    {
+      "id": 9,
       "headline": "Riyadh unveils maritime alliance as war spreads",
       "summary": "AI summary: Saudi Arabia launched a multinational maritime security coalition to protect Red Sea and Gulf of Aden shipping routes, with representatives from 43 countries attending and 14 nations, including Pakistan, issuing a joint statement of support, as the region saw fresh US strikes on Iranian facilities, Iranian retaliation against US-linked targets, and a drone attack on an Egyptian port.",
       "sources": [
@@ -21,7 +177,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 10,
       "headline": "Pakistan backs Saudi right to self-defence after Iraq strikes",
       "summary": "AI summary: Pakistan's Foreign Office said Saudi Arabia has the right to self-defence under Article 51 of the UN Charter following coordinated Saudi-US strikes on Iraqi Popular Mobilisation Units sites blamed for attacks on Saudi oil facilities, while reaffirming its own defence agreements with Gulf states and insisting its role mediating Iran-US tensions remains unaffected.",
       "sources": [
@@ -40,7 +196,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 11,
       "headline": "FO says US-Iran talks ongoing",
       "summary": "AI summary: Pakistan's Foreign Office said it continues facilitating talks between Iran and the United States under the Islamabad Memorandum of Understanding framework to de-escalate tensions in the Strait of Hormuz, with spokesperson Tahir Andrabi also rejecting a recent documentary on Pakistan's nuclear command-and-control as biased and voicing confidence in its safety mechanisms.",
       "sources": [
@@ -59,7 +215,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 12,
       "headline": "Coal mine complex blast kills 11, dozens missing",
       "summary": "AI summary: An explosion buried part of a mining complex in Balochistan, killing at least 11 coal miners, with Balochistan's mines minister Shoaib Nosherwani saying 36 workers were in the collapsed section and 25 remained missing as of Thursday night.",
       "sources": [
@@ -78,7 +234,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 13,
       "headline": "House collapse during monsoon kills 11 in Lahore",
       "summary": "AI summary: A house collapsed during heavy monsoon rain in Lahore, killing 11 people, all from the same family, and injuring six others, according to assistant commissioner Amir Butt, with a neighbour describing hearing a loud bang like an explosion the previous evening.",
       "sources": [
@@ -97,7 +253,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 14,
       "headline": "Mechanism to ensure adherence to axle load limits ordered",
       "summary": "AI summary: Federal Communications Minister Abdul Aleem Khan ordered stricter, round-the-clock enforcement of axle load limits at weigh stations nationwide, including near Karachi Port, with heavier financial penalties for overloaded trucks, aiming to curb road infrastructure damage from vehicle overloading.",
       "sources": [
@@ -116,7 +272,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 15,
       "headline": "10 climbers feared missing after Broad Peak avalanche",
       "summary": "AI summary: About 10 mountaineers, including well-known Nepali climber Nims Dai and Pakistani climber Sohail Sakhi of Hunza, lost contact after an avalanche struck their route on Broad Peak, according to GPS tracking data cited in reports.",
       "sources": [
@@ -135,7 +291,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 16,
       "headline": "Gangster Uzair Baloch's brother shot, critically injured in Karachi's Lyari: police",
       "summary": "AI summary: Zubair Baloch, brother of jailed gang leader Uzair Baloch, was shot and critically wounded by motorcycle-borne gunmen outside his Lyari residence in Karachi on Thursday evening, with two bystanders also hurt; police are probing gang rivalry and personal enmity as possible motives.",
       "sources": [
@@ -154,7 +310,7 @@
       }
     },
     {
-      "id": 9,
+      "id": 17,
       "headline": "Govt increases petrol price by Rs1.09, HSD price by Rs2.42",
       "summary": "AI summary: Pakistan raised petrol prices by Rs1.09 per litre to Rs336.15 and high-speed diesel by Rs2.42 to Rs393.04, effective July 31, 2026, under the now-daily OGRA pricing mechanism tied to international oil markets, though fuel dealers have opposed the approach and threatened protests.",
       "sources": [
@@ -174,7 +330,7 @@
       }
     },
     {
-      "id": 10,
+      "id": 18,
       "headline": "Renewed Middle East tensions pose downside risks to inflation, external sector: finance ministry",
       "summary": "AI summary: Pakistan's finance ministry warned in its July 2026 Monthly Economic Update that renewed Middle East tensions could disrupt global energy prices and trade, posing downside risks to inflation and the external sector, while expressing confidence that stronger macroeconomic fundamentals and reserves would help cushion the impact.",
       "sources": [
@@ -193,7 +349,7 @@
       }
     },
     {
-      "id": 11,
+      "id": 19,
       "headline": "Naqvi urges 'all political parties' to settle issue of more provinces, says current 'system' has collapsed",
       "summary": "AI summary: Interior Minister Mohsin Naqvi told the Pakistan Economic Summit 2026 that the country's governance \"system has collapsed\" and called on all political parties to jointly resolve disputes such as demands for new provinces, warning that talk of development alone cannot fix Pakistan's deepening economic and debt crisis.",
       "sources": [
@@ -212,7 +368,7 @@
       }
     },
     {
-      "id": 12,
+      "id": 20,
       "headline": "PM Shehbaz orders technical audit of DISCOs' billing system, stresses power sector reforms",
       "summary": "AI summary: Prime Minister Shehbaz Sharif ordered a technical audit of power distribution companies' billing systems and called for reforms to eliminate electricity theft, roll out smart meters nationwide, reward top-performing DISCOs, and expand decentralized solar power in rural areas.",
       "sources": [
@@ -231,7 +387,7 @@
       }
     },
     {
-      "id": 13,
+      "id": 21,
       "headline": "Bodies of nine labourers recovered as coalmine in Quetta caves in",
       "summary": "AI summary: A coalmine collapsed in the Sorange area near Quetta, which the mine owner attributed to a methane gas explosion, with the bodies of several labourers reportedly recovered so far; a separate miner also died in an incident in Harnai district.",
       "sources": [
@@ -250,7 +406,7 @@
       }
     },
     {
-      "id": 14,
+      "id": 22,
       "headline": "Security forces neutralise 4 India-sponsored terrorists in Balochistan's Khuzdar",
       "summary": "AI summary: The military said security forces killed four militants linked to \"Fitna al-Hindustan\" during an intelligence-based operation in Balochistan's Khuzdar district, intercepting two explosives-laden vehicles as sanitisation operations continued in the area, according to ISPR.",
       "sources": [
@@ -270,7 +426,7 @@
       }
     },
     {
-      "id": 15,
+      "id": 23,
       "headline": "Sindh restores six-day school week from August 1",
       "summary": "AI summary: Sindh's education department reinstated a six-day school week (Monday to Saturday) for public and private schools starting August 1, 2026, superseding an earlier order from March 2026 that had set an alternate weekly schedule.",
       "sources": [
@@ -289,7 +445,7 @@
       }
     },
     {
-      "id": 16,
+      "id": 24,
       "headline": "Federal govt's countdown will begin if AJK elections rigged, warns Bilawal",
       "summary": "AI summary: PPP Chairman Bilawal Bhutto Zardari told a rally in Muzaffarabad that the \"people's mandate must be decided through ballot\" in the upcoming AJK elections, warning that rigging would trigger a \"countdown\" for the federal government, and said a constitutional convention would follow once genuine representation is secured.",
       "sources": [
