@@ -1,0 +1,121 @@
+{
+  "generatedAt": "2026-08-02T01:28:00+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Second phase of AJK elections on Sunday in 9 Muzaffarabad division, 12 refugee constituencies",
+      "summary": "AI summary: Voters in Azad Jammu and Kashmir's Muzaffarabad division and refugee constituencies go to the polls on Sunday for the second phase of assembly elections, with over 340 candidates contesting 21 seats amid tight security and a fresh internet suspension. The first phase in Mirpur last month saw PML-N win most seats amid rigging accusations from PPP.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2019959/second-phase-of-ajk-elections-on-sunday-in-9-muzaffarabad-division-12-refugee-constituencies" }
+      ],
+      "timestamp": "Aug 2, 12:04 AM",
+      "publishedAt": "2026-08-02T00:04:41+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A routine election day has no direct bearing on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "A scheduled phase of the AJK election proceeding as planned is normal governance function, despite security tension around it." },
+        "social": { "value": "neutral", "reason": "Voting enables civic participation but the internet suspension and heavy security create some daily-life disruption for residents." },
+        "market": { "value": "low", "reason": "A regional assembly election in AJK has little direct relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "The report is procedural, covering logistics and both major parties' prior claims without favoring either." },
+        "confidence": { "value": "medium", "reason": "Single-source but detailed, official figures (voter counts, polling stations) from Dawn's full article." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Bilawal receives JAAC response on reconciliation commission, says AJK PM to consult stakeholders on way forward",
+      "summary": "AI summary: PPP chairman Bilawal Bhutto-Zardari says the banned Joint Awami Action Committee has responded positively to his proposal for a Truth and Reconciliation Commission to address the AJK unrest, and that he will consult the AJK prime minister on next steps. The move follows weeks of tension over JAAC's demand to abolish AJK's refugee assembly seats.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2019950/bilawal-receives-jaac-response-on-reconciliation-commission-says-ajk-pm-to-consult-stakeholders-on-way-forward" }
+      ],
+      "timestamp": "Aug 1, 10:50 PM",
+      "publishedAt": "2026-08-01T22:50:24+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A reconciliation proposal has no direct economic effect." },
+        "political": { "value": "positive", "reason": "JAAC's stated willingness to engage signals a possible de-escalation of a proscribed group's standoff with AJK's government." },
+        "social": { "value": "positive", "reason": "Progress toward reconciliation could reduce unrest and protect lives in AJK if it advances." },
+        "market": { "value": "low", "reason": "A domestic political reconciliation effort has minimal relevance to markets." },
+        "lean": { "value": "balanced", "reason": "The article reports Bilawal's own statement and JAAC's response factually, without editorializing for or against the sitting government." },
+        "confidence": { "value": "medium", "reason": "Single full-article source; the claims are attributed directly to Bilawal's own statement." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Renowned mountaineer Nirmal Purja, others perish in Broad Peak avalanche, climbing company confirms",
+      "summary": "AI summary: Mountaineer Nirmal Purja and nine fellow climbers were killed when an avalanche swept their team off Broad Peak in the Karakoram range on Thursday evening, according to both Dawn and Business Recorder. Purja, a former British special forces soldier famous for summiting all 14 of the world's 8,000-metre peaks in record time, was attempting to repeat the feat without supplemental oxygen.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2019914/renowned-mountaineer-nirmal-purja-others-perish-in-broad-peak-avalanche-climbing-company-confirms" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40432862/noted-climber-nirmal-purja-among-10-dead-in-avalanche-in-pakistan-officials" }
+      ],
+      "timestamp": "Aug 1, 7:11 PM",
+      "publishedAt": "2026-08-01T19:11:56+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "A high-profile fatal accident involving international climbers could dent Pakistan's mountaineering tourism reputation and revenue." },
+        "political": { "value": "neutral", "reason": "A natural-disaster mountaineering tragedy has no bearing on institutional or governance stability." },
+        "social": { "value": "negative", "reason": "Ten deaths, including a well-known international climber, represent a significant loss of life." },
+        "market": { "value": "low", "reason": "Limited relevance to broader investor or business decisions beyond the niche tourism sector." },
+        "lean": { "value": "balanced", "reason": "Purely factual disaster reporting with no political framing." },
+        "confidence": { "value": "high", "reason": "Corroborated by two independent outlets with matching casualty figures, names, and circumstances." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Army major martyred in North Waziristan IBO: ISPR",
+      "summary": "AI summary: The military says Major Hafiz Ihsan Elahi was killed leading troops in an intelligence-based operation against militants in North Waziristan's Razmak area, in which five fighters were also killed, according to ISPR statements carried by Dawn and Business Recorder. The report comes amid what the army has called Pakistan's deadliest month of counter-terrorism operations this year.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2019936/army-major-martyred-in-north-waziristan-ibo-ispr" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40432871/army-major-martyred-in-fire-exchange-with-terrorists-in-north-waziristan-ispr" }
+      ],
+      "timestamp": "Aug 1, 5:57 PM",
+      "publishedAt": "2026-08-01T17:57:25+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A single counter-terrorism operation has no direct effect on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "Framed by ISPR as an operational success rather than a destabilizing event, though it reflects continuing security pressure." },
+        "social": { "value": "negative", "reason": "The death of a serving officer and ongoing militant violence, part of what the army itself calls the deadliest month this year, affects public safety and wellbeing." },
+        "market": { "value": "low", "reason": "A localized security operation has little direct relevance to markets or investors." },
+        "lean": { "value": "balanced", "reason": "Both outlets attribute the account to ISPR as the stated source rather than asserting it as independently verified fact." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two sources carrying the same ISPR statement, though the underlying claims rest on a single military source." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Pakistan welcomes positive developments in implementation of Gaza peace plan",
+      "summary": "AI summary: Pakistan's foreign office says it welcomes recent progress in implementing the Gaza peace plan and credited mediating countries' efforts, reiterating support for Palestinian self-determination based on pre-1967 borders, per Business Recorder's report.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40432865/pakistan-welcomes-positive-developments-in-implementation-of-gaza-peace-plan" }
+      ],
+      "timestamp": "Aug 1, 4:12 PM",
+      "publishedAt": "2026-08-01T16:12:47+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A foreign policy statement on Gaza has no direct effect on Pakistan's domestic economy." },
+        "political": { "value": "neutral", "reason": "A routine diplomatic statement of support does not affect domestic institutional stability." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily life or safety within Pakistan." },
+        "market": { "value": "low", "reason": "Minimal relevance to investors or domestic business decisions." },
+        "lean": { "value": "balanced", "reason": "A standard foreign-ministry statement reported without partisan framing." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt, not the full article, which returned a 403 error." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "China reaffirms unwavering support for Pakistan, pledges stronger strategic partnership",
+      "summary": "AI summary: Chinese military officials marked the PLA's founding anniversary at Pakistan's army headquarters by reaffirming what they called an unwavering, time-tested relationship and pledging a stronger strategic partnership, Business Recorder reports.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40432868/china-reaffirms-unwavering-support-for-pakistan-pledges-stronger-strategic-partnership" }
+      ],
+      "timestamp": "Aug 1, 4:04 PM",
+      "publishedAt": "2026-08-01T16:04:49+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "A reaffirmed strategic partnership signals continuity in China-Pakistan trade and investment ties." },
+        "political": { "value": "positive", "reason": "Reinforced backing from a key ally supports Pakistan's diplomatic and institutional standing." },
+        "social": { "value": "neutral", "reason": "A diplomatic ceremony has no direct bearing on daily public life." },
+        "market": { "value": "medium", "reason": "China-Pakistan strategic ties are relevant to investors given existing economic cooperation such as CPEC." },
+        "lean": { "value": "balanced", "reason": "A bilateral diplomatic statement, not domestic political framing." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt, not the full article, which returned a 403 error." }
+      }
+    }
+  ]
+}
