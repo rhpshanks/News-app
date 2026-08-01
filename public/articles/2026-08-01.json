@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-08-01T17:04:09+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Pakistan welcomes positive developments in implementation of Gaza Peace Plan",
+      "summary": "AI summary: Pakistan's Foreign Office welcomed progress under the Board of Peace toward implementing the Gaza Peace Plan, thanking mediators including the US, Egypt, Qatar and Turkey and reiterating support for an independent Palestinian state based on pre-1967 borders.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40432865/pakistan-welcomes-positive-developments-in-implementation-of-gaza-peace-plan" }
+      ],
+      "timestamp": "Aug 1, 4:12 PM",
+      "publishedAt": "2026-08-01T16:12:47+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Diplomatic statement with no direct domestic economic effect." },
+        "political": { "value": "positive", "reason": "Supportive diplomatic stance aligned with international mediation efforts, reinforcing Pakistan's foreign-policy positioning without domestic friction." },
+        "social": { "value": "neutral", "reason": "A foreign-policy statement with limited immediate effect on Pakistani public daily life." },
+        "market": { "value": "low", "reason": "Minimal relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Routine Foreign Office statement, not domestically partisan." },
+        "confidence": { "value": "medium", "reason": "Based on the RSS description excerpt rather than the full article, since the Business Recorder page was not fetchable." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "CDF Munir says Pak-China friendship has remained steadfast amid evolving regional, global challenges",
+      "summary": "AI summary: Field Marshal Asim Munir told a ceremony marking the 99th anniversary of China's People's Liberation Army at GHQ Rawalpindi that Pakistan-China relations remain steadfast despite regional and global challenges, as China's ambassador reaffirmed Beijing's commitment to the partnership.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2019924/cdf-munir-says-pak-china-friendship-has-remained-steadfast-amid-evolving-regional-global-challenges" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/675685-pakistan-china-friendship-remains-steadfast-despite-evolving-global-challenges-cdf-munir" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40432868/china-reaffirms-unwavering-support-for-pakistan-pledges-stronger-strategic-partnership" }
+      ],
+      "timestamp": "Aug 1, 3:22 PM",
+      "publishedAt": "2026-08-01T15:22:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic/military goodwill event with no direct trade or economic policy announced." },
+        "political": { "value": "positive", "reason": "Reaffirms a stable, longstanding bilateral alliance, supportive of institutional continuity." },
+        "social": { "value": "neutral", "reason": "Minimal direct effect on daily life or public wellbeing." },
+        "market": { "value": "low", "reason": "Routine diplomatic messaging with limited investor relevance." },
+        "lean": { "value": "balanced", "reason": "Covers a military/diplomatic statement without partisan domestic framing." },
+        "confidence": { "value": "high", "reason": "Corroborated in detail by Dawn's full article and Business Recorder's description, with consistent facts across all three sources." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "PML-N never won a general election without rigging, alleges PPP's Saeed Ghani",
+      "summary": "AI summary: PPP leader Saeed Ghani told a Karachi press conference that PML-N has never won a general election without rigging, citing alleged fraud dating back to 1988, in response to a PML-N member's earlier criticism of the PPP.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2019925/pml-n-never-won-a-general-election-without-rigging-alleges-ppps-saeed-ghani" }
+      ],
+      "timestamp": "Aug 1, 3:01 PM",
+      "publishedAt": "2026-08-01T15:01:51+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A partisan political statement with no direct economic content." },
+        "political": { "value": "negative", "reason": "Public rigging allegations against a major party stoke electoral-legitimacy disputes and erode institutional trust." },
+        "social": { "value": "neutral", "reason": "Limited direct effect on public daily life or safety." },
+        "market": { "value": "low", "reason": "Minimal relevance to markets or business decisions." },
+        "lean": { "value": "balanced", "reason": "The article reports Ghani's claim as an attributed statement and includes the context of the exchange rather than editorializing; current government/opposition status is not asserted with confidence." },
+        "confidence": { "value": "medium", "reason": "Full article text was obtained and corroborates the claim, but which party currently holds government versus opposition is not confidently known, so lean judgment is kept cautious." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Quetta coal mine explosion: Search and rescue operation concludes as last two bodies recovered",
+      "summary": "AI summary: Rescue teams recovered the final two bodies from the Sorange coalfield near Quetta on Saturday, concluding the search after a methane explosion and mine collapse killed all 34 trapped miners, most of them teenagers and young men from Shangla district.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2019918/quetta-coal-mine-explosion-search-and-rescue-operation-concludes-as-last-two-bodies-recovered" }
+      ],
+      "timestamp": "Aug 1, 1:19 PM",
+      "publishedAt": "2026-08-01T13:19:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Loss of the mine workforce and sealing of both mines disrupts local coal mining livelihoods and output." },
+        "political": { "value": "negative", "reason": "Recurring deadly mine incidents attributed to inadequate safety protocols point to weak regulatory oversight, undermining governance credibility on worker safety." },
+        "social": { "value": "negative", "reason": "Mass fatality of young workers is a severe blow to affected families and communities in Shangla and Balochistan." },
+        "market": { "value": "low", "reason": "A local mining incident with minimal relevance to broader investors or markets." },
+        "lean": { "value": "balanced", "reason": "Straightforward incident and casualty reporting without partisan framing." },
+        "confidence": { "value": "high", "reason": "Full Dawn article obtained with clear, detailed, internally consistent casualty figures." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Mountaineer Nirmal Purja confirmed dead in avalanche: expedition company",
+      "summary": "AI summary: Search and rescue teams, backed by army helicopters and drones, resumed efforts on Saturday to reach climbers still missing after Thursday's avalanche on Broad Peak, which had already claimed three confirmed lives; Geo News later reported that the expedition company has confirmed mountaineer Nirmal Purja among the dead.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2019914/search-operation-to-locate-7-climbers-missing-after-broad-peak-avalanche-resumes" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/675674-search-resumes-for-missing-mountaineers-after-broad-peak-avalanche" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40432862/drones-deployed-to-locate-missing-climbers-as-search-operation-enters-second-day" }
+      ],
+      "timestamp": "Aug 1, 12:39 PM",
+      "publishedAt": "2026-08-01T12:39:09+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Limited direct economic impact beyond the high-altitude mountaineering/tourism sector." },
+        "political": { "value": "neutral", "reason": "A natural-disaster rescue operation rather than a governance issue, though the military-led response reflects state capacity." },
+        "social": { "value": "negative", "reason": "Multiple confirmed deaths and ongoing risk to remaining climbers directly affect public wellbeing in a high-profile tragedy." },
+        "market": { "value": "low", "reason": "Minimal relevance to investors or broader business decisions." },
+        "lean": { "value": "balanced", "reason": "Factual disaster and rescue-operation reporting across all three outlets with no political framing." },
+        "confidence": { "value": "medium", "reason": "Core rescue-operation facts are corroborated by Dawn's full article and Business Recorder's description, but the specific claim that Purja was confirmed dead comes only from Geo's headline and photo-caption text, without a fetchable full article to corroborate it." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Rain brings pleasant weather across Karachi, easing heat, humidity",
+      "summary": "AI summary: Monsoon rain brought relief from heat and humidity to several Karachi neighbourhoods on Saturday, with the Meteorological Department forecasting continued thunderstorms and moderate rainfall through August 3 and cautioning about possible urban flooding and strong winds.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/675654-rain-thunder-likely-in-karachi-today-as-monsoon-moves-in" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40432861/rain-brings-pleasant-weather-across-karachi-easing-heat-humidity" }
+      ],
+      "timestamp": "Aug 1, 9:25 AM",
+      "publishedAt": "2026-08-01T09:25:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Routine seasonal weather with no major reported disruption to business activity." },
+        "political": { "value": "neutral", "reason": "No governance angle to routine weather reporting." },
+        "social": { "value": "positive", "reason": "Rain brought relief from heat and humidity, improving public comfort, alongside only precautionary flood and lightning warnings." },
+        "market": { "value": "low", "reason": "Routine weather with minimal business or investor relevance beyond localized disruption." },
+        "lean": { "value": "balanced", "reason": "Purely descriptive weather reporting with no political angle." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two sources, but Geo's contribution came only from the feed title and photo caption rather than a fetchable full article." }
+      }
+    }
+  ]
+}
