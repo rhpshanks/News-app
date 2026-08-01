@@ -1,8 +1,66 @@
 {
-  "generatedAt": "2026-08-01T17:04:09+05:00",
+  "generatedAt": "2026-08-01T23:15:04+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "Bilawal receives JAAC response on reconciliation commission, says AJK PM to consult stakeholders on way forward",
+      "summary": "AI summary: PPP chairman Bilawal Bhutto-Zardari said the banned Joint Awami Action Committee has responded to his proposed Truth and Reconciliation Commission for Azad Jammu and Kashmir, with AJK Prime Minister Faisal Mumtaz Rathore now set to consult the federal government and other stakeholders on next steps.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2019950/bilawal-receives-jaac-response-on-reconciliation-commission-says-ajk-pm-to-consult-stakeholders-on-way-forward" }
+      ],
+      "timestamp": "Aug 1, 10:50 PM",
+      "publishedAt": "2026-08-01T22:50:24+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A political-dialogue development with no direct economic content." },
+        "political": { "value": "positive", "reason": "A previously banned group signalling willingness to engage with a proposed reconciliation commission is a step toward de-escalating an ongoing AJK crisis through institutional dialogue." },
+        "social": { "value": "neutral", "reason": "A procedural step toward addressing regional unrest, without yet delivering concrete relief to affected communities." },
+        "market": { "value": "low", "reason": "Minimal relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Reports Bilawal's own statement and the AJK PM's next steps without editorializing; current government/opposition status is not asserted with confidence." },
+        "confidence": { "value": "medium", "reason": "Based on a single fetched Dawn article, and which party currently holds government versus opposition is not confidently known, so lean judgment is kept cautious." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "US to make visa bond programme permanent for people from dozens of countries",
+      "summary": "AI summary: The US State Department is finalizing a rule making its visa bond pilot permanent, letting consular officers require B1/B2 visa applicants from roughly 50 countries, mostly in Africa, to post bonds of up to $20,000 starting August 3, a move officials say targets visa overstays but critics say will deter legitimate travel.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2019949/us-to-make-visa-bond-programme-permanent-for-people-from-dozens-of-countries" }
+      ],
+      "timestamp": "Aug 1, 10:24 PM",
+      "publishedAt": "2026-08-01T22:24:46+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A US immigration policy change; Pakistan is not specifically named among the affected countries in this report, so direct economic impact is unclear." },
+        "political": { "value": "neutral", "reason": "A foreign government's domestic immigration policy with no direct bearing on Pakistani governance or institutions." },
+        "social": { "value": "neutral", "reason": "No confirmed direct effect on the general Pakistani public, though it could affect individual travelers if the country list applies to Pakistan." },
+        "market": { "value": "low", "reason": "Limited direct relevance to Pakistani investors or businesses based on the information given." },
+        "lean": { "value": "balanced", "reason": "International news reported with both administration rationale and critics' concerns included." },
+        "confidence": { "value": "medium", "reason": "Full article fetched from a single source, but the article does not confirm whether Pakistan is among the affected countries." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Army major martyred in North Waziristan IBO: ISPR",
+      "summary": "AI summary: The military's media wing said an army major was killed while leading troops during an intelligence-based operation against terrorists in North Waziristan's Razmak area on Saturday, in which security forces also killed five militants linked to the banned TTP and recovered weapons.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2019936/army-major-martyred-in-north-waziristan-ibo-ispr" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40432871/army-major-martyred-in-fire-exchange-with-terrorists-in-north-waziristan-ispr" }
+      ],
+      "timestamp": "Aug 1, 5:57 PM",
+      "publishedAt": "2026-08-01T17:57:25+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A counter-terrorism operation with no direct economic content." },
+        "political": { "value": "neutral", "reason": "A routine ISPR-reported operation presented as an operational success, without raising a distinct governance-stability question." },
+        "social": { "value": "negative", "reason": "The death of a security officer and continued militant activity in North Waziristan reflect ongoing safety risk in the region." },
+        "market": { "value": "low", "reason": "A localized security incident with minimal relevance to broader markets." },
+        "lean": { "value": "balanced", "reason": "Reports ISPR's own statement, attributing the operational claims to the military rather than asserting them independently." },
+        "confidence": { "value": "high", "reason": "Corroborated by both Dawn's full article and Business Recorder's detailed description, with consistent casualty figures and details." }
+      }
+    },
+    {
+      "id": 4,
       "headline": "Pakistan welcomes positive developments in implementation of Gaza Peace Plan",
       "summary": "AI summary: Pakistan's Foreign Office welcomed progress under the Board of Peace toward implementing the Gaza Peace Plan, thanking mediators including the US, Egypt, Qatar and Turkey and reiterating support for an independent Palestinian state based on pre-1967 borders.",
       "sources": [
@@ -21,7 +79,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 5,
       "headline": "CDF Munir says Pak-China friendship has remained steadfast amid evolving regional, global challenges",
       "summary": "AI summary: Field Marshal Asim Munir told a ceremony marking the 99th anniversary of China's People's Liberation Army at GHQ Rawalpindi that Pakistan-China relations remain steadfast despite regional and global challenges, as China's ambassador reaffirmed Beijing's commitment to the partnership.",
       "sources": [
@@ -42,7 +100,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 6,
       "headline": "PML-N never won a general election without rigging, alleges PPP's Saeed Ghani",
       "summary": "AI summary: PPP leader Saeed Ghani told a Karachi press conference that PML-N has never won a general election without rigging, citing alleged fraud dating back to 1988, in response to a PML-N member's earlier criticism of the PPP.",
       "sources": [
@@ -61,7 +119,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 7,
       "headline": "Quetta coal mine explosion: Search and rescue operation concludes as last two bodies recovered",
       "summary": "AI summary: Rescue teams recovered the final two bodies from the Sorange coalfield near Quetta on Saturday, concluding the search after a methane explosion and mine collapse killed all 34 trapped miners, most of them teenagers and young men from Shangla district.",
       "sources": [
@@ -80,7 +138,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 8,
       "headline": "Mountaineer Nirmal Purja confirmed dead in avalanche: expedition company",
       "summary": "AI summary: Search and rescue teams, backed by army helicopters and drones, resumed efforts on Saturday to reach climbers still missing after Thursday's avalanche on Broad Peak, which had already claimed three confirmed lives; Geo News later reported that the expedition company has confirmed mountaineer Nirmal Purja among the dead.",
       "sources": [
@@ -101,7 +159,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 9,
       "headline": "Rain brings pleasant weather across Karachi, easing heat, humidity",
       "summary": "AI summary: Monsoon rain brought relief from heat and humidity to several Karachi neighbourhoods on Saturday, with the Meteorological Department forecasting continued thunderstorms and moderate rainfall through August 3 and cautioning about possible urban flooding and strong winds.",
       "sources": [
