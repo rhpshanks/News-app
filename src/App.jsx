@@ -50,7 +50,7 @@ function formatDateLabel(dateStr) {
   }
 }
 
-function App({ onNavigateMethodology }) {
+function App({ onNavigateMethodology, onNavigateRoundup }) {
   const [theme, setTheme] = useState(getInitialTheme);
   const [toast, setToast] = useState(null);
   const [query, setQuery] = useState("");
@@ -370,16 +370,28 @@ function App({ onNavigateMethodology }) {
         ) : (
           <p>Source: Dawn News. Sample data shown, the daily live update has not run yet.</p>
         )}
-        <a
-          href="/methodology"
-          className="footer__link"
-          onClick={(e) => {
-            e.preventDefault();
-            onNavigateMethodology();
-          }}
-        >
-          How Miqyas works
-        </a>
+        <div className="footer__links">
+          <a
+            href="/methodology"
+            className="footer__link"
+            onClick={(e) => {
+              e.preventDefault();
+              onNavigateMethodology();
+            }}
+          >
+            How Miqyas works
+          </a>
+          <a
+            href="/roundup"
+            className="footer__link"
+            onClick={(e) => {
+              e.preventDefault();
+              onNavigateRoundup();
+            }}
+          >
+            Weekly roundup
+          </a>
+        </div>
       </footer>
 
       {toast && (

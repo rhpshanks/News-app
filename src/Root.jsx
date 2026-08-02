@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import App from "./App.jsx";
 import MethodologyPage from "./components/MethodologyPage.jsx";
+import RoundupPage from "./components/RoundupPage.jsx";
 
 // A hand-rolled router rather than a library, there are only two real pages here.
 // Plain <a href> links trigger full navigation (good for crawlers and "open in new
@@ -26,5 +27,12 @@ export default function Root() {
   if (path === "/methodology") {
     return <MethodologyPage onNavigateHome={() => navigate("/")} />;
   }
-  return <App onNavigateMethodology={() => navigate("/methodology")} />;
+  if (path === "/roundup") {
+    return (
+      <RoundupPage onNavigateHome={() => navigate("/")} onNavigateMethodology={() => navigate("/methodology")} />
+    );
+  }
+  return (
+    <App onNavigateMethodology={() => navigate("/methodology")} onNavigateRoundup={() => navigate("/roundup")} />
+  );
 }

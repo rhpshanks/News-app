@@ -1,0 +1,43 @@
+{
+  "generatedAt": "2026-08-02T18:30:00+05:00",
+  "periodStart": "2026-07-27",
+  "periodEnd": "2026-08-02",
+  "periodLabel": "Jul 27 to Aug 2, 2026",
+  "totalArticles": 120,
+  "stats": {
+    "economic": { "positive": 11, "neutral": 74, "negative": 35 },
+    "political": { "positive": 15, "neutral": 76, "negative": 29 },
+    "social": { "positive": 16, "neutral": 56, "negative": 48 }
+  },
+  "summary": [
+    "Miqyas read 120 stories across Dawn News, Geo News, and Business Recorder this week. Taken as a whole, coverage leaned cautious rather than either encouraging or alarming: most stories across all three readings landed on neutral, 62% of economic readings, 63% of political readings, and 47% of social readings, the AI's way of saying a story didn't clearly signal improvement or harm either way.",
+    "Social readings were the exception. Two in five stories (40%) read as socially negative this week, well above the negative share on the economic (29%) or political (24%) readings. That gap traces to a real cluster of security and safety stories: a police checkpost attack in KP's Hangu that left nine officers dead, the bodies of six abducted labourers recovered in Balochistan's Nasirabad, and a fatal coal mine explosion in Quetta whose search and rescue operation ran for several days.",
+    "On the political reading, the week's dominant storyline was the AJK election dispute. PML-N's early lead in Mirpur division drew repeated allegations of rigging from PPP figures, including a warning from PPP chairman Bilawal Bhutto-Zardari that a federal government 'countdown' would begin if the results stood, claims this reporting could not independently verify and that PML-N and the election commission disputed in turn. Miqyas's political-lean reading stayed balanced across nearly all of this coverage, only three stories this week leaned pro-government, and each at low or medium AI confidence, reflecting genuine uncertainty rather than a confident read."
+  ],
+  "notableStories": [
+    {
+      "headline": "PPP assails AJK Election Commission for 'facilitating rigging' in first phase of AJK polls",
+      "context": "One of several disputed claims in the week's central political storyline, the report presents the allegation without independent confirmation.",
+      "sourceName": "Dawn News",
+      "sourceUrl": "https://www.dawn.com/news/2019220/ppp-assails-ajk-election-commission-for-facilitating-rigging-in-first-phase-of-ajk-polls"
+    },
+    {
+      "headline": "9 cops martyred, 28 injured as police checkpost comes under attack in KP's Hangu",
+      "context": "The week's most severe single security incident, and a major contributor to this week's elevated social-negative share.",
+      "sourceName": "Dawn News",
+      "sourceUrl": "https://www.dawn.com/news/2019442/9-cops-martyred-28-injured-as-police-checkpost-comes-under-attack-in-kps-hangu"
+    },
+    {
+      "headline": "Two miners killed, several feared trapped after Quetta coal mine explosion",
+      "context": "A multi-day search and rescue story, it concluded on August 1 with the last two bodies recovered.",
+      "sourceName": "Dawn News",
+      "sourceUrl": "https://www.dawn.com/news/2019505/two-miners-killed-several-feared-trapped-after-quetta-coal-mine-explosion"
+    },
+    {
+      "headline": "Naqvi says current system has 'collapsed', proposes administrative units to tackle challenges",
+      "context": "A governance-reform comment that drew responses from other officials into the following week, included here as context for readings still developing.",
+      "sourceName": "Geo News",
+      "sourceUrl": "https://www.geo.tv/latest/675427-naqvi-says-current-system-has-collapsed-proposes-administrative-units-to-tackle-challenges"
+    }
+  ]
+}

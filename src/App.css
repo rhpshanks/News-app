@@ -614,9 +614,14 @@
   margin: 0;
 }
 
+.footer__links {
+  display: flex;
+  gap: var(--space-4);
+  margin-top: var(--space-2);
+}
+
 .footer__link {
   display: inline-block;
-  margin-top: var(--space-2);
   color: var(--color-accent);
   font-size: 12px;
   font-weight: 500;
@@ -962,6 +967,49 @@
   .method__title {
     font-size: 26px;
   }
+}
+
+/* Weekly roundup stat bars, same positive/neutral/negative tokens as the badges and
+   trend chart elsewhere, so the reading stays consistent across the whole app. */
+
+.roundup__stats {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+  margin-top: var(--space-4);
+}
+
+.roundup__stat-label {
+  margin: 0 0 var(--space-2);
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--color-text-primary);
+}
+
+.roundup__stat-bar {
+  display: flex;
+  height: 10px;
+  border-radius: var(--space-1);
+  overflow: hidden;
+  background: var(--color-border);
+}
+
+.roundup__stat-seg--positive {
+  background: var(--color-positive-text);
+}
+
+.roundup__stat-seg--neutral {
+  background: var(--color-neutral-text);
+}
+
+.roundup__stat-seg--negative {
+  background: var(--color-negative-text);
+}
+
+.roundup__stat-figures {
+  margin: var(--space-2) 0 0;
+  font-size: 12px;
+  color: var(--color-text-secondary);
 }
 
 .trends__legend-item.trend-line--positive,
