@@ -49,9 +49,10 @@ export default function AboutPage({ onNavigateHome, onNavigateMethodology, onNav
       </section>
 
       <section className="method__section">
-        <h2 className="method__h2">An independent, small project</h2>
+        <h2 className="method__h2">Who's behind this</h2>
         <p>
-          Miqyas is built and run independently, not by a news outlet or a large company. The
+          Miqyas is built and run by Hashaam Shahid Yousafzai, independently, not by a news
+          outlet or a large company. The
           readings are AI-generated, not a newsroom's editorial judgment, and can be wrong, which
           is why every indicator can be reported and why the exact process behind each reading is
           published rather than kept opaque. See{" "}
