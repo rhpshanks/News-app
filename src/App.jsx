@@ -50,7 +50,7 @@ function formatDateLabel(dateStr) {
   }
 }
 
-function App({ onNavigateMethodology, onNavigateRoundup }) {
+function App({ onNavigateMethodology, onNavigateRoundup, onNavigateAbout, onNavigateContact, onNavigatePrivacy }) {
   const [theme, setTheme] = useState(getInitialTheme);
   const [toast, setToast] = useState(null);
   const [query, setQuery] = useState("");
@@ -390,6 +390,36 @@ function App({ onNavigateMethodology, onNavigateRoundup }) {
             }}
           >
             Weekly roundup
+          </a>
+          <a
+            href="/about"
+            className="footer__link"
+            onClick={(e) => {
+              e.preventDefault();
+              onNavigateAbout();
+            }}
+          >
+            About
+          </a>
+          <a
+            href="/contact"
+            className="footer__link"
+            onClick={(e) => {
+              e.preventDefault();
+              onNavigateContact();
+            }}
+          >
+            Contact
+          </a>
+          <a
+            href="/privacy"
+            className="footer__link"
+            onClick={(e) => {
+              e.preventDefault();
+              onNavigatePrivacy();
+            }}
+          >
+            Privacy
           </a>
         </div>
       </footer>

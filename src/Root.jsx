@@ -2,6 +2,9 @@ import { useEffect, useState } from "react";
 import App from "./App.jsx";
 import MethodologyPage from "./components/MethodologyPage.jsx";
 import RoundupPage from "./components/RoundupPage.jsx";
+import AboutPage from "./components/AboutPage.jsx";
+import ContactPage from "./components/ContactPage.jsx";
+import PrivacyPage from "./components/PrivacyPage.jsx";
 
 // A hand-rolled router rather than a library, there are only two real pages here.
 // Plain <a href> links trigger full navigation (good for crawlers and "open in new
@@ -32,7 +35,28 @@ export default function Root() {
       <RoundupPage onNavigateHome={() => navigate("/")} onNavigateMethodology={() => navigate("/methodology")} />
     );
   }
+  if (path === "/about") {
+    return (
+      <AboutPage
+        onNavigateHome={() => navigate("/")}
+        onNavigateMethodology={() => navigate("/methodology")}
+        onNavigateContact={() => navigate("/contact")}
+      />
+    );
+  }
+  if (path === "/contact") {
+    return <ContactPage onNavigateHome={() => navigate("/")} />;
+  }
+  if (path === "/privacy") {
+    return <PrivacyPage onNavigateHome={() => navigate("/")} onNavigateContact={() => navigate("/contact")} />;
+  }
   return (
-    <App onNavigateMethodology={() => navigate("/methodology")} onNavigateRoundup={() => navigate("/roundup")} />
+    <App
+      onNavigateMethodology={() => navigate("/methodology")}
+      onNavigateRoundup={() => navigate("/roundup")}
+      onNavigateAbout={() => navigate("/about")}
+      onNavigateContact={() => navigate("/contact")}
+      onNavigatePrivacy={() => navigate("/privacy")}
+    />
   );
 }
