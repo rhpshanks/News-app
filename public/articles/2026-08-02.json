@@ -1,8 +1,46 @@
 {
-  "generatedAt": "2026-08-02T13:05:00+05:00",
+  "generatedAt": "2026-08-02T14:20:18+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "2 cops injured in IED blast in Peshawar",
+      "summary": "AI summary: A police van was damaged and two officers, a driver and a constable, suffered minor injuries when an IED exploded near Pir Zakorhi Bridge on Peshawar's eastern entry point on Sunday afternoon, with both taken to hospital, city police said.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2020137/2-cops-injured-in-ied-blast-in-peshawar" }
+      ],
+      "timestamp": "Aug 2, 2:16 PM",
+      "publishedAt": "2026-08-02T14:16:55+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A single localized IED incident with only minor injuries has no discernible effect on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "A local security incident handled through routine police and bomb-disposal response does not itself signal institutional or governance instability." },
+        "social": { "value": "negative", "reason": "An explosive device targeting a police vehicle and injuring officers is a direct threat to public safety, even though injuries were minor." },
+        "market": { "value": "low", "reason": "A localized, minor-injury security incident has minimal relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "A factual account attributed to a named police spokesperson, with no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single full-article source, though detailed with a named official statement; described as a developing story." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Alpine Club says Nepalese climber Nirmal Purja's body found on Broad Peak",
+      "summary": "AI summary: The Alpine Club of Pakistan says a ground rescue team recovered mountaineer Nirmal Purja's body at roughly 5,700 metres on Broad Peak, three days after an avalanche killed his entire expedition, and located three further bodies nearby, with difficult terrain and weather ruling out helicopter assistance.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2020134/alpine-club-says-nepalese-climber-nirmal-purjas-body-found-on-broad-peak" }
+      ],
+      "timestamp": "Aug 2, 2:10 PM",
+      "publishedAt": "2026-08-02T14:10:59+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A body-recovery update to an already-reported tragedy adds no new distinct economic effect beyond the original avalanche." },
+        "political": { "value": "neutral", "reason": "A mountaineering recovery operation has no bearing on institutional or governance stability." },
+        "social": { "value": "negative", "reason": "The recovery confirms further deaths and prolongs a distressing loss-of-life story, with rescuers facing continued danger from difficult terrain and weather." },
+        "market": { "value": "low", "reason": "Relevance is confined to the niche mountaineering tourism sector rather than broader markets." },
+        "lean": { "value": "balanced", "reason": "Purely factual reporting of a recovery operation, attributed to the Alpine Club, with no political framing." },
+        "confidence": { "value": "medium", "reason": "Single source, but detailed with a direct official statement from the Alpine Club of Pakistan." }
+      }
+    },
+    {
+      "id": 3,
       "headline": "Odorization plant testing causes unusual gas smell in parts of Karachi: SSGC",
       "summary": "AI summary: SSGC said an unusual gas smell reported in parts of Karachi near Abul Hasan Isphahani Road was caused by testing of an odorization plant during commissioning of a new pipeline, adding that system pressure remained normal and no leakage occurred.",
       "sources": [
@@ -21,7 +59,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 4,
       "headline": "Asif reacts to Naqvi's call for governance reset, urges him to begin with his own ministry",
       "summary": "AI summary: Defence Minister Khawaja Asif responded to Interior Minister Mohsin Naqvi's call for a governance \"reset,\" saying any systemic changes should be debated in Parliament or the Cabinet rather than announced to business audiences, and pointedly urged Naqvi to first fix his own ministry, noting it has implemented only 2 of 14 National Action Plan points. Naqvi's proposal, which included creating new administrative provinces, has already drawn pushback from Sindh's chief minister and nationalist groups demanding his resignation.",
       "sources": [
@@ -41,7 +79,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 5,
       "headline": "Trump says US 'locked and loaded' but will hold off on fresh Iran attack in hope of quick deal",
       "summary": "AI summary: President Trump said the US remains \"locked and loaded\" against Iran but is holding off a fresh attack to pursue a rapid negotiated deal, after requests from Iran and other Middle Eastern states, while Iran's foreign minister warned of decisive retaliation against any further aggression. The pause comes amid ongoing US-Israeli military operations against Iran and rising oil prices tied to disruptions in the Strait of Hormuz.",
       "sources": [
@@ -60,7 +98,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 6,
       "headline": "Presidential nod delay hits judiciary appointments",
       "summary": "AI summary: Pakistan's judiciary is facing appointment disruptions after President's House failed to formally notify a Sindh High Court judge's recommended extension before his term expired on July 29, while four Peshawar High Court judges face similar expiry by August 4. Bar council leaders say the president cannot indefinitely withhold confirmation of Judicial Commission recommendations, especially since recent constitutional amendments left the president's role largely ceremonial in these appointments.",
       "sources": [
@@ -79,7 +117,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 7,
       "headline": "Second phase of AJK polls: Bilawal hopes for 'fairness' as PPP alleges electoral malpractices",
       "summary": "AI summary: Voting concluded in the second phase of Azad Jammu and Kashmir's assembly elections, covering nine Muzaffarabad division seats and 12 refugee constituencies contested by over 340 candidates and roughly 1.2 million registered voters. PPP chairman Bilawal Bhutto-Zardari alleged rigging and exclusion of polling agents at several stations and said the party reserves the right to demand re-election, while a PML-N source described isolated irregularities as unplanned.",
       "sources": [
@@ -99,7 +137,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 8,
       "headline": "Pakistan condemns use of pellet guns in IIOJK",
       "summary": "AI summary: Pakistan's Foreign Office condemned the use of pellet guns by Indian forces in Indian-occupied Jammu and Kashmir, citing documented 2016-18 cases highlighted by Amnesty International and the UN that caused \"massive blindness,\" and questioned their justification as a crowd-control tool.",
       "sources": [
@@ -118,7 +156,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 9,
       "headline": "Second phase of AJK elections on Sunday in 9 Muzaffarabad division, 12 refugee constituencies",
       "summary": "AI summary: Voters in Azad Jammu and Kashmir's Muzaffarabad division and refugee constituencies go to the polls on Sunday for the second phase of assembly elections, with over 340 candidates contesting 21 seats amid tight security and a fresh internet suspension. The first phase in Mirpur last month saw PML-N win most seats amid rigging accusations from PPP.",
       "sources": [
@@ -137,7 +175,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 10,
       "headline": "Bilawal receives JAAC response on reconciliation commission, says AJK PM to consult stakeholders on way forward",
       "summary": "AI summary: PPP chairman Bilawal Bhutto-Zardari says the banned Joint Awami Action Committee has responded positively to his proposal for a Truth and Reconciliation Commission to address the AJK unrest, and that he will consult the AJK prime minister on next steps. The move follows weeks of tension over JAAC's demand to abolish AJK's refugee assembly seats.",
       "sources": [
@@ -156,7 +194,7 @@
       }
     },
     {
-      "id": 9,
+      "id": 11,
       "headline": "Renowned mountaineer Nirmal Purja, others perish in Broad Peak avalanche, climbing company confirms",
       "summary": "AI summary: Mountaineer Nirmal Purja and nine fellow climbers were killed when an avalanche swept their team off Broad Peak in the Karakoram range on Thursday evening, according to both Dawn and Business Recorder. Purja, a former British special forces soldier famous for summiting all 14 of the world's 8,000-metre peaks in record time, was attempting to repeat the feat without supplemental oxygen.",
       "sources": [
@@ -176,7 +214,7 @@
       }
     },
     {
-      "id": 10,
+      "id": 12,
       "headline": "Army major martyred in North Waziristan IBO: ISPR",
       "summary": "AI summary: The military says Major Hafiz Ihsan Elahi was killed leading troops in an intelligence-based operation against militants in North Waziristan's Razmak area, in which five fighters were also killed, according to ISPR statements carried by Dawn and Business Recorder. The report comes amid what the army has called Pakistan's deadliest month of counter-terrorism operations this year.",
       "sources": [
@@ -196,7 +234,7 @@
       }
     },
     {
-      "id": 11,
+      "id": 13,
       "headline": "Pakistan welcomes positive developments in implementation of Gaza peace plan",
       "summary": "AI summary: Pakistan's foreign office says it welcomes recent progress in implementing the Gaza peace plan and credited mediating countries' efforts, reiterating support for Palestinian self-determination based on pre-1967 borders, per Business Recorder's report.",
       "sources": [
@@ -215,7 +253,7 @@
       }
     },
     {
-      "id": 12,
+      "id": 14,
       "headline": "China reaffirms unwavering support for Pakistan, pledges stronger strategic partnership",
       "summary": "AI summary: Chinese military officials marked the PLA's founding anniversary at Pakistan's army headquarters by reaffirming what they called an unwavering, time-tested relationship and pledging a stronger strategic partnership, Business Recorder reports.",
       "sources": [
