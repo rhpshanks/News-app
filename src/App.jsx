@@ -50,7 +50,7 @@ function formatDateLabel(dateStr) {
   }
 }
 
-function App() {
+function App({ onNavigateMethodology }) {
   const [theme, setTheme] = useState(getInitialTheme);
   const [toast, setToast] = useState(null);
   const [query, setQuery] = useState("");
@@ -74,6 +74,10 @@ function App() {
     oldestDate,
     newestDate,
   } = useArticleArchive();
+
+  useEffect(() => {
+    document.title = "Miqyas";
+  }, []);
 
   useEffect(() => {
     document.documentElement.dataset.theme = theme;
@@ -366,6 +370,16 @@ function App() {
         ) : (
           <p>Source: Dawn News. Sample data shown, the daily live update has not run yet.</p>
         )}
+        <a
+          href="/methodology"
+          className="footer__link"
+          onClick={(e) => {
+            e.preventDefault();
+            onNavigateMethodology();
+          }}
+        >
+          How Miqyas works
+        </a>
       </footer>
 
       {toast && (

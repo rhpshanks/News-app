@@ -614,6 +614,19 @@
   margin: 0;
 }
 
+.footer__link {
+  display: inline-block;
+  margin-top: var(--space-2);
+  color: var(--color-accent);
+  font-size: 12px;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.footer__link:hover {
+  text-decoration: underline;
+}
+
 .toast {
   position: fixed;
   left: 50%;
@@ -872,6 +885,83 @@
   gap: 4px;
   font-size: 11px;
   text-transform: capitalize;
+}
+
+/* Methodology page */
+
+.method__back {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin-bottom: var(--space-6);
+  color: var(--color-text-secondary);
+  font-size: 13px;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.method__back:hover {
+  color: var(--color-accent);
+}
+
+.method__back--bottom {
+  margin-top: var(--space-8);
+  margin-bottom: 0;
+}
+
+.method__header {
+  margin-bottom: var(--space-8);
+}
+
+.method__title {
+  margin: var(--space-1) 0 var(--space-4);
+  font-family: var(--font-headline);
+  font-weight: 600;
+  font-size: 34px;
+  line-height: 1.2;
+}
+
+.method__intro {
+  margin: 0;
+  max-width: 62ch;
+  font-size: 16px;
+  line-height: 1.7;
+  color: var(--color-text-secondary);
+}
+
+.method__section {
+  max-width: 68ch;
+  margin-bottom: var(--space-8);
+}
+
+.method__section p {
+  margin: 0 0 var(--space-4);
+  font-size: 15px;
+  line-height: 1.7;
+}
+
+.method__h2 {
+  margin: 0 0 var(--space-4);
+  font-family: var(--font-headline);
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.method__list {
+  margin: 0 0 var(--space-4);
+  padding-left: var(--space-6);
+}
+
+.method__list li {
+  margin-bottom: var(--space-3);
+  font-size: 15px;
+  line-height: 1.7;
+}
+
+@media (max-width: 480px) {
+  .method__title {
+    font-size: 26px;
+  }
 }
 
 .trends__legend-item.trend-line--positive,
