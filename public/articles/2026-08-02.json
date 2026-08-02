@@ -1,8 +1,46 @@
 {
-  "generatedAt": "2026-08-02T14:20:18+05:00",
+  "generatedAt": "2026-08-02T18:40:59+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "Electoral rolls shrink by 589,458 in less than two months as ECP removes 1.48m deceased voters",
+      "summary": "AI summary: Pakistan's electoral rolls fell by 589,458 voters between May 7 and July 2, 2026, as the Election Commission removed roughly 1.48 million deceased voters while about 895,000 new voters were added, according to Dawn. Punjab accounted for over 81% of the net decline, and a senior ECP official said deceased-voter deletions substantially offset new registrations.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2020147/electoral-rolls-shrink-by-589458-in-less-than-two-months-as-ecp-removes-148m-deceased-voters" }
+      ],
+      "timestamp": "Aug 2, 6:12 PM",
+      "publishedAt": "2026-08-02T18:12:24+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Routine voter-roll maintenance figures have no direct bearing on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "Removing deceased voters and updating rolls is routine ECP administrative housekeeping rather than a sign of institutional strengthening or instability." },
+        "social": { "value": "neutral", "reason": "A statistical update to voter registration data has no direct bearing on daily public life." },
+        "market": { "value": "low", "reason": "Electoral roll statistics have minimal relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "A data-driven report citing official ECP figures and an on-record official, without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single full-article source, though detailed with specific district-level and provincial figures from a named ECP official." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Security forces kill mastermind of Hangu police checkpost attack: sources",
+      "summary": "AI summary: Security sources told Dawn that forces killed Amir Mauviya, described as a senior Fitna al-Khawarij (the banned TTP) figure in Kurram, in Hangu's Chapri Naryab area under an operation codenamed Operation 11 Garaj, days after the July 30 attack he allegedly masterminded on a police checkpost in Khazina Banda that killed nine police officers and wounded 28 others.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2020144/security-forces-kill-mastermind-of-hangu-police-checkpost-attack-sources" }
+      ],
+      "timestamp": "Aug 2, 5:28 PM",
+      "publishedAt": "2026-08-02T17:28:42+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A counter-terrorism operation in Hangu has no direct effect on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "Security sources frame the operation as a successful strike against a militant leader rather than a governance-stability event." },
+        "social": { "value": "negative", "reason": "The report follows a July 30 attack that killed nine police officers and wounded 28 others, reflecting an ongoing security threat and loss of life in the region even as this specific operation eliminated the alleged mastermind." },
+        "market": { "value": "low", "reason": "A localized counter-terrorism operation has little direct relevance to markets or investors." },
+        "lean": { "value": "balanced", "reason": "The claim is attributed to unnamed security sources rather than asserted as independently verified fact, with no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single full-article source with specific operational detail (named operation, casualty figures), though the account rests on unnamed security sources." }
+      }
+    },
+    {
+      "id": 3,
       "headline": "2 cops injured in IED blast in Peshawar",
       "summary": "AI summary: A police van was damaged and two officers, a driver and a constable, suffered minor injuries when an IED exploded near Pir Zakorhi Bridge on Peshawar's eastern entry point on Sunday afternoon, with both taken to hospital, city police said.",
       "sources": [
@@ -21,7 +59,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 4,
       "headline": "Alpine Club says Nepalese climber Nirmal Purja's body found on Broad Peak",
       "summary": "AI summary: The Alpine Club of Pakistan says a ground rescue team recovered mountaineer Nirmal Purja's body at roughly 5,700 metres on Broad Peak, three days after an avalanche killed his entire expedition, and located three further bodies nearby, with difficult terrain and weather ruling out helicopter assistance.",
       "sources": [
@@ -40,7 +78,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 5,
       "headline": "Odorization plant testing causes unusual gas smell in parts of Karachi: SSGC",
       "summary": "AI summary: SSGC said an unusual gas smell reported in parts of Karachi near Abul Hasan Isphahani Road was caused by testing of an odorization plant during commissioning of a new pipeline, adding that system pressure remained normal and no leakage occurred.",
       "sources": [
@@ -59,7 +97,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 6,
       "headline": "Asif reacts to Naqvi's call for governance reset, urges him to begin with his own ministry",
       "summary": "AI summary: Defence Minister Khawaja Asif responded to Interior Minister Mohsin Naqvi's call for a governance \"reset,\" saying any systemic changes should be debated in Parliament or the Cabinet rather than announced to business audiences, and pointedly urged Naqvi to first fix his own ministry, noting it has implemented only 2 of 14 National Action Plan points. Naqvi's proposal, which included creating new administrative provinces, has already drawn pushback from Sindh's chief minister and nationalist groups demanding his resignation.",
       "sources": [
@@ -79,7 +117,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 7,
       "headline": "Trump says US 'locked and loaded' but will hold off on fresh Iran attack in hope of quick deal",
       "summary": "AI summary: President Trump said the US remains \"locked and loaded\" against Iran but is holding off a fresh attack to pursue a rapid negotiated deal, after requests from Iran and other Middle Eastern states, while Iran's foreign minister warned of decisive retaliation against any further aggression. The pause comes amid ongoing US-Israeli military operations against Iran and rising oil prices tied to disruptions in the Strait of Hormuz.",
       "sources": [
@@ -98,7 +136,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 8,
       "headline": "Presidential nod delay hits judiciary appointments",
       "summary": "AI summary: Pakistan's judiciary is facing appointment disruptions after President's House failed to formally notify a Sindh High Court judge's recommended extension before his term expired on July 29, while four Peshawar High Court judges face similar expiry by August 4. Bar council leaders say the president cannot indefinitely withhold confirmation of Judicial Commission recommendations, especially since recent constitutional amendments left the president's role largely ceremonial in these appointments.",
       "sources": [
@@ -117,7 +155,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 9,
       "headline": "Second phase of AJK polls: Bilawal hopes for 'fairness' as PPP alleges electoral malpractices",
       "summary": "AI summary: Voting concluded in the second phase of Azad Jammu and Kashmir's assembly elections, covering nine Muzaffarabad division seats and 12 refugee constituencies contested by over 340 candidates and roughly 1.2 million registered voters. PPP chairman Bilawal Bhutto-Zardari alleged rigging and exclusion of polling agents at several stations and said the party reserves the right to demand re-election, while a PML-N source described isolated irregularities as unplanned.",
       "sources": [
@@ -137,7 +175,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 10,
       "headline": "Pakistan condemns use of pellet guns in IIOJK",
       "summary": "AI summary: Pakistan's Foreign Office condemned the use of pellet guns by Indian forces in Indian-occupied Jammu and Kashmir, citing documented 2016-18 cases highlighted by Amnesty International and the UN that caused \"massive blindness,\" and questioned their justification as a crowd-control tool.",
       "sources": [
@@ -156,7 +194,7 @@
       }
     },
     {
-      "id": 9,
+      "id": 11,
       "headline": "Second phase of AJK elections on Sunday in 9 Muzaffarabad division, 12 refugee constituencies",
       "summary": "AI summary: Voters in Azad Jammu and Kashmir's Muzaffarabad division and refugee constituencies go to the polls on Sunday for the second phase of assembly elections, with over 340 candidates contesting 21 seats amid tight security and a fresh internet suspension. The first phase in Mirpur last month saw PML-N win most seats amid rigging accusations from PPP.",
       "sources": [
@@ -175,7 +213,7 @@
       }
     },
     {
-      "id": 10,
+      "id": 12,
       "headline": "Bilawal receives JAAC response on reconciliation commission, says AJK PM to consult stakeholders on way forward",
       "summary": "AI summary: PPP chairman Bilawal Bhutto-Zardari says the banned Joint Awami Action Committee has responded positively to his proposal for a Truth and Reconciliation Commission to address the AJK unrest, and that he will consult the AJK prime minister on next steps. The move follows weeks of tension over JAAC's demand to abolish AJK's refugee assembly seats.",
       "sources": [
@@ -194,7 +232,7 @@
       }
     },
     {
-      "id": 11,
+      "id": 13,
       "headline": "Renowned mountaineer Nirmal Purja, others perish in Broad Peak avalanche, climbing company confirms",
       "summary": "AI summary: Mountaineer Nirmal Purja and nine fellow climbers were killed when an avalanche swept their team off Broad Peak in the Karakoram range on Thursday evening, according to both Dawn and Business Recorder. Purja, a former British special forces soldier famous for summiting all 14 of the world's 8,000-metre peaks in record time, was attempting to repeat the feat without supplemental oxygen.",
       "sources": [
@@ -214,7 +252,7 @@
       }
     },
     {
-      "id": 12,
+      "id": 14,
       "headline": "Army major martyred in North Waziristan IBO: ISPR",
       "summary": "AI summary: The military says Major Hafiz Ihsan Elahi was killed leading troops in an intelligence-based operation against militants in North Waziristan's Razmak area, in which five fighters were also killed, according to ISPR statements carried by Dawn and Business Recorder. The report comes amid what the army has called Pakistan's deadliest month of counter-terrorism operations this year.",
       "sources": [
@@ -234,7 +272,7 @@
       }
     },
     {
-      "id": 13,
+      "id": 15,
       "headline": "Pakistan welcomes positive developments in implementation of Gaza peace plan",
       "summary": "AI summary: Pakistan's foreign office says it welcomes recent progress in implementing the Gaza peace plan and credited mediating countries' efforts, reiterating support for Palestinian self-determination based on pre-1967 borders, per Business Recorder's report.",
       "sources": [
@@ -253,7 +291,7 @@
       }
     },
     {
-      "id": 14,
+      "id": 16,
       "headline": "China reaffirms unwavering support for Pakistan, pledges stronger strategic partnership",
       "summary": "AI summary: Chinese military officials marked the PLA's founding anniversary at Pakistan's army headquarters by reaffirming what they called an unwavering, time-tested relationship and pledging a stronger strategic partnership, Business Recorder reports.",
       "sources": [
