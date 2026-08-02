@@ -232,22 +232,22 @@
   },
   {
     "date": "2026-08-02",
-    "articleCount": 16,
+    "articleCount": 18,
     "counts": {
       "economic": {
         "positive": 1,
-        "neutral": 13,
+        "neutral": 15,
         "negative": 2
       },
       "political": {
         "positive": 2,
-        "neutral": 12,
-        "negative": 2
+        "neutral": 13,
+        "negative": 3
       },
       "social": {
         "positive": 1,
         "neutral": 8,
-        "negative": 7
+        "negative": 9
       }
     }
   }
