@@ -1,0 +1,102 @@
+{
+  "generatedAt": "2026-08-03T00:17:27+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Suicide bombing at Swat police station kills 14, injures over 25",
+      "summary": "AI summary: A suicide bomber detonated explosives at the gate of Kabal police station in Swat on Sunday as security tried to stop him, killing at least 14 people, mostly police officers, and injuring around 18-25 others during a nearby anti-terrorism protest. No group has claimed responsibility, and authorities have cordoned off the area for investigation.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2020154/at-least-14-people-including-police-officials-martyred-in-suicide-attack-on-kabal-police-station-in-swat-police" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40432981/suicide-bombing-at-swat-police-station-kills-14-injures-over-25" }
+      ],
+      "timestamp": "Aug 2, 9:29 PM",
+      "publishedAt": "2026-08-02T21:29:31+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A localized security incident with no clear direct effect on broader economic activity, jobs, or prices." },
+        "political": { "value": "negative", "reason": "A deadly terrorist attack on police during a public anti-terrorism protest signals a security and governance stability concern." },
+        "social": { "value": "negative", "reason": "Multiple deaths and injuries at a public gathering directly harm public safety and community wellbeing." },
+        "market": { "value": "low", "reason": "A regional security incident with no direct bearing on markets or business decisions." },
+        "lean": { "value": "balanced", "reason": "Both outlets report the incident factually, attributing casualty figures and details to police sources without partisan framing." },
+        "confidence": { "value": "high", "reason": "Corroborated by two independent outlets with matching casualty figures, location, and context." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Second phase of AJK polls concludes amid renewed rigging allegations by PPP",
+      "summary": "AI summary: Voting wrapped up in the second phase of Azad Jammu and Kashmir's elections across Muzaffarabad and refugee constituencies, with counting underway and the PML-N leading in early results; the PPP alleged ballot tampering, exclusion of polling agents, and violence including a worker's death, claims the PML-N disputes and attributes instead to natural causes.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2020095/second-phase-of-ajk-polls-concludes-amid-renewed-rigging-allegations-by-ppp" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40432978/vote-counting-begins-as-polling-ends-in-second-phase-of-ajk-elections" }
+      ],
+      "timestamp": "Aug 2, 6:41 PM",
+      "publishedAt": "2026-08-02T18:41:27+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "An electoral process story with no direct bearing on jobs, prices, or business activity." },
+        "political": { "value": "negative", "reason": "Contested claims of rigging, agent exclusion, violence, and a disputed worker death raise genuine concerns about the credibility and stability of the electoral process, regardless of which side is correct." },
+        "social": { "value": "negative", "reason": "Reports of violence and a worker's death during polling, even with disputed cause, point to unrest affecting public safety." },
+        "market": { "value": "low", "reason": "A regional election result carries limited direct relevance to markets or investors." },
+        "lean": { "value": "balanced", "reason": "Both PPP's allegations and PML-N's rebuttal are presented, with named quotes from both sides; no one-sided framing observed." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two outlets on the core facts, but claims about violence and its cause remain actively disputed between the parties, and it is not confidently known which party holds government versus opposition status." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Electoral rolls shrink by 589,458 in less than two months as ECP removes 1.48m deceased voters",
+      "summary": "AI summary: Pakistan's electoral rolls contracted by roughly 589,000 voters between May and July as the Election Commission struck about 1.48 million deceased voters from the register, outpacing nearly 895,000 new registrations, with Punjab accounting for the bulk of the net decline.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2020147/electoral-rolls-shrink-by-589458-in-less-than-two-months-as-ecp-removes-148m-deceased-voters" }
+      ],
+      "timestamp": "Aug 2, 6:12 PM",
+      "publishedAt": "2026-08-02T18:12:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Routine voter roll maintenance with no direct economic effect." },
+        "political": { "value": "neutral", "reason": "Reflects ordinary administrative data cleanup by the Election Commission rather than a destabilizing event." },
+        "social": { "value": "neutral", "reason": "An administrative statistics story with no direct effect on daily public life." },
+        "market": { "value": "low", "reason": "Voter registration data has no direct market relevance." },
+        "lean": { "value": "balanced", "reason": "Straightforward reporting of ECP data without partisan framing." },
+        "confidence": { "value": "high", "reason": "Based on a full article read citing specific, internally consistent ECP figures." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Defence minister Asif backs Naqvi's reform call, urges constitutional route",
+      "summary": "AI summary: Defence Minister Khawaja Asif backed Interior Minister Mohsin Naqvi's push for governance reforms but said the changes should go through Parliament and Cabinet rather than be pitched directly to business leaders, noting most National Action Plan commitments assigned to the Interior Ministry remain unmet.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40432964/defence-minister-asif-backs-naqvis-reform-call-urges-constitutional-route" }
+      ],
+      "timestamp": "Aug 2, 12:32 PM",
+      "publishedAt": "2026-08-02T12:32:45+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "An internal governance policy discussion with no direct economic impact stated." },
+        "political": { "value": "neutral", "reason": "A cabinet minister urging reforms go through proper constitutional channels is balanced by the admission that most NAP commitments remain unimplemented." },
+        "social": { "value": "neutral", "reason": "An internal policy discussion with no direct effect on daily public life." },
+        "market": { "value": "low", "reason": "Not directly relevant to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Reports a policy exchange between two government ministers without favoring a government-versus-opposition narrative." },
+        "confidence": { "value": "medium", "reason": "Working from the RSS description excerpt only, not the full article, since the article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Odorization plant testing causes unusual gas smell in parts of Karachi: SSGC",
+      "summary": "AI summary: SSGC said an unusually strong gas odour reported in parts of Karachi near Abul Hasan Isphahani Road came from routine testing of odorization equipment during new pipeline commissioning, adding that system pressure remained normal and no leak occurred.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40432959/odorization-plant-testing-causes-unusual-gas-smell-in-parts-of-karachi-ssgc" }
+      ],
+      "timestamp": "Aug 2, 11:29 AM",
+      "publishedAt": "2026-08-02T11:29:19+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A routine utility operations matter with no broader economic implication." },
+        "political": { "value": "neutral", "reason": "Not a governance or institutional matter." },
+        "social": { "value": "neutral", "reason": "Caused temporary public concern but was explained as normal testing with no leak or harm confirmed." },
+        "market": { "value": "low", "reason": "A localized utility operations clarification with minimal investor relevance." },
+        "lean": { "value": "balanced", "reason": "Straightforward reporting of a company statement without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Working from the RSS description excerpt only, since the article page returned a 403 error." }
+      }
+    }
+  ]
+}
