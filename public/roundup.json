@@ -1,43 +1,49 @@
 {
-  "generatedAt": "2026-08-02T18:30:00+05:00",
+  "generatedAt": "2026-08-02T18:45:46+05:00",
   "periodStart": "2026-07-27",
   "periodEnd": "2026-08-02",
   "periodLabel": "Jul 27 to Aug 2, 2026",
-  "totalArticles": 120,
+  "totalArticles": 124,
   "stats": {
-    "economic": { "positive": 11, "neutral": 74, "negative": 35 },
-    "political": { "positive": 15, "neutral": 76, "negative": 29 },
-    "social": { "positive": 16, "neutral": 56, "negative": 48 }
+    "economic": { "positive": 11, "neutral": 78, "negative": 35 },
+    "political": { "positive": 15, "neutral": 80, "negative": 29 },
+    "social": { "positive": 16, "neutral": 57, "negative": 51 }
   },
   "summary": [
-    "Miqyas read 120 stories across Dawn News, Geo News, and Business Recorder this week. Taken as a whole, coverage leaned cautious rather than either encouraging or alarming: most stories across all three readings landed on neutral, 62% of economic readings, 63% of political readings, and 47% of social readings, the AI's way of saying a story didn't clearly signal improvement or harm either way.",
-    "Social readings were the exception. Two in five stories (40%) read as socially negative this week, well above the negative share on the economic (29%) or political (24%) readings. That gap traces to a real cluster of security and safety stories: a police checkpost attack in KP's Hangu that left nine officers dead, the bodies of six abducted labourers recovered in Balochistan's Nasirabad, and a fatal coal mine explosion in Quetta whose search and rescue operation ran for several days.",
-    "On the political reading, the week's dominant storyline was the AJK election dispute. PML-N's early lead in Mirpur division drew repeated allegations of rigging from PPP figures, including a warning from PPP chairman Bilawal Bhutto-Zardari that a federal government 'countdown' would begin if the results stood, claims this reporting could not independently verify and that PML-N and the election commission disputed in turn. Miqyas's political-lean reading stayed balanced across nearly all of this coverage, only three stories this week leaned pro-government, and each at low or medium AI confidence, reflecting genuine uncertainty rather than a confident read."
+    "Social coverage carried the heaviest negative tilt of the week, at roughly 41% of social-tagged readings versus about 28% for economic and 23% for political. That gap traces to a cluster of casualty stories rather than any single trend: a militant attack on a police checkpost in Hangu, Khyber Pakhtunkhwa left nine officers dead and 28 wounded; a methane explosion and collapse at the Sorange coalfield near Quetta killed all 34 trapped miners, most of them teenagers and young men from Shangla; and six labourers abducted from Nasirabad, Balochistan while working on development projects were found dead. Each of these registers as negative across economic, political, and social readings at once, since they combine loss of life with disrupted livelihoods and exposed security gaps, but the direct threat to public safety is what pushes the social category's negative share above the other two.",
+    "The week's dominant storyline was the Azad Jammu and Kashmir election, held in phases starting July 28. The first phase in Mirpur division was followed by rigging allegations from PPP, which contested results returned largely in PML-N's favour, and by July 30 PPP chairman Bilawal Bhutto-Zardari was warning at a Muzaffarabad rally that a 'countdown' would begin for the federal government if it 'steals' the election, a claim attributed to PPP's framing rather than treated as established fact. The second phase concluded around August 2. Despite the sharply partisan back-and-forth between PPP and PML-N over the results, the lean readings on this coverage stayed 'balanced' throughout, generally by attributing claims to the party making them rather than adjudicating who was right.",
+    "A second thread opened late in the week when Interior Minister Mohsin Naqvi told the Pakistan Economic Summit that the governance 'system has collapsed' and called for cross-party talks on new administrative provinces, remarks framed against Pakistan's debt and economic strain. That drew a public rebuttal from Defence Minister Khawaja Asif, who argued any such reset belonged in Parliament rather than a business audience and pointed to shortcomings in Naqvi's own ministry, while Sindh's chief minister and nationalist groups also pushed back, with some calling for Naqvi's resignation. It's worth flagging where the week's coverage ran on thinner sourcing: several flagged stories, including the Bilawal 'countdown' warning and the Nasirabad killings, carried a 'low' AI confidence rating, in one case because only one side's framing was available and in another because the source article was blocked and only a truncated wire excerpt could be used. The loudest political claims of the week were not always the best-sourced ones."
   ],
   "notableStories": [
     {
-      "headline": "PPP assails AJK Election Commission for 'facilitating rigging' in first phase of AJK polls",
-      "context": "One of several disputed claims in the week's central political storyline, the report presents the allegation without independent confirmation.",
-      "sourceName": "Dawn News",
-      "sourceUrl": "https://www.dawn.com/news/2019220/ppp-assails-ajk-election-commission-for-facilitating-rigging-in-first-phase-of-ajk-polls"
-    },
-    {
       "headline": "9 cops martyred, 28 injured as police checkpost comes under attack in KP's Hangu",
-      "context": "The week's most severe single security incident, and a major contributor to this week's elevated social-negative share.",
+      "context": "A militant assault on a police checkpost in Hangu killed nine officers including a DSP and wounded 28 more, one of the deadliest single security incidents of the week.",
       "sourceName": "Dawn News",
       "sourceUrl": "https://www.dawn.com/news/2019442/9-cops-martyred-28-injured-as-police-checkpost-comes-under-attack-in-kps-hangu"
     },
     {
-      "headline": "Two miners killed, several feared trapped after Quetta coal mine explosion",
-      "context": "A multi-day search and rescue story, it concluded on August 1 with the last two bodies recovered.",
+      "headline": "Quetta coal mine explosion: Search and rescue operation concludes as last two bodies recovered",
+      "context": "A methane explosion and mine collapse near Quetta killed all 34 trapped miners, mostly teenagers and young men from Shangla, closing out a days-long rescue effort.",
       "sourceName": "Dawn News",
-      "sourceUrl": "https://www.dawn.com/news/2019505/two-miners-killed-several-feared-trapped-after-quetta-coal-mine-explosion"
+      "sourceUrl": "https://www.dawn.com/news/2019918/quetta-coal-mine-explosion-search-and-rescue-operation-concludes-as-last-two-bodies-recovered"
     },
     {
-      "headline": "Naqvi says current system has 'collapsed', proposes administrative units to tackle challenges",
-      "context": "A governance-reform comment that drew responses from other officials into the following week, included here as context for readings still developing.",
+      "headline": "Bilawal warns 'countdown' will begin for federal government if it 'steals' AJK election",
+      "context": "PPP's chairman escalated the AJK election dispute with a public warning aimed at the federal government, the sharpest moment yet in the week's central political storyline.",
+      "sourceName": "Dawn News",
+      "sourceUrl": "https://www.dawn.com/news/2019507/bilawal-warns-countdown-will-begin-for-federal-government-if-it-steals-ajk-election"
+    },
+    {
+      "headline": "Bodies of six abducted labourers found in Balochistan's Nasirabad",
+      "context": "Six labourers from Punjab and KP working on development projects were abducted and killed in Nasirabad, underscoring the security risks facing out-of-province workers in Balochistan.",
       "sourceName": "Geo News",
-      "sourceUrl": "https://www.geo.tv/latest/675427-naqvi-says-current-system-has-collapsed-proposes-administrative-units-to-tackle-challenges"
+      "sourceUrl": "https://www.geo.tv/latest/675423-bodies-of-six-abducted-labourers-found-in-balochistans-nasirabad"
+    },
+    {
+      "headline": "Asif reacts to Naqvi's call for governance reset, urges him to begin with his own ministry",
+      "context": "A public dispute between two senior federal ministers over Naqvi's 'system has collapsed' remarks showed friction inside the ruling coalition over how to address governance and provincial reform.",
+      "sourceName": "Dawn News",
+      "sourceUrl": "https://www.dawn.com/news/2020112/asif-reacts-to-naqvis-call-for-governance-reset-urges-him-to-begin-with-his-own-ministry"
     }
   ]
 }
