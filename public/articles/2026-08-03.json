@@ -1,27 +1,65 @@
 {
-  "generatedAt": "2026-08-03T17:08:10+05:00",
+  "generatedAt": "2026-08-03T19:01:30+05:00",
   "articles": [
     {
       "id": 1,
-      "headline": "Death toll from suicide bombing near police station in Swat rises to 19",
-      "summary": "AI summary: The death toll from Sunday's suicide bombing at the gate of Kabal police station in Swat rose to 19 after four more victims died in hospital, Swat police said, as Khyber Pakhtunkhwa's chief minister visited bereaved families, allocated Rs20 billion to counter-terrorism efforts, and residents planned a protest for August 7 demanding lasting peace.",
+      "headline": "PM Shehbaz says ZTBL privatisation must preserve support for small farmers",
+      "summary": "AI summary: Prime Minister Shehbaz Sharif directed that Zarai Taraqiati Bank Limited retain its focus on financing small and medium-sized farmers after privatisation and ordered the sale completed within set timelines, during a meeting reviewing progress on privatising 27 state-owned enterprises that included completed financial closings for PIA and First Women Bank.",
       "sources": [
-        { "name": "Dawn News", "url": "https://www.dawn.com/news/2020350/death-toll-from-suicide-bombing-near-police-station-in-swat-rises-to-19" }
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433108/pm-shehbaz-says-ztbl-privatisation-must-preserve-support-for-small-farmers" }
       ],
-      "timestamp": "Aug 3, 5:00 PM",
-      "publishedAt": "2026-08-03T17:00:59+05:00",
-      "flaggedForReview": true,
+      "timestamp": "Aug 3, 6:41 PM",
+      "publishedAt": "2026-08-03T18:41:53+05:00",
+      "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "No direct effect on jobs, prices, or business activity beyond the counter-terrorism budget allocation, which is a security rather than economic measure." },
-        "political": { "value": "negative", "reason": "A rising death toll from a terrorist attack on police, followed by a planned public protest demanding government action, signals continued security and governance stability concerns." },
-        "social": { "value": "negative", "reason": "Four additional deaths and a planned protest reflect ongoing harm to public safety and community wellbeing." },
-        "market": { "value": "low", "reason": "A regional security incident update with no direct bearing on markets or business decisions." },
-        "lean": { "value": "balanced", "reason": "Straightforward reporting attributed to a named police spokesperson and the chief minister's visit, without partisan framing." },
-        "confidence": { "value": "medium", "reason": "Based on a full article read with a specific named source, though from a single outlet." }
+        "economic": { "value": "positive", "reason": "Directs continued privatisation of a state-owned bank alongside completed closings for PIA and First Women Bank, signaling continued progress on economic reform." },
+        "political": { "value": "neutral", "reason": "A routine economic policy directive with no bearing on institutional or governance stability." },
+        "social": { "value": "neutral", "reason": "A directive to preserve farmer financing is aspirational rather than an immediate, realized change to daily life." },
+        "market": { "value": "medium", "reason": "Relevant to investors tracking Pakistan's SOE privatisation programme, including completed PIA and First Women Bank closings." },
+        "lean": { "value": "balanced", "reason": "Straightforward reporting of a prime ministerial directive without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Working from the RSS description excerpt only, since the article page returned a 403 error." }
       }
     },
     {
       "id": 2,
+      "headline": "Death toll from suicide bombing near police station in Swat rises to 17",
+      "summary": "AI summary: Dawn revised the death toll from Sunday's suicide bombing at Kabal police station in Swat down to 17 (seven police officers and ten civilians) from an earlier count of 19, per police spokesperson Nasir Iqbal Karimi, with 27 people injured; Khyber Pakhtunkhwa's chief minister visited the wounded and ordered a comprehensive counterterrorism operation, while a protest is planned in Mingora on August 7.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2020350/death-toll-from-suicide-bombing-near-police-station-in-swat-rises-to-17" }
+      ],
+      "timestamp": "Aug 3, 6:38 PM",
+      "publishedAt": "2026-08-03T18:38:09+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct effect on jobs, prices, or business activity beyond the counter-terrorism response, which is a security rather than economic measure." },
+        "political": { "value": "negative", "reason": "A terrorist attack on police followed by a corrected casualty count and a planned public protest demanding government action signals continued security and governance stability concerns." },
+        "social": { "value": "negative", "reason": "17 confirmed deaths and 27 injuries, plus a planned protest, reflect ongoing harm to public safety and community wellbeing." },
+        "market": { "value": "low", "reason": "A regional security incident update with no direct bearing on markets or business decisions." },
+        "lean": { "value": "balanced", "reason": "Straightforward reporting attributed to a named police spokesperson and the chief minister's visit, without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on a full article read with a specific named source, though from a single outlet and the toll has already been revised once." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Shehbaz orders roadmap for private equity fund to spur SMEs, foreign investment",
+      "summary": "AI summary: Prime Minister Shehbaz Sharif ordered officials to prepare a roadmap for a Private Equity Fund aimed at attracting capital, expanding businesses, and creating jobs, targeting sectors including minerals, agriculture, energy, and IT to boost domestic investment and support small and medium enterprises.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433096/shehbaz-orders-roadmap-for-private-equity-fund-to-spur-smes-foreign-investment" }
+      ],
+      "timestamp": "Aug 3, 5:30 PM",
+      "publishedAt": "2026-08-03T17:30:42+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "The directive is explicitly framed around attracting capital, expanding businesses, and creating employment opportunities across multiple sectors." },
+        "political": { "value": "neutral", "reason": "A routine economic policy directive with no bearing on institutional or governance stability." },
+        "social": { "value": "neutral", "reason": "An investment-policy directive at the roadmap stage with no direct, immediate effect on daily public life." },
+        "market": { "value": "medium", "reason": "Relevant to investors given the focus on a private equity fund and foreign investment, though still at the roadmap rather than implementation stage." },
+        "lean": { "value": "balanced", "reason": "Straightforward reporting of a prime ministerial directive without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Working from the RSS description excerpt only, since the article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 4,
       "headline": "Cleric killed after explosion at supermarket in South Waziristan's Wana",
       "summary": "AI summary: A cleric, Mufti Jana Mir Masti Khel, died after a suspected pressure bomb exploded at a supermarket in Wana, South Waziristan, with police believing the device was planted to target him specifically, part of a recent pattern of attacks on clerics in the area including a shooting three days earlier and a July 28 attack near a mosque in Birmal.",
       "sources": [
@@ -40,7 +78,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 5,
       "headline": "Iran denies negotiations with US after Trump announces talks",
       "summary": "AI summary: Iran's Foreign Ministry denied holding direct negotiations with the United States after President Trump announced talks were set to begin, with spokesperson Esmaeil Baqaei saying Iran is instead in discussions with Oman over a temporary safe shipping route through the Strait of Hormuz, contradicting Trump's characterization of the exchange as bilateral talks.",
       "sources": [
@@ -59,7 +97,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 6,
       "headline": "PML-N secures simple majority to form govt in AJK, says Rana Sanaullah",
       "summary": "AI summary: PML-N has secured a simple majority, winning 23 of 45 seats to form the next Azad Jammu and Kashmir government, according to Adviser to the PM on Political Affairs Rana Sanaullah, with PPP taking the remaining contested seats and Prime Minister Shehbaz Sharif congratulating the party on the result; a third phase covering Poonch division seats remains pending.",
       "sources": [
@@ -79,7 +117,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 7,
       "headline": "Trump says new Iran talks set to start today after calling off massive attack",
       "summary": "AI summary: President Trump said he called off a planned large-scale strike on Iran, describing negotiations set to begin Monday afternoon after Iran and Gulf states reportedly urged restraint, while Iranian officials framed talks around the Strait of Hormuz and holding the US to its commitments; oil prices fell 4.7% on the news.",
       "sources": [
@@ -98,7 +136,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 8,
       "headline": "Move to create over 100 new additional assistant commissioner posts in Punjab opposed",
       "summary": "AI summary: Punjab's government plans to create 101 new Additional Assistant Commissioner posts by converting section officer positions, but the Provincial Management Service officers' association is opposing the move, calling it costly (an estimated Rs4.73 billion annually) and unnecessary given the existing PERA enforcement force, and has threatened protests starting Tuesday.",
       "sources": [
@@ -117,7 +155,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 9,
       "headline": "Naqvi's call for new provinces faces fresh pushback",
       "summary": "AI summary: Interior Minister Mohsin Naqvi's proposal to create new provinces to fix governance drew fresh criticism, with Defence Minister Khawaja Asif saying such changes should go through parliament rather than be pitched to a captive audience, and PPP's Raza Rabbani arguing governance failures stem from constitutional violations rather than the existing provincial setup.",
       "sources": [
@@ -136,7 +174,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 10,
       "headline": "PML-N poised to grab lion's share in AJK",
       "summary": "AI summary: Unofficial results from the second phase of AJK's Legislative Assembly elections show PML-N leading with around 10 of 12 refugee constituencies and at least two territorial seats, while PPP secured four seats; two constituencies had polling postponed to Tuesday due to landslides, and PPP's Bilawal Bhutto-Zardari alleged the PML-N was 'robbing votes' through coercion following a worker's disputed death, a claim PML-N denies.",
       "sources": [
@@ -155,7 +193,7 @@
       }
     },
     {
-      "id": 9,
+      "id": 11,
       "headline": "Quetta mine victims' families: KP announces financial aid",
       "summary": "AI summary: Khyber Pakhtunkhwa's provincial minister for minerals visited bereaved families in Shangla on the chief minister's instructions, announcing Rs1 million in financial assistance per victim of the Quetta mine tragedy, pledging coordination with Balochistan for a transparent investigation, and vowing to shut down mines violating safety standards.",
       "sources": [
@@ -174,7 +212,7 @@
       }
     },
     {
-      "id": 10,
+      "id": 12,
       "headline": "Railways Police recover 32 tonnes of stolen material",
       "summary": "AI summary: Pakistan Railways Police in Karachi recovered roughly 32 tonnes of stolen railway tracks and material worth millions of rupees and arrested six suspects, acting on the railways police chief's directions.",
       "sources": [
@@ -193,7 +231,7 @@
       }
     },
     {
-      "id": 11,
+      "id": 13,
       "headline": "Railways retrieves 2,552 acres of encroached land",
       "summary": "AI summary: Pakistan Railways said it has recovered 2,552 acres of encroached land nationwide over the last five financial years as part of an ongoing anti-encroachment campaign to protect state assets.",
       "sources": [
@@ -212,7 +250,7 @@
       }
     },
     {
-      "id": 12,
+      "id": 14,
       "headline": "Pakistan embassy organises mango festival in Tehran",
       "summary": "AI summary: The Pakistan Embassy in Tehran held its first Pakistan Mango Festival at Palladium Mall, showcasing Pakistani mangoes and highlighting Pakistan-Iran cultural and trade ties.",
       "sources": [
@@ -231,7 +269,7 @@
       }
     },
     {
-      "id": 13,
+      "id": 15,
       "headline": "Suicide bombing at Swat police station kills 14, injures over 25",
       "summary": "AI summary: A suicide bomber detonated explosives at the gate of Kabal police station in Swat on Sunday as security tried to stop him, killing at least 14 people, mostly police officers, and injuring around 18-25 others during a nearby anti-terrorism protest. No group has claimed responsibility, and authorities have cordoned off the area for investigation.",
       "sources": [
@@ -251,7 +289,7 @@
       }
     },
     {
-      "id": 14,
+      "id": 16,
       "headline": "Second phase of AJK polls concludes amid renewed rigging allegations by PPP",
       "summary": "AI summary: Voting wrapped up in the second phase of Azad Jammu and Kashmir's elections across Muzaffarabad and refugee constituencies, with counting underway and the PML-N leading in early results; the PPP alleged ballot tampering, exclusion of polling agents, and violence including a worker's death, claims the PML-N disputes and attributes instead to natural causes.",
       "sources": [
@@ -271,7 +309,7 @@
       }
     },
     {
-      "id": 15,
+      "id": 17,
       "headline": "Electoral rolls shrink by 589,458 in less than two months as ECP removes 1.48m deceased voters",
       "summary": "AI summary: Pakistan's electoral rolls contracted by roughly 589,000 voters between May and July as the Election Commission struck about 1.48 million deceased voters from the register, outpacing nearly 895,000 new registrations, with Punjab accounting for the bulk of the net decline.",
       "sources": [
@@ -290,7 +328,7 @@
       }
     },
     {
-      "id": 16,
+      "id": 18,
       "headline": "Defence minister Asif backs Naqvi's reform call, urges constitutional route",
       "summary": "AI summary: Defence Minister Khawaja Asif backed Interior Minister Mohsin Naqvi's push for governance reforms but said the changes should go through Parliament and Cabinet rather than be pitched directly to business leaders, noting most National Action Plan commitments assigned to the Interior Ministry remain unmet.",
       "sources": [
@@ -309,7 +347,7 @@
       }
     },
     {
-      "id": 17,
+      "id": 19,
       "headline": "Odorization plant testing causes unusual gas smell in parts of Karachi: SSGC",
       "summary": "AI summary: SSGC said an unusually strong gas odour reported in parts of Karachi near Abul Hasan Isphahani Road came from routine testing of odorization equipment during new pipeline commissioning, adding that system pressure remained normal and no leak occurred.",
       "sources": [
