@@ -50,7 +50,14 @@ function formatDateLabel(dateStr) {
   }
 }
 
-function App({ onNavigateMethodology, onNavigateRoundup, onNavigateAbout, onNavigateContact, onNavigatePrivacy }) {
+function App({
+  onNavigateMethodology,
+  onNavigateRoundup,
+  onNavigateAbout,
+  onNavigateContact,
+  onNavigatePrivacy,
+  onNavigateAdvertise,
+}) {
   const [theme, setTheme] = useState(getInitialTheme);
   const [toast, setToast] = useState(null);
   const [query, setQuery] = useState("");
@@ -420,6 +427,16 @@ function App({ onNavigateMethodology, onNavigateRoundup, onNavigateAbout, onNavi
             }}
           >
             Privacy
+          </a>
+          <a
+            href="/advertise"
+            className="footer__link"
+            onClick={(e) => {
+              e.preventDefault();
+              onNavigateAdvertise();
+            }}
+          >
+            Advertise
           </a>
         </div>
       </footer>

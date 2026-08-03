@@ -5,6 +5,7 @@ import RoundupPage from "./components/RoundupPage.jsx";
 import AboutPage from "./components/AboutPage.jsx";
 import ContactPage from "./components/ContactPage.jsx";
 import PrivacyPage from "./components/PrivacyPage.jsx";
+import AdvertisePage from "./components/AdvertisePage.jsx";
 
 // A hand-rolled router rather than a library, there are only two real pages here.
 // Plain <a href> links trigger full navigation (good for crawlers and "open in new
@@ -50,6 +51,9 @@ export default function Root() {
   if (path === "/privacy") {
     return <PrivacyPage onNavigateHome={() => navigate("/")} onNavigateContact={() => navigate("/contact")} />;
   }
+  if (path === "/advertise") {
+    return <AdvertisePage onNavigateHome={() => navigate("/")} onNavigateContact={() => navigate("/contact")} />;
+  }
   return (
     <App
       onNavigateMethodology={() => navigate("/methodology")}
@@ -57,6 +61,7 @@ export default function Root() {
       onNavigateAbout={() => navigate("/about")}
       onNavigateContact={() => navigate("/contact")}
       onNavigatePrivacy={() => navigate("/privacy")}
+      onNavigateAdvertise={() => navigate("/advertise")}
     />
   );
 }

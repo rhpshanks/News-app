@@ -1,8 +1,160 @@
 {
-  "generatedAt": "2026-08-03T00:17:27+05:00",
+  "generatedAt": "2026-08-03T10:20:05+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "Trump says new Iran talks set to start today after calling off massive attack",
+      "summary": "AI summary: President Trump said he called off a planned large-scale strike on Iran, describing negotiations set to begin Monday afternoon after Iran and Gulf states reportedly urged restraint, while Iranian officials framed talks around the Strait of Hormuz and holding the US to its commitments; oil prices fell 4.7% on the news.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2020319/trump-says-new-iran-talks-set-to-start-today-after-calling-off-massive-attack" }
+      ],
+      "timestamp": "Aug 3, 10:17 AM",
+      "publishedAt": "2026-08-03T10:17:40+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "The prospect of de-escalation and negotiations drove oil prices down 4.7%, easing a key cost pressure tied to the ongoing conflict." },
+        "political": { "value": "neutral", "reason": "A US-Iran diplomatic development with no direct bearing on Pakistan's own institutional or governance stability." },
+        "social": { "value": "positive", "reason": "Averting a major military strike in favor of negotiations reduces near-term escalation risk and potential harm to civilian populations in the region." },
+        "market": { "value": "high", "reason": "Directly moved oil prices and carries significant relevance given the ongoing conflict's effect on Strait of Hormuz shipping." },
+        "lean": { "value": "balanced", "reason": "Reports both Trump's account and Iranian officials' statements, including Iran's denial of requesting the halt, without favoring either side." },
+        "confidence": { "value": "medium", "reason": "Based on a full article read, though the situation is fluid and Iran disputes parts of Trump's account." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Move to create over 100 new additional assistant commissioner posts in Punjab opposed",
+      "summary": "AI summary: Punjab's government plans to create 101 new Additional Assistant Commissioner posts by converting section officer positions, but the Provincial Management Service officers' association is opposing the move, calling it costly (an estimated Rs4.73 billion annually) and unnecessary given the existing PERA enforcement force, and has threatened protests starting Tuesday.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2020277/move-to-create-over-100-new-additional-assistant-commissioner-posts-in-punjab-opposed" }
+      ],
+      "timestamp": "Aug 3, 7:51 AM",
+      "publishedAt": "2026-08-03T07:51:32+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "The PMS association cites a concrete estimated annual cost of Rs4.73 billion for the new posts, framed as an added burden on the public exchequer." },
+        "political": { "value": "neutral", "reason": "An internal civil service structure dispute rather than a broader governance stability concern." },
+        "social": { "value": "neutral", "reason": "An administrative staffing dispute with no direct effect on daily public life." },
+        "market": { "value": "low", "reason": "A domestic civil service staffing matter with minimal relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Presents both the PMS association's objections and a former secretary's more measured view without favoring a political side." },
+        "confidence": { "value": "high", "reason": "Based on a full article read with specific, named figures and quotes." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Naqvi's call for new provinces faces fresh pushback",
+      "summary": "AI summary: Interior Minister Mohsin Naqvi's proposal to create new provinces to fix governance drew fresh criticism, with Defence Minister Khawaja Asif saying such changes should go through parliament rather than be pitched to a captive audience, and PPP's Raza Rabbani arguing governance failures stem from constitutional violations rather than the existing provincial setup.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2020299/naqvis-call-for-new-provinces-faces-fresh-pushback" }
+      ],
+      "timestamp": "Aug 3, 7:15 AM",
+      "publishedAt": "2026-08-03T07:15:08+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A governance-structure policy debate with no direct bearing on jobs, prices, or business activity." },
+        "political": { "value": "negative", "reason": "Naqvi's own framing of a governance 'system collapse', combined with coalition and opposition figures publicly contesting his proposal and citing constitutional violations, signals institutional friction and stability concerns." },
+        "social": { "value": "neutral", "reason": "An elite-level governance policy debate with no direct effect on daily public life." },
+        "market": { "value": "low", "reason": "Not directly relevant to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Reports criticism from both a coalition minister and an opposition (PPP) figure, without favoring either side's framing." },
+        "confidence": { "value": "high", "reason": "Based on a full article read with named quotes from multiple sides." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "PML-N poised to grab lion's share in AJK",
+      "summary": "AI summary: Unofficial results from the second phase of AJK's Legislative Assembly elections show PML-N leading with around 10 of 12 refugee constituencies and at least two territorial seats, while PPP secured four seats; two constituencies had polling postponed to Tuesday due to landslides, and PPP's Bilawal Bhutto-Zardari alleged the PML-N was 'robbing votes' through coercion following a worker's disputed death, a claim PML-N denies.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2020296/pml-n-poised-to-grab-lions-share-in-ajk" }
+      ],
+      "timestamp": "Aug 3, 7:03 AM",
+      "publishedAt": "2026-08-03T07:03:19+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "An electoral results story with no direct bearing on jobs, prices, or business activity." },
+        "political": { "value": "negative", "reason": "Clashes between party workers, a disputed worker death, and allegations of vote-rigging through coercion raise genuine concerns about the credibility and stability of the electoral process." },
+        "social": { "value": "negative", "reason": "Clashes and a disputed worker death during polling point to unrest affecting public safety." },
+        "market": { "value": "low", "reason": "A regional election result carries limited direct relevance to markets or investors." },
+        "lean": { "value": "balanced", "reason": "Reports PPP's allegations and PML-N's denial and celebratory response, without favoring either side." },
+        "confidence": { "value": "medium", "reason": "Based on a full article read with specific results, but the violence and its cause remain actively disputed, and it is not confidently established which party currently holds government versus opposition status." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Quetta mine victims' families: KP announces financial aid",
+      "summary": "AI summary: Khyber Pakhtunkhwa's provincial minister for minerals visited bereaved families in Shangla on the chief minister's instructions, announcing Rs1 million in financial assistance per victim of the Quetta mine tragedy, pledging coordination with Balochistan for a transparent investigation, and vowing to shut down mines violating safety standards.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433037/quetta-mine-victims-families-kp-announces-financial-aid" }
+      ],
+      "timestamp": "Aug 3, 2:22 AM",
+      "publishedAt": "2026-08-03T02:22:31+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A localized compensation payment with no broad effect on jobs, prices, or business activity." },
+        "political": { "value": "positive", "reason": "The provincial government's direct financial response and pledge of inter-provincial coordination on the investigation reflect a functioning institutional response." },
+        "social": { "value": "positive", "reason": "Direct financial support for bereaved families and a stated crackdown on unsafe mines could reduce harm from future incidents." },
+        "market": { "value": "low", "reason": "A localized compensation and safety-enforcement matter with minimal relevance to investors." },
+        "lean": { "value": "balanced", "reason": "Straightforward reporting of a provincial minister's statement without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Working from the RSS description excerpt only, since the article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Railways Police recover 32 tonnes of stolen material",
+      "summary": "AI summary: Pakistan Railways Police in Karachi recovered roughly 32 tonnes of stolen railway tracks and material worth millions of rupees and arrested six suspects, acting on the railways police chief's directions.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433038/railways-police-recover-32-tonnes-of-stolen-material" }
+      ],
+      "timestamp": "Aug 3, 2:22 AM",
+      "publishedAt": "2026-08-03T02:22:31+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Recovering stolen railway infrastructure material worth millions of rupees protects state assets and reduces losses to a public enterprise." },
+        "political": { "value": "neutral", "reason": "A routine law enforcement operation with no significant bearing on broader governance stability." },
+        "social": { "value": "neutral", "reason": "A property-recovery operation with no direct effect on daily public life." },
+        "market": { "value": "low", "reason": "A localized law enforcement matter with minimal relevance to investors." },
+        "lean": { "value": "balanced", "reason": "Straightforward factual reporting of a police operation." },
+        "confidence": { "value": "medium", "reason": "Working from the RSS description excerpt only, since the article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Railways retrieves 2,552 acres of encroached land",
+      "summary": "AI summary: Pakistan Railways said it has recovered 2,552 acres of encroached land nationwide over the last five financial years as part of an ongoing anti-encroachment campaign to protect state assets.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433039/railways-retrieves-2552-acres-of-encroached-land" }
+      ],
+      "timestamp": "Aug 3, 2:22 AM",
+      "publishedAt": "2026-08-03T02:22:31+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Recovering thousands of acres of encroached state land protects public assets and could enable future productive or revenue-generating use." },
+        "political": { "value": "neutral", "reason": "A routine multi-year administrative campaign with no significant bearing on broader governance stability." },
+        "social": { "value": "neutral", "reason": "An administrative land-recovery statistic with no direct effect on daily public life." },
+        "market": { "value": "low", "reason": "A domestic public-asset administrative matter with minimal relevance to investors." },
+        "lean": { "value": "balanced", "reason": "Straightforward factual reporting of government statistics." },
+        "confidence": { "value": "medium", "reason": "Working from the RSS description excerpt only, since the article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Pakistan embassy organises mango festival in Tehran",
+      "summary": "AI summary: The Pakistan Embassy in Tehran held its first Pakistan Mango Festival at Palladium Mall, showcasing Pakistani mangoes and highlighting Pakistan-Iran cultural and trade ties.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433023/pakistan-embassy-organises-mango-festival-in-tehran" }
+      ],
+      "timestamp": "Aug 3, 2:22 AM",
+      "publishedAt": "2026-08-03T02:22:31+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A cultural promotion event with only symbolic, not measurable, trade impact." },
+        "political": { "value": "neutral", "reason": "A routine diplomatic goodwill event with no bearing on domestic governance stability." },
+        "social": { "value": "neutral", "reason": "A cultural event abroad with no direct effect on daily public life at home." },
+        "market": { "value": "low", "reason": "A symbolic cultural/trade promotion event with minimal direct market relevance." },
+        "lean": { "value": "balanced", "reason": "Straightforward, non-partisan reporting of a diplomatic cultural event." },
+        "confidence": { "value": "medium", "reason": "Working from the RSS description excerpt only, since the article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 9,
       "headline": "Suicide bombing at Swat police station kills 14, injures over 25",
       "summary": "AI summary: A suicide bomber detonated explosives at the gate of Kabal police station in Swat on Sunday as security tried to stop him, killing at least 14 people, mostly police officers, and injuring around 18-25 others during a nearby anti-terrorism protest. No group has claimed responsibility, and authorities have cordoned off the area for investigation.",
       "sources": [
@@ -22,7 +174,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 10,
       "headline": "Second phase of AJK polls concludes amid renewed rigging allegations by PPP",
       "summary": "AI summary: Voting wrapped up in the second phase of Azad Jammu and Kashmir's elections across Muzaffarabad and refugee constituencies, with counting underway and the PML-N leading in early results; the PPP alleged ballot tampering, exclusion of polling agents, and violence including a worker's death, claims the PML-N disputes and attributes instead to natural causes.",
       "sources": [
@@ -42,7 +194,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 11,
       "headline": "Electoral rolls shrink by 589,458 in less than two months as ECP removes 1.48m deceased voters",
       "summary": "AI summary: Pakistan's electoral rolls contracted by roughly 589,000 voters between May and July as the Election Commission struck about 1.48 million deceased voters from the register, outpacing nearly 895,000 new registrations, with Punjab accounting for the bulk of the net decline.",
       "sources": [
@@ -61,7 +213,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 12,
       "headline": "Defence minister Asif backs Naqvi's reform call, urges constitutional route",
       "summary": "AI summary: Defence Minister Khawaja Asif backed Interior Minister Mohsin Naqvi's push for governance reforms but said the changes should go through Parliament and Cabinet rather than be pitched directly to business leaders, noting most National Action Plan commitments assigned to the Interior Ministry remain unmet.",
       "sources": [
@@ -80,7 +232,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 13,
       "headline": "Odorization plant testing causes unusual gas smell in parts of Karachi: SSGC",
       "summary": "AI summary: SSGC said an unusually strong gas odour reported in parts of Karachi near Abul Hasan Isphahani Road came from routine testing of odorization equipment during new pipeline commissioning, adding that system pressure remained normal and no leak occurred.",
       "sources": [
