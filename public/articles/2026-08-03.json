@@ -1,8 +1,85 @@
 {
-  "generatedAt": "2026-08-03T10:20:05+05:00",
+  "generatedAt": "2026-08-03T17:08:10+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "Death toll from suicide bombing near police station in Swat rises to 19",
+      "summary": "AI summary: The death toll from Sunday's suicide bombing at the gate of Kabal police station in Swat rose to 19 after four more victims died in hospital, Swat police said, as Khyber Pakhtunkhwa's chief minister visited bereaved families, allocated Rs20 billion to counter-terrorism efforts, and residents planned a protest for August 7 demanding lasting peace.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2020350/death-toll-from-suicide-bombing-near-police-station-in-swat-rises-to-19" }
+      ],
+      "timestamp": "Aug 3, 5:00 PM",
+      "publishedAt": "2026-08-03T17:00:59+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct effect on jobs, prices, or business activity beyond the counter-terrorism budget allocation, which is a security rather than economic measure." },
+        "political": { "value": "negative", "reason": "A rising death toll from a terrorist attack on police, followed by a planned public protest demanding government action, signals continued security and governance stability concerns." },
+        "social": { "value": "negative", "reason": "Four additional deaths and a planned protest reflect ongoing harm to public safety and community wellbeing." },
+        "market": { "value": "low", "reason": "A regional security incident update with no direct bearing on markets or business decisions." },
+        "lean": { "value": "balanced", "reason": "Straightforward reporting attributed to a named police spokesperson and the chief minister's visit, without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on a full article read with a specific named source, though from a single outlet." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Cleric killed after explosion at supermarket in South Waziristan's Wana",
+      "summary": "AI summary: A cleric, Mufti Jana Mir Masti Khel, died after a suspected pressure bomb exploded at a supermarket in Wana, South Waziristan, with police believing the device was planted to target him specifically, part of a recent pattern of attacks on clerics in the area including a shooting three days earlier and a July 28 attack near a mosque in Birmal.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2020348/cleric-killed-after-explosion-at-supermarket-in-south-waziristans-wana" }
+      ],
+      "timestamp": "Aug 3, 4:55 PM",
+      "publishedAt": "2026-08-03T16:55:36+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A targeted killing with no direct bearing on jobs, prices, or business activity." },
+        "political": { "value": "negative", "reason": "Part of a recent pattern of targeted attacks on clerics in the region, signaling persistent security and governance stability concerns in South Waziristan." },
+        "social": { "value": "negative", "reason": "A targeted killing directly harms public safety and reflects an ongoing threat to community members." },
+        "market": { "value": "low", "reason": "A localized security incident with minimal relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Factual reporting attributing the cause to police investigators, with no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on a full article read, though the cause and perpetrators remain under preliminary police investigation from a single source." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Iran denies negotiations with US after Trump announces talks",
+      "summary": "AI summary: Iran's Foreign Ministry denied holding direct negotiations with the United States after President Trump announced talks were set to begin, with spokesperson Esmaeil Baqaei saying Iran is instead in discussions with Oman over a temporary safe shipping route through the Strait of Hormuz, contradicting Trump's characterization of the exchange as bilateral talks.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2020319/iran-denies-negotiations-with-us-after-trump-announces-talks" }
+      ],
+      "timestamp": "Aug 3, 2:24 PM",
+      "publishedAt": "2026-08-03T14:24:21+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "The denial itself adds diplomatic uncertainty but states no new distinct economic effect beyond the oil price move already tied to Trump's original announcement." },
+        "political": { "value": "neutral", "reason": "A US-Iran diplomatic disagreement over characterization with no direct bearing on Pakistan's own institutional or governance stability." },
+        "social": { "value": "neutral", "reason": "A diplomatic clarification with no direct effect on public wellbeing or daily life." },
+        "market": { "value": "medium", "reason": "Conflicting signals over the status of US-Iran talks add uncertainty relevant to Strait of Hormuz shipping and oil markets, though less directly than the original de-escalation news." },
+        "lean": { "value": "balanced", "reason": "Presents both Trump's claim of imminent talks and Iran's explicit denial and counter-framing, without favoring either account." },
+        "confidence": { "value": "medium", "reason": "Based on a full article read with a named Iranian official quoted, but the overall diplomatic situation remains fluid and disputed." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "PML-N secures simple majority to form govt in AJK, says Rana Sanaullah",
+      "summary": "AI summary: PML-N has secured a simple majority, winning 23 of 45 seats to form the next Azad Jammu and Kashmir government, according to Adviser to the PM on Political Affairs Rana Sanaullah, with PPP taking the remaining contested seats and Prime Minister Shehbaz Sharif congratulating the party on the result; a third phase covering Poonch division seats remains pending.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2020320/pm-shehbaz-congratulates-pml-n-after-party-maintains-lead-in-second-phase-of-ajk-polls" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433077/pml-n-secures-simple-majority-to-form-govt-in-ajk-says-rana-sanaullah" }
+      ],
+      "timestamp": "Aug 3, 1:23 PM",
+      "publishedAt": "2026-08-03T13:23:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "An electoral outcome with no direct bearing on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "Reports a confirmed election outcome and government statements without new claims of instability beyond what earlier disputed cards already captured." },
+        "social": { "value": "neutral", "reason": "An electoral results story with no direct effect on daily public life." },
+        "market": { "value": "low", "reason": "A regional election outcome carries limited direct relevance to markets or investors." },
+        "lean": { "value": "balanced", "reason": "Leans on official PML-N and PM's office statements without including PPP's rigging allegations from other coverage, but it is not confidently established which party currently holds government versus opposition status, so lean defaults to balanced." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two outlets on the core seat count, though exact seat breakdowns differ slightly between sources and government/opposition status is not confidently known." }
+      }
+    },
+    {
+      "id": 5,
       "headline": "Trump says new Iran talks set to start today after calling off massive attack",
       "summary": "AI summary: President Trump said he called off a planned large-scale strike on Iran, describing negotiations set to begin Monday afternoon after Iran and Gulf states reportedly urged restraint, while Iranian officials framed talks around the Strait of Hormuz and holding the US to its commitments; oil prices fell 4.7% on the news.",
       "sources": [
@@ -21,7 +98,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 6,
       "headline": "Move to create over 100 new additional assistant commissioner posts in Punjab opposed",
       "summary": "AI summary: Punjab's government plans to create 101 new Additional Assistant Commissioner posts by converting section officer positions, but the Provincial Management Service officers' association is opposing the move, calling it costly (an estimated Rs4.73 billion annually) and unnecessary given the existing PERA enforcement force, and has threatened protests starting Tuesday.",
       "sources": [
@@ -40,7 +117,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 7,
       "headline": "Naqvi's call for new provinces faces fresh pushback",
       "summary": "AI summary: Interior Minister Mohsin Naqvi's proposal to create new provinces to fix governance drew fresh criticism, with Defence Minister Khawaja Asif saying such changes should go through parliament rather than be pitched to a captive audience, and PPP's Raza Rabbani arguing governance failures stem from constitutional violations rather than the existing provincial setup.",
       "sources": [
@@ -59,7 +136,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 8,
       "headline": "PML-N poised to grab lion's share in AJK",
       "summary": "AI summary: Unofficial results from the second phase of AJK's Legislative Assembly elections show PML-N leading with around 10 of 12 refugee constituencies and at least two territorial seats, while PPP secured four seats; two constituencies had polling postponed to Tuesday due to landslides, and PPP's Bilawal Bhutto-Zardari alleged the PML-N was 'robbing votes' through coercion following a worker's disputed death, a claim PML-N denies.",
       "sources": [
@@ -78,7 +155,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 9,
       "headline": "Quetta mine victims' families: KP announces financial aid",
       "summary": "AI summary: Khyber Pakhtunkhwa's provincial minister for minerals visited bereaved families in Shangla on the chief minister's instructions, announcing Rs1 million in financial assistance per victim of the Quetta mine tragedy, pledging coordination with Balochistan for a transparent investigation, and vowing to shut down mines violating safety standards.",
       "sources": [
@@ -97,7 +174,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 10,
       "headline": "Railways Police recover 32 tonnes of stolen material",
       "summary": "AI summary: Pakistan Railways Police in Karachi recovered roughly 32 tonnes of stolen railway tracks and material worth millions of rupees and arrested six suspects, acting on the railways police chief's directions.",
       "sources": [
@@ -116,7 +193,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 11,
       "headline": "Railways retrieves 2,552 acres of encroached land",
       "summary": "AI summary: Pakistan Railways said it has recovered 2,552 acres of encroached land nationwide over the last five financial years as part of an ongoing anti-encroachment campaign to protect state assets.",
       "sources": [
@@ -135,7 +212,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 12,
       "headline": "Pakistan embassy organises mango festival in Tehran",
       "summary": "AI summary: The Pakistan Embassy in Tehran held its first Pakistan Mango Festival at Palladium Mall, showcasing Pakistani mangoes and highlighting Pakistan-Iran cultural and trade ties.",
       "sources": [
@@ -154,7 +231,7 @@
       }
     },
     {
-      "id": 9,
+      "id": 13,
       "headline": "Suicide bombing at Swat police station kills 14, injures over 25",
       "summary": "AI summary: A suicide bomber detonated explosives at the gate of Kabal police station in Swat on Sunday as security tried to stop him, killing at least 14 people, mostly police officers, and injuring around 18-25 others during a nearby anti-terrorism protest. No group has claimed responsibility, and authorities have cordoned off the area for investigation.",
       "sources": [
@@ -174,7 +251,7 @@
       }
     },
     {
-      "id": 10,
+      "id": 14,
       "headline": "Second phase of AJK polls concludes amid renewed rigging allegations by PPP",
       "summary": "AI summary: Voting wrapped up in the second phase of Azad Jammu and Kashmir's elections across Muzaffarabad and refugee constituencies, with counting underway and the PML-N leading in early results; the PPP alleged ballot tampering, exclusion of polling agents, and violence including a worker's death, claims the PML-N disputes and attributes instead to natural causes.",
       "sources": [
@@ -194,7 +271,7 @@
       }
     },
     {
-      "id": 11,
+      "id": 15,
       "headline": "Electoral rolls shrink by 589,458 in less than two months as ECP removes 1.48m deceased voters",
       "summary": "AI summary: Pakistan's electoral rolls contracted by roughly 589,000 voters between May and July as the Election Commission struck about 1.48 million deceased voters from the register, outpacing nearly 895,000 new registrations, with Punjab accounting for the bulk of the net decline.",
       "sources": [
@@ -213,7 +290,7 @@
       }
     },
     {
-      "id": 12,
+      "id": 16,
       "headline": "Defence minister Asif backs Naqvi's reform call, urges constitutional route",
       "summary": "AI summary: Defence Minister Khawaja Asif backed Interior Minister Mohsin Naqvi's push for governance reforms but said the changes should go through Parliament and Cabinet rather than be pitched directly to business leaders, noting most National Action Plan commitments assigned to the Interior Ministry remain unmet.",
       "sources": [
@@ -232,7 +309,7 @@
       }
     },
     {
-      "id": 13,
+      "id": 17,
       "headline": "Odorization plant testing causes unusual gas smell in parts of Karachi: SSGC",
       "summary": "AI summary: SSGC said an unusually strong gas odour reported in parts of Karachi near Abul Hasan Isphahani Road came from routine testing of odorization equipment during new pipeline commissioning, adding that system pressure remained normal and no leak occurred.",
       "sources": [
