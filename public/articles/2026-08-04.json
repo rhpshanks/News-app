@@ -1,8 +1,47 @@
 {
-  "generatedAt": "2026-08-04T17:12:03+05:00",
+  "generatedAt": "2026-08-04T20:18:32+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "Main Chehlum procession concludes peacefully in Karachi amid heavy security",
+      "summary": "AI summary: Karachi's main Chehlum (Arbaeen) procession, marking the 40th day of mourning for Imam Husain's martyrdom, concluded peacefully along its route from MA Jinnah Road to Hussainia Iranian Imambargah, with police deploying nearly 11,500 officers citywide across processions, majalis, and imambargahs and closing intersecting roads around the route and Nishtar Park.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2020561/main-chehlum-procession-concludes-peacefully-in-karachi-amid-heavy-security" }
+      ],
+      "timestamp": "Aug 4, 8:16 PM",
+      "publishedAt": "2026-08-04T20:16:15+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A religious procession and its security operation have no direct bearing on economic activity." },
+        "political": { "value": "neutral", "reason": "A routine, successfully managed security operation for an annual religious observance, with no evident institutional impact." },
+        "social": { "value": "positive", "reason": "The procession concluded peacefully thanks to a large, well-organised security deployment, protecting public safety during a major religious observance." },
+        "market": { "value": "low", "reason": "No meaningful relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Factual security and logistics reporting with no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on a single full-text source (Dawn News), though figures and route details are specific and attributed to police officials." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Dar to attend ministerial meeting in Jordan on deteriorating situation in occupied Jerusalem",
+      "summary": "AI summary: Deputy PM and Foreign Minister Ishaq Dar will travel to Jordan on August 5 to join a ministerial meeting of Arab League and Islamic-nation foreign ministers, called by Jordan's Deputy PM Ayman Al Safadi, to forge a unified position on the deteriorating situation in occupied Jerusalem, with attendees also meeting King Abdullah II and Dar holding bilateral talks on Palestine and regional developments.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433282/fm-dar-to-attend-ministerial-meeting-on-jerusalem-in-jordan" },
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2020574/dar-to-attend-ministerial-meeting-in-jordan-on-deteriorating-situation-in-occupied-jerusalem-fo" }
+      ],
+      "timestamp": "Aug 4, 6:35 PM",
+      "publishedAt": "2026-08-04T18:35:57+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Diplomatic participation in a multilateral meeting has no direct bearing on economic activity." },
+        "political": { "value": "neutral", "reason": "Routine multilateral diplomacy reaffirming Pakistan's established Palestine policy, with no evident effect on domestic institutional stability." },
+        "social": { "value": "neutral", "reason": "No direct, immediate impact on Pakistani citizens' daily life." },
+        "market": { "value": "low", "reason": "A diplomatic meeting on Jerusalem carries only limited, indirect relevance to markets absent any concrete policy or trade outcome." },
+        "lean": { "value": "balanced", "reason": "Both outlets report the Foreign Office's own statements on Dar's travel and agenda without partisan framing." },
+        "confidence": { "value": "high", "reason": "Corroborated by two independent outlets (Business Recorder, Dawn News) with matching details on Dar's travel, the invitation, and the meeting's purpose." }
+      }
+    },
+    {
+      "id": 3,
       "headline": "AJK elections: Voting concludes in two constituencies as PPP again alleges rigging",
       "summary": "AI summary: Voting concluded in two Azad Jammu and Kashmir constituencies that had been postponed due to landslides, with PPP alleging ballot stuffing, voter obstruction, and workers firing weapons to intimidate residents, claims the Election Commission dismissed as unverified pending forensic review, while PML-N dismissed the accusations as sore-loser politics.",
       "sources": [
@@ -21,7 +60,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 4,
       "headline": "Cop allegedly rapes woman inside Lahore police station; entire staff suspended",
       "summary": "AI summary: An assistant sub-inspector allegedly raped a mentally impaired 20-year-old woman inside Lahore's Ghaziabad police station after taking her there on a motorcycle, prompting the suspension of the entire station staff of over 70 personnel and an FIR under rape and Police Order charges, with police leadership citing the staff's failure to question why the woman was brought in without female personnel present.",
       "sources": [
@@ -40,7 +79,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 5,
       "headline": "Interior minister approves uniform system for issuing police character certificate",
       "summary": "AI summary: Interior Minister Mohsin Naqvi approved a nationwide uniform system for issuing police character certificates through the National Police Bureau, replacing a fragmented process with one the ministry says will be streamlined, accelerated, and fully online, and also directed a standardized international driving permit process to ease travel abroad for citizens.",
       "sources": [
@@ -59,7 +98,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 6,
       "headline": "Iran expresses interest in expanding economic cooperation with Pakistan through Karachi, Gwadar ports",
       "summary": "AI summary: Iran's Industry Minister Mohammad Atabak met Pakistan's Commerce Minister Jam Kamal Khan in Islamabad for the 10th Pakistan-Iran Joint Trade Committee session, with both sides voicing commitment to expanding trade through Karachi and Gwadar ports and advancing a bilateral free trade agreement.",
       "sources": [
@@ -78,7 +117,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 7,
       "headline": "Business Recorder photojournalist Ikram Mehdi passes away at 79",
       "summary": "AI summary: Business Recorder's longtime staff photojournalist Ikram Mehdi, who had worked at the publication since 2003, died on Tuesday at age 79, with his funeral held the same day in Karachi.",
       "sources": [
@@ -97,7 +136,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 8,
       "headline": "Pakistan gets a pass on new US visa bond rule",
       "summary": "AI summary: Pakistan was excluded from a new US State Department program, now made permanent, that requires visitors from 50 other countries to post a $10,000-$20,000 bond before receiving B-1/B-2 visas, a measure officials say sharply cut visa overstays during its pilot phase.",
       "sources": [
@@ -116,7 +155,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 9,
       "headline": "Dar, Araghchi discuss regional situation",
       "summary": "AI summary: Pakistan's Deputy PM and Foreign Minister Ishaq Dar spoke with Iranian Foreign Minister Abbas Araghchi, discussing regional tensions including the situation in the Palestinian territories, and invited him (alongside Iran's parliament speaker) to visit Pakistan for consultations, amid escalating US-Iran tensions in which Iran has named Pakistan a key mediator.",
       "sources": [
@@ -136,7 +175,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 10,
       "headline": "Voters in AJK endorse Punjab govt's track record: Minister",
       "summary": "AI summary: Punjab Housing Minister Bilal Yasin told a public forum that voters in Azad Jammu and Kashmir had endorsed the provincial government's performance, while also inspecting Lahore drainage operations and ordering greater monsoon preparedness.",
       "sources": [
@@ -155,7 +194,7 @@
       }
     },
     {
-      "id": 9,
+      "id": 11,
       "headline": "LHC overrules Registrar's objection",
       "summary": "AI summary: The Lahore High Court dismissed a registrar's procedural objection to a PTI leader's petition seeking permission for an August 5 rally at Minar-e-Pakistan, after the organiser said his request to the Deputy Commissioner had gone unanswered since July 22, and directed the registrar to fix a hearing date.",
       "sources": [
@@ -174,7 +213,7 @@
       }
     },
     {
-      "id": 10,
+      "id": 12,
       "headline": "Govt slashes petrol price by Rs4.08, high-speed diesel by Rs2.45",
       "summary": "AI summary: The government cut petrol prices by Rs4.08 and high-speed diesel by Rs2.45 per litre effective August 4, following President Trump's decision to call off a planned military strike on Iran in favour of diplomatic talks, which eased the geopolitical pressure that had driven fuel prices to record highs earlier this year.",
       "sources": [
