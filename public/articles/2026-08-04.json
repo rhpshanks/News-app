@@ -1,0 +1,139 @@
+{
+  "generatedAt": "2026-08-04T12:47:20+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Iran expresses interest in expanding economic cooperation with Pakistan through Karachi, Gwadar ports",
+      "summary": "AI summary: Iran's Industry Minister Mohammad Atabak met Pakistan's Commerce Minister Jam Kamal Khan in Islamabad for the 10th Pakistan-Iran Joint Trade Committee session, with both sides voicing commitment to expanding trade through Karachi and Gwadar ports and advancing a bilateral free trade agreement.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2020537/iran-expresses-interest-in-expanding-economic-cooperation-with-pakistan-through-karachi-gwadar-ports" }
+      ],
+      "timestamp": "Aug 4, 12:37 PM",
+      "publishedAt": "2026-08-04T12:37:18+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Expanded trade cooperation and progress toward a free trade agreement could boost bilateral commerce and port activity." },
+        "political": { "value": "neutral", "reason": "Routine bilateral trade diplomacy with no evident effect on domestic institutional stability." },
+        "social": { "value": "neutral", "reason": "Trade committee talks have no immediate direct impact on daily public life." },
+        "market": { "value": "medium", "reason": "Relevant to businesses and investors tracking Pakistan-Iran trade routes and the pending free trade agreement." },
+        "lean": { "value": "balanced", "reason": "Report presents statements from both Iranian and Pakistani officials without favoring a domestic political side." },
+        "confidence": { "value": "medium", "reason": "Based on a single full-text source (Dawn News); no corroborating outlet in today's set." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Business Recorder photojournalist Ikram Mehdi passes away at 79",
+      "summary": "AI summary: Business Recorder's longtime staff photojournalist Ikram Mehdi, who had worked at the publication since 2003, died on Tuesday at age 79, with his funeral held the same day in Karachi.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433252/business-recorder-photojournalist-ikram-mehdi-passes-away-at-79" }
+      ],
+      "timestamp": "Aug 4, 12:19 PM",
+      "publishedAt": "2026-08-04T12:19:05+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "An obituary has no bearing on economic activity." },
+        "political": { "value": "neutral", "reason": "No connection to institutional or governance matters." },
+        "social": { "value": "neutral", "reason": "A personal loss for the individual's family and colleagues, without broader public wellbeing impact." },
+        "market": { "value": "low", "reason": "No relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "A respectful factual obituary with no political framing." },
+        "confidence": { "value": "medium", "reason": "Based only on the RSS description excerpt since the article page returned 403, though the stated facts are simple and specific." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Pakistan gets a pass on new US visa bond rule",
+      "summary": "AI summary: Pakistan was excluded from a new US State Department program, now made permanent, that requires visitors from 50 other countries to post a $10,000-$20,000 bond before receiving B-1/B-2 visas, a measure officials say sharply cut visa overstays during its pilot phase.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2020480/pakistan-gets-a-pass-on-new-us-visa-bond-rule" }
+      ],
+      "timestamp": "Aug 4, 7:57 AM",
+      "publishedAt": "2026-08-04T07:57:38+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "The rule change doesn't directly affect Pakistan's economy since Pakistan is exempted." },
+        "political": { "value": "neutral", "reason": "A US administrative visa policy with no direct bearing on Pakistani governance or institutions." },
+        "social": { "value": "positive", "reason": "Pakistani travelers avoid a costly new bond requirement that citizens of other listed countries must now meet." },
+        "market": { "value": "low", "reason": "Limited direct relevance to Pakistani markets or business decisions." },
+        "lean": { "value": "balanced", "reason": "Factual reporting on a US policy decision, not framed around domestic Pakistani politics." },
+        "confidence": { "value": "medium", "reason": "Based on a single full-text source (Dawn News) citing State Department figures." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Dar, Araghchi discuss regional situation",
+      "summary": "AI summary: Pakistan's Deputy PM and Foreign Minister Ishaq Dar spoke with Iranian Foreign Minister Abbas Araghchi, discussing regional tensions including the situation in the Palestinian territories, and invited him (alongside Iran's parliament speaker) to visit Pakistan for consultations, amid escalating US-Iran tensions in which Iran has named Pakistan a key mediator.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433186/dar-araghchi-discuss-regional-situation" },
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2020482/pakistan-to-host-iranian-officials-as-trumps-patience-wears-thin" }
+      ],
+      "timestamp": "Aug 4, 3:37 AM",
+      "publishedAt": "2026-08-04T03:37:19+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Diplomatic talks and invitations don't directly move economic indicators." },
+        "political": { "value": "neutral", "reason": "Pakistan strengthens its diplomatic mediator role, but the outcome of the underlying US-Iran tensions remains highly uncertain." },
+        "social": { "value": "neutral", "reason": "No direct, immediate impact on Pakistani citizens' daily life from this diplomatic exchange." },
+        "market": { "value": "medium", "reason": "Escalating US-Iran tensions and Pakistan's mediating role carry potential market relevance given past oil-price volatility tied to the conflict." },
+        "lean": { "value": "balanced", "reason": "Both outlets report official statements from Pakistani and Iranian officials without evident partisan framing." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two independent outlets (Business Recorder, Dawn News) that align on the core details of Dar's call with Araghchi and the invitation." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Voters in AJK endorse Punjab govt's track record: Minister",
+      "summary": "AI summary: Punjab Housing Minister Bilal Yasin told a public forum that voters in Azad Jammu and Kashmir had endorsed the provincial government's performance, while also inspecting Lahore drainage operations and ordering greater monsoon preparedness.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433199/voters-in-ajk-endorse-punjab-govts-track-record-minister" }
+      ],
+      "timestamp": "Aug 4, 3:37 AM",
+      "publishedAt": "2026-08-04T03:37:19+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A political statement and routine monsoon-preparedness inspection, not an economic event." },
+        "political": { "value": "neutral", "reason": "A minister's self-assessment of voter approval is a routine political claim; current Punjab ruling-party status not confidently known, so no stability effect is asserted." },
+        "social": { "value": "positive", "reason": "Monsoon drainage preparedness directly concerns public safety and daily life during rains." },
+        "market": { "value": "low", "reason": "Minimal relevance to investors or broader market decisions." },
+        "lean": { "value": "balanced", "reason": "Not confidently certain which party currently holds government versus opposition in this context, so lean defaults to balanced rather than assuming a side." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS excerpt rather than the full article (page returned 403), and current ruling-party status is uncertain, limiting confidence in the lean assessment." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "LHC overrules Registrar's objection",
+      "summary": "AI summary: The Lahore High Court dismissed a registrar's procedural objection to a PTI leader's petition seeking permission for an August 5 rally at Minar-e-Pakistan, after the organiser said his request to the Deputy Commissioner had gone unanswered since July 22, and directed the registrar to fix a hearing date.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433205/lhc-overrules-registrars-objection" }
+      ],
+      "timestamp": "Aug 4, 3:37 AM",
+      "publishedAt": "2026-08-04T03:37:19+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A procedural court decision on a rally permit has no economic effect." },
+        "political": { "value": "neutral", "reason": "A procedural court decision to hear a petition, not a ruling on the rally itself; no clear effect on institutional stability shown yet." },
+        "social": { "value": "neutral", "reason": "Concerns a political rally permit process, with no direct current impact on public wellbeing or safety." },
+        "market": { "value": "low", "reason": "Not relevant to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Neutral procedural reporting of a court order; current government/opposition status not confidently known, so no side is judged as favored." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS excerpt rather than the full article (page returned 403), and current political-party status is uncertain." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Govt slashes petrol price by Rs4.08, high-speed diesel by Rs2.45",
+      "summary": "AI summary: The government cut petrol prices by Rs4.08 and high-speed diesel by Rs2.45 per litre effective August 4, following President Trump's decision to call off a planned military strike on Iran in favour of diplomatic talks, which eased the geopolitical pressure that had driven fuel prices to record highs earlier this year.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2020389/govt-slashes-petrol-price-by-rs408-high-speed-diesel-by-rs245" }
+      ],
+      "timestamp": "Aug 4, 12:40 AM",
+      "publishedAt": "2026-08-04T00:40:34+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Lower fuel prices ease transport and production costs for households and businesses." },
+        "political": { "value": "neutral", "reason": "A price adjustment via the existing Ogra mechanism, though dealers have objected to the daily-pricing shift." },
+        "social": { "value": "positive", "reason": "Cheaper petrol and diesel directly reduce the cost of living and transport for the public." },
+        "market": { "value": "medium", "reason": "Fuel pricing affects transport, logistics, and power-generation sectors that investors track." },
+        "lean": { "value": "balanced", "reason": "Straightforward reporting of a price change and its policy mechanism, without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on a single full-text source (Dawn News); figures are specific and attributed to official pricing but not cross-checked against another outlet." }
+      }
+    }
+  ]
+}
