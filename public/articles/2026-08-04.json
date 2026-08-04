@@ -1,8 +1,65 @@
 {
-  "generatedAt": "2026-08-04T12:47:20+05:00",
+  "generatedAt": "2026-08-04T17:12:03+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "AJK elections: Voting concludes in two constituencies as PPP again alleges rigging",
+      "summary": "AI summary: Voting concluded in two Azad Jammu and Kashmir constituencies that had been postponed due to landslides, with PPP alleging ballot stuffing, voter obstruction, and workers firing weapons to intimidate residents, claims the Election Commission dismissed as unverified pending forensic review, while PML-N dismissed the accusations as sore-loser politics.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2020547/ajk-elections-voting-concludes-in-two-constituencies-as-ppp-again-alleges-rigging" }
+      ],
+      "timestamp": "Aug 4, 5:06 PM",
+      "publishedAt": "2026-08-04T17:06:05+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A local election dispute has no bearing on economic activity." },
+        "political": { "value": "negative", "reason": "Unresolved rigging allegations, disputed videos, and public threats between federal coalition partners PPP and PML-N strain intra-coalition and institutional credibility." },
+        "social": { "value": "negative", "reason": "PPP's allegation that workers fired weapons to 'terrorise residents' near polling stations, even if unverified, raises public safety concerns around the vote." },
+        "market": { "value": "low", "reason": "A regional by-election dispute carries little direct relevance for investors or markets." },
+        "lean": { "value": "balanced", "reason": "Dawn reports PPP's allegations alongside the Election Commission's rebuttal and PML-N's dismissal, without favoring either side." },
+        "confidence": { "value": "low", "reason": "Central claims (ballot stuffing, gunfire) are unverified allegations from one party, explicitly disputed by the Election Commission and the opposing party." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Cop allegedly rapes woman inside Lahore police station; entire staff suspended",
+      "summary": "AI summary: An assistant sub-inspector allegedly raped a mentally impaired 20-year-old woman inside Lahore's Ghaziabad police station after taking her there on a motorcycle, prompting the suspension of the entire station staff of over 70 personnel and an FIR under rape and Police Order charges, with police leadership citing the staff's failure to question why the woman was brought in without female personnel present.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2020559/cop-allegedly-rapes-woman-inside-lahore-police-station-entire-staff-suspended" }
+      ],
+      "timestamp": "Aug 4, 5:06 PM",
+      "publishedAt": "2026-08-04T17:06:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A criminal case within a police station has no bearing on economic activity." },
+        "political": { "value": "negative", "reason": "A serious alleged assault by an on-duty officer inside a police station is a major institutional failure that undermines public trust in law enforcement, despite the swift suspension and FIR." },
+        "social": { "value": "negative", "reason": "A violent crime against a vulnerable woman by a police officer directly harms public safety and trust in state protection." },
+        "market": { "value": "low", "reason": "No relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Straightforward crime reporting citing the DIG's own confirmation and rationale for the mass suspension, with no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on a single full-text source (Dawn News), though the incident and disciplinary action are confirmed on record by the DIG (Operations)." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Interior minister approves uniform system for issuing police character certificate",
+      "summary": "AI summary: Interior Minister Mohsin Naqvi approved a nationwide uniform system for issuing police character certificates through the National Police Bureau, replacing a fragmented process with one the ministry says will be streamlined, accelerated, and fully online, and also directed a standardized international driving permit process to ease travel abroad for citizens.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433264/interior-minister-approves-uniform-system-for-issuing-police-character-certificate" }
+      ],
+      "timestamp": "Aug 4, 3:54 PM",
+      "publishedAt": "2026-08-04T15:54:48+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "An administrative digitization measure with only indirect efficiency benefits, not a direct economic effect." },
+        "political": { "value": "positive", "reason": "Standardizing and digitizing a previously fragmented bureaucratic process is a modest governance efficiency improvement." },
+        "social": { "value": "positive", "reason": "A faster, fully online process for a document citizens frequently need for travel and overseas employment eases a common bureaucratic burden." },
+        "market": { "value": "low", "reason": "Limited direct relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "A factual administrative announcement with no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based only on the RSS description excerpt since the article page returned 403, though the stated facts are specific and attributed to the minister." }
+      }
+    },
+    {
+      "id": 4,
       "headline": "Iran expresses interest in expanding economic cooperation with Pakistan through Karachi, Gwadar ports",
       "summary": "AI summary: Iran's Industry Minister Mohammad Atabak met Pakistan's Commerce Minister Jam Kamal Khan in Islamabad for the 10th Pakistan-Iran Joint Trade Committee session, with both sides voicing commitment to expanding trade through Karachi and Gwadar ports and advancing a bilateral free trade agreement.",
       "sources": [
@@ -21,7 +78,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 5,
       "headline": "Business Recorder photojournalist Ikram Mehdi passes away at 79",
       "summary": "AI summary: Business Recorder's longtime staff photojournalist Ikram Mehdi, who had worked at the publication since 2003, died on Tuesday at age 79, with his funeral held the same day in Karachi.",
       "sources": [
@@ -40,7 +97,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 6,
       "headline": "Pakistan gets a pass on new US visa bond rule",
       "summary": "AI summary: Pakistan was excluded from a new US State Department program, now made permanent, that requires visitors from 50 other countries to post a $10,000-$20,000 bond before receiving B-1/B-2 visas, a measure officials say sharply cut visa overstays during its pilot phase.",
       "sources": [
@@ -59,7 +116,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 7,
       "headline": "Dar, Araghchi discuss regional situation",
       "summary": "AI summary: Pakistan's Deputy PM and Foreign Minister Ishaq Dar spoke with Iranian Foreign Minister Abbas Araghchi, discussing regional tensions including the situation in the Palestinian territories, and invited him (alongside Iran's parliament speaker) to visit Pakistan for consultations, amid escalating US-Iran tensions in which Iran has named Pakistan a key mediator.",
       "sources": [
@@ -79,7 +136,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 8,
       "headline": "Voters in AJK endorse Punjab govt's track record: Minister",
       "summary": "AI summary: Punjab Housing Minister Bilal Yasin told a public forum that voters in Azad Jammu and Kashmir had endorsed the provincial government's performance, while also inspecting Lahore drainage operations and ordering greater monsoon preparedness.",
       "sources": [
@@ -98,7 +155,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 9,
       "headline": "LHC overrules Registrar's objection",
       "summary": "AI summary: The Lahore High Court dismissed a registrar's procedural objection to a PTI leader's petition seeking permission for an August 5 rally at Minar-e-Pakistan, after the organiser said his request to the Deputy Commissioner had gone unanswered since July 22, and directed the registrar to fix a hearing date.",
       "sources": [
@@ -117,7 +174,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 10,
       "headline": "Govt slashes petrol price by Rs4.08, high-speed diesel by Rs2.45",
       "summary": "AI summary: The government cut petrol prices by Rs4.08 and high-speed diesel by Rs2.45 per litre effective August 4, following President Trump's decision to call off a planned military strike on Iran in favour of diplomatic talks, which eased the geopolitical pressure that had driven fuel prices to record highs earlier this year.",
       "sources": [
