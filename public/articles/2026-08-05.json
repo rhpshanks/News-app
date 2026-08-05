@@ -1,8 +1,141 @@
 {
-  "generatedAt": "2026-08-05T00:29:24+05:00",
+  "generatedAt": "2026-08-05T09:28:57+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "Two gas utilities to become five",
+      "summary": "AI summary: Pakistan's Petroleum Division is moving to split SNGPL and SSGCL into five entities, a new gas transmission company plus four regional distribution firms, mirroring the earlier power-sector unbundling, with World Bank backing but resistance from the utilities themselves and past warnings that the new distribution units could become loss-making.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2020700/two-gas-utilities-to-become-five" }
+      ],
+      "timestamp": "Aug 5, 7:53 AM",
+      "publishedAt": "2026-08-05T07:53:08+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A structural reform still pending prime ministerial approval; consultants previously warned the new distribution units could become loss-making, so near-term effects on jobs, prices or business are uncertain." },
+        "political": { "value": "neutral", "reason": "A sector-restructuring policy process mirroring the earlier power-sector unbundling, not a matter of institutional or governance stability." },
+        "social": { "value": "neutral", "reason": "Still a proposal awaiting approval and a transaction adviser; no immediate effect on the public's daily life." },
+        "market": { "value": "medium", "reason": "Relevant to energy-sector investors and the two utilities involved, though the plan is not yet approved or implemented." },
+        "lean": { "value": "balanced", "reason": "Reports the government and World Bank's rationale alongside the utilities' and consultants' opposition and financial concerns." },
+        "confidence": { "value": "medium", "reason": "Single full-text source with detailed, specific figures, but not independently corroborated by another outlet." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "PTI all set to 'take to streets' for Imran's release today",
+      "summary": "AI summary: PTI is holding nationwide protests marking three years since Imran Khan's imprisonment, with rallies planned in Peshawar, Karachi, Rawalpindi and other cities demanding his release, after Rawalpindi authorities denied permission for a Liaquat Bagh gathering citing security concerns and Kashmir Solidarity Day, and police detained nine party activists.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2020688/pti-all-set-to-take-to-streets-for-imrans-release-today" }
+      ],
+      "timestamp": "Aug 5, 7:38 AM",
+      "publishedAt": "2026-08-05T07:38:36+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Planned protests have no quantified direct economic effect reported in the article." },
+        "political": { "value": "negative", "reason": "Nationwide opposition protests over a jailed party founder, denied permits, and activist arrests reflect visible political tension between the state and the opposition." },
+        "social": { "value": "negative", "reason": "Large planned rallies, denied permits and arrests carry a real risk of disruption and unrest in the affected cities." },
+        "market": { "value": "medium", "reason": "Sustained opposition mobilisation and street protests can weigh on business activity and investor sentiment in affected cities." },
+        "lean": { "value": "balanced", "reason": "Reports PTI's rally plans and demands alongside the administration's stated security rationale for denying permits, without evident one-sided framing." },
+        "confidence": { "value": "medium", "reason": "Single full-text source with specific, detailed logistics, but not corroborated by another outlet." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "All foreign media personnel to require NOC from info ministry for news coverage outside Islamabad, Lahore and Karachi",
+      "summary": "AI summary: Pakistan's Information Ministry has introduced Foreign Media Facilitation Guidelines 2026 requiring accredited foreign journalists to obtain a no-objection certificate before travelling outside Islamabad, Lahore and Karachi for coverage, with online registration, two accreditation tiers, and processing times of up to six weeks.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2020579/all-foreign-media-personnel-to-require-noc-from-info-ministry-for-news-coverage-outside-islamabad-lahore-and-karachi" }
+      ],
+      "timestamp": "Aug 5, 7:30 AM",
+      "publishedAt": "2026-08-05T07:30:51+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "An administrative accreditation rule with no direct bearing on jobs, prices or business activity." },
+        "political": { "value": "neutral", "reason": "A new bureaucratic registration process for foreign press, not itself a matter of institutional or governance stability." },
+        "social": { "value": "neutral", "reason": "Affects foreign journalists' access rather than the Pakistani public's daily life directly." },
+        "market": { "value": "low", "reason": "Limited direct relevance to investors, though it could marginally affect Pakistan's international media coverage and image." },
+        "lean": { "value": "balanced", "reason": "Presents the ministry's own stated rationale and procedural details factually, without contested claims from another side." },
+        "confidence": { "value": "medium", "reason": "Single full-text source with detailed procedural specifics, but no independent corroboration or outside reaction yet." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Military reaffirms solidarity with IIOJK people",
+      "summary": "AI summary: Pakistan's military leadership, including the army, navy and air force chiefs, issued a Youm-e-Istehsal statement expressing solidarity with Kashmiris, condemning what it called a military siege and human rights violations in occupied Kashmir, and calling for a settlement aligned with UN resolutions.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433377/military-reaffirms-solidarity-with-iiojk-people" }
+      ],
+      "timestamp": "Aug 5, 7:20 AM",
+      "publishedAt": "2026-08-05T07:20:51+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A commemorative solidarity statement with no economic content." },
+        "political": { "value": "neutral", "reason": "An annual statement on a longstanding, cross-party consensus foreign-policy position, not a domestic institutional stability matter." },
+        "social": { "value": "neutral", "reason": "No direct effect on the Pakistani public's daily life or safety." },
+        "market": { "value": "low", "reason": "Minimal relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "A descriptive account of an official statement on a topic with broad cross-party consensus in Pakistan." },
+        "confidence": { "value": "medium", "reason": "Working from the RSS description excerpt from a single outlet rather than the full article." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "PM reaffirms diplomatic, moral support to Kashmiris",
+      "summary": "AI summary: On Youm-e-Istehsal, PM Shehbaz Sharif reaffirmed Pakistan's diplomatic support for Kashmiris, calling India's August 2019 revocation of the region's special status illegal and urging the international community to press India over alleged rights violations and enable self-determination under UN resolutions.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433380/pm-reaffirms-diplomatic-moral-support-to-kashmiris" }
+      ],
+      "timestamp": "Aug 5, 7:13 AM",
+      "publishedAt": "2026-08-05T07:13:25+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic statement with no economic content." },
+        "political": { "value": "neutral", "reason": "Reaffirms Pakistan's longstanding, cross-party consensus position on Kashmir; not an institutional stability matter." },
+        "social": { "value": "neutral", "reason": "No direct effect on the Pakistani public's daily life." },
+        "market": { "value": "low", "reason": "Minimal relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Reflects a longstanding cross-party national consensus position rather than partisan framing." },
+        "confidence": { "value": "medium", "reason": "Working from the RSS description excerpt from a single outlet, though it includes direct quotes." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Interior minister's statement: PTI leader urges PM to seek vote of confidence",
+      "summary": "AI summary: PTI interim chairman Barrister Gohar Ali Khan called on PM Shehbaz Sharif to seek a fresh vote of confidence, arguing the government has lost public confidence over the interior minister's recent statements and criticism from a coalition partner, and announced a PTI movement demanding Imran Khan's release after three years in detention.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433359/interior-ministers-statement-pti-leader-urges-pm-to-seek-vote-of-confidence" }
+      ],
+      "timestamp": "Aug 5, 5:45 AM",
+      "publishedAt": "2026-08-05T05:45:51+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "An opposition political demand with no direct economic content." },
+        "political": { "value": "negative", "reason": "A direct opposition challenge to the PM's mandate, combined with reported coalition-partner criticism, signals visible strain on the governing coalition." },
+        "social": { "value": "neutral", "reason": "An elite political dispute with no immediate direct effect on public wellbeing or daily life." },
+        "market": { "value": "medium", "reason": "Signs of coalition friction and challenges to the government's standing can weigh on investor sentiment." },
+        "lean": { "value": "pro-opposition", "reason": "The excerpt presents only PTI's claims and demands about the interior minister and coalition criticism, with no government rebuttal included." },
+        "confidence": { "value": "medium", "reason": "Working from the RSS description excerpt from a single, one-sided source rather than the full article." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Sindh and Punjab: 5 killed, 16 hurt in rain-related incidents",
+      "summary": "AI summary: Pakistan's disaster management authority reported five more deaths and sixteen injuries from monsoon rain incidents in Sindh and Punjab over 24 hours, taking this monsoon season's toll to 141 dead and 434 injured, with over 1,160 houses damaged, and officials warned continued rain could raise river flows and trigger further flooding.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433365/sindh-and-punjab-5-killed-16-hurt-in-rain-related-incidents" }
+      ],
+      "timestamp": "Aug 5, 5:45 AM",
+      "publishedAt": "2026-08-05T05:45:51+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Cumulative monsoon damage of over 1,160 houses and 572 livestock lost represents real material and agricultural losses." },
+        "political": { "value": "neutral", "reason": "A disaster-response report from the disaster management authority, not a governance stability matter." },
+        "social": { "value": "negative", "reason": "Deaths, injuries and continued flood risk directly affect public safety and wellbeing." },
+        "market": { "value": "medium", "reason": "Cumulative flood damage affects agriculture and relief spending, relevant to businesses and insurers tracking seasonal risk." },
+        "lean": { "value": "balanced", "reason": "A factual report of official disaster-agency figures with no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Working from the RSS description excerpt with specific official figures, but not the full article." }
+      }
+    },
+    {
+      "id": 8,
       "headline": "AJK elections: PPP, IPP ahead in two Muzaffarabad constituencies",
       "summary": "AI summary: In Azad Jammu & Kashmir's delayed second-phase assembly polls, PPP and the newly formed IPP won two Muzaffarabad seats, drawing PPP level with PML-N in the division and giving IPP its first-ever assembly seat, while PPP alleged rigging and violence by PML-N that election officials said lacked sufficient authentication.",
       "sources": [
@@ -21,7 +154,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 9,
       "headline": "Govt reduces petrol price by Rs3.39, high-speed diesel by Rs4.07",
       "summary": "AI summary: Pakistan's Petroleum Division cut petrol by Rs3.39 and high-speed diesel by Rs4.07 per litre effective August 5, shifting to daily price adjustments in response to volatile international oil markets following renewed US-Iran hostilities.",
       "sources": [
@@ -40,7 +173,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 10,
       "headline": "Qatar says progress made toward US-Iran talks on ending war",
       "summary": "AI summary: Qatar said mediation between the US and Iran toward reopening the Strait of Hormuz has reached an advanced stage, though no deal is finalised yet; oil prices fell over 4% on the news even as Iran denied any substantive negotiations were underway.",
       "sources": [
@@ -59,7 +192,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 11,
       "headline": "Dar departs for ministerial meeting in Jordan on deteriorating situation in occupied Jerusalem: FO",
       "summary": "AI summary: Deputy PM and Foreign Minister Ishaq Dar has left for Jordan to join an Arab and Islamic ministerial meeting on the worsening situation in occupied Jerusalem, where he is also expected to call on King Abdullah II and hold bilateral talks with fellow foreign ministers on Palestine and regional developments.",
       "sources": [
@@ -79,7 +212,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 12,
       "headline": "Interior minister approves uniform system for issuing police character certificate",
       "summary": "AI summary: Interior Minister Mohsin Naqvi approved a uniform, fully online nationwide system for issuing police character certificates through the National Police Bureau, and also ordered a standardised process for international driving permits.",
       "sources": [
@@ -98,7 +231,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 13,
       "headline": "Business Recorder photojournalist Ikram Mehdi passes away at 79",
       "summary": "AI summary: Business Recorder's longtime senior photojournalist Ikram Mehdi has died at age 79 following a battle with heart disease, after working at the publication since 2003; he is survived by his wife and six children.",
       "sources": [
@@ -117,7 +250,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 14,
       "headline": "Dar, Araghchi discuss regional situation",
       "summary": "AI summary: Pakistan's Deputy PM and Foreign Minister Ishaq Dar spoke by phone with Iranian Foreign Minister Abbas Araghchi about regional and international developments, including the deteriorating situation in occupied East Jerusalem, and invited him to visit Pakistan.",
       "sources": [
