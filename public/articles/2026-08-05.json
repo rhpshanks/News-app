@@ -1,271 +1,732 @@
 {
-  "generatedAt": "2026-08-05T09:28:57+05:00",
+  "generatedAt": "2026-08-05T16:25:29+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "AJK elections: PML-N, PPP secure one seat each following delayed polls in Muzaffarabad constituencies",
+      "summary": "AI summary: In delayed Muzaffarabad-division polling for Azad Kashmir's assembly, PML-N's Noreen Arif narrowly won LA-27 by 298 votes while PPP's Syed Bazil Ali Naqvi took LA-28, extending PML-N's overall lead to 24 seats against PPP's 10 after two phases, with a final phase set for August 10.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2020768/ajk-elections-pml-n-ppp-secure-one-seat-each-following-delayed-polls-in-muzaffarabad-constituencies"
+        }
+      ],
+      "timestamp": "Aug 5, 3:12 PM",
+      "publishedAt": "2026-08-05T15:12:37+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Routine by-election results carry no direct bearing on jobs, prices or business activity."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Results split between PML-N and PPP in a normal electoral process, though the broader AJK election has seen isolated rigging allegations elsewhere."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Local electoral outcome with limited direct effect on public wellbeing or safety."
+        },
+        "market": {
+          "value": "low",
+          "reason": "AJK assembly results have no material bearing on investors or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports vote counts and margins for both PML-N and PPP without favoring either side."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single-source (Dawn) full-article read of a factual, numbers-based report."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "DPM Dar, Jordanian counterpart discuss deteriorating situation in occupied West Bank",
+      "summary": "AI summary: Deputy PM Ishaq Dar met Jordan's Ayman Safadi in Amman on the sidelines of a ministerial conference on Jerusalem, where the two discussed worsening conditions in the occupied West Bank and pledged closer coordination on regional de-escalation and bilateral ties.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2020765/dpm-dar-jordanian-counterpart-discuss-deteriorating-situation-in-occupied-west-bank"
+        }
+      ],
+      "timestamp": "Aug 5, 2:07 PM",
+      "publishedAt": "2026-08-05T14:07:09+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Diplomatic meeting with only a passing mention of economic ties; no concrete economic impact."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "Reflects continued diplomatic coordination and coalition-building with Jordan and other Muslim-majority states, reinforcing Pakistan's institutional standing abroad."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Concerns Palestinian/regional affairs with no direct effect on Pakistani daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not relevant to investors or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports Pakistan's stated diplomatic position factually without domestic partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single-source (Dawn) full-article read."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Trump warns Iran to open Strait of Hormuz or get 'hit very hard'",
+      "summary": "AI summary: President Trump said Iran must reopen the Strait of Hormuz or face being 'hit very hard,' claiming a deal could come within days even as Tehran publicly denies talks are underway, amid continuing attacks on shipping in the strait and Red Sea.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2020745/trump-warns-iran-to-open-strait-of-hormuz-or-get-hit-very-hard"
+        }
+      ],
+      "timestamp": "Aug 5, 1:14 PM",
+      "publishedAt": "2026-08-05T13:14:15+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Threats to close the Strait of Hormuz, a key global oil route, risk higher oil prices that would affect Pakistan and other importing economies."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Escalating US-Iran threats and an unresolved standoff signal continued regional instability."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Attacks on shipping, a missing crew member, and a continuing Houthi blockade point to real ongoing harm and insecurity in the region."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Strait of Hormuz tensions directly affect global oil markets and shipping, making this highly relevant to investors and businesses."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports Trump's and Bessent's statements alongside Iran's denial of talks, without favoring either side."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single-source (Dawn) full-article read of a fast-moving, contested diplomatic situation."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Pakistan, US hold counterterrorism dialogue, reaffirm commitment to combating terrorist groups",
+      "summary": "AI summary: Pakistan and the United States held their fourth counterterrorism dialogue in Washington, with officials from both sides pledging deeper cooperation on border security and dismantling networks tied to groups including ISIS-K, al-Qaeda, the TTP and the BLA, as Pakistan continues to face one of its deadliest security stretches in recent months.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2020740/pakistan-us-hold-counterterrorism-dialogue-reaffirm-commitment-to-combating-terrorist-groups"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40433411/pakistan-us-reaffirm-joint-resolve-against-regional-terrorism"
+        }
+      ],
+      "timestamp": "Aug 5, 11:00 AM",
+      "publishedAt": "2026-08-05T11:00:21+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Focused on security cooperation; a related trade-framework discussion is mentioned only in passing."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "Reaffirmed bilateral and multilateral counterterrorism coordination reflects strengthened diplomatic and institutional engagement with the US."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Diplomatic reaffirmation of cooperation, but Pakistan's underlying security situation (205 killed in July) means on-the-ground safety is unchanged by this dialogue alone."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Primarily a security and diplomatic development, not directly market-moving."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Both articles report the dialogue's stated outcomes factually without partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Corroborated by two independent outlets (Dawn full article, Business Recorder RSS excerpt) with matching event details."
+        }
+      }
+    },
+    {
+      "id": 5,
       "headline": "Two gas utilities to become five",
       "summary": "AI summary: Pakistan's Petroleum Division is moving to split SNGPL and SSGCL into five entities, a new gas transmission company plus four regional distribution firms, mirroring the earlier power-sector unbundling, with World Bank backing but resistance from the utilities themselves and past warnings that the new distribution units could become loss-making.",
       "sources": [
-        { "name": "Dawn News", "url": "https://www.dawn.com/news/2020700/two-gas-utilities-to-become-five" }
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2020700/two-gas-utilities-to-become-five"
+        }
       ],
       "timestamp": "Aug 5, 7:53 AM",
       "publishedAt": "2026-08-05T07:53:08+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "A structural reform still pending prime ministerial approval; consultants previously warned the new distribution units could become loss-making, so near-term effects on jobs, prices or business are uncertain." },
-        "political": { "value": "neutral", "reason": "A sector-restructuring policy process mirroring the earlier power-sector unbundling, not a matter of institutional or governance stability." },
-        "social": { "value": "neutral", "reason": "Still a proposal awaiting approval and a transaction adviser; no immediate effect on the public's daily life." },
-        "market": { "value": "medium", "reason": "Relevant to energy-sector investors and the two utilities involved, though the plan is not yet approved or implemented." },
-        "lean": { "value": "balanced", "reason": "Reports the government and World Bank's rationale alongside the utilities' and consultants' opposition and financial concerns." },
-        "confidence": { "value": "medium", "reason": "Single full-text source with detailed, specific figures, but not independently corroborated by another outlet." }
+        "economic": {
+          "value": "neutral",
+          "reason": "A structural reform still pending prime ministerial approval; consultants previously warned the new distribution units could become loss-making, so near-term effects on jobs, prices or business are uncertain."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A sector-restructuring policy process mirroring the earlier power-sector unbundling, not a matter of institutional or governance stability."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Still a proposal awaiting approval and a transaction adviser; no immediate effect on the public's daily life."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Relevant to energy-sector investors and the two utilities involved, though the plan is not yet approved or implemented."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the government and World Bank's rationale alongside the utilities' and consultants' opposition and financial concerns."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single full-text source with detailed, specific figures, but not independently corroborated by another outlet."
+        }
       }
     },
     {
-      "id": 2,
+      "id": 6,
       "headline": "PTI all set to 'take to streets' for Imran's release today",
       "summary": "AI summary: PTI is holding nationwide protests marking three years since Imran Khan's imprisonment, with rallies planned in Peshawar, Karachi, Rawalpindi and other cities demanding his release, after Rawalpindi authorities denied permission for a Liaquat Bagh gathering citing security concerns and Kashmir Solidarity Day, and police detained nine party activists.",
       "sources": [
-        { "name": "Dawn News", "url": "https://www.dawn.com/news/2020688/pti-all-set-to-take-to-streets-for-imrans-release-today" }
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2020688/pti-all-set-to-take-to-streets-for-imrans-release-today"
+        }
       ],
       "timestamp": "Aug 5, 7:38 AM",
       "publishedAt": "2026-08-05T07:38:36+05:00",
       "flaggedForReview": true,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "Planned protests have no quantified direct economic effect reported in the article." },
-        "political": { "value": "negative", "reason": "Nationwide opposition protests over a jailed party founder, denied permits, and activist arrests reflect visible political tension between the state and the opposition." },
-        "social": { "value": "negative", "reason": "Large planned rallies, denied permits and arrests carry a real risk of disruption and unrest in the affected cities." },
-        "market": { "value": "medium", "reason": "Sustained opposition mobilisation and street protests can weigh on business activity and investor sentiment in affected cities." },
-        "lean": { "value": "balanced", "reason": "Reports PTI's rally plans and demands alongside the administration's stated security rationale for denying permits, without evident one-sided framing." },
-        "confidence": { "value": "medium", "reason": "Single full-text source with specific, detailed logistics, but not corroborated by another outlet." }
+        "economic": {
+          "value": "neutral",
+          "reason": "Planned protests have no quantified direct economic effect reported in the article."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Nationwide opposition protests over a jailed party founder, denied permits, and activist arrests reflect visible political tension between the state and the opposition."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Large planned rallies, denied permits and arrests carry a real risk of disruption and unrest in the affected cities."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Sustained opposition mobilisation and street protests can weigh on business activity and investor sentiment in affected cities."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports PTI's rally plans and demands alongside the administration's stated security rationale for denying permits, without evident one-sided framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single full-text source with specific, detailed logistics, but not corroborated by another outlet."
+        }
       }
     },
     {
-      "id": 3,
+      "id": 7,
       "headline": "All foreign media personnel to require NOC from info ministry for news coverage outside Islamabad, Lahore and Karachi",
       "summary": "AI summary: Pakistan's Information Ministry has introduced Foreign Media Facilitation Guidelines 2026 requiring accredited foreign journalists to obtain a no-objection certificate before travelling outside Islamabad, Lahore and Karachi for coverage, with online registration, two accreditation tiers, and processing times of up to six weeks.",
       "sources": [
-        { "name": "Dawn News", "url": "https://www.dawn.com/news/2020579/all-foreign-media-personnel-to-require-noc-from-info-ministry-for-news-coverage-outside-islamabad-lahore-and-karachi" }
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2020579/all-foreign-media-personnel-to-require-noc-from-info-ministry-for-news-coverage-outside-islamabad-lahore-and-karachi"
+        }
       ],
       "timestamp": "Aug 5, 7:30 AM",
       "publishedAt": "2026-08-05T07:30:51+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "An administrative accreditation rule with no direct bearing on jobs, prices or business activity." },
-        "political": { "value": "neutral", "reason": "A new bureaucratic registration process for foreign press, not itself a matter of institutional or governance stability." },
-        "social": { "value": "neutral", "reason": "Affects foreign journalists' access rather than the Pakistani public's daily life directly." },
-        "market": { "value": "low", "reason": "Limited direct relevance to investors, though it could marginally affect Pakistan's international media coverage and image." },
-        "lean": { "value": "balanced", "reason": "Presents the ministry's own stated rationale and procedural details factually, without contested claims from another side." },
-        "confidence": { "value": "medium", "reason": "Single full-text source with detailed procedural specifics, but no independent corroboration or outside reaction yet." }
+        "economic": {
+          "value": "neutral",
+          "reason": "An administrative accreditation rule with no direct bearing on jobs, prices or business activity."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A new bureaucratic registration process for foreign press, not itself a matter of institutional or governance stability."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Affects foreign journalists' access rather than the Pakistani public's daily life directly."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited direct relevance to investors, though it could marginally affect Pakistan's international media coverage and image."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Presents the ministry's own stated rationale and procedural details factually, without contested claims from another side."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single full-text source with detailed procedural specifics, but no independent corroboration or outside reaction yet."
+        }
       }
     },
     {
-      "id": 4,
+      "id": 8,
       "headline": "Military reaffirms solidarity with IIOJK people",
       "summary": "AI summary: Pakistan's military leadership, including the army, navy and air force chiefs, issued a Youm-e-Istehsal statement expressing solidarity with Kashmiris, condemning what it called a military siege and human rights violations in occupied Kashmir, and calling for a settlement aligned with UN resolutions.",
       "sources": [
-        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433377/military-reaffirms-solidarity-with-iiojk-people" }
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40433377/military-reaffirms-solidarity-with-iiojk-people"
+        }
       ],
       "timestamp": "Aug 5, 7:20 AM",
       "publishedAt": "2026-08-05T07:20:51+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "A commemorative solidarity statement with no economic content." },
-        "political": { "value": "neutral", "reason": "An annual statement on a longstanding, cross-party consensus foreign-policy position, not a domestic institutional stability matter." },
-        "social": { "value": "neutral", "reason": "No direct effect on the Pakistani public's daily life or safety." },
-        "market": { "value": "low", "reason": "Minimal relevance to investors or business decisions." },
-        "lean": { "value": "balanced", "reason": "A descriptive account of an official statement on a topic with broad cross-party consensus in Pakistan." },
-        "confidence": { "value": "medium", "reason": "Working from the RSS description excerpt from a single outlet rather than the full article." }
+        "economic": {
+          "value": "neutral",
+          "reason": "A commemorative solidarity statement with no economic content."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "An annual statement on a longstanding, cross-party consensus foreign-policy position, not a domestic institutional stability matter."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on the Pakistani public's daily life or safety."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Minimal relevance to investors or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "A descriptive account of an official statement on a topic with broad cross-party consensus in Pakistan."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Working from the RSS description excerpt from a single outlet rather than the full article."
+        }
       }
     },
     {
-      "id": 5,
+      "id": 9,
       "headline": "PM reaffirms diplomatic, moral support to Kashmiris",
       "summary": "AI summary: On Youm-e-Istehsal, PM Shehbaz Sharif reaffirmed Pakistan's diplomatic support for Kashmiris, calling India's August 2019 revocation of the region's special status illegal and urging the international community to press India over alleged rights violations and enable self-determination under UN resolutions.",
       "sources": [
-        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433380/pm-reaffirms-diplomatic-moral-support-to-kashmiris" }
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40433380/pm-reaffirms-diplomatic-moral-support-to-kashmiris"
+        }
       ],
       "timestamp": "Aug 5, 7:13 AM",
       "publishedAt": "2026-08-05T07:13:25+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "A diplomatic statement with no economic content." },
-        "political": { "value": "neutral", "reason": "Reaffirms Pakistan's longstanding, cross-party consensus position on Kashmir; not an institutional stability matter." },
-        "social": { "value": "neutral", "reason": "No direct effect on the Pakistani public's daily life." },
-        "market": { "value": "low", "reason": "Minimal relevance to investors or business decisions." },
-        "lean": { "value": "balanced", "reason": "Reflects a longstanding cross-party national consensus position rather than partisan framing." },
-        "confidence": { "value": "medium", "reason": "Working from the RSS description excerpt from a single outlet, though it includes direct quotes." }
+        "economic": {
+          "value": "neutral",
+          "reason": "A diplomatic statement with no economic content."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Reaffirms Pakistan's longstanding, cross-party consensus position on Kashmir; not an institutional stability matter."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on the Pakistani public's daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Minimal relevance to investors or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reflects a longstanding cross-party national consensus position rather than partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Working from the RSS description excerpt from a single outlet, though it includes direct quotes."
+        }
       }
     },
     {
-      "id": 6,
+      "id": 10,
       "headline": "Interior minister's statement: PTI leader urges PM to seek vote of confidence",
       "summary": "AI summary: PTI interim chairman Barrister Gohar Ali Khan called on PM Shehbaz Sharif to seek a fresh vote of confidence, arguing the government has lost public confidence over the interior minister's recent statements and criticism from a coalition partner, and announced a PTI movement demanding Imran Khan's release after three years in detention.",
       "sources": [
-        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433359/interior-ministers-statement-pti-leader-urges-pm-to-seek-vote-of-confidence" }
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40433359/interior-ministers-statement-pti-leader-urges-pm-to-seek-vote-of-confidence"
+        }
       ],
       "timestamp": "Aug 5, 5:45 AM",
       "publishedAt": "2026-08-05T05:45:51+05:00",
       "flaggedForReview": true,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "An opposition political demand with no direct economic content." },
-        "political": { "value": "negative", "reason": "A direct opposition challenge to the PM's mandate, combined with reported coalition-partner criticism, signals visible strain on the governing coalition." },
-        "social": { "value": "neutral", "reason": "An elite political dispute with no immediate direct effect on public wellbeing or daily life." },
-        "market": { "value": "medium", "reason": "Signs of coalition friction and challenges to the government's standing can weigh on investor sentiment." },
-        "lean": { "value": "pro-opposition", "reason": "The excerpt presents only PTI's claims and demands about the interior minister and coalition criticism, with no government rebuttal included." },
-        "confidence": { "value": "medium", "reason": "Working from the RSS description excerpt from a single, one-sided source rather than the full article." }
+        "economic": {
+          "value": "neutral",
+          "reason": "An opposition political demand with no direct economic content."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "A direct opposition challenge to the PM's mandate, combined with reported coalition-partner criticism, signals visible strain on the governing coalition."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "An elite political dispute with no immediate direct effect on public wellbeing or daily life."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Signs of coalition friction and challenges to the government's standing can weigh on investor sentiment."
+        },
+        "lean": {
+          "value": "pro-opposition",
+          "reason": "The excerpt presents only PTI's claims and demands about the interior minister and coalition criticism, with no government rebuttal included."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Working from the RSS description excerpt from a single, one-sided source rather than the full article."
+        }
       }
     },
     {
-      "id": 7,
+      "id": 11,
       "headline": "Sindh and Punjab: 5 killed, 16 hurt in rain-related incidents",
       "summary": "AI summary: Pakistan's disaster management authority reported five more deaths and sixteen injuries from monsoon rain incidents in Sindh and Punjab over 24 hours, taking this monsoon season's toll to 141 dead and 434 injured, with over 1,160 houses damaged, and officials warned continued rain could raise river flows and trigger further flooding.",
       "sources": [
-        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433365/sindh-and-punjab-5-killed-16-hurt-in-rain-related-incidents" }
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40433365/sindh-and-punjab-5-killed-16-hurt-in-rain-related-incidents"
+        }
       ],
       "timestamp": "Aug 5, 5:45 AM",
       "publishedAt": "2026-08-05T05:45:51+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "negative", "reason": "Cumulative monsoon damage of over 1,160 houses and 572 livestock lost represents real material and agricultural losses." },
-        "political": { "value": "neutral", "reason": "A disaster-response report from the disaster management authority, not a governance stability matter." },
-        "social": { "value": "negative", "reason": "Deaths, injuries and continued flood risk directly affect public safety and wellbeing." },
-        "market": { "value": "medium", "reason": "Cumulative flood damage affects agriculture and relief spending, relevant to businesses and insurers tracking seasonal risk." },
-        "lean": { "value": "balanced", "reason": "A factual report of official disaster-agency figures with no partisan framing." },
-        "confidence": { "value": "medium", "reason": "Working from the RSS description excerpt with specific official figures, but not the full article." }
+        "economic": {
+          "value": "negative",
+          "reason": "Cumulative monsoon damage of over 1,160 houses and 572 livestock lost represents real material and agricultural losses."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A disaster-response report from the disaster management authority, not a governance stability matter."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Deaths, injuries and continued flood risk directly affect public safety and wellbeing."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Cumulative flood damage affects agriculture and relief spending, relevant to businesses and insurers tracking seasonal risk."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "A factual report of official disaster-agency figures with no partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Working from the RSS description excerpt with specific official figures, but not the full article."
+        }
       }
     },
     {
-      "id": 8,
+      "id": 12,
       "headline": "AJK elections: PPP, IPP ahead in two Muzaffarabad constituencies",
       "summary": "AI summary: In Azad Jammu & Kashmir's delayed second-phase assembly polls, PPP and the newly formed IPP won two Muzaffarabad seats, drawing PPP level with PML-N in the division and giving IPP its first-ever assembly seat, while PPP alleged rigging and violence by PML-N that election officials said lacked sufficient authentication.",
       "sources": [
-        { "name": "Dawn News", "url": "https://www.dawn.com/news/2020547/ajk-elections-ppp-ipp-ahead-in-two-muzaffarabad-constituencies" }
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2020547/ajk-elections-ppp-ipp-ahead-in-two-muzaffarabad-constituencies"
+        }
       ],
       "timestamp": "Aug 4, 11:52 PM",
       "publishedAt": "2026-08-04T23:52:53+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "A provincial assembly election result has no direct bearing on economic activity." },
-        "political": { "value": "neutral", "reason": "A routine, if contested, subnational election outcome; officials found the rigging allegations unauthenticated, so no confirmed institutional harm." },
-        "social": { "value": "neutral", "reason": "Affects local political representation but has no direct effect on public wellbeing or daily life." },
-        "market": { "value": "low", "reason": "An AJK assembly election carries negligible relevance to investors or national markets." },
-        "lean": { "value": "balanced", "reason": "The report presents PPP's rigging allegations alongside election officials' rebuttal without favoring either side." },
-        "confidence": { "value": "medium", "reason": "Single full-text source with specific vote counts, though the government/opposition status of these parties at present is not something we can verify with certainty." }
+        "economic": {
+          "value": "neutral",
+          "reason": "A provincial assembly election result has no direct bearing on economic activity."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A routine, if contested, subnational election outcome; officials found the rigging allegations unauthenticated, so no confirmed institutional harm."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Affects local political representation but has no direct effect on public wellbeing or daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "An AJK assembly election carries negligible relevance to investors or national markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "The report presents PPP's rigging allegations alongside election officials' rebuttal without favoring either side."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single full-text source with specific vote counts, though the government/opposition status of these parties at present is not something we can verify with certainty."
+        }
       }
     },
     {
-      "id": 9,
+      "id": 13,
       "headline": "Govt reduces petrol price by Rs3.39, high-speed diesel by Rs4.07",
       "summary": "AI summary: Pakistan's Petroleum Division cut petrol by Rs3.39 and high-speed diesel by Rs4.07 per litre effective August 5, shifting to daily price adjustments in response to volatile international oil markets following renewed US-Iran hostilities.",
       "sources": [
-        { "name": "Dawn News", "url": "https://www.dawn.com/news/2020589/govt-reduces-petrol-price-by-rs339-high-speed-diesel-by-rs407" }
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2020589/govt-reduces-petrol-price-by-rs339-high-speed-diesel-by-rs407"
+        }
       ],
       "timestamp": "Aug 4, 11:09 PM",
       "publishedAt": "2026-08-04T23:09:49+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "positive", "reason": "Lower fuel prices ease transport and production costs for consumers and businesses." },
-        "political": { "value": "neutral", "reason": "A routine administrative pricing notification, not a governance or institutional stability matter." },
-        "social": { "value": "positive", "reason": "Cheaper fuel modestly eases cost-of-living pressure on the public." },
-        "market": { "value": "medium", "reason": "Fuel pricing affects transport, logistics and consumer sector costs, relevant to businesses tracking input costs." },
-        "lean": { "value": "balanced", "reason": "Straightforward factual report of an official price notification with no partisan framing." },
-        "confidence": { "value": "high", "reason": "Official Petroleum Division notification with specific, verifiable figures reported in a full-text article." }
+        "economic": {
+          "value": "positive",
+          "reason": "Lower fuel prices ease transport and production costs for consumers and businesses."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A routine administrative pricing notification, not a governance or institutional stability matter."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Cheaper fuel modestly eases cost-of-living pressure on the public."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Fuel pricing affects transport, logistics and consumer sector costs, relevant to businesses tracking input costs."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straightforward factual report of an official price notification with no partisan framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Official Petroleum Division notification with specific, verifiable figures reported in a full-text article."
+        }
       }
     },
     {
-      "id": 10,
+      "id": 14,
       "headline": "Qatar says progress made toward US-Iran talks on ending war",
       "summary": "AI summary: Qatar said mediation between the US and Iran toward reopening the Strait of Hormuz has reached an advanced stage, though no deal is finalised yet; oil prices fell over 4% on the news even as Iran denied any substantive negotiations were underway.",
       "sources": [
-        { "name": "Dawn News", "url": "https://www.dawn.com/news/2020585/qatar-says-progress-made-toward-us-iran-talks-on-ending-war" }
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2020585/qatar-says-progress-made-toward-us-iran-talks-on-ending-war"
+        }
       ],
       "timestamp": "Aug 4, 10:13 PM",
       "publishedAt": "2026-08-04T22:13:18+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "positive", "reason": "Prospects of easing the Hormuz blockade pushed oil prices down over 4%, easing global energy cost pressure." },
-        "political": { "value": "neutral", "reason": "An international diplomatic development with no direct bearing on Pakistan's domestic governance, though Pakistan is named as a mediator." },
-        "social": { "value": "neutral", "reason": "No direct, immediate effect on the Pakistani public beyond broader economic ripple effects." },
-        "market": { "value": "high", "reason": "Oil price moves and Strait of Hormuz developments are highly relevant to global markets and investors." },
-        "lean": { "value": "balanced", "reason": "The report presents statements from US, Qatari and Iranian officials, including Iran's denial, without favoring one side." },
-        "confidence": { "value": "medium", "reason": "Multiple officials are quoted, but talks remain unconfirmed and Iran disputes the account, so the outcome is not yet settled." }
+        "economic": {
+          "value": "positive",
+          "reason": "Prospects of easing the Hormuz blockade pushed oil prices down over 4%, easing global energy cost pressure."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "An international diplomatic development with no direct bearing on Pakistan's domestic governance, though Pakistan is named as a mediator."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct, immediate effect on the Pakistani public beyond broader economic ripple effects."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Oil price moves and Strait of Hormuz developments are highly relevant to global markets and investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "The report presents statements from US, Qatari and Iranian officials, including Iran's denial, without favoring one side."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Multiple officials are quoted, but talks remain unconfirmed and Iran disputes the account, so the outcome is not yet settled."
+        }
       }
     },
     {
-      "id": 11,
+      "id": 15,
       "headline": "Dar departs for ministerial meeting in Jordan on deteriorating situation in occupied Jerusalem: FO",
       "summary": "AI summary: Deputy PM and Foreign Minister Ishaq Dar has left for Jordan to join an Arab and Islamic ministerial meeting on the worsening situation in occupied Jerusalem, where he is also expected to call on King Abdullah II and hold bilateral talks with fellow foreign ministers on Palestine and regional developments.",
       "sources": [
-        { "name": "Dawn News", "url": "https://www.dawn.com/news/2020574/dar-departs-for-ministerial-meeting-in-jordan-on-deteriorating-situation-in-occupied-jerusalem-fo" },
-        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433282/fm-dar-departs-for-jordan-to-attend-ministerial-meeting-on-jerusalem" }
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2020574/dar-departs-for-ministerial-meeting-in-jordan-on-deteriorating-situation-in-occupied-jerusalem-fo"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40433282/fm-dar-departs-for-jordan-to-attend-ministerial-meeting-on-jerusalem"
+        }
       ],
       "timestamp": "Aug 4, 8:55 PM",
       "publishedAt": "2026-08-04T20:55:12+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "Diplomatic travel has no direct bearing on economic activity." },
-        "political": { "value": "neutral", "reason": "Routine multilateral diplomacy reaffirming Pakistan's established Palestine policy, with no evident effect on domestic institutional stability." },
-        "social": { "value": "neutral", "reason": "No direct, immediate impact on the Pakistani public's daily life." },
-        "market": { "value": "low", "reason": "Diplomatic travel carries minimal direct relevance to investors or business decisions." },
-        "lean": { "value": "balanced", "reason": "Both outlets report the Foreign Office's stated purpose and itinerary for the trip factually, without contested framing." },
-        "confidence": { "value": "high", "reason": "Corroborated by two independent outlets (Dawn News, Business Recorder) with matching details on the trip's purpose and itinerary." }
+        "economic": {
+          "value": "neutral",
+          "reason": "Diplomatic travel has no direct bearing on economic activity."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine multilateral diplomacy reaffirming Pakistan's established Palestine policy, with no evident effect on domestic institutional stability."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct, immediate impact on the Pakistani public's daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Diplomatic travel carries minimal direct relevance to investors or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Both outlets report the Foreign Office's stated purpose and itinerary for the trip factually, without contested framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Corroborated by two independent outlets (Dawn News, Business Recorder) with matching details on the trip's purpose and itinerary."
+        }
       }
     },
     {
-      "id": 12,
+      "id": 16,
       "headline": "Interior minister approves uniform system for issuing police character certificate",
       "summary": "AI summary: Interior Minister Mohsin Naqvi approved a uniform, fully online nationwide system for issuing police character certificates through the National Police Bureau, and also ordered a standardised process for international driving permits.",
       "sources": [
-        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433264/interior-minister-approves-uniform-system-for-issuing-police-character-certificate" }
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40433264/interior-minister-approves-uniform-system-for-issuing-police-character-certificate"
+        }
       ],
       "timestamp": "Aug 4, 3:54 PM",
       "publishedAt": "2026-08-04T15:54:48+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "An administrative digitisation measure with no significant direct economic effect." },
-        "political": { "value": "neutral", "reason": "A routine internal administrative reform, not indicative of governance instability or strength." },
-        "social": { "value": "positive", "reason": "A simpler, faster, fully online certificate process reduces hassle for citizens, especially those travelling abroad." },
-        "market": { "value": "low", "reason": "Limited relevance to investors or broader business decisions." },
-        "lean": { "value": "balanced", "reason": "A factual report of an administrative decision with no contested claims or partisan framing." },
-        "confidence": { "value": "medium", "reason": "Based on a single official statement from one outlet, working from the RSS description excerpt; not independently corroborated." }
+        "economic": {
+          "value": "neutral",
+          "reason": "An administrative digitisation measure with no significant direct economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A routine internal administrative reform, not indicative of governance instability or strength."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "A simpler, faster, fully online certificate process reduces hassle for citizens, especially those travelling abroad."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited relevance to investors or broader business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "A factual report of an administrative decision with no contested claims or partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on a single official statement from one outlet, working from the RSS description excerpt; not independently corroborated."
+        }
       }
     },
     {
-      "id": 13,
+      "id": 17,
       "headline": "Business Recorder photojournalist Ikram Mehdi passes away at 79",
       "summary": "AI summary: Business Recorder's longtime senior photojournalist Ikram Mehdi has died at age 79 following a battle with heart disease, after working at the publication since 2003; he is survived by his wife and six children.",
       "sources": [
-        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433252/business-recorder-photojournalist-ikram-mehdi-passes-away-at-79" }
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40433252/business-recorder-photojournalist-ikram-mehdi-passes-away-at-79"
+        }
       ],
       "timestamp": "Aug 4, 2:12 PM",
       "publishedAt": "2026-08-04T14:12:51+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "A personal obituary with no economic implications." },
-        "political": { "value": "neutral", "reason": "No political content or implications." },
-        "social": { "value": "neutral", "reason": "A notable individual's death is a human-interest item without broader public wellbeing or safety impact." },
-        "market": { "value": "low", "reason": "No relevance to investors or business decisions." },
-        "lean": { "value": "balanced", "reason": "A straightforward tribute with no political framing." },
-        "confidence": { "value": "medium", "reason": "Single-source report from the deceased's own employer, working from the RSS description excerpt; likely accurate but not independently corroborated." }
+        "economic": {
+          "value": "neutral",
+          "reason": "A personal obituary with no economic implications."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "No political content or implications."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "A notable individual's death is a human-interest item without broader public wellbeing or safety impact."
+        },
+        "market": {
+          "value": "low",
+          "reason": "No relevance to investors or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "A straightforward tribute with no political framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single-source report from the deceased's own employer, working from the RSS description excerpt; likely accurate but not independently corroborated."
+        }
       }
     },
     {
-      "id": 14,
+      "id": 18,
       "headline": "Dar, Araghchi discuss regional situation",
       "summary": "AI summary: Pakistan's Deputy PM and Foreign Minister Ishaq Dar spoke by phone with Iranian Foreign Minister Abbas Araghchi about regional and international developments, including the deteriorating situation in occupied East Jerusalem, and invited him to visit Pakistan.",
       "sources": [
-        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433186/dar-araghchi-discuss-regional-situation" }
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40433186/dar-araghchi-discuss-regional-situation"
+        }
       ],
       "timestamp": "Aug 4, 3:37 AM",
       "publishedAt": "2026-08-04T03:37:19+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "A diplomatic phone call has no direct economic effect." },
-        "political": { "value": "neutral", "reason": "Routine bilateral diplomatic contact; no bearing on domestic institutional stability." },
-        "social": { "value": "neutral", "reason": "No direct effect on the Pakistani public's daily life." },
-        "market": { "value": "low", "reason": "Minimal relevance to investors or business decisions." },
-        "lean": { "value": "balanced", "reason": "A factual, single-source account of a diplomatic call with no contested claims." },
-        "confidence": { "value": "medium", "reason": "Based on an RSS description excerpt from a single outlet rather than a full, independently corroborated article." }
+        "economic": {
+          "value": "neutral",
+          "reason": "A diplomatic phone call has no direct economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine bilateral diplomatic contact; no bearing on domestic institutional stability."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on the Pakistani public's daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Minimal relevance to investors or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "A factual, single-source account of a diplomatic call with no contested claims."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on an RSS description excerpt from a single outlet rather than a full, independently corroborated article."
+        }
       }
     }
   ]
