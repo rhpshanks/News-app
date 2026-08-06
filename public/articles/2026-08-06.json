@@ -1,8 +1,47 @@
 {
-  "generatedAt": "2026-08-06T16:46:35+05:00",
+  "generatedAt": "2026-08-06T20:29:05+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "CDF Munir discusses enhancement of defence, security cooperation with Somalia: ISPR",
+      "summary": "AI summary: Pakistan's Chief of Defence Forces Field Marshal Asim Munir met Somalia's defence minister and delegation at GHQ Rawalpindi, with both sides agreeing to deepen military-to-military ties, capacity building and counterterrorism cooperation, building on a January 2026 agreement covering training and border management.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2021029/cdf-munir-discusses-enhancement-of-defence-security-cooperation-with-somalia-ispr" }
+      ],
+      "timestamp": "Aug 6, 7:06 PM",
+      "publishedAt": "2026-08-06T19:06:27+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A bilateral defence meeting with no direct effect on jobs, prices or business activity." },
+        "political": { "value": "positive", "reason": "Reinforces Pakistan's military diplomacy and regional security role through deepened defence ties with Somalia." },
+        "social": { "value": "neutral", "reason": "A high-level defence meeting with no direct effect on Pakistanis' daily life." },
+        "market": { "value": "low", "reason": "A diplomatic/defence meeting with little direct relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Reports the meeting and official statements from both sides without domestic political framing." },
+        "confidence": { "value": "medium", "reason": "Based on the full Dawn article, though from a single outlet." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Security forces kill 12 terrorists in Balochistan's Mastung, Washuk IBOs: ISPR",
+      "summary": "AI summary: ISPR says security forces killed 12 terrorists described as belonging to \"Fitna-al-Hindustan\" in two intelligence-based operations in Balochistan's Washuk and Mastung districts on August 5 and 6, part of the ongoing Radd-ul-Fitna counterterrorism campaign, with weapons and a militant hideout also destroyed.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2021030/security-forces-kill-12-terrorists-in-balochistans-mastung-washuk-ibos-ispr" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433624/12-terrorists-killed-in-balochistan-operations-ispr" }
+      ],
+      "timestamp": "Aug 6, 6:47 PM",
+      "publishedAt": "2026-08-06T18:47:38+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A counterterrorism operation with no direct bearing on jobs, prices or business activity." },
+        "political": { "value": "positive", "reason": "ISPR frames the operations as continued success in the Radd-ul-Fitna campaign, reinforcing the security establishment's counterterrorism narrative." },
+        "social": { "value": "negative", "reason": "Reflects ongoing violence and an active insurgency in Balochistan; casualties and continued militant activity weigh on public safety even where the operation is framed as a success." },
+        "market": { "value": "low", "reason": "A security operation in a remote area with limited direct market relevance." },
+        "lean": { "value": "balanced", "reason": "Casualty and operational claims are attributed to ISPR as the source rather than presented as independently verified fact." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two outlets with matching details, though both ultimately relay the same official ISPR account rather than independent verification." }
+      }
+    },
+    {
+      "id": 3,
       "headline": "Karachi court allows exhumation of Mir Raza Ali's body amid controversy over autopsy",
       "summary": "AI summary: A Karachi court has ordered the exhumation of Mir Raza Ali, a 25-year-old found dead last month, after the police surgeon publicly questioned the original post-mortem's suicide finding over mismatched wound trajectories and a missing gunshot-residue test, prompting a fresh medico-legal review even as police maintain their suicide theory and the family alleges murder.",
       "sources": [
@@ -21,7 +60,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 4,
       "headline": "FO slams India's remarks on AJK polls, says it has no 'standing or moral authority' to comment on process",
       "summary": "AI summary: Pakistan's Foreign Office has rejected Indian government criticism calling recent Azad Jammu and Kashmir elections a \"farce,\" with spokesperson Tahir Andrabi telling a weekly briefing that India has neither the standing nor moral authority to comment given its own record in occupied Kashmir, and that the AJK polls were conducted peacefully and transparently.",
       "sources": [
@@ -41,7 +80,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 5,
       "headline": "PMDC reschedules MDCAT; exam to now be held on Sept 20",
       "summary": "AI summary: The Pakistan Medical and Dental Council has pushed the MDCAT entrance exam back from August 16 to September 20 on the prime minister's directive, citing the need for a smoother and more secure test process after complaints from prospective students.",
       "sources": [
@@ -60,7 +99,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 6,
       "headline": "IHC reserves ruling on maintainability of plea challenging presidential delay in judicial appointments",
       "summary": "AI summary: The Islamabad High Court has reserved its verdict on whether it can even hear a petition accusing President Zardari of sitting on judicial appointments for over two weeks, with the judge questioning whether courts can direct presidential action at all.",
       "sources": [
@@ -79,7 +118,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 7,
       "headline": "DPM Dar calls upon UNSC to implement resolutions on Jammu and Kashmir",
       "summary": "AI summary: Deputy PM Ishaq Dar has written to the UN Security Council urging it to enforce its resolutions on Jammu and Kashmir, alleging widespread rights abuses and warning that India's troop buildup and rhetoric threaten regional stability.",
       "sources": [
@@ -98,7 +137,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 8,
       "headline": "'Growing pattern of media curbs': HRCP, PFUJ express concern over new rules for foreign press",
       "summary": "AI summary: Pakistan's human rights and journalist bodies have criticized new government rules that require foreign journalists to seek permission before reporting outside Islamabad, Lahore and Karachi, warning the curbs could suppress critical coverage and cost local staff their jobs.",
       "sources": [
@@ -117,7 +156,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 9,
       "headline": "PM Shehbaz, CDF Munir to visit Saudi Arabia from August 6 to 8",
       "summary": "AI summary: PM Shehbaz Sharif and CDF Field Marshal Asim Munir are traveling to Saudi Arabia from August 6-8 to meet Crown Prince Mohammed bin Salman, with officials framing the trip as deepening bilateral and defence ties amid rising tensions in the Gulf region.",
       "sources": [
@@ -137,7 +176,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 10,
       "headline": "Finance ministry clarifies Ad-hoc Relief Allowances treatment after BPS-2026 revision",
       "summary": "AI summary: The finance ministry has clarified that existing ad-hoc relief allowances for federal employees stay frozen at their pre-July 2026 pay scale revision levels, while new hires will receive the allowances at set percentage rates instead.",
       "sources": [
@@ -156,7 +195,7 @@
       }
     },
     {
-      "id": 9,
+      "id": 11,
       "headline": "Pakistan, US reaffirm resolve to combat terrorist outfits",
       "summary": "AI summary: Pakistan and the United States held their fourth counterterrorism dialogue in Washington, agreeing to deepen cooperation against groups including ISIS-K, al-Qaeda, the TTP and the BLA, and to strengthen border security.",
       "sources": [
