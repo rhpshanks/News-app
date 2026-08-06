@@ -1,0 +1,139 @@
+{
+  "generatedAt": "2026-08-06T13:24:50+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "PMDC reschedules MDCAT; exam to now be held on Sept 20",
+      "summary": "AI summary: The Pakistan Medical and Dental Council has pushed the MDCAT entrance exam back from August 16 to September 20 on the prime minister's directive, citing the need for a smoother and more secure test process after complaints from prospective students.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2020995/pmdc-reschedules-mdcat-exam-to-now-be-held-on-sept-20" }
+      ],
+      "timestamp": "Aug 6, 1:10 PM",
+      "publishedAt": "2026-08-06T13:10:44+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Exam rescheduling is an administrative matter with no material effect on jobs, prices or business activity." },
+        "political": { "value": "neutral", "reason": "A routine administrative decision taken on the PM's direction; doesn't materially affect institutional stability." },
+        "social": { "value": "neutral", "reason": "Causes short-term disruption for well over 100,000 candidates and families but is meant to fix earlier complaints about exam conduct." },
+        "market": { "value": "low", "reason": "Domestic education-sector administrative news with no bearing on investors or markets." },
+        "lean": { "value": "balanced", "reason": "Straightforward reporting of an official PMDC announcement with no visible slant." },
+        "confidence": { "value": "medium", "reason": "Based on the full Dawn article, though from a single outlet." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "IHC reserves ruling on maintainability of plea challenging presidential delay in judicial appointments",
+      "summary": "AI summary: The Islamabad High Court has reserved its verdict on whether it can even hear a petition accusing President Zardari of sitting on judicial appointments for over two weeks, with the judge questioning whether courts can direct presidential action at all.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2020986/ihc-reserves-ruling-on-maintainability-of-plea-challenging-presidential-delay-in-judicial-appointments" }
+      ],
+      "timestamp": "Aug 6, 12:57 PM",
+      "publishedAt": "2026-08-06T12:57:58+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A judicial-appointments dispute has no direct bearing on jobs, prices or business activity." },
+        "political": { "value": "negative", "reason": "Highlights a standoff between the presidency and judiciary over unfilled judge posts, with courts questioning whether they can even compel presidential action, signalling institutional friction." },
+        "social": { "value": "neutral", "reason": "Effects are largely confined to court administration; no immediate impact on public safety or daily life described." },
+        "market": { "value": "low", "reason": "A domestic legal/constitutional dispute with little relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Reports the court proceedings and both sides' arguments without editorializing." },
+        "confidence": { "value": "medium", "reason": "Based on the full Dawn article from a single outlet." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "DPM Dar calls upon UNSC to implement resolutions on Jammu and Kashmir",
+      "summary": "AI summary: Deputy PM Ishaq Dar has written to the UN Security Council urging it to enforce its resolutions on Jammu and Kashmir, alleging widespread rights abuses and warning that India's troop buildup and rhetoric threaten regional stability.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433599/dpm-dar-calls-upon-unsc-to-implement-resolutions-on-jammu-and-kashmir" }
+      ],
+      "timestamp": "Aug 6, 12:57 PM",
+      "publishedAt": "2026-08-06T12:57:50+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic letter to the UN has no direct economic effect." },
+        "political": { "value": "neutral", "reason": "Concerns Pakistan's foreign-policy positioning on Kashmir rather than domestic governance or institutional stability." },
+        "social": { "value": "neutral", "reason": "Describes conditions in Indian-administered Kashmir rather than effects on Pakistani daily life." },
+        "market": { "value": "low", "reason": "Diplomatic correspondence with no direct market relevance." },
+        "lean": { "value": "balanced", "reason": "Reports Pakistan's official diplomatic position without additional independent framing." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt from a single outlet, not the full article." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "'Growing pattern of media curbs': HRCP, PFUJ express concern over new rules for foreign press",
+      "summary": "AI summary: Pakistan's human rights and journalist bodies have criticized new government rules that require foreign journalists to seek permission before reporting outside Islamabad, Lahore and Karachi, warning the curbs could suppress critical coverage and cost local staff their jobs.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2020991/growing-pattern-of-media-curbs-hrcp-pfuj-express-concern-over-new-rules-for-foreign-press" }
+      ],
+      "timestamp": "Aug 6, 12:39 PM",
+      "publishedAt": "2026-08-06T12:39:16+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "New foreign-press rules don't directly affect jobs, prices or business activity broadly, though some Pakistani staff at foreign outlets could lose work." },
+        "political": { "value": "negative", "reason": "Rights and journalist bodies warn the new rules institutionalize bureaucratic control over reporting and could damage Pakistan's democratic standing." },
+        "social": { "value": "negative", "reason": "Warned to reduce critical coverage and press freedom, with local staff at foreign outlets at risk of losing jobs." },
+        "market": { "value": "low", "reason": "Primarily a press-freedom and governance story with little direct market relevance." },
+        "lean": { "value": "balanced", "reason": "Presents HRCP and PFUJ's criticism of the new rules with attribution; no independent editorializing beyond quoting the parties." },
+        "confidence": { "value": "medium", "reason": "Based on the full Dawn article from a single outlet." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "PM Shehbaz, CDF Munir to visit Saudi Arabia from August 6 to 8",
+      "summary": "AI summary: PM Shehbaz Sharif and CDF Field Marshal Asim Munir are traveling to Saudi Arabia from August 6-8 to meet Crown Prince Mohammed bin Salman, with officials framing the trip as deepening bilateral and defence ties amid rising tensions in the Gulf region.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2020987/pm-shehbaz-cdf-munir-to-visit-saudi-arabia-from-august-6-to-8" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433587/pm-shehbaz-cdf-munir-to-hold-talks-with-saudi-crown-prince-amid-gulf-tensions" }
+      ],
+      "timestamp": "Aug 6, 12:17 PM",
+      "publishedAt": "2026-08-06T12:17:57+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic and defence-focused visit with no direct, immediate effect on jobs, prices or business activity." },
+        "political": { "value": "positive", "reason": "Reinforces Pakistan's strategic alliance with Saudi Arabia through high-level defence and diplomatic engagement, supporting external stability." },
+        "social": { "value": "neutral", "reason": "A state visit with no direct effect on Pakistanis' daily life or safety." },
+        "market": { "value": "medium", "reason": "Ties into broader Gulf security dynamics and Pakistan-Saudi defence cooperation, relevant to regional risk assessments for investors." },
+        "lean": { "value": "balanced", "reason": "Both outlets report the visit's stated purpose and official statements without favouring a domestic political side." },
+        "confidence": { "value": "high", "reason": "Corroborated by two independent outlets (Dawn and Business Recorder) with matching details on dates, delegation and purpose." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Finance ministry clarifies Ad-hoc Relief Allowances treatment after BPS-2026 revision",
+      "summary": "AI summary: The finance ministry has clarified that existing ad-hoc relief allowances for federal employees stay frozen at their pre-July 2026 pay scale revision levels, while new hires will receive the allowances at set percentage rates instead.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433540/finance-ministry-clarifies-ad-hoc-relief-allowances-treatment-after-bps-2026-revision" }
+      ],
+      "timestamp": "Aug 6, 10:56 AM",
+      "publishedAt": "2026-08-06T10:56:18+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A clarification of existing federal pay-scale allowance rules, without introducing new spending or cuts." },
+        "political": { "value": "neutral", "reason": "A routine administrative/finance-ministry clarification, not a governance or stability issue." },
+        "social": { "value": "neutral", "reason": "Affects federal government employees' pay administration rather than the wider public." },
+        "market": { "value": "low", "reason": "Domestic civil-service pay administration with little relevance to markets or investors." },
+        "lean": { "value": "balanced", "reason": "A factual restatement of a finance ministry memorandum with no visible slant." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt from a single outlet, not the full article." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Pakistan, US reaffirm resolve to combat terrorist outfits",
+      "summary": "AI summary: Pakistan and the United States held their fourth counterterrorism dialogue in Washington, agreeing to deepen cooperation against groups including ISIS-K, al-Qaeda, the TTP and the BLA, and to strengthen border security.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433539/pakistan-us-reaffirm-resolve-to-combat-terrorist-outfits" }
+      ],
+      "timestamp": "Aug 6, 6:29 AM",
+      "publishedAt": "2026-08-06T06:29:10+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A bilateral security dialogue with no direct economic effect." },
+        "political": { "value": "positive", "reason": "Reaffirms US-Pakistan security cooperation, supporting Pakistan's institutional counterterrorism efforts." },
+        "social": { "value": "neutral", "reason": "A high-level dialogue about future cooperation, not a concrete operation with immediate on-the-ground effects." },
+        "market": { "value": "low", "reason": "A diplomatic/security dialogue with limited direct relevance to markets or business decisions." },
+        "lean": { "value": "balanced", "reason": "Reports the joint dialogue and its stated aims without favouring either government's domestic political actors." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt from a single outlet, not the full article." }
+      }
+    }
+  ]
+}

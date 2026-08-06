@@ -313,5 +313,26 @@
         "negative": 5
       }
     }
+  },
+  {
+    "date": "2026-08-06",
+    "articleCount": 7,
+    "counts": {
+      "economic": {
+        "positive": 0,
+        "neutral": 7,
+        "negative": 0
+      },
+      "political": {
+        "positive": 2,
+        "neutral": 3,
+        "negative": 2
+      },
+      "social": {
+        "positive": 0,
+        "neutral": 6,
+        "negative": 1
+      }
+    }
   }
 ]
