@@ -1,8 +1,47 @@
 {
-  "generatedAt": "2026-08-06T13:24:50+05:00",
+  "generatedAt": "2026-08-06T16:46:35+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "Karachi court allows exhumation of Mir Raza Ali's body amid controversy over autopsy",
+      "summary": "AI summary: A Karachi court has ordered the exhumation of Mir Raza Ali, a 25-year-old found dead last month, after the police surgeon publicly questioned the original post-mortem's suicide finding over mismatched wound trajectories and a missing gunshot-residue test, prompting a fresh medico-legal review even as police maintain their suicide theory and the family alleges murder.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2021005/karachi-court-allows-exhumation-of-mir-raza-alis-body-amid-controversy-over-autopsy" }
+      ],
+      "timestamp": "Aug 6, 3:21 PM",
+      "publishedAt": "2026-08-06T15:21:18+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A local criminal case with no bearing on jobs, prices or business activity." },
+        "political": { "value": "neutral", "reason": "A local law-enforcement and forensic matter, not a governance or institutional-stability issue." },
+        "social": { "value": "negative", "reason": "A contested death investigation with a police surgeon publicly questioning the original autopsy's rigour, raising concerns about trust in forensic and policing processes." },
+        "market": { "value": "low", "reason": "A domestic human-interest and criminal-justice story with no market relevance." },
+        "lean": { "value": "balanced", "reason": "Reports both the police's suicide theory and the family's murder allegation alongside the surgeon's independent criticism, without favouring either side." },
+        "confidence": { "value": "medium", "reason": "Based on the full Dawn article, though from a single outlet." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "FO slams India's remarks on AJK polls, says it has no 'standing or moral authority' to comment on process",
+      "summary": "AI summary: Pakistan's Foreign Office has rejected Indian government criticism calling recent Azad Jammu and Kashmir elections a \"farce,\" with spokesperson Tahir Andrabi telling a weekly briefing that India has neither the standing nor moral authority to comment given its own record in occupied Kashmir, and that the AJK polls were conducted peacefully and transparently.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2020999/fo-slams-indias-remarks-on-ajk-polls-says-it-has-no-standing-or-moral-authority-to-comment-on-process" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433605/pakistan-rejects-indias-baseless-remarks-on-ajk-elections" }
+      ],
+      "timestamp": "Aug 6, 1:56 PM",
+      "publishedAt": "2026-08-06T13:56:32+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic rebuttal with no direct economic effect." },
+        "political": { "value": "neutral", "reason": "Routine foreign-policy positioning in the ongoing Kashmir dispute rather than a domestic governance or institutional-stability issue." },
+        "social": { "value": "neutral", "reason": "Concerns Pakistan-India diplomatic exchanges over Kashmir rather than direct effects on Pakistanis' daily life." },
+        "market": { "value": "low", "reason": "A diplomatic statement with little direct relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Reports Pakistan's official rebuttal of India's statement without editorializing on domestic politics." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two outlets reporting the same briefing and quote, though one source (Business Recorder) is based only on its RSS description." }
+      }
+    },
+    {
+      "id": 3,
       "headline": "PMDC reschedules MDCAT; exam to now be held on Sept 20",
       "summary": "AI summary: The Pakistan Medical and Dental Council has pushed the MDCAT entrance exam back from August 16 to September 20 on the prime minister's directive, citing the need for a smoother and more secure test process after complaints from prospective students.",
       "sources": [
@@ -21,7 +60,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 4,
       "headline": "IHC reserves ruling on maintainability of plea challenging presidential delay in judicial appointments",
       "summary": "AI summary: The Islamabad High Court has reserved its verdict on whether it can even hear a petition accusing President Zardari of sitting on judicial appointments for over two weeks, with the judge questioning whether courts can direct presidential action at all.",
       "sources": [
@@ -40,7 +79,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 5,
       "headline": "DPM Dar calls upon UNSC to implement resolutions on Jammu and Kashmir",
       "summary": "AI summary: Deputy PM Ishaq Dar has written to the UN Security Council urging it to enforce its resolutions on Jammu and Kashmir, alleging widespread rights abuses and warning that India's troop buildup and rhetoric threaten regional stability.",
       "sources": [
@@ -59,7 +98,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 6,
       "headline": "'Growing pattern of media curbs': HRCP, PFUJ express concern over new rules for foreign press",
       "summary": "AI summary: Pakistan's human rights and journalist bodies have criticized new government rules that require foreign journalists to seek permission before reporting outside Islamabad, Lahore and Karachi, warning the curbs could suppress critical coverage and cost local staff their jobs.",
       "sources": [
@@ -78,7 +117,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 7,
       "headline": "PM Shehbaz, CDF Munir to visit Saudi Arabia from August 6 to 8",
       "summary": "AI summary: PM Shehbaz Sharif and CDF Field Marshal Asim Munir are traveling to Saudi Arabia from August 6-8 to meet Crown Prince Mohammed bin Salman, with officials framing the trip as deepening bilateral and defence ties amid rising tensions in the Gulf region.",
       "sources": [
@@ -98,7 +137,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 8,
       "headline": "Finance ministry clarifies Ad-hoc Relief Allowances treatment after BPS-2026 revision",
       "summary": "AI summary: The finance ministry has clarified that existing ad-hoc relief allowances for federal employees stay frozen at their pre-July 2026 pay scale revision levels, while new hires will receive the allowances at set percentage rates instead.",
       "sources": [
@@ -117,7 +156,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 9,
       "headline": "Pakistan, US reaffirm resolve to combat terrorist outfits",
       "summary": "AI summary: Pakistan and the United States held their fourth counterterrorism dialogue in Washington, agreeing to deepen cooperation against groups including ISIS-K, al-Qaeda, the TTP and the BLA, and to strengthen border security.",
       "sources": [
