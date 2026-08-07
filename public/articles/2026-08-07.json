@@ -1,8 +1,47 @@
 {
-  "generatedAt": "2026-08-07T12:47:19+05:00",
+  "generatedAt": "2026-08-07T15:25:49+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "Schedule for 3rd phase of AJK polls revised over law and order concerns",
+      "summary": "AI summary: Azad Jammu and Kashmir's Election Commission postponed the third phase of polling in Poonch district and Pallandri over law and order concerns, letting voting proceed on August 10 only in Bagh and Haveli's four constituencies, after violent clashes in July and ongoing protests demanding the abolition of refugee-reserved legislative seats.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2021240/schedule-for-3rd-phase-of-ajk-polls-revised-over-law-and-order-concerns" }
+      ],
+      "timestamp": "Aug 7, 3:16 PM",
+      "publishedAt": "2026-08-07T15:16:22+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct effect on jobs, prices, or business activity." },
+        "political": { "value": "negative", "reason": "A last-minute postponement of part of an election, driven by unrest and protests over contested legislative seats, signals strain on the electoral and security process." },
+        "social": { "value": "negative", "reason": "Reflects ongoing local unrest, violent clashes, and protests that directly affect residents' safety and daily life in the affected districts." },
+        "market": { "value": "low", "reason": "Localized electoral and security matter with no direct market relevance." },
+        "lean": { "value": "balanced", "reason": "Reports the Election Commission's stated rationale and the protest background factually without favoring a domestic political side." },
+        "confidence": { "value": "medium", "reason": "Single-source Dawn report, but based on specific, verifiable details: named districts, constituency counts, and an official commission statement." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Pakistan, Saudi Arabia and Turkiye to sign joint defence deal amid regional turmoil",
+      "summary": "AI summary: PM Shehbaz Sharif and COAS Field Marshal Asim Munir traveled to Saudi Arabia to meet Crown Prince Mohammed bin Salman, with Turkish President Erdogan also present, for talks Pakistan's Foreign Office described as consolidating bilateral relations; Business Recorder, citing regional sources, reported the three countries were set to sign a joint defence agreement at the meeting amid heightened Gulf tensions.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2021248/pm-shehbaz-cdf-munir-meet-saudi-crown-prince-in-makkah" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433747/pakistan-saudi-arabia-and-turkiye-to-sign-joint-defence-deal-amid-regional-turmoil" }
+      ],
+      "timestamp": "Aug 7, 2:30 PM",
+      "publishedAt": "2026-08-07T14:30:33+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic and defence meeting with no specific economic commitments disclosed." },
+        "political": { "value": "positive", "reason": "High-level engagement with Saudi Arabia and Turkiye strengthens Pakistan's strategic partnerships during a period of regional tension." },
+        "social": { "value": "neutral", "reason": "No direct bearing on daily public life." },
+        "market": { "value": "medium", "reason": "Regional defence cooperation amid Gulf turmoil and Strait of Hormuz concerns is the kind of development markets watch for wider stability signals." },
+        "lean": { "value": "balanced", "reason": "Reports the government's diplomatic and defence engagement factually, without domestic political framing." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two outlets on the core meeting and attendees, but the specific claim of a signed defence deal comes only from Business Recorder's unnamed 'regional sources,' while Dawn's official Foreign Office readout describes only bilateral talks." }
+      }
+    },
+    {
+      "id": 3,
       "headline": "Exhumation of Mir Raza Ali's body postponed after family objects to abrupt reconstitution of medico-legal board",
       "summary": "AI summary: The exhumation of Mir Raza Ali's body was postponed after his family's lawyer rejected the newly reconstituted medico-legal board outright, citing a backdated notification and questioning the board's legal authority under Sindh's Medicolegal Act, deepening the dispute over the high-profile death investigation.",
       "sources": [
@@ -21,7 +60,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 4,
       "headline": "Security forces kill 10 terrorists in Khyber Pakhtunkhwa: ISPR",
       "summary": "AI summary: Pakistan's military said its forces killed 10 militants, described by ISPR as belonging to an Indian-sponsored faction of the banned TTP, in two separate Khyber Pakhtunkhwa operations, eight in South Waziristan's Azam Warsak area and two in Dir district, with President Zardari and PM Shehbaz commending the operations.",
       "sources": [
@@ -40,7 +79,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 5,
       "headline": "UNSC condemns Swat suicide blast after Pakistan sounds alarm on Afghan terrorist havens",
       "summary": "AI summary: The UN Security Council condemned the August 2 suicide bombing outside a police station in Swat's Kabal area that killed at least 16 people, mostly civilians, after Pakistan's UN ambassador told the council that militant groups including the TTP operate from havens inside Afghanistan.",
       "sources": [
@@ -59,7 +98,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 6,
       "headline": "10 terrorists killed in 2 separate operations in KP: ISPR",
       "summary": "AI summary: Pakistan's military said its forces killed 10 militants in two separate clashes in Khyber Pakhtunkhwa, eight in South Waziristan's Azam Warsak area after troops repelled an attack on a checkpost, and two more in Dir district, with ISPR describing the dead as affiliated with the banned TTP.",
       "sources": [
@@ -78,7 +117,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 7,
       "headline": "Govt reduces petrol price by Rs3.19, high-speed diesel by Rs1.50",
       "summary": "AI summary: The government cut petrol prices by Rs3.19 and high-speed diesel by Rs1.50 per litre effective August 7, bringing petrol to Rs329.82 and diesel to Rs382.36 per litre, part of a daily pricing mechanism tied to volatile international oil prices since the earlier Iran-US conflict.",
       "sources": [
@@ -97,7 +136,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 8,
       "headline": "Presidential delay in judicial appointments: IHC reserves verdict on petition's maintainability",
       "summary": "AI summary: The Islamabad High Court reserved its verdict on the maintainability of a petition challenging the president's delay in approving judicial appointments to various high courts, with the petitioner arguing the Constitution allows no indefinite presidential silence while the court weighed whether such writs can be issued against the president.",
       "sources": [
@@ -116,7 +155,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 9,
       "headline": "Chinese envoy calls on PM",
       "summary": "AI summary: China's ambassador to Pakistan met Prime Minister Shehbaz Sharif and conveyed a message from President Xi Jinping, with the PM reaffirming Pakistan's commitment to the \"all-weather strategic partnership\" and expanding people-to-people exchanges between the two countries.",
       "sources": [
@@ -135,7 +174,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 10,
       "headline": "AJK elections: Pakistan rejects baseless remarks by India",
       "summary": "AI summary: Pakistan's Foreign Office rejected Indian criticism of the Azad Jammu and Kashmir elections as \"politically motivated,\" saying the vote was conducted peacefully and transparently and that India has no standing to comment on the region's democratic processes.",
       "sources": [
@@ -154,7 +193,7 @@
       }
     },
     {
-      "id": 9,
+      "id": 11,
       "headline": "Devastating avalanche in G-B: Army copters evacuate bodies of five more climbers",
       "summary": "AI summary: Pakistan Army helicopters completed recovery operations for a Broad Peak avalanche, evacuating the bodies of five more climbers to bring the total to eight recovered, including well-known mountaineer Nirmal Purja, with two expedition members still missing in what officials describe as one of the country's deadliest mountaineering disasters.",
       "sources": [
