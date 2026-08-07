@@ -1,27 +1,46 @@
 {
-  "generatedAt": "2026-08-07T11:33:37+05:00",
+  "generatedAt": "2026-08-07T12:47:19+05:00",
   "articles": [
     {
       "id": 1,
-      "headline": "Medico-legal board for exhumation of Mir Raza Ali's body abruptly reconstituted",
-      "summary": "AI summary: Sindh health authorities abruptly reconstituted the medical board overseeing the exhumation of Mir Raza Ali, replacing its original members without explanation; the family's lawyer called the move \"malicious\" and said they do not consent to the new board.",
+      "headline": "Exhumation of Mir Raza Ali's body postponed after family objects to abrupt reconstitution of medico-legal board",
+      "summary": "AI summary: The exhumation of Mir Raza Ali's body was postponed after his family's lawyer rejected the newly reconstituted medico-legal board outright, citing a backdated notification and questioning the board's legal authority under Sindh's Medicolegal Act, deepening the dispute over the high-profile death investigation.",
       "sources": [
-        { "name": "Dawn News", "url": "https://www.dawn.com/news/2021207/medico-legal-board-for-exhumation-of-mir-raza-alis-body-abruptly-reconstituted" }
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2021207/exhumation-of-mir-raza-alis-body-postponed-after-family-objects-to-abrupt-reconstitution-of-medico-legal-board" }
       ],
-      "timestamp": "Aug 7, 11:00 AM",
-      "publishedAt": "2026-08-07T11:00:34+05:00",
+      "timestamp": "Aug 7, 12:43 PM",
+      "publishedAt": "2026-08-07T12:43:39+05:00",
       "flaggedForReview": true,
       "indicators": {
         "economic": { "value": "neutral", "reason": "No discernible effect on jobs, prices, or business activity." },
-        "political": { "value": "negative", "reason": "Opaque reshuffling of a court-ordered medical board by a provincial health department raises governance transparency concerns." },
-        "social": { "value": "negative", "reason": "Undermines public trust in a high-profile death investigation and prolongs distress for the victim's family." },
+        "political": { "value": "negative", "reason": "The family's outright rejection of the reconstituted board and the resulting postponement reflect unresolved friction over procedure and authority in a court-linked investigation." },
+        "social": { "value": "negative", "reason": "Prolongs distress and uncertainty for the victim's family and delays resolution of a high-profile death investigation." },
         "market": { "value": "low", "reason": "No relevance to investors or business decisions." },
-        "lean": { "value": "balanced", "reason": "Article presents both the family lawyer's allegation and context on prior autopsy inconsistencies without taking a side." },
-        "confidence": { "value": "medium", "reason": "Single-source Dawn report with a named lawyer, but the government's own rationale for the reshuffle isn't included." }
+        "lean": { "value": "balanced", "reason": "Presents the family lawyer's detailed objections and procedural background without taking a side or omitting context." },
+        "confidence": { "value": "medium", "reason": "Single-source Dawn report, but based on specific, named, on-the-record statements from the family's lawyer." }
       }
     },
     {
       "id": 2,
+      "headline": "Security forces kill 10 terrorists in Khyber Pakhtunkhwa: ISPR",
+      "summary": "AI summary: Pakistan's military said its forces killed 10 militants, described by ISPR as belonging to an Indian-sponsored faction of the banned TTP, in two separate Khyber Pakhtunkhwa operations, eight in South Waziristan's Azam Warsak area and two in Dir district, with President Zardari and PM Shehbaz commending the operations.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433729/security-forces-kill-10-terrorists-in-khyber-pakhtunkhwa-ispr" }
+      ],
+      "timestamp": "Aug 7, 12:37 PM",
+      "publishedAt": "2026-08-07T12:37:12+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct near-term effect on broader economic activity." },
+        "political": { "value": "neutral", "reason": "A routine ISPR-reported counter-militancy operation publicly endorsed by the president and PM, not itself a governance disruption." },
+        "social": { "value": "negative", "reason": "Reflects ongoing regional militant violence and instability even though the report frames the operation as a security success." },
+        "market": { "value": "low", "reason": "Localized security operation with limited direct market relevance." },
+        "lean": { "value": "balanced", "reason": "The militant-affiliation and casualty claims are attributed to ISPR rather than presented as independently verified fact." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt since the Business Recorder article page returned 403, and the claims are single-source (ISPR)." }
+      }
+    },
+    {
+      "id": 3,
       "headline": "UNSC condemns Swat suicide blast after Pakistan sounds alarm on Afghan terrorist havens",
       "summary": "AI summary: The UN Security Council condemned the August 2 suicide bombing outside a police station in Swat's Kabal area that killed at least 16 people, mostly civilians, after Pakistan's UN ambassador told the council that militant groups including the TTP operate from havens inside Afghanistan.",
       "sources": [
@@ -40,7 +59,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 4,
       "headline": "10 terrorists killed in 2 separate operations in KP: ISPR",
       "summary": "AI summary: Pakistan's military said its forces killed 10 militants in two separate clashes in Khyber Pakhtunkhwa, eight in South Waziristan's Azam Warsak area after troops repelled an attack on a checkpost, and two more in Dir district, with ISPR describing the dead as affiliated with the banned TTP.",
       "sources": [
@@ -59,7 +78,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 5,
       "headline": "Govt reduces petrol price by Rs3.19, high-speed diesel by Rs1.50",
       "summary": "AI summary: The government cut petrol prices by Rs3.19 and high-speed diesel by Rs1.50 per litre effective August 7, bringing petrol to Rs329.82 and diesel to Rs382.36 per litre, part of a daily pricing mechanism tied to volatile international oil prices since the earlier Iran-US conflict.",
       "sources": [
@@ -78,7 +97,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 6,
       "headline": "Presidential delay in judicial appointments: IHC reserves verdict on petition's maintainability",
       "summary": "AI summary: The Islamabad High Court reserved its verdict on the maintainability of a petition challenging the president's delay in approving judicial appointments to various high courts, with the petitioner arguing the Constitution allows no indefinite presidential silence while the court weighed whether such writs can be issued against the president.",
       "sources": [
@@ -97,7 +116,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 7,
       "headline": "Chinese envoy calls on PM",
       "summary": "AI summary: China's ambassador to Pakistan met Prime Minister Shehbaz Sharif and conveyed a message from President Xi Jinping, with the PM reaffirming Pakistan's commitment to the \"all-weather strategic partnership\" and expanding people-to-people exchanges between the two countries.",
       "sources": [
@@ -116,7 +135,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 8,
       "headline": "AJK elections: Pakistan rejects baseless remarks by India",
       "summary": "AI summary: Pakistan's Foreign Office rejected Indian criticism of the Azad Jammu and Kashmir elections as \"politically motivated,\" saying the vote was conducted peacefully and transparently and that India has no standing to comment on the region's democratic processes.",
       "sources": [
@@ -135,7 +154,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 9,
       "headline": "Devastating avalanche in G-B: Army copters evacuate bodies of five more climbers",
       "summary": "AI summary: Pakistan Army helicopters completed recovery operations for a Broad Peak avalanche, evacuating the bodies of five more climbers to bring the total to eight recovered, including well-known mountaineer Nirmal Purja, with two expedition members still missing in what officials describe as one of the country's deadliest mountaineering disasters.",
       "sources": [
