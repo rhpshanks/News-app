@@ -1,49 +1,50 @@
 {
-  "generatedAt": "2026-08-02T18:45:46+05:00",
-  "periodStart": "2026-07-27",
-  "periodEnd": "2026-08-02",
-  "periodLabel": "Jul 27 to Aug 2, 2026",
-  "totalArticles": 124,
+  "generatedAt": "2026-08-07T23:07:00+05:00",
+  "periodStart": "2026-08-01",
+  "periodEnd": "2026-08-07",
+  "periodLabel": "Aug 1 to Aug 7, 2026",
+  "totalArticles": 106,
   "stats": {
-    "economic": { "positive": 11, "neutral": 78, "negative": 35 },
-    "political": { "positive": 15, "neutral": 80, "negative": 29 },
-    "social": { "positive": 16, "neutral": 57, "negative": 51 }
+    "economic": { "positive": 13, "neutral": 87, "negative": 6 },
+    "political": { "positive": 16, "neutral": 67, "negative": 23 },
+    "social": { "positive": 14, "neutral": 58, "negative": 34 }
   },
   "summary": [
-    "Social coverage carried the heaviest negative tilt of the week, at roughly 41% of social-tagged readings versus about 28% for economic and 23% for political. That gap traces to a cluster of casualty stories rather than any single trend: a militant attack on a police checkpost in Hangu, Khyber Pakhtunkhwa left nine officers dead and 28 wounded; a methane explosion and collapse at the Sorange coalfield near Quetta killed all 34 trapped miners, most of them teenagers and young men from Shangla; and six labourers abducted from Nasirabad, Balochistan while working on development projects were found dead. Each of these registers as negative across economic, political, and social readings at once, since they combine loss of life with disrupted livelihoods and exposed security gaps, but the direct threat to public safety is what pushes the social category's negative share above the other two.",
-    "The week's dominant storyline was the Azad Jammu and Kashmir election, held in phases starting July 28. The first phase in Mirpur division was followed by rigging allegations from PPP, which contested results returned largely in PML-N's favour, and by July 30 PPP chairman Bilawal Bhutto-Zardari was warning at a Muzaffarabad rally that a 'countdown' would begin for the federal government if it 'steals' the election, a claim attributed to PPP's framing rather than treated as established fact. The second phase concluded around August 2. Despite the sharply partisan back-and-forth between PPP and PML-N over the results, the lean readings on this coverage stayed 'balanced' throughout, generally by attributing claims to the party making them rather than adjudicating who was right.",
-    "A second thread opened late in the week when Interior Minister Mohsin Naqvi told the Pakistan Economic Summit that the governance 'system has collapsed' and called for cross-party talks on new administrative provinces, remarks framed against Pakistan's debt and economic strain. That drew a public rebuttal from Defence Minister Khawaja Asif, who argued any such reset belonged in Parliament rather than a business audience and pointed to shortcomings in Naqvi's own ministry, while Sindh's chief minister and nationalist groups also pushed back, with some calling for Naqvi's resignation. It's worth flagging where the week's coverage ran on thinner sourcing: several flagged stories, including the Bilawal 'countdown' warning and the Nasirabad killings, carried a 'low' AI confidence rating, in one case because only one side's framing was available and in another because the source article was blocked and only a truncated wire excerpt could be used. The loudest political claims of the week were not always the best-sourced ones."
+    "Social coverage carried the week's heaviest negative weight: 32% of the 106 social-tagged articles landed negative, well above political (22%) and far above economic (6%). That gap traces to a run of hard-safety stories rather than diffuse gloom: the Sorange coalfield explosion near Quetta that killed all 34 trapped miners, the suicide bombing at Kabal police station in Swat that killed at least 14 (later revised to 17) and drew a UN Security Council condemnation, and a Lahore case in which a police officer was accused of raping a woman inside a station, prompting the suspension of over 70 staff. These are discrete, verifiable incidents, not editorializing, which is why they pulled the social read down sharply.",
+    "Political sentiment was the second-most negative category, driven largely by Azad Jammu and Kashmir's second-phase elections, which recurred as a story almost daily this week. PPP repeatedly alleged rigging, ballot stuffing, and coercion, including a disputed party worker's death that PML-N attributed to natural causes; PML-N ultimately took a commanding lead in the results. A separate thread of intra-government friction ran alongside it, Interior Minister Mohsin Naqvi's call for a governance \"reset\" and new provinces drew public pushback from Defence Minister Khawaja Asif and PPP's Raza Rabbani, while a stalled presidential sign-off on judicial appointments kept surfacing as a constitutional friction point through the week.",
+    "Economic sentiment stayed comparatively mild, only 6% negative across the week, and the one clearly market-relevant flagged story sat outside Pakistan entirely: President Trump's warning that Iran must reopen the Strait of Hormuz or face being \"hit very hard,\" flagged for high market relevance given the route's importance to global oil flows and, by extension, import-dependent economies like Pakistan's. Domestically, the coal mine explosion was the week's clearest economic-and-social overlap, a fatal loss of workforce and disrupted output at a local level, but it didn't push the broader economic tally into negative territory the way the AJK disputes and security incidents did for political and social readings.",
+    "Despite how politically charged the week was, coverage stayed largely balanced: of the flagged stories reviewed, all but one carried a \"balanced\" lean, reporting rigging allegations, ministerial disputes, and protest claims alongside on-record rebuttals from the other side. The one exception, a piece on PTI's call for a fresh vote of confidence, leaned pro-opposition, and the AI's own confidence note flagged why: it was working from a one-sided RSS excerpt rather than the full article. Confidence readings dipped lowest on the AJK election-violence claims themselves, gunfire and ballot-stuffing allegations that the Election Commission and PML-N both disputed as unverified, which is the kind of contested claim worth reading with real caution rather than as settled fact."
   ],
   "notableStories": [
     {
-      "headline": "9 cops martyred, 28 injured as police checkpost comes under attack in KP's Hangu",
-      "context": "A militant assault on a police checkpost in Hangu killed nine officers including a DSP and wounded 28 more, one of the deadliest single security incidents of the week.",
-      "sourceName": "Dawn News",
-      "sourceUrl": "https://www.dawn.com/news/2019442/9-cops-martyred-28-injured-as-police-checkpost-comes-under-attack-in-kps-hangu"
-    },
-    {
       "headline": "Quetta coal mine explosion: Search and rescue operation concludes as last two bodies recovered",
-      "context": "A methane explosion and mine collapse near Quetta killed all 34 trapped miners, mostly teenagers and young men from Shangla, closing out a days-long rescue effort.",
+      "context": "A methane explosion and mine collapse at the Sorange coalfield killed all 34 trapped miners, most of them teenagers and young men from Shangla district, marking one of the week's deadliest single incidents and a stark example of recurring mine-safety failures.",
       "sourceName": "Dawn News",
-      "sourceUrl": "https://www.dawn.com/news/2019918/quetta-coal-mine-explosion-search-and-rescue-operation-concludes-as-last-two-bodies-recovered"
+      "sourceUrl": "https://www.dawn.com/news/2020918/quetta-coal-mine-explosion-search-and-rescue-operation-concludes-as-last-two-bodies-recovered"
     },
     {
-      "headline": "Bilawal warns 'countdown' will begin for federal government if it 'steals' AJK election",
-      "context": "PPP's chairman escalated the AJK election dispute with a public warning aimed at the federal government, the sharpest moment yet in the week's central political storyline.",
+      "headline": "Suicide bombing at Swat police station kills 14, injures over 25",
+      "context": "A suicide bomber detonated explosives at Kabal police station's gate during a nearby anti-terrorism protest; the attack, later condemned by the UN Security Council, was the week's most significant security incident and a driver of the sharply negative social and political readings.",
       "sourceName": "Dawn News",
-      "sourceUrl": "https://www.dawn.com/news/2019507/bilawal-warns-countdown-will-begin-for-federal-government-if-it-steals-ajk-election"
+      "sourceUrl": "https://www.dawn.com/news/2020154/at-least-14-people-including-police-officials-martyred-in-suicide-attack-on-kabal-police-station-in-swat-police"
     },
     {
-      "headline": "Bodies of six abducted labourers found in Balochistan's Nasirabad",
-      "context": "Six labourers from Punjab and KP working on development projects were abducted and killed in Nasirabad, underscoring the security risks facing out-of-province workers in Balochistan.",
-      "sourceName": "Geo News",
-      "sourceUrl": "https://www.geo.tv/latest/675423-bodies-of-six-abducted-labourers-found-in-balochistans-nasirabad"
+      "headline": "Trump warns Iran to open Strait of Hormuz or get 'hit very hard'",
+      "context": "Trump threatened Iran over continued shipping attacks in the Strait of Hormuz, a key global oil corridor; flagged for high market relevance since disruption there would raise oil prices for import-dependent economies including Pakistan's.",
+      "sourceName": "Dawn News",
+      "sourceUrl": "https://www.dawn.com/news/2020745/trump-warns-iran-to-open-strait-of-hormuz-or-get-hit-very-hard"
     },
     {
-      "headline": "Asif reacts to Naqvi's call for governance reset, urges him to begin with his own ministry",
-      "context": "A public dispute between two senior federal ministers over Naqvi's 'system has collapsed' remarks showed friction inside the ruling coalition over how to address governance and provincial reform.",
+      "headline": "Second phase of AJK polls concludes amid renewed rigging allegations by PPP",
+      "context": "PPP accused PML-N of stealing votes \"through bullets, batons and coercion\" and cited a disputed party worker's death, while PML-N attributed the death to natural causes; this dispute recurred across multiple days and was the week's dominant political storyline.",
       "sourceName": "Dawn News",
-      "sourceUrl": "https://www.dawn.com/news/2020112/asif-reacts-to-naqvis-call-for-governance-reset-urges-him-to-begin-with-his-own-ministry"
+      "sourceUrl": "https://www.dawn.com/news/2020095/second-phase-of-ajk-polls-concludes-amid-renewed-rigging-allegations-by-ppp"
+    },
+    {
+      "headline": "Cop allegedly rapes woman inside Lahore police station; entire staff suspended",
+      "context": "An assistant sub-inspector allegedly raped a mentally impaired woman inside a Lahore police station, prompting the suspension of the entire station staff of over 70 personnel, a case that speaks directly to the week's weak spot in institutional trust and public safety.",
+      "sourceName": "Dawn News",
+      "sourceUrl": "https://www.dawn.com/news/2020559/cop-allegedly-rapes-woman-inside-lahore-police-station-entire-staff-suspended"
     }
   ]
 }
