@@ -1,0 +1,209 @@
+{
+  "generatedAt": "2026-08-08T00:23:44+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Govt reduces petrol price by Rs2.20, high-speed diesel by Rs1.50",
+      "summary": "AI summary: The government cut petrol prices by Rs2.20 and high-speed diesel by Rs1.50 per litre effective August 8, bringing petrol to Rs327.62 and diesel to Rs380.86 per litre, continuing the daily pricing adjustments Ogra adopted after the Iran-US conflict roiled international oil markets earlier this year.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2021290/govt-reduces-petrol-price-by-rs220-high-speed-diesel-by-rs150"
+        }
+      ],
+      "timestamp": "Aug 8, 12:08 AM",
+      "publishedAt": "2026-08-08T00:08:14+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "Lower fuel prices reduce transport and production costs for households and businesses."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "A further visible cost-of-living relief measure the government can point to as responsive economic management."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Cheaper fuel eases household budgets and transport costs across income groups."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Fuel price moves affect transport, logistics and consumer-facing business costs and are closely watched by markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the price change and its regulatory mechanism factually without favoring government or opposition framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on official pricing figures reported by a single outlet; figures are specific and verifiable in nature."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Goods transporters to go on strike from Saturday after talks with govt fail",
+      "summary": "AI summary: Pakistan's goods transporters began an indefinite nationwide wheel-jam strike after talks with the government collapsed, with the All Pakistan Goods Transport Itehad demanding uniform axle-load enforcement, higher weight limits for 10-wheelers, and cuts to diesel prices, tolls and withholding tax.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2021293/goods-transporters-to-go-on-strike-from-saturday-after-talks-with-govt-fail"
+        }
+      ],
+      "timestamp": "Aug 7, 11:18 PM",
+      "publishedAt": "2026-08-07T23:18:46+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "A nationwide, indefinite goods transport strike threatens to disrupt supply chains, freight movement and business activity until resolved."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Breakdown of talks between a major industry body and the government signals unresolved friction and policy pressure on the administration."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "An indefinite transport strike risks shortages and price effects that touch daily life for consumers reliant on goods movement."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Logistics and freight disruption directly affects businesses dependent on goods transport and is relevant to market observers."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Presents the transporters' grievances and demands on the record without editorializing for or against the government."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single-source Dawn report, but based on named, on-the-record statements from the transporters' association president."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Sindh govt constitutes third medical board for exhumation of Mir Ali Raza's body",
+      "summary": "AI summary: After withdrawing two earlier notifications, Sindh's government constituted a new eight-member medical board, led by police surgeon Dr Sumaiyya Syed, to carry out the exhumation of businessman Mir Ali Raza's body on August 8, following the family's objection to the previous board's abrupt reconstitution.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2021292/sindh-govt-constitutes-third-medical-board-for-exhumation-of-mir-ali-razas-body"
+        }
+      ],
+      "timestamp": "Aug 7, 11:17 PM",
+      "publishedAt": "2026-08-07T23:17:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No discernible effect on jobs, prices, or business activity."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "A second reconstitution of the medico-legal board, after two withdrawn notifications, reflects continuing procedural friction in a court-linked investigation."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Repeated changes and delays prolong distress and uncertainty for the victim's family and the public following the case."
+        },
+        "market": {
+          "value": "low",
+          "reason": "No relevance to investors or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the notification's procedural details factually without taking a side in the underlying dispute."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single-source Dawn report, but based on specific, named notification details and officials; the exact feed pubDate could not be retrieved, so the article's own published/updated timestamp was used instead."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Pakistan, Saudi Arabia, Turkiye sign tripartite defence agreement in Makkah",
+      "summary": "AI summary: Pakistan, Saudi Arabia and Turkiye signed the Makkah Joint Defence Agreement at Al-Safa Palace, with PM Shehbaz Sharif, Crown Prince Mohammed bin Salman and President Erdogan in attendance, committing to treat an armed attack on any one signatory as an attack on all three amid heightened regional tensions.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2021248/pakistan-saudi-arabia-turkiye-sign-tripartite-defence-agreement-in-makkah"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40433747/saudi-arabia-pakistan-turkiye-agree-to-treat-attack-on-one-as-attack-on-all"
+        }
+      ],
+      "timestamp": "Aug 7, 8:52 PM",
+      "publishedAt": "2026-08-07T20:52:03+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A defence and security pact with no specific economic commitments disclosed."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "A formal mutual-defence pact with two major regional powers strengthens Pakistan's strategic alliances amid regional tension."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct bearing on daily public life."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "A collective-security agreement amid Gulf tensions is the kind of development markets watch for wider regional stability signals."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the government's diplomatic and defence achievement factually, without domestic political framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Corroborated by two independent outlets with matching details on the venue, attendees, and the agreement's core mutual-defence terms."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Sindh announces new school timings effective from Aug 6",
+      "summary": "AI summary: Sindh's Education Department revised school timings province-wide effective August 6, with single-shift primary schools running roughly 8am-2:30pm on weekdays through October before shifting to a later autumn schedule, and adjusted hours set for double-shift schools as well.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40433762/sindh-announces-new-school-timings-effective-from-aug-6"
+        }
+      ],
+      "timestamp": "Aug 7, 6:17 PM",
+      "publishedAt": "2026-08-07T18:17:51+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A routine administrative schedule change with no discernible effect on jobs, prices, or business activity."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A routine education-department administrative notification, not a governance or institutional stability matter."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "A seasonally adjusted school schedule that appears intended to suit weather and daily routines benefits students, parents, and staff."
+        },
+        "market": {
+          "value": "low",
+          "reason": "No relevance to investors or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "A factual administrative notice with no domestic political framing evident."
+        },
+        "confidence": {
+          "value": "low",
+          "reason": "Based only on a short RSS description excerpt since the Business Recorder article page returned 403."
+        }
+      }
+    }
+  ]
+}
