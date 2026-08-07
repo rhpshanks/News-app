@@ -1,0 +1,157 @@
+{
+  "generatedAt": "2026-08-07T11:33:37+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Medico-legal board for exhumation of Mir Raza Ali's body abruptly reconstituted",
+      "summary": "AI summary: Sindh health authorities abruptly reconstituted the medical board overseeing the exhumation of Mir Raza Ali, replacing its original members without explanation; the family's lawyer called the move \"malicious\" and said they do not consent to the new board.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2021207/medico-legal-board-for-exhumation-of-mir-raza-alis-body-abruptly-reconstituted" }
+      ],
+      "timestamp": "Aug 7, 11:00 AM",
+      "publishedAt": "2026-08-07T11:00:34+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No discernible effect on jobs, prices, or business activity." },
+        "political": { "value": "negative", "reason": "Opaque reshuffling of a court-ordered medical board by a provincial health department raises governance transparency concerns." },
+        "social": { "value": "negative", "reason": "Undermines public trust in a high-profile death investigation and prolongs distress for the victim's family." },
+        "market": { "value": "low", "reason": "No relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Article presents both the family lawyer's allegation and context on prior autopsy inconsistencies without taking a side." },
+        "confidence": { "value": "medium", "reason": "Single-source Dawn report with a named lawyer, but the government's own rationale for the reshuffle isn't included." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "UNSC condemns Swat suicide blast after Pakistan sounds alarm on Afghan terrorist havens",
+      "summary": "AI summary: The UN Security Council condemned the August 2 suicide bombing outside a police station in Swat's Kabal area that killed at least 16 people, mostly civilians, after Pakistan's UN ambassador told the council that militant groups including the TTP operate from havens inside Afghanistan.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2021203/unsc-condemns-swat-suicide-blast-after-pakistan-sounds-alarm-on-afghan-terrorist-havens" }
+      ],
+      "timestamp": "Aug 7, 10:17 AM",
+      "publishedAt": "2026-08-07T10:16:59+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct near-term effect on jobs, prices or business activity beyond the affected region." },
+        "political": { "value": "negative", "reason": "International attention on cross-border militant safe havens strains Pakistan-Afghanistan relations and pressures institutional security response." },
+        "social": { "value": "negative", "reason": "A mass-casualty attack on civilians directly harms public safety and wellbeing." },
+        "market": { "value": "low", "reason": "Limited direct relevance to investors, though recurring militancy is a longer-term risk factor." },
+        "lean": { "value": "balanced", "reason": "Reports the UNSC's own condemnation and Pakistan's UN statement without editorializing for or against any domestic political party." },
+        "confidence": { "value": "medium", "reason": "Based on a single Dawn report of official UNSC and Pakistani statements; core facts are attributed to named officials." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "10 terrorists killed in 2 separate operations in KP: ISPR",
+      "summary": "AI summary: Pakistan's military said its forces killed 10 militants in two separate clashes in Khyber Pakhtunkhwa, eight in South Waziristan's Azam Warsak area after troops repelled an attack on a checkpost, and two more in Dir district, with ISPR describing the dead as affiliated with the banned TTP.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2021201/10-terrorists-killed-in-2-separate-operations-in-kp-ispr" }
+      ],
+      "timestamp": "Aug 7, 10:01 AM",
+      "publishedAt": "2026-08-07T10:01:07+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct near-term effect on broader economic activity." },
+        "political": { "value": "neutral", "reason": "Routine ISPR-reported counter-militancy operation with official political endorsement, not itself a governance disruption." },
+        "social": { "value": "negative", "reason": "Comes amid what a conflict-monitoring group called Pakistan's deadliest month of 2026 for security-related deaths, reflecting ongoing regional instability even though framed as a security success." },
+        "market": { "value": "low", "reason": "Localized security operation with limited direct market relevance." },
+        "lean": { "value": "balanced", "reason": "Casualty claims are attributed to ISPR rather than presented as independently verified, and reactions from both the president and PM are included for context." },
+        "confidence": { "value": "medium", "reason": "Single-source military account of events; claims of terrorist identity and body count are ISPR's own report, not independently verified." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Govt reduces petrol price by Rs3.19, high-speed diesel by Rs1.50",
+      "summary": "AI summary: The government cut petrol prices by Rs3.19 and high-speed diesel by Rs1.50 per litre effective August 7, bringing petrol to Rs329.82 and diesel to Rs382.36 per litre, part of a daily pricing mechanism tied to volatile international oil prices since the earlier Iran-US conflict.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2021048/govt-reduces-petrol-price-by-rs319-high-speed-diesel-by-rs150" }
+      ],
+      "timestamp": "Aug 7, 7:50 AM",
+      "publishedAt": "2026-08-07T07:50:34+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Lower fuel prices reduce transport and production costs for households and businesses." },
+        "political": { "value": "positive", "reason": "A visible cost-of-living relief measure the government can point to as responsive economic management." },
+        "social": { "value": "positive", "reason": "Cheaper fuel eases household budgets and transport costs across income groups." },
+        "market": { "value": "medium", "reason": "Fuel price moves affect transport, logistics and consumer-facing business costs and are closely watched by markets." },
+        "lean": { "value": "balanced", "reason": "Reports the price change and its policy rationale factually without favoring government or opposition framing." },
+        "confidence": { "value": "medium", "reason": "Based on official pricing figures reported by a single outlet; figures are specific and verifiable in nature." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Presidential delay in judicial appointments: IHC reserves verdict on petition's maintainability",
+      "summary": "AI summary: The Islamabad High Court reserved its verdict on the maintainability of a petition challenging the president's delay in approving judicial appointments to various high courts, with the petitioner arguing the Constitution allows no indefinite presidential silence while the court weighed whether such writs can be issued against the president.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433694/presidential-delay-in-judicial-appointments-ihc-reserves-verdicts-maintainability" }
+      ],
+      "timestamp": "Aug 7, 6:27 AM",
+      "publishedAt": "2026-08-07T06:27:15+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct effect on jobs, prices or business activity." },
+        "political": { "value": "negative", "reason": "A stalled presidential approval process for judicial appointments signals friction between executive and judicial institutions and delays in governance functioning." },
+        "social": { "value": "neutral", "reason": "Limited direct effect on day-to-day public wellbeing or safety." },
+        "market": { "value": "low", "reason": "Minimal direct relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Working only from the RSS excerpt, the framing presents both the petitioner's argument and the court's own questioning without discernible favor to either political side." },
+        "confidence": { "value": "low", "reason": "Based only on a short RSS description excerpt rather than the full article, since the Business Recorder article page returned 403." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Chinese envoy calls on PM",
+      "summary": "AI summary: China's ambassador to Pakistan met Prime Minister Shehbaz Sharif and conveyed a message from President Xi Jinping, with the PM reaffirming Pakistan's commitment to the \"all-weather strategic partnership\" and expanding people-to-people exchanges between the two countries.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433689/chinese-envoy-calls-on-pm" }
+      ],
+      "timestamp": "Aug 7, 6:18 AM",
+      "publishedAt": "2026-08-07T06:18:10+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic courtesy meeting without specific new economic commitments mentioned." },
+        "political": { "value": "positive", "reason": "Reinforces a stable, longstanding bilateral relationship viewed as a pillar of Pakistan's foreign policy." },
+        "social": { "value": "neutral", "reason": "No direct bearing on daily public life." },
+        "market": { "value": "low", "reason": "No concrete economic or investment announcement despite the strategic partnership referenced." },
+        "lean": { "value": "balanced", "reason": "Routine diplomatic report on a government meeting, with no visible slant toward domestic political actors." },
+        "confidence": { "value": "low", "reason": "Based only on a short RSS description excerpt since the Business Recorder article page returned 403." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "AJK elections: Pakistan rejects baseless remarks by India",
+      "summary": "AI summary: Pakistan's Foreign Office rejected Indian criticism of the Azad Jammu and Kashmir elections as \"politically motivated,\" saying the vote was conducted peacefully and transparently and that India has no standing to comment on the region's democratic processes.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433697/ajk-elections-pakistan-rejects-baseless-remarks-by-india" }
+      ],
+      "timestamp": "Aug 7, 6:16 AM",
+      "publishedAt": "2026-08-07T06:16:10+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No bearing on jobs, prices or business activity." },
+        "political": { "value": "neutral", "reason": "A routine diplomatic rebuttal in an ongoing India-Pakistan rhetorical exchange over Kashmir, not a domestic governance issue." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily public wellbeing." },
+        "market": { "value": "low", "reason": "Standard diplomatic statement with no market relevance." },
+        "lean": { "value": "balanced", "reason": "Reports the Foreign Office's position on a bilateral dispute rather than framing around domestic government-versus-opposition politics." },
+        "confidence": { "value": "low", "reason": "Based only on a short RSS description excerpt since the Business Recorder article page returned 403." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Devastating avalanche in G-B: Army copters evacuate bodies of five more climbers",
+      "summary": "AI summary: Pakistan Army helicopters completed recovery operations for a Broad Peak avalanche, evacuating the bodies of five more climbers to bring the total to eight recovered, including well-known mountaineer Nirmal Purja, with two expedition members still missing in what officials describe as one of the country's deadliest mountaineering disasters.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433668/devastating-avalanche-in-g-b-army-copters-evacuate-bodies-of-five-more-climbers" }
+      ],
+      "timestamp": "Aug 7, 5:15 AM",
+      "publishedAt": "2026-08-07T05:15:34+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Limited direct effect on broader jobs, prices or business activity, though it may affect Pakistan's mountaineering tourism reputation." },
+        "political": { "value": "neutral", "reason": "An army-supported recovery operation reported without governance or institutional stability implications." },
+        "social": { "value": "negative", "reason": "A multi-fatality mountaineering disaster with lives lost and climbers still missing directly affects public wellbeing and safety." },
+        "market": { "value": "low", "reason": "Minimal direct relevance to investors or broader business decisions." },
+        "lean": { "value": "balanced", "reason": "Factual disaster-recovery reporting from the RSS excerpt with no discernible political framing." },
+        "confidence": { "value": "low", "reason": "Based only on a short RSS description excerpt since the Business Recorder article page returned 403." }
+      }
+    }
+  ]
+}
