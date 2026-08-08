@@ -1,8 +1,172 @@
 {
-  "generatedAt": "2026-08-08T04:06:02+05:00",
+  "generatedAt": "2026-08-08T14:17:47+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "OIC welcomes Pak-Saudi-Turkiye joint defence pact, calls it 'important strategic step'",
+      "summary": "AI summary: The Organisation of Islamic Cooperation welcomed the Pakistan-Saudi Arabia-Turkiye Makkah Joint Defence Agreement, with Secretary General Hissein Brahim Taha calling it an important strategic step and a pillar for regional security and stability, while Saudi and Turkish officials stressed the pact targets no country and remains open to other nations.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2021475/oic-welcomes-pak-saudi-turkiye-joint-defence-pact-calls-it-important-strategic-step"
+        }
+      ],
+      "timestamp": "Aug 8, 1:39 PM",
+      "publishedAt": "2026-08-08T13:39:56+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "An international body's statement of support for a defence pact has no direct economic effect."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "A multilateral organisation publicly endorsing the pact reinforces Pakistan's diplomatic standing without any institutional friction."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "An OIC statement of support has no direct near-term effect on daily public life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "A reaction statement rather than a substantive policy or security development; limited direct market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the OIC secretary general's and other officials' statements factually without domestic political framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on a full Dawn article with direct quotes, but from a single outlet."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Captain martyred, 7 terrorists killed in intelligence-based operation in Hangu: ISPR",
+      "summary": "AI summary: A Pakistan Army captain was martyred and seven Fitna al-Khawarij militants were killed in an intelligence-based operation in Hangu, Khyber Pakhtunkhwa, after the militants took refuge in a mosque during the firefight, with ISPR saying weapons were recovered and President Zardari and PM Shehbaz Sharif paying tribute while vowing to continue anti-terrorism operations.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2021456/captain-martyred-7-terrorists-killed-in-intelligence-based-operation-in-hangu-ispr"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40433865/army-captain-martyred-seven-terrorists-killed-in-hangu-ibo-ispr"
+        }
+      ],
+      "timestamp": "Aug 8, 12:50 PM",
+      "publishedAt": "2026-08-08T12:50:53+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A counter-terrorism operation has no direct bearing on jobs, prices, or business activity."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A routine ISPR-reported operation with official statements of resolve; no indication of institutional stability being helped or harmed."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "The death of a soldier and the continued presence of armed militants in a populated district reflect ongoing harm and insecurity for the local population, even though the operation itself is framed as a security success."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited direct relevance to investors or markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Claims are attributed to ISPR as the stated source, and official statements from the president and PM are reported factually without favoring a side."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Corroborated by two independent outlets (a full Dawn article and a Business Recorder report) with matching details on the captain, casualty count, and mosque standoff."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Senate, NA leadership pledge closer cooperation for stable parliamentary system",
+      "summary": "AI summary: Senate Chairman Yousaf Raza Gillani and National Assembly Speaker Ayaz Sadiq met in Islamabad and pledged closer cooperation between the two houses, calling institutional coordination essential for a stable parliamentary system and effective legislation.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2021469/senate-na-leadership-pledge-closer-cooperation-for-stable-parliamentary-system"
+        }
+      ],
+      "timestamp": "Aug 8, 12:38 PM",
+      "publishedAt": "2026-08-08T12:38:57+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A pledge of inter-institutional cooperation has no direct economic effect."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "Senate and National Assembly leadership publicly committing to closer cooperation and constitutional supremacy supports institutional and governance stability."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "A parliamentary leadership meeting has no direct near-term effect on daily public life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited relevance to investors or markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the meeting and both leaders' statements factually without favoring government or opposition framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Based on a full Dawn article with direct, named quotes from both leaders."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Trump administration to invest $3 billion in minerals projects to boost US defence supply chains",
+      "summary": "AI summary: The Trump administration announced roughly $3 billion in loans and grants for US critical-minerals and battery-supply projects, including funding for lithium-ion battery, scandium and magnet producers, aiming to cut reliance on Chinese mineral processing and rebuild domestic defence supply chains.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2021463/trump-administration-to-invest-3-billion-in-minerals-projects-to-boost-us-defence-supply-chains"
+        }
+      ],
+      "timestamp": "Aug 8, 10:35 AM",
+      "publishedAt": "2026-08-08T10:35:06+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "A large package of loans and grants for minerals and battery production signals significant investment and business activity in that sector, though the direct effect is on the US economy rather than Pakistan's."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A routine US domestic policy announcement with no bearing on Pakistani institutional or governance stability."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct near-term effect on the public covered by this outlet."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "A multi-billion-dollar minerals and battery-supply investment is the kind of development global markets and investors in the sector track closely."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the announcement, figures, and quoted officials factually with no domestic Pakistani political framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on a full Dawn article with specific quoted figures, but a single outlet covering a foreign policy announcement."
+        }
+      }
+    },
+    {
+      "id": 5,
       "headline": "KP amends controversial law on lawmakers' privileges",
       "summary": "AI summary: The Khyber Pakhtunkhwa Assembly rolled back lifetime blue passports and cut lawmakers' firearms licenses from its 2026 privileges law after public backlash, while also passing a resolution against any federal annexation of provincial districts.",
       "sources": [
@@ -42,7 +206,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 6,
       "headline": "Efforts underway to end deadlock over judges' appointments",
       "summary": "AI summary: A standoff over judicial appointments is deepening in Pakistan, as President Zardari has yet to notify the Judicial Commission's recommended confirmations and new high court judges past the constitutional deadline, prompting the government to consider unilateral action while both sides plan weekend talks.",
       "sources": [
@@ -82,7 +246,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 7,
       "headline": "Schedule for third phase of AJK polls revised",
       "summary": "AI summary: Authorities postponed polling in Azad Kashmir's Poonch and Palandri districts, originally set for August 10, amid unrest over demands to abolish 12 reserved legislative seats, alongside new media and internet restrictions in the region.",
       "sources": [
@@ -122,7 +286,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 8,
       "headline": "Pakistan joins Saudi Arabia, Turkiye in 'all for one' pact",
       "summary": "AI summary: Pakistan, Saudi Arabia and Turkey signed the Makkah Joint Defence Agreement, under which an armed attack on any one signatory is treated as an attack on all three, with leaders describing it as a mutual-deterrence pact open to other countries rather than a military bloc against anyone.",
       "sources": [
@@ -166,7 +330,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 9,
       "headline": "Bilawal demands 'free and fair' elections in AJK",
       "summary": "AI summary: PPP chairman Bilawal Bhutto Zardari criticized Azad Kashmir's electoral process as having \"failed,\" calling for a truth commission and questioning whether the six-phase election structure enables rigging.",
       "sources": [
@@ -206,7 +370,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 10,
       "headline": "Int'l Youth Day: PM may unveil 'Vision Pakistan 2047' on 12th",
       "summary": "AI summary: Prime Minister Shehbaz Sharif is expected to launch a long-term development roadmap called 'Vision Pakistan 2047' around International Youth Day, focused on sustainable growth and youth empowerment, with federal ministries directed to submit input by August 10.",
       "sources": [
@@ -246,7 +410,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 11,
       "headline": "Govt reduces petrol price by Rs2.20, high-speed diesel by Rs1.50",
       "summary": "AI summary: The government cut petrol prices by Rs2.20 and high-speed diesel by Rs1.50 per litre effective August 8, bringing petrol to Rs327.62 and diesel to Rs380.86 per litre, continuing the daily pricing adjustments Ogra adopted after the Iran-US conflict roiled international oil markets earlier this year.",
       "sources": [
@@ -286,7 +450,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 12,
       "headline": "Goods transporters to go on strike from Saturday after talks with govt fail",
       "summary": "AI summary: Pakistan's goods transporters began an indefinite nationwide wheel-jam strike after talks with the government collapsed, with the All Pakistan Goods Transport Itehad demanding uniform axle-load enforcement, higher weight limits for 10-wheelers, and cuts to diesel prices, tolls and withholding tax.",
       "sources": [
@@ -326,7 +490,7 @@
       }
     },
     {
-      "id": 9,
+      "id": 13,
       "headline": "Sindh govt constitutes third medical board for exhumation of Mir Ali Raza's body",
       "summary": "AI summary: After withdrawing two earlier notifications, Sindh's government constituted a new eight-member medical board, led by police surgeon Dr Sumaiyya Syed, to carry out the exhumation of businessman Mir Ali Raza's body on August 8, following the family's objection to the previous board's abrupt reconstitution.",
       "sources": [
@@ -366,7 +530,7 @@
       }
     },
     {
-      "id": 10,
+      "id": 14,
       "headline": "Pakistan, Saudi Arabia, Turkiye sign tripartite defence agreement in Makkah",
       "summary": "AI summary: Pakistan, Saudi Arabia and Turkiye signed the Makkah Joint Defence Agreement at Al-Safa Palace, with PM Shehbaz Sharif, Crown Prince Mohammed bin Salman and President Erdogan in attendance, committing to treat an armed attack on any one signatory as an attack on all three amid heightened regional tensions.",
       "sources": [
@@ -410,7 +574,7 @@
       }
     },
     {
-      "id": 11,
+      "id": 15,
       "headline": "Sindh announces new school timings effective from Aug 6",
       "summary": "AI summary: Sindh's Education Department revised school timings province-wide effective August 6, with single-shift primary schools running roughly 8am-2:30pm on weekdays through October before shifting to a later autumn schedule, and adjusted hours set for double-shift schools as well.",
       "sources": [
