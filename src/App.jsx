@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import { useVirtualizer } from "@tanstack/react-virtual";
 import { Analytics } from "@vercel/analytics/react";
+import { SpeedInsights } from "@vercel/speed-insights/react";
 import Header from "./components/Header";
 import ArticleCard from "./components/ArticleCard";
 import SkeletonCard from "./components/SkeletonCard";
@@ -448,6 +449,7 @@ function App({
       )}
 
       <Analytics />
+      <SpeedInsights />
     </div>
   );
 }
