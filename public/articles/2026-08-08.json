@@ -1,8 +1,252 @@
 {
-  "generatedAt": "2026-08-08T00:23:44+05:00",
+  "generatedAt": "2026-08-08T04:06:02+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "KP amends controversial law on lawmakers' privileges",
+      "summary": "AI summary: The Khyber Pakhtunkhwa Assembly rolled back lifetime blue passports and cut lawmakers' firearms licenses from its 2026 privileges law after public backlash, while also passing a resolution against any federal annexation of provincial districts.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2021413/kp-amends-controversial-law-on-lawmakers-privileges"
+        }
+      ],
+      "timestamp": "Aug 8, 7:28 AM",
+      "publishedAt": "2026-08-08T07:28:16+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Mainly a governance/privileges matter with no direct economic impact."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "The assembly's swift walkback of criticized privileges shows responsive governance, and the unanimous anti-annexation resolution reinforces constitutional consensus rather than division."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Reduced special privileges (lifetime passports, arms licenses) for lawmakers responds to public criticism and journalist-protection concerns, a modest public-interest improvement."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited relevance to investors or markets; a provincial administrative/political matter."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Dawn's report is factual, covering the amendment and its rationale without favoring a side."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Corroborated by direct Dawn reporting citing named provisions and resolution text, not merely an excerpt."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Efforts underway to end deadlock over judges' appointments",
+      "summary": "AI summary: A standoff over judicial appointments is deepening in Pakistan, as President Zardari has yet to notify the Judicial Commission's recommended confirmations and new high court judges past the constitutional deadline, prompting the government to consider unilateral action while both sides plan weekend talks.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2021417/efforts-underway-to-end-deadlock-over-judges-appointments"
+        }
+      ],
+      "timestamp": "Aug 8, 7:15 AM",
+      "publishedAt": "2026-08-08T07:15:37+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A judicial-appointments dispute has no direct bearing on jobs, prices, or business activity."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "An unresolved standoff between the presidency and government over judicial appointments, with judges already lapsing from office and a pending court petition, signals institutional friction and governance uncertainty."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "The dispute is largely confined to legal/political institutions with limited direct effect on public daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Primarily a judicial-governance matter, though prolonged institutional conflict could weigh on investor sentiment over time."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Dawn presents both the government's and presidency's legal arguments and quotes concerns on both sides without favoring either."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on a full Dawn article, but the dispute is still unfolding and the outcome is uncertain."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Schedule for third phase of AJK polls revised",
+      "summary": "AI summary: Authorities postponed polling in Azad Kashmir's Poonch and Palandri districts, originally set for August 10, amid unrest over demands to abolish 12 reserved legislative seats, alongside new media and internet restrictions in the region.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40433833/schedule-for-third-phase-of-ajk-polls-revised"
+        }
+      ],
+      "timestamp": "Aug 8, 6:32 AM",
+      "publishedAt": "2026-08-08T06:32:17+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "An electoral delay in AJK has no direct economic effect."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Postponing elections in two districts amid unrest, plus new media and internet restrictions, points to instability in the electoral process and reduced transparency."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Internet and media restrictions alongside election-related unrest directly affect residents' access to information and daily life in the affected districts."
+        },
+        "market": {
+          "value": "low",
+          "reason": "A regional electoral/administrative matter with little direct market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Working only from the RSS excerpt, the framing reports the postponement and restrictions factually without attributing blame to a specific party."
+        },
+        "confidence": {
+          "value": "low",
+          "reason": "Based only on a short RSS description excerpt rather than the full article."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Pakistan joins Saudi Arabia, Turkiye in 'all for one' pact",
+      "summary": "AI summary: Pakistan, Saudi Arabia and Turkey signed the Makkah Joint Defence Agreement, under which an armed attack on any one signatory is treated as an attack on all three, with leaders describing it as a mutual-deterrence pact open to other countries rather than a military bloc against anyone.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2021421/pakistan-joins-saudi-arabia-turkiye-in-all-for-one-pact"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40433838/ksa-turkiye-pakistan-sign-defence-deal"
+        }
+      ],
+      "timestamp": "Aug 8, 4:54 AM",
+      "publishedAt": "2026-08-08T04:54:51+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A defence pact primarily affects security posture, not direct economic activity, though deeper regional integration could have longer-term trade implications."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "A high-profile trilateral defence agreement strengthens Pakistan's regional alliances and diplomatic standing without domestic institutional strain."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "The pact concerns state-to-state defence commitments with no direct near-term effect on daily public life."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Regional security alliances can influence investor perceptions of stability, though the deal itself is not directly market-moving."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Both Dawn and Business Recorder report the signing with official quotes from all three countries emphasizing the pact targets no one, without favoring government or opposition framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Corroborated by two independent outlets (a full Dawn article and Business Recorder) with matching details on signatories and provisions."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Bilawal demands 'free and fair' elections in AJK",
+      "summary": "AI summary: PPP chairman Bilawal Bhutto Zardari criticized Azad Kashmir's electoral process as having \"failed,\" calling for a truth commission and questioning whether the six-phase election structure enables rigging.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40433825/bilawal-demands-free-and-fair-elections-in-ajk"
+        }
+      ],
+      "timestamp": "Aug 8, 4:54 AM",
+      "publishedAt": "2026-08-08T04:54:51+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A political statement about electoral fairness has no direct economic effect."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "A senior opposition figure publicly alleging the electoral system 'facilitates rigging' signals contested legitimacy around the ongoing AJK elections."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Primarily a political dispute with limited direct effect on daily public life beyond the electoral process itself."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not directly relevant to markets or business decisions."
+        },
+        "lean": {
+          "value": "pro-opposition",
+          "reason": "The article centers entirely on an opposition leader's uncontested criticism of the electoral process, with no government or election-commission response included in the excerpt."
+        },
+        "confidence": {
+          "value": "low",
+          "reason": "Based only on a short RSS description excerpt covering one politician's claims, not the full article or any rebuttal."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Int'l Youth Day: PM may unveil 'Vision Pakistan 2047' on 12th",
+      "summary": "AI summary: Prime Minister Shehbaz Sharif is expected to launch a long-term development roadmap called 'Vision Pakistan 2047' around International Youth Day, focused on sustainable growth and youth empowerment, with federal ministries directed to submit input by August 10.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40433845/intl-youth-day-pm-may-unveil-vision-pakistan-2047-on-12th"
+        }
+      ],
+      "timestamp": "Aug 8, 4:54 AM",
+      "publishedAt": "2026-08-08T04:54:51+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "A long-term national development and youth-empowerment roadmap, if implemented, signals planned investment in growth-oriented policy, though impact is speculative pending details."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A routine government policy announcement/launch event with no indication of institutional conflict."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "A youth-focused development vision, tied to International Youth Day, signals attention to youth wellbeing and opportunity, though concrete impact is not yet known."
+        },
+        "market": {
+          "value": "low",
+          "reason": "A forward-looking policy vision without concrete measures yet; limited immediate market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "The excerpt reports the planned launch and ministry directives factually, centered on the government's own initiative without opposition commentary either way."
+        },
+        "confidence": {
+          "value": "low",
+          "reason": "Based only on a short RSS description excerpt about a not-yet-unveiled initiative, with details still pending."
+        }
+      }
+    },
+    {
+      "id": 7,
       "headline": "Govt reduces petrol price by Rs2.20, high-speed diesel by Rs1.50",
       "summary": "AI summary: The government cut petrol prices by Rs2.20 and high-speed diesel by Rs1.50 per litre effective August 8, bringing petrol to Rs327.62 and diesel to Rs380.86 per litre, continuing the daily pricing adjustments Ogra adopted after the Iran-US conflict roiled international oil markets earlier this year.",
       "sources": [
@@ -42,7 +286,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 8,
       "headline": "Goods transporters to go on strike from Saturday after talks with govt fail",
       "summary": "AI summary: Pakistan's goods transporters began an indefinite nationwide wheel-jam strike after talks with the government collapsed, with the All Pakistan Goods Transport Itehad demanding uniform axle-load enforcement, higher weight limits for 10-wheelers, and cuts to diesel prices, tolls and withholding tax.",
       "sources": [
@@ -82,7 +326,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 9,
       "headline": "Sindh govt constitutes third medical board for exhumation of Mir Ali Raza's body",
       "summary": "AI summary: After withdrawing two earlier notifications, Sindh's government constituted a new eight-member medical board, led by police surgeon Dr Sumaiyya Syed, to carry out the exhumation of businessman Mir Ali Raza's body on August 8, following the family's objection to the previous board's abrupt reconstitution.",
       "sources": [
@@ -122,7 +366,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 10,
       "headline": "Pakistan, Saudi Arabia, Turkiye sign tripartite defence agreement in Makkah",
       "summary": "AI summary: Pakistan, Saudi Arabia and Turkiye signed the Makkah Joint Defence Agreement at Al-Safa Palace, with PM Shehbaz Sharif, Crown Prince Mohammed bin Salman and President Erdogan in attendance, committing to treat an armed attack on any one signatory as an attack on all three amid heightened regional tensions.",
       "sources": [
@@ -166,7 +410,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 11,
       "headline": "Sindh announces new school timings effective from Aug 6",
       "summary": "AI summary: Sindh's Education Department revised school timings province-wide effective August 6, with single-shift primary schools running roughly 8am-2:30pm on weekdays through October before shifting to a later autumn schedule, and adjusted hours set for double-shift schools as well.",
       "sources": [
