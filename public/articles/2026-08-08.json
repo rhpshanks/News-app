@@ -1,8 +1,172 @@
 {
-  "generatedAt": "2026-08-08T14:17:47+05:00",
+  "generatedAt": "2026-08-08T22:29:41+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "Second autopsy reveals signs of torture, bullet wound in Mir Raza's body: report",
+      "summary": "AI summary: A second post-mortem, carried out by an eight-member medical board after the family objected to an overnight change in the board's composition, found signs of violence and a rear-entry gunshot wound (not a chest entry as first reported) on businessman Mir Raza Ali's body, with family lawyer Jibran Nasir citing a fractured hyoid bone, temple fracture and other injuries pointing to strangulation and torture, even as investigators had been building a case around suicide.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2021482/mir-raza-ali-case-family-lawyer-allege-25-year-old-was-murdered-after-torture"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40433879/second-autopsy-reveals-signs-of-torture-bullet-wound-in-mir-razas-body-report"
+        }
+      ],
+      "timestamp": "Aug 8, 9:53 PM",
+      "publishedAt": "2026-08-08T21:53:36+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A criminal investigation and autopsy findings have no direct bearing on jobs, prices, or business activity."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "New forensic findings contradicting an initial suicide narrative that police reportedly pushed on the family point to a credibility and accountability problem for the investigating authorities."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Evidence of torture and a violent death, and the resulting distress and prolonged uncertainty for the victim's family, directly touch public safety and trust in the justice system."
+        },
+        "market": {
+          "value": "low",
+          "reason": "A criminal case with no relevance to investors or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the family lawyer's allegations and the medical board's forensic findings factually; this is a criminal-justice matter, not government-versus-opposition political framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Corroborated by two independent outlets with matching core detail (rear-entry gunshot wound), though the Business Recorder side relies on an RSS description excerpt rather than the full article."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Hamas says still ready to go ahead with Gaza plan",
+      "summary": "AI summary: Hamas told mediators it remains ready to move into the second phase of a US-backed Gaza agreement, under which it would hand weapons to a new Palestinian governing body as Israel carries out a phased withdrawal, but Israeli PM Netanyahu has rejected the arrangement and disputed that Israel ever agreed to its latest terms, even as reduced-intensity Israeli military operations continue.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2021507/hamas-says-still-ready-to-go-ahead-with-gaza-plan"
+        }
+      ],
+      "timestamp": "Aug 8, 8:19 PM",
+      "publishedAt": "2026-08-08T20:19:57+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A foreign ceasefire/disarmament dispute has no direct effect on Pakistan's jobs, prices, or business activity."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "An unfolding foreign-affairs dispute between Hamas and Israel with no bearing on Pakistani institutional or governance stability."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct near-term effect on Pakistani daily public life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "An unresolved, contested diplomatic status rather than a concrete measure; limited direct market relevance to Pakistan."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports both Hamas's stated readiness and Netanyahu's rejection factually, without favoring either side."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on a full Dawn article with attributed statements, but covering a fast-moving, contested foreign situation from a single outlet."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Rana Sanaullah says PML-N will form govt in AJK with two-thirds majority",
+      "summary": "AI summary: PML-N adviser Rana Sanaullah told a rally in Bagh that the party, having already secured 24 seats in the first two phases of Azad Kashmir's elections, would win a two-thirds-majority government after the remaining phases, and pledged that a PML-N government would meet the banned Joint Awami Action Committee over its demand to abolish 12 reserved legislative seats.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2021480/rana-sanaullah-says-pml-n-will-form-govt-in-ajk-with-two-thirds-majority"
+        }
+      ],
+      "timestamp": "Aug 8, 7:05 PM",
+      "publishedAt": "2026-08-08T19:05:45+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A campaign rally claim about seat projections has no direct economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A routine campaign statement projecting an election outcome and pledging future talks with a protest group; not itself evidence of institutional friction."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "A political rally statement with no direct near-term effect on daily public life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "A regional political/electoral matter with little direct market relevance."
+        },
+        "lean": {
+          "value": "pro-government",
+          "reason": "The article is built entirely around the ruling party adviser's uncontested claims and pledges, with no opposition or election-commission response included."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on a full Dawn article with direct quotes, but reporting a single politician's own campaign projections from one outlet."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Pakistan, New Zealand seek to boost cooperation in agri, education sectors",
+      "summary": "AI summary: Pakistani and New Zealand officials held their third Joint Trade Committee and fifth Political Consultations in Wellington, signing an Education Cooperation Arrangement and discussing agricultural market access, wool and plant-protection collaboration, and expanded trade and technology ties, while Pakistan also briefed New Zealand on Middle East de-escalation efforts and raised concerns over India's Indus Waters Treaty conduct.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2021491/pakistan-new-zealand-seek-to-boost-cooperation-in-agri-education-sectors"
+        }
+      ],
+      "timestamp": "Aug 8, 5:46 PM",
+      "publishedAt": "2026-08-08T17:46:56+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "New trade committee talks, an education arrangement, and agricultural market-access discussions signal incremental steps toward expanded bilateral commerce."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "Routine, cooperative diplomatic engagement that strengthens bilateral ties without any institutional friction."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "A bilateral diplomatic meeting has no direct near-term effect on daily public life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Current bilateral trade is small (around $12 million), limiting near-term market relevance despite the cooperative tone."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the meeting's agenda and outcomes factually with no domestic political framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on a full Dawn article with specific figures and named officials, but a single outlet covering a routine diplomatic meeting."
+        }
+      }
+    },
+    {
+      "id": 5,
       "headline": "OIC welcomes Pak-Saudi-Turkiye joint defence pact, calls it 'important strategic step'",
       "summary": "AI summary: The Organisation of Islamic Cooperation welcomed the Pakistan-Saudi Arabia-Turkiye Makkah Joint Defence Agreement, with Secretary General Hissein Brahim Taha calling it an important strategic step and a pillar for regional security and stability, while Saudi and Turkish officials stressed the pact targets no country and remains open to other nations.",
       "sources": [
@@ -42,7 +206,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 6,
       "headline": "Captain martyred, 7 terrorists killed in intelligence-based operation in Hangu: ISPR",
       "summary": "AI summary: A Pakistan Army captain was martyred and seven Fitna al-Khawarij militants were killed in an intelligence-based operation in Hangu, Khyber Pakhtunkhwa, after the militants took refuge in a mosque during the firefight, with ISPR saying weapons were recovered and President Zardari and PM Shehbaz Sharif paying tribute while vowing to continue anti-terrorism operations.",
       "sources": [
@@ -86,7 +250,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 7,
       "headline": "Senate, NA leadership pledge closer cooperation for stable parliamentary system",
       "summary": "AI summary: Senate Chairman Yousaf Raza Gillani and National Assembly Speaker Ayaz Sadiq met in Islamabad and pledged closer cooperation between the two houses, calling institutional coordination essential for a stable parliamentary system and effective legislation.",
       "sources": [
@@ -126,7 +290,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 8,
       "headline": "Trump administration to invest $3 billion in minerals projects to boost US defence supply chains",
       "summary": "AI summary: The Trump administration announced roughly $3 billion in loans and grants for US critical-minerals and battery-supply projects, including funding for lithium-ion battery, scandium and magnet producers, aiming to cut reliance on Chinese mineral processing and rebuild domestic defence supply chains.",
       "sources": [
@@ -166,7 +330,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 9,
       "headline": "KP amends controversial law on lawmakers' privileges",
       "summary": "AI summary: The Khyber Pakhtunkhwa Assembly rolled back lifetime blue passports and cut lawmakers' firearms licenses from its 2026 privileges law after public backlash, while also passing a resolution against any federal annexation of provincial districts.",
       "sources": [
@@ -206,7 +370,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 10,
       "headline": "Efforts underway to end deadlock over judges' appointments",
       "summary": "AI summary: A standoff over judicial appointments is deepening in Pakistan, as President Zardari has yet to notify the Judicial Commission's recommended confirmations and new high court judges past the constitutional deadline, prompting the government to consider unilateral action while both sides plan weekend talks.",
       "sources": [
@@ -246,7 +410,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 11,
       "headline": "Schedule for third phase of AJK polls revised",
       "summary": "AI summary: Authorities postponed polling in Azad Kashmir's Poonch and Palandri districts, originally set for August 10, amid unrest over demands to abolish 12 reserved legislative seats, alongside new media and internet restrictions in the region.",
       "sources": [
@@ -286,7 +450,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 12,
       "headline": "Pakistan joins Saudi Arabia, Turkiye in 'all for one' pact",
       "summary": "AI summary: Pakistan, Saudi Arabia and Turkey signed the Makkah Joint Defence Agreement, under which an armed attack on any one signatory is treated as an attack on all three, with leaders describing it as a mutual-deterrence pact open to other countries rather than a military bloc against anyone.",
       "sources": [
@@ -330,7 +494,7 @@
       }
     },
     {
-      "id": 9,
+      "id": 13,
       "headline": "Bilawal demands 'free and fair' elections in AJK",
       "summary": "AI summary: PPP chairman Bilawal Bhutto Zardari criticized Azad Kashmir's electoral process as having \"failed,\" calling for a truth commission and questioning whether the six-phase election structure enables rigging.",
       "sources": [
@@ -370,7 +534,7 @@
       }
     },
     {
-      "id": 10,
+      "id": 14,
       "headline": "Int'l Youth Day: PM may unveil 'Vision Pakistan 2047' on 12th",
       "summary": "AI summary: Prime Minister Shehbaz Sharif is expected to launch a long-term development roadmap called 'Vision Pakistan 2047' around International Youth Day, focused on sustainable growth and youth empowerment, with federal ministries directed to submit input by August 10.",
       "sources": [
@@ -410,7 +574,7 @@
       }
     },
     {
-      "id": 11,
+      "id": 15,
       "headline": "Govt reduces petrol price by Rs2.20, high-speed diesel by Rs1.50",
       "summary": "AI summary: The government cut petrol prices by Rs2.20 and high-speed diesel by Rs1.50 per litre effective August 8, bringing petrol to Rs327.62 and diesel to Rs380.86 per litre, continuing the daily pricing adjustments Ogra adopted after the Iran-US conflict roiled international oil markets earlier this year.",
       "sources": [
@@ -450,7 +614,7 @@
       }
     },
     {
-      "id": 12,
+      "id": 16,
       "headline": "Goods transporters to go on strike from Saturday after talks with govt fail",
       "summary": "AI summary: Pakistan's goods transporters began an indefinite nationwide wheel-jam strike after talks with the government collapsed, with the All Pakistan Goods Transport Itehad demanding uniform axle-load enforcement, higher weight limits for 10-wheelers, and cuts to diesel prices, tolls and withholding tax.",
       "sources": [
@@ -490,7 +654,7 @@
       }
     },
     {
-      "id": 13,
+      "id": 17,
       "headline": "Sindh govt constitutes third medical board for exhumation of Mir Ali Raza's body",
       "summary": "AI summary: After withdrawing two earlier notifications, Sindh's government constituted a new eight-member medical board, led by police surgeon Dr Sumaiyya Syed, to carry out the exhumation of businessman Mir Ali Raza's body on August 8, following the family's objection to the previous board's abrupt reconstitution.",
       "sources": [
@@ -530,7 +694,7 @@
       }
     },
     {
-      "id": 14,
+      "id": 18,
       "headline": "Pakistan, Saudi Arabia, Turkiye sign tripartite defence agreement in Makkah",
       "summary": "AI summary: Pakistan, Saudi Arabia and Turkiye signed the Makkah Joint Defence Agreement at Al-Safa Palace, with PM Shehbaz Sharif, Crown Prince Mohammed bin Salman and President Erdogan in attendance, committing to treat an armed attack on any one signatory as an attack on all three amid heightened regional tensions.",
       "sources": [
@@ -574,7 +738,7 @@
       }
     },
     {
-      "id": 15,
+      "id": 19,
       "headline": "Sindh announces new school timings effective from Aug 6",
       "summary": "AI summary: Sindh's Education Department revised school timings province-wide effective August 6, with single-shift primary schools running roughly 8am-2:30pm on weekdays through October before shifting to a later autumn schedule, and adjusted hours set for double-shift schools as well.",
       "sources": [
