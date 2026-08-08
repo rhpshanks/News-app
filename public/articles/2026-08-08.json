@@ -1,8 +1,88 @@
 {
-  "generatedAt": "2026-08-08T22:29:41+05:00",
+  "generatedAt": "2026-08-08T20:39:32+05:00",
   "articles": [
     {
-      "id": 1,
+      "headline": "Voting on remaining AJK Poonch division seats may be held by Aug 20-21, says CEC",
+      "summary": "AI summary: Azad Kashmir's Chief Election Commissioner Ghulam Mustafa Mughal said voting for the seven still-outstanding Poonch division constituencies could be held around August 20-21, with Bagh and Haveli's four seats going to the polls Monday among roughly 460,000 registered voters, while the commission will announce a firm date for Poonch and Sudhnoti within a week citing security concerns.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2021521/voting-on-remaining-ajk-poonch-division-seats-may-be-held-by-aug-20-21-says-cec"
+        }
+      ],
+      "timestamp": "Aug 9, 12:00 AM",
+      "publishedAt": "2026-08-09T00:00:39+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "An electoral scheduling announcement has no direct economic effect."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "A further slip in the AJK election timeline, with remaining Poonch division seats not voting until August 20-21 and security cited as the reason, signals a prolonged, still-unresolved electoral process."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "A scheduling clarification with no new restriction announced; distinct from the unrest itself."
+        },
+        "market": {
+          "value": "low",
+          "reason": "A regional electoral administrative matter with little direct market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the CEC's own scheduling statement and reasoning factually, without favoring government or opposition framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on a full Dawn article with a named official and specific figures, but a single outlet covering a still-unfolding schedule."
+        }
+      },
+      "id": 1
+    },
+    {
+      "headline": "JI announces Aug 16 sit-ins in provincial capitals to protest petroleum levy",
+      "summary": "AI summary: Jamaat-i-Islami chief Hafiz Naeemur Rehman announced simultaneous sit-ins outside the Punjab chief minister's residence and other provincial governor houses on August 16 to protest the petroleum levy and inflation, saying the party had already held over 510 protests nationwide the previous day and accusing the government of taxing ordinary citizens' fuel while protecting elite privileges.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2021518/ji-announces-aug-16-sit-ins-in-provincial-capitals-to-protest-petroleum-levy"
+        }
+      ],
+      "timestamp": "Aug 8, 11:17 PM",
+      "publishedAt": "2026-08-08T23:17:09+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A planned protest against fuel taxes does not itself change jobs, prices, or business activity."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "An opposition-aligned party organizing coordinated nationwide sit-ins against a government levy signals rising political pressure on the administration."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "A planned future protest; no disruption to daily life has occurred yet."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited direct relevance to investors or business decisions."
+        },
+        "lean": {
+          "value": "pro-opposition",
+          "reason": "The article is built around JI's own criticism and protest announcement, with no government response included."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on a full Dawn article with direct quotes from the party chief, but a single outlet covering one party's own claims."
+        }
+      },
+      "id": 2
+    },
+    {
+      "id": 3,
       "headline": "Second autopsy reveals signs of torture, bullet wound in Mir Raza's body: report",
       "summary": "AI summary: A second post-mortem, carried out by an eight-member medical board after the family objected to an overnight change in the board's composition, found signs of violence and a rear-entry gunshot wound (not a chest entry as first reported) on businessman Mir Raza Ali's body, with family lawyer Jibran Nasir citing a fractured hyoid bone, temple fracture and other injuries pointing to strangulation and torture, even as investigators had been building a case around suicide.",
       "sources": [
@@ -46,7 +126,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 4,
       "headline": "Hamas says still ready to go ahead with Gaza plan",
       "summary": "AI summary: Hamas told mediators it remains ready to move into the second phase of a US-backed Gaza agreement, under which it would hand weapons to a new Palestinian governing body as Israel carries out a phased withdrawal, but Israeli PM Netanyahu has rejected the arrangement and disputed that Israel ever agreed to its latest terms, even as reduced-intensity Israeli military operations continue.",
       "sources": [
@@ -86,7 +166,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 5,
       "headline": "Rana Sanaullah says PML-N will form govt in AJK with two-thirds majority",
       "summary": "AI summary: PML-N adviser Rana Sanaullah told a rally in Bagh that the party, having already secured 24 seats in the first two phases of Azad Kashmir's elections, would win a two-thirds-majority government after the remaining phases, and pledged that a PML-N government would meet the banned Joint Awami Action Committee over its demand to abolish 12 reserved legislative seats.",
       "sources": [
@@ -126,7 +206,47 @@
       }
     },
     {
-      "id": 4,
+      "headline": "PML-N only six seats short of forming AJK govt, says Sanaullah ahead of third phase",
+      "summary": "AI summary: PML-N adviser Rana Sanaullah said at a Bagh rally that the party needs only six more seats for a two-thirds majority in Azad Kashmir after winning 24 of the first two phases' seats against PPP's 10, and, responding to PPP chairman Bilawal Bhutto-Zardari's claim that a \"countdown\" had begun for the federal government, said those counting down would themselves be \"straightened out.\"",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/676730-pml-n-only-six-seats-short-of-forming-ajk-govt-says-sanaullah-ahead-of-third-phase"
+        }
+      ],
+      "timestamp": "Aug 8, 5:55 PM",
+      "publishedAt": "2026-08-08T17:55:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A campaign seat-count claim and political rebuttal has no direct economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine campaign rhetoric and a verbal jab at the opposition; not itself evidence of institutional friction."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "A political rally statement with no direct near-term effect on daily public life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "A regional political/electoral matter with little direct market relevance."
+        },
+        "lean": {
+          "value": "pro-government",
+          "reason": "The article is built around the ruling coalition adviser's uncontested seat claims and rebuttal of the opposition leader, with no opposition response included."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on a full Geo article with direct quotes, but reporting one politician's own campaign claims from a single outlet."
+        }
+      },
+      "id": 6
+    },
+    {
+      "id": 7,
       "headline": "Pakistan, New Zealand seek to boost cooperation in agri, education sectors",
       "summary": "AI summary: Pakistani and New Zealand officials held their third Joint Trade Committee and fifth Political Consultations in Wellington, signing an Education Cooperation Arrangement and discussing agricultural market access, wool and plant-protection collaboration, and expanded trade and technology ties, while Pakistan also briefed New Zealand on Middle East de-escalation efforts and raised concerns over India's Indus Waters Treaty conduct.",
       "sources": [
@@ -166,7 +286,47 @@
       }
     },
     {
-      "id": 5,
+      "headline": "Initial medical report 'reveals' Mir Raza Ali was shot from behind",
+      "summary": "AI summary: An initial medical report cited by sources found Mir Raza Ali was shot from behind and had a fractured sixth rib along with facial trauma and other signs of violence, addressing all 14 concerns the police surgeon had raised, after which Karachi police replaced the original investigation team with a new four-member team led by DIG Crime Branch Amir Farooqi.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/676727-initial-medical-report-reveals-mir-raza-was-shot-from-behind-sources"
+        }
+      ],
+      "timestamp": "Aug 8, 5:31 PM",
+      "publishedAt": "2026-08-08T17:31:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A criminal investigation and medical findings have no direct bearing on jobs, prices, or business activity."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Police replacing the original investigation team after a report contradicting the initial suicide narrative points to a credibility problem for the earlier investigation."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Evidence of a violent death and an overhauled investigation reflect ongoing distress and scrutiny of public trust in the justice process."
+        },
+        "market": {
+          "value": "low",
+          "reason": "A criminal case with no relevance to investors or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports sourced findings and the resulting team change factually, attributing claims to sources rather than asserting them outright."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Findings are attributed to unnamed sources rather than an official on-record statement."
+        }
+      },
+      "id": 8
+    },
+    {
+      "id": 9,
       "headline": "OIC welcomes Pak-Saudi-Turkiye joint defence pact, calls it 'important strategic step'",
       "summary": "AI summary: The Organisation of Islamic Cooperation welcomed the Pakistan-Saudi Arabia-Turkiye Makkah Joint Defence Agreement, with Secretary General Hissein Brahim Taha calling it an important strategic step and a pillar for regional security and stability, while Saudi and Turkish officials stressed the pact targets no country and remains open to other nations.",
       "sources": [
@@ -206,7 +366,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 10,
       "headline": "Captain martyred, 7 terrorists killed in intelligence-based operation in Hangu: ISPR",
       "summary": "AI summary: A Pakistan Army captain was martyred and seven Fitna al-Khawarij militants were killed in an intelligence-based operation in Hangu, Khyber Pakhtunkhwa, after the militants took refuge in a mosque during the firefight, with ISPR saying weapons were recovered and President Zardari and PM Shehbaz Sharif paying tribute while vowing to continue anti-terrorism operations.",
       "sources": [
@@ -250,7 +410,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 11,
       "headline": "Senate, NA leadership pledge closer cooperation for stable parliamentary system",
       "summary": "AI summary: Senate Chairman Yousaf Raza Gillani and National Assembly Speaker Ayaz Sadiq met in Islamabad and pledged closer cooperation between the two houses, calling institutional coordination essential for a stable parliamentary system and effective legislation.",
       "sources": [
@@ -290,7 +450,87 @@
       }
     },
     {
-      "id": 8,
+      "headline": "Mir Raza Ali's post-mortem completed after exhumation, says board member",
+      "summary": "AI summary: The second post-mortem of businessman Mir Raza Ali was completed after his body's exhumation at a Karachi graveyard, with the eight-member medical board collecting samples for chemical analysis before reburial, and his father Mir Hussain saying he hoped the errors from the first post-mortem would not be repeated.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/676693-exhumation-of-mir-raza-alis-remains-begins-amid-tight-security"
+        }
+      ],
+      "timestamp": "Aug 8, 12:24 PM",
+      "publishedAt": "2026-08-08T12:24:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A procedural step in a criminal investigation has no direct economic effect."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "The exhumation and second post-mortem follow disputed handling of the first examination, reflecting continuing procedural friction in the case."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "The exhumation process and the family's stated hope that past errors aren't repeated reflect prolonged distress for the victim's family."
+        },
+        "market": {
+          "value": "low",
+          "reason": "No relevance to investors or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the procedural completion and the father's on-record comment factually without taking a side."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single-source Geo report, but based on a named board member and family statement."
+        }
+      },
+      "id": 12
+    },
+    {
+      "headline": "Bank customers' data constitutes 'property', misuse may be criminal, rules LHC",
+      "summary": "AI summary: The Lahore High Court ruled that bank customers' confidential data qualifies as \"property\" whose misuse can constitute a criminal offence, denying bail to a bank employee accused in a Rs104 million cyber-fraud case involving fake SIM cards, with Justice Tariq Saleem Sheikh holding that employees who exploit customer data access face liability under electronic-crime and penal law.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/676682-bank-customers-data-constitutes-property-misuse-may-be-criminal-rules-lhc"
+        }
+      ],
+      "timestamp": "Aug 8, 10:51 AM",
+      "publishedAt": "2026-08-08T10:51:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A legal precedent on data liability has no immediate effect on jobs, prices, or business activity."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A judicial ruling in a criminal case, not a governance or institutional stability matter."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Strengthened legal protection for bank customers' confidential data is a deterrent against fraud that benefits public safety and trust."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "A legal precedent on bank employee liability for data misuse is relevant to financial institutions and investors in the banking sector."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the court's ruling and reasoning factually with no political framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Based on a full article citing the named judge, case specifics, and quoted ruling language."
+        }
+      },
+      "id": 13
+    },
+    {
+      "id": 14,
       "headline": "Trump administration to invest $3 billion in minerals projects to boost US defence supply chains",
       "summary": "AI summary: The Trump administration announced roughly $3 billion in loans and grants for US critical-minerals and battery-supply projects, including funding for lithium-ion battery, scandium and magnet producers, aiming to cut reliance on Chinese mineral processing and rebuild domestic defence supply chains.",
       "sources": [
@@ -330,7 +570,7 @@
       }
     },
     {
-      "id": 9,
+      "id": 15,
       "headline": "KP amends controversial law on lawmakers' privileges",
       "summary": "AI summary: The Khyber Pakhtunkhwa Assembly rolled back lifetime blue passports and cut lawmakers' firearms licenses from its 2026 privileges law after public backlash, while also passing a resolution against any federal annexation of provincial districts.",
       "sources": [
@@ -370,7 +610,7 @@
       }
     },
     {
-      "id": 10,
+      "id": 16,
       "headline": "Efforts underway to end deadlock over judges' appointments",
       "summary": "AI summary: A standoff over judicial appointments is deepening in Pakistan, as President Zardari has yet to notify the Judicial Commission's recommended confirmations and new high court judges past the constitutional deadline, prompting the government to consider unilateral action while both sides plan weekend talks.",
       "sources": [
@@ -410,7 +650,7 @@
       }
     },
     {
-      "id": 11,
+      "id": 17,
       "headline": "Schedule for third phase of AJK polls revised",
       "summary": "AI summary: Authorities postponed polling in Azad Kashmir's Poonch and Palandri districts, originally set for August 10, amid unrest over demands to abolish 12 reserved legislative seats, alongside new media and internet restrictions in the region.",
       "sources": [
@@ -450,7 +690,7 @@
       }
     },
     {
-      "id": 12,
+      "id": 18,
       "headline": "Pakistan joins Saudi Arabia, Turkiye in 'all for one' pact",
       "summary": "AI summary: Pakistan, Saudi Arabia and Turkey signed the Makkah Joint Defence Agreement, under which an armed attack on any one signatory is treated as an attack on all three, with leaders describing it as a mutual-deterrence pact open to other countries rather than a military bloc against anyone.",
       "sources": [
@@ -494,7 +734,7 @@
       }
     },
     {
-      "id": 13,
+      "id": 19,
       "headline": "Bilawal demands 'free and fair' elections in AJK",
       "summary": "AI summary: PPP chairman Bilawal Bhutto Zardari criticized Azad Kashmir's electoral process as having \"failed,\" calling for a truth commission and questioning whether the six-phase election structure enables rigging.",
       "sources": [
@@ -534,7 +774,7 @@
       }
     },
     {
-      "id": 14,
+      "id": 20,
       "headline": "Int'l Youth Day: PM may unveil 'Vision Pakistan 2047' on 12th",
       "summary": "AI summary: Prime Minister Shehbaz Sharif is expected to launch a long-term development roadmap called 'Vision Pakistan 2047' around International Youth Day, focused on sustainable growth and youth empowerment, with federal ministries directed to submit input by August 10.",
       "sources": [
@@ -574,7 +814,7 @@
       }
     },
     {
-      "id": 15,
+      "id": 21,
       "headline": "Govt reduces petrol price by Rs2.20, high-speed diesel by Rs1.50",
       "summary": "AI summary: The government cut petrol prices by Rs2.20 and high-speed diesel by Rs1.50 per litre effective August 8, bringing petrol to Rs327.62 and diesel to Rs380.86 per litre, continuing the daily pricing adjustments Ogra adopted after the Iran-US conflict roiled international oil markets earlier this year.",
       "sources": [
@@ -614,7 +854,7 @@
       }
     },
     {
-      "id": 16,
+      "id": 22,
       "headline": "Goods transporters to go on strike from Saturday after talks with govt fail",
       "summary": "AI summary: Pakistan's goods transporters began an indefinite nationwide wheel-jam strike after talks with the government collapsed, with the All Pakistan Goods Transport Itehad demanding uniform axle-load enforcement, higher weight limits for 10-wheelers, and cuts to diesel prices, tolls and withholding tax.",
       "sources": [
@@ -654,7 +894,7 @@
       }
     },
     {
-      "id": 17,
+      "id": 23,
       "headline": "Sindh govt constitutes third medical board for exhumation of Mir Ali Raza's body",
       "summary": "AI summary: After withdrawing two earlier notifications, Sindh's government constituted a new eight-member medical board, led by police surgeon Dr Sumaiyya Syed, to carry out the exhumation of businessman Mir Ali Raza's body on August 8, following the family's objection to the previous board's abrupt reconstitution.",
       "sources": [
@@ -694,7 +934,7 @@
       }
     },
     {
-      "id": 18,
+      "id": 24,
       "headline": "Pakistan, Saudi Arabia, Turkiye sign tripartite defence agreement in Makkah",
       "summary": "AI summary: Pakistan, Saudi Arabia and Turkiye signed the Makkah Joint Defence Agreement at Al-Safa Palace, with PM Shehbaz Sharif, Crown Prince Mohammed bin Salman and President Erdogan in attendance, committing to treat an armed attack on any one signatory as an attack on all three amid heightened regional tensions.",
       "sources": [
@@ -738,7 +978,7 @@
       }
     },
     {
-      "id": 19,
+      "id": 25,
       "headline": "Sindh announces new school timings effective from Aug 6",
       "summary": "AI summary: Sindh's Education Department revised school timings province-wide effective August 6, with single-shift primary schools running roughly 8am-2:30pm on weekdays through October before shifting to a later autumn schedule, and adjusted hours set for double-shift schools as well.",
       "sources": [
