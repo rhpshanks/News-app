@@ -1,8 +1,67 @@
 {
-  "generatedAt": "2026-08-09T14:48:58+05:00",
+  "generatedAt": "2026-08-09T16:43:22+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "2 tribal elders shot dead in KP's Lower South Waziristan",
+      "summary": "AI summary: Unidentified gunmen shot dead two tribal elders, Haji Gul and Malik Badshah of the Suleman Khel tribe, while they were traveling by car in the Zarmilan area of Lower South Waziristan, prompting police to open an investigation.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2021703/2-tribal-elders-shot-dead-in-kps-lower-south-waziristan" }
+      ],
+      "timestamp": "Aug 9, 4:37 PM",
+      "publishedAt": "2026-08-09T16:37:09+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Continued targeted violence against tribal leaders deepens an insecure climate that deters local economic activity." },
+        "political": { "value": "negative", "reason": "Targeted killings of tribal elders reflect persistent governance and security control challenges in the region." },
+        "social": { "value": "negative", "reason": "Two community leaders were killed, directly threatening public safety and stability in the area." },
+        "market": { "value": "low", "reason": "A localized security incident with minimal broader market relevance." },
+        "lean": { "value": "balanced", "reason": "Reports only the police account of the incident, without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single-source Dawn report based on a police statement, not independently corroborated." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Turkiye to soon begin offshore drilling operations in Pakistani waters: minister",
+      "summary": "AI summary: Petroleum Minister Ali Pervaiz Malik said Turkish Petroleum will soon start offshore drilling in Pakistani waters to help boost domestic oil and gas output, noting Pakistan currently imports around 90% of its energy needs while producing far less than it consumes.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/676817-turkiye-to-soon-begin-offshore-drilling-operations-in-pakistani-waters-minister" }
+      ],
+      "timestamp": "Aug 9, 3:54 PM",
+      "publishedAt": "2026-08-09T15:54:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "New offshore drilling and foreign investment in the energy sector could boost domestic output and reduce import reliance." },
+        "political": { "value": "neutral", "reason": "A routine ministerial announcement on energy policy with no notable effect on institutional stability." },
+        "social": { "value": "neutral", "reason": "Limited immediate effect on day-to-day public life." },
+        "market": { "value": "high", "reason": "Directly relevant to energy-sector investors and foreign investment decisions given Pakistan's heavy energy import dependence." },
+        "lean": { "value": "balanced", "reason": "A straightforward report of a minister's policy announcement, without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single-source report based on the minister's own statement and figures." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Dar clarifies scope, intent of Makkah Joint Defence Agreement",
+      "summary": "AI summary: Deputy Prime Minister Ishaq Dar said the newly signed Pakistan-Saudi-Turkiye Makkah Joint Defence Agreement is purely defensive, targets no country, and remains open to any regional state willing to uphold its principles, stressing it does not replace Pakistan's existing bilateral or multilateral agreements.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2021671/pak-saudi-turkiye-defence-pact-open-to-any-other-country-in-region-purely-defensive-dpm-dar" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/676812-pakistan-says-makkah-defence-pact-open-to-countries-upholding-its-principles" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433987/dar-clarifies-scope-intent-of-makkah-joint-defence-agreement" }
+      ],
+      "timestamp": "Aug 9, 3:27 PM",
+      "publishedAt": "2026-08-09T15:27:03+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic clarification with no direct near-term economic effect." },
+        "political": { "value": "positive", "reason": "Publicly clarifying the scope of a new mutual-defence pact amid ongoing public discussion reinforces the government's diplomatic standing and international security alliances." },
+        "social": { "value": "neutral", "reason": "Limited direct effect on day-to-day public life." },
+        "market": { "value": "medium", "reason": "Geopolitical and defence-alliance developments can moderately influence investor sentiment and regional risk perception." },
+        "lean": { "value": "balanced", "reason": "Reports the deputy PM's own clarifying statement without favoring domestic government or opposition framing." },
+        "confidence": { "value": "medium", "reason": "Corroborated by three outlets with matching details on Dar's statement, though one source relied on the RSS excerpt after a 403 error, and all rest on Dar's own account." }
+      }
+    },
+    {
+      "id": 4,
       "headline": "Police form new team to probe Mir Raza Ali's murder; murder charge added to FIR",
       "summary": "AI summary: Sindh police have reconstituted the investigation team probing the death of 25-year-old Karachi businessman Mir Raza Ali after a second postmortem found he was shot in the back, prompting murder and evidence-tampering charges to be added to the original kidnapping FIR.",
       "sources": [
@@ -21,7 +80,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 5,
       "headline": "Security forces kill 15 terrorists in Balochistan IBOs: state media",
       "summary": "AI summary: Pakistani security forces say they killed 15 militants across eight districts of Balochistan in intelligence-based operations under Operation Radd-ul-Fitna, with officials citing state media and security sources while the province continues to see a sharp rise in violence-related casualties.",
       "sources": [
@@ -41,7 +100,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 6,
       "headline": "Naqvi visits Lahore airport, directs measures to expedite immigration process",
       "summary": "AI summary: Interior Minister Mohsin Naqvi inspected Lahore's Allama Iqbal International Airport and ordered immigration counters to stay fully staffed to cut wait times, while referring a bribery complaint against an agent to the FIA for investigation.",
       "sources": [
@@ -61,7 +120,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 7,
       "headline": "JI announces sit-ins across all four provinces on August 16",
       "summary": "AI summary: Jamaat-e-Islami has announced simultaneous sit-ins outside provincial government offices in all four provinces on August 16 to protest high fuel prices and the petroleum levy, alleging the mechanism is being used to mask corruption.",
       "sources": [
@@ -80,7 +139,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 8,
       "headline": "On-duty cop martyred, another injured in Lakki Marwat attack",
       "summary": "AI summary: A police constable was killed and another wounded when militants opened fire on a patrol in Lakki Marwat, Khyber Pakhtunkhwa, prompting a cordon and search operation for the attackers.",
       "sources": [
@@ -99,7 +158,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 9,
       "headline": "Egypt could join Pak-Saudi-Turkiye defence pact once technical issues resolved, says Turkish foreign minister",
       "summary": "AI summary: Turkish Foreign Minister Hakan Fidan said Egypt could eventually join the newly signed Pakistan-Saudi-Turkiye Makkah Joint Defence Agreement, a NATO-style mutual defence pact, once procedural issues are resolved, while stressing the alliance is not aimed at any specific country.",
       "sources": [
@@ -118,7 +177,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 10,
       "headline": "President Zardari reaffirms Pakistan's commitment to protecting Indigenous peoples' rights",
       "summary": "AI summary: President Asif Ali Zardari marked International Day of the World's Indigenous Peoples by reaffirming Pakistan's commitment to protecting the rights and cultural heritage of indigenous communities such as the Kalash.",
       "sources": [
@@ -137,7 +196,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 11,
       "headline": "Pakistan wins three medals at International Nuclear Science Olympiad",
       "summary": "AI summary: Pakistani students won one gold and two silver medals at the third International Nuclear Science Olympiad in Jeddah, and Pakistan was named host of the 2027 edition.",
       "sources": [
@@ -156,7 +215,7 @@
       }
     },
     {
-      "id": 9,
+      "id": 12,
       "headline": "Poonch, Palandri Elections postponed in 7 constituencies",
       "summary": "AI summary: Azad Jammu and Kashmir's Election Commission postponed voting in seven of eleven constituencies in Poonch and Palandri districts over security concerns, while polling in Bagh and Haveli proceeds as scheduled.",
       "sources": [
@@ -175,7 +234,7 @@
       }
     },
     {
-      "id": 10,
+      "id": 13,
       "headline": "Civil awards for martyrs, Ghazis approved",
       "summary": "AI summary: The government approved civil awards for 78 martyrs and Ghazis in recognition of their sacrifices, with Interior Minister Mohsin Naqvi calling the recognition a national responsibility.",
       "sources": [
