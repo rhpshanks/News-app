@@ -1,8 +1,66 @@
 {
-  "generatedAt": "2026-08-09T19:13:11+05:00",
+  "generatedAt": "2026-08-09T22:57:42+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "Houthi attacks kill 11 in Yemen, target Saudi oil refinery",
+      "summary": "AI summary: Houthi rebels launched coordinated missile and drone attacks on Yemen's Mokha port and Saudi Arabia's Jazan oil refinery, killing at least 11 people and wounding dozens, in an escalation following the collapse of the 2022 UN-backed ceasefire; the Houthis have also declared a maritime blockade of Saudi Arabia, with Pakistan among 14 nations backing a multinational coalition to protect Red Sea shipping routes.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2021681/houthi-attacks-kill-11-in-yemen-target-saudi-oil-refinery" }
+      ],
+      "timestamp": "Aug 9, 9:44 PM",
+      "publishedAt": "2026-08-09T21:44:15+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "The attack disrupts a major Saudi oil refinery and threatens Red Sea shipping routes that regional energy trade, including Pakistan's, depends on." },
+        "political": { "value": "negative", "reason": "The collapse of the 2022 ceasefire and escalating Houthi attacks on Saudi Arabia signal deepening regional instability involving a close Pakistani defence partner." },
+        "social": { "value": "negative", "reason": "Multiple civilian and military casualties from coordinated missile and drone strikes." },
+        "market": { "value": "medium", "reason": "Relevant to energy markets and Red Sea shipping risk, with indirect bearing on Pakistan given its new defence pact with Saudi Arabia and support for the maritime coalition." },
+        "lean": { "value": "balanced", "reason": "A factual account of the attacks and casualties, attributing actions to the Houthis without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single-source Dawn report with detailed casualty figures, not independently cross-checked here." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Sindh govt decides judicial commission to probe Mir Raza Ali murder case",
+      "summary": "AI summary: Sindh's government has decided to form a judicial commission led by a Sindh High Court judge to investigate businessman Mir Raza Ali's death, after a second postmortem contradicted the initial suicide finding and confirmed he had been shot from behind with extensive additional injuries; Home Minister Ziaul Hassan Lanjar said the commission would review the conflicting medical reports and let the court determine the facts.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2021701/sindh-govt-decides-judicial-commission-to-probe-mir-raza-ali-murder-case" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/676870-sindh-govt-decides-constituting-judicial-commission-to-probe-mir-raza-alis-killing" }
+      ],
+      "timestamp": "Aug 9, 9:24 PM",
+      "publishedAt": "2026-08-09T21:24:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A judicial inquiry into a single criminal case has no direct effect on jobs, prices, or business activity." },
+        "political": { "value": "negative", "reason": "Escalating a single case to a high court judicial commission, after conflicting autopsy findings undermined the initial police investigation, reflects continued strain on institutional credibility." },
+        "social": { "value": "negative", "reason": "Graphic new findings and the case's escalation intensify public concern over safety and trust in the initial investigation." },
+        "market": { "value": "low", "reason": "No relevance to markets or investor decisions." },
+        "lean": { "value": "balanced", "reason": "Reports the home minister's own statements and the family's position without favoring government or opposition framing." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two independent outlets with matching details on the commission and postmortem findings, both drawing on official and family sourcing." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "'No other option': PTI will march to Islamabad with 'two million people', says leader",
+      "summary": "AI summary: PTI leader Shafi Jan announced the party will lead a long march of what he called \"two million people\" from Peshawar to Islamabad on September 27, led by KP Chief Minister Sohail Afridi, to press for access to and the release of imprisoned party founder Imran Khan, whom PTI says has been denied family visits for nine months; other opposition parties are expected to join, and organizers say marchers will not leave Islamabad until their demands are met.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/676863-no-other-option-pti-will-march-to-islamabad-with-two-million-people-says-leader" }
+      ],
+      "timestamp": "Aug 9, 8:50 PM",
+      "publishedAt": "2026-08-09T20:50:28+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "A planned mass long march and open-ended sit-in in Islamabad risks significant disruption to business and commuter activity if it proceeds as announced." },
+        "political": { "value": "negative", "reason": "A major opposition party announcing a large-scale, open-ended mobilization against the government over its imprisoned leader signals rising political tension." },
+        "social": { "value": "negative", "reason": "A mass march planned to continue indefinitely in the capital could disrupt daily life and reflects deepening political polarization." },
+        "market": { "value": "medium", "reason": "Large-scale political mobilization plans typically factor into investor and business risk perception in Pakistan." },
+        "lean": { "value": "balanced", "reason": "Reports the PTI leader's own quotes and framing of events as the party's stated position, without independent endorsement." },
+        "confidence": { "value": "medium", "reason": "Single-source report based on a PTI leader's own statements about a future-dated plan." }
+      }
+    },
+    {
+      "id": 4,
       "headline": "Pakistan to partner with Saudi Arabia, Kuwait, Qatar on oil storage scheme",
       "summary": "AI summary: Petroleum Minister Ali Pervaiz Malik said Pakistan plans a bonded oil-storage scheme in which Saudi Arabia, Kuwait and Qatar would store crude on Pakistani soil at their own expense for global supply, while giving Islamabad first right to draw on it during a crisis; the proposal, drawn up with Saudi Aramco's help, now awaits an Economic Coordination Committee decision expected next week.",
       "sources": [
@@ -21,7 +79,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 5,
       "headline": "Pakistani hostages held by Somali pirates issue new distress message seeking govt help",
       "summary": "AI summary: Ten Pakistani sailors among the crew of the hijacked tanker MT Honour 25, held by Somali pirates for over 100 days, sent new video appeals for the government to secure their release, describing worsening health and a reported ransom demand of about $3 million, while officials cite Somalia's fractured governance as complicating the response.",
       "sources": [
@@ -40,7 +98,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 6,
       "headline": "Security forces kill 15 terrorists during Operation Radd-ul-Fitna-3 in Balochistan: sources",
       "summary": "AI summary: State broadcaster PTV reported that security forces have killed 15 militants across eight Balochistan districts under Operation Radd-ul-Fitna-3, citing security sources, with a large weapons cache recovered from suspected TTP fighters a day after a separate operation killed three more terrorists in the province.",
       "sources": [
@@ -59,7 +117,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 7,
       "headline": "Pakistan dismisses Afghan Taliban claim of weapons smuggling as 'frivolous'",
       "summary": "AI summary: Afghanistan's Taliban defence ministry alleged it seized tons of weapons smuggled from Pakistan, a claim Islamabad's information ministry dismissed as 'frivolous' and baseless, countering that Afghan soil hosts far larger arsenals and remains a base for anti-Pakistan terrorist groups.",
       "sources": [
@@ -78,7 +136,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 8,
       "headline": "Police form new five-member team to probe Mir Raza Ali's 'murder'",
       "summary": "AI summary: A newly formed five-member Sindh police team, headed by DIG Amir Farooqi, is taking over the investigation into Karachi businessman Mir Raza Ali's death after a second postmortem found he had been shot from behind and suffered extensive additional trauma including skull and rib fractures, prompting police to add a murder charge to the original kidnapping FIR.",
       "sources": [
@@ -98,7 +156,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 9,
       "headline": "2 tribal elders shot dead in KP's Lower South Waziristan",
       "summary": "AI summary: Unidentified gunmen shot dead two tribal elders, Haji Gul and Malik Badshah of the Suleman Khel tribe, while they were traveling by car in the Zarmilan area of Lower South Waziristan, prompting police to open an investigation.",
       "sources": [
@@ -117,7 +175,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 10,
       "headline": "Turkiye to soon begin offshore drilling operations in Pakistani waters: minister",
       "summary": "AI summary: Petroleum Minister Ali Pervaiz Malik said Turkish Petroleum will soon start offshore drilling in Pakistani waters to help boost domestic oil and gas output, noting Pakistan currently imports around 90% of its energy needs while producing far less than it consumes.",
       "sources": [
@@ -136,7 +194,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 11,
       "headline": "Dar clarifies scope, intent of Makkah Joint Defence Agreement",
       "summary": "AI summary: Deputy Prime Minister Ishaq Dar said the newly signed Pakistan-Saudi-Turkiye Makkah Joint Defence Agreement is purely defensive, targets no country, and remains open to any regional state willing to uphold its principles, stressing it does not replace Pakistan's existing bilateral or multilateral agreements.",
       "sources": [
@@ -157,7 +215,7 @@
       }
     },
     {
-      "id": 9,
+      "id": 12,
       "headline": "Police form new team to probe Mir Raza Ali's murder; murder charge added to FIR",
       "summary": "AI summary: Sindh police have reconstituted the investigation team probing the death of 25-year-old Karachi businessman Mir Raza Ali after a second postmortem found he was shot in the back, prompting murder and evidence-tampering charges to be added to the original kidnapping FIR.",
       "sources": [
@@ -176,7 +234,7 @@
       }
     },
     {
-      "id": 10,
+      "id": 13,
       "headline": "Security forces kill 15 terrorists in Balochistan IBOs: state media",
       "summary": "AI summary: Pakistani security forces say they killed 15 militants across eight districts of Balochistan in intelligence-based operations under Operation Radd-ul-Fitna, with officials citing state media and security sources while the province continues to see a sharp rise in violence-related casualties.",
       "sources": [
@@ -196,7 +254,7 @@
       }
     },
     {
-      "id": 11,
+      "id": 14,
       "headline": "Naqvi visits Lahore airport, directs measures to expedite immigration process",
       "summary": "AI summary: Interior Minister Mohsin Naqvi inspected Lahore's Allama Iqbal International Airport and ordered immigration counters to stay fully staffed to cut wait times, while referring a bribery complaint against an agent to the FIA for investigation.",
       "sources": [
@@ -216,7 +274,7 @@
       }
     },
     {
-      "id": 12,
+      "id": 15,
       "headline": "JI announces sit-ins across all four provinces on August 16",
       "summary": "AI summary: Jamaat-e-Islami has announced simultaneous sit-ins outside provincial government offices in all four provinces on August 16 to protest high fuel prices and the petroleum levy, alleging the mechanism is being used to mask corruption.",
       "sources": [
@@ -235,7 +293,7 @@
       }
     },
     {
-      "id": 13,
+      "id": 16,
       "headline": "On-duty cop martyred, another injured in Lakki Marwat attack",
       "summary": "AI summary: A police constable was killed and another wounded when militants opened fire on a patrol in Lakki Marwat, Khyber Pakhtunkhwa, prompting a cordon and search operation for the attackers.",
       "sources": [
@@ -254,7 +312,7 @@
       }
     },
     {
-      "id": 14,
+      "id": 17,
       "headline": "Egypt could join Pak-Saudi-Turkiye defence pact once technical issues resolved, says Turkish foreign minister",
       "summary": "AI summary: Turkish Foreign Minister Hakan Fidan said Egypt could eventually join the newly signed Pakistan-Saudi-Turkiye Makkah Joint Defence Agreement, a NATO-style mutual defence pact, once procedural issues are resolved, while stressing the alliance is not aimed at any specific country.",
       "sources": [
@@ -273,7 +331,7 @@
       }
     },
     {
-      "id": 15,
+      "id": 18,
       "headline": "President Zardari reaffirms Pakistan's commitment to protecting Indigenous peoples' rights",
       "summary": "AI summary: President Asif Ali Zardari marked International Day of the World's Indigenous Peoples by reaffirming Pakistan's commitment to protecting the rights and cultural heritage of indigenous communities such as the Kalash.",
       "sources": [
@@ -292,7 +350,7 @@
       }
     },
     {
-      "id": 16,
+      "id": 19,
       "headline": "Pakistan wins three medals at International Nuclear Science Olympiad",
       "summary": "AI summary: Pakistani students won one gold and two silver medals at the third International Nuclear Science Olympiad in Jeddah, and Pakistan was named host of the 2027 edition.",
       "sources": [
@@ -311,7 +369,7 @@
       }
     },
     {
-      "id": 17,
+      "id": 20,
       "headline": "Poonch, Palandri Elections postponed in 7 constituencies",
       "summary": "AI summary: Azad Jammu and Kashmir's Election Commission postponed voting in seven of eleven constituencies in Poonch and Palandri districts over security concerns, while polling in Bagh and Haveli proceeds as scheduled.",
       "sources": [
@@ -330,7 +388,7 @@
       }
     },
     {
-      "id": 18,
+      "id": 21,
       "headline": "Civil awards for martyrs, Ghazis approved",
       "summary": "AI summary: The government approved civil awards for 78 martyrs and Ghazis in recognition of their sacrifices, with Interior Minister Mohsin Naqvi calling the recognition a national responsibility.",
       "sources": [
