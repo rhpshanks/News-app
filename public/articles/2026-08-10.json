@@ -1,0 +1,179 @@
+{
+  "generatedAt": "2026-08-10T00:09:15+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Movement restricted under Section 144 in some areas of South Waziristan, Tank on Monday",
+      "summary": "AI summary: District administrations in Lower and Upper South Waziristan and Tank imposed Section 144, banning gatherings of four or more people and restricting general movement between 6am and 7pm from Monday, citing security concerns.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2021730/movement-restricted-under-section-144-in-some-areas-of-south-waziristan-tank-on-monday" }
+      ],
+      "timestamp": "Aug 9, 11:56 PM",
+      "publishedAt": "2026-08-09T23:56:10+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Closed roads and commercial centers plus movement curbs will disrupt local business activity in the affected districts." },
+        "political": { "value": "neutral", "reason": "A routine district-level security order does not itself signal a shift in institutional or governance stability." },
+        "social": { "value": "negative", "reason": "Restricted movement and banned gatherings will disrupt residents' daily life and access to services." },
+        "market": { "value": "low", "reason": "A localized administrative security order has minimal relevance to investors or broader markets." },
+        "lean": { "value": "balanced", "reason": "Straightforward factual reporting of an administrative order, without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single-source report, but based on an official administrative order." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Sindh govt decides judicial commission to probe Mir Raza Ali murder case",
+      "summary": "AI summary: The Sindh government decided to form a judicial commission, to be headed by a Sindh High Court judge, to investigate the killing of businessman Mir Raza Ali, after a second post-mortem ruled out suicide and confirmed gunshot wounds; the victim's family will also be allowed to nominate officers to the reconstituted police probe team.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2021701/sindh-govt-decides-judicial-commission-to-probe-mir-raza-ali-murder-case" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/676870-sindh-govt-decides-constituting-judicial-commission-to-probe-mir-raza-alis-killing" }
+      ],
+      "timestamp": "Aug 9, 9:24 PM",
+      "publishedAt": "2026-08-09T21:24:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A judicial probe into a single criminal case has no measurable effect on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "Forming a judicial commission is a corrective governance response to public concern rather than a sign of institutional instability." },
+        "social": { "value": "positive", "reason": "The commitment to a transparent, judge-led investigation responds to family and public demands, supporting confidence in accountability." },
+        "market": { "value": "low", "reason": "A domestic criminal justice matter has no relevance to markets or investors." },
+        "lean": { "value": "balanced", "reason": "Coverage cites government officials directly and does not frame the story to favor a political side." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two independent outlets with matching details on the commission's formation." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "'No other option': PTI will march to Islamabad with 'two million people', says leader",
+      "summary": "AI summary: PTI leader Shafi Jan announced the party will march from Peshawar to Islamabad on September 27 with what he called two million supporters to press for access to imprisoned party founder Imran Khan, while KP Chief Minister Sohail Afridi said the immediate goal is access rather than release.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/676863-no-other-option-pti-will-march-to-islamabad-with-two-million-people-says-leader" }
+      ],
+      "timestamp": "Aug 9, 8:50 PM",
+      "publishedAt": "2026-08-09T20:50:28+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "A planned mass march toward the capital raises the prospect of business and traffic disruption typical of large political protests." },
+        "political": { "value": "negative", "reason": "A major opposition mobilization aimed at the capital signals heightened political confrontation and pressure on government stability." },
+        "social": { "value": "neutral", "reason": "The leader stressed the protest is intended to remain peaceful and within legal bounds, limiting immediate risk, though large gatherings carry some risk." },
+        "market": { "value": "medium", "reason": "A large-scale political mobilization toward Islamabad could affect business sentiment and short-term stability if it materializes." },
+        "lean": { "value": "balanced", "reason": "The report includes both the PTI leader's framing and the KP CM's clarifying comment, presenting both sides of the stated objective." },
+        "confidence": { "value": "medium", "reason": "Single-source report based on statements from party and provincial officials; the claimed scale of 'two million' is unverified." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Pak-Saudi-Turkiye defence pact open to any other country in region, 'purely defensive': DPM Dar",
+      "summary": "AI summary: Deputy PM Ishaq Dar said the newly signed Pakistan-Saudi-Turkiye Makkah defence pact is 'purely defensive,' does not replace existing agreements, and remains open to any regional country willing to resolve disputes peacefully, following two days of public debate over the accord's scope.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2021671/pak-saudi-turkiye-defence-pact-open-to-any-other-country-in-region-purely-defensive-dpm-dar" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433987/dar-clarifies-scope-intent-of-makkah-joint-defence-agreement" }
+      ],
+      "timestamp": "Aug 9, 7:56 PM",
+      "publishedAt": "2026-08-09T19:56:27+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A clarification of a defence agreement's scope has no direct bearing on jobs, prices, or business activity." },
+        "political": { "value": "positive", "reason": "The clarification aims to reduce public ambiguity around the pact and frames it as reinforcing regional stability and existing diplomatic ties." },
+        "social": { "value": "neutral", "reason": "The statement addresses foreign policy and defence terms with limited direct effect on daily public life." },
+        "market": { "value": "medium", "reason": "Regional defence and diplomatic alignment involving Gulf states can matter to investors tracking Pakistan's geopolitical positioning." },
+        "lean": { "value": "balanced", "reason": "The coverage reports the minister's statement directly without contesting or endorsing it." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two independent outlets with matching details on Dar's statement." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Pakistan to partner with Saudi Arabia, Kuwait, Qatar on oil storage scheme",
+      "summary": "AI summary: Petroleum Minister Ali Pervaiz Malik announced Pakistan is planning a bonded oil storage scheme with Saudi Arabia, Kuwait and Qatar, under which the Gulf states would fund and maintain reserves on Pakistani soil that Islamabad could draw on during emergencies, as the country seeks to reduce exposure to energy-supply shocks.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2021711/pakistan-to-partner-with-saudi-arabia-kuwait-qatar-on-oil-storage-scheme" }
+      ],
+      "timestamp": "Aug 9, 7:02 PM",
+      "publishedAt": "2026-08-09T19:02:23+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Gulf-funded oil reserves on Pakistani soil would improve energy security and reduce vulnerability to supply shocks affecting prices and business activity." },
+        "political": { "value": "neutral", "reason": "The scheme reflects routine diplomatic and economic cooperation rather than a matter affecting institutional stability." },
+        "social": { "value": "positive", "reason": "Improved energy security reduces the risk of fuel shortages that affect households and daily life." },
+        "market": { "value": "high", "reason": "An emergency energy reserve arrangement with major Gulf oil producers is directly relevant to investors and businesses tracking Pakistan's energy security." },
+        "lean": { "value": "balanced", "reason": "The report presents the minister's announcement and rationale without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single-source report, though based on an official ministerial announcement." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Security forces kill 15 terrorists during Operation Radd-ul-Fitna-3 in Balochistan: sources",
+      "summary": "AI summary: Security sources told state media that Pakistani forces have killed 15 militants during intelligence-based operations across several Balochistan districts as part of the ongoing Operation Radd-ul-Fitna-3 against banned militant groups, according to PTV.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433989/security-forces-kill-15-terrorists-during-operation-radd-ul-fitna-3-in-balochistan-sources" }
+      ],
+      "timestamp": "Aug 9, 6:23 PM",
+      "publishedAt": "2026-08-09T18:23:29+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A counterterrorism operation has limited immediate effect on broader economic activity, though ongoing conflict can deter provincial investment." },
+        "political": { "value": "neutral", "reason": "The operation is reported as part of an ongoing security campaign rather than a signal of institutional instability." },
+        "social": { "value": "negative", "reason": "Continued armed clashes and casualties reflect ongoing instability and insecurity in Balochistan, despite the operation being framed as a security success." },
+        "market": { "value": "low", "reason": "A security operation in Balochistan has limited direct relevance to broader investor or market decisions." },
+        "lean": { "value": "balanced", "reason": "Claims are attributed to security sources and state media without independent corroboration, and the report does not editorialize." },
+        "confidence": { "value": "low", "reason": "Based on unverified claims attributed to security sources via state media, from a single source, with casualty figures not independently confirmed." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Pakistan dismisses Afghan Taliban claim of weapons smuggling as 'frivolous'",
+      "summary": "AI summary: Pakistan's Ministry of Information rejected Afghan Taliban allegations that Pakistan is smuggling weapons as 'frivolous' and baseless, countering that Afghanistan holds billions of dollars in abandoned and legacy weaponry, and calling on Kabul instead to act against militant sanctuaries used for cross-border attacks.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/676840-pakistan-dismisses-afghan-taliban-claim-of-weapons-smuggling-as-frivolous" }
+      ],
+      "timestamp": "Aug 9, 5:58 PM",
+      "publishedAt": "2026-08-09T17:58:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic dispute over weapons allegations has no direct bearing on jobs, prices, or business activity." },
+        "political": { "value": "negative", "reason": "The public rejection reflects continued friction and distrust between Islamabad and Kabul, straining bilateral relations." },
+        "social": { "value": "neutral", "reason": "The statement is a diplomatic exchange with limited immediate effect on daily public life inside Pakistan." },
+        "market": { "value": "low", "reason": "A bilateral diplomatic dispute over allegations has limited direct relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "The report conveys Pakistan's official rebuttal without independently adjudicating the underlying claims." },
+        "confidence": { "value": "medium", "reason": "Based on an official ministry statement reported by a single source." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Police form new five-member team to probe Mir Raza Ali's 'murder'",
+      "summary": "AI summary: Sindh Police formed a new five-member investigation team, led by DIG Amir Farooqi, and added a murder charge in the death of businessman Mir Raza Ali after a second post-mortem found he had been shot from behind and bore multiple injuries, contradicting the earlier suicide theory his family had rejected.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/676814-police-form-new-five-member-team-to-probe-mir-raza-alis-murder" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433993/mir-raza-death-case-police-form-new-probe-team-add-murder-charge" }
+      ],
+      "timestamp": "Aug 9, 4:59 PM",
+      "publishedAt": "2026-08-09T16:59:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A police procedural change in a single criminal case has no measurable effect on economic activity." },
+        "political": { "value": "neutral", "reason": "Reconstituting an investigation team is a routine law-enforcement response rather than a signal of broader institutional instability." },
+        "social": { "value": "positive", "reason": "Moving toward a more thorough investigation and formal murder charge responds to the victim's family's persistent concerns, supporting confidence in the case's handling." },
+        "market": { "value": "low", "reason": "A domestic criminal investigation has no relevance to markets or investors." },
+        "lean": { "value": "balanced", "reason": "The coverage reports procedural facts from police and forensic findings without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two independent outlets with matching details on the new team and murder charge." }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "Naqvi directs measures to expedite immigration process at Lahore airport",
+      "summary": "AI summary: Interior Minister Mohsin Naqvi made a surprise visit to Allama Iqbal International Airport in Lahore, directed officials to speed up immigration processing after passengers reported roughly 30-minute delays, and ordered the arrest of an agent accused of demanding money from a traveller.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433984/naqvi-directs-measures-to-expedite-immigration-process-at-lahore-airport" }
+      ],
+      "timestamp": "Aug 9, 2:27 PM",
+      "publishedAt": "2026-08-09T14:27:56+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Administrative directives to speed up airport immigration have limited direct effect on broader jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "A ministerial inspection and directive is routine oversight activity rather than a matter affecting institutional stability." },
+        "social": { "value": "positive", "reason": "Directing faster immigration processing and acting on an extortion complaint should directly improve travellers' experience." },
+        "market": { "value": "low", "reason": "An airport operations directive has minimal relevance to investors or broader market decisions." },
+        "lean": { "value": "balanced", "reason": "The report describes the minister's visit and directives factually without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single-source report of an official visit with directly quoted passenger and ministerial statements." }
+      }
+    }
+  ]
+}
