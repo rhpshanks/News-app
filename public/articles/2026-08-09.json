@@ -1,8 +1,104 @@
 {
-  "generatedAt": "2026-08-09T16:43:22+05:00",
+  "generatedAt": "2026-08-09T19:13:11+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "Pakistan to partner with Saudi Arabia, Kuwait, Qatar on oil storage scheme",
+      "summary": "AI summary: Petroleum Minister Ali Pervaiz Malik said Pakistan plans a bonded oil-storage scheme in which Saudi Arabia, Kuwait and Qatar would store crude on Pakistani soil at their own expense for global supply, while giving Islamabad first right to draw on it during a crisis; the proposal, drawn up with Saudi Aramco's help, now awaits an Economic Coordination Committee decision expected next week.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2021711/pakistan-to-partner-with-saudi-arabia-kuwait-qatar-on-oil-storage-scheme" }
+      ],
+      "timestamp": "Aug 9, 7:02 PM",
+      "publishedAt": "2026-08-09T19:02:23+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "A Gulf-backed strategic oil-storage scheme could improve Pakistan's energy security and reduce the cost of supply disruptions, directly benefiting the energy sector." },
+        "political": { "value": "neutral", "reason": "A ministerial policy proposal pending Economic Coordination Committee approval, with no notable near-term effect on institutional stability." },
+        "social": { "value": "neutral", "reason": "Limited immediate effect on day-to-day public life until the scheme is approved and implemented." },
+        "market": { "value": "high", "reason": "Directly relevant to energy investors and businesses given Pakistan's heavy import dependence and the scheme's scale ($300-500 million figures cited)." },
+        "lean": { "value": "balanced", "reason": "A straightforward report of a minister's policy proposal, without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single-source report based on the minister's own press conference statements and figures." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Pakistani hostages held by Somali pirates issue new distress message seeking govt help",
+      "summary": "AI summary: Ten Pakistani sailors among the crew of the hijacked tanker MT Honour 25, held by Somali pirates for over 100 days, sent new video appeals for the government to secure their release, describing worsening health and a reported ransom demand of about $3 million, while officials cite Somalia's fractured governance as complicating the response.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2021700/pakistani-hostages-held-by-somali-pirates-issue-new-distress-message-seeking-govt-help" }
+      ],
+      "timestamp": "Aug 9, 6:31 PM",
+      "publishedAt": "2026-08-09T18:31:55+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A hostage crisis affecting a small crew has no material effect on the broader economy." },
+        "political": { "value": "negative", "reason": "Prolonged inability to resolve a high-profile hostage situation despite direct appeals to top leadership reflects strain on the government's crisis-response capacity." },
+        "social": { "value": "negative", "reason": "Pakistani citizens remain in captivity over 100 days with reportedly deteriorating health, a direct threat to their safety and wellbeing." },
+        "market": { "value": "low", "reason": "Minimal relevance to markets or investor decisions." },
+        "lean": { "value": "balanced", "reason": "Reports the hostages' appeals and the government's stated challenges without favoring a political side." },
+        "confidence": { "value": "medium", "reason": "Single-source Dawn report drawing on video messages and official statements, not independently verified." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Security forces kill 15 terrorists during Operation Radd-ul-Fitna-3 in Balochistan: sources",
+      "summary": "AI summary: State broadcaster PTV reported that security forces have killed 15 militants across eight Balochistan districts under Operation Radd-ul-Fitna-3, citing security sources, with a large weapons cache recovered from suspected TTP fighters a day after a separate operation killed three more terrorists in the province.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433989/security-forces-kill-15-terrorists-during-operation-radd-ul-fitna-3-in-balochistan-sources" }
+      ],
+      "timestamp": "Aug 9, 6:23 PM",
+      "publishedAt": "2026-08-09T18:23:29+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Continued insurgency and counterterrorism operations in Balochistan discourage investment and disrupt business activity in the province." },
+        "political": { "value": "negative", "reason": "Framed by officials as a security success, but the scale and frequency of these operations point to persistent governance and security strain in Balochistan." },
+        "social": { "value": "negative", "reason": "Ongoing armed conflict and casualties across multiple districts continue to threaten public safety and stability for residents." },
+        "market": { "value": "low", "reason": "A localized security story with limited direct relevance beyond Balochistan-specific investment." },
+        "lean": { "value": "balanced", "reason": "Casualty and operational claims are attributed to state media (PTV) and security sources rather than asserted as independently verified fact." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt rather than the full article, as the source page returned a 403 error, and the account rests entirely on official/state-media sourcing." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Pakistan dismisses Afghan Taliban claim of weapons smuggling as 'frivolous'",
+      "summary": "AI summary: Afghanistan's Taliban defence ministry alleged it seized tons of weapons smuggled from Pakistan, a claim Islamabad's information ministry dismissed as 'frivolous' and baseless, countering that Afghan soil hosts far larger arsenals and remains a base for anti-Pakistan terrorist groups.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/676840-pakistan-dismisses-afghan-taliban-claim-of-weapons-smuggling-as-frivolous" }
+      ],
+      "timestamp": "Aug 9, 5:58 PM",
+      "publishedAt": "2026-08-09T17:58:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic dispute over weapons allegations has no direct near-term economic effect." },
+        "political": { "value": "negative", "reason": "An escalating war of words between Islamabad and the Afghan Taliban regime over smuggling and terrorism allegations signals continued strain in bilateral relations and regional security governance." },
+        "social": { "value": "neutral", "reason": "Limited direct effect on day-to-day public life within Pakistan." },
+        "market": { "value": "low", "reason": "Minimal direct relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Presents both the Afghan Taliban's claim and Pakistan's rebuttal, attributing each to its source without endorsing either." },
+        "confidence": { "value": "medium", "reason": "Single-source report on a bilateral dispute, based on official statements from both sides rather than independent verification." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Police form new five-member team to probe Mir Raza Ali's 'murder'",
+      "summary": "AI summary: A newly formed five-member Sindh police team, headed by DIG Amir Farooqi, is taking over the investigation into Karachi businessman Mir Raza Ali's death after a second postmortem found he had been shot from behind and suffered extensive additional trauma including skull and rib fractures, prompting police to add a murder charge to the original kidnapping FIR.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/676814-police-form-new-five-member-team-to-probe-mir-raza-alis-murder" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433993/mir-raza-death-case-police-form-new-probe-team-add-murder-charge" }
+      ],
+      "timestamp": "Aug 9, 4:59 PM",
+      "publishedAt": "2026-08-09T16:59:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Limited direct effect on jobs, prices, or business activity from a criminal case update." },
+        "political": { "value": "neutral", "reason": "A police reshuffle and new investigative team is a routine institutional response to public pressure, not a broader governance stability issue." },
+        "social": { "value": "negative", "reason": "Graphic new postmortem findings of a young professional's violent death intensify public concern about safety and the credibility of the initial police investigation." },
+        "market": { "value": "low", "reason": "No relevance to markets or investor decisions." },
+        "lean": { "value": "balanced", "reason": "Both outlets report police and forensic findings via official sourcing without favoring government or opposition framing." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two independent outlets with matching details on the new team and postmortem findings, though the Business Recorder account relies on the RSS description after a 403 error, and both ultimately draw on official/family sources rather than independent verification." }
+      }
+    },
+    {
+      "id": 6,
       "headline": "2 tribal elders shot dead in KP's Lower South Waziristan",
       "summary": "AI summary: Unidentified gunmen shot dead two tribal elders, Haji Gul and Malik Badshah of the Suleman Khel tribe, while they were traveling by car in the Zarmilan area of Lower South Waziristan, prompting police to open an investigation.",
       "sources": [
@@ -21,7 +117,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 7,
       "headline": "Turkiye to soon begin offshore drilling operations in Pakistani waters: minister",
       "summary": "AI summary: Petroleum Minister Ali Pervaiz Malik said Turkish Petroleum will soon start offshore drilling in Pakistani waters to help boost domestic oil and gas output, noting Pakistan currently imports around 90% of its energy needs while producing far less than it consumes.",
       "sources": [
@@ -40,7 +136,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 8,
       "headline": "Dar clarifies scope, intent of Makkah Joint Defence Agreement",
       "summary": "AI summary: Deputy Prime Minister Ishaq Dar said the newly signed Pakistan-Saudi-Turkiye Makkah Joint Defence Agreement is purely defensive, targets no country, and remains open to any regional state willing to uphold its principles, stressing it does not replace Pakistan's existing bilateral or multilateral agreements.",
       "sources": [
@@ -61,7 +157,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 9,
       "headline": "Police form new team to probe Mir Raza Ali's murder; murder charge added to FIR",
       "summary": "AI summary: Sindh police have reconstituted the investigation team probing the death of 25-year-old Karachi businessman Mir Raza Ali after a second postmortem found he was shot in the back, prompting murder and evidence-tampering charges to be added to the original kidnapping FIR.",
       "sources": [
@@ -80,7 +176,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 10,
       "headline": "Security forces kill 15 terrorists in Balochistan IBOs: state media",
       "summary": "AI summary: Pakistani security forces say they killed 15 militants across eight districts of Balochistan in intelligence-based operations under Operation Radd-ul-Fitna, with officials citing state media and security sources while the province continues to see a sharp rise in violence-related casualties.",
       "sources": [
@@ -100,7 +196,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 11,
       "headline": "Naqvi visits Lahore airport, directs measures to expedite immigration process",
       "summary": "AI summary: Interior Minister Mohsin Naqvi inspected Lahore's Allama Iqbal International Airport and ordered immigration counters to stay fully staffed to cut wait times, while referring a bribery complaint against an agent to the FIA for investigation.",
       "sources": [
@@ -120,7 +216,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 12,
       "headline": "JI announces sit-ins across all four provinces on August 16",
       "summary": "AI summary: Jamaat-e-Islami has announced simultaneous sit-ins outside provincial government offices in all four provinces on August 16 to protest high fuel prices and the petroleum levy, alleging the mechanism is being used to mask corruption.",
       "sources": [
@@ -139,7 +235,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 13,
       "headline": "On-duty cop martyred, another injured in Lakki Marwat attack",
       "summary": "AI summary: A police constable was killed and another wounded when militants opened fire on a patrol in Lakki Marwat, Khyber Pakhtunkhwa, prompting a cordon and search operation for the attackers.",
       "sources": [
@@ -158,7 +254,7 @@
       }
     },
     {
-      "id": 9,
+      "id": 14,
       "headline": "Egypt could join Pak-Saudi-Turkiye defence pact once technical issues resolved, says Turkish foreign minister",
       "summary": "AI summary: Turkish Foreign Minister Hakan Fidan said Egypt could eventually join the newly signed Pakistan-Saudi-Turkiye Makkah Joint Defence Agreement, a NATO-style mutual defence pact, once procedural issues are resolved, while stressing the alliance is not aimed at any specific country.",
       "sources": [
@@ -177,7 +273,7 @@
       }
     },
     {
-      "id": 10,
+      "id": 15,
       "headline": "President Zardari reaffirms Pakistan's commitment to protecting Indigenous peoples' rights",
       "summary": "AI summary: President Asif Ali Zardari marked International Day of the World's Indigenous Peoples by reaffirming Pakistan's commitment to protecting the rights and cultural heritage of indigenous communities such as the Kalash.",
       "sources": [
@@ -196,7 +292,7 @@
       }
     },
     {
-      "id": 11,
+      "id": 16,
       "headline": "Pakistan wins three medals at International Nuclear Science Olympiad",
       "summary": "AI summary: Pakistani students won one gold and two silver medals at the third International Nuclear Science Olympiad in Jeddah, and Pakistan was named host of the 2027 edition.",
       "sources": [
@@ -215,7 +311,7 @@
       }
     },
     {
-      "id": 12,
+      "id": 17,
       "headline": "Poonch, Palandri Elections postponed in 7 constituencies",
       "summary": "AI summary: Azad Jammu and Kashmir's Election Commission postponed voting in seven of eleven constituencies in Poonch and Palandri districts over security concerns, while polling in Bagh and Haveli proceeds as scheduled.",
       "sources": [
@@ -234,7 +330,7 @@
       }
     },
     {
-      "id": 13,
+      "id": 18,
       "headline": "Civil awards for martyrs, Ghazis approved",
       "summary": "AI summary: The government approved civil awards for 78 martyrs and Ghazis in recognition of their sacrifices, with Interior Minister Mohsin Naqvi calling the recognition a national responsibility.",
       "sources": [
