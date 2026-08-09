@@ -1,0 +1,197 @@
+{
+  "generatedAt": "2026-08-09T14:48:58+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Police form new team to probe Mir Raza Ali's murder; murder charge added to FIR",
+      "summary": "AI summary: Sindh police have reconstituted the investigation team probing the death of 25-year-old Karachi businessman Mir Raza Ali after a second postmortem found he was shot in the back, prompting murder and evidence-tampering charges to be added to the original kidnapping FIR.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2021701/police-form-new-team-to-probe-mir-raza-alis-murder-murder-charge-added-to-fir" }
+      ],
+      "timestamp": "Aug 9, 2:34 PM",
+      "publishedAt": "2026-08-09T14:34:12+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Limited direct effect on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "A police reshuffle and case reclassification is a routine investigative response, not a broader institutional stability issue." },
+        "social": { "value": "negative", "reason": "A young professional was allegedly murdered and the botched initial investigation raises public safety and trust concerns." },
+        "market": { "value": "low", "reason": "No relevance to markets or investor decisions." },
+        "lean": { "value": "balanced", "reason": "Reports police and family accounts without favoring government or opposition framing." },
+        "confidence": { "value": "medium", "reason": "Single-source Dawn report based on official police statements and the family's lawyer, not independently corroborated." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Security forces kill 15 terrorists in Balochistan IBOs: state media",
+      "summary": "AI summary: Pakistani security forces say they killed 15 militants across eight districts of Balochistan in intelligence-based operations under Operation Radd-ul-Fitna, with officials citing state media and security sources while the province continues to see a sharp rise in violence-related casualties.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2021695/security-forces-kill-15-terrorists-in-balochistan-ibos-state-media" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/676805-15-india-backed-terrorists-killed-in-balochistan-ibos-security-sources" }
+      ],
+      "timestamp": "Aug 9, 1:44 PM",
+      "publishedAt": "2026-08-09T13:44:58+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Continued insurgency in Balochistan discourages investment and disrupts business activity in the province." },
+        "political": { "value": "negative", "reason": "Officials frame the operations as a security success, but the underlying sharp rise in violence-related deaths points to worsening security and governance strain in the province." },
+        "social": { "value": "negative", "reason": "Ongoing conflict and casualties directly threaten public safety and daily life in affected districts." },
+        "market": { "value": "low", "reason": "A localized security story with limited direct market relevance beyond Balochistan-specific investment." },
+        "lean": { "value": "balanced", "reason": "Both outlets attribute casualty figures to state media, security sources, and the interior minister rather than asserting them as independently verified fact." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two independent outlets with matching casualty and location details, but the underlying claims originate from official and security sources rather than independent verification." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Naqvi visits Lahore airport, directs measures to expedite immigration process",
+      "summary": "AI summary: Interior Minister Mohsin Naqvi inspected Lahore's Allama Iqbal International Airport and ordered immigration counters to stay fully staffed to cut wait times, while referring a bribery complaint against an agent to the FIA for investigation.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/676798-naqvi-visits-lahore-airport-directs-measures-to-expedite-immigration-process" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433984/naqvi-directs-measures-to-expedite-immigration-process-at-lahore-airport" }
+      ],
+      "timestamp": "Aug 9, 1:30 PM",
+      "publishedAt": "2026-08-09T13:30:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Faster immigration processing benefits business travelers and tourism-linked activity." },
+        "political": { "value": "neutral", "reason": "A routine ministerial inspection with no notable effect on institutional stability." },
+        "social": { "value": "positive", "reason": "Reduced wait times and an anti-corruption referral improve the everyday travel experience for the public." },
+        "market": { "value": "low", "reason": "Minimal relevance to investors or broader market decisions." },
+        "lean": { "value": "balanced", "reason": "A straightforward report of a ministerial visit and directives, without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two outlets with matching details, though based on the minister's own account of the visit." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "JI announces sit-ins across all four provinces on August 16",
+      "summary": "AI summary: Jamaat-e-Islami has announced simultaneous sit-ins outside provincial government offices in all four provinces on August 16 to protest high fuel prices and the petroleum levy, alleging the mechanism is being used to mask corruption.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/676796-ji-announces-sit-ins-across-all-four-provinces-on-august-16" }
+      ],
+      "timestamp": "Aug 9, 1:20 PM",
+      "publishedAt": "2026-08-09T13:20:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Planned sit-ins and prior road blockades risk disrupting business and commuter activity in provincial capitals." },
+        "political": { "value": "negative", "reason": "A major opposition party organizing coordinated nationwide protests against government fuel pricing policy signals rising political tension." },
+        "social": { "value": "negative", "reason": "Nationwide sit-ins reflect and could deepen public frustration over inflation and disrupt daily life near protest sites." },
+        "market": { "value": "medium", "reason": "Fuel pricing and petroleum levy protests are relevant to businesses and sectors sensitive to energy costs." },
+        "lean": { "value": "balanced", "reason": "The report presents JI's claims and figures as the party's own allegations rather than endorsing them; confidence in the underlying government/opposition dynamic is limited." },
+        "confidence": { "value": "medium", "reason": "Single-source report of a public announcement, without independent corroboration of the figures cited." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "On-duty cop martyred, another injured in Lakki Marwat attack",
+      "summary": "AI summary: A police constable was killed and another wounded when militants opened fire on a patrol in Lakki Marwat, Khyber Pakhtunkhwa, prompting a cordon and search operation for the attackers.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2021694/on-duty-cop-martyred-another-injured-in-lakki-marwat-attack" }
+      ],
+      "timestamp": "Aug 9, 12:54 PM",
+      "publishedAt": "2026-08-09T12:54:44+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Persistent militant attacks in KP add to a climate that deters local economic activity." },
+        "political": { "value": "negative", "reason": "The attack reflects continuing militant activity in KP that undermines the government's security control in the region." },
+        "social": { "value": "negative", "reason": "A police officer was killed and another wounded, directly threatening public safety." },
+        "market": { "value": "low", "reason": "A localized security incident with minimal broader market relevance." },
+        "lean": { "value": "balanced", "reason": "Reports police accounts of the incident without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single-source report based on police statements, not independently corroborated." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Egypt could join Pak-Saudi-Turkiye defence pact once technical issues resolved, says Turkish foreign minister",
+      "summary": "AI summary: Turkish Foreign Minister Hakan Fidan said Egypt could eventually join the newly signed Pakistan-Saudi-Turkiye Makkah Joint Defence Agreement, a NATO-style mutual defence pact, once procedural issues are resolved, while stressing the alliance is not aimed at any specific country.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2021671/egypt-could-join-pak-saudi-turkiye-defence-pact-once-technical-issues-resolved-says-turkish-foreign-minister" }
+      ],
+      "timestamp": "Aug 9, 11:57 AM",
+      "publishedAt": "2026-08-09T11:57:02+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A defence alliance announcement has no direct near-term effect on jobs, prices, or business activity." },
+        "political": { "value": "positive", "reason": "A new mutual-defence pact with Saudi Arabia and Turkiye, with potential further expansion, strengthens Pakistan's international security alliances." },
+        "social": { "value": "neutral", "reason": "Limited direct effect on day-to-day public life." },
+        "market": { "value": "medium", "reason": "Geopolitical and defence alliance shifts can influence investor sentiment and regional risk perception." },
+        "lean": { "value": "balanced", "reason": "Reports the Turkish foreign minister's statements without favoring domestic government or opposition." },
+        "confidence": { "value": "medium", "reason": "Single-source report based on direct quotes from a foreign official." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "President Zardari reaffirms Pakistan's commitment to protecting Indigenous peoples' rights",
+      "summary": "AI summary: President Asif Ali Zardari marked International Day of the World's Indigenous Peoples by reaffirming Pakistan's commitment to protecting the rights and cultural heritage of indigenous communities such as the Kalash.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433971/president-zardari-reaffirms-pakistans-commitment-to-protecting-indigenous-peoples-rights" }
+      ],
+      "timestamp": "Aug 9, 10:49 AM",
+      "publishedAt": "2026-08-09T10:49:59+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A ceremonial statement with no direct economic effect." },
+        "political": { "value": "neutral", "reason": "A routine presidential statement marking an international day, without notable effect on institutional stability." },
+        "social": { "value": "positive", "reason": "Reaffirms protection of indigenous communities' rights and cultural heritage." },
+        "market": { "value": "low", "reason": "No relevance to markets or investors." },
+        "lean": { "value": "balanced", "reason": "A ceremonial statement reported without contesting viewpoints." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt rather than the full article, as the source page returned a 403 error." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Pakistan wins three medals at International Nuclear Science Olympiad",
+      "summary": "AI summary: Pakistani students won one gold and two silver medals at the third International Nuclear Science Olympiad in Jeddah, and Pakistan was named host of the 2027 edition.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/676779-pakistan-wins-three-medals-at-international-nuclear-science-olympiad" }
+      ],
+      "timestamp": "Aug 9, 10:30 AM",
+      "publishedAt": "2026-08-09T10:30:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "An academic achievement with no direct near-term economic effect." },
+        "political": { "value": "neutral", "reason": "A scientific competition result has no notable bearing on institutional or governance stability." },
+        "social": { "value": "positive", "reason": "A notable achievement for Pakistani students that reflects positively on public morale and STEM investment." },
+        "market": { "value": "low", "reason": "No relevance to markets or investor decisions." },
+        "lean": { "value": "balanced", "reason": "A straightforward achievement report without political framing." },
+        "confidence": { "value": "high", "reason": "A verifiable, specific event (medal counts, winners' names, host announcement) reported in detail from the full article." }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "Poonch, Palandri Elections postponed in 7 constituencies",
+      "summary": "AI summary: Azad Jammu and Kashmir's Election Commission postponed voting in seven of eleven constituencies in Poonch and Palandri districts over security concerns, while polling in Bagh and Haveli proceeds as scheduled.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433957/poonch-palandri-elections-postponed-in-7-constituencies" }
+      ],
+      "timestamp": "Aug 9, 2:24 AM",
+      "publishedAt": "2026-08-09T02:24:27+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Limited direct economic effect from a localized election postponement." },
+        "political": { "value": "negative", "reason": "A security-driven postponement of voting in most constituencies in these districts reflects strain on the electoral process." },
+        "social": { "value": "negative", "reason": "Voters in the affected constituencies are disenfranchised for now, and the cited security concerns point to safety issues in the area." },
+        "market": { "value": "low", "reason": "No relevance to markets or investor decisions." },
+        "lean": { "value": "balanced", "reason": "A routine election commission announcement reported without favoring any party." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt rather than the full article, as the source page returned a 403 error." }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "Civil awards for martyrs, Ghazis approved",
+      "summary": "AI summary: The government approved civil awards for 78 martyrs and Ghazis in recognition of their sacrifices, with Interior Minister Mohsin Naqvi calling the recognition a national responsibility.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40433958/civil-awards-for-martyrs-ghazis-approved" }
+      ],
+      "timestamp": "Aug 9, 2:24 AM",
+      "publishedAt": "2026-08-09T02:24:27+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct economic effect from a civil awards approval." },
+        "political": { "value": "positive", "reason": "Formal recognition of martyrs and Ghazis reinforces state and military institutional legitimacy." },
+        "social": { "value": "positive", "reason": "Public recognition of sacrifice tends to boost morale and public sentiment toward security institutions." },
+        "market": { "value": "low", "reason": "No relevance to markets or investor decisions." },
+        "lean": { "value": "balanced", "reason": "A routine government announcement reported without partisan framing." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt rather than the full article, as the source page returned a 403 error." }
+      }
+    }
+  ]
+}
