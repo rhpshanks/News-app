@@ -1,8 +1,163 @@
 {
-  "generatedAt": "2026-08-10T16:22:19+05:00",
+  "generatedAt": "2026-08-10T20:46:33+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "PTI leadership, TTAP on board for September 27 long march to Islamabad: Sohail Afridi",
+      "summary": "AI summary: KP Chief Minister Sohail Afridi said on Geo News's Capital Talk that PTI's full political leadership and allied TTAP support the planned September 27 long march to Islamabad, dismissed claims he had secretly coordinated the date with Interior Minister Mohsin Naqvi, and said he expects to convince Imran Khan's sister Aleema Khan, who had questioned the September date, once he explains the reasoning.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2021943/pti-leadership-ttap-on-board-for-september-27-long-march-to-islamabad-sohail-afridi" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/676982-pti-ttap-leadership-on-board-with-sept-27-long-march-to-islamabad-says-kp-cm" }
+      ],
+      "timestamp": "Aug 10, 8:04 PM",
+      "publishedAt": "2026-08-10T20:04:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "A planned mass march toward the capital raises the prospect of business and traffic disruption typical of large political protests." },
+        "political": { "value": "negative", "reason": "Confirmed leadership backing for a major opposition mobilization toward the capital, compounded by internal disputes over the date and denied claims of a secret deal with the interior minister, signals heightened political tension." },
+        "social": { "value": "neutral", "reason": "The report covers leadership coordination and internal disagreement rather than describing any immediate public safety incident." },
+        "market": { "value": "medium", "reason": "A large-scale political mobilization toward Islamabad could affect business sentiment and short-term stability if it materializes." },
+        "lean": { "value": "balanced", "reason": "The report presents Afridi's statements and his denials of the secret-deal allegation without favoring either side of the internal PTI dispute or the government." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two independent outlets with matching quotes and details on the march announcement." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "At least 20 dead as major quake rocks Colombia, other countries",
+      "summary": "AI summary: A 7.4-magnitude earthquake centered underground in western Colombia's Choco province killed at least 20 people and triggered building collapses in Pereira, Manizales and Cali, cut power and phone service in some areas, and suspended operations at six western Colombian airports, with tremors also felt in Ecuador, Panama and Venezuela.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2021933/at-least-20-dead-as-major-quake-rocks-colombia-other-countries" }
+      ],
+      "timestamp": "Aug 10, 7:58 PM",
+      "publishedAt": "2026-08-10T19:58:27+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A natural disaster in Colombia has no direct effect on jobs, prices, or business activity in Pakistan." },
+        "political": { "value": "neutral", "reason": "A foreign natural disaster has no bearing on Pakistan's institutional or governance stability." },
+        "social": { "value": "negative", "reason": "The quake caused at least 20 deaths, building collapses, and trapped residents, a severe public safety and wellbeing impact for those affected." },
+        "market": { "value": "low", "reason": "A natural disaster in Colombia has minimal relevance to Pakistani investors or markets." },
+        "lean": { "value": "balanced", "reason": "Straightforward factual disaster reporting citing geological agencies and casualty figures, with no political framing." },
+        "confidence": { "value": "medium", "reason": "Single-source report, but based on matching figures from the Colombian geological service and USGS." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Pakistan, Russia explore cooperation in farm machinery, inputs, animal health",
+      "summary": "AI summary: Federal Minister for National Food Security Rana Tanveer Hussain discussed expanding Pakistan-Russia cooperation on farm machinery, fertilizers, pesticides and animal health with Russian counterparts, stressing the need for modern, efficient machinery to raise farm productivity.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434148/pakistan-russia-explore-cooperation-in-farm-machinery-inputs-animal-health" }
+      ],
+      "timestamp": "Aug 10, 7:49 PM",
+      "publishedAt": "2026-08-10T19:49:08+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Expanded access to modern farm machinery and inputs could improve agricultural productivity and reduce input costs." },
+        "political": { "value": "neutral", "reason": "A routine bilateral economic cooperation discussion has no bearing on institutional or governance stability." },
+        "social": { "value": "neutral", "reason": "Any benefit to farm productivity would be indirect and longer-term, with no immediate effect on daily public life." },
+        "market": { "value": "medium", "reason": "Relevant to agribusiness investors and traders tracking Pakistan-Russia bilateral trade and agricultural ties." },
+        "lean": { "value": "balanced", "reason": "A factual account of a ministerial meeting without partisan framing." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt after the full article page returned an access error, not the complete article." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Dar, Araghchi discuss regional developments, Makkah defence pact",
+      "summary": "AI summary: Deputy PM and Foreign Minister Ishaq Dar briefed Iranian counterpart Abbas Araghchi on the Makkah Joint Defence Agreement, after Iran's foreign ministry said it saw no reason to view the Pakistan-Saudi-Turkiye pact as directed against Tehran.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434143/dar-araghchi-discuss-regional-developments-makkah-defence-pact" }
+      ],
+      "timestamp": "Aug 10, 7:09 PM",
+      "publishedAt": "2026-08-10T19:09:08+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic briefing between foreign ministers has no direct bearing on jobs, prices, or business activity." },
+        "political": { "value": "positive", "reason": "Direct diplomatic engagement to reassure a neighboring state over the new defence pact reduces friction and supports regional diplomatic stability." },
+        "social": { "value": "neutral", "reason": "A diplomatic exchange between foreign ministers has limited direct effect on daily public life." },
+        "market": { "value": "medium", "reason": "Relevant to investors tracking Pakistan's regional diplomatic alignment and relations with Iran." },
+        "lean": { "value": "balanced", "reason": "A factual account of a diplomatic exchange, including Iran's own reassured stance, without partisan framing." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt after the full article page returned an access error, not the complete article." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Achakzai urges PM to appoint new CEC, ECP members from Sindh, Balochistan",
+      "summary": "AI summary: National Assembly Opposition Leader Mehmood Khan Achakzai wrote to PM Shehbaz Sharif urging the appointment of a new Chief Election Commissioner and ECP members from Sindh and Balochistan, noting their statutory terms lapsed in January 2025, and requested a constitutionally mandated consultative meeting to finalize the names.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/676971-achakzai-urges-pm-to-appoint-new-cec-ecp-members-from-sindh-balochistan" }
+      ],
+      "timestamp": "Aug 10, 7:00 PM",
+      "publishedAt": "2026-08-10T19:00:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A request to fill vacant election commission posts has no measurable effect on jobs, prices, or business activity." },
+        "political": { "value": "negative", "reason": "Constitutionally mandated election commission posts have remained vacant for over 18 months despite a required consultation process, pointing to a governance and institutional-continuity lapse." },
+        "social": { "value": "neutral", "reason": "A vacancy in election commission appointments has limited immediate direct effect on daily public life." },
+        "market": { "value": "low", "reason": "An election commission staffing matter has limited direct relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "The opposition leader's request is grounded in specific constitutional provisions and reported factually, without editorializing for or against either side." },
+        "confidence": { "value": "medium", "reason": "Single-source report, but based on the opposition leader's own written communication citing specific constitutional articles and dates." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Pak-Saudi-Turkiye defence pact 'entirely for defensive purposes', not aggression: PM Shehbaz",
+      "summary": "AI summary: PM Shehbaz Sharif told the federal cabinet that the Makkah Joint Defence Agreement signed with Saudi Arabia and Turkiye on August 7 is entirely defensive, treats an attack on one signatory as an attack on all three, and is meant to promote regional peace and stability rather than aggression, citing broad OIC and regional support and Deputy PM Dar's description of the pact as open to other countries.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2021923/pak-saudi-turkiye-defence-pact-entirely-for-defensive-purposes-not-aggression-pm-shehbaz" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/676974-pm-shehbaz-says-trilateral-defence-pact-not-aimed-at-aggression" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434138/makkah-agreement-purely-defensive-designed-to-ensure-regional-peace-pm" }
+      ],
+      "timestamp": "Aug 10, 6:32 PM",
+      "publishedAt": "2026-08-10T18:32:08+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A prime ministerial statement clarifying a defence pact's scope has no direct bearing on jobs, prices, or business activity." },
+        "political": { "value": "positive", "reason": "The prime minister publicly defending and clarifying the pact's defensive intent, alongside broad OIC and regional support, reduces ambiguity and supports diplomatic and institutional stability." },
+        "social": { "value": "neutral", "reason": "A cabinet address on defence policy has limited direct effect on daily public life." },
+        "market": { "value": "medium", "reason": "Regional defence and diplomatic alignment involving Gulf and OIC states is relevant to investors tracking Pakistan's geopolitical positioning." },
+        "lean": { "value": "balanced", "reason": "The report conveys the PM's own statement to cabinet along with supporting regional reactions, without partisan framing." },
+        "confidence": { "value": "high", "reason": "Corroborated by three independent outlets with matching details on the PM's statement and its content." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Judicial probe into Mir Raza's death deferred after family backs new police team",
+      "summary": "AI summary: The Sindh government deferred plans for a judicial commission into businessman Mir Raza Ali's death after the family voiced confidence in the newly formed police investigation team, as forensic examiners continue analyzing evidence recovered from the body, including pending DNA results.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434135/judicial-probe-into-mir-razas-death-deferred-after-family-backs-new-police-team" }
+      ],
+      "timestamp": "Aug 10, 4:57 PM",
+      "publishedAt": "2026-08-10T16:57:12+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Deferring a judicial commission in a single criminal case has no measurable effect on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "The reversal reflects officials adjusting course in response to the victim's family's own stated preference rather than a sign of institutional instability." },
+        "social": { "value": "positive", "reason": "The decision directly accommodates the family's expressed wishes, supporting their confidence in the ongoing police-led investigation." },
+        "market": { "value": "low", "reason": "A domestic criminal justice procedural matter has no relevance to markets or investors." },
+        "lean": { "value": "balanced", "reason": "A factual account of the family's position and the ongoing forensic process, without partisan framing." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt after the full article page returned an access error, not the complete article." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "PML-N's AJK lawmaker Rukhsar Ahmed denies child grooming, rape allegations",
+      "summary": "AI summary: Newly elected PML-N Azad Kashmir lawmaker Rukhsar Ahmed denied historic child grooming, rape and trafficking allegations dating to 1990s Manchester care homes, for which he was arrested in the UK in 2024 and released on bail before relocating to Pakistan and winning election weeks ago, and faces a UK police bail deadline within six weeks after missing a scheduled police appointment citing illness.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/676946-pml-ns-ajk-lawmaker-rukhsar-ahmed-denies-child-grooming-rape-allegations" }
+      ],
+      "timestamp": "Aug 10, 4:26 PM",
+      "publishedAt": "2026-08-10T16:26:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Allegations against an individual lawmaker have no measurable effect on jobs, prices, or business activity." },
+        "political": { "value": "negative", "reason": "A sitting elected lawmaker facing serious historic criminal allegations, and having missed a scheduled police appointment, raises an accountability concern regardless of party." },
+        "social": { "value": "negative", "reason": "The allegations involve child grooming, rape and trafficking of minors, a matter of serious public concern for child safety and institutional trust." },
+        "market": { "value": "low", "reason": "An individual lawmaker's personal legal matter has no relevance to markets or investors." },
+        "lean": { "value": "balanced", "reason": "The report presents the allegations and the lawmaker's denial factually, without framing the story to favor or attack the government or opposition." },
+        "confidence": { "value": "medium", "reason": "Single-source report, but based on specific documented facts including arrest date, charges, and the lawmaker's own on-record denial." }
+      }
+    },
+    {
+      "id": 9,
       "headline": "Sindh govt defers judicial commission decision on Mir Raza Ali murder case probe",
       "summary": "AI summary: Sindh Home Minister Ziaul Hassan Lanjar said on X that the provincial government has deferred its earlier decision to form a judicial commission into businessman Mir Raza Ali's death, after Karachi Mayor Murtaza Wahab met the family, who expressed confidence in the newly reconstituted police investigation team and preferred it proceed without a parallel judicial inquiry; the family's lawyer had objected to the original commission plan, saying it was never requested.",
       "sources": [
@@ -21,7 +176,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 10,
       "headline": "Pakistan-US ties better than before, but no room for complacency: envoy",
       "summary": "AI summary: Pakistan's Ambassador to the US, Rizwan Saeed Sheikh, told a Pakistani American community event that bilateral relations are considerably better than in the past but warned against complacency, urging that improved ties be converted into a lasting, results-oriented partnership built on trade and investment rather than temporary diplomatic gains, citing the new Pakistan-Saudi-Turkiye defence pact as an example of Pakistan's contribution to regional stability.",
       "sources": [
@@ -40,7 +195,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 11,
       "headline": "Iran says Pak-Saudi-Turkiye deal shows 'change in perception' towards US",
       "summary": "AI summary: Iran's foreign ministry spokesperson Esmaeil Baqaei said the new Pakistan-Saudi-Turkiye Makkah defence pact signals a shift in how regional countries view the US, arguing security cannot be bought from what he called false security brokers and that Iran has no reason to worry the pact is directed against it, while Pakistan's Deputy PM Ishaq Dar reiterated the agreement is purely defensive and open to any regional country.",
       "sources": [
@@ -59,7 +214,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 12,
       "headline": "IHC asks federal govt to explain delay in judges' appointments summary",
       "summary": "AI summary: Islamabad High Court Justice Arbab Muhammad Tahir issued notices to the president and prime minister demanding explanation for the more than 18-day delay in approving a summary for high court judge appointments nominated by the Judicial Commission of Pakistan in July, noting the constitutional 15-day approval window under Article 175A(8) has lapsed, and ordered responses by Wednesday after remarking the federal government appeared to have little interest in the matter.",
       "sources": [
@@ -78,7 +233,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 13,
       "headline": "'Acid traces' found in Mir Raza Ali's stomach, clothes",
       "summary": "AI summary: Police sources said a second post-mortem following exhumation found traces of acid on Mir Raza Ali's hands, feet, stomach and lungs, plus acid residue and another person's perspiration on his shirt, findings that reinforce the murder theory alongside the earlier rear gunshot wound and injury marks; police have sealed a nearby guesthouse and detained six more people there, bringing total detentions in the case to 21.",
       "sources": [
@@ -97,7 +252,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 14,
       "headline": "3rd phase of AJK polls: PPP continues to allege rigging as voting under way in Poonch Division's Bagh, Haveli",
       "summary": "AI summary: Voting continued through the day in the third phase of Azad Jammu and Kashmir's elections across four Poonch Division constituencies in Bagh and Haveli, with around 460,000 registered voters across 803 polling stations, while the PPP filed multiple complaints alleging PML-N supporters illegally stamped ballots, its polling agents were forcibly removed at several stations, and armed individuals linked to PML-N opened fire at one station; the Election Commission said complaints were being addressed with Quick Response Force deployment and that some presiding officers were relieved of duty, while dismissing the allegations as unfounded.",
       "sources": [
@@ -117,7 +272,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 15,
       "headline": "Brickmakers in Punjab's Sheikhupura scorched by sun above and fire below",
       "summary": "AI summary: Workers at brick kilns in Punjab's Sheikhupura district face intensifying summer heat on top of kilns already operating above 1,000°C, earning roughly $3 a day and often trapped in debt-bondage advance-payment arrangements that leave them unable to refuse dangerous work despite rising rates of respiratory illness, skin disorders and kidney disease among the more than one million people employed across Pakistan's brick kiln industry.",
       "sources": [
@@ -136,7 +291,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 16,
       "headline": "Security forces kill 5 terrorists in intelligence-based operation in Balochistan's Panjgur",
       "summary": "AI summary: State media reported that security forces killed five militants, including a commander identified as Wazir from the group Pakistan calls Fitna al-Hindustan, in an intelligence-based operation in Panjgur district's Sarkani and Chedgi areas under the ongoing Operation Radd-ul-Fitna-3, recovering motorcycles and weapons, a day after a separate operation reportedly killed 15 militants across several other Balochistan districts.",
       "sources": [
@@ -156,7 +311,7 @@
       }
     },
     {
-      "id": 9,
+      "id": 17,
       "headline": "High court judge to investigate Mir Raza murder case, says home minister",
       "summary": "AI summary: Sindh Home Minister Zia Lanjar confirmed a Sindh High Court judge, recommended by PPP leader Faryal Talpur, will head a judicial inquiry into businessman Mir Raza Ali's death after a fresh autopsy following exhumation ruled out suicide and found he was shot from behind with signs of torture; two police officers were suspended for failing to preserve the crime scene, and a senior minister filed a cyber-crime complaint over what he called a defamatory social media campaign.",
       "sources": [
@@ -175,7 +330,7 @@
       }
     },
     {
-      "id": 10,
+      "id": 18,
       "headline": "3rd phase of AJK polls: Voting underway in Poonch Division's Bagh and Haveli districts",
       "summary": "AI summary: Voting began in the third phase of Azad Jammu and Kashmir's legislative elections across four Poonch Division constituencies in Bagh and Haveli, with about 460,000 registered voters, over 800 polling stations, and roughly 10,300 additional troops deployed; PML-N, which has won 24 of the first two phases' seats to PPP's 10, needs six more seats for a two-thirds majority per a prime ministerial adviser, a claim PPP chief Bilawal Bhutto-Zardari disputed.",
       "sources": [
@@ -195,7 +350,7 @@
       }
     },
     {
-      "id": 11,
+      "id": 19,
       "headline": "Tarbela Dam attains maximum storage level",
       "summary": "AI summary: Tarbela Dam, Pakistan's second-largest reservoir, reached its maximum storage level of 1,550 feet amid the ongoing monsoon season, well above the 90% and 96% capacity it held on the same date in the previous two years, while authorities separately warned of urban flooding risk in Rawalpindi, Lahore and Faisalabad from continuing rains.",
       "sources": [
@@ -214,7 +369,7 @@
       }
     },
     {
-      "id": 12,
+      "id": 20,
       "headline": "Rs115bn WB-funded rehabilitation project restructured quietly",
       "summary": "AI summary: The government quietly restructured the $400 million World Bank-funded Integrated Flood Resilience & Adaptation Project, capping its $155 million housing component at about 69,000 homes instead of covering all 134,000-plus verified flood-affected families in Balochistan, after investigations found record tampering, duplicate claims and inflated completion figures despite the prime minister's earlier promise of resilient homes for every affected family.",
       "sources": [
@@ -233,7 +388,7 @@
       }
     },
     {
-      "id": 13,
+      "id": 21,
       "headline": "Urea fertilizer: Tobacco growers reject govt's 'unjustified' ban",
       "summary": "AI summary: Tobacco farmers in Khyber Pakhtunkhwa rejected the provincial administration's ban on urea fertilizer purchases as counterproductive to crop yields, accused tobacco companies of exploitative pricing, demanded farmer representation on price-setting committees, and said they plan to join upcoming protests over petroleum levies.",
       "sources": [
@@ -252,7 +407,7 @@
       }
     },
     {
-      "id": 14,
+      "id": 22,
       "headline": "KPIC hears 49 complaints against public bodies",
       "summary": "AI summary: The Khyber Pakhtunkhwa Information Commission reviewed 49 citizen complaints against public bodies in its weekly session, resolved roughly 60% by supplying requested recruitment, healthcare and municipal data, and summoned officials from departments with persistent delays to explain their non-compliance.",
       "sources": [
@@ -271,7 +426,7 @@
       }
     },
     {
-      "id": 15,
+      "id": 23,
       "headline": "AJK PSC gets seven new members",
       "summary": "AI summary: The Azad Jammu and Kashmir administration appointed seven retired senior officials, drawn from secretarial, revenue, health and academic backgrounds, to three-year terms on the Public Service Commission under constitutional procedure, aiming to strengthen the commission's capacity and continuity in recruitment and regulatory functions.",
       "sources": [
@@ -290,7 +445,7 @@
       }
     },
     {
-      "id": 16,
+      "id": 24,
       "headline": "Coastal communities: Minister for recognition of traditional ecological knowledge",
       "summary": "AI summary: Pakistan's Maritime Affairs Minister called for formal recognition of coastal and indigenous seafaring communities' traditional ecological knowledge, saying it strengthens climate resilience, marine ecosystem protection and fishing sustainability, in remarks marking the International Day of Indigenous Peoples.",
       "sources": [
@@ -309,7 +464,7 @@
       }
     },
     {
-      "id": 17,
+      "id": 25,
       "headline": "Movement restricted under Section 144 in some areas of South Waziristan, Tank on Monday",
       "summary": "AI summary: District administrations in Lower and Upper South Waziristan and Tank imposed Section 144, banning gatherings of four or more people and restricting general movement between 6am and 7pm from Monday, citing security concerns.",
       "sources": [
@@ -328,7 +483,7 @@
       }
     },
     {
-      "id": 18,
+      "id": 26,
       "headline": "Sindh govt decides judicial commission to probe Mir Raza Ali murder case",
       "summary": "AI summary: The Sindh government decided to form a judicial commission, to be headed by a Sindh High Court judge, to investigate the killing of businessman Mir Raza Ali, after a second post-mortem ruled out suicide and confirmed gunshot wounds; the victim's family will also be allowed to nominate officers to the reconstituted police probe team.",
       "sources": [
@@ -348,7 +503,7 @@
       }
     },
     {
-      "id": 19,
+      "id": 27,
       "headline": "'No other option': PTI will march to Islamabad with 'two million people', says leader",
       "summary": "AI summary: PTI leader Shafi Jan announced the party will march from Peshawar to Islamabad on September 27 with what he called two million supporters to press for access to imprisoned party founder Imran Khan, while KP Chief Minister Sohail Afridi said the immediate goal is access rather than release.",
       "sources": [
@@ -367,7 +522,7 @@
       }
     },
     {
-      "id": 20,
+      "id": 28,
       "headline": "Pak-Saudi-Turkiye defence pact open to any other country in region, 'purely defensive': DPM Dar",
       "summary": "AI summary: Deputy PM Ishaq Dar said the newly signed Pakistan-Saudi-Turkiye Makkah defence pact is 'purely defensive,' does not replace existing agreements, and remains open to any regional country willing to resolve disputes peacefully, following two days of public debate over the accord's scope.",
       "sources": [
@@ -387,7 +542,7 @@
       }
     },
     {
-      "id": 21,
+      "id": 29,
       "headline": "Pakistan to partner with Saudi Arabia, Kuwait, Qatar on oil storage scheme",
       "summary": "AI summary: Petroleum Minister Ali Pervaiz Malik announced Pakistan is planning a bonded oil storage scheme with Saudi Arabia, Kuwait and Qatar, under which the Gulf states would fund and maintain reserves on Pakistani soil that Islamabad could draw on during emergencies, as the country seeks to reduce exposure to energy-supply shocks.",
       "sources": [
@@ -406,7 +561,7 @@
       }
     },
     {
-      "id": 22,
+      "id": 30,
       "headline": "Security forces kill 15 terrorists during Operation Radd-ul-Fitna-3 in Balochistan: sources",
       "summary": "AI summary: Security sources told state media that Pakistani forces have killed 15 militants during intelligence-based operations across several Balochistan districts as part of the ongoing Operation Radd-ul-Fitna-3 against banned militant groups, according to PTV.",
       "sources": [
@@ -425,7 +580,7 @@
       }
     },
     {
-      "id": 23,
+      "id": 31,
       "headline": "Pakistan dismisses Afghan Taliban claim of weapons smuggling as 'frivolous'",
       "summary": "AI summary: Pakistan's Ministry of Information rejected Afghan Taliban allegations that Pakistan is smuggling weapons as 'frivolous' and baseless, countering that Afghanistan holds billions of dollars in abandoned and legacy weaponry, and calling on Kabul instead to act against militant sanctuaries used for cross-border attacks.",
       "sources": [
@@ -444,7 +599,7 @@
       }
     },
     {
-      "id": 24,
+      "id": 32,
       "headline": "Police form new five-member team to probe Mir Raza Ali's 'murder'",
       "summary": "AI summary: Sindh Police formed a new five-member investigation team, led by DIG Amir Farooqi, and added a murder charge in the death of businessman Mir Raza Ali after a second post-mortem found he had been shot from behind and bore multiple injuries, contradicting the earlier suicide theory his family had rejected.",
       "sources": [
@@ -464,7 +619,7 @@
       }
     },
     {
-      "id": 25,
+      "id": 33,
       "headline": "Naqvi directs measures to expedite immigration process at Lahore airport",
       "summary": "AI summary: Interior Minister Mohsin Naqvi made a surprise visit to Allama Iqbal International Airport in Lahore, directed officials to speed up immigration processing after passengers reported roughly 30-minute delays, and ordered the arrest of an agent accused of demanding money from a traveller.",
       "sources": [
