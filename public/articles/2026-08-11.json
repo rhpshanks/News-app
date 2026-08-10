@@ -1,0 +1,178 @@
+{
+  "generatedAt": "2026-08-11T00:33:38+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Govt leaves petrol, diesel prices unchanged for Aug 11",
+      "summary": "AI summary: Pakistan's government kept petrol at Rs327.62/litre and diesel at Rs380.86/litre unchanged for Aug 11, since benchmark Platts prices weren't published on Aug 10, extending a period of relative stability after sharp volatility earlier this year.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2021950/govt-leaves-petrol-diesel-prices-unchanged-for-aug-11" }
+      ],
+      "timestamp": "Aug 10, 11:38 PM",
+      "publishedAt": "2026-08-10T23:38:39+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Unchanged fuel prices maintain the status quo for consumers and businesses, with no new cost pressure but also no relief given the heavy tax component." },
+        "political": { "value": "neutral", "reason": "Routine fortnightly pricing decision driven by a technical data gap, not a politically consequential move." },
+        "social": { "value": "neutral", "reason": "No immediate change in the public's cost of living from this decision." },
+        "market": { "value": "low", "reason": "Routine fuel pricing update with limited market-moving relevance." },
+        "lean": { "value": "balanced", "reason": "Straightforward factual pricing report with no political framing." },
+        "confidence": { "value": "high", "reason": "Based on the full article with specific figures and the official rationale." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "PTI, TTAP leadership on board with Sept 27 long march to Islamabad, says KP CM",
+      "summary": "AI summary: KP Chief Minister Sohail Afridi said PTI and allied group TTAP's leadership have agreed to a September 27 long march on Islamabad demanding Imran Khan's release, denying claims of a secret deal with the government, while a PTI leader said organizers hope to mobilize two million participants from Peshawar.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/676982-pti-ttap-leadership-on-board-with-sept-27-long-march-to-islamabad-says-kp-cm" }
+      ],
+      "timestamp": "Aug 10, 8:04 PM",
+      "publishedAt": "2026-08-10T20:04:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Announcement of a future political demonstration with no direct near-term economic effect." },
+        "political": { "value": "negative", "reason": "Signals renewed opposition mobilization and confrontation with the government, raising instability risk ahead of the planned march." },
+        "social": { "value": "negative", "reason": "A large planned march carries risk of disruption, clashes, and public safety concerns." },
+        "market": { "value": "medium", "reason": "Political unrest risk is relevant to investor sentiment even though the march is several weeks away." },
+        "lean": { "value": "balanced", "reason": "Reports both PTI's framing of the march and the CM's denial of a secret deal without evident one-sided advocacy." },
+        "confidence": { "value": "medium", "reason": "Single-source report of a planned future event; details could still change." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Pakistan, Russia explore cooperation in farm machinery, inputs, animal health",
+      "summary": "AI summary: Pakistan and Russia discussed expanding agricultural cooperation, with Federal Minister Rana Tanveer Hussain meeting a Russian economic ministry official to explore joint work on farm machinery, fertilizers, pesticides, animal vaccines, and related technology to boost productivity.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434148/pakistan-russia-explore-cooperation-in-farm-machinery-inputs-animal-health" }
+      ],
+      "timestamp": "Aug 10, 7:49 PM",
+      "publishedAt": "2026-08-10T19:49:08+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Potential agricultural trade and technology cooperation could support farm productivity and reduce input costs over time." },
+        "political": { "value": "neutral", "reason": "Routine diplomatic and economic engagement, not a governance-stability matter." },
+        "social": { "value": "neutral", "reason": "No immediate effect on daily life; any benefits would be long-term and indirect." },
+        "market": { "value": "low", "reason": "Early-stage exploratory talks with no concrete deal yet reached." },
+        "lean": { "value": "balanced", "reason": "Straightforward diplomatic readout with no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based only on the RSS description excerpt, since the full article was not accessible." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Dar, Araghchi discuss regional developments, Makkah defence pact",
+      "summary": "AI summary: Deputy PM Ishaq Dar briefed Iranian Foreign Minister Abbas Araghchi on the newly signed Pakistan-Saudi-Turkiye Makkah defence pact and stressed its defensive intent, with Iran's foreign ministry saying it has no concerns and views the pact as regional states relying on their own capabilities.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434143/dar-araghchi-discuss-regional-developments-makkah-defence-pact" }
+      ],
+      "timestamp": "Aug 10, 7:09 PM",
+      "publishedAt": "2026-08-10T19:09:08+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Diplomatic phone call with no direct economic impact." },
+        "political": { "value": "positive", "reason": "Reassures a neighboring power and reduces potential regional friction over the new defence pact, supporting stability." },
+        "social": { "value": "neutral", "reason": "No direct effect on the public." },
+        "market": { "value": "low", "reason": "Diplomatic reassurance with limited direct market relevance." },
+        "lean": { "value": "balanced", "reason": "Reports both sides' statements neutrally." },
+        "confidence": { "value": "medium", "reason": "Based only on the RSS description excerpt, since the full article was not accessible." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Achakzai urges PM to appoint new CEC, ECP members from Sindh, Balochistan",
+      "summary": "AI summary: Opposition Leader Mehmood Khan Achakzai wrote to PM Shehbaz Sharif urging the immediate appointment of a new chief election commissioner and ECP members for Sindh and Balochistan, noting the posts have been vacant since their statutory terms expired in January 2025.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/676971-achakzai-urges-pm-to-appoint-new-cec-ecp-members-from-sindh-balochistan" }
+      ],
+      "timestamp": "Aug 10, 7:00 PM",
+      "publishedAt": "2026-08-10T19:00:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No economic dimension to this institutional appointments request." },
+        "political": { "value": "negative", "reason": "Highlights an ongoing constitutional vacancy in the election commission, an institutional stability concern." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily public life." },
+        "market": { "value": "low", "reason": "Institutional and legal matter, not market-relevant." },
+        "lean": { "value": "balanced", "reason": "Reports the opposition leader's request factually without endorsing or rebutting it." },
+        "confidence": { "value": "medium", "reason": "Single-source report on a letter; the government's response is not yet included." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Pak-Saudi-Turkiye defence pact 'entirely for defensive purposes', not aggression: PM Shehbaz",
+      "summary": "AI summary: PM Shehbaz Sharif told the federal cabinet and the public that the August 7 Makkah Joint Defence Agreement between Pakistan, Saudi Arabia and Turkiye is purely defensive and not aimed at aggression against any country, describing it as a collective deterrence pact where an attack on one signatory is treated as an attack on all three, and framing it as a source of strength built on existing bilateral defence ties.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2021923/pak-saudi-turkiye-defence-pact-entirely-for-defensive-purposes-not-aggression-pm-shehbaz" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/676974-pm-shehbaz-says-trilateral-defence-pact-not-aimed-at-aggression" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434138/makkah-agreement-purely-defensive-designed-to-ensure-regional-peace-pm" }
+      ],
+      "timestamp": "Aug 10, 6:32 PM",
+      "publishedAt": "2026-08-10T18:32:08+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Defence and diplomatic announcement with no direct economic effect." },
+        "political": { "value": "positive", "reason": "Government publicly defending and normalizing the new pact, framing it as strengthening regional alliances rather than as destabilizing." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily public life." },
+        "market": { "value": "medium", "reason": "A new regional defence pact and its framing can matter to investors assessing regional stability risk." },
+        "lean": { "value": "balanced", "reason": "All three outlets report the PM's official statement factually; this is standard coverage of a government position, not one-sided advocacy for it." },
+        "confidence": { "value": "high", "reason": "Corroborated by three independent outlets with matching details about the same statement." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "3rd phase of AJK elections: PM Rathore trails PML-N rival in unofficial results",
+      "summary": "AI summary: In the third phase of Azad Jammu and Kashmir's elections held August 10, unofficial counts from 171 of 190 polling stations in Haveli showed PML-N's Chaudhry Mohsin Aziz leading incumbent PM Faisal Mumtaz Rathore's party by more than 9,000 votes, with PML-N now positioned to lead the next AJK government after winning 24 seats overall against 10 for Rathore's party, amid allegations of rigging and violence at some polling stations.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2021864/3rd-phase-of-ajk-elections-polling-concludes-in-poonch-divisions-bagh-haveli-districts" }
+      ],
+      "timestamp": "Aug 10, 6:30 PM",
+      "publishedAt": "2026-08-10T18:30:28+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Local election result with no direct economic effect." },
+        "political": { "value": "negative", "reason": "Reported allegations of rigging and violence at polling stations raise electoral-integrity concerns even as the count proceeds." },
+        "social": { "value": "negative", "reason": "Reports of violence at polling locations pose a public safety concern." },
+        "market": { "value": "low", "reason": "Local/regional election with limited market relevance." },
+        "lean": { "value": "balanced", "reason": "Reports vote counts and allegations from multiple sides without editorializing." },
+        "confidence": { "value": "medium", "reason": "Based on unofficial, partial results with allegations not yet independently verified." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Judicial probe into Mir Raza's death deferred after family backs new police team",
+      "summary": "AI summary: Sindh's government postponed forming a judicial commission into the death of Karachi youth Mir Raza Ali after his family said they now trust a newly formed police investigation team instead, with police citing recovered forensic evidence and 21 people already in custody.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434135/judicial-probe-into-mir-razas-death-deferred-after-family-backs-new-police-team" }
+      ],
+      "timestamp": "Aug 10, 4:57 PM",
+      "publishedAt": "2026-08-10T16:57:12+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No economic dimension to this case." },
+        "political": { "value": "neutral", "reason": "Administrative decision on investigative process, with limited institutional-stability implications." },
+        "social": { "value": "negative", "reason": "Relates to a death under investigation and ongoing public concern about the case." },
+        "market": { "value": "low", "reason": "Not market-relevant." },
+        "lean": { "value": "balanced", "reason": "Reports the family's and police's positions factually." },
+        "confidence": { "value": "medium", "reason": "Based only on the RSS description excerpt, since the full article was not accessible." }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "PML-N's AJK lawmaker Rukhsar Ahmed denies child grooming, rape allegations",
+      "summary": "AI summary: PML-N's newly elected AJK lawmaker Rukhsar Ahmed denied historic child sexual abuse and trafficking allegations dating to 1990s Manchester care homes, after being arrested and bailed on suspicion of rape in July 2024 before relocating to Pakistan; he says he is following legal advice while the matter remains under investigation.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/676946-pml-ns-ajk-lawmaker-rukhsar-ahmed-denies-child-grooming-rape-allegations" }
+      ],
+      "timestamp": "Aug 10, 4:26 PM",
+      "publishedAt": "2026-08-10T16:26:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No economic dimension to this case." },
+        "political": { "value": "negative", "reason": "Serious historic criminal allegations against a sitting PML-N lawmaker are damaging to the party's and institution's credibility." },
+        "social": { "value": "negative", "reason": "Allegations involve child abuse and sexual violence, matters of serious public concern." },
+        "market": { "value": "low", "reason": "Not market-relevant." },
+        "lean": { "value": "balanced", "reason": "Reports the allegations and the lawmaker's denial factually without taking a side." },
+        "confidence": { "value": "medium", "reason": "Single-source report on an unresolved legal matter." }
+      }
+    }
+  ]
+}
