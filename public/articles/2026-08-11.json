@@ -1,8 +1,161 @@
 {
-  "generatedAt": "2026-08-11T00:33:38+05:00",
+  "generatedAt": "2026-08-11T09:59:36+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "President Zardari gives nod to additional judges' appointments to high courts after days-long delay",
+      "summary": "AI summary: President Asif Ali Zardari approved the appointment of 19 additional judges and the confirmation of several sitting judges across the Lahore, Sindh, Peshawar, Islamabad and Balochistan high courts, ending a delay of more than three weeks that had already caused some judges' tenures to lapse and drawn pressure from the Islamabad High Court over a petition challenging the holdup.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2022098/president-zardari-gives-nod-to-additional-judges-appointments-to-high-courts-after-days-long-delay" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/677060-president-zardari-approves-appointment-of-additional-judges-to-high-courts" }
+      ],
+      "timestamp": "Aug 11, 9:20 AM",
+      "publishedAt": "2026-08-11T09:20:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Judicial appointments have no direct economic effect." },
+        "political": { "value": "positive", "reason": "Resolves a prolonged institutional standoff between the presidency and the judiciary, restoring appointments and reducing constitutional friction, despite earlier objections from the presidency's legal team." },
+        "social": { "value": "neutral", "reason": "An institutional matter with no direct near-term effect on daily public life." },
+        "market": { "value": "low", "reason": "Judicial appointments carry limited direct market relevance." },
+        "lean": { "value": "balanced", "reason": "Both outlets report the appointments alongside the presidency's earlier objections and the court pressure that preceded them, without favoring one side." },
+        "confidence": { "value": "high", "reason": "Corroborated by two independent outlets with matching details on numbers, courts, and timeline." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "World Bank unhappy over fund diversion from Balochistan",
+      "summary": "AI summary: The World Bank raised serious concerns after Pakistan's federal and Balochistan governments diverted funds from a World Bank-financed flood-victim housing program to other infrastructure projects, warning the move leaves over 119,000 verified, mostly ultra-poor flood-affected families without identified financing and risks deepening poverty and eroding public trust.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2022053/world-bank-unhappy-over-fund-diversion-from-balochistan" }
+      ],
+      "timestamp": "Aug 11, 8:05 AM",
+      "publishedAt": "2026-08-11T08:05:24+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Withdraws designated financing from vulnerable flood-affected households, forcing them to divert scarce income toward shelter repairs and straining donor relations." },
+        "political": { "value": "negative", "reason": "A major donor publicly criticizing a fund diversion decision raises governance-credibility concerns and risk of eroding public trust in institutions." },
+        "social": { "value": "negative", "reason": "Directly affects over 119,000 mostly ultra-poor flood-affected families left without housing support." },
+        "market": { "value": "low", "reason": "A specific donor-program dispute rather than a broad market-moving development." },
+        "lean": { "value": "balanced", "reason": "Reports the World Bank's stated concerns and the government's funding decision factually, based on the World Bank's own figures." },
+        "confidence": { "value": "high", "reason": "Based on the full article with specific figures, named officials, and quotes." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "SBP warns of price spirals",
+      "summary": "AI summary: The State Bank of Pakistan's biannual Monetary Policy Report warned that Middle East geopolitical tensions could push global energy and commodity prices higher and pressure Pakistan's macroeconomic outlook, while also projecting inflation easing toward the target range by FY2027, GDP growth of 3.5-4.5%, and reserves reaching $20.2 billion by December 2026.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2022040/sbp-warns-of-price-spirals" }
+      ],
+      "timestamp": "Aug 11, 7:57 AM",
+      "publishedAt": "2026-08-11T07:57:36+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Flags risk of higher energy and commodity prices feeding into inflation and business costs, even as the central bank notes some offsetting fiscal discipline." },
+        "political": { "value": "neutral", "reason": "A technical central bank policy report, not a governance-stability matter." },
+        "social": { "value": "negative", "reason": "Price spirals would raise the cost of living for the public." },
+        "market": { "value": "high", "reason": "A central bank macroeconomic outlook report on inflation, growth and reserves is highly relevant to investors and businesses." },
+        "lean": { "value": "balanced", "reason": "Straightforward reporting of the central bank's own report and figures." },
+        "confidence": { "value": "high", "reason": "Based on the full article citing specific figures directly from the SBP report." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "SC declares applying income tax penalties on repealed ordinance unlawful",
+      "summary": "AI summary: A five-member Supreme Court bench led by Justice Shahid Waheed ruled that penalties under Sections 182, 184 and 186 of the Income Tax Ordinance 2001 cannot be applied retrospectively to assessments completed on or before June 30, 2002 under the repealed 1979 ordinance, resolving a conflict between two earlier Supreme Court rulings in favor of the more taxpayer-protective interpretation.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434201/sc-declares-applying-income-tax-penalties-on-repealed-ordinance-unlawful" }
+      ],
+      "timestamp": "Aug 11, 6:53 AM",
+      "publishedAt": "2026-08-11T06:53:56+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Shields taxpayers from retrospective penalty liability, reducing fiscal exposure and legal uncertainty for affected businesses." },
+        "political": { "value": "neutral", "reason": "A judicial ruling on tax law interpretation, not a governance-stability matter." },
+        "social": { "value": "neutral", "reason": "Primarily affects businesses and taxpayers in specific historical assessment cases, not the general public." },
+        "market": { "value": "medium", "reason": "Relevant to businesses and investors assessing tax liability and legal certainty." },
+        "lean": { "value": "balanced", "reason": "Straightforward report of a legal ruling with no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on the RSS description excerpt, since the full article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "IHC seeks pending advice for judges' appointment",
+      "summary": "AI summary: The Islamabad High Court directed the federal government to explain why the Prime Minister's summary recommending 19 additional judges' appointments had remained pending with the President for over two weeks, after a petition argued the Constitution obliges the President to act within a set timeframe, noting judges in Peshawar and Sindh had already lost office because of the delay.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434198/ihc-seeks-pending-advice-for-judges-appointment" }
+      ],
+      "timestamp": "Aug 11, 4:46 AM",
+      "publishedAt": "2026-08-11T04:46:02+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No economic dimension to this court proceeding." },
+        "political": { "value": "negative", "reason": "Highlights unresolved constitutional friction between the presidency and the judicial appointment process, with judges' tenures already lapsing as a result." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily public life." },
+        "market": { "value": "low", "reason": "An institutional and legal matter with limited market relevance." },
+        "lean": { "value": "balanced", "reason": "Reports the petitioner's arguments and the court's directive factually." },
+        "confidence": { "value": "medium", "reason": "Based on the RSS description excerpt, since the full article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Sadiq for further strengthening parliamentary ties with EU",
+      "summary": "AI summary: National Assembly Speaker Ayaz Sadiq met European Parliament member Ondrej Dostál to discuss deepening Pakistan-EU parliamentary ties and cooperation on climate change, education and vocational training, with both sides also highlighting Pakistan's role in regional peace efforts including its mediation between Iran and the United States.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434230/sadiq-for-further-strengthening-parliamentary-ties-with-eu" }
+      ],
+      "timestamp": "Aug 11, 4:46 AM",
+      "publishedAt": "2026-08-11T04:46:02+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Exploratory diplomatic discussion with no immediate economic effect." },
+        "political": { "value": "neutral", "reason": "Routine parliamentary diplomacy with no controversy." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily public life." },
+        "market": { "value": "low", "reason": "Not market-relevant." },
+        "lean": { "value": "balanced", "reason": "Straightforward diplomatic readout with no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on the RSS description excerpt, since the full article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Regional defence cooperation: Dar launches extensive diplomatic push",
+      "summary": "AI summary: Deputy PM and Foreign Minister Ishaq Dar held calls with Saudi, Kuwaiti and Congolese leaders to brief them on the newly signed Pakistan-Saudi-Turkiye Makkah Joint Defence Agreement, describing it as a defensive collective-deterrence pact not aimed at any country while discussing broader bilateral and regional cooperation.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434209/regional-defence-cooperation-dar-launches-extensive-diplomatic-push" }
+      ],
+      "timestamp": "Aug 11, 4:46 AM",
+      "publishedAt": "2026-08-11T04:46:02+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Diplomatic calls with no direct economic effect." },
+        "political": { "value": "positive", "reason": "Diplomatic outreach reassuring regional and international partners about the new pact supports alliance-building and reduces friction risk." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily public life." },
+        "market": { "value": "low", "reason": "Diplomatic calls with limited direct market relevance." },
+        "lean": { "value": "balanced", "reason": "Reports Dar's own statements and diplomatic readouts factually, consistent with standard coverage of a government position." },
+        "confidence": { "value": "medium", "reason": "Based on the RSS description excerpt, since the full article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Mir Raza Ali murder case: NCCIA summons four over alleged social media campaign against Sharjeel Memon",
+      "summary": "AI summary: Sindh's cybercrime agency NCCIA summoned four individuals to appear on August 13 over a complaint by Senior Minister Sharjeel Memon alleging they ran a coordinated social media campaign spreading unverified claims linking him and his son to the killing of businessman Mir Raza Ali, whose body was found in Karachi in late July.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/677050-mir-raza-ali-murder-case-nccia-summons-four-over-alleged-social-media-campaign-against-sharjeel-memon" }
+      ],
+      "timestamp": "Aug 11, 4:04 AM",
+      "publishedAt": "2026-08-11T04:04:58+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No economic dimension to this case." },
+        "political": { "value": "negative", "reason": "A sitting provincial minister's disputed link to an ongoing murder case, coupled with a cybercrime summons against online critics, raises institutional-credibility and press-freedom concerns." },
+        "social": { "value": "negative", "reason": "Relates to an unresolved killing and raises concerns about intimidation of online critics." },
+        "market": { "value": "low", "reason": "Not market-relevant." },
+        "lean": { "value": "balanced", "reason": "Attributes the allegations to Memon's complaint and reports the agency's action factually, without asserting the underlying claims as fact." },
+        "confidence": { "value": "medium", "reason": "Single-source report on an evolving, disputed case where the underlying allegations remain unverified." }
+      }
+    },
+    {
+      "id": 9,
       "headline": "Govt leaves petrol, diesel prices unchanged for Aug 11",
       "summary": "AI summary: Pakistan's government kept petrol at Rs327.62/litre and diesel at Rs380.86/litre unchanged for Aug 11, since benchmark Platts prices weren't published on Aug 10, extending a period of relative stability after sharp volatility earlier this year.",
       "sources": [
@@ -21,7 +174,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 10,
       "headline": "PTI, TTAP leadership on board with Sept 27 long march to Islamabad, says KP CM",
       "summary": "AI summary: KP Chief Minister Sohail Afridi said PTI and allied group TTAP's leadership have agreed to a September 27 long march on Islamabad demanding Imran Khan's release, denying claims of a secret deal with the government, while a PTI leader said organizers hope to mobilize two million participants from Peshawar.",
       "sources": [
@@ -40,7 +193,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 11,
       "headline": "Pakistan, Russia explore cooperation in farm machinery, inputs, animal health",
       "summary": "AI summary: Pakistan and Russia discussed expanding agricultural cooperation, with Federal Minister Rana Tanveer Hussain meeting a Russian economic ministry official to explore joint work on farm machinery, fertilizers, pesticides, animal vaccines, and related technology to boost productivity.",
       "sources": [
@@ -59,7 +212,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 12,
       "headline": "Dar, Araghchi discuss regional developments, Makkah defence pact",
       "summary": "AI summary: Deputy PM Ishaq Dar briefed Iranian Foreign Minister Abbas Araghchi on the newly signed Pakistan-Saudi-Turkiye Makkah defence pact and stressed its defensive intent, with Iran's foreign ministry saying it has no concerns and views the pact as regional states relying on their own capabilities.",
       "sources": [
@@ -78,7 +231,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 13,
       "headline": "Achakzai urges PM to appoint new CEC, ECP members from Sindh, Balochistan",
       "summary": "AI summary: Opposition Leader Mehmood Khan Achakzai wrote to PM Shehbaz Sharif urging the immediate appointment of a new chief election commissioner and ECP members for Sindh and Balochistan, noting the posts have been vacant since their statutory terms expired in January 2025.",
       "sources": [
@@ -97,7 +250,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 14,
       "headline": "Pak-Saudi-Turkiye defence pact 'entirely for defensive purposes', not aggression: PM Shehbaz",
       "summary": "AI summary: PM Shehbaz Sharif told the federal cabinet and the public that the August 7 Makkah Joint Defence Agreement between Pakistan, Saudi Arabia and Turkiye is purely defensive and not aimed at aggression against any country, describing it as a collective deterrence pact where an attack on one signatory is treated as an attack on all three, and framing it as a source of strength built on existing bilateral defence ties.",
       "sources": [
@@ -118,7 +271,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 15,
       "headline": "3rd phase of AJK elections: PM Rathore trails PML-N rival in unofficial results",
       "summary": "AI summary: In the third phase of Azad Jammu and Kashmir's elections held August 10, unofficial counts from 171 of 190 polling stations in Haveli showed PML-N's Chaudhry Mohsin Aziz leading incumbent PM Faisal Mumtaz Rathore's party by more than 9,000 votes, with PML-N now positioned to lead the next AJK government after winning 24 seats overall against 10 for Rathore's party, amid allegations of rigging and violence at some polling stations.",
       "sources": [
@@ -137,7 +290,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 16,
       "headline": "Judicial probe into Mir Raza's death deferred after family backs new police team",
       "summary": "AI summary: Sindh's government postponed forming a judicial commission into the death of Karachi youth Mir Raza Ali after his family said they now trust a newly formed police investigation team instead, with police citing recovered forensic evidence and 21 people already in custody.",
       "sources": [
@@ -156,7 +309,7 @@
       }
     },
     {
-      "id": 9,
+      "id": 17,
       "headline": "PML-N's AJK lawmaker Rukhsar Ahmed denies child grooming, rape allegations",
       "summary": "AI summary: PML-N's newly elected AJK lawmaker Rukhsar Ahmed denied historic child sexual abuse and trafficking allegations dating to 1990s Manchester care homes, after being arrested and bailed on suspicion of rape in July 2024 before relocating to Pakistan; he says he is following legal advice while the matter remains under investigation.",
       "sources": [
