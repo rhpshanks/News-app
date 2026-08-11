@@ -1,8 +1,143 @@
 {
-  "generatedAt": "2026-08-11T09:59:36+05:00",
+  "generatedAt": "2026-08-11T15:57:31+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "Ousted Syrian president Bashar al-Assad sentenced to death in absentia",
+      "summary": "AI summary: A Syrian court sentenced ousted former president Bashar al-Assad to death in absentia on war crimes and crimes-against-humanity charges, marking the first such sentence issued by Syria's transitional authorities since his fall from power; his cousin and former Daraa security chief Atif Najib was also sentenced to death for related crimes.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2022132/ousted-syrian-president-bashar-al-assad-sentenced-to-death-in-absentia" }
+      ],
+      "timestamp": "Aug 11, 2:42 PM",
+      "publishedAt": "2026-08-11T14:42:22+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A foreign country's judicial matter with no direct economic effect on Pakistan." },
+        "political": { "value": "neutral", "reason": "Internal Syrian judicial and political development with no direct bearing on Pakistan's governance stability." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily public life in Pakistan." },
+        "market": { "value": "low", "reason": "Not relevant to Pakistani markets or investors." },
+        "lean": { "value": "balanced", "reason": "Straightforward factual reporting of a foreign court ruling with no partisan framing." },
+        "confidence": { "value": "high", "reason": "Based on the full article with specific, corroborated factual details." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Mir Raza Ali 'murder' case: Probe team visits crime scene to pursue fresh leads",
+      "summary": "AI summary: Investigators revisited the Mir Raza Ali crime scene in Gulistan-e-Jauhar and interviewed the gardener who found his body, as six DNA samples from the deceased and his parents were finally received by the University of Karachi's forensic laboratory, after the victim's family and lawyer had raised concerns over delays and possible negligence in handling forensic evidence.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/677079-mir-raza-ali-murder-case-probe-team-visits-crime-scene-to-pursue-fresh-leads" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434295/dna-samples-finally-reach-karachi-university-lab-in-mir-raza-murder-case" }
+      ],
+      "timestamp": "Aug 11, 12:54 PM",
+      "publishedAt": "2026-08-11T12:54:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No economic dimension to this case." },
+        "political": { "value": "neutral", "reason": "Routine investigative development; the family's own account describes the probe as finally moving forward, offsetting earlier delay concerns." },
+        "social": { "value": "negative", "reason": "Relates to an unresolved death and ongoing public concern about mishandled forensic evidence." },
+        "market": { "value": "low", "reason": "Not market-relevant." },
+        "lean": { "value": "balanced", "reason": "Reports the family's, lawyer's, and police's accounts factually without taking a side." },
+        "confidence": { "value": "high", "reason": "Corroborated by two independent outlets reporting matching details on the DNA samples reaching the KU lab." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Bahrain FM congratulates Dar on Makkah defence pact, expresses desire to visit Pakistan",
+      "summary": "AI summary: Bahrain's Foreign Minister Abdullatif bin Rashid Al Zayani phoned Deputy PM Ishaq Dar to congratulate Pakistan on the Makkah Joint Defence Agreement with Saudi Arabia and Turkiye and voiced interest in visiting Pakistan soon, while Dar reiterated the pact's defensive, dialogue-oriented intent.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2022117/bahrain-fm-congratulates-dar-on-makkah-defence-pact-expresses-desire-to-visit-pakistan" }
+      ],
+      "timestamp": "Aug 11, 12:31 PM",
+      "publishedAt": "2026-08-11T12:31:12+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Diplomatic phone call with no direct economic effect." },
+        "political": { "value": "positive", "reason": "Reassures a regional partner and reinforces alliance-building around the new defence pact, supporting stability." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily public life." },
+        "market": { "value": "low", "reason": "Diplomatic goodwill call with limited direct market relevance." },
+        "lean": { "value": "balanced", "reason": "Reports the diplomatic exchange and both sides' statements factually." },
+        "confidence": { "value": "high", "reason": "Based on the full article with direct quotes and specific details." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "President Zardari approves appointment, confirmation of several high court additional judges",
+      "summary": "AI summary: President Asif Ali Zardari approved the appointment of additional judges and the confirmation of several existing additional judges across the country's high courts, a decision reported alongside related notes on Supreme Court judges' salary adjustments and the constitutional backdrop of the earlier appointment delays.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434286/president-zardari-approves-appointment-confirmation-of-several-high-court-additional-judges" }
+      ],
+      "timestamp": "Aug 11, 12:13 PM",
+      "publishedAt": "2026-08-11T12:13:27+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Judicial appointments have no direct economic effect." },
+        "political": { "value": "positive", "reason": "Resolves a prolonged institutional standoff between the presidency and the judiciary, restoring appointments and reducing constitutional friction." },
+        "social": { "value": "neutral", "reason": "An institutional matter with no direct near-term effect on daily public life." },
+        "market": { "value": "low", "reason": "Judicial appointments carry limited direct market relevance." },
+        "lean": { "value": "balanced", "reason": "Reports the appointments alongside related institutional and constitutional context factually." },
+        "confidence": { "value": "medium", "reason": "Based on the RSS description excerpt, since the full article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Cambridge International announces AS, A-level results for June 2026 exams",
+      "summary": "AI summary: Cambridge International released AS and A Level results for the June 2026 exam series to more than 100,000 students across over 850 Pakistani schools, coming after a year marked by a leaked mathematics paper that forced a retake and regional tensions that disrupted preparation for roughly 30,000 students in the Middle East.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/677065-cambridge-releases-june-2026-results-as-over-100000-students-in-pakistan-sat-exams" },
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2022121/not-an-ordinary-year-pakistani-students-receive-their-cie-as-amp-a-level-results-for-june-series" }
+      ],
+      "timestamp": "Aug 11, 11:39 AM",
+      "publishedAt": "2026-08-11T11:39:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Exam results release with no direct economic effect." },
+        "political": { "value": "neutral", "reason": "An education-sector announcement, not a governance-stability matter." },
+        "social": { "value": "positive", "reason": "A milestone achievement reaching over 100,000 students, despite a disrupted year including a leaked paper and regional tensions affecting some candidates." },
+        "market": { "value": "low", "reason": "Not market-relevant." },
+        "lean": { "value": "balanced", "reason": "Straightforward factual reporting with no partisan framing." },
+        "confidence": { "value": "high", "reason": "Corroborated by two independent outlets with matching figures and quotes." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Hajj 2027: Packages set at Rs1.2mn and Rs1.3mn",
+      "summary": "AI summary: Pakistan set its Hajj 2027 government-scheme packages at Rs1.2 million for the 40-day option and Rs1.3 million for the 20-25 day option, allocating 107,526 seats and naming Habib Bank as the banking partner for a digitalized payment process.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434275/hajj-2027-packages-set-at-rs12mn-and-rs13mn" }
+      ],
+      "timestamp": "Aug 11, 11:16 AM",
+      "publishedAt": "2026-08-11T11:16:13+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Administrative fee-setting for a religious travel scheme, without a broad economic effect." },
+        "political": { "value": "neutral", "reason": "Routine administrative announcement, not a governance-stability matter." },
+        "social": { "value": "neutral", "reason": "Relevant to intending pilgrims' planning and household costs but not broad public life generally." },
+        "market": { "value": "low", "reason": "Relevant mainly to the banking partner and Hajj-travel sector, limited broad market relevance." },
+        "lean": { "value": "balanced", "reason": "Straightforward factual reporting of official pricing and logistics." },
+        "confidence": { "value": "medium", "reason": "Based on the RSS description excerpt, since the full article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "PPP leads in two constituencies, PML-N on one seat in third phase of AJK polls",
+      "summary": "AI summary: Unofficial results from AJK's third-phase legislative assembly polls showed PPP ahead in two Poonch-division constituencies and PML-N leading a third, while an independent candidate defeated former AJK premier Sardar Attique Ahmed Khan in a fourth seat, as PPP alleged rigging (a claim PML-N dismissed) and re-polling was ordered at 23 stations following earlier unrest.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/677066-ppp-leads-on-two-seats-pml-n-on-one-in-third-phase-of-ajk-polls" }
+      ],
+      "timestamp": "Aug 11, 10:30 AM",
+      "publishedAt": "2026-08-11T10:30:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Local election result with no direct economic effect." },
+        "political": { "value": "negative", "reason": "Rigging allegations, a contested recount, and re-polling ordered after earlier unrest raise electoral-integrity concerns." },
+        "social": { "value": "negative", "reason": "Protests at the Returning Officer's office and unrest that already prompted re-polling pose public-safety concerns." },
+        "market": { "value": "low", "reason": "Local/regional election with limited market relevance." },
+        "lean": { "value": "balanced", "reason": "Reports vote counts and both PPP's and PML-N's competing claims without editorializing." },
+        "confidence": { "value": "medium", "reason": "Based on unofficial, partial results with allegations not yet independently verified." }
+      }
+    },
+    {
+      "id": 8,
       "headline": "President Zardari gives nod to additional judges' appointments to high courts after days-long delay",
       "summary": "AI summary: President Asif Ali Zardari approved the appointment of 19 additional judges and the confirmation of several sitting judges across the Lahore, Sindh, Peshawar, Islamabad and Balochistan high courts, ending a delay of more than three weeks that had already caused some judges' tenures to lapse and drawn pressure from the Islamabad High Court over a petition challenging the holdup.",
       "sources": [
@@ -22,7 +157,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 9,
       "headline": "World Bank unhappy over fund diversion from Balochistan",
       "summary": "AI summary: The World Bank raised serious concerns after Pakistan's federal and Balochistan governments diverted funds from a World Bank-financed flood-victim housing program to other infrastructure projects, warning the move leaves over 119,000 verified, mostly ultra-poor flood-affected families without identified financing and risks deepening poverty and eroding public trust.",
       "sources": [
@@ -41,7 +176,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 10,
       "headline": "SBP warns of price spirals",
       "summary": "AI summary: The State Bank of Pakistan's biannual Monetary Policy Report warned that Middle East geopolitical tensions could push global energy and commodity prices higher and pressure Pakistan's macroeconomic outlook, while also projecting inflation easing toward the target range by FY2027, GDP growth of 3.5-4.5%, and reserves reaching $20.2 billion by December 2026.",
       "sources": [
@@ -60,7 +195,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 11,
       "headline": "SC declares applying income tax penalties on repealed ordinance unlawful",
       "summary": "AI summary: A five-member Supreme Court bench led by Justice Shahid Waheed ruled that penalties under Sections 182, 184 and 186 of the Income Tax Ordinance 2001 cannot be applied retrospectively to assessments completed on or before June 30, 2002 under the repealed 1979 ordinance, resolving a conflict between two earlier Supreme Court rulings in favor of the more taxpayer-protective interpretation.",
       "sources": [
@@ -79,7 +214,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 12,
       "headline": "IHC seeks pending advice for judges' appointment",
       "summary": "AI summary: The Islamabad High Court directed the federal government to explain why the Prime Minister's summary recommending 19 additional judges' appointments had remained pending with the President for over two weeks, after a petition argued the Constitution obliges the President to act within a set timeframe, noting judges in Peshawar and Sindh had already lost office because of the delay.",
       "sources": [
@@ -98,7 +233,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 13,
       "headline": "Sadiq for further strengthening parliamentary ties with EU",
       "summary": "AI summary: National Assembly Speaker Ayaz Sadiq met European Parliament member Ondrej Dostál to discuss deepening Pakistan-EU parliamentary ties and cooperation on climate change, education and vocational training, with both sides also highlighting Pakistan's role in regional peace efforts including its mediation between Iran and the United States.",
       "sources": [
@@ -117,7 +252,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 14,
       "headline": "Regional defence cooperation: Dar launches extensive diplomatic push",
       "summary": "AI summary: Deputy PM and Foreign Minister Ishaq Dar held calls with Saudi, Kuwaiti and Congolese leaders to brief them on the newly signed Pakistan-Saudi-Turkiye Makkah Joint Defence Agreement, describing it as a defensive collective-deterrence pact not aimed at any country while discussing broader bilateral and regional cooperation.",
       "sources": [
@@ -136,7 +271,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 15,
       "headline": "Mir Raza Ali murder case: NCCIA summons four over alleged social media campaign against Sharjeel Memon",
       "summary": "AI summary: Sindh's cybercrime agency NCCIA summoned four individuals to appear on August 13 over a complaint by Senior Minister Sharjeel Memon alleging they ran a coordinated social media campaign spreading unverified claims linking him and his son to the killing of businessman Mir Raza Ali, whose body was found in Karachi in late July.",
       "sources": [
@@ -155,7 +290,7 @@
       }
     },
     {
-      "id": 9,
+      "id": 16,
       "headline": "Govt leaves petrol, diesel prices unchanged for Aug 11",
       "summary": "AI summary: Pakistan's government kept petrol at Rs327.62/litre and diesel at Rs380.86/litre unchanged for Aug 11, since benchmark Platts prices weren't published on Aug 10, extending a period of relative stability after sharp volatility earlier this year.",
       "sources": [
@@ -174,7 +309,7 @@
       }
     },
     {
-      "id": 10,
+      "id": 17,
       "headline": "PTI, TTAP leadership on board with Sept 27 long march to Islamabad, says KP CM",
       "summary": "AI summary: KP Chief Minister Sohail Afridi said PTI and allied group TTAP's leadership have agreed to a September 27 long march on Islamabad demanding Imran Khan's release, denying claims of a secret deal with the government, while a PTI leader said organizers hope to mobilize two million participants from Peshawar.",
       "sources": [
@@ -193,7 +328,7 @@
       }
     },
     {
-      "id": 11,
+      "id": 18,
       "headline": "Pakistan, Russia explore cooperation in farm machinery, inputs, animal health",
       "summary": "AI summary: Pakistan and Russia discussed expanding agricultural cooperation, with Federal Minister Rana Tanveer Hussain meeting a Russian economic ministry official to explore joint work on farm machinery, fertilizers, pesticides, animal vaccines, and related technology to boost productivity.",
       "sources": [
@@ -212,7 +347,7 @@
       }
     },
     {
-      "id": 12,
+      "id": 19,
       "headline": "Dar, Araghchi discuss regional developments, Makkah defence pact",
       "summary": "AI summary: Deputy PM Ishaq Dar briefed Iranian Foreign Minister Abbas Araghchi on the newly signed Pakistan-Saudi-Turkiye Makkah defence pact and stressed its defensive intent, with Iran's foreign ministry saying it has no concerns and views the pact as regional states relying on their own capabilities.",
       "sources": [
@@ -231,7 +366,7 @@
       }
     },
     {
-      "id": 13,
+      "id": 20,
       "headline": "Achakzai urges PM to appoint new CEC, ECP members from Sindh, Balochistan",
       "summary": "AI summary: Opposition Leader Mehmood Khan Achakzai wrote to PM Shehbaz Sharif urging the immediate appointment of a new chief election commissioner and ECP members for Sindh and Balochistan, noting the posts have been vacant since their statutory terms expired in January 2025.",
       "sources": [
@@ -250,7 +385,7 @@
       }
     },
     {
-      "id": 14,
+      "id": 21,
       "headline": "Pak-Saudi-Turkiye defence pact 'entirely for defensive purposes', not aggression: PM Shehbaz",
       "summary": "AI summary: PM Shehbaz Sharif told the federal cabinet and the public that the August 7 Makkah Joint Defence Agreement between Pakistan, Saudi Arabia and Turkiye is purely defensive and not aimed at aggression against any country, describing it as a collective deterrence pact where an attack on one signatory is treated as an attack on all three, and framing it as a source of strength built on existing bilateral defence ties.",
       "sources": [
@@ -271,7 +406,7 @@
       }
     },
     {
-      "id": 15,
+      "id": 22,
       "headline": "3rd phase of AJK elections: PM Rathore trails PML-N rival in unofficial results",
       "summary": "AI summary: In the third phase of Azad Jammu and Kashmir's elections held August 10, unofficial counts from 171 of 190 polling stations in Haveli showed PML-N's Chaudhry Mohsin Aziz leading incumbent PM Faisal Mumtaz Rathore's party by more than 9,000 votes, with PML-N now positioned to lead the next AJK government after winning 24 seats overall against 10 for Rathore's party, amid allegations of rigging and violence at some polling stations.",
       "sources": [
@@ -290,7 +425,7 @@
       }
     },
     {
-      "id": 16,
+      "id": 23,
       "headline": "Judicial probe into Mir Raza's death deferred after family backs new police team",
       "summary": "AI summary: Sindh's government postponed forming a judicial commission into the death of Karachi youth Mir Raza Ali after his family said they now trust a newly formed police investigation team instead, with police citing recovered forensic evidence and 21 people already in custody.",
       "sources": [
@@ -309,7 +444,7 @@
       }
     },
     {
-      "id": 17,
+      "id": 24,
       "headline": "PML-N's AJK lawmaker Rukhsar Ahmed denies child grooming, rape allegations",
       "summary": "AI summary: PML-N's newly elected AJK lawmaker Rukhsar Ahmed denied historic child sexual abuse and trafficking allegations dating to 1990s Manchester care homes, after being arrested and bailed on suspicion of rape in July 2024 before relocating to Pakistan; he says he is following legal advice while the matter remains under investigation.",
       "sources": [
