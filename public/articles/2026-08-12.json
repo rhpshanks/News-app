@@ -1,8 +1,124 @@
 {
-  "generatedAt": "2026-08-12T12:12:00+05:00",
+  "generatedAt": "2026-08-12T21:38:49+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "Met Office forecasts fresh rain spell for upper, central parts of country from Aug 13-15",
+      "summary": "AI summary: Pakistan's Meteorological Department forecast a fresh spell of monsoon rain, wind and thunderstorms across upper and central parts of the country from August 13 to 15, warning of possible urban flooding and landslides in vulnerable areas.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2022381/met-office-forecasts-fresh-rain-spell-for-upper-central-parts-of-country-from-aug-13-15" }
+      ],
+      "timestamp": "Aug 12, 7:37 PM",
+      "publishedAt": "2026-08-12T19:37:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A routine seasonal weather advisory with no direct economic disruption reported." },
+        "political": { "value": "neutral", "reason": "A standard meteorological advisory with no bearing on governance stability." },
+        "social": { "value": "negative", "reason": "Warnings of possible urban flooding and landslides pose real safety risks, in a monsoon season that has already killed 155 people and injured 460 nationwide." },
+        "market": { "value": "low", "reason": "Limited direct relevance to markets beyond general agriculture and infrastructure exposure." },
+        "lean": { "value": "balanced", "reason": "A factual weather advisory with no partisan framing." },
+        "confidence": { "value": "high", "reason": "Based on the full article with specific forecast details and warnings." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "18 terrorists killed in Balochistan's Surab district: ISPR",
+      "summary": "AI summary: Pakistan's military said 18 militants linked to Fitna Al Hindustan were killed in Balochistan's Surab district after a vehicle-borne bomb they were preparing detonated prematurely, killing three civilians in secondary blasts, followed by a firefight in which security forces killed the remaining fighters and two soldiers were wounded.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2022383/18-terrorists-killed-in-balochistans-surab-district-ispr" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434499/18-terrorists-killed-in-vbied-explosion-security-operation-in-balochistan" }
+      ],
+      "timestamp": "Aug 12, 7:21 PM",
+      "publishedAt": "2026-08-12T19:21:31+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct economic disruption reported, though the incident adds to Balochistan's ongoing security-linked investment risk." },
+        "political": { "value": "neutral", "reason": "ISPR frames this as a successful counter-terror operation, though it comes amid a reported sharp rise in Balochistan casualties this year, reflecting a fragile security environment." },
+        "social": { "value": "negative", "reason": "Three civilians were killed by secondary explosions and two soldiers were injured, adding to a mounting Balochistan casualty toll reportedly up sharply year-on-year." },
+        "market": { "value": "low", "reason": "A localized security incident with limited direct bearing on national markets." },
+        "lean": { "value": "balanced", "reason": "Both outlets attribute the account directly to ISPR's statement without independent editorializing." },
+        "confidence": { "value": "high", "reason": "Corroborated by two independent outlets with matching casualty figures and details." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "PM launches youth employment, skills and power-sector innovation programmes",
+      "summary": "AI summary: At an International Youth Day event, PM Shehbaz Sharif launched Pakistan's first National Youth Employment Policy, a Skill Ambassador Programme and a National Power Sector Innovation Programme, while acknowledging Pakistan remains far from being a genuine social welfare state and announcing new education and employment quotas for young people.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2022368/pakistan-still-far-from-becoming-a-social-welfare-state-pm-shehbaz" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434506/pm-launches-youth-employment-skills-and-power-sector-innovation-programmes" }
+      ],
+      "timestamp": "Aug 12, 7:18 PM",
+      "publishedAt": "2026-08-12T19:18:30+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "New employment, skills, and power-sector innovation programmes aim to expand job opportunities and youth entrepreneurship, a modest positive for the labour market if implemented." },
+        "political": { "value": "neutral", "reason": "A policy launch and public address by the PM; standard government messaging with no direct bearing on institutional stability." },
+        "social": { "value": "positive", "reason": "Programmes targeting youth education, employment, and gender-inclusive workforce quotas could improve opportunity, though the PM himself acknowledged persistent inequality." },
+        "market": { "value": "low", "reason": "A domestic social-policy announcement with limited direct relevance to investors." },
+        "lean": { "value": "balanced", "reason": "Reports the PM's own claims and announcements without independent scrutiny or opposing commentary, but does not favor a specific party." },
+        "confidence": { "value": "medium", "reason": "Corroborated across two sources describing the same event, though the Business Recorder portion relies only on an RSS description excerpt after the source page returned a 403 error." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "After death of 3 Pakistani sailors, FO says Islamabad will implement maritime coalition 'in full earnest'",
+      "summary": "AI summary: Following the deaths of three Pakistani sailors in a Houthi strike, Pakistan's Foreign Office said it will fully implement its commitments under the multinational Red Sea maritime security coalition, with Deputy PM Ishaq Dar reviewing the agreement's details and Islamabad coordinating with Saudi authorities.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2022344/after-death-of-3-pakistani-sailors-fo-says-islamabad-will-implement-maritime-coalition-in-full-earnest" }
+      ],
+      "timestamp": "Aug 12, 7:10 PM",
+      "publishedAt": "2026-08-12T19:10:31+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Coalition implementation is a longer-term stabilizing step for Red Sea trade routes, but has no immediate economic effect." },
+        "political": { "value": "neutral", "reason": "Reaffirms Pakistan's existing diplomatic and coalition commitments; a routine Foreign Office statement." },
+        "social": { "value": "neutral", "reason": "No new casualties reported in this statement; it addresses the policy response to a previously reported attack." },
+        "market": { "value": "low", "reason": "Limited direct relevance to Pakistani markets beyond general shipping-security policy." },
+        "lean": { "value": "balanced", "reason": "Straightforward reporting of the Foreign Office's statement and coalition context." },
+        "confidence": { "value": "high", "reason": "Based on the full article with direct official quotes and specific details." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Norwegian foreign minister to visit Pakistan on Aug 13-14",
+      "summary": "AI summary: Norwegian Foreign Minister Espen Barth Eide will make an official visit to Pakistan on August 13 and 14 at the invitation of Deputy PM and Foreign Minister Ishaq Dar, Pakistan's Foreign Office said.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434488/norwegian-foreign-minister-to-visit-pakistan-on-aug-13-14" }
+      ],
+      "timestamp": "Aug 12, 5:30 PM",
+      "publishedAt": "2026-08-12T17:30:59+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic visit with no immediate economic announcement." },
+        "political": { "value": "neutral", "reason": "A routine bilateral diplomatic visit with no bearing on domestic governance stability." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily public life." },
+        "market": { "value": "low", "reason": "Not market-relevant." },
+        "lean": { "value": "balanced", "reason": "Factual reporting of a scheduled diplomatic visit." },
+        "confidence": { "value": "medium", "reason": "Based only on the RSS description excerpt, not the full article, after the source page returned a 403 error." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "US, Iran agree to extend ceasefire as Pakistan steps up mediation: report",
+      "summary": "AI summary: The United States and Iran have reportedly agreed to extend their ceasefire ahead of the 60-day deadline under the Islamabad Memorandum of Understanding, according to a report citing Pakistani government sources, as Islamabad continues its mediation efforts between the two countries.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434475/us-iran-agree-to-extend-ceasefire-as-pakistan-steps-up-mediation-report" }
+      ],
+      "timestamp": "Aug 12, 4:11 PM",
+      "publishedAt": "2026-08-12T16:11:28+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "An extended US-Iran ceasefire, if confirmed, reduces regional escalation risk relevant to energy prices and trade routes important to Pakistan." },
+        "political": { "value": "neutral", "reason": "Reflects Pakistan's continued mediation role; the claim is attributed to a foreign news agency citing government sources rather than officially confirmed, so its bearing on domestic governance stability is limited and uncertain." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily public life in Pakistan." },
+        "market": { "value": "medium", "reason": "Regional ceasefire developments affect energy markets and broader investor sentiment relevant to Pakistan." },
+        "lean": { "value": "balanced", "reason": "Reports an unconfirmed claim attributed to a foreign news agency citing government sources, without editorializing." },
+        "confidence": { "value": "low", "reason": "A single-source claim from an RSS description excerpt, attributed to another news agency's sourcing rather than direct confirmation." }
+      }
+    },
+    {
+      "id": 7,
       "headline": "Pakistan condemns Houthi attack in Red Sea that claimed lives of 3 nationals",
       "summary": "AI summary: Yemen's Houthi rebels attacked the Tanzania-flagged vessel Tihamah in the Red Sea, killing three Pakistani and one Indonesian crew member and injuring another Pakistani; Islamabad condemned the strike as a violation of international law and said it is coordinating with Saudi and Yemeni authorities for further details.",
       "sources": [
@@ -21,7 +137,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 8,
       "headline": "Trump says secret flight change at directives of Secret Service, plane ultimately used faced 'greater risk'",
       "summary": "AI summary: The Washington Post revealed that President Trump was secretly moved from Air Force One to a different military aircraft via a catering truck after a NATO summit in Ankara, following an Iranian assassination threat; Trump said he simply followed Secret Service directives and suggested the plane he ultimately flew on faced greater risk.",
       "sources": [
@@ -40,7 +156,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 9,
       "headline": "Govt cuts petrol price by Rs1.70, raises high-speed diesel by Rs1.39",
       "summary": "AI summary: Pakistan's government cut petrol prices by Rs1.70 per litre to Rs325.92 while raising high-speed diesel by Rs1.39 to Rs382.25, under the new daily pricing mechanism introduced after the Iran-US conflict caused sharp fuel-price swings earlier this year; the dealers association has objected to the shift from weekly to daily adjustments.",
       "sources": [
@@ -59,7 +175,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 10,
       "headline": "Five HCs: President approves appointment of additional judges",
       "summary": "AI summary: President Zardari approved the appointment of additional judges to five high courts and confirmed some of them as permanent judges, alongside revisions to Supreme Court compensation packages.",
       "sources": [
@@ -78,7 +194,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 11,
       "headline": "Pakistan says US and Iran close to 'some sort' of deal",
       "summary": "AI summary: Pakistan's Interior Minister Mohsin Naqvi met Iranian officials in Tehran to revive the Islamabad Memorandum of Understanding-based mediation between Iran and the United States, as Defence Minister Khawaja Asif told Bloomberg that Washington and Tehran appear close to 'some sort of an arrangement' on managing the Strait of Hormuz, even as Tehran insisted the original MoU be implemented unchanged and President Trump accused Iranian negotiators of dishonesty.",
       "sources": [
@@ -98,7 +214,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 12,
       "headline": "Date coincides with PTI long march: NA-168: By-election on Sep 27",
       "summary": "AI summary: Pakistan's Election Commission scheduled a National Assembly NA-168 by-election for September 27, a date that coincides with the PTI's planned long march demonstrating for Imran Khan's release from imprisonment.",
       "sources": [
@@ -117,7 +233,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 13,
       "headline": "President confers Nishan-i-Imtiaz on NSC Commander Gen Aamer Raza",
       "summary": "AI summary: President Zardari conferred the Nishan-i-Imtiaz military award on National Strategic Command commander General Aamer Raza at a ceremony attended by senior government and military officials, marking his promotion to four-star general.",
       "sources": [
