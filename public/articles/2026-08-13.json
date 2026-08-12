@@ -1,0 +1,157 @@
+{
+  "generatedAt": "2026-08-13T01:35:00+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Govt cuts petrol price by Re0.94, raises high-speed diesel by Re0.54",
+      "summary": "AI summary: Pakistan's government trimmed the petrol price by 94 paisas per litre while raising high-speed diesel by 54 paisas, effective August 13, as authorities move to daily rather than weekly fuel price revisions.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2022398/govt-cuts-petrol-price-by-re094-raises-high-speed-diesel-by-re054" }
+      ],
+      "timestamp": "Aug 12, 11:12 PM",
+      "publishedAt": "2026-08-12T23:12:09+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Petrol relief is offset by a diesel increase that raises transport and logistics costs, a mixed net effect." },
+        "political": { "value": "neutral", "reason": "Routine scheduled price adjustment, though a dealers' association has signalled possible pushback." },
+        "social": { "value": "neutral", "reason": "Small per-litre changes in opposite directions limit the direct impact on households." },
+        "market": { "value": "medium", "reason": "Fuel pricing affects transport, logistics and manufacturing cost structures." },
+        "lean": { "value": "balanced", "reason": "Straight factual reporting of official price figures with no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on official figures from a single source." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "'We aspire for it to grow': Turkiye's Erdogan eyes expansion of Makkah Joint Defence Agreement",
+      "summary": "AI summary: Turkish President Erdogan said he hopes more countries will eventually join the newly signed Makkah defence pact between Turkiye, Saudi Arabia and Pakistan, while Turkish officials suggested Egypt could join in a future phase.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2022395/we-aspire-for-it-to-grow-turkiyes-erdogan-eyes-expansion-of-makkah-joint-defence-agreement" }
+      ],
+      "timestamp": "Aug 12, 10:36 PM",
+      "publishedAt": "2026-08-12T22:36:56+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A defence and diplomatic agreement with no direct economic mechanism described." },
+        "political": { "value": "positive", "reason": "Pakistan is positioned within a broadening regional defence alliance, with wide regional and OIC endorsement." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily life described." },
+        "market": { "value": "low", "reason": "Primarily a diplomatic and defence story with limited direct market relevance." },
+        "lean": { "value": "balanced", "reason": "Quotes multiple leaders (Erdogan, Fidan, Sharif, Abbas) without favoring one domestic side." },
+        "confidence": { "value": "medium", "reason": "Single-source article built on official statements." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Pakistan, Belarus reaffirm commitment to deepen bilateral cooperation",
+      "summary": "AI summary: Pakistan and Belarus reaffirmed plans to deepen cooperation in trade, industry, agriculture, banking and energy during the ninth session of their Joint Ministerial Commission.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434509/pakistan-belarus-reaffirm-commitment-to-deepen-bilateral-cooperation" }
+      ],
+      "timestamp": "Aug 12, 10:12 PM",
+      "publishedAt": "2026-08-12T22:12:24+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Discussions cover trade, industry and banking cooperation that could expand economic ties." },
+        "political": { "value": "neutral", "reason": "Routine bilateral diplomatic engagement." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily life described." },
+        "market": { "value": "medium", "reason": "Touches trade and investment areas relevant to businesses." },
+        "lean": { "value": "balanced", "reason": "Straightforward account of a diplomatic meeting." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt, not the full article." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "PM launches youth employment, skills and power-sector innovation programmes",
+      "summary": "AI summary: The prime minister marked International Youth Day by launching Pakistan's first National Youth Employment Policy, which sets a 35% quota for women and reserves 10% of opportunities for startups, alongside laptop distribution and overseas training initiatives.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434506/pm-launches-youth-employment-skills-and-power-sector-innovation-programmes" }
+      ],
+      "timestamp": "Aug 12, 9:34 PM",
+      "publishedAt": "2026-08-12T21:34:30+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "New employment and skills policy targeting jobs, startups and training." },
+        "political": { "value": "positive", "reason": "Government-led policy launch framed as a positive institutional initiative." },
+        "social": { "value": "positive", "reason": "Targets youth employment and includes a women's inclusion quota." },
+        "market": { "value": "medium", "reason": "Relevant to labour market and startup ecosystem." },
+        "lean": { "value": "balanced", "reason": "Reads as standard policy-announcement coverage without contested claims." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt, not the full article." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Met Office forecasts fresh rain spell for upper, central parts of country from Aug 13-15",
+      "summary": "AI summary: The Pakistan Meteorological Department forecast a fresh spell of monsoon rain and thunderstorms for upper and central parts of the country from August 13-15, warning of possible urban flooding and landslides in vulnerable areas.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2022381/met-office-forecasts-fresh-rain-spell-for-upper-central-parts-of-country-from-aug-13-15" }
+      ],
+      "timestamp": "Aug 12, 7:37 PM",
+      "publishedAt": "2026-08-12T19:37:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Weather advisory with no direct stated economic effect, though agriculture and travel could be indirectly affected." },
+        "political": { "value": "neutral", "reason": "Routine meteorological advisory." },
+        "social": { "value": "negative", "reason": "Warns of urban flooding and landslides, on top of 155 monsoon-related deaths already reported this season." },
+        "market": { "value": "low", "reason": "Limited direct relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Factual weather bulletin with no political framing." },
+        "confidence": { "value": "medium", "reason": "Based on an official Met Office advisory reported by a single source." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "18 terrorists killed in VBIED explosion, security operation in Balochistan",
+      "summary": "AI summary: The military said eighteen militants from Fitna Al Hindustan were killed after an explosives-laden vehicle detonated during a counter-terrorism operation in Balochistan's Surab district, with three civilians also reported killed.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434499/18-terrorists-killed-in-vbied-explosion-security-operation-in-balochistan" }
+      ],
+      "timestamp": "Aug 12, 7:21 PM",
+      "publishedAt": "2026-08-12T19:21:31+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct economic effect described." },
+        "political": { "value": "neutral", "reason": "A military-reported security operation; not described as affecting governance stability." },
+        "social": { "value": "negative", "reason": "Reported civilian casualties and ongoing militant violence in the region represent real harm despite the security framing." },
+        "market": { "value": "low", "reason": "Localized security incident with limited direct market relevance." },
+        "lean": { "value": "balanced", "reason": "Claims are attributed to military sources; framing can't be fully assessed from the excerpt alone." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt, and the account rests on a single military source." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "After death of 3 Pakistani sailors, FO says Islamabad will implement maritime coalition 'in full earnest'",
+      "summary": "AI summary: Pakistan's Foreign Office said it will fully implement its commitments under the Saudi-led maritime security coalition after three Pakistani sailors were killed in an attack on a Saudi cargo vessel, while continuing to mediate US-Iran talks ahead of an August 17 deadline.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2022344/after-death-of-3-pakistani-sailors-fo-says-islamabad-will-implement-maritime-coalition-in-full-earnest" }
+      ],
+      "timestamp": "Aug 12, 7:10 PM",
+      "publishedAt": "2026-08-12T19:10:31+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct economic effect described." },
+        "political": { "value": "neutral", "reason": "A measured reaffirmation of an existing international commitment rather than a destabilizing development." },
+        "social": { "value": "negative", "reason": "The deaths of three sailors reflect ongoing regional conflict harm affecting public safety." },
+        "market": { "value": "low", "reason": "Limited direct relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Presents the Foreign Office's official statement without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single-source article built on an official statement." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Norwegian foreign minister to visit Pakistan on Aug 13-14",
+      "summary": "AI summary: Norway's foreign minister will make the country's first ministerial visit to Pakistan in a decade on August 13-14, with talks expected to cover trade, investment, climate and education cooperation.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434488/norwegian-foreign-minister-to-visit-pakistan-on-aug-13-14" }
+      ],
+      "timestamp": "Aug 12, 5:30 PM",
+      "publishedAt": "2026-08-12T17:30:59+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Visit is expected to touch trade, investment and renewable energy cooperation." },
+        "political": { "value": "neutral", "reason": "Routine diplomatic visit." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily life described." },
+        "market": { "value": "medium", "reason": "Trade and investment cooperation is relevant to business decisions." },
+        "lean": { "value": "balanced", "reason": "Straightforward diplomatic-visit announcement." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt, not the full article." }
+      }
+    }
+  ]
+}
