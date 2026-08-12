@@ -1,0 +1,139 @@
+{
+  "generatedAt": "2026-08-12T12:12:00+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Pakistan condemns Houthi attack in Red Sea that claimed lives of 3 nationals",
+      "summary": "AI summary: Yemen's Houthi rebels attacked the Tanzania-flagged vessel Tihamah in the Red Sea, killing three Pakistani and one Indonesian crew member and injuring another Pakistani; Islamabad condemned the strike as a violation of international law and said it is coordinating with Saudi and Yemeni authorities for further details.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2022341/pakistan-condemns-houthi-attack-in-red-sea-that-claimed-lives-of-3-nationals" }
+      ],
+      "timestamp": "Aug 12, 12:06 PM",
+      "publishedAt": "2026-08-12T12:06:40+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Attacks on Red Sea shipping lanes raise maritime security and insurance costs affecting trade-dependent economies and shipping-linked jobs." },
+        "political": { "value": "neutral", "reason": "A foreign attack on a commercial vessel with Pakistani crew; Pakistan's response is diplomatic condemnation, with no direct bearing on domestic governance stability." },
+        "social": { "value": "negative", "reason": "Three Pakistani nationals were killed and another injured, a direct loss of life affecting families and seafaring workers." },
+        "market": { "value": "low", "reason": "Limited direct relevance to Pakistani markets beyond general shipping-route risk." },
+        "lean": { "value": "balanced", "reason": "Factual reporting of the attack and the government's condemnation, with no partisan framing." },
+        "confidence": { "value": "high", "reason": "Based on the full article with specific, detailed facts and a direct official statement." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Trump says secret flight change at directives of Secret Service, plane ultimately used faced 'greater risk'",
+      "summary": "AI summary: The Washington Post revealed that President Trump was secretly moved from Air Force One to a different military aircraft via a catering truck after a NATO summit in Ankara, following an Iranian assassination threat; Trump said he simply followed Secret Service directives and suggested the plane he ultimately flew on faced greater risk.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2022334/trump-says-secret-flight-change-at-directives-of-secret-service-plane-ultimately-used-faced-greater-risk" }
+      ],
+      "timestamp": "Aug 12, 10:51 AM",
+      "publishedAt": "2026-08-12T10:51:40+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No economic dimension for Pakistan." },
+        "political": { "value": "neutral", "reason": "A US presidential security matter with no bearing on Pakistan's governance stability." },
+        "social": { "value": "neutral", "reason": "No effect on Pakistani public life." },
+        "market": { "value": "low", "reason": "Not relevant to Pakistani markets or investors." },
+        "lean": { "value": "balanced", "reason": "Reports the Washington Post's account and Trump's own quoted response without editorializing." },
+        "confidence": { "value": "high", "reason": "Based on the full article with specific, corroborated details and direct quotes." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Govt cuts petrol price by Rs1.70, raises high-speed diesel by Rs1.39",
+      "summary": "AI summary: Pakistan's government cut petrol prices by Rs1.70 per litre to Rs325.92 while raising high-speed diesel by Rs1.39 to Rs382.25, under the new daily pricing mechanism introduced after the Iran-US conflict caused sharp fuel-price swings earlier this year; the dealers association has objected to the shift from weekly to daily adjustments.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2022180/govt-cuts-petrol-price-by-rs170-raises-high-speed-diesel-by-rs139" }
+      ],
+      "timestamp": "Aug 12, 7:04 AM",
+      "publishedAt": "2026-08-12T07:04:56+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A modest petrol price cut is offset by a diesel price increase, which raises costs for transport and power generation; net effect on business activity is mixed." },
+        "political": { "value": "neutral", "reason": "Routine administrative pricing action under an existing policy, though the dealers association's objection signals some friction over the new daily mechanism." },
+        "social": { "value": "negative", "reason": "The diesel increase raises costs for public transport, goods, and electricity generation, affecting the public more broadly than the small petrol relief offsets." },
+        "market": { "value": "medium", "reason": "Fuel pricing directly affects transport and energy costs, a relevant input for business and inflation-watching investors." },
+        "lean": { "value": "balanced", "reason": "Reports the government's pricing decision alongside the dealers association's objection." },
+        "confidence": { "value": "high", "reason": "Based on the full article with specific figures and context." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Five HCs: President approves appointment of additional judges",
+      "summary": "AI summary: President Zardari approved the appointment of additional judges to five high courts and confirmed some of them as permanent judges, alongside revisions to Supreme Court compensation packages.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434413/five-hcs-president-approves-appointment-of-additional-judges" }
+      ],
+      "timestamp": "Aug 12, 6:04 AM",
+      "publishedAt": "2026-08-12T06:04:01+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct economic effect." },
+        "political": { "value": "neutral", "reason": "A routine judicial appointment process; filling high court vacancies generally supports judicial functioning, but limited detail is available to assess further." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily public life." },
+        "market": { "value": "low", "reason": "Not market-relevant." },
+        "lean": { "value": "balanced", "reason": "Straightforward factual reporting of an official appointment with no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based only on the RSS description excerpt, not the full article, after the source page returned a 403 error." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Pakistan says US and Iran close to 'some sort' of deal",
+      "summary": "AI summary: Pakistan's Interior Minister Mohsin Naqvi met Iranian officials in Tehran to revive the Islamabad Memorandum of Understanding-based mediation between Iran and the United States, as Defence Minister Khawaja Asif told Bloomberg that Washington and Tehran appear close to 'some sort of an arrangement' on managing the Strait of Hormuz, even as Tehran insisted the original MoU be implemented unchanged and President Trump accused Iranian negotiators of dishonesty.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2022296/islamabad-looking-to-breathe-new-life-into-mediation-push" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434419/pakistan-says-us-and-iran-close-to-some-sort-of-deal" }
+      ],
+      "timestamp": "Aug 12, 6:04 AM",
+      "publishedAt": "2026-08-12T06:04:01+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Progress toward a US-Iran arrangement, if realized, could ease Strait of Hormuz tensions and stabilize global energy prices relevant to Pakistan's import costs." },
+        "political": { "value": "neutral", "reason": "An ongoing diplomatic mediation effort with no confirmed outcome yet; success would bolster Pakistan's regional standing, but the result remains uncertain and mixed signals persist between the parties." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily public life at this stage." },
+        "market": { "value": "medium", "reason": "Strait of Hormuz and broader US-Iran tensions carry global energy market relevance." },
+        "lean": { "value": "balanced", "reason": "Coverage presents Pakistan's optimistic framing, Iran's conditions, and Trump's critical remarks together, without favoring one side." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two independent outlets on the core claim, though one source is a description-level excerpt and the diplomatic situation remains fluid." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Date coincides with PTI long march: NA-168: By-election on Sep 27",
+      "summary": "AI summary: Pakistan's Election Commission scheduled a National Assembly NA-168 by-election for September 27, a date that coincides with the PTI's planned long march demonstrating for Imran Khan's release from imprisonment.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434401/date-coincides-with-pti-long-march-na-168-by-election-on-sep-27" }
+      ],
+      "timestamp": "Aug 12, 6:04 AM",
+      "publishedAt": "2026-08-12T06:04:01+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct economic effect." },
+        "political": { "value": "neutral", "reason": "Routine electoral scheduling by the commission; the overlapping PTI long march date adds political tension but is not itself a clear negative for institutions." },
+        "social": { "value": "neutral", "reason": "No confirmed disruption yet; limited detail available beyond the scheduling coincidence." },
+        "market": { "value": "low", "reason": "Not market-relevant." },
+        "lean": { "value": "balanced", "reason": "Reports the Election Commission's scheduling decision and its coincidence with the PTI march without editorializing." },
+        "confidence": { "value": "medium", "reason": "Based only on the RSS description excerpt, not the full article, after the source page returned a 403 error." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "President confers Nishan-i-Imtiaz on NSC Commander Gen Aamer Raza",
+      "summary": "AI summary: President Zardari conferred the Nishan-i-Imtiaz military award on National Strategic Command commander General Aamer Raza at a ceremony attended by senior government and military officials, marking his promotion to four-star general.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434416/president-confers-nishan-i-imtiaz-on-nsc-commander-gen-aamer-raza" }
+      ],
+      "timestamp": "Aug 12, 6:04 AM",
+      "publishedAt": "2026-08-12T06:04:01+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct economic effect." },
+        "political": { "value": "neutral", "reason": "A routine ceremonial state honor with no bearing on governance stability." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily public life." },
+        "market": { "value": "low", "reason": "Not market-relevant." },
+        "lean": { "value": "balanced", "reason": "Straightforward factual reporting of a ceremonial state honor." },
+        "confidence": { "value": "medium", "reason": "Based only on the RSS description excerpt, not the full article, after the source page returned a 403 error." }
+      }
+    }
+  ]
+}
