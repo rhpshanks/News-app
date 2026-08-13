@@ -1,8 +1,104 @@
 {
-  "generatedAt": "2026-08-13T13:24:33+05:00",
+  "generatedAt": "2026-08-13T22:13:51+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "NCCIA arrests 114 foreigners over alleged cyber-romance, sextortion network",
+      "summary": "AI summary: Pakistan's National Cyber Crime Investigation Agency arrested 114 foreign nationals, 111 Chinese and 3 Vietnamese, accused of running a cyber-romance and sextortion ring from a registered Islamabad IT business that lured victims worldwide into explicit video chats before extorting them, with investigations into the network's finances ongoing.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2022592/nccia-arrests-114-foreigners-over-alleged-cyber-romance-sextortion-network" }
+      ],
+      "timestamp": "Aug 13, 9:29 PM",
+      "publishedAt": "2026-08-13T21:29:08+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct effect on jobs, prices or business activity described." },
+        "political": { "value": "neutral", "reason": "A routine law-enforcement operation; not described as affecting governance stability." },
+        "social": { "value": "positive", "reason": "Dismantling a large-scale sextortion network protects potential future victims worldwide." },
+        "market": { "value": "low", "reason": "Limited direct relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Factual law-enforcement report citing official agency statements and legal charges, no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single source, but detailed with official quotes, legal citations and case numbers." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Rabiul Awwal moon not sighted, Eid Milad un Nabi on Aug 26",
+      "summary": "AI summary: Pakistan's Central Ruet-e-Hilal Committee announced that the Rabi-ul-Awwal moon was not sighted, so the month begins August 15 and Eid Milad-un-Nabi, marking the Prophet's birth anniversary, will be observed on August 26, 2026.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434679/rabiul-awwal-moon-not-sighted-eid-milad-un-nabi-on-aug-26" }
+      ],
+      "timestamp": "Aug 13, 9:25 PM",
+      "publishedAt": "2026-08-13T21:25:49+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Routine religious calendar announcement with no described economic effect." },
+        "political": { "value": "neutral", "reason": "Routine official committee announcement, not a governance-stability event." },
+        "social": { "value": "neutral", "reason": "Sets a public holiday date; a routine religious/administrative announcement rather than a wellbeing or safety event." },
+        "market": { "value": "low", "reason": "No relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Factual reporting of an official committee's moon-sighting decision, no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on the RSS description excerpt, but reporting a clear official committee statement." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Dar orders intensified diplomatic engagement for release of Pakistani sailors held hostage by Somali pirates",
+      "summary": "AI summary: Deputy PM and Foreign Minister Ishaq Dar directed stakeholders to intensify diplomatic coordination with Somali and international partners to secure the release of 10 Pakistani sailors among 18 crew held hostage aboard the tanker MT Honour 25 since it was hijacked off Somalia in April, amid a reported $3 million ransom demand and dwindling food, water and medicine.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2022577/dar-orders-intensified-diplomatic-engagement-for-release-of-pakistani-sailors-held-hostage-by-somali-pirates" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434652/dpm-dar-orders-intensified-diplomatic-engagement-to-secure-release-of-pakistani-hostages" }
+      ],
+      "timestamp": "Aug 13, 5:35 PM",
+      "publishedAt": "2026-08-13T17:35:44+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct economic effect described, though prolonged hijacking risk touches maritime shipping." },
+        "political": { "value": "neutral", "reason": "A routine diplomatic directive on an ongoing consular case, not itself a governance-stability event." },
+        "social": { "value": "negative", "reason": "Ten Pakistani citizens held hostage for months with reported shortages of food, water and medicine represents real harm and risk to their safety." },
+        "market": { "value": "low", "reason": "Limited direct relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Reports the Foreign Office's official directive without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two independent outlets with matching details." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Pakistan's first lunar rover named 'Jinnah-1': Suparco",
+      "summary": "AI summary: Pakistan's space agency Suparco named the country's first lunar rover 'Jinnah-1', selected from over 4,000 public submissions in a nationwide competition, ahead of its planned 2029 launch as part of China's Chang'e-8 mission to study the Moon's south pole.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2022575/pakistans-first-lunar-rover-named-jinnah-1-suparco" }
+      ],
+      "timestamp": "Aug 13, 5:05 PM",
+      "publishedAt": "2026-08-13T17:05:38+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct economic effect described." },
+        "political": { "value": "neutral", "reason": "A space-agency naming announcement, not itself a governance-stability event." },
+        "social": { "value": "positive", "reason": "A national science achievement driven by public participation, including a 17-year-old competition winner, is a source of public pride and engagement." },
+        "market": { "value": "low", "reason": "A space-sector milestone with no immediate market relevance." },
+        "lean": { "value": "balanced", "reason": "Factual announcement with official quotes, no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single source, but detailed with official figures and quotes." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Norwegian FM, Army Chief Munir discuss regional security, defence ties",
+      "summary": "AI summary: Visiting Norwegian Foreign Minister Espen Barth Eide met Pakistan's Army Chief Field Marshal Syed Asim Munir in Rawalpindi to discuss regional security and defence ties, with Munir briefing him on Pakistan's perspective on global peace and both sides agreeing to expand defence cooperation.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434648/norwegian-fm-army-chief-munir-discuss-regional-security-defence-ties" }
+      ],
+      "timestamp": "Aug 13, 4:16 PM",
+      "publishedAt": "2026-08-13T16:16:27+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct economic effect described." },
+        "political": { "value": "positive", "reason": "High-level engagement with military leadership from a visiting foreign minister reinforces Pakistan's diplomatic and defence standing." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily life described." },
+        "market": { "value": "low", "reason": "A diplomatic and defence meeting with limited direct market relevance." },
+        "lean": { "value": "balanced", "reason": "Straightforward account of a bilateral meeting with no partisan framing." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt, not the full article." }
+      }
+    },
+    {
+      "id": 6,
       "headline": "SHC orders formation of committee to probe HIV outbreak among children at Karachi hospital",
       "summary": "AI summary: The Sindh High Court has ordered an independent committee, led by the provincial chief secretary, to investigate an HIV outbreak among children at a Karachi hospital that has infected at least 78-120 confirmed cases (with the petitioner alleging around 200), and mandated free treatment and compensation for affected families.",
       "sources": [
@@ -21,7 +117,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 7,
       "headline": "'A service to the world': Norwegian minister praises Pakistan's leadership for US-Iran mediation efforts",
       "summary": "AI summary: Visiting Norwegian Foreign Minister Espen Barth Eide, on Norway's first ministerial visit to Pakistan in a decade, praised Islamabad's mediation in the US-Iran conflict as 'a service to the world' and credited PM Shehbaz Sharif and Deputy PM Ishaq Dar's leadership, while the two sides discussed deepening trade, investment and climate cooperation.",
       "sources": [
@@ -41,7 +137,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 8,
       "headline": "Gas supply to parts of Balochistan suspended after main pipeline blown up in Bolan",
       "summary": "AI summary: Unknown attackers remotely detonated explosives under a Sui Southern Gas Company pipeline in Bolan's Kachhi district, cutting gas supply to Quetta, Mastung, Kalat and Pishin in the fourth such attack on the pipeline since March, with repairs pending security clearance.",
       "sources": [
@@ -60,7 +156,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 9,
       "headline": "Taliban support fuels deadlier TTP attacks in Pakistan: UN",
       "summary": "AI summary: A UN Security Council monitoring report covering December 2025 to June 2026 found that continued Afghan Taliban backing of the Tehreek-i-Taliban Pakistan has fuelled deadlier cross-border attacks, including a February bombing in Bajaur that killed 12, and noted growing links between TTP, Al-Qaeda, ISIL-K and the Baloch Liberation Army despite a Taliban leadership warning to TTP.",
       "sources": [
@@ -79,7 +175,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 10,
       "headline": "Petrol price cut by Re0.94, HSD's hike by Re0.54",
       "summary": "AI summary: Pakistan's oil regulator cut the petrol price by 94 paisas per litre to Rs324.98 while raising high-speed diesel by 54 paisas to Rs382.79 effective August 13, with a government adviser describing the diesel levy increase as a gradual return to the budgeted level rather than a new tax.",
       "sources": [
@@ -98,7 +194,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 11,
       "headline": "Ambassador-designate to Libya directed to focus on trade",
       "summary": "AI summary: President Asif Ali Zardari directed Pakistan's ambassador-designate to Libya to prioritise expanding trade and investment cooperation in sectors including defence, energy, IT, healthcare and agriculture, and to look after the welfare of the Pakistani diaspora there.",
       "sources": [
@@ -117,7 +213,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 12,
       "headline": "Aurangzeb discusses economic ties with Belarusian minister",
       "summary": "AI summary: Finance Minister Muhammad Aurangzeb met Belarus's Energy Minister Denis Moroz to discuss expanding bilateral economic cooperation in industry, agriculture, education and culture, with both sides aiming to translate the engagement into concrete trade and investment outcomes.",
       "sources": [
@@ -136,7 +232,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 13,
       "headline": "Govt cuts petrol price by Re0.94, raises high-speed diesel by Re0.54",
       "summary": "AI summary: Pakistan's government trimmed the petrol price by 94 paisas per litre while raising high-speed diesel by 54 paisas, effective August 13, as authorities move to daily rather than weekly fuel price revisions.",
       "sources": [
@@ -155,7 +251,7 @@
       }
     },
     {
-      "id": 9,
+      "id": 14,
       "headline": "'We aspire for it to grow': Turkiye's Erdogan eyes expansion of Makkah Joint Defence Agreement",
       "summary": "AI summary: Turkish President Erdogan said he hopes more countries will eventually join the newly signed Makkah defence pact between Turkiye, Saudi Arabia and Pakistan, while Turkish officials suggested Egypt could join in a future phase.",
       "sources": [
@@ -174,7 +270,7 @@
       }
     },
     {
-      "id": 10,
+      "id": 15,
       "headline": "Pakistan, Belarus reaffirm commitment to deepen bilateral cooperation",
       "summary": "AI summary: Pakistan and Belarus reaffirmed plans to deepen cooperation in trade, industry, agriculture, banking and energy during the ninth session of their Joint Ministerial Commission.",
       "sources": [
@@ -193,7 +289,7 @@
       }
     },
     {
-      "id": 11,
+      "id": 16,
       "headline": "PM launches youth employment, skills and power-sector innovation programmes",
       "summary": "AI summary: The prime minister marked International Youth Day by launching Pakistan's first National Youth Employment Policy, which sets a 35% quota for women and reserves 10% of opportunities for startups, alongside laptop distribution and overseas training initiatives.",
       "sources": [
@@ -212,7 +308,7 @@
       }
     },
     {
-      "id": 12,
+      "id": 17,
       "headline": "Met Office forecasts fresh rain spell for upper, central parts of country from Aug 13-15",
       "summary": "AI summary: The Pakistan Meteorological Department forecast a fresh spell of monsoon rain and thunderstorms for upper and central parts of the country from August 13-15, warning of possible urban flooding and landslides in vulnerable areas.",
       "sources": [
@@ -231,7 +327,7 @@
       }
     },
     {
-      "id": 13,
+      "id": 18,
       "headline": "18 terrorists killed in VBIED explosion, security operation in Balochistan",
       "summary": "AI summary: The military said eighteen militants from Fitna Al Hindustan were killed after an explosives-laden vehicle detonated during a counter-terrorism operation in Balochistan's Surab district, with three civilians also reported killed.",
       "sources": [
@@ -250,7 +346,7 @@
       }
     },
     {
-      "id": 14,
+      "id": 19,
       "headline": "After death of 3 Pakistani sailors, FO says Islamabad will implement maritime coalition 'in full earnest'",
       "summary": "AI summary: Pakistan's Foreign Office said it will fully implement its commitments under the Saudi-led maritime security coalition after three Pakistani sailors were killed in an attack on a Saudi cargo vessel, while continuing to mediate US-Iran talks ahead of an August 17 deadline.",
       "sources": [
@@ -269,7 +365,7 @@
       }
     },
     {
-      "id": 15,
+      "id": 20,
       "headline": "Norwegian foreign minister to visit Pakistan on Aug 13-14",
       "summary": "AI summary: Norway's foreign minister will make the country's first ministerial visit to Pakistan in a decade on August 13-14, with talks expected to cover trade, investment, climate and education cooperation.",
       "sources": [
