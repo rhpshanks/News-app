@@ -1,8 +1,142 @@
 {
-  "generatedAt": "2026-08-13T01:35:00+05:00",
+  "generatedAt": "2026-08-13T13:24:33+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "SHC orders formation of committee to probe HIV outbreak among children at Karachi hospital",
+      "summary": "AI summary: The Sindh High Court has ordered an independent committee, led by the provincial chief secretary, to investigate an HIV outbreak among children at a Karachi hospital that has infected at least 78-120 confirmed cases (with the petitioner alleging around 200), and mandated free treatment and compensation for affected families.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2022544/shc-orders-formation-of-committee-to-probe-hiv-outbreak-among-children-at-karachi-hospital" }
+      ],
+      "timestamp": "Aug 13, 12:15 PM",
+      "publishedAt": "2026-08-13T12:15:04+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct economic effect described, though publicly funded treatment and compensation carry a fiscal cost." },
+        "political": { "value": "neutral", "reason": "Routine judicial oversight directing an inquiry, not itself a governance-stability event." },
+        "social": { "value": "negative", "reason": "Dozens to potentially around 200 children infected with HIV at a hospital represents serious harm to public health and safety." },
+        "market": { "value": "low", "reason": "Limited direct relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Factual account of a court order and official case data, no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single source, but detailed with official case figures and court directives." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "'A service to the world': Norwegian minister praises Pakistan's leadership for US-Iran mediation efforts",
+      "summary": "AI summary: Visiting Norwegian Foreign Minister Espen Barth Eide, on Norway's first ministerial visit to Pakistan in a decade, praised Islamabad's mediation in the US-Iran conflict as 'a service to the world' and credited PM Shehbaz Sharif and Deputy PM Ishaq Dar's leadership, while the two sides discussed deepening trade, investment and climate cooperation.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2022536/a-service-to-the-world-norwegian-minister-praises-pakistans-leadership-for-us-iran-mediation-efforts" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434630/norway-commends-pakistans-constructive-role-in-iran-us-conflict" }
+      ],
+      "timestamp": "Aug 13, 12:11 PM",
+      "publishedAt": "2026-08-13T12:11:54+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Trade and investment cooperation was discussed but no concrete economic outcome or agreement was announced." },
+        "political": { "value": "positive", "reason": "International praise for Pakistan's diplomatic mediation role boosts its regional standing." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily life described." },
+        "market": { "value": "low", "reason": "Primarily a diplomatic visit; trade discussion was general with no specific market-moving detail." },
+        "lean": { "value": "balanced", "reason": "Reports a foreign official's on-record praise and bilateral talks without partisan domestic framing." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two independent outlets with matching details." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Gas supply to parts of Balochistan suspended after main pipeline blown up in Bolan",
+      "summary": "AI summary: Unknown attackers remotely detonated explosives under a Sui Southern Gas Company pipeline in Bolan's Kachhi district, cutting gas supply to Quetta, Mastung, Kalat and Pishin in the fourth such attack on the pipeline since March, with repairs pending security clearance.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2022550/gas-supply-to-parts-of-balochistan-suspended-after-main-pipeline-blown-up-in-bolan" }
+      ],
+      "timestamp": "Aug 13, 12:06 PM",
+      "publishedAt": "2026-08-13T12:06:32+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Disrupts gas supply to multiple cities and repeatedly damages energy infrastructure, the fourth such attack since March." },
+        "political": { "value": "negative", "reason": "A repeated, unclaimed attack on state energy infrastructure with no arrests reflects persistent weak security control in Balochistan." },
+        "social": { "value": "negative", "reason": "Loss of gas supply directly affects households and daily life in Quetta, Mastung, Kalat and Pishin." },
+        "market": { "value": "medium", "reason": "Energy infrastructure disruption affects business and industrial operations in the region." },
+        "lean": { "value": "balanced", "reason": "Factual incident report attributing the attack to unidentified perpetrators, no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single source, but detailed with an official SSGC statement." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Taliban support fuels deadlier TTP attacks in Pakistan: UN",
+      "summary": "AI summary: A UN Security Council monitoring report covering December 2025 to June 2026 found that continued Afghan Taliban backing of the Tehreek-i-Taliban Pakistan has fuelled deadlier cross-border attacks, including a February bombing in Bajaur that killed 12, and noted growing links between TTP, Al-Qaeda, ISIL-K and the Baloch Liberation Army despite a Taliban leadership warning to TTP.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2022505/taliban-support-fuels-deadlier-ttp-attacks-in-pakistan-un" }
+      ],
+      "timestamp": "Aug 13, 7:27 AM",
+      "publishedAt": "2026-08-13T07:27:40+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct economic effect described, though a deteriorating security picture can weigh on investor sentiment indirectly." },
+        "political": { "value": "negative", "reason": "Escalating cross-border militancy, expanding TTP capability and deepening links with other militant groups signal worsening regional instability." },
+        "social": { "value": "negative", "reason": "Deadlier attacks and civilian casualties, including a bombing that killed 12, represent direct harm to public safety." },
+        "market": { "value": "low", "reason": "A security and diplomatic report with limited direct relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Draws on an official UN monitoring report and attributes claims to it rather than asserting them independently." },
+        "confidence": { "value": "medium", "reason": "Based on a single but credible primary source, a UN Security Council monitoring report." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Petrol price cut by Re0.94, HSD's hike by Re0.54",
+      "summary": "AI summary: Pakistan's oil regulator cut the petrol price by 94 paisas per litre to Rs324.98 while raising high-speed diesel by 54 paisas to Rs382.79 effective August 13, with a government adviser describing the diesel levy increase as a gradual return to the budgeted level rather than a new tax.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434593/petrol-price-cut-by-re094-hsds-hike-by-re054" }
+      ],
+      "timestamp": "Aug 13, 2:16 AM",
+      "publishedAt": "2026-08-13T02:16:28+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Petrol relief is offset by a diesel and levy increase that raises transport and logistics costs, a mixed net effect." },
+        "political": { "value": "neutral", "reason": "Routine regulatory price adjustment, characterized by the government's own adviser as a scheduled levy return rather than a new tax." },
+        "social": { "value": "neutral", "reason": "Small per-litre changes in opposite directions limit the direct impact on households." },
+        "market": { "value": "medium", "reason": "Fuel pricing affects transport, logistics and manufacturing cost structures." },
+        "lean": { "value": "balanced", "reason": "Straight factual reporting of official price figures with an on-record government adviser quote." },
+        "confidence": { "value": "medium", "reason": "Based on official OGRA figures from a single source." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Ambassador-designate to Libya directed to focus on trade",
+      "summary": "AI summary: President Asif Ali Zardari directed Pakistan's ambassador-designate to Libya to prioritise expanding trade and investment cooperation in sectors including defence, energy, IT, healthcare and agriculture, and to look after the welfare of the Pakistani diaspora there.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434576/ambassador-designate-to-libya-directed-to-focus-on-trade" }
+      ],
+      "timestamp": "Aug 13, 2:16 AM",
+      "publishedAt": "2026-08-13T02:16:28+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Directive focuses on expanding trade and investment across several sectors." },
+        "political": { "value": "neutral", "reason": "Routine diplomatic appointment and instruction." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily life described, beyond diaspora welfare mentioned in passing." },
+        "market": { "value": "low", "reason": "An aspirational diplomatic directive with no concrete deal or figures yet." },
+        "lean": { "value": "balanced", "reason": "Routine coverage of a presidential directive with no partisan framing." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt, not the full article." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Aurangzeb discusses economic ties with Belarusian minister",
+      "summary": "AI summary: Finance Minister Muhammad Aurangzeb met Belarus's Energy Minister Denis Moroz to discuss expanding bilateral economic cooperation in industry, agriculture, education and culture, with both sides aiming to translate the engagement into concrete trade and investment outcomes.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434577/aurangzeb-discusses-economic-ties-with-belarusian-minister" }
+      ],
+      "timestamp": "Aug 13, 2:16 AM",
+      "publishedAt": "2026-08-13T02:16:28+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Discussions cover industrial cooperation, trade and investment that could expand economic ties." },
+        "political": { "value": "neutral", "reason": "Routine bilateral diplomatic meeting." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily life described." },
+        "market": { "value": "medium", "reason": "Touches trade and investment areas relevant to businesses." },
+        "lean": { "value": "balanced", "reason": "Straightforward account of a diplomatic meeting." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt, not the full article." }
+      }
+    },
+    {
+      "id": 8,
       "headline": "Govt cuts petrol price by Re0.94, raises high-speed diesel by Re0.54",
       "summary": "AI summary: Pakistan's government trimmed the petrol price by 94 paisas per litre while raising high-speed diesel by 54 paisas, effective August 13, as authorities move to daily rather than weekly fuel price revisions.",
       "sources": [
@@ -21,7 +155,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 9,
       "headline": "'We aspire for it to grow': Turkiye's Erdogan eyes expansion of Makkah Joint Defence Agreement",
       "summary": "AI summary: Turkish President Erdogan said he hopes more countries will eventually join the newly signed Makkah defence pact between Turkiye, Saudi Arabia and Pakistan, while Turkish officials suggested Egypt could join in a future phase.",
       "sources": [
@@ -40,7 +174,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 10,
       "headline": "Pakistan, Belarus reaffirm commitment to deepen bilateral cooperation",
       "summary": "AI summary: Pakistan and Belarus reaffirmed plans to deepen cooperation in trade, industry, agriculture, banking and energy during the ninth session of their Joint Ministerial Commission.",
       "sources": [
@@ -59,7 +193,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 11,
       "headline": "PM launches youth employment, skills and power-sector innovation programmes",
       "summary": "AI summary: The prime minister marked International Youth Day by launching Pakistan's first National Youth Employment Policy, which sets a 35% quota for women and reserves 10% of opportunities for startups, alongside laptop distribution and overseas training initiatives.",
       "sources": [
@@ -78,7 +212,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 12,
       "headline": "Met Office forecasts fresh rain spell for upper, central parts of country from Aug 13-15",
       "summary": "AI summary: The Pakistan Meteorological Department forecast a fresh spell of monsoon rain and thunderstorms for upper and central parts of the country from August 13-15, warning of possible urban flooding and landslides in vulnerable areas.",
       "sources": [
@@ -97,7 +231,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 13,
       "headline": "18 terrorists killed in VBIED explosion, security operation in Balochistan",
       "summary": "AI summary: The military said eighteen militants from Fitna Al Hindustan were killed after an explosives-laden vehicle detonated during a counter-terrorism operation in Balochistan's Surab district, with three civilians also reported killed.",
       "sources": [
@@ -116,7 +250,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 14,
       "headline": "After death of 3 Pakistani sailors, FO says Islamabad will implement maritime coalition 'in full earnest'",
       "summary": "AI summary: Pakistan's Foreign Office said it will fully implement its commitments under the Saudi-led maritime security coalition after three Pakistani sailors were killed in an attack on a Saudi cargo vessel, while continuing to mediate US-Iran talks ahead of an August 17 deadline.",
       "sources": [
@@ -135,7 +269,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 15,
       "headline": "Norwegian foreign minister to visit Pakistan on Aug 13-14",
       "summary": "AI summary: Norway's foreign minister will make the country's first ministerial visit to Pakistan in a decade on August 13-14, with talks expected to cover trade, investment, climate and education cooperation.",
       "sources": [
