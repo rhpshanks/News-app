@@ -1,254 +1,696 @@
 {
-  "generatedAt": "2026-08-14T14:21:59+05:00",
+  "generatedAt": "2026-08-14T20:04:00+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "PM Shehbaz briefs President Zardari on Pak-Saudi-Turkiye defence pact",
+      "summary": "AI summary: PM Shehbaz Sharif briefed President Zardari at the Presidency on the Pakistan-Saudi Arabia-Turkiye tripartite defence pact signed August 7 in Makkah, under which an attack on one signatory is treated as an attack on all and which expands political, military and defence-industry cooperation; officials described the pact as defensive rather than aggressive and open to other regional states.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2022808/pm-shehbaz-briefs-president-zardari-on-pak-saudi-turkiye-defence-pact"
+        }
+      ],
+      "timestamp": "Aug 14, 7:42 PM",
+      "publishedAt": "2026-08-14T19:42:23+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Defence-pact briefing with no direct economic measure announced."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "Formalizes a collective-defence alliance with two regional powers, strengthening Pakistan's institutional and strategic standing."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily public life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Defence-industry cooperation mentioned only in general terms, no concrete commercial outcome."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual account of a presidential briefing with attributed quotes, no partisan framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Specific, verifiable details from a single reputable outlet's full article."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "World leaders extend greetings to Pakistan on Independence Day, hail bilateral ties",
+      "summary": "AI summary: World leaders including Saudi Arabia's King Salman, Iran's President Pezeshkian, US Secretary of State Marco Rubio and Turkiye's Vice President Cevdet Yilmaz sent congratulatory messages to Pakistan's leadership on its 79th Independence Day, with several highlighting cooperation on counterterrorism, energy, critical minerals and the new tripartite defence pact.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2022800/world-leaders-extend-greetings-to-pakistan-on-independence-day-hail-bilateral-ties"
+        }
+      ],
+      "timestamp": "Aug 14, 7:13 PM",
+      "publishedAt": "2026-08-14T19:13:05+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Ceremonial greetings with no economic measure."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine diplomatic goodwill messaging, no direct effect on domestic institutional stability."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Broad international recognition on Independence Day likely to boost public morale and national pride."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Ceremonial messages, no relevance to markets or investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Neutral compilation of foreign leaders' statements, no editorializing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Broad, specific survey of attributed statements from a single reputable outlet's full article."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Pakistan, Norway agree to enhance cooperation in curbing illegal immigration, counterterrorism",
+      "summary": "AI summary: Pakistan and Norway agreed to deepen cooperation on counterterrorism, curbing illegal immigration, police training and legal assistance, Pakistan's Interior Ministry said after Interior Minister Mohsin Naqvi met Norwegian Foreign Minister Espen Barth Eide in Islamabad; Naqvi cited a 47% drop in illegal migration to Europe and said Afghan territory continues to be used for terrorism against Pakistan, while Eide praised Islamabad's role in easing US-Iran tensions.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40434829/pakistan-norway-agree-to-enhance-cooperation-in-curbing-illegal-immigration-counterterrorism"
+        }
+      ],
+      "timestamp": "Aug 14, 5:20 PM",
+      "publishedAt": "2026-08-14T17:20:18+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Bilateral cooperation agreement with no direct economic measure."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine bilateral cooperation outcome; migration-reduction figure is an attributed government claim, not independently verified."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate direct effect on daily public life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Diplomatic/security cooperation, minimal relevance to markets or investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the minister's statements and the Norwegian FM's remarks factually, attributed to their source."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Business Recorder's article page returned a 403 error, so this is based only on the RSS description excerpt rather than the full article."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Ishaq Dar discusses regional developments, bilateral ties with UK, US envoys",
+      "summary": "AI summary: Deputy PM and Foreign Minister Ishaq Dar held separate meetings in Islamabad with UK High Commissioner Jane Marriott and US Charge d'Affaires Natalie Baker, discussing bilateral cooperation and regional developments, and reiterated that implementation of the June 18 Islamabad Memorandum of Understanding \"in letter and spirit\" remains the only way forward, while both envoys conveyed Pakistan Independence Day greetings.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40434825/ishaq-dar-discusses-regional-developments-bilateral-ties-with-uk-us-envoys"
+        }
+      ],
+      "timestamp": "Aug 14, 4:48 PM",
+      "publishedAt": "2026-08-14T16:48:44+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Diplomatic meetings with no economic measure discussed."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine diplomatic engagement reaffirming an existing MoU, no institutional shift."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily public life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "General diplomatic talks, minimal relevance to markets or investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual account of separate meetings and attributed remarks, no partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Business Recorder's article page returned a 403 error, so this is based only on the RSS description excerpt rather than the full article."
+        }
+      }
+    },
+    {
+      "id": 5,
       "headline": "Balochistan home minister unhurt as convoy comes under attack in Mastung",
       "summary": "AI summary: Gunmen attacked the convoy of Balochistan Home Minister Ziaullah Langove in Mastung's Khad Kocha area as he travelled from Kalat to Quetta, wounding six people, including three police personnel, while the minister himself was unhurt; security forces cordoned off the area and launched a search operation.",
       "sources": [
-        { "name": "Dawn News", "url": "https://www.dawn.com/news/2022775/balochistan-home-minister-unhurt-as-convoy-comes-under-attack-in-mastung" }
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2022775/balochistan-home-minister-unhurt-as-convoy-comes-under-attack-in-mastung"
+        }
       ],
       "timestamp": "Aug 14, 1:54 PM",
       "publishedAt": "2026-08-14T13:54:57+05:00",
       "flaggedForReview": true,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "Localized security incident with no broad economic impact." },
-        "political": { "value": "negative", "reason": "An armed attack on a sitting provincial minister's convoy signals ongoing security fragility and threatens governance stability in Balochistan." },
-        "social": { "value": "negative", "reason": "Injuries to police and bystanders in a targeted attack raise public safety concerns in the region." },
-        "market": { "value": "low", "reason": "Localized security incident, limited direct relevance to national markets or investors." },
-        "lean": { "value": "balanced", "reason": "Factual incident reporting sourced from police and hospital officials, no partisan framing." },
-        "confidence": { "value": "high", "reason": "Specific, verifiable details from police and hospital sources in a single reputable outlet's full article." }
+        "economic": {
+          "value": "neutral",
+          "reason": "Localized security incident with no broad economic impact."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "An armed attack on a sitting provincial minister's convoy signals ongoing security fragility and threatens governance stability in Balochistan."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Injuries to police and bystanders in a targeted attack raise public safety concerns in the region."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Localized security incident, limited direct relevance to national markets or investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual incident reporting sourced from police and hospital officials, no partisan framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Specific, verifiable details from police and hospital sources in a single reputable outlet's full article."
+        }
       }
     },
     {
-      "id": 2,
+      "id": 6,
       "headline": "2 dead, 94 injured in celebratory aerial firing incidents in Karachi on Independence Day eve",
       "summary": "AI summary: Celebratory aerial firing across Karachi on the eve of Independence Day killed two people and injured 94, including 17 children, with casualties spread across hospitals in the city and firing reported in twelve different neighbourhoods; police arrested 13 suspects and recovered firearms, though officials describe the yearly gunfire as a persistent problem despite existing bans.",
       "sources": [
-        { "name": "Dawn News", "url": "https://www.dawn.com/news/2022755/2-dead-94-injured-in-celebratory-aerial-firing-incidents-in-karachi-on-independence-day-eve" }
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2022755/2-dead-94-injured-in-celebratory-aerial-firing-incidents-in-karachi-on-independence-day-eve"
+        }
       ],
       "timestamp": "Aug 14, 1:04 PM",
       "publishedAt": "2026-08-14T13:04:45+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "Localized public-safety incident with no economic impact." },
-        "political": { "value": "neutral", "reason": "Recurring law-enforcement issue, not indicative of a shift in institutional or governance stability." },
-        "social": { "value": "negative", "reason": "Deaths and injuries, including to children, from indiscriminate celebratory gunfire directly harm public safety and wellbeing." },
-        "market": { "value": "low", "reason": "No relevance to markets or business decisions." },
-        "lean": { "value": "balanced", "reason": "Straightforward factual incident reporting drawing on police and hospital sources, no political framing." },
-        "confidence": { "value": "high", "reason": "Specific, detailed casualty and hospital figures from a single reputable outlet's full article." }
+        "economic": {
+          "value": "neutral",
+          "reason": "Localized public-safety incident with no economic impact."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Recurring law-enforcement issue, not indicative of a shift in institutional or governance stability."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Deaths and injuries, including to children, from indiscriminate celebratory gunfire directly harm public safety and wellbeing."
+        },
+        "market": {
+          "value": "low",
+          "reason": "No relevance to markets or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straightforward factual incident reporting drawing on police and hospital sources, no political framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Specific, detailed casualty and hospital figures from a single reputable outlet's full article."
+        }
       }
     },
     {
-      "id": 3,
+      "id": 7,
       "headline": "Afghan soil being used against Pakistan, Naqvi tells Norway FM as two discuss counterterrorism cooperation",
       "summary": "AI summary: Interior Minister Mohsin Naqvi told visiting Norwegian Foreign Minister Espen Barth Eide that Afghan territory continues to be used for terrorism against Pakistan and cited a 47% drop in illegal migration to Europe, as the two discussed counterterrorism cooperation, border security, police training and legal assistance during Eide's first visit to Pakistan by a Norwegian FM in a decade.",
       "sources": [
-        { "name": "Dawn News", "url": "https://www.dawn.com/news/2022764/afghan-soil-being-used-against-pakistan-naqvi-tells-norway-fm-as-two-discuss-counterterrorism-cooperation" }
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2022764/afghan-soil-being-used-against-pakistan-naqvi-tells-norway-fm-as-two-discuss-counterterrorism-cooperation"
+        }
       ],
       "timestamp": "Aug 14, 12:19 PM",
       "publishedAt": "2026-08-14T12:19:39+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "Diplomatic and security discussion with no direct economic measure announced." },
-        "political": { "value": "neutral", "reason": "Routine bilateral diplomatic engagement; claims about Afghanistan are directed externally rather than affecting domestic institutions." },
-        "social": { "value": "neutral", "reason": "Discussion of counterterrorism cooperation, no immediate effect on daily public life." },
-        "market": { "value": "low", "reason": "Security/diplomatic meeting, minimal relevance to investors or markets." },
-        "lean": { "value": "balanced", "reason": "Reports the minister's claims and quotes clearly attributed to him, no evident partisan framing." },
-        "confidence": { "value": "medium", "reason": "Single-source, verifiable meeting account, though Naqvi's claims (Afghan soil use, migration statistics) are attributed assertions rather than independently confirmed facts." }
+        "economic": {
+          "value": "neutral",
+          "reason": "Diplomatic and security discussion with no direct economic measure announced."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine bilateral diplomatic engagement; claims about Afghanistan are directed externally rather than affecting domestic institutions."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Discussion of counterterrorism cooperation, no immediate effect on daily public life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Security/diplomatic meeting, minimal relevance to investors or markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the minister's claims and quotes clearly attributed to him, no evident partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single-source, verifiable meeting account, though Naqvi's claims (Afghan soil use, migration statistics) are attributed assertions rather than independently confirmed facts."
+        }
       }
     },
     {
-      "id": 4,
+      "id": 8,
       "headline": "PM tells India: 'water resources constitute a redline'",
       "summary": "AI summary: At the Victory Monument's inauguration, PM Shehbaz Sharif reiterated that Pakistan's water resources are a \"red line\" and said Pakistan wants peace but will respond directly if India does not change course, while President Zardari separately rejected proposals for a \"Greater Israel\".",
       "sources": [
-        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434746/pm-tells-india-water-resources-constitute-a-redline" }
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40434746/pm-tells-india-water-resources-constitute-a-redline"
+        }
       ],
       "timestamp": "Aug 14, 5:51 AM",
       "publishedAt": "2026-08-14T05:51:43+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "Rhetorical warning with no immediate trade or economic policy change." },
-        "political": { "value": "neutral", "reason": "Nationalistic rhetoric toward India at a ceremonial event, no direct effect on domestic institutional stability." },
-        "social": { "value": "neutral", "reason": "Diplomatic rhetoric with limited direct effect on Pakistanis' daily life or safety at this stage." },
-        "market": { "value": "low", "reason": "Rhetorical statement, not accompanied by concrete economic or trade measures." },
-        "lean": { "value": "balanced", "reason": "Reports officials' statements factually without editorializing." },
-        "confidence": { "value": "medium", "reason": "Based only on an RSS excerpt rather than the full article, though quotes are specific and consistent with related coverage of the same event." }
+        "economic": {
+          "value": "neutral",
+          "reason": "Rhetorical warning with no immediate trade or economic policy change."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Nationalistic rhetoric toward India at a ceremonial event, no direct effect on domestic institutional stability."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Diplomatic rhetoric with limited direct effect on Pakistanis' daily life or safety at this stage."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Rhetorical statement, not accompanied by concrete economic or trade measures."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports officials' statements factually without editorializing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based only on an RSS excerpt rather than the full article, though quotes are specific and consistent with related coverage of the same event."
+        }
       }
     },
     {
-      "id": 5,
+      "id": 9,
       "headline": "Pakistan's leadership stresses need for unity, reforms as nation celebrates Independence Day",
       "summary": "AI summary: Marking Pakistan's 79th Independence Day, President Zardari and PM Shehbaz Sharif urged national unity, economic reform and youth investment, with Zardari calling it \"a lesson of responsibility\" after last year's conflict with India and Sharif citing an $11.3 billion rise in remittances and the new defence pact with Saudi Arabia and Turkey; Zardari's message also renewed calls to honour the country's founding sacrifices.",
       "sources": [
-        { "name": "Dawn News", "url": "https://www.dawn.com/news/2022742/pakistans-leadership-stresses-need-for-unity-reforms-as-nation-celebrates-independence-day" },
-        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434728/message-on-79th-independence-day-zardari-urges-people-to-honour-sacrifices-behind-countrys-creation" }
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2022742/pakistans-leadership-stresses-need-for-unity-reforms-as-nation-celebrates-independence-day"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40434728/message-on-79th-independence-day-zardari-urges-people-to-honour-sacrifices-behind-countrys-creation"
+        }
       ],
       "timestamp": "Aug 14, 5:48 AM",
       "publishedAt": "2026-08-14T05:48:40+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "Speeches cite remittance growth and reform pledges, but no new concrete economic policy was announced." },
-        "political": { "value": "neutral", "reason": "Routine Independence Day messaging emphasizing unity and reform, without a concrete governance change." },
-        "social": { "value": "positive", "reason": "National unity messaging and calls to honour founding sacrifices likely to boost public morale and cohesion." },
-        "market": { "value": "low", "reason": "Ceremonial and rhetorical remarks, limited direct relevance to markets or investors despite the remittance mention." },
-        "lean": { "value": "balanced", "reason": "Reports statements from both the President and PM without one-sided framing; standard state messaging coverage." },
-        "confidence": { "value": "medium", "reason": "Corroborated by two outlets on the same messaging event, though one source relies only on an RSS excerpt." }
+        "economic": {
+          "value": "neutral",
+          "reason": "Speeches cite remittance growth and reform pledges, but no new concrete economic policy was announced."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine Independence Day messaging emphasizing unity and reform, without a concrete governance change."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "National unity messaging and calls to honour founding sacrifices likely to boost public morale and cohesion."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Ceremonial and rhetorical remarks, limited direct relevance to markets or investors despite the remittance mention."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports statements from both the President and PM without one-sided framing; standard state messaging coverage."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Corroborated by two outlets on the same messaging event, though one source relies only on an RSS excerpt."
+        }
       }
     },
     {
-      "id": 6,
+      "id": 10,
       "headline": "Independence Day today",
       "summary": "AI summary: Pakistan marked its 79th Independence Day with a 31-gun salute in Islamabad, 21-gun salutes in provincial capitals, flag-hoisting by President Zardari, and cultural programmes nationwide, including a special national song release and performances at Lahore's Alhamra Cultural Complex.",
       "sources": [
-        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434745/independence-day-today" }
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40434745/independence-day-today"
+        }
       ],
       "timestamp": "Aug 14, 5:48 AM",
       "publishedAt": "2026-08-14T05:48:40+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "Ceremonial national holiday activities with no direct economic effect." },
-        "political": { "value": "neutral", "reason": "Routine annual state ceremony, no governance implications." },
-        "social": { "value": "positive", "reason": "Public cultural celebrations and commemorations likely to boost community morale and national pride." },
-        "market": { "value": "low", "reason": "No relevance to markets or investors." },
-        "lean": { "value": "balanced", "reason": "Descriptive coverage of official ceremonies, no partisan framing." },
-        "confidence": { "value": "medium", "reason": "Based only on an RSS excerpt rather than the full article, though details are routine and easily verified." }
+        "economic": {
+          "value": "neutral",
+          "reason": "Ceremonial national holiday activities with no direct economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine annual state ceremony, no governance implications."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Public cultural celebrations and commemorations likely to boost community morale and national pride."
+        },
+        "market": {
+          "value": "low",
+          "reason": "No relevance to markets or investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Descriptive coverage of official ceremonies, no partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based only on an RSS excerpt rather than the full article, though details are routine and easily verified."
+        }
       }
     },
     {
-      "id": 7,
+      "id": 11,
       "headline": "CDF, Norwegian FM discuss regional security, bilateral ties",
       "summary": "AI summary: Norway's Foreign Minister Espen Barth Eide, on the first visit by a Norwegian FM to Pakistan in a decade, met Chief of Defence Forces Field Marshal Asim Munir at GHQ Rawalpindi to discuss regional security and bilateral relations, with both sides also reviewing cooperation on trade, investment, climate, maritime affairs and education.",
       "sources": [
-        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434727/cdf-norwegian-fm-discuss-regional-security-bilateral-ties" }
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40434727/cdf-norwegian-fm-discuss-regional-security-bilateral-ties"
+        }
       ],
       "timestamp": "Aug 14, 5:48 AM",
       "publishedAt": "2026-08-14T05:48:40+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "General discussion of trade and investment cooperation, no concrete deal or figures announced." },
-        "political": { "value": "neutral", "reason": "Routine high-level diplomatic and military engagement, no direct effect on domestic governance." },
-        "social": { "value": "neutral", "reason": "No direct effect on public wellbeing or daily life." },
-        "market": { "value": "low", "reason": "Preliminary, general discussion of trade, investment and climate cooperation without concrete outcomes." },
-        "lean": { "value": "balanced", "reason": "Routine diplomatic meeting reporting with no partisan framing." },
-        "confidence": { "value": "medium", "reason": "Based only on an RSS excerpt rather than the full article (the Business Recorder article page returned a 403 error), though core meeting details align with related coverage of the same visit." }
+        "economic": {
+          "value": "neutral",
+          "reason": "General discussion of trade and investment cooperation, no concrete deal or figures announced."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine high-level diplomatic and military engagement, no direct effect on domestic governance."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on public wellbeing or daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Preliminary, general discussion of trade, investment and climate cooperation without concrete outcomes."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Routine diplomatic meeting reporting with no partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based only on an RSS excerpt rather than the full article (the Business Recorder article page returned a 403 error), though core meeting details align with related coverage of the same visit."
+        }
       }
     },
     {
-      "id": 8,
+      "id": 12,
       "headline": "Yadgar-i-Fatah monument inaugurated in Islamabad on eve of Independence Day",
       "summary": "AI summary: Pakistan inaugurated the Yadgar-i-Fatah monument in Islamabad on the eve of Independence Day, honouring military personnel from last year's conflict with India. At the ceremony, PM Shehbaz Sharif warned that Pakistan regards every drop of its water as a \"red line,\" while President Zardari said the country would not be treated lightly by its neighbours.",
       "sources": [
-        { "name": "Dawn News", "url": "https://www.dawn.com/news/2022603/yadgar-i-fatah-monument-inaugurated-in-islamabad-on-eve-of-independence-day" },
-        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434682/pm-shehbaz-warns-india-against-testing-pakistans-water-red-line" }
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2022603/yadgar-i-fatah-monument-inaugurated-in-islamabad-on-eve-of-independence-day"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40434682/pm-shehbaz-warns-india-against-testing-pakistans-water-red-line"
+        }
       ],
       "timestamp": "Aug 14, 12:27 AM",
       "publishedAt": "2026-08-14T00:27:29+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "A commemorative ceremony with rhetorical warnings, no immediate policy or economic change." },
-        "political": { "value": "neutral", "reason": "Nationalistic ceremony and rhetoric toward India, but no direct effect on domestic institutional stability." },
-        "social": { "value": "positive", "reason": "National commemorative event ahead of Independence Day likely to boost public morale and pride." },
-        "market": { "value": "low", "reason": "Symbolic ceremony and diplomatic rhetoric, limited direct relevance to markets or investors." },
-        "lean": { "value": "balanced", "reason": "Straightforward reporting of a state ceremony and officials' quotes, no one-sided framing evident." },
-        "confidence": { "value": "medium", "reason": "Corroborated by two outlets with matching quotes, though one relies only on an RSS excerpt." }
+        "economic": {
+          "value": "neutral",
+          "reason": "A commemorative ceremony with rhetorical warnings, no immediate policy or economic change."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Nationalistic ceremony and rhetoric toward India, but no direct effect on domestic institutional stability."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "National commemorative event ahead of Independence Day likely to boost public morale and pride."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Symbolic ceremony and diplomatic rhetoric, limited direct relevance to markets or investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straightforward reporting of a state ceremony and officials' quotes, no one-sided framing evident."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Corroborated by two outlets with matching quotes, though one relies only on an RSS excerpt."
+        }
       }
     },
     {
-      "id": 9,
+      "id": 13,
       "headline": "Govt raises petrol price by Rs0.45, high-speed diesel by Rs1.16",
       "summary": "AI summary: Pakistan's government raised petrol prices by Rs0.45 and high-speed diesel by Rs1.16 per litre effective August 14, under the new daily pricing mechanism tied to international market movements following renewed Iran-US tensions. Petrol now costs Rs325.43 per litre and diesel Rs383.95, though both remain well below their April peaks.",
       "sources": [
-        { "name": "Dawn News", "url": "https://www.dawn.com/news/2022604/govt-raises-petrol-price-by-rs045-high-speed-diesel-by-rs116" }
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2022604/govt-raises-petrol-price-by-rs045-high-speed-diesel-by-rs116"
+        }
       ],
       "timestamp": "Aug 13, 11:46 PM",
       "publishedAt": "2026-08-13T23:46:55+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "negative", "reason": "Higher fuel costs raise transport and production input costs across the economy." },
-        "political": { "value": "neutral", "reason": "Routine adjustment under an established pricing formula, unlikely to trigger unrest." },
-        "social": { "value": "negative", "reason": "Increases cost of living for consumers who rely on private or public transport." },
-        "market": { "value": "medium", "reason": "Relevant to energy, transport and inflation-watching investors and businesses." },
-        "lean": { "value": "balanced", "reason": "Factual reporting of an official regulatory pricing decision with figures, no partisan framing." },
-        "confidence": { "value": "high", "reason": "Routine, verifiable official pricing data from a single reputable source." }
+        "economic": {
+          "value": "negative",
+          "reason": "Higher fuel costs raise transport and production input costs across the economy."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine adjustment under an established pricing formula, unlikely to trigger unrest."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Increases cost of living for consumers who rely on private or public transport."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Relevant to energy, transport and inflation-watching investors and businesses."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual reporting of an official regulatory pricing decision with figures, no partisan framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Routine, verifiable official pricing data from a single reputable source."
+        }
       }
     },
     {
-      "id": 10,
+      "id": 14,
       "headline": "Pakistan Army major general appointed new force commander of UN mission in Western Sahara",
       "summary": "AI summary: The UN Secretary-General appointed Pakistan Army Major General Jawwad Ahmed Qazi as force commander of the UN mission in Western Sahara (Minurso), drawing on his three-plus decades of military and peacekeeping experience, including a prior UN posting in the Balkans.",
       "sources": [
-        { "name": "Dawn News", "url": "https://www.dawn.com/news/2022601/pakistan-army-major-general-appointed-new-force-commander-of-un-mission-in-western-sahara" }
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2022601/pakistan-army-major-general-appointed-new-force-commander-of-un-mission-in-western-sahara"
+        }
       ],
       "timestamp": "Aug 13, 11:23 PM",
       "publishedAt": "2026-08-13T23:23:31+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "Personnel appointment with no direct economic effect." },
-        "political": { "value": "positive", "reason": "Enhances Pakistan's international institutional standing and reputation for peacekeeping contributions." },
-        "social": { "value": "neutral", "reason": "Minimal direct effect on the daily life of the general public." },
-        "market": { "value": "low", "reason": "Little relevance to investors or business decisions." },
-        "lean": { "value": "balanced", "reason": "Straightforward factual appointment news with no political framing." },
-        "confidence": { "value": "high", "reason": "Clear, verifiable appointment details from a single reputable source." }
+        "economic": {
+          "value": "neutral",
+          "reason": "Personnel appointment with no direct economic effect."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "Enhances Pakistan's international institutional standing and reputation for peacekeeping contributions."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Minimal direct effect on the daily life of the general public."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little relevance to investors or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straightforward factual appointment news with no political framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Clear, verifiable appointment details from a single reputable source."
+        }
       }
     },
     {
-      "id": 11,
+      "id": 15,
       "headline": "Rabiul Awwal moon not sighted, Eid Miladun Nabi to fall on Aug 26",
       "summary": "AI summary: Pakistan's Central Ruet-i-Hilal Committee announced that the Rabiul Awwal moon was not sighted, so the Islamic month begins August 15 and Eid Miladun Nabi, marking the Prophet Muhammad's birthday, will be observed on August 26. Provincial authorities are arranging security and utility support for the related religious gatherings.",
       "sources": [
-        { "name": "Dawn News", "url": "https://www.dawn.com/news/2022602/rabiul-awwal-moon-not-sighted-eid-miladun-nabi-to-fall-on-aug-26" },
-        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434679/rabiul-awwal-moon-not-sighted-eid-milad-un-nabi-on-aug-26" }
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2022602/rabiul-awwal-moon-not-sighted-eid-miladun-nabi-to-fall-on-aug-26"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40434679/rabiul-awwal-moon-not-sighted-eid-milad-un-nabi-on-aug-26"
+        }
       ],
       "timestamp": "Aug 13, 9:25 PM",
       "publishedAt": "2026-08-13T21:25:49+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "Religious calendar announcement with no economic impact." },
-        "political": { "value": "neutral", "reason": "Routine religious/administrative announcement, not a governance matter." },
-        "social": { "value": "positive", "reason": "Clarifies religious observance dates, enabling organized public gatherings and security preparedness." },
-        "market": { "value": "low", "reason": "No relevance to markets or investors." },
-        "lean": { "value": "balanced", "reason": "Routine administrative/religious news with no political framing." },
-        "confidence": { "value": "high", "reason": "Straightforward factual announcement corroborated by two outlets with matching details." }
+        "economic": {
+          "value": "neutral",
+          "reason": "Religious calendar announcement with no economic impact."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine religious/administrative announcement, not a governance matter."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Clarifies religious observance dates, enabling organized public gatherings and security preparedness."
+        },
+        "market": {
+          "value": "low",
+          "reason": "No relevance to markets or investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Routine administrative/religious news with no political framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Straightforward factual announcement corroborated by two outlets with matching details."
+        }
       }
     },
     {
-      "id": 12,
+      "id": 16,
       "headline": "DPM Dar orders intensified diplomatic engagement to secure release of Pakistani hostages",
       "summary": "AI summary: Deputy PM Ishaq Dar chaired a high-level meeting on securing the release of ten Pakistani sailors held since Somali pirates hijacked the MT Honour 25 in April 2026, directing officials to intensify diplomatic coordination with international partners and Somali authorities.",
       "sources": [
-        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434652/dpm-dar-orders-intensified-diplomatic-engagement-to-secure-release-of-pakistani-hostages" }
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40434652/dpm-dar-orders-intensified-diplomatic-engagement-to-secure-release-of-pakistani-hostages"
+        }
       ],
       "timestamp": "Aug 13, 6:28 PM",
       "publishedAt": "2026-08-13T18:28:59+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "Diplomatic/consular matter with no direct economic effect." },
-        "political": { "value": "neutral", "reason": "Routine diplomatic response effort, doesn't directly affect domestic institutional stability." },
-        "social": { "value": "negative", "reason": "Prolonged captivity of Pakistani nationals and distress to their families is an ongoing public welfare concern." },
-        "market": { "value": "low", "reason": "Little relevance to markets or business decisions." },
-        "lean": { "value": "balanced", "reason": "Straightforward report of a government diplomatic action, no partisan framing." },
-        "confidence": { "value": "medium", "reason": "Based only on an RSS excerpt rather than the full article." }
+        "economic": {
+          "value": "neutral",
+          "reason": "Diplomatic/consular matter with no direct economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine diplomatic response effort, doesn't directly affect domestic institutional stability."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Prolonged captivity of Pakistani nationals and distress to their families is an ongoing public welfare concern."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little relevance to markets or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straightforward report of a government diplomatic action, no partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based only on an RSS excerpt rather than the full article."
+        }
       }
     },
     {
-      "id": 13,
+      "id": 17,
       "headline": "Norwegian FM, Army Chief Munir discuss regional security, defence ties",
       "summary": "AI summary: Norwegian Foreign Minister Espen Barth Eide met Field Marshal Asim Munir at GHQ Rawalpindi to discuss regional security and defence cooperation, with both sides also holding parallel talks on trade, investment, climate and maritime affairs.",
       "sources": [
-        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434648/norwegian-fm-army-chief-munir-discuss-regional-security-defence-ties" }
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40434648/norwegian-fm-army-chief-munir-discuss-regional-security-defence-ties"
+        }
       ],
       "timestamp": "Aug 13, 4:16 PM",
       "publishedAt": "2026-08-13T16:16:27+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "Preliminary trade/investment talks mentioned with no concrete deal reached." },
-        "political": { "value": "neutral", "reason": "Routine diplomatic engagement, no significant domestic governance implications." },
-        "social": { "value": "neutral", "reason": "No direct effect on public wellbeing or daily life." },
-        "market": { "value": "low", "reason": "Only preliminary, general discussion of trade and investment, no concrete outcomes." },
-        "lean": { "value": "balanced", "reason": "Routine diplomatic meeting reporting with no political framing." },
-        "confidence": { "value": "medium", "reason": "Based only on an RSS excerpt rather than the full article." }
+        "economic": {
+          "value": "neutral",
+          "reason": "Preliminary trade/investment talks mentioned with no concrete deal reached."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine diplomatic engagement, no significant domestic governance implications."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on public wellbeing or daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Only preliminary, general discussion of trade and investment, no concrete outcomes."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Routine diplomatic meeting reporting with no political framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based only on an RSS excerpt rather than the full article."
+        }
       }
     }
   ]
