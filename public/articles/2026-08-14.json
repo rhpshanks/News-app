@@ -1,8 +1,142 @@
 {
-  "generatedAt": "2026-08-14T02:05:47+05:00",
+  "generatedAt": "2026-08-14T14:21:59+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "Balochistan home minister unhurt as convoy comes under attack in Mastung",
+      "summary": "AI summary: Gunmen attacked the convoy of Balochistan Home Minister Ziaullah Langove in Mastung's Khad Kocha area as he travelled from Kalat to Quetta, wounding six people, including three police personnel, while the minister himself was unhurt; security forces cordoned off the area and launched a search operation.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2022775/balochistan-home-minister-unhurt-as-convoy-comes-under-attack-in-mastung" }
+      ],
+      "timestamp": "Aug 14, 1:54 PM",
+      "publishedAt": "2026-08-14T13:54:57+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Localized security incident with no broad economic impact." },
+        "political": { "value": "negative", "reason": "An armed attack on a sitting provincial minister's convoy signals ongoing security fragility and threatens governance stability in Balochistan." },
+        "social": { "value": "negative", "reason": "Injuries to police and bystanders in a targeted attack raise public safety concerns in the region." },
+        "market": { "value": "low", "reason": "Localized security incident, limited direct relevance to national markets or investors." },
+        "lean": { "value": "balanced", "reason": "Factual incident reporting sourced from police and hospital officials, no partisan framing." },
+        "confidence": { "value": "high", "reason": "Specific, verifiable details from police and hospital sources in a single reputable outlet's full article." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "2 dead, 94 injured in celebratory aerial firing incidents in Karachi on Independence Day eve",
+      "summary": "AI summary: Celebratory aerial firing across Karachi on the eve of Independence Day killed two people and injured 94, including 17 children, with casualties spread across hospitals in the city and firing reported in twelve different neighbourhoods; police arrested 13 suspects and recovered firearms, though officials describe the yearly gunfire as a persistent problem despite existing bans.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2022755/2-dead-94-injured-in-celebratory-aerial-firing-incidents-in-karachi-on-independence-day-eve" }
+      ],
+      "timestamp": "Aug 14, 1:04 PM",
+      "publishedAt": "2026-08-14T13:04:45+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Localized public-safety incident with no economic impact." },
+        "political": { "value": "neutral", "reason": "Recurring law-enforcement issue, not indicative of a shift in institutional or governance stability." },
+        "social": { "value": "negative", "reason": "Deaths and injuries, including to children, from indiscriminate celebratory gunfire directly harm public safety and wellbeing." },
+        "market": { "value": "low", "reason": "No relevance to markets or business decisions." },
+        "lean": { "value": "balanced", "reason": "Straightforward factual incident reporting drawing on police and hospital sources, no political framing." },
+        "confidence": { "value": "high", "reason": "Specific, detailed casualty and hospital figures from a single reputable outlet's full article." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Afghan soil being used against Pakistan, Naqvi tells Norway FM as two discuss counterterrorism cooperation",
+      "summary": "AI summary: Interior Minister Mohsin Naqvi told visiting Norwegian Foreign Minister Espen Barth Eide that Afghan territory continues to be used for terrorism against Pakistan and cited a 47% drop in illegal migration to Europe, as the two discussed counterterrorism cooperation, border security, police training and legal assistance during Eide's first visit to Pakistan by a Norwegian FM in a decade.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2022764/afghan-soil-being-used-against-pakistan-naqvi-tells-norway-fm-as-two-discuss-counterterrorism-cooperation" }
+      ],
+      "timestamp": "Aug 14, 12:19 PM",
+      "publishedAt": "2026-08-14T12:19:39+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Diplomatic and security discussion with no direct economic measure announced." },
+        "political": { "value": "neutral", "reason": "Routine bilateral diplomatic engagement; claims about Afghanistan are directed externally rather than affecting domestic institutions." },
+        "social": { "value": "neutral", "reason": "Discussion of counterterrorism cooperation, no immediate effect on daily public life." },
+        "market": { "value": "low", "reason": "Security/diplomatic meeting, minimal relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Reports the minister's claims and quotes clearly attributed to him, no evident partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single-source, verifiable meeting account, though Naqvi's claims (Afghan soil use, migration statistics) are attributed assertions rather than independently confirmed facts." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "PM tells India: 'water resources constitute a redline'",
+      "summary": "AI summary: At the Victory Monument's inauguration, PM Shehbaz Sharif reiterated that Pakistan's water resources are a \"red line\" and said Pakistan wants peace but will respond directly if India does not change course, while President Zardari separately rejected proposals for a \"Greater Israel\".",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434746/pm-tells-india-water-resources-constitute-a-redline" }
+      ],
+      "timestamp": "Aug 14, 5:51 AM",
+      "publishedAt": "2026-08-14T05:51:43+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Rhetorical warning with no immediate trade or economic policy change." },
+        "political": { "value": "neutral", "reason": "Nationalistic rhetoric toward India at a ceremonial event, no direct effect on domestic institutional stability." },
+        "social": { "value": "neutral", "reason": "Diplomatic rhetoric with limited direct effect on Pakistanis' daily life or safety at this stage." },
+        "market": { "value": "low", "reason": "Rhetorical statement, not accompanied by concrete economic or trade measures." },
+        "lean": { "value": "balanced", "reason": "Reports officials' statements factually without editorializing." },
+        "confidence": { "value": "medium", "reason": "Based only on an RSS excerpt rather than the full article, though quotes are specific and consistent with related coverage of the same event." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Pakistan's leadership stresses need for unity, reforms as nation celebrates Independence Day",
+      "summary": "AI summary: Marking Pakistan's 79th Independence Day, President Zardari and PM Shehbaz Sharif urged national unity, economic reform and youth investment, with Zardari calling it \"a lesson of responsibility\" after last year's conflict with India and Sharif citing an $11.3 billion rise in remittances and the new defence pact with Saudi Arabia and Turkey; Zardari's message also renewed calls to honour the country's founding sacrifices.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2022742/pakistans-leadership-stresses-need-for-unity-reforms-as-nation-celebrates-independence-day" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434728/message-on-79th-independence-day-zardari-urges-people-to-honour-sacrifices-behind-countrys-creation" }
+      ],
+      "timestamp": "Aug 14, 5:48 AM",
+      "publishedAt": "2026-08-14T05:48:40+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Speeches cite remittance growth and reform pledges, but no new concrete economic policy was announced." },
+        "political": { "value": "neutral", "reason": "Routine Independence Day messaging emphasizing unity and reform, without a concrete governance change." },
+        "social": { "value": "positive", "reason": "National unity messaging and calls to honour founding sacrifices likely to boost public morale and cohesion." },
+        "market": { "value": "low", "reason": "Ceremonial and rhetorical remarks, limited direct relevance to markets or investors despite the remittance mention." },
+        "lean": { "value": "balanced", "reason": "Reports statements from both the President and PM without one-sided framing; standard state messaging coverage." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two outlets on the same messaging event, though one source relies only on an RSS excerpt." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Independence Day today",
+      "summary": "AI summary: Pakistan marked its 79th Independence Day with a 31-gun salute in Islamabad, 21-gun salutes in provincial capitals, flag-hoisting by President Zardari, and cultural programmes nationwide, including a special national song release and performances at Lahore's Alhamra Cultural Complex.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434745/independence-day-today" }
+      ],
+      "timestamp": "Aug 14, 5:48 AM",
+      "publishedAt": "2026-08-14T05:48:40+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Ceremonial national holiday activities with no direct economic effect." },
+        "political": { "value": "neutral", "reason": "Routine annual state ceremony, no governance implications." },
+        "social": { "value": "positive", "reason": "Public cultural celebrations and commemorations likely to boost community morale and national pride." },
+        "market": { "value": "low", "reason": "No relevance to markets or investors." },
+        "lean": { "value": "balanced", "reason": "Descriptive coverage of official ceremonies, no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based only on an RSS excerpt rather than the full article, though details are routine and easily verified." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "CDF, Norwegian FM discuss regional security, bilateral ties",
+      "summary": "AI summary: Norway's Foreign Minister Espen Barth Eide, on the first visit by a Norwegian FM to Pakistan in a decade, met Chief of Defence Forces Field Marshal Asim Munir at GHQ Rawalpindi to discuss regional security and bilateral relations, with both sides also reviewing cooperation on trade, investment, climate, maritime affairs and education.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434727/cdf-norwegian-fm-discuss-regional-security-bilateral-ties" }
+      ],
+      "timestamp": "Aug 14, 5:48 AM",
+      "publishedAt": "2026-08-14T05:48:40+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "General discussion of trade and investment cooperation, no concrete deal or figures announced." },
+        "political": { "value": "neutral", "reason": "Routine high-level diplomatic and military engagement, no direct effect on domestic governance." },
+        "social": { "value": "neutral", "reason": "No direct effect on public wellbeing or daily life." },
+        "market": { "value": "low", "reason": "Preliminary, general discussion of trade, investment and climate cooperation without concrete outcomes." },
+        "lean": { "value": "balanced", "reason": "Routine diplomatic meeting reporting with no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based only on an RSS excerpt rather than the full article (the Business Recorder article page returned a 403 error), though core meeting details align with related coverage of the same visit." }
+      }
+    },
+    {
+      "id": 8,
       "headline": "Yadgar-i-Fatah monument inaugurated in Islamabad on eve of Independence Day",
       "summary": "AI summary: Pakistan inaugurated the Yadgar-i-Fatah monument in Islamabad on the eve of Independence Day, honouring military personnel from last year's conflict with India. At the ceremony, PM Shehbaz Sharif warned that Pakistan regards every drop of its water as a \"red line,\" while President Zardari said the country would not be treated lightly by its neighbours.",
       "sources": [
@@ -22,7 +156,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 9,
       "headline": "Govt raises petrol price by Rs0.45, high-speed diesel by Rs1.16",
       "summary": "AI summary: Pakistan's government raised petrol prices by Rs0.45 and high-speed diesel by Rs1.16 per litre effective August 14, under the new daily pricing mechanism tied to international market movements following renewed Iran-US tensions. Petrol now costs Rs325.43 per litre and diesel Rs383.95, though both remain well below their April peaks.",
       "sources": [
@@ -41,7 +175,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 10,
       "headline": "Pakistan Army major general appointed new force commander of UN mission in Western Sahara",
       "summary": "AI summary: The UN Secretary-General appointed Pakistan Army Major General Jawwad Ahmed Qazi as force commander of the UN mission in Western Sahara (Minurso), drawing on his three-plus decades of military and peacekeeping experience, including a prior UN posting in the Balkans.",
       "sources": [
@@ -60,7 +194,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 11,
       "headline": "Rabiul Awwal moon not sighted, Eid Miladun Nabi to fall on Aug 26",
       "summary": "AI summary: Pakistan's Central Ruet-i-Hilal Committee announced that the Rabiul Awwal moon was not sighted, so the Islamic month begins August 15 and Eid Miladun Nabi, marking the Prophet Muhammad's birthday, will be observed on August 26. Provincial authorities are arranging security and utility support for the related religious gatherings.",
       "sources": [
@@ -80,7 +214,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 12,
       "headline": "DPM Dar orders intensified diplomatic engagement to secure release of Pakistani hostages",
       "summary": "AI summary: Deputy PM Ishaq Dar chaired a high-level meeting on securing the release of ten Pakistani sailors held since Somali pirates hijacked the MT Honour 25 in April 2026, directing officials to intensify diplomatic coordination with international partners and Somali authorities.",
       "sources": [
@@ -99,7 +233,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 13,
       "headline": "Norwegian FM, Army Chief Munir discuss regional security, defence ties",
       "summary": "AI summary: Norwegian Foreign Minister Espen Barth Eide met Field Marshal Asim Munir at GHQ Rawalpindi to discuss regional security and defence cooperation, with both sides also holding parallel talks on trade, investment, climate and maritime affairs.",
       "sources": [
