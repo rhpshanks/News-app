@@ -1,50 +1,50 @@
 {
-  "generatedAt": "2026-08-07T23:07:00+05:00",
-  "periodStart": "2026-08-01",
-  "periodEnd": "2026-08-07",
-  "periodLabel": "Aug 1 to Aug 7, 2026",
-  "totalArticles": 106,
+  "generatedAt": "2026-08-14T23:07:36+05:00",
+  "periodStart": "2026-08-08",
+  "periodEnd": "2026-08-14",
+  "periodLabel": "Aug 8 to Aug 14, 2026",
+  "totalArticles": 153,
   "stats": {
-    "economic": { "positive": 13, "neutral": 87, "negative": 6 },
-    "political": { "positive": 16, "neutral": 67, "negative": 23 },
-    "social": { "positive": 14, "neutral": 58, "negative": 34 }
+    "economic": { "positive": 21, "neutral": 113, "negative": 19 },
+    "political": { "positive": 26, "neutral": 87, "negative": 40 },
+    "social": { "positive": 29, "neutral": 71, "negative": 53 }
   },
   "summary": [
-    "Social coverage carried the week's heaviest negative weight: 32% of the 106 social-tagged articles landed negative, well above political (22%) and far above economic (6%). That gap traces to a run of hard-safety stories rather than diffuse gloom: the Sorange coalfield explosion near Quetta that killed all 34 trapped miners, the suicide bombing at Kabal police station in Swat that killed at least 14 (later revised to 17) and drew a UN Security Council condemnation, and a Lahore case in which a police officer was accused of raping a woman inside a station, prompting the suspension of over 70 staff. These are discrete, verifiable incidents, not editorializing, which is why they pulled the social read down sharply.",
-    "Political sentiment was the second-most negative category, driven largely by Azad Jammu and Kashmir's second-phase elections, which recurred as a story almost daily this week. PPP repeatedly alleged rigging, ballot stuffing, and coercion, including a disputed party worker's death that PML-N attributed to natural causes; PML-N ultimately took a commanding lead in the results. A separate thread of intra-government friction ran alongside it, Interior Minister Mohsin Naqvi's call for a governance \"reset\" and new provinces drew public pushback from Defence Minister Khawaja Asif and PPP's Raza Rabbani, while a stalled presidential sign-off on judicial appointments kept surfacing as a constitutional friction point through the week.",
-    "Economic sentiment stayed comparatively mild, only 6% negative across the week, and the one clearly market-relevant flagged story sat outside Pakistan entirely: President Trump's warning that Iran must reopen the Strait of Hormuz or face being \"hit very hard,\" flagged for high market relevance given the route's importance to global oil flows and, by extension, import-dependent economies like Pakistan's. Domestically, the coal mine explosion was the week's clearest economic-and-social overlap, a fatal loss of workforce and disrupted output at a local level, but it didn't push the broader economic tally into negative territory the way the AJK disputes and security incidents did for political and social readings.",
-    "Despite how politically charged the week was, coverage stayed largely balanced: of the flagged stories reviewed, all but one carried a \"balanced\" lean, reporting rigging allegations, ministerial disputes, and protest claims alongside on-record rebuttals from the other side. The one exception, a piece on PTI's call for a fresh vote of confidence, leaned pro-opposition, and the AI's own confidence note flagged why: it was working from a one-sided RSS excerpt rather than the full article. Confidence readings dipped lowest on the AJK election-violence claims themselves, gunfire and ballot-stuffing allegations that the Election Commission and PML-N both disputed as unverified, which is the kind of contested claim worth reading with real caution rather than as settled fact."
+    "Across the 153 articles tracked this week, sentiment split unevenly by category: economic coverage stayed overwhelmingly neutral to positive, with only about 12% of readings negative, while political sentiment ran negative in roughly a quarter of coverage and social sentiment was negative in over a third, the highest share of the three. That gap makes sense given what filled the social and political columns this week: violence and its aftermath rather than economic distress. A gas pipeline bombing cut supply to four Balochistan cities, gunmen attacked the Balochistan home minister's own convoy in Mastung, two tribal elders were shot dead in South Waziristan, and a police constable was killed in Lakki Marwat, all of which register as direct threats to public safety rather than economic setbacks.",
+    "The political negativity this week came from several distinct threads rather than one crisis. Azad Kashmir's third-phase elections drew repeated rigging allegations from the PPP, including claims of ballot stamping, forcibly removed polling agents, and armed men firing at one polling station, serious enough that the Election Commission relieved several presiding officers and ordered re-polling at 23 stations. Separately, PTI confirmed its full leadership and allied groups are backing a September 27 long march on Islamabad that organizers say could draw as many as two million people, pressing for access to imprisoned founder Imran Khan. And a slower-burning institutional standoff continued over judges' appointments, with the Islamabad High Court publicly pressing the president and prime minister over a missed constitutional deadline. None of these alone is a single dramatic event, but together they describe a government facing pressure from the courts, the opposition, and its own electoral process at the same time.",
+    "If the week had a dominant storyline, it was Balochistan and the broader security picture in the northwest. A UN Security Council monitoring report attributed deadlier cross-border TTP attacks to continued backing from the Afghan Taliban, and that finding sits alongside a fourth pipeline bombing since March, the attack on the home minister's convoy, and multiple state-media announcements of security forces killing militants in intelligence-based operations. Read together, the pattern is one of persistent, unresolved insurgency rather than isolated incidents. Worth flagging: most of this cluster relied on official, security-source, or state-media attribution rather than independent verification, and Miqyas's own confidence ratings on these stories mostly sat at 'medium,' with a couple rated 'low' where coverage was limited to short wire excerpts.",
+    "On balance and framing, coverage stayed even-handed even on the more charged stories: reporting on the PTI march, the AJK rigging disputes, and the ongoing Pakistan-Afghan Taliban war of words over weapons smuggling all presented competing claims from both sides rather than adopting one side's framing, consistent with how the site treats contested claims generally. Confidence ratings clustered around 'medium' across the week's flagged stories, reflecting reliance on single-outlet reporting even where named officials were quoted on the record; a handful of AJK-related items from August 8 and 9 were rated 'low confidence' specifically because they were based only on short RSS excerpts rather than full articles."
   ],
   "notableStories": [
     {
-      "headline": "Quetta coal mine explosion: Search and rescue operation concludes as last two bodies recovered",
-      "context": "A methane explosion and mine collapse at the Sorange coalfield killed all 34 trapped miners, most of them teenagers and young men from Shangla district, marking one of the week's deadliest single incidents and a stark example of recurring mine-safety failures.",
+      "headline": "Second autopsy reveals signs of torture, bullet wound in Mir Raza's body: report",
+      "context": "A second, independently ordered post-mortem contradicted the police's initial suicide finding, revealing a rear-entry gunshot wound and signs of torture, prompting Sindh's government to form a judicial commission to investigate the businessman's death.",
       "sourceName": "Dawn News",
-      "sourceUrl": "https://www.dawn.com/news/2020918/quetta-coal-mine-explosion-search-and-rescue-operation-concludes-as-last-two-bodies-recovered"
+      "sourceUrl": "https://www.dawn.com/news/2021482/mir-raza-ali-case-family-lawyer-allege-25-year-old-was-murdered-after-torture"
     },
     {
-      "headline": "Suicide bombing at Swat police station kills 14, injures over 25",
-      "context": "A suicide bomber detonated explosives at Kabal police station's gate during a nearby anti-terrorism protest; the attack, later condemned by the UN Security Council, was the week's most significant security incident and a driver of the sharply negative social and political readings.",
+      "headline": "3rd phase of AJK polls: PPP continues to allege rigging as voting under way in Poonch Division's Bagh, Haveli",
+      "context": "PPP alleged ballot stamping, forcibly removed polling agents, and armed men firing at a polling station during Azad Kashmir's third-phase elections, prompting the Election Commission to relieve some presiding officers and order re-polling at 23 stations.",
       "sourceName": "Dawn News",
-      "sourceUrl": "https://www.dawn.com/news/2020154/at-least-14-people-including-police-officials-martyred-in-suicide-attack-on-kabal-police-station-in-swat-police"
+      "sourceUrl": "https://www.dawn.com/news/2021864/3rd-phase-of-ajk-polls-ppp-continues-to-allege-rigging-as-voting-under-way-in-poonch-divisions-bagh-haveli"
     },
     {
-      "headline": "Trump warns Iran to open Strait of Hormuz or get 'hit very hard'",
-      "context": "Trump threatened Iran over continued shipping attacks in the Strait of Hormuz, a key global oil corridor; flagged for high market relevance since disruption there would raise oil prices for import-dependent economies including Pakistan's.",
+      "headline": "PTI leadership, TTAP on board for September 27 long march to Islamabad: Sohail Afridi",
+      "context": "PTI confirmed its full leadership and allied groups back a September 27 long march on Islamabad, which organizers say could draw as many as two million people, to press for access to imprisoned founder Imran Khan.",
       "sourceName": "Dawn News",
-      "sourceUrl": "https://www.dawn.com/news/2020745/trump-warns-iran-to-open-strait-of-hormuz-or-get-hit-very-hard"
+      "sourceUrl": "https://www.dawn.com/news/2021943/pti-leadership-ttap-on-board-for-september-27-long-march-to-islamabad-sohail-afridi"
     },
     {
-      "headline": "Second phase of AJK polls concludes amid renewed rigging allegations by PPP",
-      "context": "PPP accused PML-N of stealing votes \"through bullets, batons and coercion\" and cited a disputed party worker's death, while PML-N attributed the death to natural causes; this dispute recurred across multiple days and was the week's dominant political storyline.",
+      "headline": "Houthi attacks kill 11 in Yemen, target Saudi oil refinery",
+      "context": "Houthi missile and drone strikes killed at least 11 people and hit a major Saudi oil refinery, escalating a regional conflict with implications for Red Sea shipping and energy trade that Pakistan has a stake in.",
       "sourceName": "Dawn News",
-      "sourceUrl": "https://www.dawn.com/news/2020095/second-phase-of-ajk-polls-concludes-amid-renewed-rigging-allegations-by-ppp"
+      "sourceUrl": "https://www.dawn.com/news/2021681/houthi-attacks-kill-11-in-yemen-target-saudi-oil-refinery"
     },
     {
-      "headline": "Cop allegedly rapes woman inside Lahore police station; entire staff suspended",
-      "context": "An assistant sub-inspector allegedly raped a mentally impaired woman inside a Lahore police station, prompting the suspension of the entire station staff of over 70 personnel, a case that speaks directly to the week's weak spot in institutional trust and public safety.",
+      "headline": "Taliban support fuels deadlier TTP attacks in Pakistan: UN",
+      "context": "A UN Security Council monitoring report found continued Afghan Taliban backing is fueling deadlier cross-border TTP attacks in Pakistan, an official thread tying together the week's cluster of violence in Balochistan and KP.",
       "sourceName": "Dawn News",
-      "sourceUrl": "https://www.dawn.com/news/2020559/cop-allegedly-rapes-woman-inside-lahore-police-station-entire-staff-suspended"
+      "sourceUrl": "https://www.dawn.com/news/2022505/taliban-support-fuels-deadlier-ttp-attacks-in-pakistan-un"
     }
   ]
 }
