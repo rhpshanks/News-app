@@ -1,0 +1,139 @@
+{
+  "generatedAt": "2026-08-15T01:32:59+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "2 suspects in fatal attacks on Lahore cops killed in Muridke fire exchange, say police",
+      "summary": "AI summary: Police killed two suspects wanted for fatal attacks on Lahore police officers a day earlier, during a shootout in Muridke that police say was sparked when the men took a family hostage; officials believe the attacks were revenge-driven, and a third suspect reportedly fled to Azad Kashmir.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2022832/2-suspects-in-fatal-attacks-on-lahore-cops-killed-in-muridke-fire-exchange-say-police" }
+      ],
+      "timestamp": "Aug 14, 11:17 PM",
+      "publishedAt": "2026-08-14T23:17:20+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A localized law enforcement incident with no direct bearing on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "A police operation against wanted suspects; doesn't materially shift institutional or governance stability." },
+        "social": { "value": "negative", "reason": "Multiple police officer deaths and a violent revenge-driven shootout in a populated area raise public safety concerns." },
+        "market": { "value": "low", "reason": "No direct relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Claims are attributed to police officials rather than asserted as independent fact, without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single-source (Dawn) full-article account with named officials and specific details." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Petroleum dealers postpone planned strike as govt approves margin revision",
+      "summary": "AI summary: The government's Economic Coordination Committee approved a Rs1.34-per-litre increase in petroleum dealers' margins, the first rise in three years, prompting the Pakistan Petroleum Dealers' Association to call off a strike planned for Independence Day, while warning it could resume protests if its remaining demands aren't met.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2022816/petroleum-dealers-postpone-planned-strike-as-govt-approves-margin-revision" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434845/ecc-approves-revision-in-dealers-margins-on-petrol-diesel" }
+      ],
+      "timestamp": "Aug 14, 10:59 PM",
+      "publishedAt": "2026-08-14T22:59:17+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Averts a threatened nationwide fuel-dealer strike and resolves a three-year-old margin grievance, avoiding disruption to fuel supply." },
+        "political": { "value": "neutral", "reason": "A routine ECC policy response to dealer pressure, without notable impact on institutional stability." },
+        "social": { "value": "positive", "reason": "Prevents a nationwide fuel shortage from a dealers' strike, avoiding disruption to transport and daily life." },
+        "market": { "value": "medium", "reason": "Directly affects fuel pricing mechanisms and dealer margins, relevant to the energy sector and investors." },
+        "lean": { "value": "balanced", "reason": "Both sources report facts and quotes from dealers and government without evident favoritism." },
+        "confidence": { "value": "high", "reason": "Corroborated by two independent outlets with matching figures on the margin increase and its cause." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "PM Shehbaz briefs President Zardari on Pak-Saudi-Turkiye defence pact",
+      "summary": "AI summary: Prime Minister Shehbaz Sharif briefed President Asif Ali Zardari on the tripartite Pakistan-Saudi Arabia-Turkiye defence pact signed August 7, under which an attack on one signatory is treated as an attack on all, with Zardari backing its implementation and Turkiye's foreign minister suggesting Egypt could join at a later stage.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2022808/pm-shehbaz-briefs-president-zardari-on-pak-saudi-turkiye-defence-pact" }
+      ],
+      "timestamp": "Aug 14, 7:42 PM",
+      "publishedAt": "2026-08-14T19:42:23+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic and defence briefing with no direct near-term economic effect." },
+        "political": { "value": "positive", "reason": "Reinforces a regional defence alliance with presidential backing, suggesting institutional alignment on security policy." },
+        "social": { "value": "neutral", "reason": "No immediate effect on daily public life or safety." },
+        "market": { "value": "low", "reason": "Limited direct relevance to investors or everyday business decisions." },
+        "lean": { "value": "balanced", "reason": "A straightforward account of a government briefing without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single-source (Dawn) account, though detailed and citing official statements." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "World leaders extend greetings to Pakistan on Independence Day, hail bilateral ties",
+      "summary": "AI summary: Numerous world leaders, including from Saudi Arabia, Iran, the US, Turkiye, Russia and China, sent congratulatory messages to Pakistan marking its 79th Independence Day, with several highlighting deepening bilateral and defence cooperation.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2022800/world-leaders-extend-greetings-to-pakistan-on-independence-day-hail-bilateral-ties" }
+      ],
+      "timestamp": "Aug 14, 7:13 PM",
+      "publishedAt": "2026-08-14T19:13:05+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Ceremonial diplomatic messages with no direct economic impact." },
+        "political": { "value": "positive", "reason": "Widespread international recognition signals diplomatic goodwill and stable external relations." },
+        "social": { "value": "neutral", "reason": "A ceremonial diplomatic story without direct bearing on daily public life." },
+        "market": { "value": "low", "reason": "Not relevant to investor or business decisions." },
+        "lean": { "value": "balanced", "reason": "A neutral compilation of greetings from many countries without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single-source (Dawn) compilation, though it cites many corroborating official statements." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Pakistan, Norway agree to enhance cooperation in curbing illegal immigration, counterterrorism",
+      "summary": "AI summary: Pakistan and Norway agreed to deepen cooperation on curbing illegal immigration and counterterrorism, with Pakistan's interior minister citing a 47% drop in illegal immigration to Europe and both sides discussing police training and legal assistance.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434829/pakistan-norway-agree-to-enhance-cooperation-in-curbing-illegal-immigration-counterterrorism" }
+      ],
+      "timestamp": "Aug 14, 5:20 PM",
+      "publishedAt": "2026-08-14T17:20:18+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Bilateral security and immigration cooperation with no direct economic dimension noted in the excerpt." },
+        "political": { "value": "positive", "reason": "Strengthens bilateral diplomatic and security ties with a European partner." },
+        "social": { "value": "neutral", "reason": "Limited direct effect on daily public life in Pakistan." },
+        "market": { "value": "low", "reason": "Not relevant to investors or business activity." },
+        "lean": { "value": "balanced", "reason": "Based on official statements from Pakistan's interior minister; a short excerpt limits full framing assessment." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt, as the Business Recorder article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Ishaq Dar discusses regional developments, bilateral ties with UK, US envoys",
+      "summary": "AI summary: Pakistan's Deputy PM and Foreign Minister Ishaq Dar held separate meetings with the UK and US diplomatic envoys to discuss bilateral cooperation and regional developments, stressing that the Islamabad Memorandum of Understanding should be implemented in full by all parties.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434825/ishaq-dar-discusses-regional-developments-bilateral-ties-with-uk-us-envoys" }
+      ],
+      "timestamp": "Aug 14, 4:48 PM",
+      "publishedAt": "2026-08-14T16:48:44+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Diplomatic meetings with no direct economic content noted in the excerpt." },
+        "political": { "value": "neutral", "reason": "Routine diplomatic engagement; the excerpt doesn't indicate a shift in institutional stability." },
+        "social": { "value": "neutral", "reason": "No direct bearing on daily public life." },
+        "market": { "value": "low", "reason": "Not relevant to investor or business decisions." },
+        "lean": { "value": "balanced", "reason": "Reports official statements from diplomatic meetings without evident partisan framing." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt, as the Business Recorder article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Independence Day today",
+      "summary": "AI summary: Pakistan marked its 79th Independence Day with gun salutes, flag-hoisting ceremonies, special prayers and cultural events including a concert in Punjab, with officials emphasizing patriotism and collective responsibility for national security.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434745/independence-day-today" }
+      ],
+      "timestamp": "Aug 14, 5:48 AM",
+      "publishedAt": "2026-08-14T05:48:40+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A national holiday and ceremonial celebration with no notable direct economic impact." },
+        "political": { "value": "neutral", "reason": "A standard annual national day observance without institutional stability implications." },
+        "social": { "value": "positive", "reason": "A unifying national celebration with cultural events likely to boost public morale and community engagement." },
+        "market": { "value": "low", "reason": "Not relevant to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Ceremonial coverage of a national holiday without partisan framing; based on a short excerpt." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt, as the Business Recorder article page returned a 403 error." }
+      }
+    }
+  ]
+}
