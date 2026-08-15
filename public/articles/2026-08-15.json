@@ -1,8 +1,142 @@
 {
-  "generatedAt": "2026-08-15T01:32:59+05:00",
+  "generatedAt": "2026-08-15T11:01:00+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "Powerful quake off Indonesia kills 20, sparks mass evacuations",
+      "summary": "AI summary: A 7.7-magnitude earthquake struck off Indonesia's Flores island, killing at least 20 people across four towns, injuring six and leaving two buried under rubble, while thousands evacuated to higher ground after a tsunami warning that was later lifted.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2023007/powerful-quake-off-indonesia-kills-20-sparks-mass-evacuations" }
+      ],
+      "timestamp": "Aug 15, 10:16 AM",
+      "publishedAt": "2026-08-15T10:16:08+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Deaths, damage and mass evacuations from the quake are likely to disrupt local economic activity in the affected Indonesian region." },
+        "political": { "value": "neutral", "reason": "A natural disaster in Indonesia with no bearing on Pakistan's or any other country's governance stability." },
+        "social": { "value": "negative", "reason": "Multiple deaths, injuries and mass evacuations directly harm public safety and wellbeing in the affected region." },
+        "market": { "value": "low", "reason": "Limited direct relevance to Pakistani investors or markets, being a localized disaster in Indonesia." },
+        "lean": { "value": "balanced", "reason": "Straightforward disaster reporting with quotes from officials and residents, no political framing." },
+        "confidence": { "value": "medium", "reason": "Single-source (Dawn) account, though detailed with specific casualty figures, official quotes and named sources." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Balloting underway at 23 polling stations in 2 constituencies of AJK's Bagh district",
+      "summary": "AI summary: Voting took place at 23 polling stations across two Bagh district constituencies in the third phase of Azad Jammu and Kashmir's elections, with results held back pending repolling at some stations after incomplete voting, and candidates in earlier phases alleging widespread rigging.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2023001/balloting-underway-at-23-polling-stations-in-2-constituencies-of-ajks-bagh-district" }
+      ],
+      "timestamp": "Aug 15, 8:41 AM",
+      "publishedAt": "2026-08-15T08:41:07+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A regional election process with no direct near-term economic effect." },
+        "political": { "value": "negative", "reason": "Rigging allegations across constituencies and withheld results pending repolling raise concerns about the credibility of the ongoing AJK election process." },
+        "social": { "value": "neutral", "reason": "An electoral process story without reported violence or direct effect on daily public life." },
+        "market": { "value": "low", "reason": "Not relevant to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Reports vote tallies for multiple parties (PPP, PML-N, JI) and the Chief Election Commissioner's statement without favoring one side." },
+        "confidence": { "value": "medium", "reason": "Single-source (Dawn) account, though detailed with specific vote tallies and named officials." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "New administrative units 'under serious consideration'",
+      "summary": "AI summary: Pakistan's government is seriously weighing the creation of new provinces or administrative units ahead of a proposed 28th Constitutional Amendment, with options including splitting Punjab, Balochistan and Khyber Pakhtunkhwa and carving out federally controlled territories from Sindh, though most political parties currently oppose the idea.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2022951/new-administrative-units-under-serious-consideration" }
+      ],
+      "timestamp": "Aug 15, 7:33 AM",
+      "publishedAt": "2026-08-15T07:33:50+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "An early-stage constitutional restructuring proposal with no direct near-term economic effect." },
+        "political": { "value": "negative", "reason": "A major proposal to redraw provincial boundaries faces opposition from most political parties, introducing uncertainty around a historically contentious issue." },
+        "social": { "value": "neutral", "reason": "Too early-stage to have a direct effect on daily public life." },
+        "market": { "value": "low", "reason": "Limited near-term relevance to investors given the proposal's early stage and lack of timeline." },
+        "lean": { "value": "balanced", "reason": "Presents both proponents (interior minister, Supreme Court Bar Association) and cautionary voices (Pakistan Bar Council) without favoring the government's position." },
+        "confidence": { "value": "medium", "reason": "Single-source (Dawn) account, though detailed and citing named officials and institutions." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "PM briefs President about Makkah Accord",
+      "summary": "AI summary: President Zardari commended Prime Minister Shehbaz Sharif and the military leadership for strengthening strategic ties between Saudi Arabia, Turkiye and Pakistan through the Makkah Accord, with the two also discussing counterterrorism operations and the president stressing the need for economic relief measures for citizens.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434929/pm-briefs-president-about-makkah-accord" }
+      ],
+      "timestamp": "Aug 15, 6:48 AM",
+      "publishedAt": "2026-08-15T06:48:03+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "The president called for economic relief measures, but the excerpt describes aspiration rather than a concrete economic action." },
+        "political": { "value": "positive", "reason": "Reflects continued high-level alignment between the president, prime minister and military leadership on a strategic regional defence partnership." },
+        "social": { "value": "neutral", "reason": "No direct near-term effect on daily public life." },
+        "market": { "value": "low", "reason": "Not directly relevant to investors or business decisions based on the excerpt." },
+        "lean": { "value": "balanced", "reason": "Reports the president's commendation and priorities without partisan framing." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt, as the Business Recorder article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Chinese, US, UK envoys meet Dar",
+      "summary": "AI summary: Ambassadors from China, the United States and Britain separately met Pakistan's Deputy PM and Foreign Minister Ishaq Dar to extend Independence Day greetings and discuss regional matters, with China's envoy offering condolences over a mountaineer's death on Broad Peak and talks touching on the Islamabad memorandum concerning US-Iran tensions.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434930/chinese-us-uk-envoys-meet-dar" }
+      ],
+      "timestamp": "Aug 15, 6:46 AM",
+      "publishedAt": "2026-08-15T06:46:54+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Diplomatic courtesy meetings with no direct economic content noted in the excerpt." },
+        "political": { "value": "neutral", "reason": "Routine diplomatic engagement around Independence Day greetings; doesn't indicate a shift in institutional stability." },
+        "social": { "value": "neutral", "reason": "No direct bearing on daily public life." },
+        "market": { "value": "low", "reason": "Not relevant to investor or business decisions." },
+        "lean": { "value": "balanced", "reason": "Reports official meetings and statements from multiple envoys without evident partisan framing." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt, as the Business Recorder article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Presidency announces 355 civil awards on Independence Day",
+      "summary": "AI summary: President Asif Ali Zardari approved 355 civil awards for Independence Day honouring achievements in science, education, medicine and public service, alongside separate military honours for army, navy and air force personnel including 23 Hilal-i-Imtiaz and 112 Sitara-i-Imtiaz awards, plus gallantry decorations recognising security personnel killed in service.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2022933/presidency-announces-355-civil-awards-on-independence-day" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434919/pakistan-army-navy-and-air-force-president-grants-military-awards-to-officers-and-soldiers" }
+      ],
+      "timestamp": "Aug 15, 6:05 AM",
+      "publishedAt": "2026-08-15T06:05:48+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A ceremonial honours announcement with no direct economic effect." },
+        "political": { "value": "neutral", "reason": "A routine annual honours announcement recognising civil and military achievement, reflecting standard institutional functioning rather than any shift in stability." },
+        "social": { "value": "positive", "reason": "Public recognition of civil and military service, including gallantry awards to personnel killed in the line of duty, is likely to boost public morale and honour sacrifice." },
+        "market": { "value": "low", "reason": "Not relevant to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Factual coverage of official award announcements without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Two independent outlets cover the same Independence Day honours announcement, though the specific award figures cited by each don't fully reconcile from the available excerpts." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Services Chiefs reiterate resolve to defend motherland",
+      "summary": "AI summary: Pakistan's military service chiefs extended Independence Day greetings on behalf of the armed forces, paying tribute to the nation's founders and martyrs while reaffirming their commitment to defending the country's sovereignty and territorial integrity and upholding constitutional principles.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434935/services-chiefs-reiterate-resolve-to-defend-motherland" }
+      ],
+      "timestamp": "Aug 15, 5:03 AM",
+      "publishedAt": "2026-08-15T05:03:12+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A ceremonial greeting with no economic content." },
+        "political": { "value": "neutral", "reason": "A routine Independence Day statement from military leadership without a notable shift in institutional stability." },
+        "social": { "value": "positive", "reason": "A patriotic Independence Day message honouring martyrs and founders is likely to boost public morale and national unity." },
+        "market": { "value": "low", "reason": "Not relevant to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "A ceremonial greeting without partisan framing." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt, as the Business Recorder article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 8,
       "headline": "2 suspects in fatal attacks on Lahore cops killed in Muridke fire exchange, say police",
       "summary": "AI summary: Police killed two suspects wanted for fatal attacks on Lahore police officers a day earlier, during a shootout in Muridke that police say was sparked when the men took a family hostage; officials believe the attacks were revenge-driven, and a third suspect reportedly fled to Azad Kashmir.",
       "sources": [
@@ -21,7 +155,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 9,
       "headline": "Petroleum dealers postpone planned strike as govt approves margin revision",
       "summary": "AI summary: The government's Economic Coordination Committee approved a Rs1.34-per-litre increase in petroleum dealers' margins, the first rise in three years, prompting the Pakistan Petroleum Dealers' Association to call off a strike planned for Independence Day, while warning it could resume protests if its remaining demands aren't met.",
       "sources": [
@@ -41,7 +175,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 10,
       "headline": "PM Shehbaz briefs President Zardari on Pak-Saudi-Turkiye defence pact",
       "summary": "AI summary: Prime Minister Shehbaz Sharif briefed President Asif Ali Zardari on the tripartite Pakistan-Saudi Arabia-Turkiye defence pact signed August 7, under which an attack on one signatory is treated as an attack on all, with Zardari backing its implementation and Turkiye's foreign minister suggesting Egypt could join at a later stage.",
       "sources": [
@@ -60,7 +194,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 11,
       "headline": "World leaders extend greetings to Pakistan on Independence Day, hail bilateral ties",
       "summary": "AI summary: Numerous world leaders, including from Saudi Arabia, Iran, the US, Turkiye, Russia and China, sent congratulatory messages to Pakistan marking its 79th Independence Day, with several highlighting deepening bilateral and defence cooperation.",
       "sources": [
@@ -79,7 +213,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 12,
       "headline": "Pakistan, Norway agree to enhance cooperation in curbing illegal immigration, counterterrorism",
       "summary": "AI summary: Pakistan and Norway agreed to deepen cooperation on curbing illegal immigration and counterterrorism, with Pakistan's interior minister citing a 47% drop in illegal immigration to Europe and both sides discussing police training and legal assistance.",
       "sources": [
@@ -98,7 +232,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 13,
       "headline": "Ishaq Dar discusses regional developments, bilateral ties with UK, US envoys",
       "summary": "AI summary: Pakistan's Deputy PM and Foreign Minister Ishaq Dar held separate meetings with the UK and US diplomatic envoys to discuss bilateral cooperation and regional developments, stressing that the Islamabad Memorandum of Understanding should be implemented in full by all parties.",
       "sources": [
@@ -117,7 +251,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 14,
       "headline": "Independence Day today",
       "summary": "AI summary: Pakistan marked its 79th Independence Day with gun salutes, flag-hoisting ceremonies, special prayers and cultural events including a concert in Punjab, with officials emphasizing patriotism and collective responsibility for national security.",
       "sources": [
