@@ -1,8 +1,84 @@
 {
-  "generatedAt": "2026-08-15T11:01:00+05:00",
+  "generatedAt": "2026-08-15T14:21:00+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "Mir Raza Ali's murder: Interim bail of deceased's business partner extended till Aug 24",
+      "summary": "AI summary: A Karachi session court extended the interim pre-arrest bail of Muhammad Ahmed Bhardey, business partner of murdered Mir Raza Ali, until August 24, after his lawyer said police were harassing his client despite cooperation and the court questioned why bail was needed when he hadn't been formally named an accused; the newly appointed investigating officer sought the victim's SIM card to advance the probe.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2023021/mir-raza-alis-murder-interim-bail-of-deceaseds-business-partner-extended-till-aug-24" }
+      ],
+      "timestamp": "Aug 15, 2:02 PM",
+      "publishedAt": "2026-08-15T14:02:17+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A single legal proceeding involving a business partner in a murder case, with no broader economic effect." },
+        "political": { "value": "neutral", "reason": "A routine court hearing; doesn't bear on institutional or governance stability." },
+        "social": { "value": "neutral", "reason": "An ongoing legal process rather than a fresh incident directly affecting public safety today." },
+        "market": { "value": "low", "reason": "Not relevant to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Reports both the defense's harassment claim and the family representative's account of the investigation without favoring either side." },
+        "confidence": { "value": "medium", "reason": "Single-source (Dawn) full-article account with named parties and specific procedural detail." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Field Marshal Asim Munir hosts reception in honour of Pakistan Army veterans",
+      "summary": "AI summary: Army chief Field Marshal Syed Asim Munir hosted an Independence Day reception honouring Pakistan Army veterans, attended by former army chiefs General Raheel Sharif and General Ashfaq Parvez Kayani, with veterans pledging continued support for national unity and stability.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434948/field-marshal-asim-munir-hosts-reception-in-honour-of-pakistan-army-veterans" }
+      ],
+      "timestamp": "Aug 15, 1:41 PM",
+      "publishedAt": "2026-08-15T13:41:06+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A ceremonial military event with no economic content." },
+        "political": { "value": "neutral", "reason": "A routine ceremonial gathering of serving and former military leadership; no notable shift in institutional stability." },
+        "social": { "value": "positive", "reason": "Honouring veterans and their service is likely to boost morale within the veteran community." },
+        "market": { "value": "low", "reason": "Not relevant to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Ceremonial coverage of a military reception without partisan framing." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt, as the Business Recorder article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "President approves military awards for armed forces personnel",
+      "summary": "AI summary: President Asif Ali Zardari approved a fresh round of Independence Day military honours, including 23 Hilal-i-Imtiaz, 112 Sitara-i-Imtiaz, 128 Tamgha-i-Imtiaz, six Tamgha-i-Basalat and 32 Imtiazi Asnad, recognising officers and soldiers across the Army, Navy and Air Force, including several women officers.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434946/president-approves-military-awards-for-armed-forces-personnel" }
+      ],
+      "timestamp": "Aug 15, 12:20 PM",
+      "publishedAt": "2026-08-15T12:20:40+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A ceremonial honours announcement with no direct economic effect." },
+        "political": { "value": "neutral", "reason": "A routine annual honours announcement reflecting standard institutional functioning." },
+        "social": { "value": "positive", "reason": "Public recognition of military service across the forces, including women officers, is likely to boost morale." },
+        "market": { "value": "low", "reason": "Not relevant to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Factual coverage of official award announcements without partisan framing." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt, as the Business Recorder article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "PM Shehbaz directs NDMA to ensure relief for citizens in flood-hit areas",
+      "summary": "AI summary: Prime Minister Shehbaz Sharif directed the National Disaster Management Authority to mobilise all available resources and coordinate with provincial authorities for flood relief, as monsoon rain-related incidents since June 26 have killed 155 people and injured 460, with forecasters warning of possible high flooding in Chenab- and Ravi-linked waterways between August 15 and 21.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2023012/pm-shehbaz-directs-ndma-to-ensure-relief-for-citizens-in-flood-hit-areas" }
+      ],
+      "timestamp": "Aug 15, 12:02 PM",
+      "publishedAt": "2026-08-15T12:02:59+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Weeks of flood damage across KP, Gilgit-Baltistan and AJK, with more high flooding forecast, likely disrupts local economic activity and infrastructure." },
+        "political": { "value": "positive", "reason": "The PM's direct order for NDMA to mobilise resources reflects an active institutional response to the crisis." },
+        "social": { "value": "negative", "reason": "155 deaths and 460 injuries from rain-related incidents since June, with further high flooding forecast, represent significant harm to public safety." },
+        "market": { "value": "low", "reason": "A localized disaster-relief coordination story rather than a broad market-moving economic policy." },
+        "lean": { "value": "balanced", "reason": "Reports the PM's directive and official disaster figures without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single-source (Dawn) account, though detailed with specific casualty figures and named officials." }
+      }
+    },
+    {
+      "id": 5,
       "headline": "Powerful quake off Indonesia kills 20, sparks mass evacuations",
       "summary": "AI summary: A 7.7-magnitude earthquake struck off Indonesia's Flores island, killing at least 20 people across four towns, injuring six and leaving two buried under rubble, while thousands evacuated to higher ground after a tsunami warning that was later lifted.",
       "sources": [
@@ -21,7 +97,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 6,
       "headline": "Balloting underway at 23 polling stations in 2 constituencies of AJK's Bagh district",
       "summary": "AI summary: Voting took place at 23 polling stations across two Bagh district constituencies in the third phase of Azad Jammu and Kashmir's elections, with results held back pending repolling at some stations after incomplete voting, and candidates in earlier phases alleging widespread rigging.",
       "sources": [
@@ -40,7 +116,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 7,
       "headline": "New administrative units 'under serious consideration'",
       "summary": "AI summary: Pakistan's government is seriously weighing the creation of new provinces or administrative units ahead of a proposed 28th Constitutional Amendment, with options including splitting Punjab, Balochistan and Khyber Pakhtunkhwa and carving out federally controlled territories from Sindh, though most political parties currently oppose the idea.",
       "sources": [
@@ -59,7 +135,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 8,
       "headline": "PM briefs President about Makkah Accord",
       "summary": "AI summary: President Zardari commended Prime Minister Shehbaz Sharif and the military leadership for strengthening strategic ties between Saudi Arabia, Turkiye and Pakistan through the Makkah Accord, with the two also discussing counterterrorism operations and the president stressing the need for economic relief measures for citizens.",
       "sources": [
@@ -78,7 +154,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 9,
       "headline": "Chinese, US, UK envoys meet Dar",
       "summary": "AI summary: Ambassadors from China, the United States and Britain separately met Pakistan's Deputy PM and Foreign Minister Ishaq Dar to extend Independence Day greetings and discuss regional matters, with China's envoy offering condolences over a mountaineer's death on Broad Peak and talks touching on the Islamabad memorandum concerning US-Iran tensions.",
       "sources": [
@@ -97,7 +173,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 10,
       "headline": "Presidency announces 355 civil awards on Independence Day",
       "summary": "AI summary: President Asif Ali Zardari approved 355 civil awards for Independence Day honouring achievements in science, education, medicine and public service, alongside separate military honours for army, navy and air force personnel including 23 Hilal-i-Imtiaz and 112 Sitara-i-Imtiaz awards, plus gallantry decorations recognising security personnel killed in service.",
       "sources": [
@@ -117,7 +193,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 11,
       "headline": "Services Chiefs reiterate resolve to defend motherland",
       "summary": "AI summary: Pakistan's military service chiefs extended Independence Day greetings on behalf of the armed forces, paying tribute to the nation's founders and martyrs while reaffirming their commitment to defending the country's sovereignty and territorial integrity and upholding constitutional principles.",
       "sources": [
@@ -136,7 +212,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 12,
       "headline": "2 suspects in fatal attacks on Lahore cops killed in Muridke fire exchange, say police",
       "summary": "AI summary: Police killed two suspects wanted for fatal attacks on Lahore police officers a day earlier, during a shootout in Muridke that police say was sparked when the men took a family hostage; officials believe the attacks were revenge-driven, and a third suspect reportedly fled to Azad Kashmir.",
       "sources": [
@@ -155,7 +231,7 @@
       }
     },
     {
-      "id": 9,
+      "id": 13,
       "headline": "Petroleum dealers postpone planned strike as govt approves margin revision",
       "summary": "AI summary: The government's Economic Coordination Committee approved a Rs1.34-per-litre increase in petroleum dealers' margins, the first rise in three years, prompting the Pakistan Petroleum Dealers' Association to call off a strike planned for Independence Day, while warning it could resume protests if its remaining demands aren't met.",
       "sources": [
@@ -175,7 +251,7 @@
       }
     },
     {
-      "id": 10,
+      "id": 14,
       "headline": "PM Shehbaz briefs President Zardari on Pak-Saudi-Turkiye defence pact",
       "summary": "AI summary: Prime Minister Shehbaz Sharif briefed President Asif Ali Zardari on the tripartite Pakistan-Saudi Arabia-Turkiye defence pact signed August 7, under which an attack on one signatory is treated as an attack on all, with Zardari backing its implementation and Turkiye's foreign minister suggesting Egypt could join at a later stage.",
       "sources": [
@@ -194,7 +270,7 @@
       }
     },
     {
-      "id": 11,
+      "id": 15,
       "headline": "World leaders extend greetings to Pakistan on Independence Day, hail bilateral ties",
       "summary": "AI summary: Numerous world leaders, including from Saudi Arabia, Iran, the US, Turkiye, Russia and China, sent congratulatory messages to Pakistan marking its 79th Independence Day, with several highlighting deepening bilateral and defence cooperation.",
       "sources": [
@@ -213,7 +289,7 @@
       }
     },
     {
-      "id": 12,
+      "id": 16,
       "headline": "Pakistan, Norway agree to enhance cooperation in curbing illegal immigration, counterterrorism",
       "summary": "AI summary: Pakistan and Norway agreed to deepen cooperation on curbing illegal immigration and counterterrorism, with Pakistan's interior minister citing a 47% drop in illegal immigration to Europe and both sides discussing police training and legal assistance.",
       "sources": [
@@ -232,7 +308,7 @@
       }
     },
     {
-      "id": 13,
+      "id": 17,
       "headline": "Ishaq Dar discusses regional developments, bilateral ties with UK, US envoys",
       "summary": "AI summary: Pakistan's Deputy PM and Foreign Minister Ishaq Dar held separate meetings with the UK and US diplomatic envoys to discuss bilateral cooperation and regional developments, stressing that the Islamabad Memorandum of Understanding should be implemented in full by all parties.",
       "sources": [
@@ -251,7 +327,7 @@
       }
     },
     {
-      "id": 14,
+      "id": 18,
       "headline": "Independence Day today",
       "summary": "AI summary: Pakistan marked its 79th Independence Day with gun salutes, flag-hoisting ceremonies, special prayers and cultural events including a concert in Punjab, with officials emphasizing patriotism and collective responsibility for national security.",
       "sources": [
