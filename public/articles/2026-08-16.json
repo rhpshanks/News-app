@@ -1,0 +1,139 @@
+{
+  "generatedAt": "2026-08-16T01:31:45+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Security forces kill 10 terrorists in Khuzdar IBO",
+      "summary": "AI summary: Security forces said they killed 10 militants linked to Fitna al-Hindustan during an intelligence-based operation in Shor Parod, Khuzdar district, and continued searching for fighters who fled the scene after an exchange of gunfire.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434967/security-forces-kill-10-terrorists-in-khuzdar-ibo" }
+      ],
+      "timestamp": "Aug 15, 10:29 PM",
+      "publishedAt": "2026-08-15T22:29:31+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A localized security operation with no direct effect on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "A single counter-militancy operation, without broader context, doesn't clearly shift institutional stability either way." },
+        "social": { "value": "negative", "reason": "Ongoing clashes and ongoing search operations reflect continued insecurity in the area, even though the report frames it as a security success." },
+        "market": { "value": "low", "reason": "A localized security incident with minimal relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "A straightforward relay of a security forces' operational claim, with no partisan framing." },
+        "confidence": { "value": "low", "reason": "Drawn only from the RSS description excerpt (article page returned 403), with casualty figures attributed solely to security sources." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "AJK elections: PPP, PML-N candidates retain lead in Bagh after repolling",
+      "summary": "AI summary: Repolling in two Bagh constituencies of Azad Jammu and Kashmir confirmed the earlier leads, with PPP's Sardar Ziaul Qamar winning LA-15 and PML-N's Sardar Mir Akbar winning LA-16, taking PML-N's overall assembly tally to 25 seats against PPP's 12.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2023001/ajk-elections-ppp-pml-n-candidates-retain-lead-in-bagh-after-repolling" }
+      ],
+      "timestamp": "Aug 15, 9:49 PM",
+      "publishedAt": "2026-08-15T21:49:13+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A routine electoral outcome with no direct economic consequence." },
+        "political": { "value": "neutral", "reason": "Repolling concluded peacefully with reported adequate security, affirming the process functioned, though it followed an earlier vote-counting dispute." },
+        "social": { "value": "neutral", "reason": "A local election result with limited immediate effect on public wellbeing or daily life beyond representation." },
+        "market": { "value": "low", "reason": "A regional assembly election result carries little relevance to markets or investors." },
+        "lean": { "value": "balanced", "reason": "Factual vote-count reporting on both parties' wins without editorializing." },
+        "confidence": { "value": "medium", "reason": "Single-sourced from Dawn, but the detailed, specific vote tallies suggest reliable factual reporting." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Political rivals should not let differences turn into animosity, says Nawaz",
+      "summary": "AI summary: PML-N President Nawaz Sharif urged political rivals not to let disagreements turn into animosity while addressing newly elected AJK lawmakers in Murree, and pledged to seek increased federal funding for AJK roads, hospitals, and agriculture, as PPP raised concerns over the conduct of the AJK elections and Punjab CM Maryam Nawaz pushed back on PPP's rigging allegations.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2023039/political-rivals-should-not-let-differences-turn-into-animosity-says-nawaz" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434958/political-opposition-should-not-be-turned-into-enmity-says-nawaz-sharif" }
+      ],
+      "timestamp": "Aug 15, 8:07 PM",
+      "publishedAt": "2026-08-15T20:07:31+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A pledge to seek more AJK development funding is aspirational rhetoric, not an announced budget commitment." },
+        "political": { "value": "neutral", "reason": "A conciliatory message aimed at easing coalition friction, set against unresolved PPP allegations of rigging in the AJK vote." },
+        "social": { "value": "neutral", "reason": "Promised infrastructure and services for AJK could help residents long-term, but there is no immediate impact yet." },
+        "market": { "value": "low", "reason": "Political rhetoric with no immediate fiscal or regulatory implication for markets." },
+        "lean": { "value": "balanced", "reason": "Coverage includes both Nawaz's conciliatory remarks and Maryam Nawaz's rebuttal of PPP's rigging claims, without settling who is right; government/opposition alignment between coalition partners PML-N and PPP here is not clear-cut." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two independent outlets with matching quotes, but the political framing (which coalition partner is favoured) carries some interpretive uncertainty." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "JI announces countrywide protest against petroleum levy on Sunday",
+      "summary": "AI summary: Jamaat-i-Islami announced countrywide sit-ins for Sunday outside governors' houses and the Punjab chief minister's house demanding the government scrap the petroleum levy, cap petrol at Rs225, and fix flour and bread prices, with JI chief Hafiz Naeemur Rehman warning the campaign could escalate into a movement against the government if authorities interfere.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2023049/ji-announces-countrywide-protest-against-petroleum-levy-on-sunday" }
+      ],
+      "timestamp": "Aug 15, 8:00 PM",
+      "publishedAt": "2026-08-15T20:00:30+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Planned sit-ins outside government buildings, driven by discontent over fuel and food prices, signal pressure that could disrupt business activity." },
+        "political": { "value": "negative", "reason": "JI's explicit warning that the campaign could turn into a movement to 'topple the government' signals rising confrontation and pressure on institutional stability." },
+        "social": { "value": "negative", "reason": "The protest reflects public hardship over fuel and bread prices, and planned sit-ins could disrupt daily life in major cities." },
+        "market": { "value": "medium", "reason": "Fuel levy policy and threatened unrest are directly relevant to businesses and investors." },
+        "lean": { "value": "pro-opposition", "reason": "The report carries only JI's demands and warnings with no government response or rebuttal included." },
+        "confidence": { "value": "medium", "reason": "Single-sourced from Dawn; the one-sided sourcing is typical of a protest-announcement story rather than a sign of deliberate bias." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Rescuers search for survivors as Indonesian 7.7 quake death toll rises to 47",
+      "summary": "AI summary: The death toll from a 7.7-magnitude earthquake that struck off Indonesia's Flores island rose to 47, with nearly 160 homes and dozens of public facilities damaged, hundreds of aftershocks reported, and about 2,000 people moved to temporary shelters as rescue efforts continued.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2023007/rescuers-search-for-survivors-as-indonesian-77-quake-death-toll-rises-to-47" }
+      ],
+      "timestamp": "Aug 15, 7:35 PM",
+      "publishedAt": "2026-08-15T19:35:08+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Widespread damage to homes and public facilities represents a direct economic loss, even though the event is abroad." },
+        "political": { "value": "neutral", "reason": "A foreign natural disaster has no direct bearing on Pakistan's own governance or institutions." },
+        "social": { "value": "negative", "reason": "Deaths, injuries, and displacement represent direct harm to public wellbeing and safety." },
+        "market": { "value": "low", "reason": "A foreign disaster with limited direct relevance to Pakistani markets or investors." },
+        "lean": { "value": "balanced", "reason": "Straightforward disaster reporting with no political framing relevant to Pakistan." },
+        "confidence": { "value": "medium", "reason": "Single-sourced from Dawn, but casualty and damage figures appear to draw on official disaster-response reporting." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Probe team obtains Mir Raza's phone, smartwatch from NCCIA for forensic analysis",
+      "summary": "AI summary: Investigators probing the death of businessman Mir Raza retrieved his phone and smartwatch from cyber crime officials for forensic examination in Lahore, as his business partner secured interim bail and around 35 witnesses have been questioned since Raza went missing from PECHS on July 28 and was later found dead with gunshot wounds outside a Gulistan-e-Johar guesthouse.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434955/probe-team-obtains-mir-razas-phone-smartwatch-from-nccia-for-forensic-analysis" }
+      ],
+      "timestamp": "Aug 15, 4:20 PM",
+      "publishedAt": "2026-08-15T16:20:40+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A criminal investigation into a private individual's death with no economic implication." },
+        "political": { "value": "neutral", "reason": "A criminal probe with no governance or institutional-stability angle." },
+        "social": { "value": "negative", "reason": "A violent, unresolved death under investigation is a direct public safety concern." },
+        "market": { "value": "low", "reason": "No relevance to investors, markets, or business decisions." },
+        "lean": { "value": "balanced", "reason": "Factual crime-investigation reporting with no political framing." },
+        "confidence": { "value": "low", "reason": "Drawn only from the RSS description excerpt (article page returned 403), covering an ongoing, unresolved investigation." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Field Marshal Asim Munir hosts reception in honour of Pakistan Army veterans",
+      "summary": "AI summary: Field Marshal Asim Munir hosted an Independence Day reception honouring retired Pakistan Army personnel, attended by former army chiefs Raheel Sharif and Ashfaq Parvez Kayani, in recognition of veterans' contributions to national defence.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40434948/field-marshal-asim-munir-hosts-reception-in-honour-of-pakistan-army-veterans" }
+      ],
+      "timestamp": "Aug 15, 1:41 PM",
+      "publishedAt": "2026-08-15T13:41:06+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A ceremonial event with no economic impact." },
+        "political": { "value": "neutral", "reason": "A military goodwill event; not a governance-stability-relevant development in the civilian political sense." },
+        "social": { "value": "neutral", "reason": "A ceremonial recognition event with limited direct effect on public daily life." },
+        "market": { "value": "low", "reason": "No relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Descriptive ceremonial coverage with no government/opposition framing." },
+        "confidence": { "value": "low", "reason": "Drawn only from the RSS description excerpt (article page returned 403)." }
+      }
+    }
+  ]
+}
