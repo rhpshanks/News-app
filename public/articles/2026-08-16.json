@@ -1,8 +1,142 @@
 {
-  "generatedAt": "2026-08-16T01:31:45+05:00",
+  "generatedAt": "2026-08-16T14:54:48+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "MQM-P seeks national dialogue on new administrative units",
+      "summary": "AI summary: MQM-P chairman Khalid Maqbool Siddiqui called for a national dialogue with other parties on creating new administrative units, arguing Pakistan's existing provinces were drawn on linguistic rather than legal grounds, while party colleague Mustafa Kamal described the push as administrative rearrangement rather than division; PPP's Qadir Mandokhail pushed back, warning against threats to Sindh's provincial unity.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2023213/mqm-p-says-will-be-approaching-other-parties-to-set-off-grand-national-dialogue-on-new-provinces" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40435065/mqm-p-seeks-national-dialogue-on-new-administrative-units" }
+      ],
+      "timestamp": "Aug 16, 2:36 PM",
+      "publishedAt": "2026-08-16T14:36:54+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A proposal for political dialogue on administrative restructuring carries no direct near-term economic effect." },
+        "political": { "value": "neutral", "reason": "A proposal for provincial reorganization drew pushback from coalition partner PPP over unity concerns, but remains at the dialogue-proposal stage rather than a concrete institutional challenge." },
+        "social": { "value": "neutral", "reason": "A structural political proposal with no immediate effect on daily life or public wellbeing." },
+        "market": { "value": "low", "reason": "Not a market- or business-relevant development at the proposal stage." },
+        "lean": { "value": "balanced", "reason": "Both sources present MQM-P's proposal and PPP's opposing objection without editorializing toward either side; coalition alignment between the two parties is not entirely clear-cut." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two independent outlets with matching quotes and figures, despite some interpretive uncertainty on coalition alignment." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Naqvi comes to CDA chairman, Islamabad IG's defence as they draw flak over carriage video with 'colonial' undertone",
+      "summary": "AI summary: Interior Minister Mohsin Naqvi defended Islamabad's CDA chairman and police IG after a video of them riding a horse carriage at the Independence Day parade drew public criticism for evoking colonial-era optics, saying the pair used the carriage reserved for the chief guest only because the event's start was delayed.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2023214/naqvi-comes-to-cda-chairman-islamabad-igs-defence-as-they-draw-flak-over-carriage-video-with-colonial-undertone" }
+      ],
+      "timestamp": "Aug 16, 1:21 PM",
+      "publishedAt": "2026-08-16T13:21:13+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A viral controversy over official conduct at a ceremonial event has no economic bearing." },
+        "political": { "value": "neutral", "reason": "Criticism of two officials' optics is a reputational matter rather than a threat to institutional stability, and the minister's explanation is included in the report." },
+        "social": { "value": "neutral", "reason": "A symbolic controversy over bureaucratic conduct with no direct effect on public safety or daily life, though it touched public sentiment about elite privilege." },
+        "market": { "value": "low", "reason": "No relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "The piece presents both the critics' objections and the minister's defence and rationale without favoring either side." },
+        "confidence": { "value": "medium", "reason": "Single-sourced from Dawn, but the account cites specific named critics and a direct quote from the minister, suggesting reliable reporting." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Security forces kill 7 terrorists in IBO in Balochistan's Kharan: state media",
+      "summary": "AI summary: State media reported security forces killed seven militants and recovered weapons and vehicles during an intelligence-based operation in Kharan district, Balochistan, under Operation Radd-ul-Fitna 3, as President Zardari and the interior ministry hailed the raid, while a recent report showed a sharp rise in Balochistan violence.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2023216/security-forces-kill-7-terrorists-in-ibo-in-balochistans-kharan-state-media" }
+      ],
+      "timestamp": "Aug 16, 1:15 PM",
+      "publishedAt": "2026-08-16T13:15:48+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A localized security operation with no direct effect on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "A government-touted counter-militancy success, but standing alone doesn't clearly shift institutional stability either way." },
+        "social": { "value": "negative", "reason": "The operation follows a reported 241% month-on-month rise in Balochistan deaths, reflecting ongoing regional insecurity even though this specific raid is framed as a security success." },
+        "market": { "value": "low", "reason": "A localized security incident with minimal relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "A relay of state-media and security/government claims without partisan political framing, though the casualty account is not independently verified." },
+        "confidence": { "value": "medium", "reason": "Full article obtained with named officials and specific details, but casualty figures are attributed solely to state media and government sources rather than independently verified." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "'It's time to deliver like Punjab': Nawaz underscores need for merit-based AJK cabinet",
+      "summary": "AI summary: PML-N President Nawaz Sharif said Azad Jammu and Kashmir's new cabinet should be formed on merit and stressed the need to deliver results in AJK the way Punjab has, in remarks reported following the AJK elections.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40435040/its-time-to-deliver-like-punjab-nawaz-underscores-need-for-merit-based-ajk-cabinet" }
+      ],
+      "timestamp": "Aug 16, 10:39 AM",
+      "publishedAt": "2026-08-16T10:39:22+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A call for merit-based governance in AJK carries no direct, immediate economic effect." },
+        "political": { "value": "neutral", "reason": "Guidance to his own party's incoming AJK cabinet is routine post-election political direction, not an institutional-stability signal." },
+        "social": { "value": "neutral", "reason": "No direct, immediate effect on public wellbeing is described." },
+        "market": { "value": "low", "reason": "No relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "A party leader's guidance to his own incoming provincial cabinet, not framed adversarially toward any rival." },
+        "confidence": { "value": "low", "reason": "Article page returned 403; based only on the headline and an RSS description excerpt that appears to reflect a related but distinct remark from the same speech, so the specific cabinet claim is not independently confirmed in detail." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Work on $2.5bn ML-1 to begin in January",
+      "summary": "AI summary: Railways Minister Hanif Abbasi said civil work on the first, $2.5 billion phase of the ML-1 railway upgrade covering the 480km Karachi-Rohri corridor is expected to start in January 2027, with financing led by the Asian Development Bank and possible co-financing from other multilateral lenders.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2023146/work-on-25bn-ml-1-to-begin-in-january" }
+      ],
+      "timestamp": "Aug 16, 8:25 AM",
+      "publishedAt": "2026-08-16T08:25:53+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "A large infrastructure investment in freight and passenger rail capacity, backed by a concrete multilateral financing plan and timeline, signals economic development activity." },
+        "political": { "value": "neutral", "reason": "A government infrastructure timeline announcement without notable institutional-stability implications." },
+        "social": { "value": "neutral", "reason": "Any benefit to public mobility is years away, pending a 2.5-3 year construction period, so there is no immediate effect on daily life." },
+        "market": { "value": "medium", "reason": "A multi-billion-dollar infrastructure project with multilateral financing is relevant to investors and businesses in construction, logistics, and lending sectors." },
+        "lean": { "value": "balanced", "reason": "Straightforward reporting of a government minister's infrastructure timeline announcement, without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single-sourced from Dawn, but includes specific figures, named officials, and financing details suggesting reliable reporting." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Sindh govt to develop livestock sector: Malkani",
+      "summary": "AI summary: Sindh's livestock and fisheries minister Muhammad Ali Malkani chaired a Board of Management meeting of the Sindh Livestock Registration and Trade Authority in Karachi, where officials discussed plans to develop the province's livestock sector.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40435046/sindh-govt-to-develop-livestock-sector-malkani" }
+      ],
+      "timestamp": "Aug 16, 2:24 AM",
+      "publishedAt": "2026-08-16T02:24:01+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A routine provincial board meeting on livestock sector development, with no concrete policy or spending details available to gauge economic impact." },
+        "political": { "value": "neutral", "reason": "A routine provincial governance meeting with no institutional-stability implications." },
+        "social": { "value": "neutral", "reason": "No direct, immediate impact on public wellbeing is described." },
+        "market": { "value": "low", "reason": "A routine provincial-level administrative meeting with limited relevance to broader investors or markets." },
+        "lean": { "value": "balanced", "reason": "Purely factual, procedural reporting of a government meeting with no partisan framing." },
+        "confidence": { "value": "low", "reason": "Drawn only from a brief RSS description excerpt (article page returned 403), with no substantive detail on outcomes or decisions." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "PFA discards rotten, expired meat",
+      "summary": "AI summary: The Punjab Food Authority raided an illegal slaughterhouse in Saggian and seized 700kg of rotten, expired meat destined for sale.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40435024/pfa-discards-rotten-expired-meat" }
+      ],
+      "timestamp": "Aug 16, 2:24 AM",
+      "publishedAt": "2026-08-16T02:24:01+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A routine food-safety enforcement action with no broad economic effect." },
+        "political": { "value": "neutral", "reason": "A regulatory enforcement action by a provincial food authority, unrelated to institutional stability." },
+        "social": { "value": "positive", "reason": "Removing rotten, expired meat from the food supply chain protects public health and safety." },
+        "market": { "value": "low", "reason": "A localized food-safety enforcement action with limited relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Factual enforcement reporting with no political framing." },
+        "confidence": { "value": "low", "reason": "Drawn only from the RSS description excerpt (article page returned 403), with details limited to the seizure itself." }
+      }
+    },
+    {
+      "id": 8,
       "headline": "Security forces kill 10 terrorists in Khuzdar IBO",
       "summary": "AI summary: Security forces said they killed 10 militants linked to Fitna al-Hindustan during an intelligence-based operation in Shor Parod, Khuzdar district, and continued searching for fighters who fled the scene after an exchange of gunfire.",
       "sources": [
@@ -21,7 +155,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 9,
       "headline": "AJK elections: PPP, PML-N candidates retain lead in Bagh after repolling",
       "summary": "AI summary: Repolling in two Bagh constituencies of Azad Jammu and Kashmir confirmed the earlier leads, with PPP's Sardar Ziaul Qamar winning LA-15 and PML-N's Sardar Mir Akbar winning LA-16, taking PML-N's overall assembly tally to 25 seats against PPP's 12.",
       "sources": [
@@ -40,7 +174,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 10,
       "headline": "Political rivals should not let differences turn into animosity, says Nawaz",
       "summary": "AI summary: PML-N President Nawaz Sharif urged political rivals not to let disagreements turn into animosity while addressing newly elected AJK lawmakers in Murree, and pledged to seek increased federal funding for AJK roads, hospitals, and agriculture, as PPP raised concerns over the conduct of the AJK elections and Punjab CM Maryam Nawaz pushed back on PPP's rigging allegations.",
       "sources": [
@@ -60,7 +194,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 11,
       "headline": "JI announces countrywide protest against petroleum levy on Sunday",
       "summary": "AI summary: Jamaat-i-Islami announced countrywide sit-ins for Sunday outside governors' houses and the Punjab chief minister's house demanding the government scrap the petroleum levy, cap petrol at Rs225, and fix flour and bread prices, with JI chief Hafiz Naeemur Rehman warning the campaign could escalate into a movement against the government if authorities interfere.",
       "sources": [
@@ -79,7 +213,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 12,
       "headline": "Rescuers search for survivors as Indonesian 7.7 quake death toll rises to 47",
       "summary": "AI summary: The death toll from a 7.7-magnitude earthquake that struck off Indonesia's Flores island rose to 47, with nearly 160 homes and dozens of public facilities damaged, hundreds of aftershocks reported, and about 2,000 people moved to temporary shelters as rescue efforts continued.",
       "sources": [
@@ -98,7 +232,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 13,
       "headline": "Probe team obtains Mir Raza's phone, smartwatch from NCCIA for forensic analysis",
       "summary": "AI summary: Investigators probing the death of businessman Mir Raza retrieved his phone and smartwatch from cyber crime officials for forensic examination in Lahore, as his business partner secured interim bail and around 35 witnesses have been questioned since Raza went missing from PECHS on July 28 and was later found dead with gunshot wounds outside a Gulistan-e-Johar guesthouse.",
       "sources": [
@@ -117,7 +251,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 14,
       "headline": "Field Marshal Asim Munir hosts reception in honour of Pakistan Army veterans",
       "summary": "AI summary: Field Marshal Asim Munir hosted an Independence Day reception honouring retired Pakistan Army personnel, attended by former army chiefs Raheel Sharif and Ashfaq Parvez Kayani, in recognition of veterans' contributions to national defence.",
       "sources": [
