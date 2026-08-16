@@ -1,0 +1,139 @@
+{
+  "generatedAt": "2026-08-17T01:30:29+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "JI vows to continue sit-in until petroleum levy abolished",
+      "summary": "AI summary: Jamaat-i-Islami vowed to keep its sit-in outside the Punjab CM's House going until the government scraps the petroleum levy and cuts petrol prices to Rs225 per litre, rejecting a proposed ministerial committee and warning the protest could escalate into a wider movement.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2023244/ji-vows-to-continue-sit-in-until-petroleum-levy-abolished" }
+      ],
+      "timestamp": "Aug 16, 11:26 PM",
+      "publishedAt": "2026-08-16T23:26:40+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Prolonged sit-ins and pressure to cut the petroleum levy threaten fiscal revenue and could disrupt business activity near protest sites." },
+        "political": { "value": "negative", "reason": "An opposition party's open-ended protest demanding the government's removal signals rising institutional pressure and instability." },
+        "social": { "value": "negative", "reason": "Ongoing sit-ins at major public roads can disrupt daily life, traffic and commerce for residents." },
+        "market": { "value": "medium", "reason": "Petroleum levy and fuel pricing policy are relevant to investors and businesses tracking fiscal and energy policy." },
+        "lean": { "value": "pro-opposition", "reason": "Article is framed almost entirely around the opposition party's demands and warnings, with no government rebuttal included." },
+        "confidence": { "value": "medium", "reason": "Based on a single source article without corroboration from other outlets." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Pakistan, seven Muslim countries condemn Israel's rejection of road map to end Gaza conflict",
+      "summary": "AI summary: Pakistan joined seven other Muslim-majority nations, including Saudi Arabia, Turkey, Egypt and the UAE, in a joint statement condemning Israel's rejection of a US-backed road map to implement Trump's Gaza peace plan, warning that Israel bears responsibility for any resulting breakdown in ceasefire efforts.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2023246/pakistan-seven-muslim-countries-condemn-israels-rejection-of-road-map-to-end-gaza-conflict" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40435076/pakistan-seven-other-muslim-countries-condemn-israels-rejection-of-gaza-peace-plan" }
+      ],
+      "timestamp": "Aug 16, 10:31 PM",
+      "publishedAt": "2026-08-16T22:31:03+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "International diplomatic statement on Gaza has no direct bearing on Pakistan's domestic economy." },
+        "political": { "value": "neutral", "reason": "Reflects Pakistan's routine alignment with other Muslim-majority states on a foreign policy issue, without domestic governance implications." },
+        "social": { "value": "neutral", "reason": "Concerns an international conflict with no direct effect on Pakistani citizens' daily life or safety." },
+        "market": { "value": "low", "reason": "Limited direct relevance to Pakistani markets or investors beyond general geopolitical sentiment." },
+        "lean": { "value": "balanced", "reason": "Reporting presents the joint statement and its stated rationale factually, attributing claims to the signatory countries." },
+        "confidence": { "value": "high", "reason": "Corroborated by both Dawn News and Business Recorder with matching details on signatories and the content of the statement." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Goods transporters postpone strike for 40 days in 'broader national interest'",
+      "summary": "AI summary: Pakistan's goods transporters called off a planned wheel-jam strike for 40 days after the government agreed to review fuel-pricing, axle-load and tax demands following talks in Karachi, with most issues to be resolved within 15 to 20 days.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2023238/goods-transporters-postpone-strike-for-40-days-in-broader-national-interest" }
+      ],
+      "timestamp": "Aug 16, 10:04 PM",
+      "publishedAt": "2026-08-16T22:04:58+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Averting a nationwide freight strike keeps goods and fuel supply chains moving, avoiding cost shocks to businesses." },
+        "political": { "value": "neutral", "reason": "Government reached a negotiated truce with transporters, showing responsiveness, though core demands remain only partly resolved." },
+        "social": { "value": "positive", "reason": "Postponing the strike prevents disruption to fuel and goods distribution that would have affected the public." },
+        "market": { "value": "medium", "reason": "Relevant to logistics, freight and fuel-pricing sectors and businesses reliant on trucking." },
+        "lean": { "value": "balanced", "reason": "Report presents both government concessions and transporter demands neutrally, with no one-sided framing." },
+        "confidence": { "value": "medium", "reason": "Based on a single detailed source article, not corroborated by other outlets in this run." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "PMD forecasts rain, thunderstorms across Pakistan from Aug 17-21",
+      "summary": "AI summary: Pakistan's meteorological department has forecast monsoon rains and thunderstorms across the country from August 17 to 21, warning of possible flash flooding and heavy falls in Upper Punjab, Kashmir, Gilgit-Baltistan and Khyber Pakhtunkhwa.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40435073/pmd-forecasts-rain-thunderstorms-across-pakistan-from-aug-17-21" }
+      ],
+      "timestamp": "Aug 16, 9:03 PM",
+      "publishedAt": "2026-08-16T21:03:23+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Flash flooding and heavy rain risk can disrupt agriculture, transport and business activity in affected regions." },
+        "political": { "value": "neutral", "reason": "A weather advisory has no bearing on government or institutional stability." },
+        "social": { "value": "negative", "reason": "Flood and heavy rain risk threatens public safety, especially in mountainous and vulnerable terrain." },
+        "market": { "value": "low", "reason": "Limited direct relevance to broader markets beyond regional agriculture and transport sectors." },
+        "lean": { "value": "balanced", "reason": "Straightforward reporting of an official weather advisory with no political framing." },
+        "confidence": { "value": "medium", "reason": "Working from the RSS description excerpt rather than the full article, since the article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Security forces kill seven terrorists in Kharan operation: security sources",
+      "summary": "AI summary: Security sources said Pakistani forces killed seven militants linked to Fitna al-Khawarij during an intelligence-based operation in Balochistan's Kharan area, part of the ongoing Radd-ul-Fitna-III campaign, recovering weapons and vehicles.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40435060/security-forces-kill-seven-terrorists-in-kharan-operation-security-sources" }
+      ],
+      "timestamp": "Aug 16, 8:06 PM",
+      "publishedAt": "2026-08-16T20:06:12+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A localized security operation in Balochistan has limited direct bearing on the national economy." },
+        "political": { "value": "neutral", "reason": "Framed as a routine security operation; claims are attributed only to security sources rather than indicating broader institutional instability." },
+        "social": { "value": "negative", "reason": "Reports of militant violence and ongoing counter-insurgency operations reflect continuing instability and safety risk in the region, even when framed as a security success." },
+        "market": { "value": "low", "reason": "Minimal direct relevance to investors or broader business decisions." },
+        "lean": { "value": "balanced", "reason": "Claims are attributed to security sources rather than asserted as independently verified fact, with no overt political framing." },
+        "confidence": { "value": "low", "reason": "Based only on an RSS description excerpt from a single source, with claims attributed solely to unnamed security sources." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Naqvi comes to CDA chairman, Islamabad IG's defence as they draw flak over buggy video with 'colonial' undertone",
+      "summary": "AI summary: Interior Minister Mohsin Naqvi defended Islamabad's CDA chairman and police chief after a video of them riding the presidential horse carriage at the Independence Day parade drew public backlash over its colonial-era optics, saying officials stepped in only because the president and prime minister were delayed.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2023214/naqvi-comes-to-cda-chairman-islamabad-igs-defence-as-they-draw-flak-over-buggy-video-with-colonial-undertone" }
+      ],
+      "timestamp": "Aug 16, 7:42 PM",
+      "publishedAt": "2026-08-16T19:42:58+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A social-media controversy over parade optics has no bearing on economic activity." },
+        "political": { "value": "negative", "reason": "Public backlash over officials' conduct and a minister needing to defend them reflects negatively on institutional image and public trust." },
+        "social": { "value": "neutral", "reason": "Primarily a symbolic controversy over public perception rather than a direct effect on public wellbeing or safety." },
+        "market": { "value": "low", "reason": "No relevance to investors or business decisions." },
+        "lean": { "value": "pro-government", "reason": "Article centers on Naqvi's defence of the officials, giving his explanation prominence while public criticism is summarized more briefly." },
+        "confidence": { "value": "medium", "reason": "Based on a single detailed source article, not corroborated by other outlets in this run." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "MQM-P seeks national dialogue on new administrative units",
+      "summary": "AI summary: MQM-P's leadership called for a national dialogue on restructuring provincial boundaries into smaller administrative units to better reflect population and improve resource distribution, a proposal federal officials reportedly echoed.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40435065/mqm-p-seeks-national-dialogue-on-new-administrative-units" }
+      ],
+      "timestamp": "Aug 16, 7:25 PM",
+      "publishedAt": "2026-08-16T19:25:26+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A proposal for administrative restructuring has no immediate direct economic effect." },
+        "political": { "value": "neutral", "reason": "A coalition party's policy proposal for dialogue reflects normal political engagement rather than instability." },
+        "social": { "value": "neutral", "reason": "Potential administrative boundary changes could affect governance and resource distribution over time, but have no immediate effect on daily life." },
+        "market": { "value": "low", "reason": "Limited relevance to investors or immediate business decisions." },
+        "lean": { "value": "balanced", "reason": "Reports the party's proposal and officials' reported agreement without evident one-sided framing." },
+        "confidence": { "value": "medium", "reason": "Based on the RSS description excerpt from a single source, not the full article." }
+      }
+    }
+  ]
+}
