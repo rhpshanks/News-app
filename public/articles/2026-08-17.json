@@ -1,8 +1,160 @@
 {
-  "generatedAt": "2026-08-17T01:30:29+05:00",
+  "generatedAt": "2026-08-17T10:07:10+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "Trump orders Pentagon to cut back military exercises with South Korea, citing costs and lack of help with Iran",
+      "summary": "AI summary: US President Donald Trump ordered the Pentagon to scale back the planned 10-day Ulchi Freedom Shield joint exercises with South Korea, citing their cost and Seoul's refusal to back US action against Iran, though South Korea proceeded with the drills as scheduled.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2023402/trump-orders-pentagon-to-cut-back-military-exercises-with-south-korea-citing-costs-and-lack-of-help-with-iran" }
+      ],
+      "timestamp": "Aug 17, 9:42 AM",
+      "publishedAt": "2026-08-17T09:42:37+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A US-South Korea military exercise decision has no direct bearing on Pakistan's economy." },
+        "political": { "value": "neutral", "reason": "Concerns another country's foreign and defence policy, with no implication for Pakistan's institutional or governance stability." },
+        "social": { "value": "neutral", "reason": "No direct effect on Pakistani citizens' daily life or safety." },
+        "market": { "value": "low", "reason": "Limited direct relevance to Pakistani markets beyond general geopolitical sentiment." },
+        "lean": { "value": "balanced", "reason": "Reports Trump's stated rationale and South Korea's response factually, with expert context included." },
+        "confidence": { "value": "medium", "reason": "Based on a single detailed source article, not corroborated by other outlets in this run." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "'Big, bold and important first step': Trump welcomes defence pact between Pakistan, Saudi Arabia and Turkiye",
+      "summary": "AI summary: Pakistan, Saudi Arabia and Turkiye signed the Makkah Joint Defence Agreement establishing mutual defence commitments, with President Trump praising it as a bold first step and Turkish leadership suggesting Egypt and other regional states may eventually join.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2023386/big-bold-and-important-first-step-trump-welcomes-defence-pact-between-pakistan-saudi-arabia-and-turkiye" }
+      ],
+      "timestamp": "Aug 17, 8:09 AM",
+      "publishedAt": "2026-08-17T08:09:38+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A regional defence pact has no immediate direct effect on jobs, prices or business activity." },
+        "political": { "value": "positive", "reason": "International endorsement of the pact strengthens Pakistan's diplomatic standing and signals stable regional alliance-building." },
+        "social": { "value": "neutral", "reason": "No direct effect on Pakistani citizens' daily life." },
+        "market": { "value": "medium", "reason": "Regional security alliances can factor into investor sentiment and defence-related economic ties." },
+        "lean": { "value": "balanced", "reason": "Reports statements from US, Pakistani and Turkish officials factually without favouring a domestic political side." },
+        "confidence": { "value": "medium", "reason": "Based on a single detailed source article, not corroborated by other outlets in this run." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "PTI keeps doors open for talks as 'deal' rumours swirl",
+      "summary": "AI summary: PTI signalled openness to dialogue with the government amid rumours of a possible deal, with reports the government approached a PTI senator to invite talks at Parliament House, though the party's information secretary maintained it is not formally engaged in any negotiations.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2023364/pti-keeps-doors-open-for-talks-as-deal-rumours-swirl" }
+      ],
+      "timestamp": "Aug 17, 7:38 AM",
+      "publishedAt": "2026-08-17T07:38:52+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Political dialogue speculation has no direct economic effect." },
+        "political": { "value": "neutral", "reason": "Signals of possible dialogue between government and the main opposition party reflect routine political manoeuvring rather than a clear stabilising or destabilising shift, given the party's own denial of formal talks." },
+        "social": { "value": "neutral", "reason": "No direct effect on public wellbeing or daily life." },
+        "market": { "value": "low", "reason": "Limited direct relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Quotes multiple PTI figures and reports the ambiguity in the party's position without favouring government or opposition framing." },
+        "confidence": { "value": "medium", "reason": "Based on a single detailed source article, not corroborated by other outlets in this run." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Nawaz interviews candidates for AJK reserved seats",
+      "summary": "AI summary: PML-N leaders Nawaz Sharif and Maryam Nawaz interviewed female candidates for five women's reserved seats in the AJK Legislative Assembly, as the Election Commission set August 24 for polling on all eight reserved seats following the party's 25 directly elected wins.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2023365/nawaz-interviews-candidates-for-ajk-reserved-seats" }
+      ],
+      "timestamp": "Aug 17, 7:24 AM",
+      "publishedAt": "2026-08-17T07:24:56+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Routine intra-party candidate selection has no economic bearing." },
+        "political": { "value": "neutral", "reason": "A standard party electoral process for reserved seats, part of normal governance procedure." },
+        "social": { "value": "neutral", "reason": "No direct effect on public wellbeing or daily life." },
+        "market": { "value": "low", "reason": "No relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Straightforward factual reporting of a party's internal candidate process and the election commission's schedule." },
+        "confidence": { "value": "medium", "reason": "Based on a single detailed source article, not corroborated by other outlets in this run." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "CM visits Bannu to prepare people for Sept march",
+      "summary": "AI summary: Khyber Pakhtunkhwa's Chief Minister visited Bannu to mobilise support for a planned September 27 march, criticising the incumbent federal government and calling for political change.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40435115/cm-visits-bannu-to-prepare-people-for-sept-march" }
+      ],
+      "timestamp": "Aug 17, 4:46 AM",
+      "publishedAt": "2026-08-17T04:46:24+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Mobilisation for a future march has no immediate direct economic effect." },
+        "political": { "value": "negative", "reason": "A provincial chief minister openly organising a march against the federal government signals rising political confrontation and institutional pressure." },
+        "social": { "value": "neutral", "reason": "Preparatory activity for a future march, not yet directly disruptive to daily life." },
+        "market": { "value": "low", "reason": "Limited direct relevance to investors or business decisions at this preparatory stage." },
+        "lean": { "value": "pro-opposition", "reason": "Description centres on the opposition-aligned CM's criticism of the federal government with no government response included." },
+        "confidence": { "value": "medium", "reason": "Working from the RSS description excerpt rather than the full article, since the article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "MQM-P calls for national dialogue on creating new provinces",
+      "summary": "AI summary: MQM-P leadership held a press conference demanding a national dialogue on creating new provinces based on population and administrative needs, identifying Sindh as having the strongest case for division.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40435085/mqm-p-calls-for-national-dialogue-on-creating-new-provinces" }
+      ],
+      "timestamp": "Aug 17, 4:46 AM",
+      "publishedAt": "2026-08-17T04:46:23+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A proposal for administrative restructuring has no immediate direct economic effect." },
+        "political": { "value": "neutral", "reason": "A coalition party's policy proposal for dialogue reflects normal political engagement rather than clear institutional instability." },
+        "social": { "value": "neutral", "reason": "Potential administrative boundary changes could affect governance long-term but have no immediate effect on daily life." },
+        "market": { "value": "low", "reason": "Limited relevance to investors or immediate business decisions." },
+        "lean": { "value": "balanced", "reason": "Reports the party's proposal and its stated rationale factually." },
+        "confidence": { "value": "medium", "reason": "Working from the RSS description excerpt rather than the full article, since the article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Creation of new province in Sindh: Move could threaten stability, ethnic harmony: Saeed",
+      "summary": "AI summary: Sindh's Labour Minister Saeed Ghani pushed back on MQM-P's demand to divide Sindh into a new province, warning that efforts to deepen ethnic divisions could trigger unrest and cause irreparable damage to the country.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40435086/creation-of-new-province-in-sindh-move-could-threaten-stability-ethnic-harmony-saeed" }
+      ],
+      "timestamp": "Aug 17, 4:46 AM",
+      "publishedAt": "2026-08-17T04:46:23+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A political warning about provincial restructuring has no direct economic effect." },
+        "political": { "value": "negative", "reason": "A provincial minister's warning of possible unrest over a province-creation demand reflects rising institutional and governance tension." },
+        "social": { "value": "negative", "reason": "Explicit warning of potential ethnic unrest bears directly on public safety and wellbeing if the dispute escalates." },
+        "market": { "value": "low", "reason": "Limited direct relevance to investors or markets." },
+        "lean": { "value": "pro-government", "reason": "Description centres on a sitting provincial government minister's warning against the opposition-adjacent proposal, without MQM-P's rebuttal." },
+        "confidence": { "value": "medium", "reason": "Working from the RSS description excerpt rather than the full article, since the article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Petroleum Levy sit-in will continue until demands are met: JI",
+      "summary": "AI summary: Jamaat-e-Islami's chief reiterated that the party's protest against fuel taxes will continue until its demands are met, threatening to escalate into a broader movement if the government tries to obstruct the demonstration.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40435081/petroleum-levy-sit-in-will-continue-until-demands-are-met-ji" }
+      ],
+      "timestamp": "Aug 17, 4:46 AM",
+      "publishedAt": "2026-08-17T04:46:23+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "A continuing protest demanding the fuel tax be scrapped threatens fiscal revenue and risks disrupting business activity if it escalates." },
+        "political": { "value": "negative", "reason": "An opposition party's threat to escalate an open-ended protest signals continuing institutional pressure on the government." },
+        "social": { "value": "negative", "reason": "A prolonged and potentially escalating sit-in risks disrupting daily life and public order." },
+        "market": { "value": "medium", "reason": "Fuel tax policy and protest escalation are relevant to businesses and investors tracking fiscal and energy policy." },
+        "lean": { "value": "pro-opposition", "reason": "Description centres on JI's demands and escalation threat with no government response included." },
+        "confidence": { "value": "medium", "reason": "Working from the RSS description excerpt rather than the full article, since the article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 9,
       "headline": "JI vows to continue sit-in until petroleum levy abolished",
       "summary": "AI summary: Jamaat-i-Islami vowed to keep its sit-in outside the Punjab CM's House going until the government scraps the petroleum levy and cuts petrol prices to Rs225 per litre, rejecting a proposed ministerial committee and warning the protest could escalate into a wider movement.",
       "sources": [
@@ -21,7 +173,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 10,
       "headline": "Pakistan, seven Muslim countries condemn Israel's rejection of road map to end Gaza conflict",
       "summary": "AI summary: Pakistan joined seven other Muslim-majority nations, including Saudi Arabia, Turkey, Egypt and the UAE, in a joint statement condemning Israel's rejection of a US-backed road map to implement Trump's Gaza peace plan, warning that Israel bears responsibility for any resulting breakdown in ceasefire efforts.",
       "sources": [
@@ -41,7 +193,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 11,
       "headline": "Goods transporters postpone strike for 40 days in 'broader national interest'",
       "summary": "AI summary: Pakistan's goods transporters called off a planned wheel-jam strike for 40 days after the government agreed to review fuel-pricing, axle-load and tax demands following talks in Karachi, with most issues to be resolved within 15 to 20 days.",
       "sources": [
@@ -60,7 +212,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 12,
       "headline": "PMD forecasts rain, thunderstorms across Pakistan from Aug 17-21",
       "summary": "AI summary: Pakistan's meteorological department has forecast monsoon rains and thunderstorms across the country from August 17 to 21, warning of possible flash flooding and heavy falls in Upper Punjab, Kashmir, Gilgit-Baltistan and Khyber Pakhtunkhwa.",
       "sources": [
@@ -79,7 +231,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 13,
       "headline": "Security forces kill seven terrorists in Kharan operation: security sources",
       "summary": "AI summary: Security sources said Pakistani forces killed seven militants linked to Fitna al-Khawarij during an intelligence-based operation in Balochistan's Kharan area, part of the ongoing Radd-ul-Fitna-III campaign, recovering weapons and vehicles.",
       "sources": [
@@ -98,7 +250,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 14,
       "headline": "Naqvi comes to CDA chairman, Islamabad IG's defence as they draw flak over buggy video with 'colonial' undertone",
       "summary": "AI summary: Interior Minister Mohsin Naqvi defended Islamabad's CDA chairman and police chief after a video of them riding the presidential horse carriage at the Independence Day parade drew public backlash over its colonial-era optics, saying officials stepped in only because the president and prime minister were delayed.",
       "sources": [
@@ -117,7 +269,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 15,
       "headline": "MQM-P seeks national dialogue on new administrative units",
       "summary": "AI summary: MQM-P's leadership called for a national dialogue on restructuring provincial boundaries into smaller administrative units to better reflect population and improve resource distribution, a proposal federal officials reportedly echoed.",
       "sources": [
