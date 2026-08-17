@@ -1,8 +1,141 @@
 {
-  "generatedAt": "2026-08-17T10:07:10+05:00",
+  "generatedAt": "2026-08-17T23:53:22+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "Pakistan rejects India minister's allegations, accuses New Delhi of state-sponsored terrorism",
+      "summary": "AI summary: Pakistan's Foreign Office dismissed allegations by India's Home Minister linking Islamabad to arrests in India as baseless propaganda, and countered by accusing New Delhi of state-sponsored terrorism, citing the Kulbhushan Jadhav case as evidence.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40435224/pakistan-rejects-india-ministers-allegations-accuses-new-delhi-of-state-sponsored-terrorism" }
+      ],
+      "timestamp": "Aug 17, 11:40 PM",
+      "publishedAt": "2026-08-17T23:40:10+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic dispute over allegations has no direct bearing on Pakistan's economy." },
+        "political": { "value": "neutral", "reason": "Concerns Pakistan-India foreign relations rather than domestic institutional or governance stability." },
+        "social": { "value": "neutral", "reason": "No direct effect on Pakistani citizens' daily life or safety." },
+        "market": { "value": "low", "reason": "Limited direct relevance to Pakistani markets beyond general geopolitical sentiment." },
+        "lean": { "value": "balanced", "reason": "Reports the Foreign Office's rebuttal and counter-accusation factually, attributing claims to their stated source." },
+        "confidence": { "value": "medium", "reason": "Working from the RSS description excerpt rather than the full article, since the article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Govt hikes petrol price by Rs5.77, high-speed diesel by Rs6.47",
+      "summary": "AI summary: Pakistan's government raised petrol prices by Rs5.77 to Rs331.20 per litre and diesel by Rs6.47 to Rs390.42 per litre effective August 18, continuing a daily pricing mechanism adopted amid oil-market volatility from the US-Iran conflict, drawing threats of protest from fuel dealers.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2023479/govt-hikes-petrol-price-by-rs577-high-speed-diesel-by-rs647" }
+      ],
+      "timestamp": "Aug 17, 11:38 PM",
+      "publishedAt": "2026-08-17T23:38:02+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Higher fuel prices raise transport and production costs across the economy and add to household expenses." },
+        "political": { "value": "neutral", "reason": "Reflects a routine, mechanism-driven pricing decision rather than a shift in institutional stability." },
+        "social": { "value": "negative", "reason": "Higher petrol and diesel costs directly burden middle and lower-income households reliant on private transport and rickshaws." },
+        "market": { "value": "medium", "reason": "Directly relevant to the fuel, transport and logistics sectors and to businesses tracking energy costs." },
+        "lean": { "value": "balanced", "reason": "Reports the pricing mechanism, the minister's statement and the dealers association's objection factually." },
+        "confidence": { "value": "medium", "reason": "Based on a single detailed source article, not corroborated by other outlets in this run." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "'Solution lies in seriousness': Tariq Fazal Chaudhry tells opposition offer for talks still on table",
+      "summary": "AI summary: Parliamentary Affairs Minister Tariq Fazal Chaudhry told the Senate the government's dialogue offer to the opposition remains open, urging opposition parties to commit to a time and venue, after officials and opposition leaders held an initial meeting and agreed to continue talks.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2023458/solution-lies-in-seriousness-tariq-fazal-chaudhry-tells-opposition-offer-for-talks-still-on-table" }
+      ],
+      "timestamp": "Aug 17, 10:29 PM",
+      "publishedAt": "2026-08-17T22:29:47+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Political dialogue overtures have no direct economic effect." },
+        "political": { "value": "neutral", "reason": "Reflects routine political manoeuvring between government and opposition rather than a clear stabilising or destabilising shift." },
+        "social": { "value": "neutral", "reason": "No direct effect on public wellbeing or daily life." },
+        "market": { "value": "low", "reason": "Limited direct relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Covers the minister's offer alongside the opposition's own outreach and demands without favouring either side." },
+        "confidence": { "value": "medium", "reason": "Based on a single detailed source article, not corroborated by other outlets in this run." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Imran's vision 'almost normal' now, Adiala jail authorities tell Supreme Court",
+      "summary": "AI summary: Adiala jail authorities told the Supreme Court that Imran Khan's eyesight has improved to nearly normal following treatment, though medical annexures attached to the same report noted he still complains of uncontrolled blood pressure and stress, prompting PTI to call the report concerning and renew demands for his transfer to a private hospital.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2023441/imrans-vision-almost-normal-now-adiala-jail-authorities-tell-supreme-court" }
+      ],
+      "timestamp": "Aug 17, 9:14 PM",
+      "publishedAt": "2026-08-17T21:14:41+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A prisoner health report has no bearing on economic activity." },
+        "political": { "value": "negative", "reason": "Continuing disputes between PTI and state institutions over an imprisoned opposition leader's treatment reflect ongoing institutional distrust and tension ahead of a Supreme Court hearing." },
+        "social": { "value": "negative", "reason": "The report's own annexures reveal unresolved health complaints despite the official framing of improvement, bearing on the wellbeing of a high-profile detainee." },
+        "market": { "value": "low", "reason": "No direct relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Presents both the jail authorities' improvement claims and PTI's rebuttal and demands factually." },
+        "confidence": { "value": "medium", "reason": "Based on a single detailed source article, not corroborated by other outlets in this run." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Pakistan assumes presidency of UN Conference on Disarmament",
+      "summary": "AI summary: Pakistan took over the final 2026 presidency of the UN Conference on Disarmament in Geneva, with Ambassador Tahir Hussain Andrabi set to steer the 65-member forum's negotiations on nuclear arms control and space-weaponisation prevention.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40435217/pakistan-assumes-presidency-of-un-conference-on-disarmament" }
+      ],
+      "timestamp": "Aug 17, 8:44 PM",
+      "publishedAt": "2026-08-17T20:44:12+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic appointment has no direct bearing on economic activity." },
+        "political": { "value": "positive", "reason": "Assuming a multilateral diplomatic leadership role reflects positively on Pakistan's international institutional standing." },
+        "social": { "value": "neutral", "reason": "No direct effect on Pakistani citizens' daily life." },
+        "market": { "value": "low", "reason": "Limited direct relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Straightforward factual reporting of a diplomatic appointment with no political framing." },
+        "confidence": { "value": "medium", "reason": "Working from the RSS description excerpt rather than the full article, since the article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Trump threatens to bomb Oman if it gets in way of Iran deal: report",
+      "summary": "AI summary: President Trump warned he would use military force against Oman if it interferes with US efforts over the Strait of Hormuz during ongoing talks with Iran, and called on Iran to surrender, according to a Fox News correspondent's account of his remarks.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2023456/trump-threatens-to-bomb-oman-if-it-gets-in-way-of-iran-deal-report" }
+      ],
+      "timestamp": "Aug 17, 7:42 PM",
+      "publishedAt": "2026-08-17T19:42:04+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A US foreign policy statement has no direct bearing on Pakistan's domestic economy." },
+        "political": { "value": "neutral", "reason": "Concerns US-Iran-Oman relations with no implication for Pakistan's institutional or governance stability." },
+        "social": { "value": "neutral", "reason": "No direct effect on Pakistani citizens' daily life or safety." },
+        "market": { "value": "medium", "reason": "The Strait of Hormuz carries a large share of global oil shipments, so escalation there is relevant to oil-import costs and investor sentiment." },
+        "lean": { "value": "balanced", "reason": "Reports Trump's quoted remarks and the surrounding context factually." },
+        "confidence": { "value": "medium", "reason": "Based on a single detailed source article, not corroborated by other outlets in this run." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Trump hails Pakistan-Saudi-Türkiye defence pact as 'bold, important first step'",
+      "summary": "AI summary: President Trump praised the Makkah Joint Defence Agreement signed by Pakistan, Saudi Arabia and Türkiye on August 7 as a big, bold, important first step, with the pact treating an armed attack on any signatory as an attack on all, similar to NATO's Article 5.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40435162/trump-hails-pakistan-saudi-turkiye-defence-pact-as-bold-important-first-step" }
+      ],
+      "timestamp": "Aug 17, 6:10 PM",
+      "publishedAt": "2026-08-17T18:10:07+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A regional defence pact has no immediate direct effect on jobs, prices or business activity." },
+        "political": { "value": "positive", "reason": "International endorsement of the pact strengthens Pakistan's diplomatic standing and signals stable regional alliance-building." },
+        "social": { "value": "neutral", "reason": "No direct effect on Pakistani citizens' daily life." },
+        "market": { "value": "medium", "reason": "Regional security alliances can factor into investor sentiment and defence-related economic ties." },
+        "lean": { "value": "balanced", "reason": "Reports Trump's endorsement and the pact's provisions factually without domestic political framing." },
+        "confidence": { "value": "medium", "reason": "Working from the RSS description excerpt rather than the full article, since the article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 8,
       "headline": "Trump orders Pentagon to cut back military exercises with South Korea, citing costs and lack of help with Iran",
       "summary": "AI summary: US President Donald Trump ordered the Pentagon to scale back the planned 10-day Ulchi Freedom Shield joint exercises with South Korea, citing their cost and Seoul's refusal to back US action against Iran, though South Korea proceeded with the drills as scheduled.",
       "sources": [
@@ -21,7 +154,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 9,
       "headline": "'Big, bold and important first step': Trump welcomes defence pact between Pakistan, Saudi Arabia and Turkiye",
       "summary": "AI summary: Pakistan, Saudi Arabia and Turkiye signed the Makkah Joint Defence Agreement establishing mutual defence commitments, with President Trump praising it as a bold first step and Turkish leadership suggesting Egypt and other regional states may eventually join.",
       "sources": [
@@ -40,7 +173,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 10,
       "headline": "PTI keeps doors open for talks as 'deal' rumours swirl",
       "summary": "AI summary: PTI signalled openness to dialogue with the government amid rumours of a possible deal, with reports the government approached a PTI senator to invite talks at Parliament House, though the party's information secretary maintained it is not formally engaged in any negotiations.",
       "sources": [
@@ -59,7 +192,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 11,
       "headline": "Nawaz interviews candidates for AJK reserved seats",
       "summary": "AI summary: PML-N leaders Nawaz Sharif and Maryam Nawaz interviewed female candidates for five women's reserved seats in the AJK Legislative Assembly, as the Election Commission set August 24 for polling on all eight reserved seats following the party's 25 directly elected wins.",
       "sources": [
@@ -78,7 +211,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 12,
       "headline": "CM visits Bannu to prepare people for Sept march",
       "summary": "AI summary: Khyber Pakhtunkhwa's Chief Minister visited Bannu to mobilise support for a planned September 27 march, criticising the incumbent federal government and calling for political change.",
       "sources": [
@@ -97,7 +230,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 13,
       "headline": "MQM-P calls for national dialogue on creating new provinces",
       "summary": "AI summary: MQM-P leadership held a press conference demanding a national dialogue on creating new provinces based on population and administrative needs, identifying Sindh as having the strongest case for division.",
       "sources": [
@@ -116,7 +249,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 14,
       "headline": "Creation of new province in Sindh: Move could threaten stability, ethnic harmony: Saeed",
       "summary": "AI summary: Sindh's Labour Minister Saeed Ghani pushed back on MQM-P's demand to divide Sindh into a new province, warning that efforts to deepen ethnic divisions could trigger unrest and cause irreparable damage to the country.",
       "sources": [
@@ -135,7 +268,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 15,
       "headline": "Petroleum Levy sit-in will continue until demands are met: JI",
       "summary": "AI summary: Jamaat-e-Islami's chief reiterated that the party's protest against fuel taxes will continue until its demands are met, threatening to escalate into a broader movement if the government tries to obstruct the demonstration.",
       "sources": [
@@ -154,7 +287,7 @@
       }
     },
     {
-      "id": 9,
+      "id": 16,
       "headline": "JI vows to continue sit-in until petroleum levy abolished",
       "summary": "AI summary: Jamaat-i-Islami vowed to keep its sit-in outside the Punjab CM's House going until the government scraps the petroleum levy and cuts petrol prices to Rs225 per litre, rejecting a proposed ministerial committee and warning the protest could escalate into a wider movement.",
       "sources": [
@@ -173,7 +306,7 @@
       }
     },
     {
-      "id": 10,
+      "id": 17,
       "headline": "Pakistan, seven Muslim countries condemn Israel's rejection of road map to end Gaza conflict",
       "summary": "AI summary: Pakistan joined seven other Muslim-majority nations, including Saudi Arabia, Turkey, Egypt and the UAE, in a joint statement condemning Israel's rejection of a US-backed road map to implement Trump's Gaza peace plan, warning that Israel bears responsibility for any resulting breakdown in ceasefire efforts.",
       "sources": [
@@ -193,7 +326,7 @@
       }
     },
     {
-      "id": 11,
+      "id": 18,
       "headline": "Goods transporters postpone strike for 40 days in 'broader national interest'",
       "summary": "AI summary: Pakistan's goods transporters called off a planned wheel-jam strike for 40 days after the government agreed to review fuel-pricing, axle-load and tax demands following talks in Karachi, with most issues to be resolved within 15 to 20 days.",
       "sources": [
@@ -212,7 +345,7 @@
       }
     },
     {
-      "id": 12,
+      "id": 19,
       "headline": "PMD forecasts rain, thunderstorms across Pakistan from Aug 17-21",
       "summary": "AI summary: Pakistan's meteorological department has forecast monsoon rains and thunderstorms across the country from August 17 to 21, warning of possible flash flooding and heavy falls in Upper Punjab, Kashmir, Gilgit-Baltistan and Khyber Pakhtunkhwa.",
       "sources": [
@@ -231,7 +364,7 @@
       }
     },
     {
-      "id": 13,
+      "id": 20,
       "headline": "Security forces kill seven terrorists in Kharan operation: security sources",
       "summary": "AI summary: Security sources said Pakistani forces killed seven militants linked to Fitna al-Khawarij during an intelligence-based operation in Balochistan's Kharan area, part of the ongoing Radd-ul-Fitna-III campaign, recovering weapons and vehicles.",
       "sources": [
@@ -250,7 +383,7 @@
       }
     },
     {
-      "id": 14,
+      "id": 21,
       "headline": "Naqvi comes to CDA chairman, Islamabad IG's defence as they draw flak over buggy video with 'colonial' undertone",
       "summary": "AI summary: Interior Minister Mohsin Naqvi defended Islamabad's CDA chairman and police chief after a video of them riding the presidential horse carriage at the Independence Day parade drew public backlash over its colonial-era optics, saying officials stepped in only because the president and prime minister were delayed.",
       "sources": [
@@ -269,7 +402,7 @@
       }
     },
     {
-      "id": 15,
+      "id": 22,
       "headline": "MQM-P seeks national dialogue on new administrative units",
       "summary": "AI summary: MQM-P's leadership called for a national dialogue on restructuring provincial boundaries into smaller administrative units to better reflect population and improve resource distribution, a proposal federal officials reportedly echoed.",
       "sources": [
