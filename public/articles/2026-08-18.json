@@ -1,8 +1,66 @@
 {
-  "generatedAt": "2026-08-18T12:08:53+05:00",
+  "generatedAt": "2026-08-18T16:09:58+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "Sheikhupura police arrest suspect for allegedly attempting to rape 11-year-old girl",
+      "summary": "AI summary: Police in Sheikhupura's Ferozewala arrested a man accused of attempting to sexually assault an 11-year-old girl who had gone missing while walking to a relative's house, after forensic evidence and witness accounts led to his capture; officials cite data showing Punjab accounts for the large majority of child-abuse cases reported nationwide this year.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2023654/sheikhupura-police-arrest-suspect-for-allegedly-attempting-to-rape-11-year-old-girl" }
+      ],
+      "timestamp": "Aug 18, 3:28 PM",
+      "publishedAt": "2026-08-18T15:28:21+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A local criminal case has no direct bearing on jobs, prices or business activity." },
+        "political": { "value": "neutral", "reason": "A routine local law-enforcement matter with no clear implication for institutional or governance stability." },
+        "social": { "value": "negative", "reason": "An attempted sexual assault on a child, in a province the article says accounts for most reported child-abuse cases nationwide, reflects harm to public wellbeing and safety despite the arrest." },
+        "market": { "value": "low", "reason": "No meaningful relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Straightforward factual reporting of a crime and arrest with no political framing." },
+        "confidence": { "value": "medium", "reason": "Based on a single detailed source article, not corroborated by other outlets in this run." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "SC orders moving jailed ex-PM Imran Khan to Shifa Hospital for medical checkup",
+      "summary": "AI summary: The Supreme Court ordered the transfer of jailed PTI founder Imran Khan to Shifa International Hospital in Islamabad for a full medical examination by a dedicated board covering cardiology, general medicine and ophthalmology, with his family covering the costs, weekly family contact permitted, political activity barred around the hospital, and the case adjourned to September 16.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2023647/sc-orders-moving-jailed-ex-pm-imran-khan-to-shifa-hospital-for-medical-checkup" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40435368/sc-orders-imran-khans-transfer-to-shifa-hospital-for-medical-examination" }
+      ],
+      "timestamp": "Aug 18, 1:09 PM",
+      "publishedAt": "2026-08-18T13:09:09+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A court-ordered medical checkup for one prisoner has no direct bearing on the economy." },
+        "political": { "value": "neutral", "reason": "A judicial order on a jailed opposition leader's medical care and due-process rights, without a clear directional shift in institutional or governance stability." },
+        "social": { "value": "neutral", "reason": "Concerns the medical treatment of one high-profile prisoner, with limited direct effect on the broader public's daily life." },
+        "market": { "value": "low", "reason": "Limited direct relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Both sources report the court's directions factually, including restrictions on political activity around the hospital, without favoring government or opposition framing." },
+        "confidence": { "value": "high", "reason": "Corroborated by two independent outlets with closely matching details on the court's specific directions." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "At least nine terrorists killed in intelligence-based operations across Balochistan",
+      "summary": "AI summary: Pakistani security forces say they killed more than nine militants in coordinated intelligence-based operations targeting hideouts in Ziarat, Harnai and Surab districts of Balochistan, recovering arms and ammunition, days after a separate engagement in Killi Zaik killed two more terrorists including a wanted operative identified as Mushtaq Ahmed.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40435367/at-least-nine-terrorists-killed-in-intelligence-based-operations-across-balochistan" }
+      ],
+      "timestamp": "Aug 18, 12:33 PM",
+      "publishedAt": "2026-08-18T12:33:07+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A localized security operation in Balochistan has limited direct bearing on the national economy." },
+        "political": { "value": "neutral", "reason": "Reported as a straightforward security success attributed to state media and security sources, without additional context here on broader institutional stability." },
+        "social": { "value": "negative", "reason": "Continuing militant violence and counter-insurgency operations reflect ongoing instability and harm in the region even when the report frames the operation as a success." },
+        "market": { "value": "low", "reason": "Minimal direct relevance to investors or broader business decisions." },
+        "lean": { "value": "balanced", "reason": "Claims are attributed to state media and security sources, with the interior minister's praise noted, without domestic political framing." },
+        "confidence": { "value": "low", "reason": "Working only from the RSS description excerpt since the article page returned a 403 error, and not independently corroborated within this run." }
+      }
+    },
+    {
+      "id": 4,
       "headline": "Over 9 terrorists killed in Balochistan IBOs: state media",
       "summary": "AI summary: Pakistani security forces killed more than nine militants in intelligence-based operations across Ziarat, Harnai and Surab in Balochistan under the Radd-ul-Fitna III campaign, part of a continuing series of strikes that a security think tank's July assessment says has coincided with a sharp rise in both militant and security-personnel deaths in the province this year.",
       "sources": [
@@ -21,7 +79,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 5,
       "headline": "FO rejects Indian home minister's 'baseless assertions' linking arrests with Pakistan",
       "summary": "AI summary: Pakistan's Foreign Office rejected Indian Home Minister Amit Shah's claim that a Pakistan-backed militant network had been dismantled in India, calling the allegation baseless propaganda meant to distract from India's own domestic security problems, and pointed to the Kulbhushan Jadhav case as evidence of Indian involvement in Pakistan.",
       "sources": [
@@ -40,7 +98,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 6,
       "headline": "ISPR slams India's 'Bollywood-style' documentary projecting last year's 'military blunder as a successful endeavour'",
       "summary": "AI summary: Pakistan's military media wing ISPR dismissed an Indian documentary on last year's Operation Sindoor conflict as dramatized propaganda, arguing its own timeline for eliminating the Pahalgam attackers contradicts India's narrative of the conflict, and reasserted that Pakistani forces shot down eight Indian aircraft and struck 26 military targets before fighting ended through a US-facilitated ceasefire rather than an Indian victory.",
       "sources": [
@@ -60,7 +118,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 7,
       "headline": "PM welcomes Trump's support",
       "summary": "AI summary: PM Shehbaz Sharif thanked US President Trump for backing the Makkah Joint Defence Agreement between Pakistan, Saudi Arabia and Turkey, crediting Trump's diplomatic intervention with helping prevent a wider regional escalation, while Trump described the pact as an early step toward greater collective defence cooperation.",
       "sources": [
@@ -79,7 +137,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 8,
       "headline": "Interior minister seeks two-year transformation plans from depts",
       "summary": "AI summary: Interior Minister Mohsin Naqvi directed department heads across NADRA, FIA, ANF, NACTA and other bodies under his ministry to draft two-year modernization plans aimed at making institutions more autonomous, performance-driven and public-friendly, citing zero drug-smuggling cases during recent Hajj operations as a recent success.",
       "sources": [
@@ -98,7 +156,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 9,
       "headline": "Lady health workers hold protest for resolution of issues",
       "summary": "AI summary: Sindh's Lady Health Workers staged a sit-in in Karachi after police blocked their planned march to Bilawal House and detained roughly 400 protesters, with the union demanding the program stay under provincial Health Department control and citing long-standing pay, promotion and pension grievances.",
       "sources": [
@@ -117,7 +175,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 10,
       "headline": "258 foreigners arrested in scam centre raid",
       "summary": "AI summary: Pakistani authorities arrested 258 foreign nationals, mostly Chinese and Vietnamese citizens who had entered on tourist visas, in a raid on an alleged fraudulent call centre in Islamabad's Gulberg Green, with the FIA holding them in Rawalpindi pending an expected deportation.",
       "sources": [
