@@ -1,0 +1,139 @@
+{
+  "generatedAt": "2026-08-18T12:08:53+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Over 9 terrorists killed in Balochistan IBOs: state media",
+      "summary": "AI summary: Pakistani security forces killed more than nine militants in intelligence-based operations across Ziarat, Harnai and Surab in Balochistan under the Radd-ul-Fitna III campaign, part of a continuing series of strikes that a security think tank's July assessment says has coincided with a sharp rise in both militant and security-personnel deaths in the province this year.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2023634/over-9-terrorists-killed-in-balochistan-ibos-state-media" }
+      ],
+      "timestamp": "Aug 18, 11:54 AM",
+      "publishedAt": "2026-08-18T11:54:24+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A localized security operation in Balochistan has limited direct bearing on the national economy." },
+        "political": { "value": "negative", "reason": "The article cites a security think tank's data showing overall deaths in Balochistan up 241% and security-personnel deaths up 933% this year, indicating a sharply deteriorating security situation despite the operation's framing as a success." },
+        "social": { "value": "negative", "reason": "Continuing militant violence and counter-insurgency operations, including a 93% rise in civilian deaths per the cited assessment, reflect ongoing harm and instability in the region even when the report frames the raid as a success." },
+        "market": { "value": "low", "reason": "Minimal direct relevance to investors or broader business decisions." },
+        "lean": { "value": "balanced", "reason": "Claims of the operation's toll are attributed to state media and the interior minister's statement, with independent think-tank data included for context, without domestic political framing." },
+        "confidence": { "value": "medium", "reason": "Based on a single detailed source article relaying state media and ministry claims, not corroborated by other outlets in this run." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "FO rejects Indian home minister's 'baseless assertions' linking arrests with Pakistan",
+      "summary": "AI summary: Pakistan's Foreign Office rejected Indian Home Minister Amit Shah's claim that a Pakistan-backed militant network had been dismantled in India, calling the allegation baseless propaganda meant to distract from India's own domestic security problems, and pointed to the Kulbhushan Jadhav case as evidence of Indian involvement in Pakistan.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2023488/fo-rejects-indian-home-ministers-baseless-assertions-linking-arrests-with-pakistan" }
+      ],
+      "timestamp": "Aug 18, 10:10 AM",
+      "publishedAt": "2026-08-18T10:10:05+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic dispute over allegations has no direct bearing on Pakistan's economy." },
+        "political": { "value": "neutral", "reason": "Concerns Pakistan-India foreign relations rather than domestic institutional or governance stability." },
+        "social": { "value": "neutral", "reason": "No direct effect on Pakistani citizens' daily life or safety." },
+        "market": { "value": "low", "reason": "Limited direct relevance to Pakistani markets beyond general geopolitical sentiment." },
+        "lean": { "value": "balanced", "reason": "Reports the Foreign Office's rebuttal and counter-accusation factually, attributing India's claims to Amit Shah by name." },
+        "confidence": { "value": "medium", "reason": "Based on a single detailed source article, not corroborated by other outlets in this run." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "ISPR slams India's 'Bollywood-style' documentary projecting last year's 'military blunder as a successful endeavour'",
+      "summary": "AI summary: Pakistan's military media wing ISPR dismissed an Indian documentary on last year's Operation Sindoor conflict as dramatized propaganda, arguing its own timeline for eliminating the Pahalgam attackers contradicts India's narrative of the conflict, and reasserted that Pakistani forces shot down eight Indian aircraft and struck 26 military targets before fighting ended through a US-facilitated ceasefire rather than an Indian victory.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2023614/ispr-slams-indias-bollywood-style-documentary-projecting-last-years-military-blunder-as-a-successful-endeavour" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40435362/ispr-rejects-indian-documentary-as-propaganda-says-battlefield-record-cannot-be-rewritten" }
+      ],
+      "timestamp": "Aug 18, 9:51 AM",
+      "publishedAt": "2026-08-18T09:51:35+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A military public-relations dispute with India has no direct bearing on jobs, prices or business activity." },
+        "political": { "value": "neutral", "reason": "Concerns Pakistan-India military messaging over a past conflict rather than domestic institutional or governance stability." },
+        "social": { "value": "neutral", "reason": "No direct effect on Pakistani citizens' daily life or safety." },
+        "market": { "value": "low", "reason": "Limited direct relevance to Pakistani markets beyond general geopolitical sentiment." },
+        "lean": { "value": "balanced", "reason": "Both sources relay ISPR's statement and its specific claims about the conflict timeline and ceasefire without domestic political framing." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two outlets, but the Business Recorder side is based only on its RSS description excerpt since the article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "PM welcomes Trump's support",
+      "summary": "AI summary: PM Shehbaz Sharif thanked US President Trump for backing the Makkah Joint Defence Agreement between Pakistan, Saudi Arabia and Turkey, crediting Trump's diplomatic intervention with helping prevent a wider regional escalation, while Trump described the pact as an early step toward greater collective defence cooperation.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40435298/pm-welcomes-trumps-support" }
+      ],
+      "timestamp": "Aug 18, 9:25 AM",
+      "publishedAt": "2026-08-18T09:25:08+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic statement of thanks has no direct near-term bearing on jobs, prices or business activity." },
+        "political": { "value": "positive", "reason": "Continued high-level US endorsement of the regional defence pact supports Pakistan's diplomatic standing and signals stable alliance-building." },
+        "social": { "value": "neutral", "reason": "No direct effect on Pakistani citizens' daily life." },
+        "market": { "value": "medium", "reason": "A US-backed trilateral defence pact carries some relevance for investors and businesses tracking regional stability and defence ties." },
+        "lean": { "value": "balanced", "reason": "Relays the PM's and Trump's statements factually with no domestic political opposition angle." },
+        "confidence": { "value": "low", "reason": "Working from the RSS description excerpt rather than the full article, since the article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Interior minister seeks two-year transformation plans from depts",
+      "summary": "AI summary: Interior Minister Mohsin Naqvi directed department heads across NADRA, FIA, ANF, NACTA and other bodies under his ministry to draft two-year modernization plans aimed at making institutions more autonomous, performance-driven and public-friendly, citing zero drug-smuggling cases during recent Hajj operations as a recent success.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2023591/interior-minister-seeks-two-year-transformation-plans-from-depts" }
+      ],
+      "timestamp": "Aug 18, 8:16 AM",
+      "publishedAt": "2026-08-18T08:16:23+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "An internal administrative directive has no immediate direct economic effect." },
+        "political": { "value": "positive", "reason": "A push for institutional modernisation, autonomy and performance accountability across major security and civil bodies reflects positively on governance capacity." },
+        "social": { "value": "neutral", "reason": "Primarily an internal administrative matter with no immediate direct effect on public daily life." },
+        "market": { "value": "low", "reason": "Limited relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Straightforward factual reporting of a ministerial directive and meeting with no opposition angle involved." },
+        "confidence": { "value": "medium", "reason": "Based on a single detailed source article, not corroborated by other outlets in this run." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Lady health workers hold protest for resolution of issues",
+      "summary": "AI summary: Sindh's Lady Health Workers staged a sit-in in Karachi after police blocked their planned march to Bilawal House and detained roughly 400 protesters, with the union demanding the program stay under provincial Health Department control and citing long-standing pay, promotion and pension grievances.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40435247/lady-health-workers-hold-protest-for-resolution-of-issues" }
+      ],
+      "timestamp": "Aug 18, 6:42 AM",
+      "publishedAt": "2026-08-18T06:42:43+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A labour protest by health workers has limited direct effect on broader jobs, prices or business activity." },
+        "political": { "value": "negative", "reason": "The blocking of the planned march and detention of roughly 400 protesting health workers, alongside unresolved pay and pension grievances, points to friction between authorities and a public-sector workforce." },
+        "social": { "value": "negative", "reason": "Unresolved pay, promotion and pension grievances among frontline health workers, compounded by a heavy-handed police response, bear on the wellbeing and job security of a public-health workforce." },
+        "market": { "value": "low", "reason": "A localized labour dispute with limited relevance to investors or broader market decisions." },
+        "lean": { "value": "balanced", "reason": "Description relays the union's grievances and the police action without a clear partisan framing between government and opposition; not confidently certain how the provincial government's party status should be characterised, so defaulting to balanced." },
+        "confidence": { "value": "low", "reason": "Based only on an RSS description excerpt from a single source." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "258 foreigners arrested in scam centre raid",
+      "summary": "AI summary: Pakistani authorities arrested 258 foreign nationals, mostly Chinese and Vietnamese citizens who had entered on tourist visas, in a raid on an alleged fraudulent call centre in Islamabad's Gulberg Green, with the FIA holding them in Rawalpindi pending an expected deportation.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40435301/258-foreigners-arrested-in-scam-centre-raid" }
+      ],
+      "timestamp": "Aug 18, 6:25 AM",
+      "publishedAt": "2026-08-18T06:25:13+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A law-enforcement raid on a single fraudulent call centre has limited direct bearing on broader jobs, prices or business activity." },
+        "political": { "value": "neutral", "reason": "A routine enforcement action; demonstrates investigative capacity without clearly indicating a shift in institutional or governance stability." },
+        "social": { "value": "positive", "reason": "Shutting down an alleged large-scale fraud and investment-scam operation reduces potential harm to victims and benefits public wellbeing." },
+        "market": { "value": "low", "reason": "Primarily a domestic law-enforcement matter with limited direct relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Straightforward factual reporting of a law-enforcement raid with no domestic political framing." },
+        "confidence": { "value": "low", "reason": "Based only on an RSS description excerpt from a single source." }
+      }
+    }
+  ]
+}
