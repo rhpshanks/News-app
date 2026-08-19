@@ -1,0 +1,157 @@
+{
+  "generatedAt": "2026-08-19T14:40:56+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Digital platforms need take Pakistan's 'specific conditions' into account, minister tells Google delegation",
+      "summary": "AI summary: Pakistan's Minister of State for Interior Tallal Chaudhry told a visiting Google delegation that digital platforms must account for Pakistan's security situation, calling for proactive monitoring of social media to counter terrorism-related content.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2023873/digital-platforms-need-take-pakistans-specific-conditions-into-account-minister-tells-google-delegation" }
+      ],
+      "timestamp": "Aug 19, 2:23 PM",
+      "publishedAt": "2026-08-19T14:23:12+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Discussion centered on content regulation and security cooperation, not investment or business terms." },
+        "political": { "value": "neutral", "reason": "Routine bilateral engagement on regulatory cooperation, with no indication of institutional disruption." },
+        "social": { "value": "neutral", "reason": "A policy conversation about online content moderation without immediate on-the-ground effect on the public." },
+        "market": { "value": "low", "reason": "Limited direct relevance to markets; concerns tech policy rather than investment activity." },
+        "lean": { "value": "balanced", "reason": "Reports the minister's statements straightforwardly without a countering perspective, typical of official-meeting readouts." },
+        "confidence": { "value": "medium", "reason": "Based on the full Dawn article, though only one outlet covered this specific meeting." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "3 'SRA terrorists' arrested for firing at Independence Day stall in Karachi, killing owner: CTD",
+      "summary": "AI summary: Karachi's Counter-Terrorism Department says it arrested three men linked to the banned Sindhudesh Revolutionary Army for an August 12 shooting that killed a vendor at an Independence Day stall in DHA, alleging the attack was directed by an SRA operative based abroad.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2023870/3-sra-terrorists-arrested-for-firing-at-independence-day-stall-in-karachi-killing-owner-ctd" }
+      ],
+      "timestamp": "Aug 19, 2:13 PM",
+      "publishedAt": "2026-08-19T14:13:55+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A localized security incident with no material economic impact." },
+        "political": { "value": "negative", "reason": "A banned separatist group carrying out a targeted killing points to a persistent internal security threat to governance stability." },
+        "social": { "value": "negative", "reason": "A vendor was killed in a targeted attack, directly harming public safety and community wellbeing." },
+        "market": { "value": "low", "reason": "A localized law-and-order story with negligible relevance to markets or investors." },
+        "lean": { "value": "balanced", "reason": "Claims are attributed to CTD as police-source reporting, without being presented as independently verified fact." },
+        "confidence": { "value": "medium", "reason": "Based on a full-text single source (Dawn) relaying police claims that have not been independently corroborated." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "PM directs petroleum minister to travel to Karachi, hold talks with oil refineries for reducing diesel prices",
+      "summary": "AI summary: PM Shehbaz Sharif has directed Petroleum Minister Ali Pervaiz Malik to travel to Karachi and negotiate with oil refineries to lower diesel prices, days after petrol and diesel rates rose and amid unresolved tension with fuel dealers over margins.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2023874/pm-directs-petroleum-minister-to-travel-to-karachi-hold-talks-with-oil-refineries-for-reducing-diesel-prices" }
+      ],
+      "timestamp": "Aug 19, 1:47 PM",
+      "publishedAt": "2026-08-19T13:47:23+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A directive to negotiate lower diesel prices could ease business costs if realized, but the outcome of the talks is not yet confirmed." },
+        "political": { "value": "neutral", "reason": "A standard exercise of executive direction responding to public complaints over fuel prices, with no sign of institutional conflict." },
+        "social": { "value": "neutral", "reason": "Aims to ease the public's fuel-cost burden, but the actual outcome remains uncertain since negotiations have not concluded." },
+        "market": { "value": "medium", "reason": "Diesel pricing and refinery negotiations are relevant to transport, energy, and broader business costs." },
+        "lean": { "value": "balanced", "reason": "Combines the PMO's official statement with prior context of dealer tensions, without favoring either side's framing." },
+        "confidence": { "value": "medium", "reason": "Based on the full Dawn article, drawing on a single official PMO statement." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Hajj pilgrims deposit over Rs8.7bn through digital portal",
+      "summary": "AI summary: More than 13,260 intending Hajj pilgrims have deposited over Rs8.7 billion for the 2027 Hajj through Pakistan's new digital payment portal, as the government moves to digitize the pilgrimage payment process for over 107,000 government-scheme seats.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40435553/hajj-pilgrims-deposit-over-rs87bn-through-digital-portal" }
+      ],
+      "timestamp": "Aug 19, 1:18 PM",
+      "publishedAt": "2026-08-19T13:18:57+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Digitizing high-volume Hajj payments streamlines a major annual financial process and reduces informal-channel friction." },
+        "political": { "value": "positive", "reason": "Reflects a government digital-service initiative functioning as intended, without controversy." },
+        "social": { "value": "positive", "reason": "Makes pilgrimage payments more convenient and accessible for citizens, reducing queues and hassle." },
+        "market": { "value": "low", "reason": "Primarily a religious/administrative logistics story with limited direct relevance to investors or broader markets." },
+        "lean": { "value": "balanced", "reason": "A straightforward factual report on a government digital service rollout, not a contested political issue." },
+        "confidence": { "value": "medium", "reason": "Based only on the RSS description excerpt rather than the full article, though it carries specific, consistent figures." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Pakistan condemns 'unprovoked' Israeli attack on Syria air base",
+      "summary": "AI summary: Pakistan's Foreign Office condemned Israeli airstrikes on Syria's Abu al-Duhur air base as an unprovoked violation of international law and expressed solidarity with Syria, after Israel said the strikes targeted a Turkish military presence it viewed as a threat.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2023864/pakistan-condemns-unprovoked-israeli-attack-on-syria-air-base" }
+      ],
+      "timestamp": "Aug 19, 11:49 AM",
+      "publishedAt": "2026-08-19T11:49:45+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A foreign-policy statement with no direct bearing on Pakistan's economy." },
+        "political": { "value": "neutral", "reason": "A routine diplomatic condemnation of a foreign incident, without domestic governance implications." },
+        "social": { "value": "neutral", "reason": "Concerns an international conflict abroad with no direct effect on daily life in Pakistan." },
+        "market": { "value": "low", "reason": "A diplomatic statement on a foreign conflict carries little direct relevance for Pakistani markets." },
+        "lean": { "value": "balanced", "reason": "Reports the Foreign Office statement alongside Israeli, US, Syrian, and Turkish reactions, presenting multiple perspectives." },
+        "confidence": { "value": "medium", "reason": "Based on the full Dawn article, though details rely on official statements from several governments that are hard to independently verify." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Pakistan extends airspace ban on Indian aircraft till September 24",
+      "summary": "AI summary: Pakistan has extended its ban on Indian-registered aircraft, including military flights, from using its airspace through September 24, 2026, continuing a restriction first imposed after the 2025 Pahalgam attack that has pushed Indian carriers onto costlier alternate routes.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40435545/pakistan-extends-airspace-ban-on-indian-aircraft-till-september-24" }
+      ],
+      "timestamp": "Aug 19, 11:49 AM",
+      "publishedAt": "2026-08-19T11:49:28+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "The restriction mainly imposes added costs on Indian carriers rerouting flights, with limited direct economic effect on Pakistan itself." },
+        "political": { "value": "neutral", "reason": "Extends an existing, months-old restriction rather than introducing a new escalation, reflecting policy continuity." },
+        "social": { "value": "neutral", "reason": "Has no direct bearing on daily life or public wellbeing within Pakistan." },
+        "market": { "value": "medium", "reason": "Airspace restrictions affect airline operating costs and regional aviation routes, relevant to industry stakeholders." },
+        "lean": { "value": "balanced", "reason": "Presents the restriction, its origin, and its cost impact on Indian carriers factually, without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on the RSS description excerpt only, though the details are specific and consistent with known prior context." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Sirajuddin Aziz, Lightstone Publishers sign deal for memoirs Wings of Destiny",
+      "summary": "AI summary: Banking Ombudsman Sirajuddin Aziz has signed a publishing deal with Lightstone Publishers for his memoir Wings of Destiny, chronicling his career path from a missionary-school upbringing to senior international banking roles.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40435536/sirajuddin-aziz-lightstone-publishers-sign-deal-for-memoirs-wings-of-destiny" }
+      ],
+      "timestamp": "Aug 19, 11:02 AM",
+      "publishedAt": "2026-08-19T11:02:22+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A personal publishing deal with no material effect on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "A cultural/publishing story unrelated to governance or institutions." },
+        "social": { "value": "neutral", "reason": "A human-interest publishing story with no direct effect on public wellbeing or daily life." },
+        "market": { "value": "low", "reason": "Not relevant to investors or business decision-making." },
+        "lean": { "value": "balanced", "reason": "A neutral human-interest announcement with no political framing involved." },
+        "confidence": { "value": "medium", "reason": "Based on the RSS description excerpt only, though the announcement itself is straightforward and low-stakes." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "PM welcomes US tech giant: Google inaugurates first Pakistan office",
+      "summary": "AI summary: Google has formally opened its first office in Pakistan, with PM Shehbaz Sharif meeting the company's visiting delegation and outlining a \"Digital Nation Pakistan\" vision that includes potential local Chromebook assembly and expanded IT, AI, and gaming skills training.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40435489/pm-welcomes-us-tech-giant-google-inaugurates-first-pakistan-office" }
+      ],
+      "timestamp": "Aug 19, 4:48 AM",
+      "publishedAt": "2026-08-19T04:48:49+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "A major global tech company's local office and stated investment interest signal potential job creation and business activity in the tech sector." },
+        "political": { "value": "positive", "reason": "Reflects investment diplomacy by the government, positioning it as successfully attracting foreign tech investment." },
+        "social": { "value": "positive", "reason": "Prospective IT/AI/gaming skills training and local tech jobs could benefit public livelihoods over time." },
+        "market": { "value": "high", "reason": "A major tech company's formal market entry and stated investment plans are directly relevant to investors and Pakistan's business environment." },
+        "lean": { "value": "pro-government", "reason": "The coverage exclusively presents the PM's and government's framing of the visit as a diplomatic and investment win, with no critical or opposing perspective included." },
+        "confidence": { "value": "medium", "reason": "Based on the RSS description excerpt only, not the full article, which limits confidence in the complete framing." }
+      }
+    }
+  ]
+}
