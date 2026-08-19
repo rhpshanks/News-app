@@ -1,8 +1,85 @@
 {
-  "generatedAt": "2026-08-19T14:40:56+05:00",
+  "generatedAt": "2026-08-19T21:04:49+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "Govt files review plea against SC ruling to move Imran to Shifa International Hospital, terms it 'discriminatory'",
+      "summary": "AI summary: The federal government has filed a Supreme Court review petition against an order moving Imran Khan to Shifa International Hospital, arguing it bypassed prison-transfer rules and breaches equal treatment of prisoners, while Khan's sister has submitted further documents pressing his case; the case resumes September 16.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2023885/govt-files-review-plea-against-sc-ruling-to-move-imran-to-shifa-international-hospital-terms-it-discriminatory" }
+      ],
+      "timestamp": "Aug 19, 8:46 PM",
+      "publishedAt": "2026-08-19T20:46:56+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A legal and political dispute over prisoner treatment with no bearing on jobs, prices, or business activity." },
+        "political": { "value": "negative", "reason": "An open conflict between the executive and judiciary over a high-profile political prisoner signals continued institutional friction and government-opposition tension." },
+        "social": { "value": "neutral", "reason": "Centers on one individual's legal and medical treatment rather than broad public wellbeing or daily life." },
+        "market": { "value": "low", "reason": "A political and legal dispute with negligible relevance to markets or investors." },
+        "lean": { "value": "balanced", "reason": "Presents the government's procedural and equality arguments alongside PTI's counter-documents and international-treatment comparisons, without favoring either side." },
+        "confidence": { "value": "medium", "reason": "Based on the full Dawn article, though it concerns a contested legal dispute where both sides' claims are still being litigated." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Govt announces 'significant decrease of Rs30-32' in diesel price after talks with refineries",
+      "summary": "AI summary: Following the PM's directive for talks with oil refineries, Pakistan's government says refineries have agreed to cut diesel prices by roughly Rs30-32 per litre, a move officials call a major relief for farmers and public transport, backed by a government subsidy of an estimated Rs100-130 billion over the coming months.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2023916/govt-announces-significant-decrease-of-rs30-32-in-diesel-price-after-talks-with-refineries" }
+      ],
+      "timestamp": "Aug 19, 8:37 PM",
+      "publishedAt": "2026-08-19T20:37:31+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "A significant diesel price cut lowers costs for farmers and transport, directly easing business and household expenses." },
+        "political": { "value": "positive", "reason": "Delivers a tangible, publicly promised relief measure that follows through on the PM's own directive, addressing prior public complaints." },
+        "social": { "value": "positive", "reason": "Lower diesel prices directly ease costs for farmers using tractors and the public relying on bus transport." },
+        "market": { "value": "medium", "reason": "Relevant to energy, transport, and agriculture businesses, and to the fiscal cost of the subsidy funding it." },
+        "lean": { "value": "pro-government", "reason": "The reporting foregrounds the PM's spokesperson calling the cut \"a gift from the prime minister,\" without including critical perspective on the subsidy's fiscal cost under the IMF program." },
+        "confidence": { "value": "medium", "reason": "Based on the full Dawn article from a single source relaying official statements." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Syrian FM Shaibani due to visit Pakistan today: FO",
+      "summary": "AI summary: Syria's foreign minister Asaad Hassan al-Shaibani visited Pakistan at Deputy PM Ishaq Dar's invitation, the first such visit since 2007, to discuss bilateral ties and regional developments, alongside Pakistan's public condemnation of Israel's recent airstrike on a Syrian air base.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2023910/syrian-fm-shaibani-due-to-visit-pakistan-today-fo" }
+      ],
+      "timestamp": "Aug 19, 7:04 PM",
+      "publishedAt": "2026-08-19T19:04:18+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic visit with no direct bearing on Pakistan's economy." },
+        "political": { "value": "neutral", "reason": "A routine foreign-policy engagement strengthening bilateral diplomatic ties, without domestic governance implications." },
+        "social": { "value": "neutral", "reason": "A foreign-policy story with no direct effect on daily life in Pakistan." },
+        "market": { "value": "low", "reason": "A diplomatic visit carries little direct relevance for markets or investors." },
+        "lean": { "value": "balanced", "reason": "Reports the visit and Pakistan's stated position factually, without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on the full Dawn article, though it draws on official statements from a fast-moving diplomatic situation." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "'A good start': PPP, opposition agree to maintain contact, cooperate on legislative matters in parliament",
+      "summary": "AI summary: PPP Chairman Bilawal Bhutto-Zardari met opposition leaders including PTI's Salman Akram Raja and urged them to end their boycott and rejoin parliamentary standing committees to advance electoral reforms, with both sides agreeing to stay in contact even as opposition leaders said they would first consult PTI's leadership.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2023904/a-good-start-ppp-opposition-agree-to-maintain-contact-cooperate-on-legislative-matters-in-parliament" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40435580/bilawal-urges-opposition-to-return-to-parliamentary-committees" }
+      ],
+      "timestamp": "Aug 19, 6:30 PM",
+      "publishedAt": "2026-08-19T18:30:57+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A parliamentary-relations story with no direct economic effect." },
+        "political": { "value": "positive", "reason": "Opposition parties moving toward rejoining parliamentary committees and sustained government-opposition dialogue supports a more functional legislature." },
+        "social": { "value": "neutral", "reason": "An intra-parliamentary development with no direct effect on daily public life." },
+        "market": { "value": "low", "reason": "A political-process story with limited direct relevance to markets." },
+        "lean": { "value": "balanced", "reason": "Both PPP's overture and the opposition's cautious, PTI-consultation-first response are represented across the two corroborating sources." },
+        "confidence": { "value": "high", "reason": "Corroborated by two independent outlets, both read in full, with matching details on the meeting and its outcome." }
+      }
+    },
+    {
+      "id": 5,
       "headline": "Digital platforms need take Pakistan's 'specific conditions' into account, minister tells Google delegation",
       "summary": "AI summary: Pakistan's Minister of State for Interior Tallal Chaudhry told a visiting Google delegation that digital platforms must account for Pakistan's security situation, calling for proactive monitoring of social media to counter terrorism-related content.",
       "sources": [
@@ -21,7 +98,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 6,
       "headline": "3 'SRA terrorists' arrested for firing at Independence Day stall in Karachi, killing owner: CTD",
       "summary": "AI summary: Karachi's Counter-Terrorism Department says it arrested three men linked to the banned Sindhudesh Revolutionary Army for an August 12 shooting that killed a vendor at an Independence Day stall in DHA, alleging the attack was directed by an SRA operative based abroad.",
       "sources": [
@@ -40,7 +117,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 7,
       "headline": "PM directs petroleum minister to travel to Karachi, hold talks with oil refineries for reducing diesel prices",
       "summary": "AI summary: PM Shehbaz Sharif has directed Petroleum Minister Ali Pervaiz Malik to travel to Karachi and negotiate with oil refineries to lower diesel prices, days after petrol and diesel rates rose and amid unresolved tension with fuel dealers over margins.",
       "sources": [
@@ -59,7 +136,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 8,
       "headline": "Hajj pilgrims deposit over Rs8.7bn through digital portal",
       "summary": "AI summary: More than 13,260 intending Hajj pilgrims have deposited over Rs8.7 billion for the 2027 Hajj through Pakistan's new digital payment portal, as the government moves to digitize the pilgrimage payment process for over 107,000 government-scheme seats.",
       "sources": [
@@ -78,7 +155,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 9,
       "headline": "Pakistan condemns 'unprovoked' Israeli attack on Syria air base",
       "summary": "AI summary: Pakistan's Foreign Office condemned Israeli airstrikes on Syria's Abu al-Duhur air base as an unprovoked violation of international law and expressed solidarity with Syria, after Israel said the strikes targeted a Turkish military presence it viewed as a threat.",
       "sources": [
@@ -97,7 +174,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 10,
       "headline": "Pakistan extends airspace ban on Indian aircraft till September 24",
       "summary": "AI summary: Pakistan has extended its ban on Indian-registered aircraft, including military flights, from using its airspace through September 24, 2026, continuing a restriction first imposed after the 2025 Pahalgam attack that has pushed Indian carriers onto costlier alternate routes.",
       "sources": [
@@ -116,7 +193,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 11,
       "headline": "Sirajuddin Aziz, Lightstone Publishers sign deal for memoirs Wings of Destiny",
       "summary": "AI summary: Banking Ombudsman Sirajuddin Aziz has signed a publishing deal with Lightstone Publishers for his memoir Wings of Destiny, chronicling his career path from a missionary-school upbringing to senior international banking roles.",
       "sources": [
@@ -135,7 +212,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 12,
       "headline": "PM welcomes US tech giant: Google inaugurates first Pakistan office",
       "summary": "AI summary: Google has formally opened its first office in Pakistan, with PM Shehbaz Sharif meeting the company's visiting delegation and outlining a \"Digital Nation Pakistan\" vision that includes potential local Chromebook assembly and expanded IT, AI, and gaming skills training.",
       "sources": [
