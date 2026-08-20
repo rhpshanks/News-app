@@ -1,0 +1,139 @@
+{
+  "generatedAt": "2026-08-20T12:15:00+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Pakistani nationals injured in Houthi attack return safely",
+      "summary": "AI summary: The six Pakistani sailors injured in a Houthi attack on a Tanzania-flagged vessel in the Red Sea have returned home safely, Deputy PM Ishaq Dar said, while the remains of two sailors killed in the attack have also been repatriated.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2024098/dar-says-pakistani-nationals-injured-in-houthi-attack-in-red-sea-have-returned-safely" }
+      ],
+      "timestamp": "Aug 20, 11:55 AM",
+      "publishedAt": "2026-08-20T11:55:40+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A consular repatriation with no direct effect on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "Routine diplomatic and consular matter that does not touch institutional or governance stability." },
+        "social": { "value": "negative", "reason": "Two sailors died in the attack and were repatriated, a loss of life affecting families' wellbeing even as the injured returned safely." },
+        "market": { "value": "low", "reason": "Limited direct relevance to investors or business decisions beyond general Red Sea shipping risk." },
+        "lean": { "value": "balanced", "reason": "Straightforward factual report built on an official statement from the foreign minister." },
+        "confidence": { "value": "medium", "reason": "Single-source Dawn report but based on a direct, on-record official statement." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "'Tremendous consequences': Trump threatens economic punishment on any country helping Iran",
+      "summary": "AI summary: President Trump warned that any country assisting Iran, including through oil trade, financial transfers, or shipping registries, will face severe economic consequences, as the US-Israel coalition's conflict with Iran nears six months and disrupts the Strait of Hormuz.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2024083/tremendous-consequences-trump-threatens-economic-punishment-on-any-country-helping-iran" }
+      ],
+      "timestamp": "Aug 20, 11:14 AM",
+      "publishedAt": "2026-08-20T11:14:04+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Threatened sanctions and a naval blockade risk further disrupting trade, shipping, and the Strait of Hormuz, a major global trade corridor." },
+        "political": { "value": "negative", "reason": "Escalating US rhetoric prolongs a nearly six-month conflict, raising regional instability that extends beyond the immediate parties." },
+        "social": { "value": "negative", "reason": "A drawn-out conflict with an economic-isolation campaign compounds hardship for affected populations." },
+        "market": { "value": "high", "reason": "Directly relevant to oil prices, shipping routes, and sanctions exposure that investors and businesses actively track." },
+        "lean": { "value": "balanced", "reason": "Report presents quotes from Trump, Bessent, and Iran's Araghchi, giving both sides of the exchange." },
+        "confidence": { "value": "medium", "reason": "Single-source Dawn report but based on multiple direct, attributed quotes from named officials." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Used car imports through 'personal baggage' abolished",
+      "summary": "AI summary: Pakistan's government has scrapped the Personal Baggage Scheme for importing used vehicles due to misuse for commercial purposes, tightening the remaining Gift and Transfer-of-Residence import routes with longer residency requirements and a one-year non-transfer condition.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2024014/used-car-imports-thru-personal-baggage-abolished" }
+      ],
+      "timestamp": "Aug 20, 7:47 AM",
+      "publishedAt": "2026-08-20T07:47:13+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "The ministry itself expects imports could decline, tightening supply and likely raising costs for overseas Pakistanis seeking to import vehicles." },
+        "political": { "value": "neutral", "reason": "A routine regulatory tightening approved through normal ECC and cabinet channels, not an institutional stability issue." },
+        "social": { "value": "neutral", "reason": "Affects a specific group of vehicle importers rather than broad public wellbeing or safety." },
+        "market": { "value": "medium", "reason": "Relevant to the auto import trade and overseas Pakistanis, though not a broad market-moving story." },
+        "lean": { "value": "balanced", "reason": "Reports the ministry's own rationale and acknowledged uncertainty about the policy's full impact." },
+        "confidence": { "value": "medium", "reason": "Single-source Dawn report, though based on the full article and an on-record ministerial statement." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Bilawal reaches out to PTI for legislative cooperation",
+      "summary": "AI summary: Bilawal Bhutto-Zardari met opposition leaders linked to PTI and urged them to join parliamentary committees, while also welcoming Imran Khan's court-ordered transfer to a hospital as a positive democratic step.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40435651/bilawal-reaches-out-to-pti-for-legislative-cooperation" }
+      ],
+      "timestamp": "Aug 20, 5:50 AM",
+      "publishedAt": "2026-08-20T05:50:02+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A parliamentary engagement story with no direct economic effect." },
+        "political": { "value": "positive", "reason": "Signals cross-party coordination and opposition engagement in committees, which supports more functional parliamentary process." },
+        "social": { "value": "neutral", "reason": "Concerns political process rather than direct public wellbeing or safety." },
+        "market": { "value": "low", "reason": "Limited relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Describes cross-party outreach and quotes both PPP and the opposition's response without evident one-sided framing." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt, not the full Business Recorder article." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Syrian foreign minister arrives in Islamabad on official visit",
+      "summary": "AI summary: Syrian Foreign Minister Asaad Hassan al-Shaibani arrived in Islamabad for a two-day official visit at DPM Ishaq Dar's invitation, the first such visit since 2007, to discuss bilateral relations and cooperation with Pakistan.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2024089/syrian-foreign-minister-arrives-in-islamabad-on-official-visit" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40435657/syrian-fm-arrives" }
+      ],
+      "timestamp": "Aug 20, 4:19 AM",
+      "publishedAt": "2026-08-20T04:19:27+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic visit with no immediate economic policy or trade effect reported." },
+        "political": { "value": "positive", "reason": "Strengthens bilateral ties and follows Pakistan's public solidarity with Syria, supporting Pakistan's regional diplomatic standing." },
+        "social": { "value": "neutral", "reason": "A diplomatic visit with no direct bearing on daily public life or safety." },
+        "market": { "value": "low", "reason": "Minimal relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Both sources give straightforward factual coverage of the visit's purpose and background." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two independent outlets with matching details, though the Business Recorder side relies only on its RSS excerpt rather than the full article." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Proposed legislation in Senate, National Assembly: Bilawal rules out support to PML-N govt",
+      "summary": "AI summary: PPP chairman Bilawal Bhutto-Zardari said his party will withhold support for PML-N-led government legislation in the Senate and National Assembly until its grievances, including over the upcoming Azad Jammu and Kashmir elections, are addressed.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40435654/proposed-legislation-in-senate-national-assembly-bilawal-rules-out-support-to-pml-n-govt" }
+      ],
+      "timestamp": "Aug 20, 4:19 AM",
+      "publishedAt": "2026-08-20T04:19:27+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A political statement about legislative support with no direct economic effect." },
+        "political": { "value": "negative", "reason": "Reflects continued coalition friction and a stalled legislative agenda, indicating reduced parliamentary cohesion." },
+        "social": { "value": "neutral", "reason": "Concerns political maneuvering rather than direct public wellbeing or safety." },
+        "market": { "value": "low", "reason": "Limited immediate relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Reports Bilawal's on-record press conference quotes without additional editorializing." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt, not the full Business Recorder article." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Transfer of IK to private hospital: Tarar defends govt's decision to file review petition",
+      "summary": "AI summary: Information Minister Attaullah Tarar defended the government's move to seek review of the Supreme Court order transferring Imran Khan to a private hospital, saying the case raises a broader question of whether all prisoners are entitled to the same treatment.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40435693/transfer-of-ik-to-private-hospital-tarar-defends-govts-decision-to-file-review-petition" }
+      ],
+      "timestamp": "Aug 20, 4:19 AM",
+      "publishedAt": "2026-08-20T04:19:27+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A legal/political dispute with no direct economic effect." },
+        "political": { "value": "negative", "reason": "The government seeking review of a Supreme Court order signals friction between the executive and judiciary over prisoner treatment." },
+        "social": { "value": "neutral", "reason": "Centers on a legal question of prisoner rights rather than broad public wellbeing or safety." },
+        "market": { "value": "low", "reason": "Limited relevance to investors or business decisions." },
+        "lean": { "value": "pro-government", "reason": "The excerpt is built entirely around the government minister's defense of its own decision, with no opposition or PTI rebuttal quoted." },
+        "confidence": { "value": "medium", "reason": "Based only on the RSS description excerpt rather than the full article, though the minister's framing and stated rationale are clear and internally consistent." }
+      }
+    }
+  ]
+}
