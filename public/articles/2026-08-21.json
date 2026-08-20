@@ -1,0 +1,139 @@
+{
+  "generatedAt": "2026-08-21T00:40:00+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "PM Shehbaz stresses need to translate friendship with Syria into bilateral cooperation",
+      "summary": "AI summary: PM Shehbaz Sharif met Syria's visiting foreign minister in Islamabad, pledging deeper cooperation on politics, defence, trade and education, backing Syria's sovereignty over the Golan Heights, and proposing resumed direct flights between the two countries.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2024089/pm-shehbaz-stresses-need-to-translate-friendship-with-syria-into-bilateral-cooperation" }
+      ],
+      "timestamp": "Aug 20, 11:59 PM",
+      "publishedAt": "2026-08-20T23:59:26+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Proposed direct flights and expanded trade/investment cooperation could open modest new business and travel activity." },
+        "political": { "value": "positive", "reason": "Strengthens diplomatic ties and Pakistan's regional standing through a high-level bilateral visit, the first by a Syrian foreign minister since 2007." },
+        "social": { "value": "neutral", "reason": "Primarily a diplomatic/foreign policy matter with limited direct effect on daily public life domestically." },
+        "market": { "value": "low", "reason": "Limited near-term relevance to investors; longer-term trade potential is speculative." },
+        "lean": { "value": "balanced", "reason": "Neutral diplomatic reporting of a state visit, with no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on a single full-text source (Dawn), well-detailed but not independently corroborated." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Preparations at Shifa International Hospital finalised for possible arrival of PTI founder Imran Khan: sources",
+      "summary": "AI summary: Islamabad authorities and Shifa International Hospital have finalised security and medical preparations for PTI founder Imran Khan's possible transfer from Adiala Jail, following a Supreme Court order that the government relocate him within two days; the government has separately filed a review petition challenging the order as discriminatory.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2024149/preparations-at-shifa-international-hospital-finalised-for-possible-arrival-of-pti-founder-imran-khan-sources" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40435790/islamabads-shifa-hospital-on-high-alert-amid-possible-imran-khan-transfer" }
+      ],
+      "timestamp": "Aug 20, 11:42 PM",
+      "publishedAt": "2026-08-20T23:42:04+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Security and hospital logistics carry no material effect on jobs, prices, or business activity." },
+        "political": { "value": "negative", "reason": "The government's review petition challenging the Supreme Court's order as 'discriminatory' reflects continued friction between the executive and judiciary over compliance concerning a detained opposition leader." },
+        "social": { "value": "neutral", "reason": "Ensures medical care access for a detained public figure, but the wider controversy also reflects ongoing political-legal tension affecting public sentiment." },
+        "market": { "value": "low", "reason": "No material relevance to investors or markets; a domestic legal and security matter." },
+        "lean": { "value": "balanced", "reason": "Both sources report the preparations factually and include the government's own justification via its review petition." },
+        "confidence": { "value": "high", "reason": "Corroborated by two independent outlets (Dawn, Business Recorder) with matching details on the preparations and review petition." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Govt hikes petrol price by Rs0.27, high-speed diesel by Rs1.64",
+      "summary": "AI summary: Pakistan's government raised petrol by Rs0.27 and high-speed diesel by Rs1.64 per litre effective August 21, shifting to a daily pricing mechanism tied to international oil markets, with both fuels still well below their April peaks.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2024165/govt-hikes-petrol-price-by-rs027-high-speed-diesel-by-rs164" }
+      ],
+      "timestamp": "Aug 20, 11:07 PM",
+      "publishedAt": "2026-08-20T23:07:24+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Raises fuel and transport costs for consumers and businesses, though the increase is marginal and prices remain far below earlier peaks." },
+        "political": { "value": "neutral", "reason": "A routine OGRA-administered price adjustment under the new daily mechanism, not indicative of governance stability." },
+        "social": { "value": "neutral", "reason": "The increase is small enough that it adds only marginally to cost-of-living pressures for consumers." },
+        "market": { "value": "medium", "reason": "Fuel price shifts are routinely tracked by markets and businesses for input-cost planning." },
+        "lean": { "value": "balanced", "reason": "Straightforward factual report on a regulatory pricing mechanism, with no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on a single full-text source (Dawn); figures are specific and internally consistent." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Govt says Imran Khan can be sent abroad for treatment 'if need arises', but procedure must be followed first",
+      "summary": "AI summary: Parliamentary Affairs Minister Tariq Fazal Chaudhry told the Senate that PTI founder Imran Khan could be sent abroad for medical treatment if necessary, provided due legal procedure is followed, while opposition lawmakers pressed the government over healthcare access for other detained PTI figures including Dr Yasmin Rashid.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2024154/govt-says-imran-khan-can-be-sent-abroad-for-treatment-if-need-arises-but-procedure-must-be-followed-first" }
+      ],
+      "timestamp": "Aug 20, 10:32 PM",
+      "publishedAt": "2026-08-20T22:32:04+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A legal/political statement with no direct bearing on jobs, prices, or business activity." },
+        "political": { "value": "negative", "reason": "A heated Senate exchange over detained opposition leaders' healthcare, including counter-accusations tied to the May 9 unrest, reflects continued institutional and inter-party friction." },
+        "social": { "value": "negative", "reason": "Opposition lawmakers highlighted concerns about inadequate medical care for detained political figures, raising a public wellbeing and human-rights dimension." },
+        "market": { "value": "low", "reason": "A domestic political and legal matter with negligible relevance to markets or investors." },
+        "lean": { "value": "balanced", "reason": "The report gives voice to both the government's position and the opposition's rebuttal, without settling the dispute in either side's favour." },
+        "confidence": { "value": "medium", "reason": "Based on a single full-text source (Dawn); detailed but not independently corroborated." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "National Assembly passes bills related to military, National Command Authority",
+      "summary": "AI summary: The National Assembly passed the Defence Forces Act 2026 and amendments to the National Command Authority Act 2010, implementing the 27th Constitutional Amendment and defining the powers of the Chief of Defence Forces, with the opposition staging a walkout; the cabinet separately gave in-principle approval to a new National Adolescent and Youth Policy.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40435743/national-assembly-passes-bills-related-to-military-national-command-authority" }
+      ],
+      "timestamp": "Aug 20, 8:12 PM",
+      "publishedAt": "2026-08-20T20:12:13+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Primarily constitutional and military governance legislation with no direct economic effect." },
+        "political": { "value": "negative", "reason": "Passage of major defence-command legislation over an opposition walkout signals continued parliamentary friction around the consolidation of military-related executive authority." },
+        "social": { "value": "neutral", "reason": "Limited immediate effect on daily public life; the youth policy is at an early in-principle stage." },
+        "market": { "value": "low", "reason": "A domestic legislative and military-governance matter with little direct relevance to markets." },
+        "lean": { "value": "balanced", "reason": "The report factually notes both the bill's passage and the opposition's walkout in protest." },
+        "confidence": { "value": "low", "reason": "Drawn from the RSS description excerpt only, since the article page returned a 403 error; the full article could not be verified." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "PM Shehbaz invites opposition to dialogue 'to strengthen economy, democracy'",
+      "summary": "AI summary: PM Shehbaz Sharif urged opposition parties to hold dialogue to strengthen Pakistan's economy and democracy, welcomed a recent Rs32/litre cut in diesel prices, cited 18% growth in IT exports in July, and noted Google's decision to open an office in Pakistan.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40435754/pm-shehbaz-invites-opposition-to-dialogue-to-strengthen-economy-democracy" }
+      ],
+      "timestamp": "Aug 20, 3:05 PM",
+      "publishedAt": "2026-08-20T15:05:51+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Highlights falling fuel prices, strong IT export growth, and new foreign tech investment (a Google office) as economic positives." },
+        "political": { "value": "neutral", "reason": "An invitation to dialogue is a routine conciliatory gesture; its effect on governance stability depends on the opposition's response, which is not yet known." },
+        "social": { "value": "neutral", "reason": "General political messaging with no direct, immediate effect on public wellbeing or safety." },
+        "market": { "value": "medium", "reason": "IT export growth and a major tech firm's new office are relevant signals for investors and businesses." },
+        "lean": { "value": "balanced", "reason": "The excerpt relays the PM's own claims without a visible opposition rebuttal, but this may reflect the excerpt's brevity rather than the full article's framing." },
+        "confidence": { "value": "low", "reason": "Drawn from the RSS description excerpt only, since the article page returned a 403 error; the full article could not be verified." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Review plea against Imran Khan's Shifa transfer order 'returned with objections'",
+      "summary": "AI summary: The Supreme Court registrar's office returned the government's review petition against Imran Khan's ordered hospital transfer over procedural deficiencies, as PTI's Salman Akram Raja said the state had effectively withdrawn its challenge and demanded immediate compliance with the court's August 18 order permitting his sister and a doctor to attend his examination.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40435750/review-plea-against-imran-khans-shifa-transfer-order-returned-with-objections" }
+      ],
+      "timestamp": "Aug 20, 2:28 PM",
+      "publishedAt": "2026-08-20T14:28:43+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A judicial procedural matter with no bearing on jobs, prices, or business activity." },
+        "political": { "value": "negative", "reason": "Procedural rejection of the government's challenge to a Supreme Court order, amid PTI's demand for compliance, underscores continued executive-judiciary and government-opposition friction." },
+        "social": { "value": "neutral", "reason": "Primarily a legal-procedural development; direct effect on public wellbeing is limited." },
+        "market": { "value": "low", "reason": "A domestic judicial procedure with negligible market relevance." },
+        "lean": { "value": "balanced", "reason": "Reports both the government's procedural setback and PTI's response using attributed claims from named individuals." },
+        "confidence": { "value": "low", "reason": "Drawn from the RSS description excerpt only, since the article page returned a 403 error; the full article could not be verified." }
+      }
+    }
+  ]
+}
