@@ -1,8 +1,142 @@
 {
-  "generatedAt": "2026-08-21T00:40:00+05:00",
+  "generatedAt": "2026-08-21T11:40:00+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "PM Shehbaz, President Zardari stress unconditional condemnation of terrorism, global action",
+      "summary": "AI summary: PM Shehbaz Sharif and President Zardari marked the International Day of Remembrance and Tribute to Victims of Terrorism with separate statements urging unconditional, unqualified global condemnation of terrorism, citing Pakistan's own losses including Benazir Bhutto's assassination and the Army Public School attack, and calling for international action against safe havens and radicalisation.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2024314/pm-shehbaz-president-zardari-stress-unconditional-condemnation-of-terrorism-global-action" }
+      ],
+      "timestamp": "Aug 21, 11:35 AM",
+      "publishedAt": "2026-08-21T11:35:32+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Symbolic commemorative messaging with no direct effect on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "Routine commemorative statements from the sitting president and PM with no institutional friction involved." },
+        "social": { "value": "neutral", "reason": "Expresses solidarity with terrorism victims but does not materially change public safety conditions." },
+        "market": { "value": "low", "reason": "A symbolic diplomatic/commemorative statement with negligible relevance to markets." },
+        "lean": { "value": "balanced", "reason": "Reports both the PM's and President's statements factually with no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on a single full-text source (Dawn); detailed but not independently corroborated." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "CDF Munir says foreign-sponsored proxies being used by hostile elements to destabilise Balochistan",
+      "summary": "AI summary: Chief of Defence Forces Asim Munir told Balochistan's political leadership that foreign-sponsored proxies were being used by hostile elements to destabilise the province and obstruct development, as separately cited security data showed conflict deaths surged over 240% month-on-month in July; provincial leaders pledged cooperation with security forces.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2024303/cdf-munir-says-foreign-sponsored-proxies-being-used-by-hostile-elements-to-destabilise-balochistan" }
+      ],
+      "timestamp": "Aug 21, 10:51 AM",
+      "publishedAt": "2026-08-21T10:51:07+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Continued instability described as obstructing Balochistan's development is likely to deter investment and disrupt business activity in the province." },
+        "political": { "value": "neutral", "reason": "A military leadership statement and provincial leaders' pledge of cooperation, without evidence of institutional friction between government branches." },
+        "social": { "value": "negative", "reason": "Cited data showing conflict deaths up over 240% month-on-month points to serious, worsening harm to public safety in the province, despite the security framing." },
+        "market": { "value": "low", "reason": "A regional security statement with limited direct relevance to national markets or investors." },
+        "lean": { "value": "balanced", "reason": "Attributes claims to ISPR/military leadership and cites independent casualty statistics rather than asserting a one-sided narrative." },
+        "confidence": { "value": "medium", "reason": "Based on a single full-text source (Dawn) with corroborating casualty statistics cited within it, but not independently verified elsewhere." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Minister says Imran taken back to Adiala jail after visit to Pims, declared 'medically fit' by doctors",
+      "summary": "AI summary: PTI founder Imran Khan was examined overnight by a medical team including a cardiologist and ophthalmologist and declared medically fit before being returned to Adiala jail around 5am on August 21; Information Minister Attaullah Tarar said the examination was conducted at PIMS rather than Shifa International Hospital, citing a security situation created by PTI workers outside Shifa.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2024149/minister-says-imran-taken-back-to-adiala-jail-after-visit-to-pims-declared-medically-fit-by-doctors" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40435914/ex-pm-imran-khan-moved-back-to-adiala-jail-from-hospital" }
+      ],
+      "timestamp": "Aug 21, 9:34 AM",
+      "publishedAt": "2026-08-21T09:34:59+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Security and hospital logistics carry no material effect on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "Reflects completion of the medical review ordered by the Supreme Court and Khan's return to detention, a procedural step rather than a new escalation." },
+        "social": { "value": "negative", "reason": "A large security deployment and disruption around the hospital area, attributed to a PTI worker presence, points to continued public unrest and disruption tied to the case." },
+        "market": { "value": "low", "reason": "A domestic legal and security matter with no material relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Reports the government's own clarification on the hospital discrepancy alongside the medical outcome, without favouring either side." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two independent outlets (Dawn, Business Recorder), though the two carry a discrepancy over which hospital was involved (Dawn cites the government's PIMS clarification; Business Recorder's description names Shifa)." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "AJK president, rights body deplore US envoy's Kashmir remarks",
+      "summary": "AI summary: AJK President Chaudhry Latif Akbar and Kashmiri rights organisations criticised US Ambassador to India Sergio Gor's description of Indian-occupied Kashmir as 'an important part of India,' calling the remarks regrettable and reasserting that Kashmir's status remains internationally disputed pending Kashmiri self-determination.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2024216/ajk-president-rights-body-deplore-us-envoys-kashmir-remarks" }
+      ],
+      "timestamp": "Aug 21, 7:29 AM",
+      "publishedAt": "2026-08-21T07:29:15+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A foreign policy/diplomatic reaction with no bearing on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "A reactive statement on an external actor's remarks rather than a development affecting Pakistan's own institutional stability." },
+        "social": { "value": "neutral", "reason": "Limited direct effect on daily public life domestically." },
+        "market": { "value": "low", "reason": "A diplomatic rhetoric matter with negligible relevance to markets." },
+        "lean": { "value": "balanced", "reason": "Presents the Pakistani/Kashmiri response to a foreign statement without domestic partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on a single full-text source (Dawn); detailed but not independently corroborated." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "IPP allocated key portfolios in Gilgit-Baltistan",
+      "summary": "AI summary: The Istehkam-e-Pakistan Party (IPP) was allocated key ministerial portfolios in the Gilgit-Baltistan administration, including education, food, industries, water, prisons and agriculture, with party leaders emphasising regional economic self-reliance and tourism development.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40435881/ipp-allocated-key-portfolios-in-gilgit-baltistan" }
+      ],
+      "timestamp": "Aug 21, 5:34 AM",
+      "publishedAt": "2026-08-21T05:34:40+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "New ministerial focus on economic self-sufficiency and tourism expansion in Gilgit-Baltistan is a modest positive economic signal, though aspirational." },
+        "political": { "value": "neutral", "reason": "A routine coalition portfolio allocation in a regional administration with no evident institutional friction." },
+        "social": { "value": "neutral", "reason": "An administrative governance matter with limited immediate effect on daily public life." },
+        "market": { "value": "low", "reason": "A regional administrative matter with negligible relevance to national markets or investors." },
+        "lean": { "value": "balanced", "reason": "Reports the portfolio allocation and party's own stated priorities factually." },
+        "confidence": { "value": "low", "reason": "Drawn from the RSS description excerpt only, since the article page returned a 403 error; the full article could not be verified." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Defence forces, NCA amendment bills sail thru parliament",
+      "summary": "AI summary: Parliament passed defence-related legislation updating the armed forces' command structure and amending the National Command Authority framework in line with 2025 constitutional changes, with opposition parties staging a walkout over how the bills were presented.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40435836/defence-forces-nca-amendment-bills-sail-thru-parliament" }
+      ],
+      "timestamp": "Aug 21, 5:34 AM",
+      "publishedAt": "2026-08-21T05:34:39+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Constitutional and military governance legislation with no direct economic effect." },
+        "political": { "value": "negative", "reason": "An opposition walkout over the bills' presentation process reflects continued parliamentary friction around defence-related legislation." },
+        "social": { "value": "neutral", "reason": "Limited immediate effect on daily public life." },
+        "market": { "value": "low", "reason": "A domestic legislative and military-governance matter with little direct relevance to markets." },
+        "lean": { "value": "balanced", "reason": "Notes both the bills' passage and the opposition's walkout in protest." },
+        "confidence": { "value": "low", "reason": "Drawn from the RSS description excerpt only, since the article page returned a 403 error; the full article could not be verified." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "PM for translating friendship with Syria into cooperation",
+      "summary": "AI summary: PM Shehbaz Sharif met Syria's foreign minister and reaffirmed support for Syrian sovereignty, pledging to expand political, security, commercial, educational and human-resource cooperation, with resumed direct flights seen as beneficial for people-to-people ties and pilgrim travel.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40435839/pm-for-translating-friendship-with-syria-into-cooperation" }
+      ],
+      "timestamp": "Aug 21, 5:34 AM",
+      "publishedAt": "2026-08-21T05:34:39+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Proposed direct flights and expanded trade/commercial cooperation could open modest new business and travel activity." },
+        "political": { "value": "positive", "reason": "Strengthens diplomatic ties and reaffirms mutual support on sovereignty matters through continued high-level engagement." },
+        "social": { "value": "neutral", "reason": "Primarily a diplomatic/foreign policy matter with limited direct effect on daily public life domestically." },
+        "market": { "value": "low", "reason": "Limited near-term relevance to investors; longer-term trade potential is speculative." },
+        "lean": { "value": "balanced", "reason": "Neutral diplomatic reporting of the meeting, with no partisan framing." },
+        "confidence": { "value": "low", "reason": "Drawn from the RSS description excerpt only, since the article page returned a 403 error; the full article could not be verified." }
+      }
+    },
+    {
+      "id": 8,
       "headline": "PM Shehbaz stresses need to translate friendship with Syria into bilateral cooperation",
       "summary": "AI summary: PM Shehbaz Sharif met Syria's visiting foreign minister in Islamabad, pledging deeper cooperation on politics, defence, trade and education, backing Syria's sovereignty over the Golan Heights, and proposing resumed direct flights between the two countries.",
       "sources": [
@@ -21,7 +155,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 9,
       "headline": "Preparations at Shifa International Hospital finalised for possible arrival of PTI founder Imran Khan: sources",
       "summary": "AI summary: Islamabad authorities and Shifa International Hospital have finalised security and medical preparations for PTI founder Imran Khan's possible transfer from Adiala Jail, following a Supreme Court order that the government relocate him within two days; the government has separately filed a review petition challenging the order as discriminatory.",
       "sources": [
@@ -41,7 +175,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 10,
       "headline": "Govt hikes petrol price by Rs0.27, high-speed diesel by Rs1.64",
       "summary": "AI summary: Pakistan's government raised petrol by Rs0.27 and high-speed diesel by Rs1.64 per litre effective August 21, shifting to a daily pricing mechanism tied to international oil markets, with both fuels still well below their April peaks.",
       "sources": [
@@ -60,7 +194,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 11,
       "headline": "Govt says Imran Khan can be sent abroad for treatment 'if need arises', but procedure must be followed first",
       "summary": "AI summary: Parliamentary Affairs Minister Tariq Fazal Chaudhry told the Senate that PTI founder Imran Khan could be sent abroad for medical treatment if necessary, provided due legal procedure is followed, while opposition lawmakers pressed the government over healthcare access for other detained PTI figures including Dr Yasmin Rashid.",
       "sources": [
@@ -79,7 +213,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 12,
       "headline": "National Assembly passes bills related to military, National Command Authority",
       "summary": "AI summary: The National Assembly passed the Defence Forces Act 2026 and amendments to the National Command Authority Act 2010, implementing the 27th Constitutional Amendment and defining the powers of the Chief of Defence Forces, with the opposition staging a walkout; the cabinet separately gave in-principle approval to a new National Adolescent and Youth Policy.",
       "sources": [
@@ -98,7 +232,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 13,
       "headline": "PM Shehbaz invites opposition to dialogue 'to strengthen economy, democracy'",
       "summary": "AI summary: PM Shehbaz Sharif urged opposition parties to hold dialogue to strengthen Pakistan's economy and democracy, welcomed a recent Rs32/litre cut in diesel prices, cited 18% growth in IT exports in July, and noted Google's decision to open an office in Pakistan.",
       "sources": [
@@ -117,7 +251,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 14,
       "headline": "Review plea against Imran Khan's Shifa transfer order 'returned with objections'",
       "summary": "AI summary: The Supreme Court registrar's office returned the government's review petition against Imran Khan's ordered hospital transfer over procedural deficiencies, as PTI's Salman Akram Raja said the state had effectively withdrawn its challenge and demanded immediate compliance with the court's August 18 order permitting his sister and a doctor to attend his examination.",
       "sources": [
