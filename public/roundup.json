@@ -1,50 +1,50 @@
 {
-  "generatedAt": "2026-08-14T23:07:36+05:00",
-  "periodStart": "2026-08-08",
-  "periodEnd": "2026-08-14",
-  "periodLabel": "Aug 8 to Aug 14, 2026",
-  "totalArticles": 153,
+  "generatedAt": "2026-08-21T22:00:00+05:00",
+  "periodStart": "2026-08-15",
+  "periodEnd": "2026-08-21",
+  "periodLabel": "Aug 15 to Aug 21, 2026",
+  "totalArticles": 104,
   "stats": {
-    "economic": { "positive": 21, "neutral": 113, "negative": 19 },
-    "political": { "positive": 26, "neutral": 87, "negative": 40 },
-    "social": { "positive": 29, "neutral": 71, "negative": 53 }
+    "economic": { "positive": 11, "neutral": 79, "negative": 14 },
+    "political": { "positive": 18, "neutral": 63, "negative": 23 },
+    "social": { "positive": 12, "neutral": 64, "negative": 28 }
   },
   "summary": [
-    "Across the 153 articles tracked this week, sentiment split unevenly by category: economic coverage stayed overwhelmingly neutral to positive, with only about 12% of readings negative, while political sentiment ran negative in roughly a quarter of coverage and social sentiment was negative in over a third, the highest share of the three. That gap makes sense given what filled the social and political columns this week: violence and its aftermath rather than economic distress. A gas pipeline bombing cut supply to four Balochistan cities, gunmen attacked the Balochistan home minister's own convoy in Mastung, two tribal elders were shot dead in South Waziristan, and a police constable was killed in Lakki Marwat, all of which register as direct threats to public safety rather than economic setbacks.",
-    "The political negativity this week came from several distinct threads rather than one crisis. Azad Kashmir's third-phase elections drew repeated rigging allegations from the PPP, including claims of ballot stamping, forcibly removed polling agents, and armed men firing at one polling station, serious enough that the Election Commission relieved several presiding officers and ordered re-polling at 23 stations. Separately, PTI confirmed its full leadership and allied groups are backing a September 27 long march on Islamabad that organizers say could draw as many as two million people, pressing for access to imprisoned founder Imran Khan. And a slower-burning institutional standoff continued over judges' appointments, with the Islamabad High Court publicly pressing the president and prime minister over a missed constitutional deadline. None of these alone is a single dramatic event, but together they describe a government facing pressure from the courts, the opposition, and its own electoral process at the same time.",
-    "If the week had a dominant storyline, it was Balochistan and the broader security picture in the northwest. A UN Security Council monitoring report attributed deadlier cross-border TTP attacks to continued backing from the Afghan Taliban, and that finding sits alongside a fourth pipeline bombing since March, the attack on the home minister's convoy, and multiple state-media announcements of security forces killing militants in intelligence-based operations. Read together, the pattern is one of persistent, unresolved insurgency rather than isolated incidents. Worth flagging: most of this cluster relied on official, security-source, or state-media attribution rather than independent verification, and Miqyas's own confidence ratings on these stories mostly sat at 'medium,' with a couple rated 'low' where coverage was limited to short wire excerpts.",
-    "On balance and framing, coverage stayed even-handed even on the more charged stories: reporting on the PTI march, the AJK rigging disputes, and the ongoing Pakistan-Afghan Taliban war of words over weapons smuggling all presented competing claims from both sides rather than adopting one side's framing, consistent with how the site treats contested claims generally. Confidence ratings clustered around 'medium' across the week's flagged stories, reflecting reliance on single-outlet reporting even where named officials were quoted on the record; a handful of AJK-related items from August 8 and 9 were rated 'low confidence' specifically because they were based only on short RSS excerpts rather than full articles."
+    "Across the 104 articles tracked this week, social sentiment carried the heaviest negative share of the three categories at roughly 27%, ahead of political at 22% and economic at just under 14%. That ordering is somewhat different from prior weeks, where fuel and price news typically drags economic sentiment down; this week economic coverage was cushioned by several genuinely positive developments; a diesel price cut of roughly Rs30-32 per litre after government talks with refineries, Google opening its first Pakistan office, and progress on the $2.5bn ML-1 railway financing all pulled the category toward neutral-to-positive even as petrol and diesel prices ticked up twice during the week. Social sentiment's negative tilt, by contrast, tracks a steady run of security and unrest stories: intelligence-based operations against militants in Balochistan and KP reported almost daily, a Karachi vendor shot dead in a targeted separatist attack, monsoon flood warnings for several major cities, and a detained lady health workers' protest broken up by police.",
+    "If the week had one dominant storyline, it was the standoff between the government and the judiciary over jailed PTI founder Imran Khan. It ran through nearly every day from August 17 onward: the Supreme Court ordered his transfer to Shifa International Hospital for a medical exam, the government filed a review petition calling the order discriminatory, the petition was returned by the court registrar over procedural defects, Khan was ultimately examined at PIMS rather than Shifa and declared medically fit before being returned to Adiala jail, and PTI then accused the government of defying the court outright, announcing both a contempt petition and a long march for September 27. Coverage of this saga stayed procedurally even-handed, generally presenting the government's stated rationale alongside PTI's objections, though a few individual dispatches (built around a single minister's or petitioner's remarks) were flagged with a pro-government or pro-opposition lean simply because no rebuttal was available within that particular article.",
+    "A second, quieter thread ran alongside it: pressure over fuel and provincial politics. Jamaat-i-Islami's petroleum-levy sit-in, which began the prior week, continued through Aug 16-17 with explicit warnings it could escalate into a broader anti-government movement, while a cited security-think-tank assessment reported Balochistan's conflict deaths up roughly 241% and security-personnel deaths up over 900% year-on-year, a sharp escalation sitting underneath the week's routine 'militants killed' operational announcements. Separately, the long-simmering proposal to redraw Pakistan's provincial map, splitting Punjab, Balochistan and KP and carving federal territory out of Sindh ahead of a proposed 28th Constitutional Amendment, resurfaced with MQM-P pushing for dialogue and Sindh's government warning the idea risks ethnic unrest. Parliament also passed defence-forces and National Command Authority amendment legislation over an opposition walkout, adding a fourth distinct source of institutional friction to a week already carrying several.",
+    "On confidence and framing: a large share of this week's flagged stories, especially from Business Recorder, were rated 'low' or 'medium' confidence because the outlet's article pages returned 403 errors, leaving Miqyas working only from RSS description excerpts rather than full text; that's a structural access issue rather than a reporting-quality one, but it means several of the week's more consequential claims (the Balochistan casualty statistics, the AJK reserved-seat schedule, Bilawal's withdrawal of legislative support) carry more uncertainty than usual. Political lean stayed 'balanced' on almost all flagged stories even through the Imran Khan standoff and the provinces debate, largely because Miqyas attributed contested claims to the party or official making them (PTI's accusations, the government's justifications, MQM-P's proposal, Sindh's rebuttal) rather than stating any of them as settled fact."
   ],
   "notableStories": [
     {
-      "headline": "Second autopsy reveals signs of torture, bullet wound in Mir Raza's body: report",
-      "context": "A second, independently ordered post-mortem contradicted the police's initial suicide finding, revealing a rear-entry gunshot wound and signs of torture, prompting Sindh's government to form a judicial commission to investigate the businessman's death.",
+      "headline": "PTI slams govt for 'flouting' SC order, opp says it will approach SC over contempt",
+      "context": "The week's central storyline reached its sharpest point here: after the government examined Imran Khan at PIMS instead of the court-ordered Shifa Hospital, PTI accused it of defying the Supreme Court outright and announced both a contempt petition and a September 27 long march.",
       "sourceName": "Dawn News",
-      "sourceUrl": "https://www.dawn.com/news/2021482/mir-raza-ali-case-family-lawyer-allege-25-year-old-was-murdered-after-torture"
+      "sourceUrl": "https://www.dawn.com/news/2024325/pti-slams-govt-for-flouting-sc-order-opp-says-it-will-approach-sc-over-contempt"
     },
     {
-      "headline": "3rd phase of AJK polls: PPP continues to allege rigging as voting under way in Poonch Division's Bagh, Haveli",
-      "context": "PPP alleged ballot stamping, forcibly removed polling agents, and armed men firing at a polling station during Azad Kashmir's third-phase elections, prompting the Election Commission to relieve some presiding officers and order re-polling at 23 stations.",
+      "headline": "JI vows to continue sit-in until petroleum levy abolished",
+      "context": "Jamaat-i-Islami's open-ended sit-in against the petroleum levy, with an explicit warning it could escalate into a wider movement, captures the week's undercurrent of public strain over fuel and food prices.",
       "sourceName": "Dawn News",
-      "sourceUrl": "https://www.dawn.com/news/2021864/3rd-phase-of-ajk-polls-ppp-continues-to-allege-rigging-as-voting-under-way-in-poonch-divisions-bagh-haveli"
+      "sourceUrl": "https://www.dawn.com/news/2023244/ji-vows-to-continue-sit-in-until-petroleum-levy-abolished"
     },
     {
-      "headline": "PTI leadership, TTAP on board for September 27 long march to Islamabad: Sohail Afridi",
-      "context": "PTI confirmed its full leadership and allied groups back a September 27 long march on Islamabad, which organizers say could draw as many as two million people, to press for access to imprisoned founder Imran Khan.",
+      "headline": "Over 9 terrorists killed in Balochistan IBOs: state media",
+      "context": "Beyond the operation itself, the story cited independent security-assessment data showing Balochistan's overall conflict deaths up roughly 241% and security-personnel deaths up over 900% this year, a sharp deterioration behind the week's routine security bulletins.",
       "sourceName": "Dawn News",
-      "sourceUrl": "https://www.dawn.com/news/2021943/pti-leadership-ttap-on-board-for-september-27-long-march-to-islamabad-sohail-afridi"
+      "sourceUrl": "https://www.dawn.com/news/2023634/over-9-terrorists-killed-in-balochistan-ibos-state-media"
     },
     {
-      "headline": "Houthi attacks kill 11 in Yemen, target Saudi oil refinery",
-      "context": "Houthi missile and drone strikes killed at least 11 people and hit a major Saudi oil refinery, escalating a regional conflict with implications for Red Sea shipping and energy trade that Pakistan has a stake in.",
+      "headline": "New administrative units 'under serious consideration'",
+      "context": "Confirmation that the government is seriously weighing splitting Punjab, Balochistan and KP and carving federal territory out of Sindh, ahead of a proposed 28th Constitutional Amendment, a historically contentious idea most political parties currently oppose.",
       "sourceName": "Dawn News",
-      "sourceUrl": "https://www.dawn.com/news/2021681/houthi-attacks-kill-11-in-yemen-target-saudi-oil-refinery"
+      "sourceUrl": "https://www.dawn.com/news/2022951/new-administrative-units-under-serious-consideration"
     },
     {
-      "headline": "Taliban support fuels deadlier TTP attacks in Pakistan: UN",
-      "context": "A UN Security Council monitoring report found continued Afghan Taliban backing is fueling deadlier cross-border TTP attacks in Pakistan, an official thread tying together the week's cluster of violence in Balochistan and KP.",
-      "sourceName": "Dawn News",
-      "sourceUrl": "https://www.dawn.com/news/2022505/taliban-support-fuels-deadlier-ttp-attacks-in-pakistan-un"
+      "headline": "Defence forces, NCA amendment bills sail thru parliament",
+      "context": "Parliament passed legislation restructuring the armed forces' command structure and the National Command Authority framework over an opposition walkout, a distinct institutional flashpoint alongside the week's judiciary standoff and provincial-boundary debate.",
+      "sourceName": "Business Recorder",
+      "sourceUrl": "https://www.brecorder.com/news/40435836/defence-forces-nca-amendment-bills-sail-thru-parliament"
     }
   ]
 }
