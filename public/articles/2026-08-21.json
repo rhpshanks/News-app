@@ -1,8 +1,142 @@
 {
-  "generatedAt": "2026-08-21T11:40:00+05:00",
+  "generatedAt": "2026-08-21T20:43:43+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "Islamabad chief commissioner again moves SC against 'discriminatory' order to shift Imran to private hospital",
+      "summary": "AI summary: The Islamabad chief commissioner filed a fresh review petition with the Supreme Court against its August 18 order directing Imran Khan's transfer to Shifa International Hospital, arguing the ruling was discriminatory, violated equal-protection guarantees and prison regulations, and risked destabilising the criminal justice system, after an earlier review petition was returned by the court registrar over documentation defects.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2024368/islamabad-chief-commissioner-again-moves-sc-against-discriminatory-order-to-shift-imran-to-private-hospital" }
+      ],
+      "timestamp": "Aug 21, 8:07 PM",
+      "publishedAt": "2026-08-21T20:07:18+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A legal/procedural filing with no direct effect on jobs, prices, or business activity." },
+        "political": { "value": "negative", "reason": "A renewed government challenge to a Supreme Court order reflects continued executive-judiciary friction over compliance in a high-profile detention case." },
+        "social": { "value": "neutral", "reason": "Primarily a legal-procedural development with limited direct effect on daily public life." },
+        "market": { "value": "low", "reason": "A domestic judicial procedure with negligible relevance to markets or investors." },
+        "lean": { "value": "pro-government", "reason": "The piece is built almost entirely around the chief commissioner's own legal arguments and reasoning, without opposition rebuttal presented within it." },
+        "confidence": { "value": "medium", "reason": "Based on a single full-text source (Dawn); detailed but not independently corroborated." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Imran Khan healthy but suffering anxiety due to isolation, says sister",
+      "summary": "AI summary: Imran Khan's sister Dr Uzma Khan said the PTI founder was physically fit with normal blood pressure but suffering anxiety from prolonged isolation, alleging no comprehensive blood tests were done during his hospital visit and that he lacked access to television or reading materials in detention, while raising concerns drawn from former Egyptian president Mohamed Morsi's death in custody.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40435952/imran-khan-healthy-but-suffering-anxiety-due-to-isolation-says-sister" }
+      ],
+      "timestamp": "Aug 21, 7:47 PM",
+      "publishedAt": "2026-08-21T19:47:17+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A personal health and detention-conditions account with no bearing on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "A family member's personal account of detention conditions, not itself a new institutional dispute or governance development." },
+        "social": { "value": "negative", "reason": "Raises human-wellbeing concerns about prolonged isolation, restricted access to reading/television, and questions over the thoroughness of medical care in detention." },
+        "market": { "value": "low", "reason": "A personal/human-interest account with negligible relevance to markets." },
+        "lean": { "value": "balanced", "reason": "Relays a family member's own claims and concerns without asserting them as settled fact or attacking a political side." },
+        "confidence": { "value": "low", "reason": "Drawn from the RSS description excerpt only, since the article page returned a 403 error; the full article could not be verified." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "PTI slams govt for 'flouting' SC order, opp says it will approach SC over contempt",
+      "summary": "AI summary: PTI accused the government of defying the Supreme Court's August 18 order to shift Imran Khan to Shifa International Hospital after he was instead taken to PIMS and returned to Adiala jail before dawn, with PTI leaders including KP Chief Minister Sohail Afridi saying the court's ruling had been disregarded; the party announced it will file a contempt-of-court petition and hold a long march on September 27.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2024325/pti-slams-govt-for-flouting-sc-order-opp-says-it-will-approach-sc-over-contempt" }
+      ],
+      "timestamp": "Aug 21, 7:46 PM",
+      "publishedAt": "2026-08-21T19:46:50+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A political/legal dispute with no direct effect on jobs, prices, or business activity." },
+        "political": { "value": "negative", "reason": "An opposition accusation of contempt of a Supreme Court order, paired with a planned long march, reflects significant executive-judiciary and government-opposition friction." },
+        "social": { "value": "neutral", "reason": "A legal/political dispute at this stage, though a planned long march could carry future disruption not yet realised." },
+        "market": { "value": "low", "reason": "A domestic political and legal dispute with negligible direct relevance to markets." },
+        "lean": { "value": "pro-opposition", "reason": "The piece is built almost entirely around PTI leaders' quotes and accusations, with no government rebuttal presented within it." },
+        "confidence": { "value": "medium", "reason": "Based on a single full-text source (Dawn); detailed but not independently corroborated." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "People of Balochistan will have first right to province's wealth: PM Shehbaz",
+      "summary": "AI summary: PM Shehbaz Sharif told the closing session of the Balochistan National Workshop in Quetta that the province's people would have first right to its mineral wealth, pledged federal-provincial cooperation to develop mining and infrastructure, and condemned terrorism targeting workers while praising security forces' sacrifices.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2024362/people-of-balochistan-will-have-first-right-to-provinces-wealth-pm-shehbaz" }
+      ],
+      "timestamp": "Aug 21, 7:02 PM",
+      "publishedAt": "2026-08-21T19:02:09+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Pledges to develop the province's mining wealth and infrastructure for local benefit signal a modest positive economic direction, though aspirational." },
+        "political": { "value": "neutral", "reason": "A conciliatory federal-provincial address with no evident institutional friction." },
+        "social": { "value": "neutral", "reason": "Acknowledges education, healthcare and transport needs without describing a concrete change to daily public life yet." },
+        "market": { "value": "medium", "reason": "Signals about mineral resource development are relevant to investors and businesses in the mining sector." },
+        "lean": { "value": "balanced", "reason": "Factual coverage of the PM's speech and commitments with no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on a single full-text source (Dawn); detailed but not independently corroborated." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "49 terrorists killed in IBOs in KP, Balochistan: ISPR",
+      "summary": "AI summary: ISPR said security forces killed 49 terrorists in intelligence-based operations across Khyber Pakhtunkhwa and Balochistan, including 12 in KP districts such as Bannu and North Waziristan and 37 across ten operations in Balochistan districts including Mastung and Khuzdar, attributing the militants to groups it labelled Fitna al-Khawarij and Fitna al-Hindustan and citing recovered weapons and explosives, amid a reported 205 conflict deaths in July including 112 security personnel.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2024356/49-terrorists-killed-in-ibos-in-kp-balochistan-ispr" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40435961/security-forces-kill-49-terrorists-in-kp-balochistan-operations-ispr" }
+      ],
+      "timestamp": "Aug 21, 6:01 PM",
+      "publishedAt": "2026-08-21T18:01:55+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Continued large-scale conflict in Balochistan and KP is likely to keep deterring investment and disrupting business and mining activity in the affected provinces." },
+        "political": { "value": "neutral", "reason": "A routine ISPR operational statement commended by government leaders, without evidence of institutional friction." },
+        "social": { "value": "negative", "reason": "The scale of the operations and the cited 205 conflict deaths in July, including 112 security personnel, point to serious, ongoing harm and instability despite the security-success framing." },
+        "market": { "value": "low", "reason": "A security operations statement with limited direct relevance to national markets or investors." },
+        "lean": { "value": "balanced", "reason": "Attributes the casualty claims and group designations to ISPR as the stated source, rather than asserting them as independently verified fact." },
+        "confidence": { "value": "high", "reason": "Corroborated by two independent outlets (Dawn, Business Recorder) with matching casualty figures, locations, and operational details." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Pakistan announces public holiday on August 26 for Eid Milad-un-Nabi",
+      "summary": "AI summary: The federal government declared August 26 a public holiday nationwide for Eid Milad-un-Nabi following the Cabinet Division's notification and PM Shehbaz Sharif's approval, based on the Central Ruet-e-Hilal Committee's determination that the Rabi-ul-Awwal moon had not been sighted.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40435946/pakistan-announces-public-holiday-on-august-26-for-eid-milad-un-nabi" }
+      ],
+      "timestamp": "Aug 21, 3:20 PM",
+      "publishedAt": "2026-08-21T15:20:48+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A routine one-day public holiday with negligible net economic effect." },
+        "political": { "value": "neutral", "reason": "A routine administrative notification with no institutional friction involved." },
+        "social": { "value": "positive", "reason": "A nationally observed religious holiday enabling community and family observance." },
+        "market": { "value": "low", "reason": "A routine holiday announcement with negligible relevance to markets." },
+        "lean": { "value": "balanced", "reason": "A straightforward factual notice with no partisan framing." },
+        "confidence": { "value": "low", "reason": "Drawn from the RSS description excerpt only, since the article page returned a 403 error; the full article could not be verified." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "PMD forecasts downpours across upper, central regions over weekend",
+      "summary": "AI summary: The Pakistan Meteorological Department warned of heavy monsoon and westerly-system rainfall across Kashmir, Khyber Pakhtunkhwa, Punjab, Islamabad and Gilgit-Baltistan from Friday evening through Sunday, cautioning that cities including Peshawar, Rawalpindi and Lahore face risk of urban flooding and mountain flash flooding through August 23.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40435944/pmd-forecasts-downpours-across-upper-central-regions-over-weekend" }
+      ],
+      "timestamp": "Aug 21, 3:05 PM",
+      "publishedAt": "2026-08-21T15:05:20+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Risk of urban and flash flooding threatens disruption to transport, agriculture, and business activity in affected regions." },
+        "political": { "value": "neutral", "reason": "A routine meteorological advisory with no institutional or governance dimension." },
+        "social": { "value": "negative", "reason": "Warns of a genuine public safety risk from flooding and landslides across several major cities and mountain areas." },
+        "market": { "value": "low", "reason": "A weather advisory with limited direct relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "A factual public-safety advisory with no partisan framing." },
+        "confidence": { "value": "low", "reason": "Drawn from the RSS description excerpt only, since the article page returned a 403 error; the full article could not be verified." }
+      }
+    },
+    {
+      "id": 8,
       "headline": "PM Shehbaz, President Zardari stress unconditional condemnation of terrorism, global action",
       "summary": "AI summary: PM Shehbaz Sharif and President Zardari marked the International Day of Remembrance and Tribute to Victims of Terrorism with separate statements urging unconditional, unqualified global condemnation of terrorism, citing Pakistan's own losses including Benazir Bhutto's assassination and the Army Public School attack, and calling for international action against safe havens and radicalisation.",
       "sources": [
@@ -21,7 +155,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 9,
       "headline": "CDF Munir says foreign-sponsored proxies being used by hostile elements to destabilise Balochistan",
       "summary": "AI summary: Chief of Defence Forces Asim Munir told Balochistan's political leadership that foreign-sponsored proxies were being used by hostile elements to destabilise the province and obstruct development, as separately cited security data showed conflict deaths surged over 240% month-on-month in July; provincial leaders pledged cooperation with security forces.",
       "sources": [
@@ -40,7 +174,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 10,
       "headline": "Minister says Imran taken back to Adiala jail after visit to Pims, declared 'medically fit' by doctors",
       "summary": "AI summary: PTI founder Imran Khan was examined overnight by a medical team including a cardiologist and ophthalmologist and declared medically fit before being returned to Adiala jail around 5am on August 21; Information Minister Attaullah Tarar said the examination was conducted at PIMS rather than Shifa International Hospital, citing a security situation created by PTI workers outside Shifa.",
       "sources": [
@@ -60,7 +194,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 11,
       "headline": "AJK president, rights body deplore US envoy's Kashmir remarks",
       "summary": "AI summary: AJK President Chaudhry Latif Akbar and Kashmiri rights organisations criticised US Ambassador to India Sergio Gor's description of Indian-occupied Kashmir as 'an important part of India,' calling the remarks regrettable and reasserting that Kashmir's status remains internationally disputed pending Kashmiri self-determination.",
       "sources": [
@@ -79,7 +213,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 12,
       "headline": "IPP allocated key portfolios in Gilgit-Baltistan",
       "summary": "AI summary: The Istehkam-e-Pakistan Party (IPP) was allocated key ministerial portfolios in the Gilgit-Baltistan administration, including education, food, industries, water, prisons and agriculture, with party leaders emphasising regional economic self-reliance and tourism development.",
       "sources": [
@@ -98,7 +232,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 13,
       "headline": "Defence forces, NCA amendment bills sail thru parliament",
       "summary": "AI summary: Parliament passed defence-related legislation updating the armed forces' command structure and amending the National Command Authority framework in line with 2025 constitutional changes, with opposition parties staging a walkout over how the bills were presented.",
       "sources": [
@@ -117,7 +251,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 14,
       "headline": "PM for translating friendship with Syria into cooperation",
       "summary": "AI summary: PM Shehbaz Sharif met Syria's foreign minister and reaffirmed support for Syrian sovereignty, pledging to expand political, security, commercial, educational and human-resource cooperation, with resumed direct flights seen as beneficial for people-to-people ties and pilgrim travel.",
       "sources": [
@@ -136,7 +270,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 15,
       "headline": "PM Shehbaz stresses need to translate friendship with Syria into bilateral cooperation",
       "summary": "AI summary: PM Shehbaz Sharif met Syria's visiting foreign minister in Islamabad, pledging deeper cooperation on politics, defence, trade and education, backing Syria's sovereignty over the Golan Heights, and proposing resumed direct flights between the two countries.",
       "sources": [
@@ -155,7 +289,7 @@
       }
     },
     {
-      "id": 9,
+      "id": 16,
       "headline": "Preparations at Shifa International Hospital finalised for possible arrival of PTI founder Imran Khan: sources",
       "summary": "AI summary: Islamabad authorities and Shifa International Hospital have finalised security and medical preparations for PTI founder Imran Khan's possible transfer from Adiala Jail, following a Supreme Court order that the government relocate him within two days; the government has separately filed a review petition challenging the order as discriminatory.",
       "sources": [
@@ -175,7 +309,7 @@
       }
     },
     {
-      "id": 10,
+      "id": 17,
       "headline": "Govt hikes petrol price by Rs0.27, high-speed diesel by Rs1.64",
       "summary": "AI summary: Pakistan's government raised petrol by Rs0.27 and high-speed diesel by Rs1.64 per litre effective August 21, shifting to a daily pricing mechanism tied to international oil markets, with both fuels still well below their April peaks.",
       "sources": [
@@ -194,7 +328,7 @@
       }
     },
     {
-      "id": 11,
+      "id": 18,
       "headline": "Govt says Imran Khan can be sent abroad for treatment 'if need arises', but procedure must be followed first",
       "summary": "AI summary: Parliamentary Affairs Minister Tariq Fazal Chaudhry told the Senate that PTI founder Imran Khan could be sent abroad for medical treatment if necessary, provided due legal procedure is followed, while opposition lawmakers pressed the government over healthcare access for other detained PTI figures including Dr Yasmin Rashid.",
       "sources": [
@@ -213,7 +347,7 @@
       }
     },
     {
-      "id": 12,
+      "id": 19,
       "headline": "National Assembly passes bills related to military, National Command Authority",
       "summary": "AI summary: The National Assembly passed the Defence Forces Act 2026 and amendments to the National Command Authority Act 2010, implementing the 27th Constitutional Amendment and defining the powers of the Chief of Defence Forces, with the opposition staging a walkout; the cabinet separately gave in-principle approval to a new National Adolescent and Youth Policy.",
       "sources": [
@@ -232,7 +366,7 @@
       }
     },
     {
-      "id": 13,
+      "id": 20,
       "headline": "PM Shehbaz invites opposition to dialogue 'to strengthen economy, democracy'",
       "summary": "AI summary: PM Shehbaz Sharif urged opposition parties to hold dialogue to strengthen Pakistan's economy and democracy, welcomed a recent Rs32/litre cut in diesel prices, cited 18% growth in IT exports in July, and noted Google's decision to open an office in Pakistan.",
       "sources": [
@@ -251,7 +385,7 @@
       }
     },
     {
-      "id": 14,
+      "id": 21,
       "headline": "Review plea against Imran Khan's Shifa transfer order 'returned with objections'",
       "summary": "AI summary: The Supreme Court registrar's office returned the government's review petition against Imran Khan's ordered hospital transfer over procedural deficiencies, as PTI's Salman Akram Raja said the state had effectively withdrawn its challenge and demanded immediate compliance with the court's August 18 order permitting his sister and a doctor to attend his examination.",
       "sources": [
