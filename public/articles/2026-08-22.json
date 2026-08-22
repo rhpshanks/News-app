@@ -1,0 +1,121 @@
+{
+  "generatedAt": "2026-08-22T14:24:53+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "PM Shehbaz takes notice of inoperative angiography unit at PIMS",
+      "summary": "AI summary: PM Shehbaz has ordered a high-level inquiry, chaired by the Establishment Division secretary, into why the CT coronary angiography unit at PIMS Islamabad has been non-functional since 2022, amid allegations that patients were routinely redirected to private diagnostic centres.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40436067/pm-shehbaz-takes-notice-of-inoperative-angiography-unit-at-pims" }
+      ],
+      "timestamp": "Aug 22, 2:16 PM",
+      "publishedAt": "2026-08-22T14:16:20+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Alleged diversion of patients and revenue from a public hospital to private diagnostic centres represents a financial loss to public health infrastructure and added cost for patients." },
+        "political": { "value": "neutral", "reason": "An accountability inquiry ordered by the PM could either reassure the public of oversight or expose deeper administrative dysfunction; net effect on institutional stability is unclear." },
+        "social": { "value": "negative", "reason": "Patients were reportedly denied access to a critical cardiac diagnostic service for years and pushed toward costlier private care." },
+        "market": { "value": "low", "reason": "A domestic public-hospital administrative matter with little relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "The report is a straightforward account of an official inquiry order, citing government sources without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on a single detailed source describing an official government order." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Pakistan Army deployed in Rawalpindi for 6 months for 'sensitive security duties'",
+      "summary": "AI summary: The federal government has authorised deployment of three Pakistan Army companies to Rawalpindi for six months under Article 245, for unspecified \"sensitive security duties,\" following a request from Punjab's Home Department.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2024562/pakistan-army-deployed-in-rawalpindi-for-6-months-for-sensitive-security-duties" }
+      ],
+      "timestamp": "Aug 22, 12:59 PM",
+      "publishedAt": "2026-08-22T12:59:36+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct economic activity, prices, or business impact indicated in the order." },
+        "political": { "value": "negative", "reason": "Deployment of the army for undefined 'sensitive' duties in a major city, without a stated threat, raises questions about civil-military balance and institutional stability." },
+        "social": { "value": "negative", "reason": "An unexplained military presence in a civilian city can unsettle residents and restrict normal daily activity, even if framed as precautionary." },
+        "market": { "value": "low", "reason": "Limited direct relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "The report factually relays the official order's vague language without editorializing for or against the government." },
+        "confidence": { "value": "medium", "reason": "Single source; the underlying reason for deployment is not disclosed, limiting certainty." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "PTI files contempt petition over Imran Khan's hospital transfer, return to jail",
+      "summary": "AI summary: PTI and Imran Khan's sister Uzma Khan have filed a contempt petition in the Supreme Court, accusing the government of violating its order to move the PTI founder to Shifa International Hospital, after authorities instead took him to PIMS for a medical check-up before returning him to Adiala Jail hours later.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2024559/imrans-sister-files-contempt-plea-over-alleged-violation-of-sc-order-on-pti-founders-hospital-transfer" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40436061/pti-files-contempt-petition-over-imran-khans-hospital-transfer-return-to-jail" }
+      ],
+      "timestamp": "Aug 22, 12:33 PM",
+      "publishedAt": "2026-08-22T12:33:16+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct economic implications from this legal filing." },
+        "political": { "value": "negative", "reason": "A contempt petition alleging the government defied a Supreme Court order reflects continued friction between the executive and judiciary." },
+        "social": { "value": "neutral", "reason": "Centres on one high-profile prisoner's medical treatment and legal process rather than broad public wellbeing." },
+        "market": { "value": "low", "reason": "Limited direct relevance to markets or business decisions." },
+        "lean": { "value": "balanced", "reason": "Both sources report PTI's contempt claim alongside the government's countering account (Tarar's statement that Imran was declared medically fit), giving both sides." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two independent outlets with matching factual details, though the underlying legal dispute is still unresolved." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "PM Shehbaz directs authorities to provide financial assistance to flood-hit families",
+      "summary": "AI summary: PM Shehbaz chaired a meeting in Lahore directing financial assistance for families affected by recent monsoon rains and floods, faster restoration of roads and electricity, and accelerated relief deliveries to cut-off areas, as officials reported over 615 tonnes of aid already dispatched and warned of fresh rainfall expected August 22-23.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2024556/pm-shehbaz-directs-authorities-to-provide-financial-assistance-to-flood-hit-families" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40436064/pm-shehbaz-directs-for-provision-of-financial-assistance-to-victims-of-rains-floods" }
+      ],
+      "timestamp": "Aug 22, 11:45 AM",
+      "publishedAt": "2026-08-22T11:45:19+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Directed financial assistance and infrastructure restoration help offset economic damage in flood-affected areas." },
+        "political": { "value": "positive", "reason": "A visible, coordinated disaster-response effort with clear directives signals functioning governance and relief coordination." },
+        "social": { "value": "positive", "reason": "Relief assistance, evacuations, and restoration work directly benefit affected families, even as the death toll (164 since June 26) underscores the disaster's severity." },
+        "market": { "value": "low", "reason": "Primarily a domestic relief matter with limited direct market relevance." },
+        "lean": { "value": "balanced", "reason": "Both sources report the same official government readout without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two independent outlets with matching details on the same meeting." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "US judge strikes down policy suspending immigrant visa processing for 75 nations, including Pakistan",
+      "summary": "AI summary: A US federal judge in Manhattan ruled that the Trump administration's suspension of immigrant visa processing for citizens of 75 countries, including Pakistan, was unlawful and exceeded the State Department's statutory authority.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2024551/us-judge-strikes-down-policy-suspending-immigrant-visa-processing-for-75-nations-including-pakistan" }
+      ],
+      "timestamp": "Aug 22, 10:36 AM",
+      "publishedAt": "2026-08-22T10:36:46+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Restoring visa processing benefits Pakistani applicants and sponsoring families, with potential knock-on benefits for mobility and remittances." },
+        "political": { "value": "neutral", "reason": "This is a US domestic judicial ruling; its direct effect on Pakistan's own institutional stability is minimal." },
+        "social": { "value": "positive", "reason": "Restores a pathway for Pakistani families to reunite and for applicants to pursue opportunities abroad." },
+        "market": { "value": "low", "reason": "Limited direct relevance to Pakistani businesses or markets, though relevant to individuals pursuing emigration." },
+        "lean": { "value": "balanced", "reason": "Factual reporting of a US court ruling, citing the judge's own language without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on a single detailed source reporting the ruling's substance and background." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Govt resubmits review petition against SC order",
+      "summary": "AI summary: The federal government has refiled a review petition with the Supreme Court challenging its order to transfer PTI founder Imran Khan to a private hospital, arguing the directive exceeded jurisdiction and overlooked prison rules governing inmate medical transfers.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40436041/govt-resubmits-review-petition-against-sc-order" }
+      ],
+      "timestamp": "Aug 22, 7:17 AM",
+      "publishedAt": "2026-08-22T07:17:36+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct economic implications from this legal filing." },
+        "political": { "value": "negative", "reason": "The government formally challenging a Supreme Court order reflects ongoing executive-judiciary friction over compliance with court directives." },
+        "social": { "value": "neutral", "reason": "Concerns legal process around a single high-profile prisoner's healthcare access rather than broad public wellbeing." },
+        "market": { "value": "low", "reason": "Limited direct relevance to markets or business decisions." },
+        "lean": { "value": "balanced", "reason": "The article lays out the government's legal argument in detail while also noting PTI's accusation that the government is 'flouting' the court's orders." },
+        "confidence": { "value": "medium", "reason": "Based on a single detailed source describing an official legal filing." }
+      }
+    }
+  ]
+}
