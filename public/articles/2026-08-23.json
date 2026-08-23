@@ -1,0 +1,139 @@
+{
+  "generatedAt": "2026-08-23T14:32:18+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Spantik Peak mission to retrieve body of Pakistani climber halted amid heavy snowfall",
+      "summary": "AI summary: A rescue team retreated from Camp 2 on Spantik Peak after heavy snowfall made conditions too dangerous, halting efforts to recover the body of Lahore-based physician Dr Asma Mushtaq, who died from altitude sickness while descending after summiting. Officials say the operation also faces logistical hurdles, including a lack of helicopter-evacuation insurance and Pakistan's absence of a dedicated high-altitude rescue system.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2024747/spantik-peak-mission-to-retrieve-body-of-pakistani-climber-halted-amid-heavy-snowfall" }
+      ],
+      "timestamp": "Aug 23, 2:16 PM",
+      "publishedAt": "2026-08-23T14:16:31+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A mountaineering accident and rescue delay with no material effect on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "Reflects infrastructure and insurance gaps in rescue capacity, not an institutional or governance conflict." },
+        "social": { "value": "negative", "reason": "A climber's death and a stalled body-recovery effort amid dangerous weather affect public safety and wellbeing." },
+        "market": { "value": "low", "reason": "A niche mountaineering-tourism story with little relevance to investors or broader business decisions." },
+        "lean": { "value": "balanced", "reason": "Straightforward factual reporting sourced from officials, the Alpine Club, and the operating NGO, with no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Detailed single-source account with named officials, but details of the ongoing rescue are still developing." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Former aide to Taliban commander Mullah Nazir group killed in Lower South Waziristan",
+      "summary": "AI summary: Muhammad Khalid, a former aide to late Taliban commander Mullah Nazir, was shot dead near a cemetery in the Doag area of Lower South Waziristan, with a second person wounded in the attack. Police have opened an investigation but have not yet identified the attackers or established a motive, amid what residents describe as rising militant activity in the region over the past 18 months.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2024750/former-aide-to-taliban-commander-mullah-nazir-group-killed-in-lower-south-waziristan" }
+      ],
+      "timestamp": "Aug 23, 1:36 PM",
+      "publishedAt": "2026-08-23T13:36:35+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A localized targeted killing with no discernible effect on broader economic activity." },
+        "political": { "value": "negative", "reason": "An unresolved targeted killing amid reported rising TTP-linked activity signals weakening security control in the tribal region." },
+        "social": { "value": "negative", "reason": "A shooting death and residents' calls for greater protection point to ongoing safety concerns in the area." },
+        "market": { "value": "low", "reason": "A localized security incident with little bearing on investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Attributed to police statements without framing that favors either the government or opposition." },
+        "confidence": { "value": "medium", "reason": "Single-sourced full report; gunmen and motive remain unidentified as the investigation continues." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Trump hits back at Canada after retaliatory tariffs announcement",
+      "summary": "AI summary: President Trump criticized Canada after it announced retaliatory tariffs following the breakdown of trade talks, with the US having already imposed 50% tariffs on roughly $20 billion of Canadian goods. Canadian PM Mark Carney rejected the US offer as unfair and said Canada will impose its own counter-tariffs on American steel and dairy starting September 9.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2024745/trump-hits-back-at-canada-after-retaliatory-tariffs-announcement" }
+      ],
+      "timestamp": "Aug 23, 11:48 AM",
+      "publishedAt": "2026-08-23T11:48:22+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Escalating US-Canada tariffs signal deepening trade friction that raises costs and disrupts business planning for affected industries." },
+        "political": { "value": "neutral", "reason": "A foreign bilateral trade dispute with no direct bearing on Pakistan's institutional or governance stability." },
+        "social": { "value": "neutral", "reason": "A foreign trade dispute with no direct effect on Pakistani public life or daily wellbeing." },
+        "market": { "value": "medium", "reason": "Escalating tariffs between major economies carry relevance for global trade flows that investors and businesses track." },
+        "lean": { "value": "balanced", "reason": "The report carries direct quotes from both Trump and Carney without favoring either side." },
+        "confidence": { "value": "medium", "reason": "Single-sourced but detailed, quote-heavy report of a clearly documented public dispute." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "DPM Dar to visit UK from August 24-28: FO",
+      "summary": "AI summary: Deputy PM and Foreign Minister Ishaq Dar will visit the United Kingdom from August 24-28 to meet UK Foreign Secretary Ed Miliband and other officials, the Foreign Office announced. The trip will also include talks on Pakistani crew held by Somali pirates, engagement with Commonwealth leadership, and meetings with British parliamentarians and the Pakistani diaspora.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2024748/dpm-dar-to-visit-uk-from-august-24-28-fo" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40436177/fm-dar-to-visit-uk-from-august-24-fo" }
+      ],
+      "timestamp": "Aug 23, 11:24 AM",
+      "publishedAt": "2026-08-23T11:24:14+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A routine diplomatic visit with no immediate trade or economic policy announcement." },
+        "political": { "value": "neutral", "reason": "A scheduled diplomatic engagement that does not itself affect institutional or governance stability." },
+        "social": { "value": "neutral", "reason": "Touches on the welfare of Pakistani crew held by pirates but has no direct, immediate effect on domestic public life." },
+        "market": { "value": "low", "reason": "A diplomatic itinerary with little direct relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Both outlets report the same official Foreign Office announcement without differing framing." },
+        "confidence": { "value": "high", "reason": "Corroborated by two independent outlets reporting matching details from the same official announcement." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Govt deploys army in Rawalpindi for six months",
+      "summary": "AI summary: The federal government has authorized deployment of Pakistan Army companies in Rawalpindi for six months to perform security duties, following a request from the Punjab government. Officials say the move is meant to help authorities respond to unforeseen situations and prevent unrest.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40436156/govt-deploys-army-in-rawalpindi-for-six-months" }
+      ],
+      "timestamp": "Aug 23, 2:33 AM",
+      "publishedAt": "2026-08-23T02:33:21+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "An internal security staffing decision with no direct effect on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "Framed as a precautionary security measure at provincial request, without indication of institutional conflict." },
+        "social": { "value": "neutral", "reason": "A security deployment intended to preserve order, with no specific incident or harm cited in the report." },
+        "market": { "value": "low", "reason": "An internal security matter with little direct relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "A factual account of a government announcement without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on the RSS description only; the specific trigger for the deployment is not detailed." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "AJK Assembly's reserved seat: PML-N's Arain elected unopposed",
+      "summary": "AI summary: PML-N's Abdur Rehman Arain was elected unopposed to a reserved seat for overseas Kashmiris in the Azad Jammu and Kashmir Legislative Assembly, representing Kotli's Sultanpura ward. No other candidates contested the seat, and the result was formally announced by the AJK election commission.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40436157/ajk-assemblys-reserved-seat-pml-ns-arain-elected-unopposed" }
+      ],
+      "timestamp": "Aug 23, 2:33 AM",
+      "publishedAt": "2026-08-23T02:33:21+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A routine electoral administrative outcome with no economic content." },
+        "political": { "value": "neutral", "reason": "An uncontested reserved-seat election filled under established rules, with no sign of institutional disruption." },
+        "social": { "value": "neutral", "reason": "A minor local political development with negligible effect on public daily life." },
+        "market": { "value": "low", "reason": "A local electoral procedure of no relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Purely factual reporting of an unopposed election result; current government/opposition status is not confidently known, so lean defaults to balanced." },
+        "confidence": { "value": "medium", "reason": "Based on the RSS description only, though the reported facts are simple and unambiguous." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "IFC announces USD10m financing for women borrowers in Pakistan",
+      "summary": "AI summary: The International Finance Corporation is investing $10 million in a four-year loan to ASA Microfinance Bank Pakistan to expand financing access for women borrowers and support small businesses. The IFC noted only 27% of Pakistani adults currently have a bank account, amid an estimated $57.8 billion gap in financing for micro, small and medium enterprises.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40436159/ifc-announces-usd10m-financing-for-women-borrowers-in-pakistan" }
+      ],
+      "timestamp": "Aug 23, 2:33 AM",
+      "publishedAt": "2026-08-23T02:33:21+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "New financing expands access to credit for women-led microenterprises, supporting business activity and financial inclusion." },
+        "political": { "value": "neutral", "reason": "A development-finance transaction with no bearing on institutional or governance stability." },
+        "social": { "value": "positive", "reason": "Expanding financial access for women borrowers supports economic empowerment and wellbeing." },
+        "market": { "value": "medium", "reason": "Relevant to microfinance and banking-sector investors, though the $10 million scale is modest." },
+        "lean": { "value": "balanced", "reason": "A neutral factual report of an international lender's announcement, with no political framing." },
+        "confidence": { "value": "medium", "reason": "Based on the RSS description only, though the figures cited are specific and clearly attributed." }
+      }
+    }
+  ]
+}
