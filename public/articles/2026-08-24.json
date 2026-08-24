@@ -1,0 +1,157 @@
+{
+  "generatedAt": "2026-08-24T10:32:39+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Amnesty International says police in India used excessive force during youth-led protests",
+      "summary": "AI summary: Amnesty International reported that Indian police used pellet guns, tear gas, batons and electric shock devices against youth-led protesters in Delhi and Bihar in July 2026, protests that began over medical entrance exam irregularities and grew into broader anger over unemployment; police say force followed violence from protesters, but Amnesty called the crackdown state-sanctioned, and India's Supreme Court has set up a panel to investigate.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2024956/amnesty-international-says-police-in-india-used-excessive-force-during-youth-led-protests" }
+      ],
+      "timestamp": "Aug 24, 10:20 AM",
+      "publishedAt": "2026-08-24T10:20:48+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Report concerns policing of protests, not primarily economic activity" },
+        "political": { "value": "negative", "reason": "Alleges excessive state force and contested accountability, undermining institutional legitimacy" },
+        "social": { "value": "negative", "reason": "Describes harm to protesters from pellet guns, tear gas and shock devices" },
+        "market": { "value": "low", "reason": "Foreign policing story with little direct market relevance" },
+        "lean": { "value": "balanced", "reason": "Story concerns Indian, not Pakistani, politics; presents both Amnesty's and Delhi Police's positions" },
+        "confidence": { "value": "medium", "reason": "Full article read from a single source, citing an Amnesty report and quoting both sides" }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Fazl blames lack of joint opposition for unchecked legislation",
+      "summary": "AI summary: JUI-F chief Maulana Fazlur Rehman told a party convention in Peshawar that the opposition's failure to unite, relying on walkouts rather than active resistance, let recent military-related legislation pass with little scrutiny; he said the changes concentrate command authority in one office and warned that proposals for new provinces are really an attempt to undo the NFC Award.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2024826/fazl-blames-lack-of-joint-opposition-for-unchecked-legislation" }
+      ],
+      "timestamp": "Aug 24, 7:43 AM",
+      "publishedAt": "2026-08-24T07:43:44+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Focuses on legislative process; NFC Award mention has only indirect fiscal implications" },
+        "political": { "value": "negative", "reason": "Highlights weakened legislative scrutiny and opposition disunity" },
+        "social": { "value": "neutral", "reason": "Limited direct effect on public daily life" },
+        "market": { "value": "low", "reason": "Not market-relevant" },
+        "lean": { "value": "balanced", "reason": "Single-voice report criticizing both government legislation and opposition disunity; not confidently one-sided" },
+        "confidence": { "value": "medium", "reason": "Full article read from a single source, no independent corroboration" }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Comstech chief remains defiant in face of 'damning inquiry'",
+      "summary": "AI summary: A presidential inquiry committee, chaired by Dr Asim Hussain and ordered by President Asif Ali Zardari, found Comstech Coordinator General Dr Iqbal Choudhry guilty of financial irregularities, over 70 unapproved foreign trips and holding dual posts, and recommended referring the matter to anti-corruption bodies; Choudhry rejected the findings, calling the inquiry \"one-sided\" and alleging misuse of the presidency.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2024822/comstech-chief-remains-defiant-in-face-of-damning-inquiry" }
+      ],
+      "timestamp": "Aug 24, 7:37 AM",
+      "publishedAt": "2026-08-24T07:37:26+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Documents unauthorized expenditures and possible misuse of public funds" },
+        "political": { "value": "negative", "reason": "Alleges corruption and misuse of a state-linked office, undermining institutional integrity" },
+        "social": { "value": "neutral", "reason": "Limited direct effect on general public daily life" },
+        "market": { "value": "low", "reason": "Concerns an academic/scientific body, not market-relevant" },
+        "lean": { "value": "balanced", "reason": "Both the inquiry's findings and Choudhry's rebuttal are quoted" },
+        "confidence": { "value": "medium", "reason": "Full article read from a single source reporting an official inquiry with both sides represented" }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Nawaz consults leaders on AJK govt formation",
+      "summary": "AI summary: PML-N president Nawaz Sharif chaired a meeting on forming Azad Jammu and Kashmir's government, with Shah Ghulam Qadir and Tariq Farooq emerging as the leading contenders for chief minister, while the party also discussed Imran Khan's health and recent Supreme Court rulings; separately, six candidates contested the AJK assembly's five reserved women's seats in polling held the same day.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2024830/nawaz-consults-leaders-on-ajk-govt-formation" }
+      ],
+      "timestamp": "Aug 24, 7:21 AM",
+      "publishedAt": "2026-08-24T07:21:52+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Routine government formation process with no direct economic effect" },
+        "political": { "value": "neutral", "reason": "Standard intra-party governance process, not destabilizing" },
+        "social": { "value": "neutral", "reason": "No direct public wellbeing impact" },
+        "market": { "value": "low", "reason": "Not market-relevant" },
+        "lean": { "value": "balanced", "reason": "Factual reporting of an internal PML-N process with no evident one-sided framing" },
+        "confidence": { "value": "medium", "reason": "Full article read from a single source, straightforward procedural reporting" }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Dar to begin five-day UK visit today",
+      "summary": "AI summary: Deputy PM and Foreign Minister Ishaq Dar begins a five-day UK visit on August 24, where he will meet Foreign Secretary Ed Miliband and other officials to discuss bilateral trade and counterterrorism cooperation, and will separately raise the case of Pakistani crew held by Somali pirates aboard the tanker MT Honour 25 with the IMO secretary-general.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40436249/dar-to-begin-five-day-uk-visit-today" }
+      ],
+      "timestamp": "Aug 24, 3:45 AM",
+      "publishedAt": "2026-08-24T03:45:33+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Visit aims to deepen bilateral trade and business cooperation with the UK" },
+        "political": { "value": "neutral", "reason": "Routine diplomatic engagement with no institutional stability implications" },
+        "social": { "value": "positive", "reason": "Includes efforts to secure release of Pakistani hostages held by pirates" },
+        "market": { "value": "medium", "reason": "Trade framework discussions relevant to businesses trading with the UK" },
+        "lean": { "value": "balanced", "reason": "Straightforward factual diplomatic announcement" },
+        "confidence": { "value": "medium", "reason": "Working from the RSS description excerpt of a factual government announcement" }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "JI says Karachi deprived of basic civic necessities",
+      "summary": "AI summary: At a local government convention marking the eighth day of Jamaat-i-Islami's Governor House sit-in, Karachi chief Monem Zafar said the city faces severe water shortages, poor infrastructure, up to 14 hours of loadshedding and rising crime despite generating the bulk of federal and provincial revenue, and accused the Sindh government of refusing to devolve power to local government.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40436235/ji-says-karachi-deprived-of-basic-civic-necessities" }
+      ],
+      "timestamp": "Aug 24, 3:45 AM",
+      "publishedAt": "2026-08-24T03:45:33+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Describes infrastructure and utility failures hampering business and daily commerce in a major economic hub" },
+        "political": { "value": "negative", "reason": "Accuses the provincial government of withholding devolution and failing local governance" },
+        "social": { "value": "negative", "reason": "Highlights water shortages, loadshedding and crime directly affecting residents' wellbeing" },
+        "market": { "value": "medium", "reason": "Karachi's civic and infrastructure state is relevant to businesses operating in the city" },
+        "lean": { "value": "pro-opposition", "reason": "One-sided reporting of a JI political rally criticizing the PPP-led Sindh government with no government rebuttal quoted" },
+        "confidence": { "value": "medium", "reason": "Working from the RSS description excerpt of a one-sided political rally speech" }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "NCEG holds workshop on GIS, remote sensing",
+      "summary": "AI summary: The National Centre of Excellence in Geology at the University of Peshawar hosted a one-day international workshop on GIS and remote sensing for mineral mapping, bringing together experts from China, Australia, Canada, Saudi Arabia and Pakistan for technical training in mineral exploration and geospatial technology, with KP's mines and minerals secretary as chief guest at the closing ceremony.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40436237/nceg-holds-workshop-on-gis-remote-sensing" }
+      ],
+      "timestamp": "Aug 24, 3:45 AM",
+      "publishedAt": "2026-08-24T03:45:33+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Capacity-building in mineral exploration technology supports development of the mining sector" },
+        "political": { "value": "neutral", "reason": "Academic/technical event with no governance implications" },
+        "social": { "value": "neutral", "reason": "Limited direct public wellbeing effect" },
+        "market": { "value": "low", "reason": "Niche academic/technical event with limited investor relevance" },
+        "lean": { "value": "balanced", "reason": "Neutral factual event reporting with no political framing" },
+        "confidence": { "value": "medium", "reason": "Working from the RSS description excerpt of a straightforward factual event report" }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "JI chief warns govt of escalating protest against petroleum levy",
+      "summary": "AI summary: Jamaat-i-Islami chief Hafiz Naeem-ur-Rehman said at a Lahore press conference that JI will expand its sit-ins in Lahore, Peshawar and Karachi into a nationwide shutter-down strike and possible march on Islamabad if the government does not withdraw the petroleum levy, crediting the protests for a recent Rs32-per-litre cut in diesel prices and accusing the government of taxing citizens to protect its own privileges.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40436207/ji-chief-warns-govt-of-escalating-protest-against-petroleum-levy" }
+      ],
+      "timestamp": "Aug 24, 3:45 AM",
+      "publishedAt": "2026-08-24T03:45:33+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Highlights fuel-tax burden on citizens and a threatened nationwide strike that could disrupt commerce" },
+        "political": { "value": "negative", "reason": "Threatens escalating nationwide protest and a march on the capital, pressuring government stability" },
+        "social": { "value": "negative", "reason": "Describes rising cost-of-living burden from fuel and food prices affecting ordinary citizens" },
+        "market": { "value": "medium", "reason": "Threatened nationwide strike and fuel-tax policy are relevant to business planning" },
+        "lean": { "value": "pro-opposition", "reason": "One-sided reporting of an opposition party leader's press conference criticizing government tax policy with no government response quoted" },
+        "confidence": { "value": "medium", "reason": "Working from the RSS description excerpt of a one-sided political press conference" }
+      }
+    }
+  ]
+}
