@@ -1,0 +1,178 @@
+{
+  "generatedAt": "2026-08-25T11:09:02+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "3 more Adiala inmates seek private care",
+      "summary": "AI summary: Three Adiala jail inmates, including a haemophilia patient, petitioned the Islamabad High Court for treatment at private hospitals, citing the Supreme Court's earlier decision allowing Imran Khan private medical care. The government has warned that granting such requests could set a precedent straining the wider prison system.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2025143/3-more-adiala-inmates-seek-private-care" }
+      ],
+      "timestamp": "Aug 25, 8:10 AM",
+      "publishedAt": "2026-08-25T08:10:41+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A judicial/administrative matter with no direct economic effect." },
+        "political": { "value": "neutral", "reason": "Routine court proceeding, though it tests the precedent set by a high-profile case." },
+        "social": { "value": "neutral", "reason": "Improves healthcare access for individual inmates but the government warns of systemic strain on the prison system." },
+        "market": { "value": "low", "reason": "Limited relevance to investors or broader business decisions." },
+        "lean": { "value": "balanced", "reason": "Reports the inmates' petitions and the government's floodgate concern without favoring either side." },
+        "confidence": { "value": "medium", "reason": "Based on a single, detailed source article." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Govt fails to maintain quorum as PPP stays away from National Assembly",
+      "summary": "AI summary: Pakistan's National Assembly session collapsed after the opposition PPP boycotted proceedings in protest over alleged irregularities in the recent Azad Jammu and Kashmir elections, leaving the ruling PML-N unable to muster the required quorum. PPP leaders said they would withhold cooperation on legislative business until their concerns are addressed.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2025121/govt-fails-to-maintain-quorum-as-ppp-stays-away-from-national-assembly" }
+      ],
+      "timestamp": "Aug 25, 7:39 AM",
+      "publishedAt": "2026-08-25T07:39:08+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct bearing on economic activity." },
+        "political": { "value": "negative", "reason": "A coalition partner's boycott causing a quorum failure signals legislative instability and strained governing coalition relations." },
+        "social": { "value": "neutral", "reason": "Limited direct effect on daily public life." },
+        "market": { "value": "low", "reason": "Unlikely to move markets or business decisions on its own." },
+        "lean": { "value": "balanced", "reason": "Presents both PPP's grievance and the government's embarrassment factually, without evident one-sided framing." },
+        "confidence": { "value": "medium", "reason": "Based on a single, detailed source article." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Govt increases petrol price by Rs0.39, high-speed diesel by Rs2.40",
+      "summary": "AI summary: Pakistan's government raised petrol and diesel prices by small margins effective 25 August, taking petrol to Rs341.98 and diesel to Rs370.69 per litre, under the daily price-adjustment mechanism introduced amid international market volatility linked to the US-Iran conflict.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2025039/govt-increases-petrol-price-by-rs039-high-speed-diesel-by-rs240" }
+      ],
+      "timestamp": "Aug 25, 7:27 AM",
+      "publishedAt": "2026-08-25T07:27:52+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Higher fuel prices raise transport and production costs across the economy." },
+        "political": { "value": "neutral", "reason": "A routine, mechanism-driven pricing adjustment rather than a discretionary policy decision." },
+        "social": { "value": "negative", "reason": "Raises cost of living for the public, particularly transport-dependent households." },
+        "market": { "value": "medium", "reason": "Relevant to businesses and sectors dependent on fuel and transport costs." },
+        "lean": { "value": "balanced", "reason": "Straightforward factual reporting of an official pricing announcement." },
+        "confidence": { "value": "high", "reason": "Official pricing figures reported clearly and consistently." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Govt approves prices for 52 advanced life-saving drugs",
+      "summary": "AI summary: A Cabinet Committee chaired by the finance minister approved prices for 52 new medicines treating conditions such as cancer, hypertension and diabetes, bringing the total drugs price-approved over four months to 87; formal notification is still pending before manufacturing and imports can begin.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40436367/govt-approves-prices-for-52-advanced-life-saving-drugs" }
+      ],
+      "timestamp": "Aug 25, 5:34 AM",
+      "publishedAt": "2026-08-25T05:34:44+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Supports pharmaceutical manufacturing and imports, encouraging sector activity." },
+        "political": { "value": "neutral", "reason": "A routine regulatory/pricing action." },
+        "social": { "value": "positive", "reason": "Expands approved access to essential and life-saving medicines." },
+        "market": { "value": "medium", "reason": "Relevant to the pharmaceutical sector and related investors." },
+        "lean": { "value": "balanced", "reason": "Factual reporting of a regulatory decision with no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on the RSS excerpt rather than the full article, after the source page returned a 403 error." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "\"Significant progress\": Islamabad, Tehran discuss Hormuz reopening, \"expedited\" end to Iran-US conflict",
+      "summary": "AI summary: Pakistan's military chief Field Marshal Asim Munir, accompanied by Interior Minister Mohsin Naqvi, held talks in Tehran with Iran's president and top officials aimed at reopening the Strait of Hormuz and de-escalating the US-Iran conflict, following a phone call between Munir and President Trump ahead of the trip. Iranian officials voiced continued distrust of Washington and said the US must move first to revive the expired Islamabad memorandum of understanding.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40436397/cdf-spoke-to-trump-ahead-of-tehran-visit" },
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2025125/amid-distrust-tehran-wants-us-to-initiate-de-escalation" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/679053-significant-progress-islamabad-tehran-discuss-hormuz-reopening-expedited-end-to-iran-us-conflict" }
+      ],
+      "timestamp": "Aug 25, 4:54 AM",
+      "publishedAt": "2026-08-25T04:54:07+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Diplomatic talks could benefit trade and oil markets if Hormuz reopens, but no concrete economic change has occurred yet." },
+        "political": { "value": "positive", "reason": "Pakistan is positioned as a constructive mediator between the US and Iran, a diplomatic gain for its institutional standing." },
+        "social": { "value": "neutral", "reason": "Talks represent progress toward de-escalation, but the conflict remains unresolved and mutual distrust persists." },
+        "market": { "value": "medium", "reason": "Relevant to investors and businesses tracking regional stability and oil-shipping routes." },
+        "lean": { "value": "balanced", "reason": "Coverage across all three outlets is straightforward diplomatic reporting with no evident one-sided framing." },
+        "confidence": { "value": "medium", "reason": "Corroborated by three independent outlets with consistent details." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Dar, Kuwaiti FM discuss implementation of Islamabad MoU",
+      "summary": "AI summary: Pakistan's Deputy PM and Foreign Minister Ishaq Dar met Kuwait's Foreign Affairs Minister to discuss bilateral relations and the implementation of the Islamabad memorandum of understanding, with both sides stressing dialogue and diplomacy as essential to lasting regional peace.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40436411/dar-kuwaiti-fm-discuss-implementation-of-islamabad-mou" }
+      ],
+      "timestamp": "Aug 25, 4:54 AM",
+      "publishedAt": "2026-08-25T04:54:07+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A bilateral diplomatic meeting with no direct economic measures announced." },
+        "political": { "value": "positive", "reason": "Reflects continued diplomatic engagement supporting regional stability efforts." },
+        "social": { "value": "neutral", "reason": "No direct effect on public wellbeing or daily life." },
+        "market": { "value": "low", "reason": "Limited relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Routine factual diplomatic reporting." },
+        "confidence": { "value": "medium", "reason": "Based on the RSS excerpt rather than the full article, after the source page returned a 403 error." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Debate over creation of new provinces gains attention",
+      "summary": "AI summary: A debate has resurfaced in Pakistan over creating new provinces such as Bahawalpur and Hazara, with supporters citing improved governance and opponents warning of heightened ethnic tensions, as constitutional experts stress the need for broad political consensus before any such change.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40436412/debate-over-creation-of-new-provinces-gains-attention" }
+      ],
+      "timestamp": "Aug 25, 4:54 AM",
+      "publishedAt": "2026-08-25T04:54:07+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A political/administrative debate with no direct economic measures." },
+        "political": { "value": "neutral", "reason": "An ongoing debate rather than an actual governance decision; experts stress the need for consensus before any change." },
+        "social": { "value": "neutral", "reason": "Opponents warn of potential ethnic tension, but this remains a live debate rather than an event affecting the public now." },
+        "market": { "value": "low", "reason": "Limited immediate relevance to investors or businesses." },
+        "lean": { "value": "balanced", "reason": "Presents both supporting and opposing views along with expert caution." },
+        "confidence": { "value": "medium", "reason": "Based on the RSS excerpt rather than the full article, after the source page returned a 403 error." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Imran Khan taken to Pims over \"security concerns\", says Tariq Fazal Chaudhry",
+      "summary": "AI summary: The government said Imran Khan's medical examination was conducted at PIMS rather than the Supreme Court-ordered Shifa International Hospital due to security concerns, prompting PTI to file a contempt petition and renew claims that Khan has been denied family contact for months.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/679027-imran-khan-taken-to-pims-over-security-concerns-says-tariq-fazal" }
+      ],
+      "timestamp": "Aug 24, 11:15 PM",
+      "publishedAt": "2026-08-24T23:15:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct economic effect." },
+        "political": { "value": "negative", "reason": "A dispute over compliance with a Supreme Court order signals institutional friction between the government and the judiciary/opposition." },
+        "social": { "value": "negative", "reason": "Raises human rights and wellbeing concerns for a high-profile prisoner, including renewed claims of prolonged denial of family contact." },
+        "market": { "value": "low", "reason": "Limited relevance to markets or business decisions." },
+        "lean": { "value": "balanced", "reason": "Includes both the government's security justification and PTI's contempt petition and rebuttal." },
+        "confidence": { "value": "medium", "reason": "Based on a single, detailed source article covering claims from both sides." }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "Jemima Goldsmith urges UK govt to break silence over Imran Khan's \"human rights\"",
+      "summary": "AI summary: Imran Khan's ex-wife Jemima Goldsmith publicly pressed the UK government to speak out over what she called a human-rights emergency, citing prolonged solitary confinement and months without family contact despite a Supreme Court order mandating medical care and family visits.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/679005-jemima-goldsmith-urges-uk-govt-to-break-silence-over-imran-khans-human-rights" }
+      ],
+      "timestamp": "Aug 24, 8:14 PM",
+      "publishedAt": "2026-08-24T20:14:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct economic effect." },
+        "political": { "value": "negative", "reason": "Alleges non-compliance with a Supreme Court order and invites international pressure on the government." },
+        "social": { "value": "negative", "reason": "Raises serious human rights and wellbeing concerns regarding prolonged solitary confinement and denial of family contact." },
+        "market": { "value": "low", "reason": "Limited relevance to markets or business decisions." },
+        "lean": { "value": "pro-opposition", "reason": "The article is built entirely around Goldsmith's/PTI-aligned claims with no government rebuttal included, a one-sided framing." },
+        "confidence": { "value": "medium", "reason": "A single-source claim reported by one outlet, not independently corroborated." }
+      }
+    }
+  ]
+}
