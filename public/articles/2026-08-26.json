@@ -1,8 +1,104 @@
 {
-  "generatedAt": "2026-08-26T17:03:09+05:00",
+  "generatedAt": "2026-08-26T23:07:34+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "Rangers personnel martyred, another wounded as armed men open fire in AJK",
+      "summary": "AI summary: Gunmen opened fire on a Rangers unit conducting a road-clearance operation between Sarsawa and Tararkhel in Azad Jammu and Kashmir, killing one Ranger and wounding another; police say a banned group previously linked to unrest over reserved Kashmiri-refugee parliamentary seats has attacked security forces in the area before, and the clearance operation is continuing despite the attack.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/679325-rangers-personnel-martyred-another-wounded-after-armed-men-open-fire-in-ajk" }
+      ],
+      "timestamp": "Aug 26, 10:30 PM",
+      "publishedAt": "2026-08-26T22:30:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A security clash in AJK has no direct bearing on jobs, prices, or business activity." },
+        "political": { "value": "negative", "reason": "An armed group again attacking a paramilitary force conducting a state operation signals continued armed resistance to government authority in the region." },
+        "social": { "value": "negative", "reason": "The killing and wounding of security personnel represents ongoing violence and instability that undermines public safety in the area." },
+        "market": { "value": "low", "reason": "A localized security incident carries little relevance to investors or broader markets." },
+        "lean": { "value": "balanced", "reason": "The report attributes the account to police sources and presents factual details without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single outlet, but the report includes named casualties, location, and corroborating context from police and prior incidents." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Hina Javed murder case: Rawalpindi court extends physical remand of suspects for another 3 days",
+      "summary": "AI summary: A Rawalpindi court granted a further three-day physical remand for Hina Javed's husband and domestic servant after a postmortem reportedly found a broken hyoid bone and torture marks suggesting her body was dragged and her neck tied to stage a suicide, with both suspects said to have confessed during questioning as forensic tests continue.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2025446/hina-javed-murder-case-rawalpindi-court-extends-physical-remand-of-suspects-for-another-3-days" }
+      ],
+      "timestamp": "Aug 26, 9:18 PM",
+      "publishedAt": "2026-08-26T21:18:38+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A domestic murder investigation has no bearing on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "Routine judicial remand proceedings with no implications for governance or institutional stability." },
+        "social": { "value": "negative", "reason": "Forensic findings of torture and an alleged staged suicide underscore a severe case of violence against women." },
+        "market": { "value": "low", "reason": "A local criminal case carries no relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Factual court and forensic reporting with no political framing." },
+        "confidence": { "value": "medium", "reason": "Single outlet, but the article provides detailed, internally consistent forensic and procedural findings." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "US pauses immigrant visa applications worldwide: report",
+      "summary": "AI summary: The US has temporarily paused immigrant visa processing worldwide for additional consular-officer training, rescheduling scheduled interviews with no set resumption date, as part of a broader tightening that includes plans to revoke visas from roughly 200,000 people who entered as visitors before applying for asylum.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2025389/us-pauses-immigrant-visa-applications-worldwide-report" }
+      ],
+      "timestamp": "Aug 26, 8:47 PM",
+      "publishedAt": "2026-08-26T20:47:18+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A US visa-policy change may affect individual applicants but has no direct bearing on Pakistan's jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "A foreign government's domestic immigration policy, with no bearing on Pakistani institutional or governance stability." },
+        "social": { "value": "neutral", "reason": "Affects visa applicants' plans, but the report gives no Pakistan-specific impact or scale to assess broader public wellbeing." },
+        "market": { "value": "low", "reason": "Limited direct relevance to Pakistani investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "The report presents the policy factually with official quotes and context, without favoring a domestic political side." },
+        "confidence": { "value": "medium", "reason": "Single outlet, but detailed with named officials, figures, and direct quotes." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Rescue team reaches suspected location of Pakistani climber Asma Mushtaq's body",
+      "summary": "AI summary: A recovery team has reached the area on Spantik Peak where mountaineer Dr. Asma Mushtaq's body is believed to be buried after her death during a high-altitude medical emergency, but heavy snowfall has completely covered the remains, and officials say a helicopter has been authorised to assist once weather permits.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/679304-rescue-team-reaches-suspected-location-of-pakistani-climber-asma-mushtaqs-body" }
+      ],
+      "timestamp": "Aug 26, 7:40 PM",
+      "publishedAt": "2026-08-26T19:40:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A mountaineering recovery operation has no bearing on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "A government-coordinated rescue effort with no implications for institutional stability." },
+        "social": { "value": "negative", "reason": "The death of a Pakistani mountaineer and the difficult recovery effort reflect a tragic loss affecting public sentiment around high-altitude expeditions." },
+        "market": { "value": "low", "reason": "No relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Straightforward factual reporting citing government officials with no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single outlet, but detailed with named officials and direct quotes." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Explainer: What we know so far about the Pims nursery fire",
+      "summary": "AI summary: Follow-up reporting on the PIMS nursery fire shows accounts of its cause still conflicting, an air-conditioner compressor explosion, a nebuliser/oxygen-related explosion, and short-circuiting have each been cited, while parents and eyewitnesses say emergency responders took roughly two hours to arrive and police four hours, contradicting officials' six-minute response claim; a committee led by former interior secretary Shahid Khan has been formed alongside demands for an independent judicial probe.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/679311-explainer-what-we-know-so-far-about-the-pims-nursery-fire" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/679293-in-pictures-14-infants-die-as-fire-erupts-in-pims-gynae-ward" }
+      ],
+      "timestamp": "Aug 26, 7:19 PM",
+      "publishedAt": "2026-08-26T19:19:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A hospital safety tragedy, not a direct driver of jobs, prices, or business activity." },
+        "political": { "value": "negative", "reason": "Conflicting official accounts of the fire's cause and disputed response-time claims further erode confidence in the government's handling of the incident." },
+        "social": { "value": "negative", "reason": "Continuing reports of delayed emergency response and an unclear cause add to the severity of a tragedy that has already killed 14 infants." },
+        "market": { "value": "low", "reason": "No direct relevance to investors or broader markets." },
+        "lean": { "value": "balanced", "reason": "Coverage sets official response-time and cause claims against parents' and eyewitnesses' contradicting accounts without favoring either side." },
+        "confidence": { "value": "medium", "reason": "Corroborated details (safety violations, delayed response, conflicting cause accounts) are consistent with the wider multi-outlet reporting on this event, though drawn here from a single outlet's own follow-up pieces." }
+      }
+    },
+    {
+      "id": 6,
       "headline": "Court extends physical remand of husband, servant in Hina Javed murder case",
       "summary": "AI summary: A Rawalpindi court extended the physical remand of a woman's husband and domestic worker by three days after the servant reportedly confessed to strangling her during a domestic dispute, as forensic and post-mortem findings are reviewed to determine an exact cause of death.",
       "sources": [
@@ -21,7 +117,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 7,
       "headline": "14 infants killed in fire at Pims' gynae ward in Islamabad",
       "summary": "AI summary: A fire linked to an exploding air-conditioner unit tore through PIMS's neonatal ward in Islamabad early Wednesday, killing 14 infants; grieving parents allege the NICU door was locked and staff were absent, and while the government suspended the health secretary and formed an inquiry, experts and politicians are demanding an independent judicial probe instead.",
       "sources": [
@@ -43,7 +139,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 8,
       "headline": "At ISPCAN 2026, Pakistan explores global models to strengthen child protection system",
       "summary": "AI summary: At the ISPCAN 2026 child-protection congress in Melbourne, a Pakistani delegation led by the Child Protection and Welfare Bureau studied international best practices and institutional models to help strengthen the country's own child-safety systems.",
       "sources": [
@@ -62,7 +158,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 9,
       "headline": "Mayor Mamdani opposes NYC event with leader of India's Hindu nationalist group",
       "summary": "AI summary: New York Mayor Zohran Mamdani has publicly opposed an upcoming NYC event featuring RSS chief Mohan Bhagwat, arguing the Hindu-nationalist organization's exclusionary ideology and history of intolerance toward minorities clash with his vision of a pluralistic society, even as organizers defend the event as promoting interfaith unity.",
       "sources": [
@@ -81,7 +177,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 10,
       "headline": "On Eid Miladun Nabi, PM Shehbaz and President Zardari urge nation to follow teachings of the Holy Prophet",
       "summary": "AI summary: Pakistan marked Eid Miladun Nabi with President Zardari and PM Shehbaz urging citizens to embody the Prophet's teachings of justice and tolerance, while cities including Karachi, Rawalpindi, Peshawar and Lahore deployed thousands of police and traffic personnel to secure processions and Milad gatherings nationwide.",
       "sources": [
@@ -102,7 +198,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 11,
       "headline": "JI hits back at Rana Sanaullah over sit-in criticism",
       "summary": "AI summary: Jamaat-e-Islami pushed back against PML-N leader Rana Sanaullah's criticism of its petroleum-levy protests, saying its demonstrations have drawn large daily turnouts across three cities and remain focused on economic grievances rather than any particular party.",
       "sources": [
@@ -121,7 +217,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 12,
       "headline": "KP, MoR sign framework agreement on cooperation",
       "summary": "AI summary: Khyber Pakhtunkhwa and the federal Ministry of Railways signed a cooperation framework committing Rs500 million to restore historic railway stations and prioritizing the Nowshera-Jahangira line, part of a broader plan for a Greater Peshawar Circular Railway.",
       "sources": [
