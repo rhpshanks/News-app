@@ -1,0 +1,143 @@
+{
+  "generatedAt": "2026-08-26T17:03:09+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Court extends physical remand of husband, servant in Hina Javed murder case",
+      "summary": "AI summary: A Rawalpindi court extended the physical remand of a woman's husband and domestic worker by three days after the servant reportedly confessed to strangling her during a domestic dispute, as forensic and post-mortem findings are reviewed to determine an exact cause of death.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/679255-court-extends-physical-remand-of-husband-servant-in-hina-javed-murder-case" }
+      ],
+      "timestamp": "Aug 26, 2:56 PM",
+      "publishedAt": "2026-08-26T14:56:17+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A domestic murder case has no bearing on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "Routine judicial process with no implications for governance or institutional stability." },
+        "social": { "value": "negative", "reason": "A violent domestic-dispute killing reflects poorly on public safety and highlights ongoing domestic-violence risk." },
+        "market": { "value": "low", "reason": "A local criminal case carries no relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Purely factual crime and court reporting with no political framing." },
+        "confidence": { "value": "medium", "reason": "Single outlet, but the article gives detailed, internally consistent forensic and procedural facts." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "14 infants killed in fire at Pims' gynae ward in Islamabad",
+      "summary": "AI summary: A fire linked to an exploding air-conditioner unit tore through PIMS's neonatal ward in Islamabad early Wednesday, killing 14 infants; grieving parents allege the NICU door was locked and staff were absent, and while the government suspended the health secretary and formed an inquiry, experts and politicians are demanding an independent judicial probe instead.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2025385/14-infants-killed-in-fire-at-pims-gynae-ward-in-islamabad" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/679257-pims-fire-experts-politicians-demand-independent-probe-into-infants-deaths" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/679242-pims-deadly-fire-parents-allege-locked-nicu-door-absence-of-nursery-staff" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40436586/fire-at-pims-gynaecology-ward-claims-lives-of-at-least-14-newborns" }
+      ],
+      "timestamp": "Aug 26, 1:58 PM",
+      "publishedAt": "2026-08-26T13:58:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A hospital safety tragedy, not a direct driver of jobs, prices, or business activity." },
+        "political": { "value": "negative", "reason": "The health secretary's suspension and demands for an independent judicial probe over the government-led inquiry signal pressure on institutional credibility." },
+        "social": { "value": "negative", "reason": "Fourteen infant deaths and allegations of locked doors and absent staff represent a severe public-safety and wellbeing failure." },
+        "market": { "value": "low", "reason": "No direct relevance to investors or broader markets." },
+        "lean": { "value": "balanced", "reason": "Coverage presents both the official account (AC explosion, suspension, inquiry) and parents'/experts' allegations without favoring either side." },
+        "confidence": { "value": "medium", "reason": "Core facts (14 deaths, AC explosion, locked-door allegations) are corroborated consistently across three independent outlets." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "At ISPCAN 2026, Pakistan explores global models to strengthen child protection system",
+      "summary": "AI summary: At the ISPCAN 2026 child-protection congress in Melbourne, a Pakistani delegation led by the Child Protection and Welfare Bureau studied international best practices and institutional models to help strengthen the country's own child-safety systems.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/679234-at-ispcan-2026-pakistan-explores-global-models-to-strengthen-child-protection-system" }
+      ],
+      "timestamp": "Aug 26, 12:41 PM",
+      "publishedAt": "2026-08-26T12:41:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "An institutional study visit with no direct economic effect." },
+        "political": { "value": "neutral", "reason": "Routine international engagement by a welfare bureau, with no bearing on governance stability." },
+        "social": { "value": "positive", "reason": "Efforts to adopt stronger child-protection models support long-term public wellbeing and child safety." },
+        "market": { "value": "low", "reason": "No relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Straightforward institutional reporting with no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single outlet, but the report is detailed and internally consistent." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Mayor Mamdani opposes NYC event with leader of India's Hindu nationalist group",
+      "summary": "AI summary: New York Mayor Zohran Mamdani has publicly opposed an upcoming NYC event featuring RSS chief Mohan Bhagwat, arguing the Hindu-nationalist organization's exclusionary ideology and history of intolerance toward minorities clash with his vision of a pluralistic society, even as organizers defend the event as promoting interfaith unity.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2025391/mayor-mamdani-opposes-nyc-event-with-leader-of-indias-hindu-nationalist-group" }
+      ],
+      "timestamp": "Aug 26, 11:05 AM",
+      "publishedAt": "2026-08-26T11:05:24+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A foreign diaspora political dispute with no economic bearing." },
+        "political": { "value": "neutral", "reason": "Concerns US domestic and diaspora politics, not Pakistani institutional stability." },
+        "social": { "value": "neutral", "reason": "Relates to interfaith/minority-rights debate abroad with no direct effect on local public wellbeing." },
+        "market": { "value": "low", "reason": "No market or business relevance." },
+        "lean": { "value": "balanced", "reason": "The article presents both Mamdani's criticism and the event organizers' defense of it." },
+        "confidence": { "value": "medium", "reason": "Single outlet, but the article is well-sourced with direct quotes from multiple parties." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "On Eid Miladun Nabi, PM Shehbaz and President Zardari urge nation to follow teachings of the Holy Prophet",
+      "summary": "AI summary: Pakistan marked Eid Miladun Nabi with President Zardari and PM Shehbaz urging citizens to embody the Prophet's teachings of justice and tolerance, while cities including Karachi, Rawalpindi, Peshawar and Lahore deployed thousands of police and traffic personnel to secure processions and Milad gatherings nationwide.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2025387/on-eid-miladun-nabi-pm-shehbaz-and-president-zardari-urge-nation-to-follow-teachings-of-the-holy-prophet" },
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2025246/security-traffic-plans-for-eid-miladun-nabi-processions" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40436568/eid-milad-ul-nabi-saw-today" }
+      ],
+      "timestamp": "Aug 26, 9:52 AM",
+      "publishedAt": "2026-08-26T09:52:42+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A national religious holiday with routine, non-notable economic effects." },
+        "political": { "value": "neutral", "reason": "Routine ceremonial messages from the PM and President with no institutional stability implications." },
+        "social": { "value": "positive", "reason": "A large-scale, peaceful religious observance secured by heavy police deployment supports communal wellbeing and public safety." },
+        "market": { "value": "low", "reason": "No relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Coverage of both leaders' messages is symmetric, and the security reporting is purely administrative." },
+        "confidence": { "value": "medium", "reason": "Corroborated across two independent outlets describing the same nationwide occasion." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "JI hits back at Rana Sanaullah over sit-in criticism",
+      "summary": "AI summary: Jamaat-e-Islami pushed back against PML-N leader Rana Sanaullah's criticism of its petroleum-levy protests, saying its demonstrations have drawn large daily turnouts across three cities and remain focused on economic grievances rather than any particular party.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40436575/ji-hits-back-at-rana-sanaullah-over-sit-in-criticism" }
+      ],
+      "timestamp": "Aug 26, 4:57 AM",
+      "publishedAt": "2026-08-26T04:57:24+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Reports political rhetoric about protests rather than any concrete economic development." },
+        "political": { "value": "neutral", "reason": "Routine inter-party sparring typical of normal political contestation, not a threat to institutional stability." },
+        "social": { "value": "neutral", "reason": "Described as organized demonstrations with no reported disruption or unrest." },
+        "market": { "value": "low", "reason": "Political rhetoric about protests carries little direct market relevance." },
+        "lean": { "value": "balanced", "reason": "The excerpt reports JI's rebuttal to a specific PML-N criticism, presenting the dispute rather than endorsing either side." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt after the full article returned a 403 error." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "KP, MoR sign framework agreement on cooperation",
+      "summary": "AI summary: Khyber Pakhtunkhwa and the federal Ministry of Railways signed a cooperation framework committing Rs500 million to restore historic railway stations and prioritizing the Nowshera-Jahangira line, part of a broader plan for a Greater Peshawar Circular Railway.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40436526/kp-mor-sign-framework-agreement-on-cooperation" }
+      ],
+      "timestamp": "Aug 26, 4:57 AM",
+      "publishedAt": "2026-08-26T04:57:24+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Railway infrastructure investment and station restoration signal development likely to boost regional economic activity." },
+        "political": { "value": "neutral", "reason": "Routine intergovernmental cooperation between a province and a federal ministry, with no stability implications." },
+        "social": { "value": "positive", "reason": "Improved rail connectivity and restored stations benefit public transport access and daily life." },
+        "market": { "value": "medium", "reason": "Infrastructure spending is relevant to construction and transport-sector business decisions." },
+        "lean": { "value": "balanced", "reason": "Administrative infrastructure news with no partisan framing." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt after the full article returned a 403 error." }
+      }
+    }
+  ]
+}
