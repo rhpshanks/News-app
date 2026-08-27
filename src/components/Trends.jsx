@@ -41,8 +41,8 @@ function yAt(pct) {
   return PLOT_BOTTOM - (pct / 100) * PLOT_HEIGHT;
 }
 
-export default function Trends({ history, lockedRange = false }) {
-  const [category, setCategory] = useState("economic");
+export default function Trends({ history, lockedRange = false, forceCategory = null }) {
+  const [category, setCategory] = useState(forceCategory ?? "economic");
   const [range, setRange] = useState("30");
   const [hoverIndex, setHoverIndex] = useState(null);
   const svgRef = useRef(null);
@@ -104,20 +104,22 @@ export default function Trends({ history, lockedRange = false }) {
   return (
     <section className="trends">
       <div className="trends__head">
-        <div className="trends__tabs" role="tablist" aria-label="Indicator category">
-          {CATEGORIES.map((cat) => (
-            <button
-              key={cat.key}
-              type="button"
-              role="tab"
-              aria-selected={category === cat.key}
-              className={category === cat.key ? "trends__tab trends__tab--active" : "trends__tab"}
-              onClick={() => setCategory(cat.key)}
-            >
-              {cat.label}
-            </button>
-          ))}
-        </div>
+        {!forceCategory && (
+          <div className="trends__tabs" role="tablist" aria-label="Indicator category">
+            {CATEGORIES.map((cat) => (
+              <button
+                key={cat.key}
+                type="button"
+                role="tab"
+                aria-selected={category === cat.key}
+                className={category === cat.key ? "trends__tab trends__tab--active" : "trends__tab"}
+                onClick={() => setCategory(cat.key)}
+              >
+                {cat.label}
+              </button>
+            ))}
+          </div>
+        )}
 
         {!lockedRange && (
           <div className="trends__ranges" role="group" aria-label="Date range">

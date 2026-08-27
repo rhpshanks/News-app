@@ -6,6 +6,10 @@ import AboutPage from "./components/AboutPage.jsx";
 import ContactPage from "./components/ContactPage.jsx";
 import PrivacyPage from "./components/PrivacyPage.jsx";
 import AdvertisePage from "./components/AdvertisePage.jsx";
+import TrackRecordPage from "./components/TrackRecordPage.jsx";
+import TopicPage from "./components/TopicPage.jsx";
+
+const TOPIC_CATEGORIES = ["economic", "political", "social"];
 
 // A hand-rolled router rather than a library, there are only two real pages here.
 // Plain <a href> links trigger full navigation (good for crawlers and "open in new
@@ -54,6 +58,25 @@ export default function Root() {
   if (path === "/advertise") {
     return <AdvertisePage onNavigateHome={() => navigate("/")} onNavigateContact={() => navigate("/contact")} />;
   }
+  if (path === "/track-record") {
+    return (
+      <TrackRecordPage
+        onNavigateHome={() => navigate("/")}
+        onNavigateMethodology={() => navigate("/methodology")}
+        onNavigateContact={() => navigate("/contact")}
+      />
+    );
+  }
+  const topicMatch = TOPIC_CATEGORIES.find((cat) => path === `/topic/${cat}`);
+  if (topicMatch) {
+    return (
+      <TopicPage
+        category={topicMatch}
+        onNavigateHome={() => navigate("/")}
+        onNavigateMethodology={() => navigate("/methodology")}
+      />
+    );
+  }
   return (
     <App
       onNavigateMethodology={() => navigate("/methodology")}
@@ -62,6 +85,8 @@ export default function Root() {
       onNavigateContact={() => navigate("/contact")}
       onNavigatePrivacy={() => navigate("/privacy")}
       onNavigateAdvertise={() => navigate("/advertise")}
+      onNavigateTrackRecord={() => navigate("/track-record")}
+      onNavigateTopic={(cat) => navigate(`/topic/${cat}`)}
     />
   );
 }

@@ -18,6 +18,17 @@
         "neutral": 8,
         "negative": 1
       }
+    },
+    "flaggedForReview": 2,
+    "lean": {
+      "balanced": 10,
+      "pro-government": 0,
+      "pro-opposition": 0
+    },
+    "confidence": {
+      "high": 6,
+      "medium": 2,
+      "low": 2
     }
   },
   {
@@ -39,6 +50,17 @@
         "neutral": 4,
         "negative": 6
       }
+    },
+    "flaggedForReview": 1,
+    "lean": {
+      "balanced": 10,
+      "pro-government": 0,
+      "pro-opposition": 0
+    },
+    "confidence": {
+      "high": 7,
+      "medium": 3,
+      "low": 0
     }
   },
   {
@@ -60,6 +82,17 @@
         "neutral": 6,
         "negative": 4
       }
+    },
+    "flaggedForReview": 0,
+    "lean": {
+      "balanced": 11,
+      "pro-government": 0,
+      "pro-opposition": 0
+    },
+    "confidence": {
+      "high": 8,
+      "medium": 3,
+      "low": 0
     }
   },
   {
@@ -81,6 +114,17 @@
         "neutral": 4,
         "negative": 6
       }
+    },
+    "flaggedForReview": 4,
+    "lean": {
+      "balanced": 10,
+      "pro-government": 0,
+      "pro-opposition": 0
+    },
+    "confidence": {
+      "high": 0,
+      "medium": 6,
+      "low": 4
     }
   },
   {
@@ -102,6 +146,17 @@
         "neutral": 4,
         "negative": 6
       }
+    },
+    "flaggedForReview": 3,
+    "lean": {
+      "balanced": 12,
+      "pro-government": 0,
+      "pro-opposition": 0
+    },
+    "confidence": {
+      "high": 2,
+      "medium": 9,
+      "low": 1
     }
   },
   {
@@ -123,6 +178,17 @@
         "neutral": 4,
         "negative": 4
       }
+    },
+    "flaggedForReview": 2,
+    "lean": {
+      "balanced": 10,
+      "pro-government": 0,
+      "pro-opposition": 0
+    },
+    "confidence": {
+      "high": 0,
+      "medium": 5,
+      "low": 5
     }
   },
   {
@@ -144,6 +210,17 @@
         "neutral": 6,
         "negative": 11
       }
+    },
+    "flaggedForReview": 5,
+    "lean": {
+      "balanced": 17,
+      "pro-government": 2,
+      "pro-opposition": 0
+    },
+    "confidence": {
+      "high": 3,
+      "medium": 14,
+      "low": 2
     }
   },
   {
@@ -165,6 +242,17 @@
         "neutral": 9,
         "negative": 9
       }
+    },
+    "flaggedForReview": 9,
+    "lean": {
+      "balanced": 16,
+      "pro-government": 4,
+      "pro-opposition": 0
+    },
+    "confidence": {
+      "high": 3,
+      "medium": 13,
+      "low": 4
     }
   },
   {
@@ -186,6 +274,17 @@
         "neutral": 12,
         "negative": 6
       }
+    },
+    "flaggedForReview": 7,
+    "lean": {
+      "balanced": 24,
+      "pro-government": 0,
+      "pro-opposition": 0
+    },
+    "confidence": {
+      "high": 3,
+      "medium": 10,
+      "low": 11
     }
   },
   {
@@ -207,6 +306,17 @@
         "neutral": 13,
         "negative": 11
       }
+    },
+    "flaggedForReview": 2,
+    "lean": {
+      "balanced": 26,
+      "pro-government": 0,
+      "pro-opposition": 0
+    },
+    "confidence": {
+      "high": 4,
+      "medium": 17,
+      "low": 5
     }
   },
   {
@@ -228,6 +338,17 @@
         "neutral": 5,
         "negative": 3
       }
+    },
+    "flaggedForReview": 2,
+    "lean": {
+      "balanced": 9,
+      "pro-government": 0,
+      "pro-opposition": 0
+    },
+    "confidence": {
+      "high": 3,
+      "medium": 6,
+      "low": 0
     }
   },
   {
@@ -249,6 +370,17 @@
         "neutral": 8,
         "negative": 9
       }
+    },
+    "flaggedForReview": 3,
+    "lean": {
+      "balanced": 18,
+      "pro-government": 0,
+      "pro-opposition": 0
+    },
+    "confidence": {
+      "high": 2,
+      "medium": 12,
+      "low": 4
     }
   },
   {
@@ -270,6 +402,17 @@
         "neutral": 12,
         "negative": 5
       }
+    },
+    "flaggedForReview": 6,
+    "lean": {
+      "balanced": 19,
+      "pro-government": 0,
+      "pro-opposition": 0
+    },
+    "confidence": {
+      "high": 4,
+      "medium": 15,
+      "low": 0
     }
   },
   {
@@ -291,6 +434,17 @@
         "neutral": 5,
         "negative": 2
       }
+    },
+    "flaggedForReview": 2,
+    "lean": {
+      "balanced": 12,
+      "pro-government": 0,
+      "pro-opposition": 0
+    },
+    "confidence": {
+      "high": 1,
+      "medium": 8,
+      "low": 3
     }
   },
   {
@@ -312,6 +466,17 @@
         "neutral": 16,
         "negative": 5
       }
+    },
+    "flaggedForReview": 4,
+    "lean": {
+      "balanced": 24,
+      "pro-government": 0,
+      "pro-opposition": 1
+    },
+    "confidence": {
+      "high": 2,
+      "medium": 23,
+      "low": 0
     }
   },
   {
@@ -333,6 +498,17 @@
         "neutral": 8,
         "negative": 3
       }
+    },
+    "flaggedForReview": 2,
+    "lean": {
+      "balanced": 11,
+      "pro-government": 0,
+      "pro-opposition": 0
+    },
+    "confidence": {
+      "high": 1,
+      "medium": 7,
+      "low": 3
     }
   },
   {
@@ -354,6 +530,17 @@
         "neutral": 4,
         "negative": 7
       }
+    },
+    "flaggedForReview": 4,
+    "lean": {
+      "balanced": 12,
+      "pro-government": 0,
+      "pro-opposition": 0
+    },
+    "confidence": {
+      "high": 0,
+      "medium": 7,
+      "low": 5
     }
   },
   {
@@ -375,6 +562,17 @@
         "neutral": 13,
         "negative": 7
       }
+    },
+    "flaggedForReview": 10,
+    "lean": {
+      "balanced": 21,
+      "pro-government": 2,
+      "pro-opposition": 2
+    },
+    "confidence": {
+      "high": 6,
+      "medium": 15,
+      "low": 4
     }
   },
   {
@@ -396,6 +594,17 @@
         "neutral": 5,
         "negative": 12
       }
+    },
+    "flaggedForReview": 11,
+    "lean": {
+      "balanced": 21,
+      "pro-government": 0,
+      "pro-opposition": 0
+    },
+    "confidence": {
+      "high": 1,
+      "medium": 16,
+      "low": 4
     }
   },
   {
@@ -417,6 +626,17 @@
         "neutral": 13,
         "negative": 10
       }
+    },
+    "flaggedForReview": 8,
+    "lean": {
+      "balanced": 33,
+      "pro-government": 0,
+      "pro-opposition": 0
+    },
+    "confidence": {
+      "high": 1,
+      "medium": 23,
+      "low": 9
     }
   },
   {
@@ -438,6 +658,17 @@
         "neutral": 14,
         "negative": 9
       }
+    },
+    "flaggedForReview": 8,
+    "lean": {
+      "balanced": 24,
+      "pro-government": 0,
+      "pro-opposition": 0
+    },
+    "confidence": {
+      "high": 9,
+      "medium": 15,
+      "low": 0
     }
   },
   {
@@ -459,6 +690,17 @@
         "neutral": 8,
         "negative": 4
       }
+    },
+    "flaggedForReview": 0,
+    "lean": {
+      "balanced": 13,
+      "pro-government": 0,
+      "pro-opposition": 0
+    },
+    "confidence": {
+      "high": 6,
+      "medium": 6,
+      "low": 1
     }
   },
   {
@@ -480,6 +722,17 @@
         "neutral": 10,
         "negative": 7
       }
+    },
+    "flaggedForReview": 2,
+    "lean": {
+      "balanced": 20,
+      "pro-government": 0,
+      "pro-opposition": 0
+    },
+    "confidence": {
+      "high": 0,
+      "medium": 13,
+      "low": 7
     }
   },
   {
@@ -501,6 +754,17 @@
         "neutral": 8,
         "negative": 4
       }
+    },
+    "flaggedForReview": 1,
+    "lean": {
+      "balanced": 17,
+      "pro-government": 0,
+      "pro-opposition": 0
+    },
+    "confidence": {
+      "high": 7,
+      "medium": 10,
+      "low": 0
     }
   },
   {
@@ -522,6 +786,17 @@
         "neutral": 9,
         "negative": 3
       }
+    },
+    "flaggedForReview": 2,
+    "lean": {
+      "balanced": 18,
+      "pro-government": 0,
+      "pro-opposition": 0
+    },
+    "confidence": {
+      "high": 1,
+      "medium": 9,
+      "low": 8
     }
   },
   {
@@ -543,6 +818,17 @@
         "neutral": 8,
         "negative": 5
       }
+    },
+    "flaggedForReview": 1,
+    "lean": {
+      "balanced": 13,
+      "pro-government": 0,
+      "pro-opposition": 1
+    },
+    "confidence": {
+      "high": 0,
+      "medium": 8,
+      "low": 6
     }
   },
   {
@@ -564,6 +850,17 @@
         "neutral": 14,
         "negative": 7
       }
+    },
+    "flaggedForReview": 6,
+    "lean": {
+      "balanced": 17,
+      "pro-government": 2,
+      "pro-opposition": 3
+    },
+    "confidence": {
+      "high": 1,
+      "medium": 20,
+      "low": 1
     }
   },
   {
@@ -585,6 +882,17 @@
         "neutral": 5,
         "negative": 4
       }
+    },
+    "flaggedForReview": 2,
+    "lean": {
+      "balanced": 10,
+      "pro-government": 0,
+      "pro-opposition": 0
+    },
+    "confidence": {
+      "high": 1,
+      "medium": 5,
+      "low": 4
     }
   },
   {
@@ -602,10 +910,21 @@
         "negative": 2
       },
       "social": {
-        "positive": 2,
-        "neutral": 9,
+        "positive": 3,
+        "neutral": 8,
         "negative": 1
       }
+    },
+    "flaggedForReview": 2,
+    "lean": {
+      "balanced": 10,
+      "pro-government": 2,
+      "pro-opposition": 0
+    },
+    "confidence": {
+      "high": 1,
+      "medium": 11,
+      "low": 0
     }
   },
   {
@@ -627,6 +946,17 @@
         "neutral": 5,
         "negative": 2
       }
+    },
+    "flaggedForReview": 3,
+    "lean": {
+      "balanced": 6,
+      "pro-government": 1,
+      "pro-opposition": 0
+    },
+    "confidence": {
+      "high": 0,
+      "medium": 5,
+      "low": 2
     }
   },
   {
@@ -648,6 +978,17 @@
         "neutral": 14,
         "negative": 6
       }
+    },
+    "flaggedForReview": 7,
+    "lean": {
+      "balanced": 19,
+      "pro-government": 1,
+      "pro-opposition": 1
+    },
+    "confidence": {
+      "high": 2,
+      "medium": 10,
+      "low": 9
     }
   },
   {
@@ -669,6 +1010,17 @@
         "neutral": 2,
         "negative": 2
       }
+    },
+    "flaggedForReview": 3,
+    "lean": {
+      "balanced": 6,
+      "pro-government": 0,
+      "pro-opposition": 0
+    },
+    "confidence": {
+      "high": 0,
+      "medium": 6,
+      "low": 0
     }
   },
   {
@@ -690,6 +1042,17 @@
         "neutral": 4,
         "negative": 2
       }
+    },
+    "flaggedForReview": 1,
+    "lean": {
+      "balanced": 7,
+      "pro-government": 0,
+      "pro-opposition": 0
+    },
+    "confidence": {
+      "high": 1,
+      "medium": 6,
+      "low": 0
     }
   },
   {
@@ -711,6 +1074,17 @@
         "neutral": 4,
         "negative": 3
       }
+    },
+    "flaggedForReview": 5,
+    "lean": {
+      "balanced": 6,
+      "pro-government": 0,
+      "pro-opposition": 2
+    },
+    "confidence": {
+      "high": 0,
+      "medium": 8,
+      "low": 0
     }
   },
   {
@@ -732,6 +1106,17 @@
         "neutral": 5,
         "negative": 3
       }
+    },
+    "flaggedForReview": 3,
+    "lean": {
+      "balanced": 8,
+      "pro-government": 0,
+      "pro-opposition": 1
+    },
+    "confidence": {
+      "high": 1,
+      "medium": 8,
+      "low": 0
     }
   },
   {
@@ -753,6 +1138,17 @@
         "neutral": 3,
         "negative": 6
       }
+    },
+    "flaggedForReview": 3,
+    "lean": {
+      "balanced": 12,
+      "pro-government": 0,
+      "pro-opposition": 0
+    },
+    "confidence": {
+      "high": 0,
+      "medium": 10,
+      "low": 2
     }
   },
   {
@@ -774,6 +1170,17 @@
         "neutral": 5,
         "negative": 7
       }
+    },
+    "flaggedForReview": 4,
+    "lean": {
+      "balanced": 16,
+      "pro-government": 0,
+      "pro-opposition": 0
+    },
+    "confidence": {
+      "high": 3,
+      "medium": 9,
+      "low": 4
     }
   }
 ]

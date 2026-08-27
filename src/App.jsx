@@ -58,6 +58,8 @@ function App({
   onNavigateContact,
   onNavigatePrivacy,
   onNavigateAdvertise,
+  onNavigateTrackRecord,
+  onNavigateTopic,
 }) {
   const [theme, setTheme] = useState(getInitialTheme);
   const [toast, setToast] = useState(null);
@@ -330,6 +332,29 @@ function App({
 
             <div className="trends-wrap">
               <Trends history={trendsHistory} lockedRange={isDateFiltered} />
+            </div>
+
+            <div className="topic-links">
+              <span className="topic-links__label">Browse by topic:</span>
+              <button type="button" className="topic-links__link" onClick={() => onNavigateTopic("economic")}>
+                Economic
+              </button>
+              <button type="button" className="topic-links__link" onClick={() => onNavigateTopic("political")}>
+                Political
+              </button>
+              <button type="button" className="topic-links__link" onClick={() => onNavigateTopic("social")}>
+                Social
+              </button>
+              <a
+                href="/track-record"
+                className="topic-links__link"
+                onClick={(e) => {
+                  e.preventDefault();
+                  onNavigateTrackRecord();
+                }}
+              >
+                Track record
+              </a>
             </div>
 
             <div ref={scrollContainerRef} className="article-scroll">
