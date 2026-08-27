@@ -1,0 +1,215 @@
+{
+  "generatedAt": "2026-08-27T11:18:16+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Search underway for 1,300 missing after deadly Nepal-Tibet floods",
+      "summary": "AI summary: A glacier collapse triggered catastrophic flooding along the Nepal-Tibet border, killing over 165 people and leaving more than 1,300 missing, including many foreign tourists, as rescue operations continue.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2025473/search-underway-for-1300-missing-after-deadly-nepal-tibet-floods" }
+      ],
+      "timestamp": "Aug 27, 11:14 AM",
+      "publishedAt": "2026-08-27T11:14:21+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Event occurred outside Pakistan and has no direct bearing on domestic jobs, prices or business activity." },
+        "political": { "value": "neutral", "reason": "A foreign natural disaster with no implications for Pakistan's own institutional or governance stability." },
+        "social": { "value": "negative", "reason": "A mass-casualty disaster with over 1,300 people missing represents a severe humanitarian toll." },
+        "market": { "value": "low", "reason": "Limited direct relevance to Pakistani markets or investors beyond general regional disaster awareness." },
+        "lean": { "value": "balanced", "reason": "Reporting is factual, sourced to official casualty figures and a USGS scientific assessment, without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single-source report, but it relies on official casualty counts and an independent scientific finding on cause." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "PM reaffirms Pakistan's appreciation for Saudi Arabia 'steadfast support, generous assistance'",
+      "summary": "AI summary: PM Shehbaz Sharif thanked Saudi Arabia's outgoing ambassador for years of support to Pakistan, as the envoy wrapped up his tenure with a farewell meeting in Islamabad.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2025480/pm-reaffirms-pakistans-appreciation-for-saudi-arabia-steadfast-support-generous-assistance" }
+      ],
+      "timestamp": "Aug 27, 11:04 AM",
+      "publishedAt": "2026-08-27T11:04:47+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A ceremonial diplomatic farewell with no immediate economic policy or investment implications." },
+        "political": { "value": "positive", "reason": "Reinforces a stable, longstanding bilateral relationship and continuity in Pakistan-Saudi diplomatic ties." },
+        "social": { "value": "neutral", "reason": "No direct bearing on public wellbeing or daily life." },
+        "market": { "value": "low", "reason": "A routine diplomatic courtesy call, not signalling any new investment or trade decision." },
+        "lean": { "value": "balanced", "reason": "Straightforward reporting of a diplomatic farewell meeting without contested claims or one-sided framing." },
+        "confidence": { "value": "medium", "reason": "Based on a single official readout; content is procedural and low in ambiguity." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Punjab CM Maryam orders fresh safety audit of hospitals after Pims tragedy",
+      "summary": "AI summary: Following the fatal PIMS nursery fire, Punjab CM Maryam Nawaz ordered a province-wide 24-hour safety audit of public hospitals covering fire equipment, emergency exits and electrical systems, with compliance reports due by August 29.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/679376-punjab-cm-maryam-nawaz-orders-fresh-safety-audit-of-hospitals-after-pims-tragedy" }
+      ],
+      "timestamp": "Aug 27, 10:58 AM",
+      "publishedAt": "2026-08-27T10:58:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A regulatory and administrative directive with no announced budget outlay affecting broader economic activity." },
+        "political": { "value": "positive", "reason": "A swift, specific government response following a fatal incident signals functioning institutional accountability." },
+        "social": { "value": "positive", "reason": "Aims to improve hospital fire safety and could prevent future harm to patients if implemented as directed." },
+        "market": { "value": "low", "reason": "A domestic administrative directive with minimal relevance to investors or broader business activity." },
+        "lean": { "value": "balanced", "reason": "Reports the CM's directive factually without crediting or contesting it; standard government-action coverage." },
+        "confidence": { "value": "medium", "reason": "Single-source report of an official government directive; details are specific and verifiable but not corroborated elsewhere." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Qatar PM to visit Tehran to pursue US-Iran mediation efforts",
+      "summary": "AI summary: Qatar's prime minister is set to visit Tehran to push forward US-Iran mediation, as talks over reopening the Strait of Hormuz remain stalled roughly six months into the conflict.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2025478/qatar-pm-to-visit-tehran-to-pursue-us-iran-mediation-efforts" }
+      ],
+      "timestamp": "Aug 27, 9:44 AM",
+      "publishedAt": "2026-08-27T09:44:35+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Disrupted Strait of Hormuz shipping has cut oil flows to roughly a quarter of pre-war levels, a continuing drag on global energy trade." },
+        "political": { "value": "neutral", "reason": "Concerns Qatar-Iran-US diplomacy rather than Pakistan's own governance or institutions." },
+        "social": { "value": "negative", "reason": "The ongoing conflict has caused thousands of deaths and dozens of seafarer casualties from Hormuz-related incidents." },
+        "market": { "value": "high", "reason": "Strait of Hormuz oil-flow disruptions directly affect global energy prices and investor risk calculations." },
+        "lean": { "value": "balanced", "reason": "Reports mediation efforts and disputed claims from multiple sides without favoring one narrative." },
+        "confidence": { "value": "medium", "reason": "Single-source report citing UN and Qatari officials' figures, though the underlying conflict details are complex and evolving." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "SBP mulls ending Rs10 note on rising costs",
+      "summary": "AI summary: The State Bank of Pakistan told a Senate committee it is considering discontinuing the Rs10 note due to unsustainable printing costs, while also preparing a redesigned Rs5,000 note to curb counterfeiting.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2025322/sbp-mulls-ending-rs10-note-on-rising-costs" }
+      ],
+      "timestamp": "Aug 27, 7:31 AM",
+      "publishedAt": "2026-08-27T07:31:07+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A currency-management decision affecting note production costs, without significant broader effect on prices, jobs or business activity." },
+        "political": { "value": "neutral", "reason": "Routine central bank policy discussion in a Senate committee, not a governance-stability issue." },
+        "social": { "value": "neutral", "reason": "Currency denomination changes have minor day-to-day impact on the public." },
+        "market": { "value": "medium", "reason": "Relevant to banking and cash-handling businesses and signals SBP's ongoing anti-counterfeiting efforts." },
+        "lean": { "value": "balanced", "reason": "Straightforward reporting of Senate committee proceedings, including a senator's independent criticism of a pending issue." },
+        "confidence": { "value": "medium", "reason": "Single-source report but relays direct, attributable testimony from an SBP deputy governor and a senator." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "From Riyadh to Tehran and Ankara, nations stand with Pakistan after Pims tragedy",
+      "summary": "AI summary: Saudi Arabia, Iran, Turkey and several other countries sent condolences to Pakistan after a nursery fire at Islamabad's PIMS hospital killed at least 14 newborns, as grieving parents alleged the ward lacked working fire exits and staff.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/679371-saudi-arabia-iran-turkey-rally-behind-pakistan-after-deadly-pims-fire" }
+      ],
+      "timestamp": "Aug 27, 6:25 AM",
+      "publishedAt": "2026-08-27T06:25:21+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Diplomatic condolence messages carry no direct economic effect." },
+        "political": { "value": "neutral", "reason": "International sympathy statements do not materially affect Pakistan's own institutional stability, though they reflect diplomatic goodwill." },
+        "social": { "value": "negative", "reason": "The underlying tragedy killed 14 newborns and parents allege serious safety failures, a significant public safety concern." },
+        "market": { "value": "low", "reason": "Limited relevance to investors or broader business decisions." },
+        "lean": { "value": "balanced", "reason": "Reports both the government's suspension of the health secretary and parents' critical allegations, giving space to official and victim perspectives alike." },
+        "confidence": { "value": "medium", "reason": "Single-source report, but corroborated by directly quoted parents and the federal health minister's own account of the cause." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Rangers personnel martyred, another wounded as armed men open fire in AJK",
+      "summary": "AI summary: Armed assailants opened fire on Rangers personnel clearing a blockade in Azad Jammu and Kashmir, killing one ranger and wounding another, in an attack officials linked to the same banned group behind a similar shooting last month.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/679325-rangers-personnel-martyred-another-wounded-after-armed-men-open-fire-in-ajk" }
+      ],
+      "timestamp": "Aug 26, 10:30 PM",
+      "publishedAt": "2026-08-26T22:30:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A localized security incident with no clear direct economic effect." },
+        "political": { "value": "negative", "reason": "Repeated armed attacks on security forces by a banned group signal a persistent security and governance challenge in AJK." },
+        "social": { "value": "negative", "reason": "Loss of life and injury among security personnel, plus continued activity from an active banned militant group, threatens public safety." },
+        "market": { "value": "low", "reason": "A localized security incident unlikely to significantly move broader investor or market sentiment." },
+        "lean": { "value": "balanced", "reason": "Attributes claims to police and reports facts of the incident without editorializing for or against any political party." },
+        "confidence": { "value": "medium", "reason": "Single-source report relying on police statements; details are specific but not independently corroborated." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Fire at PIMS gynaecology ward claims lives of at least 14 newborns",
+      "summary": "AI summary: A fire tore through the neonatal ward on PIMS hospital's third floor in Islamabad on the morning of August 26, killing 14 of 15 newborns; officials cite conflicting causes ranging from an air-conditioner or nebuliser explosion to a short circuit, and a fire brigade report found emergency exits had been permanently sealed.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40436586/fire-at-pims-gynaecology-ward-claims-lives-of-at-least-14-newborns" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/679311-explainer-what-we-know-so-far-about-the-pims-nursery-fire" }
+      ],
+      "timestamp": "Aug 26, 8:01 PM",
+      "publishedAt": "2026-08-26T20:01:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A hospital fire tragedy with no direct bearing on jobs, prices or broader business activity." },
+        "political": { "value": "negative", "reason": "Sealed emergency exits, delayed-rescue accounts and the suspension of the federal health secretary point to serious institutional and oversight failures at a public hospital." },
+        "social": { "value": "negative", "reason": "Fourteen newborn deaths, allegations of an unstaffed ward and blocked exits, and calls for an independent judicial inquiry reflect a severe public safety failure." },
+        "market": { "value": "low", "reason": "Primarily a domestic public-health and safety story with little direct relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Coverage includes both the government's response and critical findings on safety failures, rather than favoring either side." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two independent outlets with consistent core facts, though the exact cause remains disputed among officials themselves." }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "Eid Milad-ul-Nabi (SAW) today",
+      "summary": "AI summary: Pakistan marked Eid Milad-un-Nabi as a public holiday with gun salutes, special prayers and citywide decorations, alongside heightened security including CCTV monitoring at procession routes.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40436568/eid-milad-ul-nabi-saw-today" }
+      ],
+      "timestamp": "Aug 26, 9:53 AM",
+      "publishedAt": "2026-08-26T09:53:54+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A religious public holiday with no significant effect on jobs, prices or business activity beyond a routine day off." },
+        "political": { "value": "neutral", "reason": "A traditional national observance, not tied to governance or institutional stability." },
+        "social": { "value": "positive", "reason": "A widely celebrated religious holiday bringing communal participation and festivity, with visible security supporting public safety." },
+        "market": { "value": "low", "reason": "No notable relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Descriptive coverage of a religious holiday's observance, with no political framing." },
+        "confidence": { "value": "medium", "reason": "Based on a short RSS description excerpt rather than the full article, limiting depth of verification." }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "JI hits back at Rana Sanaullah over sit-in criticism",
+      "summary": "AI summary: Jamaat-e-Islami rejected criticism from PM adviser Rana Sanaullah over its petroleum-levy sit-ins, saying its protests are ongoing daily in three major cities and will continue until the levy is withdrawn.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40436575/ji-hits-back-at-rana-sanaullah-over-sit-in-criticism" }
+      ],
+      "timestamp": "Aug 26, 4:57 AM",
+      "publishedAt": "2026-08-26T04:57:24+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Sit-ins over the petroleum levy reflect economic grievance, but the excerpt centers on a political exchange rather than a market-moving development." },
+        "political": { "value": "neutral", "reason": "A routine partisan exchange between a government adviser and an opposition-aligned party, not indicative of an institutional crisis." },
+        "social": { "value": "neutral", "reason": "Reflects continuing public protests over fuel prices, but the excerpt doesn't indicate disruption beyond the sit-ins themselves." },
+        "market": { "value": "low", "reason": "Petroleum levy politics carry some economic relevance, but this piece centers on a statement exchange, not a policy change." },
+        "lean": { "value": "balanced", "reason": "Presents JI's rebuttal to a specific criticism; the short excerpt gives no indication of favoring either side." },
+        "confidence": { "value": "low", "reason": "Working from a short RSS description excerpt only, after the Business Recorder article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 11,
+      "headline": "KP, MoR sign framework agreement on cooperation",
+      "summary": "AI summary: Khyber Pakhtunkhwa's government and the federal Railways Ministry signed a cooperation framework allocating Rs500 million to rehabilitate historic stations and expand rail links, including the Nowshera-Jahangira route and a planned Greater Peshawar Circular Railway.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40436526/kp-mor-sign-framework-agreement-on-cooperation" }
+      ],
+      "timestamp": "Aug 26, 4:57 AM",
+      "publishedAt": "2026-08-26T04:57:24+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "New rail infrastructure investment is framed as boosting trade, employment and affordable transportation in the province." },
+        "political": { "value": "positive", "reason": "Federal-provincial cooperation on infrastructure reflects functional intergovernmental coordination." },
+        "social": { "value": "positive", "reason": "Improved, more affordable transportation options can benefit residents' daily mobility and economic opportunity." },
+        "market": { "value": "medium", "reason": "Relevant to infrastructure and transport-sector stakeholders, though the Rs500 million allocation is modest in scale." },
+        "lean": { "value": "balanced", "reason": "Descriptive report of an intergovernmental agreement and its stated goals, without partisan framing." },
+        "confidence": { "value": "low", "reason": "Working from a short RSS description excerpt only, after the Business Recorder article page returned a 403 error." }
+      }
+    }
+  ]
+}
