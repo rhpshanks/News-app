@@ -1,8 +1,108 @@
 {
-  "generatedAt": "2026-08-27T11:18:16+05:00",
+  "generatedAt": "2026-08-27T15:42:13+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "PIMS fire: Minister orders safety audit of maritime institutions",
+      "summary": "AI summary: Following the fatal PIMS nursery fire, Pakistan's Maritime Affairs Minister ordered a fire-safety audit of all institutions under the ministry's control, with compliance reports due within 15 days.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40436678/pims-fire-minister-orders-safety-audit-of-maritime-institutions" }
+      ],
+      "timestamp": "Aug 27, 2:53 PM",
+      "publishedAt": "2026-08-27T14:53:06+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A regulatory directive with no announced budget outlay affecting broader economic activity." },
+        "political": { "value": "positive", "reason": "A swift administrative response extending fire-safety oversight to another set of public institutions signals functioning accountability." },
+        "social": { "value": "positive", "reason": "Aims to prevent similar safety failures at maritime-affiliated facilities, protecting public wellbeing." },
+        "market": { "value": "low", "reason": "A domestic administrative directive with minimal relevance to investors or broader business activity." },
+        "lean": { "value": "balanced", "reason": "Reports the minister's directive factually without crediting or contesting it." },
+        "confidence": { "value": "low", "reason": "Working from a short RSS description excerpt only, after the Business Recorder article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "NA health panel visits Pims, says fire in nursery may have been caused by 'technical fault'",
+      "summary": "AI summary: A National Assembly health committee visiting PIMS said the nursery fire that killed 14 infants may have stemmed from a technical fault, though staff gave conflicting accounts and CCTV footage did not pinpoint a cause; the panel also faulted the decades-old ward as unfit for newborns and pledged to convene to assign responsibility.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2025490/na-health-panel-visits-pims-says-fire-in-nursery-may-have-been-caused-by-technical-fault" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/679423-na-panel-suspects-technical-fault-behind-pims-fire-tragedy" }
+      ],
+      "timestamp": "Aug 27, 2:26 PM",
+      "publishedAt": "2026-08-27T14:26:53+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A parliamentary fact-finding visit with no direct bearing on jobs, prices or business activity." },
+        "political": { "value": "negative", "reason": "Conflicting staff accounts, an inconclusive cause, and lawmakers' criticism of outdated infrastructure point to continuing institutional and oversight failures." },
+        "social": { "value": "negative", "reason": "Confirms the ward housing newborns was unsuitable and unsafe, extending the public-safety fallout from the fire." },
+        "market": { "value": "low", "reason": "Primarily a domestic public-health and safety story with little direct relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Reports the panel's findings and lawmakers' calls for accountability without favoring a political side." },
+        "confidence": { "value": "high", "reason": "Corroborated by two independent outlets with consistent details on the technical-fault theory and the ward's age." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Imran Khan's sister moves SC for early hearing on contempt plea over hospital transfer",
+      "summary": "AI summary: Imran Khan's sister Uzma Khan filed a fresh Supreme Court petition seeking an urgent hearing on a contempt case, alleging authorities defied an August 18 court order to move the former prime minister to Shifa International Hospital and instead returned him to custody at PIMS, citing concern for his deteriorating health.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2025502/imrans-hospital-visit-ex-pms-sister-again-moves-sc-for-early-hearing-of-contempt-plea-against-govt" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/679403-imran-khans-sister-moves-sc-for-early-hearing-on-contempt-plea-over-hospital-transfer" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40436681/imran-khans-health-deteriorating-uzma-files-fresh-plea-for-urgent-hearing-of-contempt-case" }
+      ],
+      "timestamp": "Aug 27, 12:54 PM",
+      "publishedAt": "2026-08-27T12:54:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A legal filing concerning a political prisoner's custody, with no bearing on jobs, prices or business activity." },
+        "political": { "value": "negative", "reason": "An allegation that a Supreme Court order was not implemented in its true spirit points to friction between the judiciary and the executive." },
+        "social": { "value": "neutral", "reason": "Concerns one individual's health and custody rather than broader public wellbeing or safety." },
+        "market": { "value": "low", "reason": "Limited relevance to investors or broader business decisions." },
+        "lean": { "value": "balanced", "reason": "Reports the contents of a court petition; the one-sided framing reflects the nature of a petition filing rather than editorial favoritism." },
+        "confidence": { "value": "high", "reason": "Corroborated by three independent outlets with matching details on the petition's claims and the disputed court order." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Claims that CDF Munir visited Iran as envoy for US 'incorrect, misleading': FO",
+      "summary": "AI summary: Pakistan's Foreign Office rejected reports that army chief Field Marshal Asim Munir travelled to Iran on August 24 as a mediator on behalf of the United States, saying the visit was part of Pakistan's own independent efforts to help de-escalate the US-Iran conflict.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2025489/claims-that-cdf-munir-visited-iran-as-envoy-for-us-incorrect-misleading-fo" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/679397-cdf-munir-visited-iran-as-part-of-pakistans-mediation-efforts-not-as-trumps-envoy-fo" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40436672/claims-that-cdf-munir-visited-iran-as-trump-envoy-incorrect-misleading-fo" }
+      ],
+      "timestamp": "Aug 27, 12:15 PM",
+      "publishedAt": "2026-08-27T12:15:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic clarification with no direct economic effect." },
+        "political": { "value": "neutral", "reason": "A routine Foreign Office clarification of the military's diplomatic role, not indicative of institutional instability." },
+        "social": { "value": "neutral", "reason": "No direct bearing on public wellbeing or daily life." },
+        "market": { "value": "low", "reason": "Limited relevance to investors, though tied loosely to the broader US-Iran conflict affecting regional energy markets." },
+        "lean": { "value": "balanced", "reason": "Reports the FO's denial and its stated rationale without favoring a political side." },
+        "confidence": { "value": "high", "reason": "Corroborated by three independent outlets with matching quotes from the FO spokesperson." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Security forces kill 11 terrorists in IBOs across KP, Balochistan",
+      "summary": "AI summary: Pakistani security forces said they killed 11 militants in intelligence-based operations across Khyber Pakhtunkhwa and Balochistan, describing the raids as a successful counter-terrorism action, according to officials.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40436660/security-forces-kill-11-terrorists-in-ibos-across-kp-balochistan" }
+      ],
+      "timestamp": "Aug 27, 12:09 PM",
+      "publishedAt": "2026-08-27T12:09:51+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A security operation with no direct bearing on jobs, prices or business activity." },
+        "political": { "value": "neutral", "reason": "Reflects both functioning counter-terrorism capacity and continuing militant activity across two provinces, without a clear net effect on governance stability." },
+        "social": { "value": "negative", "reason": "The scale of the operation reflects ongoing militant activity and instability across two provinces, a continuing public-safety concern even when framed as a security success." },
+        "market": { "value": "low", "reason": "A localized security matter unlikely to significantly move broader investor or market sentiment." },
+        "lean": { "value": "balanced", "reason": "Claims are attributed to security officials describing their own operation, reported without independent contestation either way." },
+        "confidence": { "value": "low", "reason": "Working from a short RSS description excerpt only, relaying officials' own account of the operation without independent verification." }
+      }
+    },
+    {
+      "id": 6,
       "headline": "Search underway for 1,300 missing after deadly Nepal-Tibet floods",
       "summary": "AI summary: A glacier collapse triggered catastrophic flooding along the Nepal-Tibet border, killing over 165 people and leaving more than 1,300 missing, including many foreign tourists, as rescue operations continue.",
       "sources": [
@@ -21,7 +121,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 7,
       "headline": "PM reaffirms Pakistan's appreciation for Saudi Arabia 'steadfast support, generous assistance'",
       "summary": "AI summary: PM Shehbaz Sharif thanked Saudi Arabia's outgoing ambassador for years of support to Pakistan, as the envoy wrapped up his tenure with a farewell meeting in Islamabad.",
       "sources": [
@@ -40,7 +140,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 8,
       "headline": "Punjab CM Maryam orders fresh safety audit of hospitals after Pims tragedy",
       "summary": "AI summary: Following the fatal PIMS nursery fire, Punjab CM Maryam Nawaz ordered a province-wide 24-hour safety audit of public hospitals covering fire equipment, emergency exits and electrical systems, with compliance reports due by August 29.",
       "sources": [
@@ -59,7 +159,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 9,
       "headline": "Qatar PM to visit Tehran to pursue US-Iran mediation efforts",
       "summary": "AI summary: Qatar's prime minister is set to visit Tehran to push forward US-Iran mediation, as talks over reopening the Strait of Hormuz remain stalled roughly six months into the conflict.",
       "sources": [
@@ -78,7 +178,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 10,
       "headline": "SBP mulls ending Rs10 note on rising costs",
       "summary": "AI summary: The State Bank of Pakistan told a Senate committee it is considering discontinuing the Rs10 note due to unsustainable printing costs, while also preparing a redesigned Rs5,000 note to curb counterfeiting.",
       "sources": [
@@ -97,7 +197,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 11,
       "headline": "From Riyadh to Tehran and Ankara, nations stand with Pakistan after Pims tragedy",
       "summary": "AI summary: Saudi Arabia, Iran, Turkey and several other countries sent condolences to Pakistan after a nursery fire at Islamabad's PIMS hospital killed at least 14 newborns, as grieving parents alleged the ward lacked working fire exits and staff.",
       "sources": [
@@ -116,7 +216,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 12,
       "headline": "Rangers personnel martyred, another wounded as armed men open fire in AJK",
       "summary": "AI summary: Armed assailants opened fire on Rangers personnel clearing a blockade in Azad Jammu and Kashmir, killing one ranger and wounding another, in an attack officials linked to the same banned group behind a similar shooting last month.",
       "sources": [
@@ -135,7 +235,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 13,
       "headline": "Fire at PIMS gynaecology ward claims lives of at least 14 newborns",
       "summary": "AI summary: A fire tore through the neonatal ward on PIMS hospital's third floor in Islamabad on the morning of August 26, killing 14 of 15 newborns; officials cite conflicting causes ranging from an air-conditioner or nebuliser explosion to a short circuit, and a fire brigade report found emergency exits had been permanently sealed.",
       "sources": [
@@ -155,7 +255,7 @@
       }
     },
     {
-      "id": 9,
+      "id": 14,
       "headline": "Eid Milad-ul-Nabi (SAW) today",
       "summary": "AI summary: Pakistan marked Eid Milad-un-Nabi as a public holiday with gun salutes, special prayers and citywide decorations, alongside heightened security including CCTV monitoring at procession routes.",
       "sources": [
@@ -174,7 +274,7 @@
       }
     },
     {
-      "id": 10,
+      "id": 15,
       "headline": "JI hits back at Rana Sanaullah over sit-in criticism",
       "summary": "AI summary: Jamaat-e-Islami rejected criticism from PM adviser Rana Sanaullah over its petroleum-levy sit-ins, saying its protests are ongoing daily in three major cities and will continue until the levy is withdrawn.",
       "sources": [
@@ -193,7 +293,7 @@
       }
     },
     {
-      "id": 11,
+      "id": 16,
       "headline": "KP, MoR sign framework agreement on cooperation",
       "summary": "AI summary: Khyber Pakhtunkhwa's government and the federal Railways Ministry signed a cooperation framework allocating Rs500 million to rehabilitate historic stations and expand rail links, including the Nowshera-Jahangira route and a planned Greater Peshawar Circular Railway.",
       "sources": [
