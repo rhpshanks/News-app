@@ -1,0 +1,197 @@
+{
+  "generatedAt": "2026-08-28T11:47:13+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Two days on, rescuers scour debris in Nepal as risk of fresh flooding grows",
+      "summary": "AI summary: Rescue teams are still searching wreckage in Nepal and Tibet two days after a glacier collapse triggered flash flooding that has killed at least 469 people and left nearly 1,000 missing, including hundreds of foreigners, while officials warn debris-dammed lakes could unleash further flooding.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2025715/two-days-on-rescuers-scour-debris-in-nepal-as-risk-of-fresh-flooding-grows" }
+      ],
+      "timestamp": "Aug 28, 11:29 AM",
+      "publishedAt": "2026-08-28T11:29:37+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Destruction of villages, infrastructure and a major trekking route will disrupt local economic activity and tourism." },
+        "political": { "value": "neutral", "reason": "A natural disaster response in a neighboring country with no direct bearing on Pakistan's own governance." },
+        "social": { "value": "negative", "reason": "Massive loss of life, hundreds still missing, and ongoing flood risk represent a severe humanitarian crisis." },
+        "market": { "value": "low", "reason": "A foreign natural disaster with minimal direct relevance to Pakistani markets or investors." },
+        "lean": { "value": "balanced", "reason": "Straightforward disaster reporting with no political framing." },
+        "confidence": { "value": "medium", "reason": "A single detailed, well-sourced report, but not independently corroborated by a second outlet." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "PM Shehbaz says Makkah defence pact has sent 'message of peace, unity throughout region'",
+      "summary": "AI summary: Prime Minister Shehbaz Sharif told Saudi Arabia's environment minister that the trilateral Makkah Joint Defence Agreement between Pakistan, Saudi Arabia and Turkey has sent a message of peace and unity, as the two sides also discussed deepening agricultural and economic cooperation.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2025714/pm-shehbaz-says-makkah-defence-pact-has-sent-message-of-peace-unity-throughout-region" }
+      ],
+      "timestamp": "Aug 28, 11:09 AM",
+      "publishedAt": "2026-08-28T11:09:43+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Discussion of deepened agricultural and economic partnership with Saudi Arabia points toward potential trade and investment benefits." },
+        "political": { "value": "positive", "reason": "A trilateral defence pact framed as strengthening regional unity reflects positively on diplomatic and institutional standing." },
+        "social": { "value": "neutral", "reason": "No direct, immediate effect on Pakistani citizens' daily wellbeing or safety." },
+        "market": { "value": "medium", "reason": "Economic and agricultural cooperation announcements carry some relevance for investors watching Gulf ties." },
+        "lean": { "value": "balanced", "reason": "Reports the PM's diplomatic statement factually, as routine coverage of an official readout rather than a contested claim." },
+        "confidence": { "value": "medium", "reason": "A single detailed report drawn from an official meeting readout, not independently corroborated." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "CDF Munir stresses fact-based thinking among youth amid social media propaganda",
+      "summary": "AI summary: Chief of Defence Forces Field Marshal Asim Munir met Harvard Business School students in Pakistan, urging young people to rely on fact-based analysis rather than social media misinformation, and discussed Pakistan's regional mediation efforts including his recent visit to Iran aimed at easing Tehran-Washington tensions.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/679537-cdf-munir-stresses-fact-based-thinking-among-youth-amid-social-media-propaganda" }
+      ],
+      "timestamp": "Aug 28, 9:30 AM",
+      "publishedAt": "2026-08-28T09:30:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "An educational and diplomatic engagement with no direct economic implications." },
+        "political": { "value": "neutral", "reason": "Routine military leadership outreach and mediation messaging, not indicative of institutional instability." },
+        "social": { "value": "neutral", "reason": "General media-literacy messaging with limited direct effect on daily life." },
+        "market": { "value": "low", "reason": "Minimal relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Presents the CDF's remarks factually without partisan political framing." },
+        "confidence": { "value": "medium", "reason": "A single detailed report, not independently corroborated by a second outlet." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "AJK assembly to vote for new PM today as PML-N's Gilani files nomination papers",
+      "summary": "AI summary: Pakistan Muslim League-Nawaz has nominated Barrister Syed Iftikhar Ali Gilani to contest Azad Jammu and Kashmir's prime ministerial election in Muzaffarabad on Friday against PPP's Sardar Mukhtar Ahmed Abbasi, with voting scheduled for 2pm following internal PML-N friction after senior leaders objected to the pick.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2025625/pml-n-fields-fresh-face-for-ajk-pm-election-today" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/679543-ajk-assembly-to-vote-for-new-pm-today-as-pml-ns-iftikhar-gilani-files-nomination-papers" }
+      ],
+      "timestamp": "Aug 28, 8:00 AM",
+      "publishedAt": "2026-08-28T08:00:47+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A provincial-level leadership transition with no immediate bearing on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "A routine assembly election process, with some intra-party PML-N dissent but no threat to broader institutional stability." },
+        "social": { "value": "neutral", "reason": "Limited direct effect on public wellbeing beyond regional political circles." },
+        "market": { "value": "low", "reason": "A local political leadership change of minimal relevance to markets or investors." },
+        "lean": { "value": "balanced", "reason": "Coverage reports the nomination and voting mechanics factually, naming both the PML-N and PPP candidates without favoring either." },
+        "confidence": { "value": "high", "reason": "Corroborated by two independent outlets with matching details on the candidates, seat counts, and voting schedule." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Military cooperation: Pakistan, Kuwait sign 'Protocol Agreement-2026'",
+      "summary": "AI summary: Pakistan and Kuwait signed a new Protocol Agreement-2026 to expand bilateral military cooperation covering training, capacity building and border management, signed during a visit by Kuwait's Defence Minister to Pakistan's Ministry of Defence.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40436811/military-cooperation-pakistan-kuwait-sign-protocol-agreement-2026" }
+      ],
+      "timestamp": "Aug 28, 7:42 AM",
+      "publishedAt": "2026-08-28T07:42:28+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A military cooperation agreement with no direct bearing on jobs, prices, or general business activity." },
+        "political": { "value": "positive", "reason": "A formalized bilateral defence agreement reflects stable, functioning diplomatic and institutional relations with Kuwait." },
+        "social": { "value": "neutral", "reason": "No direct effect on Pakistani citizens' daily wellbeing or safety." },
+        "market": { "value": "low", "reason": "A defence cooperation agreement with limited direct relevance to markets or investors." },
+        "lean": { "value": "balanced", "reason": "Reports the signing factually without partisan framing." },
+        "confidence": { "value": "low", "reason": "Working from a short RSS description excerpt only, after the Business Recorder article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Pims starts referring serious gynae cases to Polyclinic, hospitals in Rawalpindi",
+      "summary": "AI summary: Following the fire that killed 14 newborns, Islamabad's PIMS hospital has begun referring serious gynaecological cases to other facilities, including seven patients sent to Holy Family Hospital in Rawalpindi, while repairs proceed and the newly appointed health secretary pledges improved infrastructure and oversight.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2025565/pims-starts-referring-serious-gynae-cases-to-polyclinic-hospitals-in-rawalpindi" }
+      ],
+      "timestamp": "Aug 28, 7:33 AM",
+      "publishedAt": "2026-08-28T07:33:06+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "An internal hospital operations adjustment with no broader economic effect." },
+        "political": { "value": "negative", "reason": "Reflects ongoing institutional strain and capacity failure at a major public hospital in the wake of a fatal fire, requiring emergency referrals and a pledged governance fix." },
+        "social": { "value": "negative", "reason": "Patients face disrupted care and displacement to other hospitals following a fatal safety failure, directly affecting public wellbeing." },
+        "market": { "value": "low", "reason": "A domestic hospital operations matter with negligible relevance to markets or investors." },
+        "lean": { "value": "balanced", "reason": "Reports hospital and government statements factually without favoring a political side." },
+        "confidence": { "value": "medium", "reason": "A single detailed source citing named hospital and government officials." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "FO rejects claims that CDF visited Iran as US 'envoy'",
+      "summary": "AI summary: Pakistan's Foreign Office has denied reports that Chief of Defence Forces Field Marshal Asim Munir visited Iran as a representative of the United States, calling such claims misleading and saying the trip was instead part of Pakistan's own regional mediation efforts around de-escalation and reopening the Strait of Hormuz.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40436809/fo-rejects-claims-that-cdf-visited-iran-as-us-envoy" }
+      ],
+      "timestamp": "Aug 28, 5:28 AM",
+      "publishedAt": "2026-08-28T05:28:40+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic clarification with no direct bearing on jobs, prices or general business activity." },
+        "political": { "value": "neutral", "reason": "A routine diplomatic clarification defending Pakistan's foreign-policy independence, without signaling institutional instability." },
+        "social": { "value": "neutral", "reason": "No direct bearing on Pakistani citizens' daily wellbeing or safety." },
+        "market": { "value": "medium", "reason": "Involves Pakistan's stated mediation role around the Strait of Hormuz, a route of global economic and energy-market significance." },
+        "lean": { "value": "balanced", "reason": "Reports the Foreign Office's denial factually as a rebuttal to external claims, without favoring a domestic political side." },
+        "confidence": { "value": "low", "reason": "Working from a short RSS description excerpt only, after the Business Recorder article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "'Black smoke' chokes maternity ward as PIMS fire kills 14 infants",
+      "summary": "AI summary: A fire in the maternity ward at Islamabad's PIMS hospital killed 14 infants on Wednesday, with officials blaming a faulty air conditioner and witnesses describing chaotic evacuation and a delayed emergency response.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40436808/black-smoke-chokes-maternity-ward-as-pims-fire-kills-14-infants" }
+      ],
+      "timestamp": "Aug 28, 5:28 AM",
+      "publishedAt": "2026-08-28T05:28:40+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A hospital fire incident with no direct bearing on broader economic activity." },
+        "political": { "value": "negative", "reason": "A fatal safety failure at a major public hospital, compounded by witness accounts of delayed emergency response, points to serious institutional and governance shortcomings." },
+        "social": { "value": "negative", "reason": "The deaths of 14 infants in a chaotic hospital fire represent a severe public safety and wellbeing tragedy." },
+        "market": { "value": "low", "reason": "A domestic hospital incident with minimal direct relevance to markets or investors." },
+        "lean": { "value": "balanced", "reason": "Reports the fire and blame attribution (faulty AC) factually, attributing claims to officials and witnesses." },
+        "confidence": { "value": "low", "reason": "Working from a short RSS description excerpt only, after the Business Recorder article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "Pakistan, UK agree to further boost counterterrorism cooperation",
+      "summary": "AI summary: Deputy Prime Minister Ishaq Dar held talks in London with UK National Security Adviser Jonathan Powell and Foreign Secretary Ed Miliband, agreeing to deepen counterterrorism and intelligence-sharing cooperation while also discussing the Indus Waters Treaty and Middle East developments through a new structured dialogue mechanism.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/679468-pakistan-uk-agree-to-further-boost-counterterrorism-cooperation" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40436820/dar-miliband-discuss-indus-waters-treaty" }
+      ],
+      "timestamp": "Aug 27, 11:34 PM",
+      "publishedAt": "2026-08-27T23:34:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Diplomatic security talks with no direct bearing on jobs, prices, or business activity." },
+        "political": { "value": "positive", "reason": "Strengthened bilateral security ties and a new structured dialogue mechanism reflect stable, functioning diplomatic engagement." },
+        "social": { "value": "neutral", "reason": "Enhanced counterterrorism cooperation may carry downstream security benefits, but has no immediate effect on daily public life." },
+        "market": { "value": "low", "reason": "Diplomatic and security cooperation news with limited direct relevance to markets." },
+        "lean": { "value": "balanced", "reason": "Reports Dar's diplomatic meetings factually without partisan framing." },
+        "confidence": { "value": "high", "reason": "Corroborated by two independent outlets with matching details on the officials met and topics discussed." }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "Pims tragedy: Govt announces Rs5m compensation for victims' families",
+      "summary": "AI summary: The federal government announced Rs5 million compensation for each family of the 14 newborns who died in the August 26 PIMS nursery fire, as Law Minister Azam Nazeer Tarar said a four-member inquiry committee is examining whether the response time and oxygen-supply decisions were adequate.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/679494-pims-tragedy-govt-announces-rs5m-compensation-for-victims-families" }
+      ],
+      "timestamp": "Aug 27, 11:07 PM",
+      "publishedAt": "2026-08-27T23:07:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A one-time compensation payout with no broader economic effect." },
+        "political": { "value": "negative", "reason": "An inquiry into whether hospital staff had sufficient time to act, and possible negligence in oxygen supply, raises serious governance and accountability concerns for a public institution." },
+        "social": { "value": "negative", "reason": "The deaths of 14 infants and ongoing distress for grieving families represent a severe public wellbeing tragedy." },
+        "market": { "value": "low", "reason": "A domestic compensation and inquiry matter with negligible market relevance." },
+        "lean": { "value": "balanced", "reason": "Reports the government's compensation announcement and the inquiry factually, including the minister's own quoted caveats." },
+        "confidence": { "value": "medium", "reason": "A single detailed report with named officials, not independently corroborated by a second outlet." }
+      }
+    }
+  ]
+}
