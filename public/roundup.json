@@ -1,50 +1,50 @@
 {
-  "generatedAt": "2026-08-21T22:00:00+05:00",
-  "periodStart": "2026-08-15",
-  "periodEnd": "2026-08-21",
-  "periodLabel": "Aug 15 to Aug 21, 2026",
-  "totalArticles": 104,
+  "generatedAt": "2026-08-29T00:50:48+05:00",
+  "periodStart": "2026-08-22",
+  "periodEnd": "2026-08-28",
+  "periodLabel": "Aug 22 to Aug 28, 2026",
+  "totalArticles": 75,
   "stats": {
-    "economic": { "positive": 11, "neutral": 79, "negative": 14 },
-    "political": { "positive": 18, "neutral": 63, "negative": 23 },
-    "social": { "positive": 12, "neutral": 64, "negative": 28 }
+    "economic": { "positive": 10, "neutral": 57, "negative": 8 },
+    "political": { "positive": 11, "neutral": 40, "negative": 24 },
+    "social": { "positive": 12, "neutral": 33, "negative": 30 }
   },
   "summary": [
-    "Across the 104 articles tracked this week, social sentiment carried the heaviest negative share of the three categories at roughly 27%, ahead of political at 22% and economic at just under 14%. That ordering is somewhat different from prior weeks, where fuel and price news typically drags economic sentiment down; this week economic coverage was cushioned by several genuinely positive developments; a diesel price cut of roughly Rs30-32 per litre after government talks with refineries, Google opening its first Pakistan office, and progress on the $2.5bn ML-1 railway financing all pulled the category toward neutral-to-positive even as petrol and diesel prices ticked up twice during the week. Social sentiment's negative tilt, by contrast, tracks a steady run of security and unrest stories: intelligence-based operations against militants in Balochistan and KP reported almost daily, a Karachi vendor shot dead in a targeted separatist attack, monsoon flood warnings for several major cities, and a detained lady health workers' protest broken up by police.",
-    "If the week had one dominant storyline, it was the standoff between the government and the judiciary over jailed PTI founder Imran Khan. It ran through nearly every day from August 17 onward: the Supreme Court ordered his transfer to Shifa International Hospital for a medical exam, the government filed a review petition calling the order discriminatory, the petition was returned by the court registrar over procedural defects, Khan was ultimately examined at PIMS rather than Shifa and declared medically fit before being returned to Adiala jail, and PTI then accused the government of defying the court outright, announcing both a contempt petition and a long march for September 27. Coverage of this saga stayed procedurally even-handed, generally presenting the government's stated rationale alongside PTI's objections, though a few individual dispatches (built around a single minister's or petitioner's remarks) were flagged with a pro-government or pro-opposition lean simply because no rebuttal was available within that particular article.",
-    "A second, quieter thread ran alongside it: pressure over fuel and provincial politics. Jamaat-i-Islami's petroleum-levy sit-in, which began the prior week, continued through Aug 16-17 with explicit warnings it could escalate into a broader anti-government movement, while a cited security-think-tank assessment reported Balochistan's conflict deaths up roughly 241% and security-personnel deaths up over 900% year-on-year, a sharp escalation sitting underneath the week's routine 'militants killed' operational announcements. Separately, the long-simmering proposal to redraw Pakistan's provincial map, splitting Punjab, Balochistan and KP and carving federal territory out of Sindh ahead of a proposed 28th Constitutional Amendment, resurfaced with MQM-P pushing for dialogue and Sindh's government warning the idea risks ethnic unrest. Parliament also passed defence-forces and National Command Authority amendment legislation over an opposition walkout, adding a fourth distinct source of institutional friction to a week already carrying several.",
-    "On confidence and framing: a large share of this week's flagged stories, especially from Business Recorder, were rated 'low' or 'medium' confidence because the outlet's article pages returned 403 errors, leaving Miqyas working only from RSS description excerpts rather than full text; that's a structural access issue rather than a reporting-quality one, but it means several of the week's more consequential claims (the Balochistan casualty statistics, the AJK reserved-seat schedule, Bilawal's withdrawal of legislative support) carry more uncertainty than usual. Political lean stayed 'balanced' on almost all flagged stories even through the Imran Khan standoff and the provinces debate, largely because Miqyas attributed contested claims to the party or official making them (PTI's accusations, the government's justifications, MQM-P's proposal, Sindh's rebuttal) rather than stating any of them as settled fact."
+    "Social sentiment was the most negative-skewed category this week (40% negative, versus 32% for political and just 11% for economic), and the driver is easy to name: the PIMS nursery fire on August 26, which killed 14 infants in the hospital's gynaecology ward in Islamabad. The story dominated coverage from the day of the fire through the end of the week, with follow-ups on a National Assembly health panel's finding that a 'technical fault' may be to blame, the disclosure that the ward had fire extinguishers but no water sprinklers, Health Minister Mustafa Kamal's pledge that 'no one will be spared' in the investigation, Rs5 million in compensation announced for each victim's family, and PIMS beginning to refer gynae patients to other hospitals while repairs proceed. Coverage consistently logged this as both a social tragedy and a political one, tying the deaths to disputed accounts of the cause, allegations of locked or sealed emergency exits, and a suspended health secretary.",
+    "Political sentiment was also heavily negative this week, but not from one story alone. Running in parallel with the PIMS fire was the continuing legal fight over Imran Khan's medical custody: PTI and his sister Uzma Khan filed and then escalated contempt petitions accusing the government of defying a Supreme Court order to move him to a private hospital, while the government resubmitted its own review petition arguing the court order exceeded its jurisdiction. That dispute surfaced in coverage on four separate days this week, a sustained marker of friction between the executive and judiciary rather than a single flare-up. Economic sentiment, by contrast, stayed mostly neutral (76% of articles), with only isolated negative notes such as a small petrol and diesel price increase and Jamaat-i-Islami's protests against the petroleum levy, which the party said had already forced a Rs32-per-litre cut in diesel prices.",
+    "Despite the politically charged week, lean stayed overwhelmingly balanced (72 of 75 articles, 96%). The small pro-opposition tilt that did appear (3 articles) came entirely from single-sourced reports on opposition press conferences and rallies, JI's criticism of civic conditions in Karachi and its petroleum-levy protests, and Jemima Goldsmith's appeal on Imran Khan's behalf, where no government rebuttal was quoted in the same piece, rather than from any broader editorial pattern. Confidence in AI-generated ratings also dipped noticeably in the back half of the week: low-confidence ratings were essentially absent from August 22-25 (zero each day) but rose to 2, 4, and 4 articles respectively on August 26-28, coinciding both with the fast-moving, still-unsettled facts of the PIMS fire and with a run of Business Recorder pages returning 403 errors that forced reliance on shorter RSS excerpts rather than full articles.",
+    "Beyond the PIMS fire and the Imran Khan case, the week also carried a notable security incident in Azad Jammu and Kashmir, where a banned group fatally attacked Rangers personnel conducting a road-clearance operation, and a more positive counterpoint in the same region: PML-N's Syed Iftikhar Ali Gillani was sworn in as AJK's new prime minister after a contested nomination was resolved through a completed assembly vote, a rare instance this week of a political flashpoint concluding without escalation. Overall, 24 of the week's 75 articles (32%) were flagged for review, concentrated disproportionately in the fire's aftermath, underscoring how much of the week's editorial judgment calls clustered around one unfolding public-safety crisis."
   ],
   "notableStories": [
     {
-      "headline": "PTI slams govt for 'flouting' SC order, opp says it will approach SC over contempt",
-      "context": "The week's central storyline reached its sharpest point here: after the government examined Imran Khan at PIMS instead of the court-ordered Shifa Hospital, PTI accused it of defying the Supreme Court outright and announced both a contempt petition and a September 27 long march.",
+      "headline": "14 infants killed in fire at Pims' gynae ward in Islamabad",
+      "context": "The week's defining story: a fire in a public hospital's neonatal ward killed 14 newborns and triggered a week-long chain of parliamentary probes, a suspended health secretary, and compensation announcements that drove much of the week's negative social and political sentiment.",
       "sourceName": "Dawn News",
-      "sourceUrl": "https://www.dawn.com/news/2024325/pti-slams-govt-for-flouting-sc-order-opp-says-it-will-approach-sc-over-contempt"
+      "sourceUrl": "https://www.dawn.com/news/2025385/14-infants-killed-in-fire-at-pims-gynae-ward-in-islamabad"
     },
     {
-      "headline": "JI vows to continue sit-in until petroleum levy abolished",
-      "context": "Jamaat-i-Islami's open-ended sit-in against the petroleum levy, with an explicit warning it could escalate into a wider movement, captures the week's undercurrent of public strain over fuel and food prices.",
+      "headline": "Imran Khan's sister moves SC for early hearing on contempt plea over hospital transfer",
+      "context": "One of several filings this week in a recurring legal dispute over whether the government complied with a Supreme Court order on Imran Khan's medical care, illustrating sustained friction between the executive and judiciary.",
       "sourceName": "Dawn News",
-      "sourceUrl": "https://www.dawn.com/news/2023244/ji-vows-to-continue-sit-in-until-petroleum-levy-abolished"
+      "sourceUrl": "https://www.dawn.com/news/2025502/imrans-hospital-visit-ex-pms-sister-again-moves-sc-for-early-hearing-of-contempt-plea-against-govt"
     },
     {
-      "headline": "Over 9 terrorists killed in Balochistan IBOs: state media",
-      "context": "Beyond the operation itself, the story cited independent security-assessment data showing Balochistan's overall conflict deaths up roughly 241% and security-personnel deaths up over 900% this year, a sharp deterioration behind the week's routine security bulletins.",
-      "sourceName": "Dawn News",
-      "sourceUrl": "https://www.dawn.com/news/2023634/over-9-terrorists-killed-in-balochistan-ibos-state-media"
+      "headline": "Rangers personnel martyred, another wounded as armed men open fire in AJK",
+      "context": "A banned group's attack on paramilitary forces conducting a security operation in Azad Jammu and Kashmir, a reminder that the region saw both violent instability and, days later, a peaceful political transition.",
+      "sourceName": "Geo News",
+      "sourceUrl": "https://www.geo.tv/latest/679325-rangers-personnel-martyred-another-wounded-after-armed-men-open-fire-in-ajk"
     },
     {
-      "headline": "New administrative units 'under serious consideration'",
-      "context": "Confirmation that the government is seriously weighing splitting Punjab, Balochistan and KP and carving federal territory out of Sindh, ahead of a proposed 28th Constitutional Amendment, a historically contentious idea most political parties currently oppose.",
-      "sourceName": "Dawn News",
-      "sourceUrl": "https://www.dawn.com/news/2022951/new-administrative-units-under-serious-consideration"
-    },
-    {
-      "headline": "Defence forces, NCA amendment bills sail thru parliament",
-      "context": "Parliament passed legislation restructuring the armed forces' command structure and the National Command Authority framework over an opposition walkout, a distinct institutional flashpoint alongside the week's judiciary standoff and provincial-boundary debate.",
+      "headline": "JI chief warns govt of escalating protest against petroleum levy",
+      "context": "Jamaat-i-Islami's threat to escalate nationwide protests over fuel taxes, tying the week's cost-of-living pressure to organized political opposition and illustrating the source of this week's modest pro-opposition lean tilt.",
       "sourceName": "Business Recorder",
-      "sourceUrl": "https://www.brecorder.com/news/40435836/defence-forces-nca-amendment-bills-sail-thru-parliament"
+      "sourceUrl": "https://www.brecorder.com/news/40436207/ji-chief-warns-govt-of-escalating-protest-against-petroleum-levy"
+    },
+    {
+      "headline": "PML-N's Syed Iftikhar Ali Gillani sworn in as new AJK prime minister",
+      "context": "A contested nomination that briefly caused intra-party friction within PML-N was resolved through a completed assembly vote, a comparatively positive institutional outcome in a week otherwise dominated by negative political news.",
+      "sourceName": "Dawn News",
+      "sourceUrl": "https://www.dawn.com/news/2025757/pml-ns-syed-iftikhar-ali-gillani-sworn-in-as-new-ajk-prime-minister"
     }
   ]
 }
