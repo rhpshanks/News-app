@@ -1,8 +1,144 @@
 {
-  "generatedAt": "2026-08-28T11:47:13+05:00",
+  "generatedAt": "2026-08-28T20:55:21+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "PML-N's Syed Iftikhar Ali Gillani sworn in as new AJK prime minister",
+      "summary": "AI summary: Barrister Syed Iftikhar Ali Gillani of PML-N was sworn in as Azad Jammu and Kashmir's prime minister after securing 30 of 44 votes against PPP's Sardar Mukhtar Ahmed Abbasi, who got 14, succeeding PPP's outgoing premier and pledging to tackle unemployment, education and healthcare despite earlier resistance from senior PML-N figures.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2025757/pml-ns-syed-iftikhar-ali-gillani-sworn-in-as-new-ajk-prime-minister" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40436859/pml-ns-iftikhar-gillani-takes-oath-as-new-ajk-prime-minister" }
+      ],
+      "timestamp": "Aug 28, 6:32 PM",
+      "publishedAt": "2026-08-28T18:32:17+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A new AJK premier's pledges on jobs and healthcare are aspirational, with no immediate economic effect yet." },
+        "political": { "value": "positive", "reason": "A contested nomination and intra-party friction were resolved through a completed assembly vote and peaceful swearing-in, reflecting functioning institutional process." },
+        "social": { "value": "neutral", "reason": "A regional leadership transition with limited immediate effect on daily public life." },
+        "market": { "value": "low", "reason": "A provincial political transition of minimal direct relevance to markets or investors." },
+        "lean": { "value": "balanced", "reason": "Reports the vote count and both candidates factually, without favoring either party." },
+        "confidence": { "value": "high", "reason": "Corroborated by two independent outlets with matching vote counts and seat figures." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "'No bilateral mechanism' to take back Rochdale rapist, DPM Dar tells UK's Miliband",
+      "summary": "AI summary: Deputy PM Ishaq Dar told UK Foreign Secretary Ed Miliband that Pakistan has no legal mechanism to take back Shabir Ahmed, a convicted Rochdale grooming-gang rapist stripped of British citizenship after his release, arguing he spent virtually his life in Britain and is London's responsibility, while Islamabad signalled deportation cooperation could suffer if the UK pressed the issue.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/679591-miliband-presses-for-removal-of-child-rapist-shabir-ahmed-but-pakistan-says-no" }
+      ],
+      "timestamp": "Aug 28, 4:48 PM",
+      "publishedAt": "2026-08-28T16:48:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic dispute over an individual's repatriation with no bearing on jobs, prices or business activity." },
+        "political": { "value": "neutral", "reason": "A bilateral diplomatic friction point that does not reflect on Pakistan's own institutional or governance stability." },
+        "social": { "value": "neutral", "reason": "No direct effect on the daily wellbeing or safety of the Pakistani public." },
+        "market": { "value": "low", "reason": "A diplomatic dispute with minimal relevance to markets or investors." },
+        "lean": { "value": "balanced", "reason": "Presents both Pakistan's and the UK's positions factually without favoring a domestic political side." },
+        "confidence": { "value": "medium", "reason": "A single detailed report, not independently corroborated by a second outlet." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Govt announces Rs5mn compensation for each family of PIMS fire victims",
+      "summary": "AI summary: The federal government confirmed Rs5 million compensation for each of the 14 infant victims' families in the PIMS nursery fire, with Health Minister Mustafa Kamal attributing the blaze to a spark from a faulty air conditioner near the incubators, and noting the ward had 26 fire extinguishers but no water sprinklers.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40436870/govt-announces-rs5mn-compensation-for-each-family-of-pims-fire-victims" }
+      ],
+      "timestamp": "Aug 28, 2:36 PM",
+      "publishedAt": "2026-08-28T14:36:21+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A one-time compensation payout with no broader economic effect." },
+        "political": { "value": "negative", "reason": "The disclosed absence of water sprinklers and a faulty-AC cause point to continued institutional safety failures at a major public hospital." },
+        "social": { "value": "negative", "reason": "The confirmed deaths of 14 infants and the safety gaps behind them represent a severe public wellbeing failure." },
+        "market": { "value": "low", "reason": "A domestic compensation announcement with negligible market relevance." },
+        "lean": { "value": "balanced", "reason": "Reports the compensation announcement and the minister's cited facts factually." },
+        "confidence": { "value": "medium", "reason": "Working from a detailed RSS description excerpt after the Business Recorder article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Mir Raza case: Judicial commission summons medico-legal officer, others as probe begins",
+      "summary": "AI summary: A judicial commission led by Justice Omar Sial has begun summoning the medico-legal officer, police, ambulance staff and witnesses in the death of Karachi businessman Mir Raza Ali, whose father disputes the suicide finding and points to a gap in police response, with the commission ordering a Rs100,000 reward notice for information and the next hearing set for September 1.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/679563-mir-raza-case-judicial-commission-summons-medico-legal-officer-others-as-probe-begins" }
+      ],
+      "timestamp": "Aug 28, 2:08 PM",
+      "publishedAt": "2026-08-28T14:08:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A judicial inquiry into an individual death with no bearing on broader economic activity." },
+        "political": { "value": "neutral", "reason": "A case-specific judicial probe into a police response gap, not indicative of broader institutional instability." },
+        "social": { "value": "negative", "reason": "A family's ongoing grief, disputed cause of death, and community protests reflect unresolved public trust and safety concerns." },
+        "market": { "value": "low", "reason": "A domestic judicial matter with minimal relevance to markets or investors." },
+        "lean": { "value": "balanced", "reason": "Reports the commission's findings and the family's claims factually, citing named officials on both sides." },
+        "confidence": { "value": "medium", "reason": "A single detailed report with named officials, not independently corroborated by a second outlet." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Pakistan must move from stabilisation to transformation: planning minister",
+      "summary": "AI summary: Planning Minister Ahsan Iqbal told visiting Harvard Business School students that Pakistan must shift from macroeconomic stabilisation to sustained, export- and productivity-driven transformation under the URAAN Pakistan framework, targeting a $1 trillion economy by 2035 through investment in human capital and emerging technology.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/679581-pakistan-must-move-from-stabilisation-to-transformation-planning-minister" }
+      ],
+      "timestamp": "Aug 28, 1:25 PM",
+      "publishedAt": "2026-08-28T13:25:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Articulates a growth and export-led transformation strategy aimed at productivity, investment and employment." },
+        "political": { "value": "neutral", "reason": "A routine ministerial policy address with no bearing on institutional stability." },
+        "social": { "value": "neutral", "reason": "A macroeconomic policy speech with no immediate effect on daily public life." },
+        "market": { "value": "medium", "reason": "Signals the government's economic reform direction, relevant to investors assessing Pakistan's growth trajectory." },
+        "lean": { "value": "balanced", "reason": "Reports the minister's policy remarks factually without partisan framing." },
+        "confidence": { "value": "medium", "reason": "A single detailed report, not independently corroborated by a second outlet." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Pims fire: Mustafa Kamal says 'no one will be spared', calls for reforming health sector",
+      "summary": "AI summary: Health Minister Mustafa Kamal told parliament that \"no one will be spared\" in the investigation into the PIMS nursery fire that killed 14 infants, citing that roughly 1,300 children die daily nationwide from preventable causes and calling for structural health-sector reform, as the National Assembly unanimously adopted a resolution demanding strict action and stricter hospital fire-safety measures.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2025728/pims-fire-mustafa-kamal-says-no-one-will-be-spared-calls-for-reforming-health-sector" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/679569-no-one-will-be-spared-health-minister-vows-indiscriminate-action-over-pims-inferno" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40436869/no-one-will-be-spared-over-pims-fire-mustafa-kamal" }
+      ],
+      "timestamp": "Aug 28, 1:19 PM",
+      "publishedAt": "2026-08-28T13:19:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A parliamentary accountability statement with no direct bearing on broader economic activity." },
+        "political": { "value": "negative", "reason": "Continued parliamentary fallout, cited lack of fire-safety certification, and locked emergency exits point to serious institutional and governance failure at a public hospital." },
+        "social": { "value": "negative", "reason": "The deaths of 14 infants and revealed safety deficiencies represent an ongoing severe public wellbeing tragedy." },
+        "market": { "value": "low", "reason": "A domestic hospital-accountability matter with negligible relevance to markets or investors." },
+        "lean": { "value": "balanced", "reason": "Reports the minister's statement alongside opposition figures' calls for oversight, without favoring one side." },
+        "confidence": { "value": "high", "reason": "Corroborated by three independent outlets with matching details on the minister's statement and the National Assembly resolution." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Asim Munir highlights importance of education, entrepreneurship in meeting with Harvard students",
+      "summary": "AI summary: Field Marshal Asim Munir met a visiting Harvard Business School delegation in Pakistan, stressing education, skill development and entrepreneurship, urging young people to rely on fact-based analysis over misinformation and propaganda, and discussing Pakistan's regional security outlook and peace initiatives.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40436857/asim-munir-highlights-importance-of-education-entrepreneurship-in-meeting-with-harvard-students" }
+      ],
+      "timestamp": "Aug 28, 12:04 PM",
+      "publishedAt": "2026-08-28T12:04:52+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "An educational and diplomatic engagement with no direct economic implications." },
+        "political": { "value": "neutral", "reason": "Routine military leadership outreach, not indicative of institutional instability." },
+        "social": { "value": "neutral", "reason": "General education and media-literacy messaging with limited direct effect on daily life." },
+        "market": { "value": "low", "reason": "Minimal relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Reports the CDF's remarks factually without partisan framing." },
+        "confidence": { "value": "low", "reason": "Working from a short RSS description excerpt only, after the Business Recorder article page returned a 403 error." }
+      }
+    },
+    {
+      "id": 8,
       "headline": "Two days on, rescuers scour debris in Nepal as risk of fresh flooding grows",
       "summary": "AI summary: Rescue teams are still searching wreckage in Nepal and Tibet two days after a glacier collapse triggered flash flooding that has killed at least 469 people and left nearly 1,000 missing, including hundreds of foreigners, while officials warn debris-dammed lakes could unleash further flooding.",
       "sources": [
@@ -21,7 +157,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 9,
       "headline": "PM Shehbaz says Makkah defence pact has sent 'message of peace, unity throughout region'",
       "summary": "AI summary: Prime Minister Shehbaz Sharif told Saudi Arabia's environment minister that the trilateral Makkah Joint Defence Agreement between Pakistan, Saudi Arabia and Turkey has sent a message of peace and unity, as the two sides also discussed deepening agricultural and economic cooperation.",
       "sources": [
@@ -40,7 +176,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 10,
       "headline": "CDF Munir stresses fact-based thinking among youth amid social media propaganda",
       "summary": "AI summary: Chief of Defence Forces Field Marshal Asim Munir met Harvard Business School students in Pakistan, urging young people to rely on fact-based analysis rather than social media misinformation, and discussed Pakistan's regional mediation efforts including his recent visit to Iran aimed at easing Tehran-Washington tensions.",
       "sources": [
@@ -59,7 +195,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 11,
       "headline": "AJK assembly to vote for new PM today as PML-N's Gilani files nomination papers",
       "summary": "AI summary: Pakistan Muslim League-Nawaz has nominated Barrister Syed Iftikhar Ali Gilani to contest Azad Jammu and Kashmir's prime ministerial election in Muzaffarabad on Friday against PPP's Sardar Mukhtar Ahmed Abbasi, with voting scheduled for 2pm following internal PML-N friction after senior leaders objected to the pick.",
       "sources": [
@@ -79,7 +215,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 12,
       "headline": "Military cooperation: Pakistan, Kuwait sign 'Protocol Agreement-2026'",
       "summary": "AI summary: Pakistan and Kuwait signed a new Protocol Agreement-2026 to expand bilateral military cooperation covering training, capacity building and border management, signed during a visit by Kuwait's Defence Minister to Pakistan's Ministry of Defence.",
       "sources": [
@@ -98,7 +234,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 13,
       "headline": "Pims starts referring serious gynae cases to Polyclinic, hospitals in Rawalpindi",
       "summary": "AI summary: Following the fire that killed 14 newborns, Islamabad's PIMS hospital has begun referring serious gynaecological cases to other facilities, including seven patients sent to Holy Family Hospital in Rawalpindi, while repairs proceed and the newly appointed health secretary pledges improved infrastructure and oversight.",
       "sources": [
@@ -117,7 +253,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 14,
       "headline": "FO rejects claims that CDF visited Iran as US 'envoy'",
       "summary": "AI summary: Pakistan's Foreign Office has denied reports that Chief of Defence Forces Field Marshal Asim Munir visited Iran as a representative of the United States, calling such claims misleading and saying the trip was instead part of Pakistan's own regional mediation efforts around de-escalation and reopening the Strait of Hormuz.",
       "sources": [
@@ -136,7 +272,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 15,
       "headline": "'Black smoke' chokes maternity ward as PIMS fire kills 14 infants",
       "summary": "AI summary: A fire in the maternity ward at Islamabad's PIMS hospital killed 14 infants on Wednesday, with officials blaming a faulty air conditioner and witnesses describing chaotic evacuation and a delayed emergency response.",
       "sources": [
@@ -155,7 +291,7 @@
       }
     },
     {
-      "id": 9,
+      "id": 16,
       "headline": "Pakistan, UK agree to further boost counterterrorism cooperation",
       "summary": "AI summary: Deputy Prime Minister Ishaq Dar held talks in London with UK National Security Adviser Jonathan Powell and Foreign Secretary Ed Miliband, agreeing to deepen counterterrorism and intelligence-sharing cooperation while also discussing the Indus Waters Treaty and Middle East developments through a new structured dialogue mechanism.",
       "sources": [
@@ -175,7 +311,7 @@
       }
     },
     {
-      "id": 10,
+      "id": 17,
       "headline": "Pims tragedy: Govt announces Rs5m compensation for victims' families",
       "summary": "AI summary: The federal government announced Rs5 million compensation for each family of the 14 newborns who died in the August 26 PIMS nursery fire, as Law Minister Azam Nazeer Tarar said a four-member inquiry committee is examining whether the response time and oxygen-supply decisions were adequate.",
       "sources": [
