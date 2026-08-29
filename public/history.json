@@ -1246,5 +1246,37 @@
       "medium": 4,
       "low": 2
     }
+  },
+  {
+    "date": "2026-08-30",
+    "articleCount": 8,
+    "counts": {
+      "economic": {
+        "positive": 1,
+        "neutral": 6,
+        "negative": 1
+      },
+      "political": {
+        "positive": 1,
+        "neutral": 4,
+        "negative": 3
+      },
+      "social": {
+        "positive": 1,
+        "neutral": 4,
+        "negative": 3
+      }
+    },
+    "flaggedForReview": 3,
+    "lean": {
+      "balanced": 7,
+      "pro-government": 1,
+      "pro-opposition": 0
+    },
+    "confidence": {
+      "high": 5,
+      "medium": 3,
+      "low": 0
+    }
   }
 ]

@@ -1,0 +1,160 @@
+{
+  "generatedAt": "2026-08-30T02:37:44+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "'Hoax': Khawaja Asif says Imran health claims aimed at creating panic, triggering protests",
+      "summary": "AI summary: Defence Minister Khawaja Asif dismissed reports about Imran Khan's health as a fabricated 'hoax' meant to spark panic and protests, citing an assessment by Khan's sister that he is fit, while the government separately cited around 30 medical examinations conducted since his imprisonment.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/679808-hoax-khawaja-asif-says-imran-health-claims-aimed-at-creating-panic-triggering-protests" }
+      ],
+      "timestamp": "Aug 30, 1:17 AM",
+      "publishedAt": "2026-08-30T01:17:29+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No bearing on jobs, prices, or business activity." },
+        "political": { "value": "negative", "reason": "A senior minister's accusation that political opponents are fabricating a health crisis to incite unrest signals rising political friction and distrust between government and opposition." },
+        "social": { "value": "neutral", "reason": "Raises questions about whether health claims are genuine, but no confirmed public safety or welfare impact reported yet." },
+        "market": { "value": "low", "reason": "Limited relevance to investors or business decisions." },
+        "lean": { "value": "pro-government", "reason": "Reports a government minister's framing that dismisses opposition-aligned health claims as fabricated, without any opposition rebuttal presented." },
+        "confidence": { "value": "medium", "reason": "Single-source account of a minister's public statement, not independently corroborated." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Lawrence's fifty leaves Pakistan facing record chase to level England series",
+      "summary": "AI summary: England reached 177-7 in their second innings at Lord's on the back of Dan Lawrence's unbeaten fifty, setting Pakistan a target of 357 to level the series after already losing the first Test and collapsing to 110 all out in their first innings.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2025972/lawrences-fifty-leaves-pakistan-facing-record-chase-to-level-england-series" }
+      ],
+      "timestamp": "Aug 29, 11:25 PM",
+      "publishedAt": "2026-08-29T23:25:40+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No material effect on jobs, prices or business activity." },
+        "political": { "value": "neutral", "reason": "Purely a sporting result with no governance implications." },
+        "social": { "value": "neutral", "reason": "Affects public mood around a cricket match but not safety or daily life." },
+        "market": { "value": "low", "reason": "Negligible relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Factual match reporting with no political framing." },
+        "confidence": { "value": "high", "reason": "Clear, uncontested factual sports reporting from a full article." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Field Marshal Munir witnesses trials of locally manufactured arms, ammunition at ordnance factory",
+      "summary": "AI summary: Field Marshal Syed Asim Munir visited Pakistan Ordnance Factories in Wah to review trials of locally manufactured arms and ammunition, framing the visit around boosting indigenous defence production and export potential.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40436981/field-marshal-munir-witnesses-trials-of-locally-manufactured-arms-ammunition-at-ordnance-factory" }
+      ],
+      "timestamp": "Aug 29, 10:55 PM",
+      "publishedAt": "2026-08-29T22:55:09+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Highlights domestic defence manufacturing and export potential, which can support industrial activity and revenue." },
+        "political": { "value": "neutral", "reason": "Routine military leadership visit with no direct bearing on governance or institutional stability." },
+        "social": { "value": "neutral", "reason": "No direct effect on public wellbeing or daily life." },
+        "market": { "value": "medium", "reason": "Relevant to defence-sector investors and export prospects, though a niche segment." },
+        "lean": { "value": "balanced", "reason": "Straightforward factual account of an official visit with no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on the RSS description excerpt rather than the full article, since the source page returned a 403 error on fetch." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "25 Pakistani nationals return home after release from Indian jails",
+      "summary": "AI summary: Twenty-five Pakistani nationals, mostly fishermen, were released from Indian jails and repatriated via the Wagah-Attari border, part of an ongoing prisoner exchange process between the two countries.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/679793-25-pakistani-nationals-return-home-after-release-from-indian-jails" }
+      ],
+      "timestamp": "Aug 29, 10:44 PM",
+      "publishedAt": "2026-08-29T22:44:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No material effect on jobs, prices, or business activity." },
+        "political": { "value": "positive", "reason": "Reflects functioning diplomatic engagement and cross-border cooperation between Pakistan and India on prisoner repatriation." },
+        "social": { "value": "positive", "reason": "Reunites released individuals with their families, a positive humanitarian outcome." },
+        "market": { "value": "low", "reason": "Limited relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Factual repatriation reporting citing the High Commission, no partisan framing." },
+        "confidence": { "value": "high", "reason": "Clear, uncontested factual reporting from a full article." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "PIMS fire: PM Shehbaz orders suspension, criminal action against 8 officials as inquiry panel submits interim report",
+      "summary": "AI summary: An interim inquiry into the PIMS neonatal ward fire that killed 14 newborns found the exact ignition source still unresolved but identified serious institutional failures, including locked exits, absent emergency protocols and unaddressed warnings from an earlier fire, prompting PM Shehbaz Sharif to suspend eight officials, including the hospital's executive director, and order criminal proceedings.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40436989/pims-fire-executive-director-imran-sikandar-among-eight-suspended" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/679800-precise-cause-of-deadly-pims-fire-still-unclear-says-interim-inquiry-report" },
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2025962/pims-fire-pm-shehbaz-orders-suspension-criminal-action-against-8-officials-as-inquiry-panel-submits-interim-report" }
+      ],
+      "timestamp": "Aug 29, 10:26 PM",
+      "publishedAt": "2026-08-29T22:26:32+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct effect on jobs, prices, or broader business activity described." },
+        "political": { "value": "negative", "reason": "Exposes systemic institutional failures at a public hospital that went unaddressed despite an earlier warning fire, reflecting poorly on governance and oversight even as the PM ordered accountability action." },
+        "social": { "value": "negative", "reason": "Fourteen newborn deaths and documented safety failures represent a severe public health and safety failure." },
+        "market": { "value": "low", "reason": "Limited direct relevance to investors, though it may draw scrutiny to public-sector healthcare oversight." },
+        "lean": { "value": "balanced", "reason": "Reporting draws on the inquiry committee's own findings, corroborated across three outlets with consistent detail and no partisan framing." },
+        "confidence": { "value": "high", "reason": "Corroborated by three independent outlets (Dawn, Geo, Business Recorder) with matching specific findings." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Gul Plaza management aware of flaws, failed to take corrective measures: inferno JC",
+      "summary": "AI summary: A judicial commission investigating January's Gul Plaza mall fire in Karachi, which killed over 72 people, found that management knew of missing hydrants, sprinklers and alarms for years but failed to fix them, concluding the fire was foreseeable given the documented hazards.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/679775-gul-plaza-management-was-aware-of-deficiencies-yet-failed-to-take-corrective-steps-inferno-commission" }
+      ],
+      "timestamp": "Aug 29, 8:08 PM",
+      "publishedAt": "2026-08-29T20:08:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct effect on jobs, prices, or broader business activity described." },
+        "political": { "value": "negative", "reason": "Years of documented safety violations going uncorrected point to a broader regulatory and enforcement failure." },
+        "social": { "value": "negative", "reason": "Over 72 deaths in a preventable disaster represent a severe public safety failure." },
+        "market": { "value": "low", "reason": "Limited direct relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Judicial commission findings reported factually, no partisan framing." },
+        "confidence": { "value": "high", "reason": "Detailed single-source reporting citing the commission's own findings and prior audit records." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Govt apologises for 'temporary' night-time loadshedding due to unavailability of RLNG",
+      "summary": "AI summary: The government apologised for 1.5-3 hour nighttime power cuts caused by a 3,600MW shortfall from delayed RLNG shipments and reduced Mangla Dam hydropower output, saying outages will ease once RLNG cargoes arrive.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2025978/govt-apologises-for-temporary-night-time-loadshedding-due-to-unavailability-of-rlng" }
+      ],
+      "timestamp": "Aug 29, 7:38 PM",
+      "publishedAt": "2026-08-29T19:38:37+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Extended power outages disrupt business and commercial activity during peak hours." },
+        "political": { "value": "neutral", "reason": "A routine government apology and explanation for a service shortfall, not indicative of a major stability shift." },
+        "social": { "value": "negative", "reason": "Nighttime blackouts of 1.5-3 hours directly disrupt households' daily life and comfort." },
+        "market": { "value": "medium", "reason": "Energy shortages are relevant to businesses and investors dependent on stable power supply." },
+        "lean": { "value": "balanced", "reason": "Straightforward reporting of an official statement and its stated causes." },
+        "confidence": { "value": "high", "reason": "Clear, detailed single-source reporting with direct official figures and quotes." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Info ministry rejects 'misleading' foreign media reports on 'convicted prisoner'",
+      "summary": "AI summary: Pakistan's Information Ministry rejected what it called misleading foreign media reporting, following a CNN segment featuring a Khan aide, insisting Khan is lawfully imprisoned after judicial conviction rather than held arbitrarily, and citing about 198 visitor sessions and roughly 30 medical examinations to dispute claims of neglect or solitary confinement.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40436996/imran-case-govt-urges-cnn-to-distinguish-verified-records-from-politically-contested-allegations" },
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2025992/info-ministry-rejects-misleading-foreign-media-reports-on-convicted-prisoner" }
+      ],
+      "timestamp": "Aug 29, 5:24 PM",
+      "publishedAt": "2026-08-29T17:24:08+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No bearing on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "A messaging dispute over an imprisoned opposition leader's treatment, without a clear net positive or negative shift in institutional stability reported here." },
+        "social": { "value": "neutral", "reason": "Concerns public perception of an opposition leader's welfare but no confirmed direct impact on the broader public's safety or daily life." },
+        "market": { "value": "low", "reason": "Limited relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Reports the government's rebuttal statement citing specific figures; both outlets present it as the government's official response to a media report rather than editorializing." },
+        "confidence": { "value": "medium", "reason": "Reflects an official statement whose specific figures are not independently verified, and involves a politically contested dispute." }
+      }
+    }
+  ]
+}
