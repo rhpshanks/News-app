@@ -1,0 +1,179 @@
+{
+  "generatedAt": "2026-08-29T18:48:53+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Rescuers claw through mud as Nepal, China flood death toll climbs to 675",
+      "summary": "AI summary: A glacier collapse on the Tibet-Nepal border unleashed a debris flow that has killed at least 682 people across Nepal and Tibet, with thousands still missing as rescue teams dig through mud near hydropower sites.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2025932/rescuers-claw-through-mud-as-nepal-china-flood-death-toll-climbs-to-675" }
+      ],
+      "timestamp": "Aug 29, 6:28 PM",
+      "publishedAt": "2026-08-29T18:28:33+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Disaster occurred outside Pakistan with no direct link to Pakistan's economy mentioned in the report." },
+        "political": { "value": "neutral", "reason": "No bearing on Pakistani governance or institutions." },
+        "social": { "value": "negative", "reason": "Massive loss of life and thousands still missing represent a severe humanitarian crisis for affected communities." },
+        "market": { "value": "low", "reason": "Limited relevance to Pakistani investors or markets." },
+        "lean": { "value": "balanced", "reason": "Straightforward disaster reporting citing named agencies (USGS, Red Cross) without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single but detailed source with specific figures from named agencies." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Rain frustrates England's bid for Pakistan series win",
+      "summary": "AI summary: Rain halted day three of the second Test at Lord's with Pakistan facing a daunting fourth-innings target after England built a 261-run lead, leaving Pakistan on the brink of a series-clinching defeat.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2025972/rain-frustrates-englands-bid-for-pakistan-series-win" }
+      ],
+      "timestamp": "Aug 29, 5:50 PM",
+      "publishedAt": "2026-08-29T17:50:39+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No material effect on jobs, prices or business activity." },
+        "political": { "value": "neutral", "reason": "Purely a sporting result with no governance implications." },
+        "social": { "value": "neutral", "reason": "Affects public mood around a cricket match but not safety or daily life." },
+        "market": { "value": "low", "reason": "Negligible relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Factual match reporting with no political framing." },
+        "confidence": { "value": "high", "reason": "Clear, uncontested factual sports reporting from a full article." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Remand of suspects in Hina Javed murder case extended",
+      "summary": "AI summary: A Rawalpindi court extended by four days the physical remand of a woman's husband and a domestic worker after both reportedly confessed to restraining and strangling her during a domestic dispute, as police seek more time to gather evidence.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/679764-remand-of-suspects-in-hina-javed-murder-case-extended" }
+      ],
+      "timestamp": "Aug 29, 5:42 PM",
+      "publishedAt": "2026-08-29T17:42:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No economic impact from an individual criminal case." },
+        "political": { "value": "neutral", "reason": "Individual criminal case, not tied to state institutions or governance." },
+        "social": { "value": "negative", "reason": "A violent domestic murder underscores ongoing concerns about women's safety." },
+        "market": { "value": "low", "reason": "No relevance to markets or investors." },
+        "lean": { "value": "balanced", "reason": "Reports the confession details and the court's procedural decision without favoring any party." },
+        "confidence": { "value": "high", "reason": "Full article with specific court and forensic details from a detailed source." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Govt dismisses report of scrapping Diamer-Bhasha Dam power component as 'fake news'",
+      "summary": "AI summary: The power division rejected a report claiming the government planned to drop the Diamer-Bhasha Dam's 4,500MW power component under pressure from independent power producers, insisting the generation component remains part of official planning.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/679758-govt-dismisses-reports-of-scrapping-diamer-bhasha-dam-power-component-as-fake-news" }
+      ],
+      "timestamp": "Aug 29, 5:28 PM",
+      "publishedAt": "2026-08-29T17:28:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Denial suggests the hydropower project's economic scope remains unchanged for now, though the underlying dispute reflects unresolved energy-sector tension." },
+        "political": { "value": "neutral", "reason": "Government firmly denied the allegation without visible signs of internal discord." },
+        "social": { "value": "neutral", "reason": "No immediate effect on public wellbeing or daily life." },
+        "market": { "value": "medium", "reason": "Directly relevant to power-sector investors and IPPs given the project's scale." },
+        "lean": { "value": "balanced", "reason": "Article presents both the original claim and the government's on-record rebuttal." },
+        "confidence": { "value": "medium", "reason": "Based on a single outlet's leaked-document claim versus an official denial, neither independently verified." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Imran case: Govt urges CNN to distinguish 'verified records' from 'politically contested allegations'",
+      "summary": "AI summary: Pakistan's government pushed back on CNN coverage of PTI founder Imran Khan's health and custody, asking the network to separate verified medical and custodial records from claims it called politically contested.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40436996/imran-case-govt-urges-cnn-to-distinguish-verified-records-from-politically-contested-allegations" }
+      ],
+      "timestamp": "Aug 29, 5:24 PM",
+      "publishedAt": "2026-08-29T17:24:08+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct economic effect." },
+        "political": { "value": "negative", "reason": "Renewed international scrutiny over the custodial treatment and health of a jailed opposition leader signals an unresolved governance and human-rights controversy." },
+        "social": { "value": "neutral", "reason": "No direct, immediate effect on the general public's daily life." },
+        "market": { "value": "low", "reason": "Limited relevance to markets or business decisions." },
+        "lean": { "value": "balanced", "reason": "The excerpt conveys only the government's request without showing whether the underlying reporting favored either side." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt, not the full article, since the source page returned a 403 error." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Field Marshal Munir witnesses trials of locally manufactured arms, ammunition at ordnance factory",
+      "summary": "AI summary: Army chief Field Marshal Asim Munir visited Pakistan Ordnance Factories in Wah to observe trials of locally manufactured arms and ammunition, the military's media wing said.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40436981/field-marshal-munir-witnesses-trials-of-locally-manufactured-arms-ammunition-at-ordnance-factory" }
+      ],
+      "timestamp": "Aug 29, 5:16 PM",
+      "publishedAt": "2026-08-29T17:16:57+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Highlights domestic defense manufacturing capacity, which can support import substitution and local industry." },
+        "political": { "value": "neutral", "reason": "Routine military engagement covered via a standard ISPR statement, with no governance implications." },
+        "social": { "value": "neutral", "reason": "No direct effect on public wellbeing or daily life." },
+        "market": { "value": "low", "reason": "Limited direct relevance to broader investors or consumer markets." },
+        "lean": { "value": "balanced", "reason": "Standard ISPR press-style reporting without added commentary." },
+        "confidence": { "value": "medium", "reason": "Based on the RSS description excerpt only, not the full article." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Inquiry ordered as CCTV footage emerges of police's alleged involvement in scuffle in Karachi's DHA",
+      "summary": "AI summary: CCTV footage from a DHA Karachi apartment building shows a maintenance dispute turn violent, with one resident striking another with a dumbbell while men in police uniforms are seen restraining the victim rather than the attacker; police have ordered a formal inquiry into the officers' alleged involvement.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2025940/inquiry-ordered-as-cctv-footage-emerges-of-polices-alleged-involvement-in-scuffle-in-karachis-dha" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/679767-karachi-dha-scuffle-probe-underway-into-alleged-police-involvement" }
+      ],
+      "timestamp": "Aug 29, 2:36 PM",
+      "publishedAt": "2026-08-29T14:36:20+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No economic effect from an individual residential dispute." },
+        "political": { "value": "negative", "reason": "Allegations that on-duty police restrained the victim rather than the attacker raise a genuine question about police conduct and accountability, pending the inquiry's outcome." },
+        "social": { "value": "negative", "reason": "A violent assault in a residential community, compounded by claims police did not act impartially, is a public-safety concern." },
+        "market": { "value": "low", "reason": "No relevance to markets or business decisions." },
+        "lean": { "value": "balanced", "reason": "Both outlets report the complainant's account and the police response/investigation without favoring either side." },
+        "confidence": { "value": "medium", "reason": "Two independent outlets corroborate matching CCTV and complaint details, though the police-involvement allegation itself is still under investigation." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Pims nursery fire: Inquiry report reveals treatment, facilities fall 'below global standards'",
+      "summary": "AI summary: The inquiry into the PIMS nursery fire that killed 14 infants found the hospital's treatment and facilities fell below international standards and recommended removing several senior officials, while the health minister said the findings would clarify what happened and pledged action against those responsible.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2025962/inquiry-findings-will-provide-clarity-on-circumstances-of-pims-fire-says-health-minister" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/679725-pims-nursery-fire-inquiry-report-says-treatment-facilities-fall-below-global-standards" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40436989/pims-fire-probe-flags-inadequate-fire-safety-medical-facilities" }
+      ],
+      "timestamp": "Aug 29, 1:13 PM",
+      "publishedAt": "2026-08-29T13:13:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Primarily a public-health governance story with no direct market or business effect noted." },
+        "political": { "value": "negative", "reason": "A high-profile failure at a major state-run hospital, followed by recommended removals of senior officials and a sacked federal secretary, signals a real institutional accountability crisis." },
+        "social": { "value": "negative", "reason": "14 infant deaths and findings that care fell below international standards are a serious public-wellbeing and safety failure." },
+        "market": { "value": "low", "reason": "Limited direct relevance to investors, though it may affect confidence in public healthcare oversight." },
+        "lean": { "value": "balanced", "reason": "Coverage includes both the report's harsh findings and the government's compensation and corrective response." },
+        "confidence": { "value": "high", "reason": "Corroborated by three independent outlets with matching details on the report's findings and recommended removals." }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "CDF reaffirms Pakistan's commitment to boosting strategic partnership with KSA",
+      "summary": "AI summary: Pakistan and Saudi Arabia agreed to deepen their strategic partnership, with Riyadh expressing interest in expanding cooperation on agriculture and environmental sustainability.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40436951/cdf-reaffirms-pakistans-commitment-to-boosting-strategic-partnership-with-ksa" }
+      ],
+      "timestamp": "Aug 29, 6:34 AM",
+      "publishedAt": "2026-08-29T06:34:23+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Potential new bilateral cooperation in agriculture and environmental sustainability could bring investment and trade benefits." },
+        "political": { "value": "positive", "reason": "Strengthening a key strategic and diplomatic partnership supports Pakistan's international standing." },
+        "social": { "value": "neutral", "reason": "No direct effect on public wellbeing or daily life." },
+        "market": { "value": "medium", "reason": "Relevant to businesses and investors watching Pakistan-Saudi economic ties." },
+        "lean": { "value": "balanced", "reason": "Routine diplomatic reporting without partisan framing." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt, not the full article." }
+      }
+    }
+  ]
+}
