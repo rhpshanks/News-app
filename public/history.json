@@ -1249,33 +1249,33 @@
   },
   {
     "date": "2026-08-30",
-    "articleCount": 18,
+    "articleCount": 22,
     "counts": {
       "economic": {
         "positive": 3,
-        "neutral": 12,
+        "neutral": 16,
         "negative": 3
       },
       "political": {
-        "positive": 4,
-        "neutral": 9,
+        "positive": 5,
+        "neutral": 12,
         "negative": 5
       },
       "social": {
-        "positive": 3,
-        "neutral": 9,
-        "negative": 6
+        "positive": 4,
+        "neutral": 10,
+        "negative": 8
       }
     },
     "flaggedForReview": 5,
     "lean": {
-      "balanced": 17,
+      "balanced": 21,
       "pro-government": 1,
       "pro-opposition": 0
     },
     "confidence": {
-      "high": 9,
-      "medium": 9,
+      "high": 10,
+      "medium": 12,
       "low": 0
     }
   }

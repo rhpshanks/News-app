@@ -1,8 +1,84 @@
 {
-  "generatedAt": "2026-08-30T18:05:02+05:00",
+  "generatedAt": "2026-08-30T23:08:22+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "Bannu police peace committee submits 11-point assurance as talks conclude",
+      "summary": "AI summary: A four-day standoff in Bannu ended after the Police Peace Committee and police officials reached an 11-point written agreement, with committee members pledging to avoid protests, strikes and political activity and to cooperate with law enforcement only through authorized channels, resolving a dispute sparked by the transfer of seven constables.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2026181/bannu-police-peace-committee-submits-11-point-assurance-as-talks-conclude" }
+      ],
+      "timestamp": "Aug 30, 10:45 PM",
+      "publishedAt": "2026-08-30T22:45:58+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No material bearing on jobs, prices, or broader business activity." },
+        "political": { "value": "positive", "reason": "Resolves a multi-day police protest through negotiated agreement, restoring a locally valued conflict-resolution mechanism amid ongoing regional militant violence." },
+        "social": { "value": "positive", "reason": "Ends a disruption to local policing and de-escalates tension in a region already strained by escalating militant attacks." },
+        "market": { "value": "low", "reason": "Limited relevance to investors or broader markets." },
+        "lean": { "value": "balanced", "reason": "Factual reporting of the agreement's specific terms and named officials, no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Detailed single-source account from a full Dawn article, not independently corroborated." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "President Zardari, Bilawal in Vienna for engagement talks with Austrian family: PPP source",
+      "summary": "AI summary: President Asif Ali Zardari and PPP Chairman Bilawal Bhutto-Zardari met an Austrian family reportedly linked to the former Habsburg-Lorraine imperial house during a private stay in Vienna, according to a PPP source describing marriage talks, though the Presidency has confirmed only a private visit and Karachi's mayor has denied the reports.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/679896-president-zardari-bilawal-in-vienna-for-engagement-talks-with-austrian-family-ppp-source" }
+      ],
+      "timestamp": "Aug 30, 8:53 PM",
+      "publishedAt": "2026-08-30T20:53:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No bearing on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "A private, personal family matter for the President, with no direct governance implication." },
+        "social": { "value": "neutral", "reason": "A human-interest story of public curiosity but no effect on public safety or daily life." },
+        "market": { "value": "low", "reason": "No relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Reports an anonymous PPP source's account alongside the Presidency's limited confirmation and a denial from Karachi's mayor, without favoring one account." },
+        "confidence": { "value": "medium", "reason": "Single-source report built on an anonymous source and containing an on-record denial from another official, with no formal family confirmation." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Nepal-China flood death toll rises to nearly 800, with over 3,000 missing",
+      "summary": "AI summary: A glacial collapse near the Nepal-China border triggered catastrophic floods and mudslides, killing nearly 800 people across Nepal and Tibet and leaving over 3,000 missing including hundreds of foreign nationals and hydropower workers, with Chinese officials citing glacier instability from long-term global warming as the cause.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2026152/nepal-china-flood-death-toll-rises-to-nearly-800-with-over-3000-missing" }
+      ],
+      "timestamp": "Aug 30, 7:16 PM",
+      "publishedAt": "2026-08-30T19:16:55+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A foreign disaster affecting Nepal and China's infrastructure and economy, with no direct bearing on Pakistan's jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "No bearing on Pakistani governance or institutional stability." },
+        "social": { "value": "negative", "reason": "A death toll approaching 800 with thousands missing represents a severe humanitarian catastrophe." },
+        "market": { "value": "low", "reason": "Limited direct relevance to Pakistani investors or markets." },
+        "lean": { "value": "balanced", "reason": "Factual disaster reporting citing official death tolls and Red Cross figures, no partisan framing." },
+        "confidence": { "value": "high", "reason": "Clear reporting with specific, sourced figures from Chinese officials and the Red Cross." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Karachi police chief seeks report on cops' 'misconduct' in DHA residents' scuffle",
+      "summary": "AI summary: Karachi Police Chief Azad Khan ordered a report within three days into officer conduct after CCTV showed uniformed police restraining the victim rather than her attacker during a DHA Khayaban-e-Bukhari altercation, with the victim alleging she and her brother were also wrongly arrested and DIG South ordering a forensic review of the footage and questioning of both parties on Monday.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/679880-karachi-police-chief-seeks-report-on-cops-misconduct-in-dha-residents-scuffle" }
+      ],
+      "timestamp": "Aug 30, 5:55 PM",
+      "publishedAt": "2026-08-30T17:55:23+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No bearing on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "A localized police accountability matter, not a governance-level stability issue." },
+        "social": { "value": "negative", "reason": "A violent assault, alleged misuse of an officer's weapon, and questionable arrest of the victim raise serious public safety and trust concerns." },
+        "market": { "value": "low", "reason": "No relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Factual reporting of the police chief's directive and DIG South's response, no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single-source account of an evolving internal police matter, not independently corroborated." }
+      }
+    },
+    {
+      "id": 5,
       "headline": "Disciplinary proceedings initiated against 3 cops over alleged involvement in Karachi DHA residents' scuffle: DIG",
       "summary": "AI summary: Karachi police opened formal disciplinary proceedings against three officers after CCTV footage of an August 21 apartment scuffle in DHA Phase 6 contradicted the original complaint, which had cited a parking dispute, showing officers present at the scene and a camera being smashed.",
       "sources": [
@@ -21,7 +97,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 6,
       "headline": "Islamabad, Riyadh agree to boost Pakistani agri and food exports to $3bn",
       "summary": "AI summary: Pakistan and Saudi Arabia agreed to raise Pakistani agricultural and food exports to the kingdom to $3 billion within two years, focusing on rice, red meat, fruit concentrates and green fodder, following a Saudi delegation's visit to Islamabad.",
       "sources": [
@@ -40,7 +116,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 7,
       "headline": "Pakistan, Saudi Arabia and Turkiye to hold first defence pact meeting tomorrow",
       "summary": "AI summary: Foreign and defence ministers and military chiefs from Pakistan, Saudi Arabia and Turkiye will meet in Istanbul on August 31 for the first committee session under the trilateral mutual-defence pact signed in Makkah earlier this month, covering security cooperation, military interoperability and joint defence production.",
       "sources": [
@@ -60,7 +136,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 8,
       "headline": "Dar arrives in Istanbul, will undertake official engagements: FO",
       "summary": "AI summary: Deputy PM and Foreign Minister Ishaq Dar arrived in Istanbul after concluding an official visit to the UK, ahead of his expected participation in the Regional-4 meeting with Saudi Arabia, Egypt and Turkiye and the first committee meeting of the new Pakistan-Saudi-Turkiye defence pact.",
       "sources": [
@@ -80,7 +156,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 9,
       "headline": "Five-wicket Abbas gets on Lord's honours board as Pakistan on 389-run chase to win second Test",
       "summary": "AI summary: England were bowled out for 208 in their second innings at Lord's after Mohammad Abbas's five-wicket haul earned him a place on the honours board, leaving Pakistan needing a Test-record 389 runs to win and level the series.",
       "sources": [
@@ -99,7 +175,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 10,
       "headline": "New Pims executive director pledges steps to prevent recurrence of incidents",
       "summary": "AI summary: Dr Muhammad Salman, newly installed as PIMS executive director after the fatal neonatal ward fire that killed 14 newborns, pledged strengthened patient-safety protocols and preventive measures based on the inquiry committee's findings, taking over from the suspended former director.",
       "sources": [
@@ -118,7 +194,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 11,
       "headline": "President, PM felicitate Turkish leadership, people on Victory Day",
       "summary": "AI summary: President Asif Ali Zardari and PM Shehbaz Sharif sent congratulatory messages to Turkish President Erdogan and the people of Turkiye marking Victory Day, reaffirming bilateral goodwill.",
       "sources": [
@@ -137,7 +213,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 12,
       "headline": "Fuel protest: JI chief warns of sit-ins in Pindi, Islamabad if permission denied for Liaquat Bagh rally",
       "summary": "AI summary: Jamaat-e-Islami chief Hafiz Naeemur Rehman warned of sit-ins in Rawalpindi and Islamabad if authorities deny permission for a Liaquat Bagh rally, as the party's protests against the petroleum levy and daily fuel-price revisions continue toward a planned September 3 nationwide strike.",
       "sources": [
@@ -156,7 +232,7 @@
       }
     },
     {
-      "id": 9,
+      "id": 13,
       "headline": "AJK PM Gilani pledges swift restoration of internet services across region",
       "summary": "AI summary: Newly sworn-in AJK Prime Minister Iftikhar Gilani pledged to restore internet and cellular services within two days and reopen entry and exit routes within 48 hours, after connectivity was suspended amid violent protests by the now-banned JAAC over reserved assembly seats.",
       "sources": [
@@ -175,7 +251,7 @@
       }
     },
     {
-      "id": 10,
+      "id": 14,
       "headline": "Malaysia Airlines to launch Karachi flights",
       "summary": "AI summary: Sindh Governor Nehal Hashmi and Malaysia's Consul-General agreed to strengthen bilateral trade and tourism ties, with Malaysia Airlines set to begin direct flights to Karachi as part of the push.",
       "sources": [
@@ -194,7 +270,7 @@
       }
     },
     {
-      "id": 11,
+      "id": 15,
       "headline": "'Hoax': Khawaja Asif says Imran health claims aimed at creating panic, triggering protests",
       "summary": "AI summary: Defence Minister Khawaja Asif dismissed reports about Imran Khan's health as a fabricated 'hoax' meant to spark panic and protests, citing an assessment by Khan's sister that he is fit, while the government separately cited around 30 medical examinations conducted since his imprisonment.",
       "sources": [
@@ -213,7 +289,7 @@
       }
     },
     {
-      "id": 12,
+      "id": 16,
       "headline": "Lawrence's fifty leaves Pakistan facing record chase to level England series",
       "summary": "AI summary: England reached 177-7 in their second innings at Lord's on the back of Dan Lawrence's unbeaten fifty, setting Pakistan a target of 357 to level the series after already losing the first Test and collapsing to 110 all out in their first innings.",
       "sources": [
@@ -232,7 +308,7 @@
       }
     },
     {
-      "id": 13,
+      "id": 17,
       "headline": "Field Marshal Munir witnesses trials of locally manufactured arms, ammunition at ordnance factory",
       "summary": "AI summary: Field Marshal Syed Asim Munir visited Pakistan Ordnance Factories in Wah to review trials of locally manufactured arms and ammunition, framing the visit around boosting indigenous defence production and export potential.",
       "sources": [
@@ -251,7 +327,7 @@
       }
     },
     {
-      "id": 14,
+      "id": 18,
       "headline": "25 Pakistani nationals return home after release from Indian jails",
       "summary": "AI summary: Twenty-five Pakistani nationals, mostly fishermen, were released from Indian jails and repatriated via the Wagah-Attari border, part of an ongoing prisoner exchange process between the two countries.",
       "sources": [
@@ -270,7 +346,7 @@
       }
     },
     {
-      "id": 15,
+      "id": 19,
       "headline": "PIMS fire: PM Shehbaz orders suspension, criminal action against 8 officials as inquiry panel submits interim report",
       "summary": "AI summary: An interim inquiry into the PIMS neonatal ward fire that killed 14 newborns found the exact ignition source still unresolved but identified serious institutional failures, including locked exits, absent emergency protocols and unaddressed warnings from an earlier fire, prompting PM Shehbaz Sharif to suspend eight officials, including the hospital's executive director, and order criminal proceedings.",
       "sources": [
@@ -291,7 +367,7 @@
       }
     },
     {
-      "id": 16,
+      "id": 20,
       "headline": "Gul Plaza management aware of flaws, failed to take corrective measures: inferno JC",
       "summary": "AI summary: A judicial commission investigating January's Gul Plaza mall fire in Karachi, which killed over 72 people, found that management knew of missing hydrants, sprinklers and alarms for years but failed to fix them, concluding the fire was foreseeable given the documented hazards.",
       "sources": [
@@ -310,7 +386,7 @@
       }
     },
     {
-      "id": 17,
+      "id": 21,
       "headline": "Govt apologises for 'temporary' night-time loadshedding due to unavailability of RLNG",
       "summary": "AI summary: The government apologised for 1.5-3 hour nighttime power cuts caused by a 3,600MW shortfall from delayed RLNG shipments and reduced Mangla Dam hydropower output, saying outages will ease once RLNG cargoes arrive.",
       "sources": [
@@ -329,7 +405,7 @@
       }
     },
     {
-      "id": 18,
+      "id": 22,
       "headline": "Info ministry rejects 'misleading' foreign media reports on 'convicted prisoner'",
       "summary": "AI summary: Pakistan's Information Ministry rejected what it called misleading foreign media reporting, following a CNN segment featuring a Khan aide, insisting Khan is lawfully imprisoned after judicial conviction rather than held arbitrarily, and citing about 198 visitor sessions and roughly 30 medical examinations to dispute claims of neglect or solitary confinement.",
       "sources": [
