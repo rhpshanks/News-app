@@ -1,8 +1,200 @@
 {
-  "generatedAt": "2026-08-30T02:37:44+05:00",
+  "generatedAt": "2026-08-30T18:05:02+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "Disciplinary proceedings initiated against 3 cops over alleged involvement in Karachi DHA residents' scuffle: DIG",
+      "summary": "AI summary: Karachi police opened formal disciplinary proceedings against three officers after CCTV footage of an August 21 apartment scuffle in DHA Phase 6 contradicted the original complaint, which had cited a parking dispute, showing officers present at the scene and a camera being smashed.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2026139/disciplinary-proceedings-initiated-against-3-cops-over-alleged-involvement-in-karachi-dha-residents-scuffle-dig" }
+      ],
+      "timestamp": "Aug 30, 5:50 PM",
+      "publishedAt": "2026-08-30T17:50:25+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No bearing on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "A localized police disciplinary matter, not a governance-level stability issue." },
+        "social": { "value": "negative", "reason": "A violent residential altercation and apparent evidence tampering by an officer raise public safety and trust concerns." },
+        "market": { "value": "low", "reason": "No relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Factual reporting citing the DIG's account and noting the CCTV footage contradicts the original complaint." },
+        "confidence": { "value": "medium", "reason": "Detailed single-source account from Dawn, not independently corroborated." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Islamabad, Riyadh agree to boost Pakistani agri and food exports to $3bn",
+      "summary": "AI summary: Pakistan and Saudi Arabia agreed to raise Pakistani agricultural and food exports to the kingdom to $3 billion within two years, focusing on rice, red meat, fruit concentrates and green fodder, following a Saudi delegation's visit to Islamabad.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2026165/islamabad-riyadh-agree-to-boost-pakistani-agri-and-food-exports-to-3bn" }
+      ],
+      "timestamp": "Aug 30, 5:46 PM",
+      "publishedAt": "2026-08-30T17:46:46+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "A bilateral export-growth agreement targeting $3bn in trade supports business activity and revenue for Pakistani exporters." },
+        "political": { "value": "positive", "reason": "Reflects functioning bilateral diplomatic and economic cooperation with Saudi Arabia." },
+        "social": { "value": "neutral", "reason": "No direct effect on public safety or daily life." },
+        "market": { "value": "medium", "reason": "Relevant to agricultural exporters and trade-focused investors." },
+        "lean": { "value": "balanced", "reason": "Straightforward factual reporting of a government-to-government trade agreement." },
+        "confidence": { "value": "high", "reason": "Clear, detailed full-article reporting from Dawn with specific figures and named officials." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Pakistan, Saudi Arabia and Turkiye to hold first defence pact meeting tomorrow",
+      "summary": "AI summary: Foreign and defence ministers and military chiefs from Pakistan, Saudi Arabia and Turkiye will meet in Istanbul on August 31 for the first committee session under the trilateral mutual-defence pact signed in Makkah earlier this month, covering security cooperation, military interoperability and joint defence production.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/679872-pakistan-saudi-arabia-and-turkiye-to-hold-first-defence-pact-meeting-tomorrow-source" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40437101/turkiye-saudi-arabia-pakistan-to-hold-first-defence-pact-meeting-tomorrow-source-says" }
+      ],
+      "timestamp": "Aug 30, 4:43 PM",
+      "publishedAt": "2026-08-30T16:43:26+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Primarily a security and diplomatic development, with only minor relevance to the defence-industry sector." },
+        "political": { "value": "positive", "reason": "Reflects active follow-through on a signed trilateral security pact, signaling functioning regional diplomatic institutions." },
+        "social": { "value": "neutral", "reason": "No direct effect on public wellbeing or daily life." },
+        "market": { "value": "medium", "reason": "Relevant to defence-sector investors and broader geopolitical risk assessment." },
+        "lean": { "value": "balanced", "reason": "Factual reporting on an official pact meeting, sourced to a Turkish foreign ministry official, with no partisan framing." },
+        "confidence": { "value": "high", "reason": "Corroborated by two independent outlets (Geo News, Business Recorder) with matching details." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Dar arrives in Istanbul, will undertake official engagements: FO",
+      "summary": "AI summary: Deputy PM and Foreign Minister Ishaq Dar arrived in Istanbul after concluding an official visit to the UK, ahead of his expected participation in the Regional-4 meeting with Saudi Arabia, Egypt and Turkiye and the first committee meeting of the new Pakistan-Saudi-Turkiye defence pact.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2026140/dar-arrives-in-istanbul-will-undertake-official-engagements-fo" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40437096/dar-reaches-istanbul-to-attend-r-4-meeting-of-pakistan-turkiye-saudi-arabia-egypt" }
+      ],
+      "timestamp": "Aug 30, 4:35 PM",
+      "publishedAt": "2026-08-30T16:35:31+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct bearing on jobs, prices, or business activity." },
+        "political": { "value": "positive", "reason": "Reflects active, functioning foreign-policy engagement across multiple regional and Western partners." },
+        "social": { "value": "neutral", "reason": "No direct effect on public wellbeing or daily life." },
+        "market": { "value": "low", "reason": "Limited direct relevance to investors beyond broader regional diplomacy." },
+        "lean": { "value": "balanced", "reason": "Routine factual travel and diplomatic reporting with no partisan framing." },
+        "confidence": { "value": "high", "reason": "Corroborated by two independent outlets (Dawn, Business Recorder) with consistent detail." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Five-wicket Abbas gets on Lord's honours board as Pakistan on 389-run chase to win second Test",
+      "summary": "AI summary: England were bowled out for 208 in their second innings at Lord's after Mohammad Abbas's five-wicket haul earned him a place on the honours board, leaving Pakistan needing a Test-record 389 runs to win and level the series.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2026161/five-wicket-abbas-gets-on-lords-honours-board-as-pakistan-on-389-run-chase-to-win-second-test" }
+      ],
+      "timestamp": "Aug 30, 4:33 PM",
+      "publishedAt": "2026-08-30T16:33:34+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No material effect on jobs, prices or business activity." },
+        "political": { "value": "neutral", "reason": "Purely a sporting result with no governance implications." },
+        "social": { "value": "neutral", "reason": "Affects public mood around a cricket match but not safety or daily life." },
+        "market": { "value": "low", "reason": "Negligible relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Factual match reporting with no political framing." },
+        "confidence": { "value": "high", "reason": "Clear, uncontested factual sports reporting from a full article." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "New Pims executive director pledges steps to prevent recurrence of incidents",
+      "summary": "AI summary: Dr Muhammad Salman, newly installed as PIMS executive director after the fatal neonatal ward fire that killed 14 newborns, pledged strengthened patient-safety protocols and preventive measures based on the inquiry committee's findings, taking over from the suspended former director.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/679853-new-pims-executive-director-pledges-steps-to-prevent-recurrence-of-incidents" }
+      ],
+      "timestamp": "Aug 30, 3:37 PM",
+      "publishedAt": "2026-08-30T15:37:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No bearing on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "A leadership transition and stated corrective response following an earlier failure, neither clearly stabilizing nor destabilizing on its own." },
+        "social": { "value": "positive", "reason": "Signals concrete corrective steps and leadership accountability aimed at preventing a repeat of the fatal incident." },
+        "market": { "value": "low", "reason": "Limited relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Factual reporting of the new director's on-record statements, no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on a full article, but reports pledged future action that has not yet been verified in practice." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "President, PM felicitate Turkish leadership, people on Victory Day",
+      "summary": "AI summary: President Asif Ali Zardari and PM Shehbaz Sharif sent congratulatory messages to Turkish President Erdogan and the people of Turkiye marking Victory Day, reaffirming bilateral goodwill.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40437095/president-pm-felicitate-turkish-leadership-people-on-victory-day" }
+      ],
+      "timestamp": "Aug 30, 1:31 PM",
+      "publishedAt": "2026-08-30T13:31:36+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No bearing on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "A routine diplomatic courtesy message with no substantive governance implication." },
+        "social": { "value": "neutral", "reason": "No effect on public wellbeing or daily life." },
+        "market": { "value": "low", "reason": "No relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Routine, non-partisan diplomatic greeting reporting." },
+        "confidence": { "value": "medium", "reason": "Working only from the RSS description excerpt, not the full article, after the source page returned a 403 error." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Fuel protest: JI chief warns of sit-ins in Pindi, Islamabad if permission denied for Liaquat Bagh rally",
+      "summary": "AI summary: Jamaat-e-Islami chief Hafiz Naeemur Rehman warned of sit-ins in Rawalpindi and Islamabad if authorities deny permission for a Liaquat Bagh rally, as the party's protests against the petroleum levy and daily fuel-price revisions continue toward a planned September 3 nationwide strike.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/679837-fuel-protest-ji-chief-warns-of-sit-ins-in-pindi-islamabad-if-permission-denied-for-liaquat-bagh-rally" }
+      ],
+      "timestamp": "Aug 30, 1:22 PM",
+      "publishedAt": "2026-08-30T13:22:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Protests over fuel prices and levies signal economic distress and risk disrupting transport and business activity." },
+        "political": { "value": "negative", "reason": "A major party threatening escalating sit-ins against government economic policy reflects rising political pressure and tension." },
+        "social": { "value": "negative", "reason": "Potential for unrest and disruption to daily life, driven by public concern over affordability." },
+        "market": { "value": "medium", "reason": "Relevant to businesses and investors given fuel-policy volatility and protest risk." },
+        "lean": { "value": "balanced", "reason": "Reports both the JI chief's warning and the government's stated rationale for daily fuel pricing without one-sided framing." },
+        "confidence": { "value": "medium", "reason": "Single-source Geo report of public statements, not independently corroborated." }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "AJK PM Gilani pledges swift restoration of internet services across region",
+      "summary": "AI summary: Newly sworn-in AJK Prime Minister Iftikhar Gilani pledged to restore internet and cellular services within two days and reopen entry and exit routes within 48 hours, after connectivity was suspended amid violent protests by the now-banned JAAC over reserved assembly seats.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/679832-ajk-pm-gilani-pledges-swift-restoration-of-internet-services-across-region" }
+      ],
+      "timestamp": "Aug 30, 1:00 PM",
+      "publishedAt": "2026-08-30T13:00:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Suspended internet and closed routes disrupt regional business and daily commerce." },
+        "political": { "value": "negative", "reason": "Reflects recent unrest and a government ban on an organization following violent protests over political representation, signaling institutional friction." },
+        "social": { "value": "negative", "reason": "Service suspensions and restricted movement directly affect residents' communication and daily life." },
+        "market": { "value": "low", "reason": "Localized regional impact with limited broader market relevance." },
+        "lean": { "value": "balanced", "reason": "Factual reporting of the new PM's pledges and the stated causes of the suspension, no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single-source Geo report, though citing an official's own on-record pledge." }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "Malaysia Airlines to launch Karachi flights",
+      "summary": "AI summary: Sindh Governor Nehal Hashmi and Malaysia's Consul-General agreed to strengthen bilateral trade and tourism ties, with Malaysia Airlines set to begin direct flights to Karachi as part of the push.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40437074/malaysia-airlines-to-launch-karachi-flights" }
+      ],
+      "timestamp": "Aug 30, 2:32 AM",
+      "publishedAt": "2026-08-30T02:32:21+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "A new direct flight route supports trade, tourism and business connectivity." },
+        "political": { "value": "neutral", "reason": "A routine trade and tourism diplomatic meeting with no governance implication." },
+        "social": { "value": "positive", "reason": "Improved international air connectivity benefits travelers and the diaspora." },
+        "market": { "value": "medium", "reason": "Relevant to the aviation, tourism and trade sectors." },
+        "lean": { "value": "balanced", "reason": "Straightforward factual trade and diplomacy reporting." },
+        "confidence": { "value": "medium", "reason": "Working only from the RSS description excerpt, not the full article, after the source page returned a 403 error." }
+      }
+    },
+    {
+      "id": 11,
       "headline": "'Hoax': Khawaja Asif says Imran health claims aimed at creating panic, triggering protests",
       "summary": "AI summary: Defence Minister Khawaja Asif dismissed reports about Imran Khan's health as a fabricated 'hoax' meant to spark panic and protests, citing an assessment by Khan's sister that he is fit, while the government separately cited around 30 medical examinations conducted since his imprisonment.",
       "sources": [
@@ -21,7 +213,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 12,
       "headline": "Lawrence's fifty leaves Pakistan facing record chase to level England series",
       "summary": "AI summary: England reached 177-7 in their second innings at Lord's on the back of Dan Lawrence's unbeaten fifty, setting Pakistan a target of 357 to level the series after already losing the first Test and collapsing to 110 all out in their first innings.",
       "sources": [
@@ -40,7 +232,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 13,
       "headline": "Field Marshal Munir witnesses trials of locally manufactured arms, ammunition at ordnance factory",
       "summary": "AI summary: Field Marshal Syed Asim Munir visited Pakistan Ordnance Factories in Wah to review trials of locally manufactured arms and ammunition, framing the visit around boosting indigenous defence production and export potential.",
       "sources": [
@@ -59,7 +251,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 14,
       "headline": "25 Pakistani nationals return home after release from Indian jails",
       "summary": "AI summary: Twenty-five Pakistani nationals, mostly fishermen, were released from Indian jails and repatriated via the Wagah-Attari border, part of an ongoing prisoner exchange process between the two countries.",
       "sources": [
@@ -78,7 +270,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 15,
       "headline": "PIMS fire: PM Shehbaz orders suspension, criminal action against 8 officials as inquiry panel submits interim report",
       "summary": "AI summary: An interim inquiry into the PIMS neonatal ward fire that killed 14 newborns found the exact ignition source still unresolved but identified serious institutional failures, including locked exits, absent emergency protocols and unaddressed warnings from an earlier fire, prompting PM Shehbaz Sharif to suspend eight officials, including the hospital's executive director, and order criminal proceedings.",
       "sources": [
@@ -99,7 +291,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 16,
       "headline": "Gul Plaza management aware of flaws, failed to take corrective measures: inferno JC",
       "summary": "AI summary: A judicial commission investigating January's Gul Plaza mall fire in Karachi, which killed over 72 people, found that management knew of missing hydrants, sprinklers and alarms for years but failed to fix them, concluding the fire was foreseeable given the documented hazards.",
       "sources": [
@@ -118,7 +310,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 17,
       "headline": "Govt apologises for 'temporary' night-time loadshedding due to unavailability of RLNG",
       "summary": "AI summary: The government apologised for 1.5-3 hour nighttime power cuts caused by a 3,600MW shortfall from delayed RLNG shipments and reduced Mangla Dam hydropower output, saying outages will ease once RLNG cargoes arrive.",
       "sources": [
@@ -137,7 +329,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 18,
       "headline": "Info ministry rejects 'misleading' foreign media reports on 'convicted prisoner'",
       "summary": "AI summary: Pakistan's Information Ministry rejected what it called misleading foreign media reporting, following a CNN segment featuring a Khan aide, insisting Khan is lawfully imprisoned after judicial conviction rather than held arbitrarily, and citing about 198 visitor sessions and roughly 30 medical examinations to dispute claims of neglect or solitary confinement.",
       "sources": [
