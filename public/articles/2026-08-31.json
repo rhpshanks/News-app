@@ -1,0 +1,215 @@
+{
+  "generatedAt": "2026-08-31T10:16:57+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Iran targets US military in Jordan, UAE after American attack on Larak Island in latest flare-up",
+      "summary": "AI summary: Iran's Revolutionary Guards struck US bases in Jordan and the UAE's Al Minhad Air Base with missiles and drones, retaliating for a US Central Command strike on Iranian mine-laying forces near Larak Island in the Strait of Hormuz, as the six-month US-Iran war escalates and oil prices spike.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2026311/iran-targets-us-military-in-jordan-uae-after-american-attack-on-larak-island-in-latest-flare-up" }
+      ],
+      "timestamp": "Aug 31, 9:50 AM",
+      "publishedAt": "2026-08-31T09:50:31+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Escalation triggered an oil price spike, with Brent above $90 and WTI above $85 a barrel." },
+        "political": { "value": "negative", "reason": "Direct military escalation between Iran and the US deepens regional instability with no resolution in sight." },
+        "social": { "value": "negative", "reason": "Expanding strikes across Jordan and the UAE raise the risk of harm and disruption for civilians in the region." },
+        "market": { "value": "high", "reason": "Oil price shock is directly and immediately relevant to investors and energy markets." },
+        "lean": { "value": "balanced", "reason": "Report attributes claims to both Iranian and US sources without favoring either side." },
+        "confidence": { "value": "medium", "reason": "Detailed single-source report citing both militaries' own statements, not independently corroborated." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "PM Shehbaz to embark on three-day visit to Kyrgyzstan today for SCO summit",
+      "summary": "AI summary: Prime Minister Shehbaz Sharif is traveling to Kyrgyzstan for a three-day visit to attend the SCO Council of Heads of State meeting, where Pakistan is set to assume the organisation's chairmanship for 2026-27, alongside bilateral talks with President Zhaparov and the opening of the World Nomad Games.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2026350/pm-shehbaz-to-embark-on-three-day-visit-to-kyrgyzstan-today-for-sco-summit" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/679915-pm-shehbaz-to-embark-on-kyrgyzstan-visit-today-for-sco-summit-bilateral-engagements-fo" }
+      ],
+      "timestamp": "Aug 31, 9:37 AM",
+      "publishedAt": "2026-08-31T09:37:58+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Bilateral talks touch trade and investment but carry no immediate economic effect." },
+        "political": { "value": "positive", "reason": "Pakistan assuming the SCO chairmanship reflects active diplomatic engagement and standing." },
+        "social": { "value": "neutral", "reason": "A diplomatic visit with no direct bearing on public wellbeing or daily life." },
+        "market": { "value": "low", "reason": "Routine diplomatic visit with limited near-term relevance to markets." },
+        "lean": { "value": "balanced", "reason": "Straightforward factual coverage of an official state visit, corroborated across two outlets." },
+        "confidence": { "value": "high", "reason": "Corroborated by two independent outlets with matching details on itinerary and delegation." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Two terrorists killed during Washuk IBO in Balochistan: security sources",
+      "summary": "AI summary: Security sources said an intelligence-based operation in Washuk district's Palantak area killed two militants linked to Fitna al-Hindustan and allegedly tied to earlier attacks on a police station and a Customs House, with weapons recovered from the site.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/679914-two-terrorists-killed-during-washuk-ibo-in-balochistan-security-sources" }
+      ],
+      "timestamp": "Aug 31, 9:22 AM",
+      "publishedAt": "2026-08-31T09:22:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A localized security operation with no discernible broader economic effect." },
+        "political": { "value": "neutral", "reason": "Routine counter-terror operation reported without clear institutional impact either way." },
+        "social": { "value": "negative", "reason": "Reflects ongoing violence and instability in Balochistan, a province already bearing a large share of the country's conflict-related deaths." },
+        "market": { "value": "low", "reason": "Limited relevance to investors or business decisions." },
+        "lean": { "value": "pro-government", "reason": "All claims are sourced solely to unnamed security sources and presented uncontested, with no independent verification or opposing account." },
+        "confidence": { "value": "medium", "reason": "Single-source report attributed only to anonymous security sources, not officially confirmed by ISPR." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Central Development Working Party clears five projects worth over Rs60 billion",
+      "summary": "AI summary: The CDWP, chaired by Planning Minister Ahsan Iqbal, approved five development projects worth over Rs60 billion, including a Gwadar water pipeline from Mirani Dam, the Karachi Neighbourhood Improvement Project, a Gilgit medical college, a National Defence University campus, and an Orakzai road project pending since 2016.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2026262/central-development-working-party-clears-five-projects-worth-over-rs60-billion" }
+      ],
+      "timestamp": "Aug 31, 7:32 AM",
+      "publishedAt": "2026-08-31T07:32:25+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Rs60 billion in infrastructure and water-supply projects is likely to support jobs and business activity." },
+        "political": { "value": "positive", "reason": "Reflects functioning government planning processes and cost rationalization achieving real savings." },
+        "social": { "value": "positive", "reason": "Water supply for Gwadar, a medical college, and road access directly benefit public wellbeing." },
+        "market": { "value": "medium", "reason": "Relevant to construction and infrastructure-linked sectors, though not market-moving on its own." },
+        "lean": { "value": "balanced", "reason": "Factual account of a government planning meeting with no evident one-sided framing." },
+        "confidence": { "value": "medium", "reason": "Single-source but detailed, citing specific figures and named officials." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Health minister opposes 'permanent' staff in public sector hospitals",
+      "summary": "AI summary: Health Minister Mustafa Kamal proposed replacing permanent hospital staff with contract and performance-based positions and bringing in private-sector management with full hiring authority, a proposal raised days after a fire at PIMS killed 14 newborns.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2026266/health-minister-opposes-permanent-staff-in-public-sector-hospitals" }
+      ],
+      "timestamp": "Aug 31, 7:30 AM",
+      "publishedAt": "2026-08-31T07:30:33+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A staffing policy proposal with no immediate broad economic effect." },
+        "political": { "value": "neutral", "reason": "An internal policy proposal without a clear institutional stability effect either way." },
+        "social": { "value": "negative", "reason": "Raised in the wake of a fire that killed 14 newborns, underscoring ongoing concerns about hospital safety and accountability." },
+        "market": { "value": "low", "reason": "Limited direct relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Reports the minister's proposal and reasoning in detail without visible one-sided framing." },
+        "confidence": { "value": "medium", "reason": "Single-source report, though detailed and attributed to direct ministerial statements." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Makkah Accord: Turkiye, KSA, Pakistan to hold first meeting",
+      "summary": "AI summary: Senior officials from Turkiye, Saudi Arabia and Pakistan are meeting in Istanbul for the first committee session under this month's Makkah Joint Defence Agreement, a NATO Article 5-style mutual defence pact, with discussions expected to cover defence capability, interoperability, and joint production.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40437165/makkah-accord-turkiye-ksa-pakistan-to-hold-first-meeting" }
+      ],
+      "timestamp": "Aug 31, 5:26 AM",
+      "publishedAt": "2026-08-31T05:26:24+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Primarily a defence and security matter with only indirect, longer-term economic implications." },
+        "political": { "value": "positive", "reason": "Strengthens Pakistan's regional alliances and collective security standing." },
+        "social": { "value": "neutral", "reason": "A diplomatic and defence matter with no direct bearing on daily public life." },
+        "market": { "value": "low", "reason": "Limited immediate relevance to broader markets beyond the defence sector." },
+        "lean": { "value": "balanced", "reason": "Factual report attributed to a named ministry source." },
+        "confidence": { "value": "medium", "reason": "Based on the RSS excerpt rather than the full article, sourced to a single ministry official." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Asif inspects Lahore airport, directs steps for smooth passenger facilitation",
+      "summary": "AI summary: Defence Minister Khawaja Asif toured Allama Iqbal International Airport, ordering additional security search counters after finding long queues, reviewing the new immigration area, and directing expansion of the departure drop-off lane to ease traffic congestion.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40437178/asif-inspects-lahore-airport-directs-steps-for-smooth-passenger-facilitation" }
+      ],
+      "timestamp": "Aug 31, 5:26 AM",
+      "publishedAt": "2026-08-31T05:26:24+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A routine ministerial inspection with minor infrastructure implications." },
+        "political": { "value": "neutral", "reason": "Routine oversight activity by a sitting minister, not a governance-stability event." },
+        "social": { "value": "positive", "reason": "Directed fixes to passenger queues and congestion directly improve public convenience." },
+        "market": { "value": "low", "reason": "Limited relevance to investors or broader markets." },
+        "lean": { "value": "balanced", "reason": "Straightforward account of a ministerial site visit with no evident bias." },
+        "confidence": { "value": "medium", "reason": "Based on the RSS excerpt rather than the full article." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "First-ever elite training for 73 railways police ASIs",
+      "summary": "AI summary: For the first time, 73 newly recruited Railways Police Assistant Sub-Inspectors have been sent for an eight-week specialized orientation at the Elite Police Training Centre in Lahore, intended to strengthen security for train operations, particularly on sensitive routes in Balochistan.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40437179/first-ever-elite-training-for-73-railways-police-asis" }
+      ],
+      "timestamp": "Aug 31, 5:26 AM",
+      "publishedAt": "2026-08-31T05:26:24+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "An internal police training initiative with no direct economic effect." },
+        "political": { "value": "neutral", "reason": "Routine institutional capacity-building, not a governance-stability event." },
+        "social": { "value": "positive", "reason": "Better-trained officers are expected to improve passenger and train safety on vulnerable routes." },
+        "market": { "value": "low", "reason": "Limited relevance to investors or broader markets." },
+        "lean": { "value": "balanced", "reason": "Factual account of a training program with no evident one-sided framing." },
+        "confidence": { "value": "medium", "reason": "Based on the RSS excerpt rather than the full article." }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "India's move to hold IWT in abeyance breaches international law: experts",
+      "summary": "AI summary: Legal experts and researchers at an IPRI webinar said India's suspension of the Indus Waters Treaty, reinforced by closing the Baglihar Dam's gates on the Chenab, breaches international law and threatens the livelihoods of tens of millions of farmers in Punjab and Sindh, urging Pakistan to seek an international legal opinion.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40437180/indias-move-to-hold-iwt-in-abeyance-breaches-international-law-experts" }
+      ],
+      "timestamp": "Aug 31, 5:26 AM",
+      "publishedAt": "2026-08-31T05:26:24+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Reduced Chenab flows threaten crops and livelihoods for tens of millions of farmers in Punjab and Sindh." },
+        "political": { "value": "negative", "reason": "An alleged breach of a binding international treaty escalates tension over a major transboundary issue." },
+        "social": { "value": "negative", "reason": "Threatens water security and livelihoods for a large agricultural population." },
+        "market": { "value": "medium", "reason": "Reduced river flows carry indirect relevance to agriculture-linked business and investment decisions." },
+        "lean": { "value": "balanced", "reason": "Concerns Pakistan-India relations rather than domestic government-versus-opposition framing; not a partisan story." },
+        "confidence": { "value": "medium", "reason": "Based on the RSS excerpt of a webinar report citing multiple named experts, not the full article." }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "President Zardari, Bilawal in Vienna for engagement talks with Austrian family: PPP source",
+      "summary": "AI summary: A PPP source said President Asif Ali Zardari and Bilawal Bhutto-Zardari traveled to Vienna for engagement discussions with a family reportedly linked to Austria's former imperial House of Habsburg-Lorraine, though no official announcement has been made and a senior PPP figure has publicly denied the reports.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/679896-president-zardari-bilawal-in-vienna-for-engagement-talks-with-austrian-family-ppp-source" }
+      ],
+      "timestamp": "Aug 30, 8:53 PM",
+      "publishedAt": "2026-08-30T20:53:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A personal family matter with no economic bearing." },
+        "political": { "value": "neutral", "reason": "A personal matter involving political figures, not a governance or policy action." },
+        "social": { "value": "neutral", "reason": "A human-interest story with no direct effect on public wellbeing." },
+        "market": { "value": "low", "reason": "No relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Report includes both an anonymous PPP source's confirmation and a public denial from another PPP figure." },
+        "confidence": { "value": "low", "reason": "Unconfirmed rumor from a single anonymous source, no official announcement, and a public denial from within the same party." }
+      }
+    },
+    {
+      "id": 11,
+      "headline": "Karachi police chief seeks report on cops' 'misconduct' in DHA residents' scuffle",
+      "summary": "AI summary: CCTV footage of a violent property dispute in DHA's Khayaban-e-Bukhari, in which one woman struck another with a dumbbell while police allegedly restrained the victims rather than the aggressor, prompted Karachi's police chief to order a report within three days into the officers' alleged misconduct.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/679880-karachi-police-chief-seeks-report-on-cops-misconduct-in-dha-residents-scuffle" }
+      ],
+      "timestamp": "Aug 30, 5:55 PM",
+      "publishedAt": "2026-08-30T17:55:23+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A local dispute with no economic bearing." },
+        "political": { "value": "negative", "reason": "Alleged police misconduct, with officers reportedly restraining victims rather than the aggressor, raises institutional accountability concerns." },
+        "social": { "value": "negative", "reason": "Violence between residents and reported police failure to protect victims undermine public safety and trust." },
+        "market": { "value": "low", "reason": "No relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Report presents the victim's account, the property dispute context, and the police chief's corrective action." },
+        "confidence": { "value": "medium", "reason": "Single-source report, but grounded in CCTV footage and an official investigation order." }
+      }
+    }
+  ]
+}
