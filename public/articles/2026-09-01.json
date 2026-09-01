@@ -1,0 +1,179 @@
+{
+  "generatedAt": "2026-09-01T22:56:36+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "PM Shehbaz says water 'lifeblood' of region, must never be weaponised",
+      "summary": "AI summary: At the SCO summit in Bishkek, PM Shehbaz Sharif said water is the region's 'lifeblood' and must never be weaponised, a day after an international arbitration court ordered India to uphold the Indus Waters Treaty with Pakistan.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2026583/pm-shehbaz-says-water-lifeblood-of-region-must-never-be-weaponised" }
+      ],
+      "timestamp": "Sep 1, 9:30 PM",
+      "publishedAt": "2026-09-01T21:30:10+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic statement on water rights with no immediate economic policy change or market effect." },
+        "political": { "value": "positive", "reason": "Reinforces Pakistan's diplomatic and legal standing on the Indus Waters Treaty following a favourable arbitration ruling." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily life; a diplomatic statement rather than a domestic measure." },
+        "market": { "value": "low", "reason": "Not directly relevant to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Straight reporting of the PM's summit remarks with no evident one-sided framing." },
+        "confidence": { "value": "medium", "reason": "Based on a single source, though the full article was read." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Punjab Assembly passes resolution seeking ban on social media for under-16s",
+      "summary": "AI summary: The Punjab Assembly passed a resolution urging the federal government to legally bar under-16s from holding social media accounts, citing risks of cyberbullying, online exploitation and mental-health harm, and calling for age-verification systems from platforms and the PTA.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2026657/punjab-assembly-passes-resolution-seeking-ban-on-social-media-for-under-16s" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/680195-punjab-assembly-passes-resolution-seeking-social-media-ban-for-under-16s" }
+      ],
+      "timestamp": "Sep 1, 8:51 PM",
+      "publishedAt": "2026-09-01T20:51:46+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A non-binding recommendation to the federal government; no immediate business or jobs impact." },
+        "political": { "value": "neutral", "reason": "Ordinary legislative functioning at the provincial level, recommending federal action, with no direct governance-stability implication." },
+        "social": { "value": "positive", "reason": "Aimed at protecting children's mental health and safety online." },
+        "market": { "value": "low", "reason": "Non-binding resolution, not current law, so limited immediate relevance to platforms or investors." },
+        "lean": { "value": "balanced", "reason": "Both sources report the resolution's content and rationale factually without partisan framing." },
+        "confidence": { "value": "high", "reason": "Corroborated by two independent outlets with matching details." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "SHC orders police protection for family assaulted in Karachi's DHA",
+      "summary": "AI summary: The Sindh High Court ordered police protection for a Karachi family after a viral video showed a woman being struck with a dumbbell while police stood by, and a separate sessions court issued notices to a police SSP and SHO on the family's plea seeking an FIR against their alleged attackers.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2026618/karachi-court-issues-notices-to-ssp-sho-on-plea-seeking-fir-over-dha-scuffle-case" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/680180-shc-orders-police-protection-for-family-assaulted-in-karachis-dha" }
+      ],
+      "timestamp": "Sep 1, 7:29 PM",
+      "publishedAt": "2026-09-01T19:29:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No economic dimension to this case." },
+        "political": { "value": "negative", "reason": "Video evidence and a police inquiry raise questions about officer conduct and institutional accountability during the incident." },
+        "social": { "value": "negative", "reason": "A violent, viral assault with the victim describing police inaction, raising public safety concerns." },
+        "market": { "value": "low", "reason": "A local legal case with no market relevance." },
+        "lean": { "value": "balanced", "reason": "Both outlets attribute claims to CCTV evidence, court filings and named officials rather than asserting one side's account as fact." },
+        "confidence": { "value": "high", "reason": "Corroborated by two independent outlets with consistent details." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "WATCH: 'Driverless car' hits Islamabad Police vehicle. But there's more to it",
+      "summary": "AI summary: A COMSATS University student's experimental self-driving car veered into and struck an Islamabad Police vehicle during a media demonstration after he pressed the wrong control key; police called it human error and said no offence occurred, praising the young inventor.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/680162-watch-this-is-how-islamabad-police-react-to-driverless-car-crash" }
+      ],
+      "timestamp": "Sep 1, 6:57 PM",
+      "publishedAt": "2026-09-01T18:57:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A human-interest incident with no economic implications." },
+        "political": { "value": "neutral", "reason": "No governance or institutional dimension." },
+        "social": { "value": "positive", "reason": "A light story celebrating student innovation, with police praising the inventor and no lasting harm reported." },
+        "market": { "value": "low", "reason": "Not relevant to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Straightforward, good-natured reporting of the incident and official response." },
+        "confidence": { "value": "medium", "reason": "Based on a single source, though the full article was read." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "5 security personnel among 6 martyred in Balochistan Customs House attack, 21 terrorists killed across province: ISPR",
+      "summary": "AI summary: ISPR said security forces killed 21 terrorists across Balochistan in operations spanning August 31 to September 1, including repelling a coordinated attack on a Customs House that killed six security and customs personnel, and eliminating 11 militants in a separate highway ambush attempt near Quetta.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2026635/5-security-personnel-among-6-martyred-in-balochistan-customs-house-attack-21-terrorists-killed-across-province-ispr" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40437424/21-terrorists-killed-six-officials-martyred-in-balochistan-ispr" }
+      ],
+      "timestamp": "Sep 1, 6:49 PM",
+      "publishedAt": "2026-09-01T18:49:44+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A security operation targeting a Customs House, but no clear direct effect on trade or business activity is reported." },
+        "political": { "value": "negative", "reason": "A coordinated attack on a state Customs House and security personnel deaths reflect ongoing militant activity and instability in Balochistan despite the claimed operational success." },
+        "social": { "value": "negative", "reason": "Six security and customs personnel were killed and the province saw continued violence, harming public safety even as the operation is framed as a security success." },
+        "market": { "value": "low", "reason": "A regional security incident, not a primary driver of market or investor decisions." },
+        "lean": { "value": "balanced", "reason": "Both outlets attribute casualty and operational claims to ISPR as the stated source rather than asserting them as independently verified fact." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two outlets, but the underlying claims all trace to a single military source (ISPR)." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Judicial commission summons Mir Raza Ali's business partners, friends",
+      "summary": "AI summary: A judicial commission investigating businessman Mir Raza Ali's July 2026 death in Karachi has summoned his business partners, friends, a cab driver and two police officers to appear on September 3, amid concerns raised over inconsistent autopsy reports and irregularities in how the case was initially handled.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/680150-judicial-commission-summons-mir-raza-alis-business-partners-friends" }
+      ],
+      "timestamp": "Sep 1, 6:07 PM",
+      "publishedAt": "2026-09-01T18:07:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No economic dimension to this case." },
+        "political": { "value": "negative", "reason": "Reported irregularities in the original investigation, including an unusual statement recorded at the Chief Minister's office, raise institutional accountability concerns." },
+        "social": { "value": "negative", "reason": "A suspicious death investigation with evidence of violence and the family alleging a lack of transparency affects public trust and wellbeing." },
+        "market": { "value": "low", "reason": "Not relevant to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Reports commission findings and the family's counsel's statements, attributing claims to named sources." },
+        "confidence": { "value": "medium", "reason": "Based on a single source, though the full article was read and details are specific and attributed." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Torrential rain inundates low-lying areas of Rawalpindi, Islamabad; schools closed",
+      "summary": "AI summary: Heavy monsoon rain flooded low-lying parts of Rawalpindi and Islamabad, forcing a school holiday amid record rainfall in Shamsabad, with one death reported from a house-roof collapse and Rawal Dam's spillway opened as more rain is forecast through September 5.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40437398/torrential-rain-inundates-low-lying-areas-of-rawalpindi-islamabad-schools-closed" }
+      ],
+      "timestamp": "Sep 1, 4:14 PM",
+      "publishedAt": "2026-09-01T16:14:38+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Flooding disrupted traffic and daily business activity and forced a school closure." },
+        "political": { "value": "neutral", "reason": "A weather-driven emergency response story with no clear governance-stability angle reported." },
+        "social": { "value": "negative", "reason": "One death was reported and flooding disrupted daily life for residents." },
+        "market": { "value": "low", "reason": "A localised weather disruption rather than a broad market factor." },
+        "lean": { "value": "balanced", "reason": "Factual weather and disaster-response reporting." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt; the full article returned a 403 error." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Islamabad MoU offers most viable, durable path to end US-Iran conflict: PM Shehbaz",
+      "summary": "AI summary: Speaking at the SCO summit in Bishkek, PM Shehbaz Sharif called the Islamabad Memorandum of Understanding the most viable and durable path to ending the US-Iran conflict, and outlined Pakistan's SCO chairmanship priorities including AI, energy, poverty reduction and disaster management.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40437394/islamabad-mou-offers-most-viable-durable-path-to-end-us-iran-conflict-pm-shehbaz" }
+      ],
+      "timestamp": "Sep 1, 4:07 PM",
+      "publishedAt": "2026-09-01T16:07:12+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic statement with no direct economic effect." },
+        "political": { "value": "positive", "reason": "Positions Pakistan as a diplomatic mediator, potentially boosting its international standing." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily life." },
+        "market": { "value": "low", "reason": "Not directly relevant to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Reports the PM's summit remarks without evident one-sided framing." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt; the full article returned a 403 error." }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "In meeting with Araghchi, DPM Dar underscores importance of dialogue for regional peace",
+      "summary": "AI summary: Deputy PM Ishaq Dar met Iranian Foreign Minister Araghchi on the sidelines of the SCO summit in Bishkek, with both sides stressing dialogue and diplomacy for regional peace and reaffirming commitment to implementing the Islamabad MoU.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40437389/in-meeting-with-araghchi-dpm-dar-underscores-importance-of-dialogue-for-regional-peace" }
+      ],
+      "timestamp": "Sep 1, 12:14 PM",
+      "publishedAt": "2026-09-01T12:14:44+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A routine diplomatic meeting with no economic dimension." },
+        "political": { "value": "neutral", "reason": "A routine bilateral diplomatic meeting with no clear governance-stability implication." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily life." },
+        "market": { "value": "low", "reason": "Not relevant to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Straight reporting of a bilateral diplomatic meeting." },
+        "confidence": { "value": "low", "reason": "Based only on the RSS description excerpt; the full article returned a 403 error." }
+      }
+    }
+  ]
+}
