@@ -1,0 +1,141 @@
+{
+  "generatedAt": "2026-09-03T16:45:00+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Act for Nutrition conference: Minister stresses need for communication, awareness to tackle malnutrition",
+      "summary": "AI summary: At an Islamabad conference on child malnutrition, Information Minister Attaullah Tarar called for stronger public communication and awareness campaigns, while experts pegged the annual economic cost of malnutrition at roughly $17 billion and urged Pakistan to treat nutrition funding as an investment rather than an expense.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2027116/act-for-nutrition-conference-minister-stresses-need-for-communication-awareness-to-tackle-malnutrition" }
+      ],
+      "timestamp": "Sep 3, 4:40 PM",
+      "publishedAt": "2026-09-03T16:40:41+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Raises awareness of malnutrition's economic cost but is a conference, not a policy or spending change." },
+        "political": { "value": "neutral", "reason": "Routine government-hosted awareness event with no direct governance-stability implication." },
+        "social": { "value": "positive", "reason": "Pushes for coordinated policy action and stronger nutrition funding to address a major public-health problem." },
+        "market": { "value": "low", "reason": "Not directly relevant to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Straight reporting of minister and expert remarks with no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on a single source, though the full article was read." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Fresh notices issued to Momina, Chadhar over new digital evidence in harassment case",
+      "summary": "AI summary: Pakistan's cybercrime agency issued fresh notices to actor Momina Iqbal and PML-N MPA Saqib Chadhar after new digital evidence surfaced in her harassment complaint against him, with a special investigation team given one month to complete its inquiry.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/680465-fresh-notices-issued-to-momina-chadhar-over-new-digital-evidence-in-harassment-case" }
+      ],
+      "timestamp": "Sep 3, 2:53 PM",
+      "publishedAt": "2026-09-03T14:53:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "An individual legal case with no economic dimension." },
+        "political": { "value": "neutral", "reason": "Involves a sitting MPA but is an individual legal matter, not a broader governance issue." },
+        "social": { "value": "negative", "reason": "Allegations of cyberbullying and online harassment raise ongoing public-safety and wellbeing concerns." },
+        "market": { "value": "low", "reason": "No market relevance." },
+        "lean": { "value": "balanced", "reason": "Reports the complainant's allegations and the MPA's withdrawal of his bail application without asserting either side's account as fact." },
+        "confidence": { "value": "medium", "reason": "Based on a single source, and the investigation is still ongoing." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "JI shutter-down strike against petroleum levy gets mixed response across country",
+      "summary": "AI summary: Jamaat-e-Islami's nationwide shutter-down strike against the petroleum levy drew a mixed response, with heavy market closures reported in Sindh and parts of Khyber Pakhtunkhwa but largely normal activity in Punjab and Balochistan, and the party warning of a possible long march if its demands go unmet.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/680464-ji-shutter-down-strike-against-petroleum-levy-gets-mixed-response-across-country" }
+      ],
+      "timestamp": "Sep 3, 2:21 PM",
+      "publishedAt": "2026-09-03T14:21:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Shutter-down strike closed over 300 markets in Karachi alone, disrupting business activity in affected regions." },
+        "political": { "value": "neutral", "reason": "An opposition-aligned party's protest against government fuel levy policy; reflects normal political dissent rather than a governance-stability shift." },
+        "social": { "value": "negative", "reason": "Strike disrupted daily commerce and reflects public frustration over inflation and fuel prices." },
+        "market": { "value": "medium", "reason": "Relates to fuel-price policy and business closures, relevant to investors tracking inflation and energy sentiment." },
+        "lean": { "value": "balanced", "reason": "Reports the strike's mixed nationwide impact and JI's warning of further action without editorializing for or against the government." },
+        "confidence": { "value": "medium", "reason": "Based on a single source." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "15 India-sponsored terrorists killed, infiltration bid foiled along Pak-Afghan border: ISPR",
+      "summary": "AI summary: ISPR said security forces killed 15 alleged militants during a 36-hour operation in North Waziristan after detecting an attempted cross-border infiltration from Afghanistan on August 31-September 1, with the military recovering weapons and blaming Afghan authorities for failing to curb the group's use of its territory.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2027139/security-forces-kill-15-terrorists-trying-to-cross-into-pakistan-through-afghan-border-ispr" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/680452-15-india-sponsored-terrorists-killed-infiltration-bid-foiled-along-pak-afghan-border-ispr" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40437752/15-terrorists-killed-as-security-forces-foil-infiltration-attempt-along-pak-afghan-border-ispr" }
+      ],
+      "timestamp": "Sep 3, 12:07 PM",
+      "publishedAt": "2026-09-03T12:07:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A border security operation with no direct economic effect." },
+        "political": { "value": "neutral", "reason": "A routine counter-infiltration operation attributed to ISPR; praised by top leadership but does not itself alter governance structures." },
+        "social": { "value": "negative", "reason": "Continued cross-border violence and unresolved Pak-Afghan tension reflect ongoing instability and risk, despite the operation being framed as a security success." },
+        "market": { "value": "low", "reason": "Limited direct relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "All three outlets report ISPR's claims as attributed statements rather than independently verified fact; not framed around domestic government-versus-opposition politics." },
+        "confidence": { "value": "medium", "reason": "Corroborated by three outlets, but all rely on the same ISPR statement rather than independent verification." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Justice Raheel Kamran Sheikh steps down as LHC judge",
+      "summary": "AI summary: Lahore High Court Justice Raheel Kamran Sheikh resigned with immediate effect, about a decade before his scheduled retirement, saying he wants to focus on legal scholarship and comparative judicial research rather than citing any institutional dispute.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/680440-justice-raheel-kamran-sheikh-steps-down-as-lhc-judge" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40437758/lhc-judge-raheel-kamran-resigns-citing-personal-reasons" }
+      ],
+      "timestamp": "Sep 3, 10:27 AM",
+      "publishedAt": "2026-09-03T10:27:46+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A judicial resignation with no economic dimension." },
+        "political": { "value": "neutral", "reason": "A voluntary resignation for personal/scholarly reasons rather than a removal or institutional crisis." },
+        "social": { "value": "neutral", "reason": "Limited direct effect on general public wellbeing or daily life." },
+        "market": { "value": "low", "reason": "No market relevance." },
+        "lean": { "value": "balanced", "reason": "Both outlets report the judge's own resignation statement without partisan framing." },
+        "confidence": { "value": "high", "reason": "Corroborated by two independent outlets with matching details from the resignation letter." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "WAPDA Security Force Bill: NA body again defers approval after lawmakers' objections",
+      "summary": "AI summary: A National Assembly committee again deferred the WAPDA Security Force Bill after PPP lawmakers objected to giving the proposed force arrest powers within a one-kilometre radius of WAPDA sites, with WAPDA's chairman defending the plan by citing over 100 attacks on its projects.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40437711/wapda-security-force-bill-na-body-again-defers-approval-after-lawmakers-objections" }
+      ],
+      "timestamp": "Sep 3, 5:39 AM",
+      "publishedAt": "2026-09-03T05:39:39+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A legislative deliberation on infrastructure security with no immediate broad economic effect." },
+        "political": { "value": "neutral", "reason": "Reflects normal committee process, objections and deferral for further consultation rather than governance dysfunction." },
+        "social": { "value": "neutral", "reason": "Concerns WAPDA installation security procedures with limited direct impact on daily public life." },
+        "market": { "value": "low", "reason": "An internal governance matter for WAPDA with limited direct relevance to investors." },
+        "lean": { "value": "balanced", "reason": "Objections come from PPP, a coalition partner rather than the opposition, and the report presents both the objections and WAPDA's rationale." },
+        "confidence": { "value": "medium", "reason": "Based on a single source." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "PIMS fire incident: PM says no leniency for 'criminal negligence'",
+      "summary": "AI summary: Prime Minister Shehbaz Sharif said officials found responsible for the PIMS hospital fire will face full accountability, directing the health minister and secretary to oversee the facility on alternating days while safety reforms are accelerated pending a preliminary probe.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40437690/pims-fire-incident-pm-says-no-leniency-for-criminal-negligence" }
+      ],
+      "timestamp": "Sep 3, 5:39 AM",
+      "publishedAt": "2026-09-03T05:39:38+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct effect on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "The PM's accountability directive demonstrates functioning oversight in response to the incident." },
+        "social": { "value": "negative", "reason": "A fire and alleged criminal negligence at a major public hospital raise serious patient-safety and public-wellbeing concerns." },
+        "market": { "value": "low", "reason": "No direct market relevance." },
+        "lean": { "value": "balanced", "reason": "Reports the PM's directives and the ongoing probe without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on a single source, and the preliminary investigation is not yet concluded." }
+      }
+    }
+  ]
+}
