@@ -1,0 +1,215 @@
+{
+  "generatedAt": "2026-09-04T00:08:44+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Woman injured in acid attack in Karachi's Upper Gizri, police say",
+      "summary": "AI summary: A 35-year-old woman suffered burns to her face, neck and abdomen after an acid attack in Karachi's Upper Gizri area on Thursday; police say the attacker is still unidentified and are reviewing CCTV footage as the Sindh home minister ordered a thorough investigation.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2027248/woman-injured-in-acid-attack-in-karachis-upper-gizri-police-say" }
+      ],
+      "timestamp": "Sep 3, 11:20 PM",
+      "publishedAt": "2026-09-03T23:20:06+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "An isolated violent crime with no direct bearing on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "No institutional or governance dimension; a criminal investigation, not a political event." },
+        "social": { "value": "negative", "reason": "A violent gender-based crime causing serious injury undermines public safety and wellbeing." },
+        "market": { "value": "low", "reason": "No relevance to investors or business decision-making." },
+        "lean": { "value": "balanced", "reason": "Straightforward crime reporting citing police and the home minister with no partisan framing." },
+        "confidence": { "value": "high", "reason": "Based on the full article with direct police and official quotes." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Govt raises petrol price by Rs2.84, HSD by Rs2.28 per litre",
+      "summary": "AI summary: The government raised petrol prices by Rs2.84 and high-speed diesel by Rs2.28 per litre effective September 4, taking petrol to Rs349/litre and HSD to Rs374.31/litre, citing volatile international prices linked to the ongoing US-Iran conflict.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2027257/govt-raises-petrol-price-by-rs284-hsd-by-rs228-per-litre" }
+      ],
+      "timestamp": "Sep 3, 11:12 PM",
+      "publishedAt": "2026-09-03T23:12:51+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Higher fuel prices raise transport and production costs, squeezing households and diesel-dependent industries." },
+        "political": { "value": "negative", "reason": "The hike lands amid an ongoing nationwide Jamaat-e-Islami protest specifically over the petroleum levy and inflation, adding pressure to an already tense standoff." },
+        "social": { "value": "negative", "reason": "Higher fuel costs directly raise the cost of living and disproportionately burden lower and middle-income households." },
+        "market": { "value": "high", "reason": "Fuel-price moves directly affect transport, energy and consumer sectors and are closely tracked by investors and businesses." },
+        "lean": { "value": "balanced", "reason": "Reports the price change and its stated rationale factually, citing the Petroleum Division without partisan framing." },
+        "confidence": { "value": "high", "reason": "Official price notification with concrete, verifiable figures." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Sindh Assembly rejects provincial 'division' amid MQM-P boycott",
+      "summary": "AI summary: The Sindh Assembly passed a resolution rejecting any division of the province or new administrative units, citing Article 239(4) of the Constitution, while opposition party MQM-P boycotted the session and called the move a distraction from administrative failures.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/680538-sindh-assembly-rejects-provincial-division-amid-mqm-p-boycott" }
+      ],
+      "timestamp": "Sep 3, 10:26 PM",
+      "publishedAt": "2026-09-03T22:26:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A constitutional/administrative resolution with no direct bearing on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "A provincial legislative vote and opposition boycott reflect normal, if contentious, political process rather than a destabilizing event." },
+        "social": { "value": "neutral", "reason": "No immediate effect on public safety or daily life for residents." },
+        "market": { "value": "low", "reason": "Not relevant to investor or business decision-making." },
+        "lean": { "value": "balanced", "reason": "Presents both the ruling PPP's resolution and MQM-P's boycott and criticism, giving both sides voice." },
+        "confidence": { "value": "medium", "reason": "Single-source report of a legislative vote and political dispute, not corroborated by other outlets in this run." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Pakistan honours UK kidney stone surgery pioneer Dr Shabi Ahmed with Tamgha-i-Imtiaz",
+      "summary": "AI summary: President Asif Ali Zardari conferred Pakistan's Tamgha-i-Imtiaz on UK-based consultant urologist Dr Muhammad Shabi Ahmed for nearly three decades of pioneering minimally invasive kidney stone surgery, charitable healthcare work and medical education contributions.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/680541-pakistan-honours-uk-kidney-stone-surgery-pioneer-dr-shabi-ahmed-with-tamgha-i-imtiaz" }
+      ],
+      "timestamp": "Sep 3, 10:06 PM",
+      "publishedAt": "2026-09-03T22:06:20+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A ceremonial honour with no direct economic effect." },
+        "political": { "value": "neutral", "reason": "A ceremonial state honour with no bearing on governance stability." },
+        "social": { "value": "positive", "reason": "Recognizes healthcare and charitable contributions, a positive human-interest story with no negative social impact." },
+        "market": { "value": "low", "reason": "No relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "A straightforward, non-partisan account of an award ceremony." },
+        "confidence": { "value": "high", "reason": "Factual ceremonial report with clear, verifiable details." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Loopholes fuel crime wave as illegal SIMs drive banking fraud, NA panel told",
+      "summary": "AI summary: A National Assembly committee was told that criminals are exploiting biometric loopholes and illegally obtained SIM cards to commit large-scale banking fraud, with officials citing over 18 million illegal SIMs blocked and hundreds of thousands of stolen data records recovered in recent crackdowns.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2027246/loopholes-fuel-crime-wave-as-illegal-sims-drive-banking-fraud-na-panel-told" }
+      ],
+      "timestamp": "Sep 3, 10:02 PM",
+      "publishedAt": "2026-09-03T22:02:40+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Widespread banking fraud undermines confidence in the financial system and imposes costs on banks and customers." },
+        "political": { "value": "neutral", "reason": "A routine parliamentary oversight hearing rather than a governance crisis; officials reported cooperation and progress." },
+        "social": { "value": "negative", "reason": "Identity theft and banking fraud directly harm ordinary citizens' financial security and daily life." },
+        "market": { "value": "medium", "reason": "Relevant to banks, telecom operators and fintech risk management, though not an immediate market-moving event." },
+        "lean": { "value": "balanced", "reason": "Reports testimony from multiple officials (NCCIA, PTA, State Minister) without favoring a political side." },
+        "confidence": { "value": "medium", "reason": "Based on a single detailed article summarizing committee testimony without independent corroboration." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Criminal cases to be lodged against those 'responsible' for Pims fire",
+      "summary": "AI summary: Pakistani authorities said criminal cases will be filed within two to three days against eight suspended officials, including PIMS' executive director, over the August 26 gynaecology ward fire that killed 14 newborns, after an inquiry found serious fire-safety and evacuation failures despite a similar fire weeks earlier.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/680513-criminal-cases-to-be-lodged-against-those-responsible-for-pims-fire" }
+      ],
+      "timestamp": "Sep 3, 6:52 PM",
+      "publishedAt": "2026-09-03T18:52:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct effect on jobs, prices, or broader business activity." },
+        "political": { "value": "negative", "reason": "A preventable hospital tragedy with prior warning signs, followed by accountability action against officials, signals a serious governance and regulatory failure." },
+        "social": { "value": "negative", "reason": "The deaths of 14 infants and exposed institutional safety failures represent a severe public-wellbeing failure." },
+        "market": { "value": "low", "reason": "Limited direct relevance to investors or broader business decisions." },
+        "lean": { "value": "balanced", "reason": "Reports the government's own accountability measures and the investigation's findings without partisan framing." },
+        "confidence": { "value": "high", "reason": "Draws on an official inquiry report and a minister's on-record statement." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Govt, JI agree to form committees to explore relief measures",
+      "summary": "AI summary: The government and Jamaat-e-Islami agreed to form joint committees to explore relief measures on fuel, electricity and inflation after talks in Lahore, with formal negotiations set to begin Monday even as JI's nationwide protests over the petroleum levy continue.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40437779/govt-ji-agree-to-form-committees-to-explore-relief-measures" }
+      ],
+      "timestamp": "Sep 3, 6:15 PM",
+      "publishedAt": "2026-09-03T18:15:57+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Signals possible future relief measures but commits to no concrete economic policy change yet." },
+        "political": { "value": "positive", "reason": "Government-opposition engagement to address grievances through negotiation reduces the risk of prolonged unrest from JI's ongoing 19-day sit-ins." },
+        "social": { "value": "neutral", "reason": "No immediate change to public wellbeing; relief measures remain under discussion, not yet implemented." },
+        "market": { "value": "medium", "reason": "Potential rollback of the petroleum levy or IPP agreements would be relevant to energy-sector investors and businesses." },
+        "lean": { "value": "balanced", "reason": "Quotes both government officials (Iqbal, Sanaullah) and JI's Hafiz Naeem at length, presenting each side's position fairly." },
+        "confidence": { "value": "medium", "reason": "Detailed single-source account of a joint press conference, not yet corroborated by other outlets." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Iran attacks US targets despite Trump threats",
+      "summary": "AI summary: Iran struck US military bases in Kuwait, the UAE, Bahrain, Jordan and Iraqi Kurdistan with missiles and drones, escalating a conflict that began in February after earlier US strikes killed Iranians and civilians, prompting President Trump to threaten further military action and expanded sanctions.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2027206/iran-attacks-us-targets-despite-trump-threats" }
+      ],
+      "timestamp": "Sep 3, 5:02 PM",
+      "publishedAt": "2026-09-03T17:02:57+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Escalating Middle East conflict raises the risk of oil-price shocks and disruption to trade routes relevant to Pakistan's import-dependent economy." },
+        "political": { "value": "neutral", "reason": "A foreign conflict with no direct bearing on Pakistan's own institutional or governance stability." },
+        "social": { "value": "negative", "reason": "Regional military escalation and reported civilian casualties represent a broader humanitarian and stability concern." },
+        "market": { "value": "high", "reason": "A Middle East military escalation carries direct implications for global oil prices and regional markets closely watched by investors." },
+        "lean": { "value": "balanced", "reason": "Reports both Iranian actions and the US/Trump response using attributed sourcing on both sides." },
+        "confidence": { "value": "medium", "reason": "Reporting on a fast-moving foreign conflict relies on official statements from involved parties, not independently verified on the ground." }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "NDMA issues flood alert for northern areas over next 72 hours",
+      "summary": "AI summary: The National Disaster Management Authority warned of heavy rain, flash floods and landslides in Gilgit-Baltistan, Azad Kashmir and Khyber Pakhtunkhwa over the next 72 hours, forecasting rising river levels and urban flooding risk in cities including Peshawar, Nowshera and Rawalpindi, and urged residents to avoid low-lying and riverside areas.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/680533-ndma-forecasts-heavy-rain-potential-flooding-in-kp-gb-and-ajk" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40437777/ndma-issues-flood-alert-for-northern-areas-over-next-72-hours" }
+      ],
+      "timestamp": "Sep 3, 4:48 PM",
+      "publishedAt": "2026-09-03T16:48:30+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Flooding risk threatens infrastructure, agriculture and business activity in the warned regions." },
+        "political": { "value": "neutral", "reason": "A routine disaster-management advisory rather than a governance event." },
+        "social": { "value": "negative", "reason": "Flash flood and landslide warnings pose a direct safety risk to residents and tourists in vulnerable areas." },
+        "market": { "value": "low", "reason": "Localized weather risk with limited direct relevance to broader investor decisions." },
+        "lean": { "value": "balanced", "reason": "A factual public-safety advisory drawn directly from NDMA statements, with no political framing." },
+        "confidence": { "value": "high", "reason": "Corroborated by two independent outlets with matching details on the affected regions and timeframe." }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "LHC Judge Raheel Kamran resigns citing personal reasons",
+      "summary": "AI summary: Lahore High Court Justice Raheel Kamran Sheikh resigned with immediate effect, citing personal reasons and a wish to pursue legal scholarship and comparative judicial research, more than a decade before his scheduled 2036 retirement.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40437758/lhc-judge-raheel-kamran-resigns-citing-personal-reasons" }
+      ],
+      "timestamp": "Sep 3, 12:47 PM",
+      "publishedAt": "2026-09-03T12:47:17+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "An individual judicial resignation with no direct economic effect." },
+        "political": { "value": "neutral", "reason": "A voluntary individual resignation with a stated personal rationale, not indicative of institutional distress." },
+        "social": { "value": "neutral", "reason": "No direct effect on public wellbeing or daily life." },
+        "market": { "value": "low", "reason": "No relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "A factual account based on the judge's own resignation letter with no partisan angle." },
+        "confidence": { "value": "high", "reason": "Based on the judge's own official resignation statement." }
+      }
+    },
+    {
+      "id": 11,
+      "headline": "15 terrorists killed as security forces foil infiltration attempt along Pak-Afghan border: ISPR",
+      "summary": "AI summary: ISPR said security forces killed 15 alleged militants during a 36-hour operation after foiling an infiltration attempt from Afghanistan near North Waziristan between August 31 and September 1, with the military again accusing the Afghan Taliban of failing to curb cross-border terrorism.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40437752/15-terrorists-killed-as-security-forces-foil-infiltration-attempt-along-pak-afghan-border-ispr" }
+      ],
+      "timestamp": "Sep 3, 12:14 PM",
+      "publishedAt": "2026-09-03T12:14:51+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct bearing on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "A routine counter-terrorism operation reported through official channels; no indication of domestic governance instability." },
+        "social": { "value": "negative", "reason": "Continued cross-border militant activity and armed clashes reflect ongoing insecurity in border regions, despite the operation being framed as a security success." },
+        "market": { "value": "low", "reason": "Limited direct relevance to investors or broader business decisions." },
+        "lean": { "value": "balanced", "reason": "Reports the ISPR's claims alongside President Zardari's and PM Shehbaz's statements, attributing casualty and operational claims to the military rather than asserting them as independently verified." },
+        "confidence": { "value": "medium", "reason": "Claims of militant casualties and operational details are attributed solely to ISPR/military sources, without independent verification." }
+      }
+    }
+  ]
+}
