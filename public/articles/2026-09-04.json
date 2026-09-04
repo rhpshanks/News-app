@@ -1,8 +1,146 @@
 {
-  "generatedAt": "2026-09-04T10:09:08+05:00",
+  "generatedAt": "2026-09-04T15:14:32+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "Mir Raza case: Judicial commission directs efforts to restore driver's housing, livelihood",
+      "summary": "AI summary: The judicial commission probing entrepreneur Mir Raza's death directed authorities to restore housing and livelihood support for Bykea driver Ihsanullah, after his lawyer said he was evicted and lost access to his vehicle following his cooperation with investigators, a claim Bykea's CEO disputed by saying police, not the company, had impounded the vehicle.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40437937/mir-raza-case-judicial-commission-directs-efforts-to-restore-drivers-housing-livelihood" }
+      ],
+      "timestamp": "Sep 4, 3:10 PM",
+      "publishedAt": "2026-09-04T15:10:13+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "An individual livelihood dispute with no broad economic effect." },
+        "political": { "value": "neutral", "reason": "A judicial commission functioning as intended to address a grievance, not a governance stability concern." },
+        "social": { "value": "negative", "reason": "A cooperating witness allegedly lost his housing and livelihood, a public-wellbeing concern even as the commission moved to correct it." },
+        "market": { "value": "low", "reason": "No relevance to investors or business decision-making." },
+        "lean": { "value": "balanced", "reason": "Presents both the lawyer's claim of retaliation and the Bykea CEO's rebuttal without favoring either side." },
+        "confidence": { "value": "medium", "reason": "Single-source account with disputed facts between the parties, not independently corroborated." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "PM Shehbaz discusses need for ML-1 railway project's early groundbreaking in meeting with ADB official",
+      "summary": "AI summary: Prime Minister Shehbaz Sharif met Asian Development Bank Vice President Yingming Yang in Islamabad to push for early groundbreaking of the $10 billion, 1,670km ML-1 railway upgrade, building on ADB's existing $2 billion financing for the Karachi-Rohri section and a broader roughly $10 billion ADB partnership strategy through 2030.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2027447/pm-shehbaz-discusses-need-for-ml-1-railway-projects-early-groundbreaking-in-meeting-with-adb-official" }
+      ],
+      "timestamp": "Sep 4, 2:38 PM",
+      "publishedAt": "2026-09-04T14:38:36+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "A major rail-infrastructure and financing push aimed at freight logistics and trade connectivity." },
+        "political": { "value": "neutral", "reason": "A routine diplomatic and economic meeting with no bearing on institutional or governance stability." },
+        "social": { "value": "neutral", "reason": "A future infrastructure project with no current effect on daily life." },
+        "market": { "value": "high", "reason": "Multi-billion-dollar infrastructure financing is directly relevant to investors and businesses in logistics and construction." },
+        "lean": { "value": "balanced", "reason": "A factual account of a government-ADB meeting with no partisan framing." },
+        "confidence": { "value": "high", "reason": "Based on the full article with specific, on-record figures and project details." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Scuffle in Karachi's DHA: Inquiry report says allegations in FIR 'not substantiated'",
+      "summary": "AI summary: An inquiry into an August 21 scuffle in Karachi's DHA Phase 6, where an SSP's mother-in-law was filmed attacking a neighbour with a dumbbell during a parking dispute, found the original FIR's allegations unsubstantiated and recommended dismissing the case, filing a new FIR against the SSP's family, and taking departmental action against six police officials for mishandling the case, including destroying CCTV evidence.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2027445/scuffle-in-karachis-dha-inquiry-report-says-allegations-in-fir-not-substantiated" }
+      ],
+      "timestamp": "Sep 4, 2:26 PM",
+      "publishedAt": "2026-09-04T14:26:45+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A local law-enforcement dispute with no bearing on jobs, prices, or business activity." },
+        "political": { "value": "negative", "reason": "The inquiry exposed abuse of power and evidence tampering by police officials connected to a senior officer's family, a governance and institutional-integrity failure." },
+        "social": { "value": "negative", "reason": "Improper arrest and destruction of evidence by police undermine public trust and safety, even as corrective action is recommended." },
+        "market": { "value": "low", "reason": "No relevance to investors or broader business decisions." },
+        "lean": { "value": "balanced", "reason": "Reports the inquiry's findings against the SSP's own family and implicated officers without partisan framing." },
+        "confidence": { "value": "high", "reason": "Based on detailed, specific findings and recommendations from the official inquiry report." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "12 terrorists killed in intelligence-based operation in Balochistan's Kalat: ISPR",
+      "summary": "AI summary: ISPR said security forces killed 12 alleged India-backed militants from the group Pakistan calls 'Fitna al Hindustan' during an intelligence-based operation in Balochistan's Kalat district on September 2, while a simultaneous assault by around 40 militants on Bhag city injured two policemen and three civilians; officials noted militant attacks rose roughly 7% month-on-month, with Balochistan and Khyber Pakhtunkhwa accounting for most of the quarter's violence.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2027449/12-terrorists-killed-in-intelligence-based-operation-in-balochistans-kalat-ispr" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/680616-12-india-backed-terrorists-killed-in-kalat-ibo-ispr" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40437935/security-forces-kill-12-terrorists-in-kalat-ibo-ispr" }
+      ],
+      "timestamp": "Sep 4, 1:52 PM",
+      "publishedAt": "2026-09-04T13:52:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct bearing on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "A routine counter-terrorism operation reported through official channels, with no indication of domestic governance instability." },
+        "social": { "value": "negative", "reason": "A simultaneous multi-militant assault on a city injuring police and civilians reflects continued insecurity in border regions, despite the operation being framed as a security success." },
+        "market": { "value": "low", "reason": "Limited direct relevance to investors or broader business decisions." },
+        "lean": { "value": "balanced", "reason": "Attributes casualty and operational claims to ISPR rather than asserting them as independently verified fact." },
+        "confidence": { "value": "medium", "reason": "Corroborated by three outlets with matching figures, but all attribute the underlying casualty claims solely to ISPR/military sources without independent verification." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Court acquits Karsaz accident driver in narcotics case over lack of evidence",
+      "summary": "AI summary: A Karachi court acquitted driver Natasha Danish of narcotics charges linked to a fatal August 2024 Karsaz Road crash that killed two people, after the defence argued neither chemical nor blood tests detected methamphetamine and that the investigating officer had concealed a blood test report.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/680613-court-acquits-karsaz-accident-driver-in-narcotics-case-over-lack-of-evidence" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40437928/karsaz-accident-case-natasha-cleared-of-drug-use-charges" }
+      ],
+      "timestamp": "Sep 4, 12:41 PM",
+      "publishedAt": "2026-09-04T12:41:25+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "An individual court ruling with no bearing on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "A routine judicial ruling with no bearing on governance stability." },
+        "social": { "value": "neutral", "reason": "Reports the resolution of a year-old legal case rather than a new incident affecting public safety today." },
+        "market": { "value": "low", "reason": "No relevance to investors or business decision-making." },
+        "lean": { "value": "balanced", "reason": "Straightforward legal reporting of a court verdict with no partisan angle." },
+        "confidence": { "value": "high", "reason": "Corroborated by two independent outlets with matching case details and figures." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Planning minister proposes creation of up to 15 new provinces, seeks national debate",
+      "summary": "AI summary: Planning Minister Ahsan Iqbal proposed creating up to 15 new provinces and called for a national committee to debate administrative restructuring, reviving a debate started by Interior Minister Mohsin Naqvi in July, while the PM's coordinator said no formal decision has been made and Sindh-based parties continue near-daily protests against splitting the province.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/680599-planning-minister-proposes-creation-of-up-to-15-new-provinces" }
+      ],
+      "timestamp": "Sep 4, 10:27 AM",
+      "publishedAt": "2026-09-04T10:27:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A proposal stage only, citing governance trade-offs and costs but no immediate economic effect." },
+        "political": { "value": "neutral", "reason": "A sensitive but still-preliminary proposal under public debate, similar to the ongoing provincial-division discourse, rather than a destabilizing event." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily life yet, as the proposal remains under discussion with no formal decision made." },
+        "market": { "value": "low", "reason": "Not relevant to investor or business decision-making at this stage." },
+        "lean": { "value": "balanced", "reason": "Quotes the proposing minister, a government coordinator downplaying it, opposing Sindh-based parties, and an independent academic weighing the trade-offs." },
+        "confidence": { "value": "medium", "reason": "Single-source report of an evolving political debate with no formal decision yet." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "FO says Indian claims about Hindu temple in Narowal 'false, politically motivated'",
+      "summary": "AI summary: Pakistan's Foreign Office rejected India's claim that a Hindu temple in Narowal's Adda Siraj village was deliberately demolished, saying the structure was damaged by torrential rains on July 21 and that local authorities have begun restoration, while accusing India of political motivation and pointing to India's own treatment of religious minorities.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2027424/fo-says-indian-claims-about-hindu-temple-in-narowal-false-politically-motivated" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/680603-pakistan-rejects-indias-false-politically-motivated-claims-over-narowal-temple" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40437919/hindu-temple-in-narowal-damaged-by-torrential-rains-not-demolished-fo" }
+      ],
+      "timestamp": "Sep 4, 10:22 AM",
+      "publishedAt": "2026-09-04T10:22:28+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic dispute with no bearing on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "A Pakistan-India diplomatic exchange with no bearing on Pakistan's own domestic governance stability." },
+        "social": { "value": "neutral", "reason": "Pakistan's account attributes the damage to rain with restoration underway; insufficient independently verified facts to assess broader social impact." },
+        "market": { "value": "low", "reason": "No relevance to investors or business decision-making." },
+        "lean": { "value": "balanced", "reason": "A foreign-policy dispute between two states, not a domestic government-versus-opposition framing." },
+        "confidence": { "value": "high", "reason": "Corroborated by three outlets with matching quotes and details from Pakistan's Foreign Office statement." }
+      }
+    },
+    {
+      "id": 8,
       "headline": "2 trapped tunnel workers rescued in Nepal more than a week after catastrophic flash floods",
       "summary": "AI summary: Two hydropower workers trapped for over a week in a tunnel at Nepal's Trishuli 3A station were rescued alive on September 3 after rescue teams, aided by an Australian tunnelling expert, cleared roughly 50-60 metres of debris and heard responses from inside, amid a disaster that has killed over 1,250 people and left thousands missing.",
       "sources": [
@@ -21,7 +159,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 9,
       "headline": "Makkah Pact will provide 'deterrence for peace'",
       "summary": "AI summary: At a Lahore seminar on the Makkah Pact, Planning Minister Ahsan Iqbal and other current and former officials described the Pakistan-Saudi Arabia-Turkey security arrangement as a deterrence-for-peace framework, while stressing that Pakistan's defence and diplomatic gains must be backed by economic strengthening to remain effective.",
       "sources": [
@@ -40,7 +178,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 10,
       "headline": "Govt eyes petrol deregulation by June next year",
       "summary": "AI summary: The government plans to fully deregulate petrol prices by June 2027, moving toward market-based pricing similar to high-octane fuel, while Ogra will gain authority to adjust diesel prices without cabinet approval and the government will not activate the Petroleum Prices Stabilisation Fund set up in June 2026.",
       "sources": [
@@ -59,7 +197,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 11,
       "headline": "Govt offers talks; JI to continue sit-ins",
       "summary": "AI summary: A government delegation led by Ahsan Iqbal and Rana Sanaullah met Jamaat-e-Islami leadership at Mansoorah to begin talks on withdrawing the petroleum levy, but JI chief Hafiz Naeem ur Rehman said the party's 19-day nationwide sit-ins will continue throughout the negotiations.",
       "sources": [
@@ -78,7 +216,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 12,
       "headline": "A court can't grant relief not explicitly claimed in plaint: SC",
       "summary": "AI summary: The Supreme Court set aside a Lahore High Court ruling that had allowed a banking court to amend a decree to add markup charges, holding that courts cannot grant relief a party did not explicitly claim in its original lawsuit, in a case involving a Rs76.2 million debt dispute between Crescent Spinning Mills and Citibank dating to the 1990s.",
       "sources": [
@@ -97,7 +235,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 13,
       "headline": "Army eliminates 15 terrorists trying to cross Afghan border",
       "summary": "AI summary: ISPR said security forces killed 15 militants linked to the Indian-backed Fitna al-Khawarij group during a 36-hour operation after detecting an infiltration attempt from Afghanistan near North Waziristan on August 31-September 1, and again accused the Afghan Taliban of failing to curb cross-border militancy.",
       "sources": [
@@ -116,7 +254,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 14,
       "headline": "Woman injured in acid attack in Karachi's Upper Gizri, police say",
       "summary": "AI summary: A 35-year-old woman suffered burns to her face, neck and abdomen after an acid attack in Karachi's Upper Gizri area on Thursday; police say the attacker is still unidentified and are reviewing CCTV footage as the Sindh home minister ordered a thorough investigation.",
       "sources": [
@@ -135,7 +273,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 15,
       "headline": "Govt raises petrol price by Rs2.84, HSD by Rs2.28 per litre",
       "summary": "AI summary: The government raised petrol prices by Rs2.84 and high-speed diesel by Rs2.28 per litre effective September 4, taking petrol to Rs349/litre and HSD to Rs374.31/litre, citing volatile international prices linked to the ongoing US-Iran conflict.",
       "sources": [
@@ -154,7 +292,7 @@
       }
     },
     {
-      "id": 9,
+      "id": 16,
       "headline": "Sindh Assembly rejects provincial 'division' amid MQM-P boycott",
       "summary": "AI summary: The Sindh Assembly passed a resolution rejecting any division of the province or new administrative units, citing Article 239(4) of the Constitution, while opposition party MQM-P boycotted the session and called the move a distraction from administrative failures.",
       "sources": [
@@ -173,7 +311,7 @@
       }
     },
     {
-      "id": 10,
+      "id": 17,
       "headline": "Pakistan honours UK kidney stone surgery pioneer Dr Shabi Ahmed with Tamgha-i-Imtiaz",
       "summary": "AI summary: President Asif Ali Zardari conferred Pakistan's Tamgha-i-Imtiaz on UK-based consultant urologist Dr Muhammad Shabi Ahmed for nearly three decades of pioneering minimally invasive kidney stone surgery, charitable healthcare work and medical education contributions.",
       "sources": [
@@ -192,7 +330,7 @@
       }
     },
     {
-      "id": 11,
+      "id": 18,
       "headline": "Loopholes fuel crime wave as illegal SIMs drive banking fraud, NA panel told",
       "summary": "AI summary: A National Assembly committee was told that criminals are exploiting biometric loopholes and illegally obtained SIM cards to commit large-scale banking fraud, with officials citing over 18 million illegal SIMs blocked and hundreds of thousands of stolen data records recovered in recent crackdowns.",
       "sources": [
@@ -211,7 +349,7 @@
       }
     },
     {
-      "id": 12,
+      "id": 19,
       "headline": "Criminal cases to be lodged against those 'responsible' for Pims fire",
       "summary": "AI summary: Pakistani authorities said criminal cases will be filed within two to three days against eight suspended officials, including PIMS' executive director, over the August 26 gynaecology ward fire that killed 14 newborns, after an inquiry found serious fire-safety and evacuation failures despite a similar fire weeks earlier.",
       "sources": [
@@ -230,7 +368,7 @@
       }
     },
     {
-      "id": 13,
+      "id": 20,
       "headline": "Govt, JI agree to form committees to explore relief measures",
       "summary": "AI summary: The government and Jamaat-e-Islami agreed to form joint committees to explore relief measures on fuel, electricity and inflation after talks in Lahore, with formal negotiations set to begin Monday even as JI's nationwide protests over the petroleum levy continue.",
       "sources": [
@@ -249,7 +387,7 @@
       }
     },
     {
-      "id": 14,
+      "id": 21,
       "headline": "Iran attacks US targets despite Trump threats",
       "summary": "AI summary: Iran struck US military bases in Kuwait, the UAE, Bahrain, Jordan and Iraqi Kurdistan with missiles and drones, escalating a conflict that began in February after earlier US strikes killed Iranians and civilians, prompting President Trump to threaten further military action and expanded sanctions.",
       "sources": [
@@ -268,7 +406,7 @@
       }
     },
     {
-      "id": 15,
+      "id": 22,
       "headline": "NDMA issues flood alert for northern areas over next 72 hours",
       "summary": "AI summary: The National Disaster Management Authority warned of heavy rain, flash floods and landslides in Gilgit-Baltistan, Azad Kashmir and Khyber Pakhtunkhwa over the next 72 hours, forecasting rising river levels and urban flooding risk in cities including Peshawar, Nowshera and Rawalpindi, and urged residents to avoid low-lying and riverside areas.",
       "sources": [
@@ -288,7 +426,7 @@
       }
     },
     {
-      "id": 16,
+      "id": 23,
       "headline": "LHC Judge Raheel Kamran resigns citing personal reasons",
       "summary": "AI summary: Lahore High Court Justice Raheel Kamran Sheikh resigned with immediate effect, citing personal reasons and a wish to pursue legal scholarship and comparative judicial research, more than a decade before his scheduled 2036 retirement.",
       "sources": [
@@ -307,7 +445,7 @@
       }
     },
     {
-      "id": 17,
+      "id": 24,
       "headline": "15 terrorists killed as security forces foil infiltration attempt along Pak-Afghan border: ISPR",
       "summary": "AI summary: ISPR said security forces killed 15 alleged militants during a 36-hour operation after foiling an infiltration attempt from Afghanistan near North Waziristan between August 31 and September 1, with the military again accusing the Afghan Taliban of failing to curb cross-border terrorism.",
       "sources": [
