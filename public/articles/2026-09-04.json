@@ -1,8 +1,122 @@
 {
-  "generatedAt": "2026-09-04T00:08:44+05:00",
+  "generatedAt": "2026-09-04T10:09:08+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "2 trapped tunnel workers rescued in Nepal more than a week after catastrophic flash floods",
+      "summary": "AI summary: Two hydropower workers trapped for over a week in a tunnel at Nepal's Trishuli 3A station were rescued alive on September 3 after rescue teams, aided by an Australian tunnelling expert, cleared roughly 50-60 metres of debris and heard responses from inside, amid a disaster that has killed over 1,250 people and left thousands missing.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2027422/2-trapped-tunnel-workers-rescued-in-nepal-more-than-a-week-after-catastrophic-flash-floods" }
+      ],
+      "timestamp": "Sep 4, 9:54 AM",
+      "publishedAt": "2026-09-04T09:54:30+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A foreign disaster-response story with no direct bearing on Pakistan's economy." },
+        "political": { "value": "neutral", "reason": "A foreign rescue operation with no bearing on Pakistan's own governance or institutions." },
+        "social": { "value": "positive", "reason": "Two trapped workers were rescued alive, a positive human outcome amid an ongoing disaster." },
+        "market": { "value": "low", "reason": "No relevance to investors or business decision-making." },
+        "lean": { "value": "balanced", "reason": "A factual rescue account citing officials and an independent expert with no partisan angle." },
+        "confidence": { "value": "high", "reason": "Detailed article with named individuals, specific figures, and on-record official statements." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Makkah Pact will provide 'deterrence for peace'",
+      "summary": "AI summary: At a Lahore seminar on the Makkah Pact, Planning Minister Ahsan Iqbal and other current and former officials described the Pakistan-Saudi Arabia-Turkey security arrangement as a deterrence-for-peace framework, while stressing that Pakistan's defence and diplomatic gains must be backed by economic strengthening to remain effective.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2027335/makkah-pact-will-provide-deterrence-for-peace" }
+      ],
+      "timestamp": "Sep 4, 7:46 AM",
+      "publishedAt": "2026-09-04T07:46:03+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A seminar discussion calling for future economic strengthening, with no concrete policy or immediate economic effect." },
+        "political": { "value": "positive", "reason": "Reflects a multilateral security arrangement aimed at regional stability and deterrence, framed constructively by officials across administrations." },
+        "social": { "value": "neutral", "reason": "No immediate or direct effect on public wellbeing or daily life." },
+        "market": { "value": "low", "reason": "A geopolitical/diplomatic seminar with no immediate market-moving content." },
+        "lean": { "value": "balanced", "reason": "Features current government officials alongside former officials from different eras without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single-source coverage of seminar speeches and opinions rather than hard, independently verifiable facts." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Govt eyes petrol deregulation by June next year",
+      "summary": "AI summary: The government plans to fully deregulate petrol prices by June 2027, moving toward market-based pricing similar to high-octane fuel, while Ogra will gain authority to adjust diesel prices without cabinet approval and the government will not activate the Petroleum Prices Stabilisation Fund set up in June 2026.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2027363/govt-eyes-petrol-deregulation-by-june-next-year" }
+      ],
+      "timestamp": "Sep 4, 7:30 AM",
+      "publishedAt": "2026-09-04T07:30:15+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A future policy plan with no immediate price or market change, though it will eventually shift pricing risk onto consumers and retailers." },
+        "political": { "value": "neutral", "reason": "A routine technocratic policy announcement with no institutional or governance stability implications." },
+        "social": { "value": "neutral", "reason": "No immediate change to consumers; future price volatility risk is not yet in effect." },
+        "market": { "value": "high", "reason": "Directly relevant to oil marketing companies, energy investors, and business fuel-cost planning." },
+        "lean": { "value": "balanced", "reason": "Reports the petroleum committee's technical rationale factually, without partisan framing." },
+        "confidence": { "value": "high", "reason": "Based on official committee statements with specific figures and dates." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Govt offers talks; JI to continue sit-ins",
+      "summary": "AI summary: A government delegation led by Ahsan Iqbal and Rana Sanaullah met Jamaat-e-Islami leadership at Mansoorah to begin talks on withdrawing the petroleum levy, but JI chief Hafiz Naeem ur Rehman said the party's 19-day nationwide sit-ins will continue throughout the negotiations.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40437862/govt-offers-talks-ji-to-continue-sit-ins" }
+      ],
+      "timestamp": "Sep 4, 5:29 AM",
+      "publishedAt": "2026-09-04T05:29:53+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Talks have begun but no concrete economic policy change has yet been made." },
+        "political": { "value": "neutral", "reason": "Government-opposition dialogue is a constructive step, but continuing nationwide sit-ins mean the underlying standoff remains unresolved." },
+        "social": { "value": "neutral", "reason": "No immediate change to public wellbeing; relief remains under negotiation, not implemented." },
+        "market": { "value": "medium", "reason": "A potential petroleum levy rollback would matter to energy-sector investors and businesses." },
+        "lean": { "value": "balanced", "reason": "Quotes both the government delegation and JI's Hafiz Naeem ur Rehman without favoring either side." },
+        "confidence": { "value": "medium", "reason": "Single-source account of an ongoing negotiation, not yet corroborated by other outlets." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "A court can't grant relief not explicitly claimed in plaint: SC",
+      "summary": "AI summary: The Supreme Court set aside a Lahore High Court ruling that had allowed a banking court to amend a decree to add markup charges, holding that courts cannot grant relief a party did not explicitly claim in its original lawsuit, in a case involving a Rs76.2 million debt dispute between Crescent Spinning Mills and Citibank dating to the 1990s.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40437851/a-court-cant-grant-relief-not-explicitly-claimed-in-plaint-sc" }
+      ],
+      "timestamp": "Sep 4, 5:29 AM",
+      "publishedAt": "2026-09-04T05:29:53+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A narrow legal precedent in a single banking dispute with no broad economic effect." },
+        "political": { "value": "neutral", "reason": "A routine judicial ruling with no bearing on governance stability." },
+        "social": { "value": "neutral", "reason": "A technical legal ruling with no direct effect on public wellbeing or daily life." },
+        "market": { "value": "low", "reason": "Relevant mainly to banking-law practitioners rather than broader markets or investors." },
+        "lean": { "value": "balanced", "reason": "Straightforward legal reporting of a court judgment with no partisan angle." },
+        "confidence": { "value": "high", "reason": "Based on the court's own judgment with specific case facts, figures, and dates." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Army eliminates 15 terrorists trying to cross Afghan border",
+      "summary": "AI summary: ISPR said security forces killed 15 militants linked to the Indian-backed Fitna al-Khawarij group during a 36-hour operation after detecting an infiltration attempt from Afghanistan near North Waziristan on August 31-September 1, and again accused the Afghan Taliban of failing to curb cross-border militancy.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40437854/army-eliminates-15-terrorists-trying-to-cross-afghan-border" }
+      ],
+      "timestamp": "Sep 4, 5:29 AM",
+      "publishedAt": "2026-09-04T05:29:53+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct bearing on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "A routine counter-terrorism operation reported through official channels, with no indication of domestic governance instability." },
+        "social": { "value": "negative", "reason": "Continued cross-border militant activity reflects ongoing insecurity in border regions, despite the operation being framed as a security success." },
+        "market": { "value": "low", "reason": "Limited direct relevance to investors or broader business decisions." },
+        "lean": { "value": "balanced", "reason": "Attributes casualty and operational claims to ISPR rather than asserting them as independently verified fact." },
+        "confidence": { "value": "medium", "reason": "Claims of militant casualties and operational details are attributed solely to ISPR/military sources, without independent verification." }
+      }
+    },
+    {
+      "id": 7,
       "headline": "Woman injured in acid attack in Karachi's Upper Gizri, police say",
       "summary": "AI summary: A 35-year-old woman suffered burns to her face, neck and abdomen after an acid attack in Karachi's Upper Gizri area on Thursday; police say the attacker is still unidentified and are reviewing CCTV footage as the Sindh home minister ordered a thorough investigation.",
       "sources": [
@@ -21,7 +135,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 8,
       "headline": "Govt raises petrol price by Rs2.84, HSD by Rs2.28 per litre",
       "summary": "AI summary: The government raised petrol prices by Rs2.84 and high-speed diesel by Rs2.28 per litre effective September 4, taking petrol to Rs349/litre and HSD to Rs374.31/litre, citing volatile international prices linked to the ongoing US-Iran conflict.",
       "sources": [
@@ -40,7 +154,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 9,
       "headline": "Sindh Assembly rejects provincial 'division' amid MQM-P boycott",
       "summary": "AI summary: The Sindh Assembly passed a resolution rejecting any division of the province or new administrative units, citing Article 239(4) of the Constitution, while opposition party MQM-P boycotted the session and called the move a distraction from administrative failures.",
       "sources": [
@@ -59,7 +173,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 10,
       "headline": "Pakistan honours UK kidney stone surgery pioneer Dr Shabi Ahmed with Tamgha-i-Imtiaz",
       "summary": "AI summary: President Asif Ali Zardari conferred Pakistan's Tamgha-i-Imtiaz on UK-based consultant urologist Dr Muhammad Shabi Ahmed for nearly three decades of pioneering minimally invasive kidney stone surgery, charitable healthcare work and medical education contributions.",
       "sources": [
@@ -78,7 +192,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 11,
       "headline": "Loopholes fuel crime wave as illegal SIMs drive banking fraud, NA panel told",
       "summary": "AI summary: A National Assembly committee was told that criminals are exploiting biometric loopholes and illegally obtained SIM cards to commit large-scale banking fraud, with officials citing over 18 million illegal SIMs blocked and hundreds of thousands of stolen data records recovered in recent crackdowns.",
       "sources": [
@@ -97,7 +211,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 12,
       "headline": "Criminal cases to be lodged against those 'responsible' for Pims fire",
       "summary": "AI summary: Pakistani authorities said criminal cases will be filed within two to three days against eight suspended officials, including PIMS' executive director, over the August 26 gynaecology ward fire that killed 14 newborns, after an inquiry found serious fire-safety and evacuation failures despite a similar fire weeks earlier.",
       "sources": [
@@ -116,7 +230,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 13,
       "headline": "Govt, JI agree to form committees to explore relief measures",
       "summary": "AI summary: The government and Jamaat-e-Islami agreed to form joint committees to explore relief measures on fuel, electricity and inflation after talks in Lahore, with formal negotiations set to begin Monday even as JI's nationwide protests over the petroleum levy continue.",
       "sources": [
@@ -135,7 +249,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 14,
       "headline": "Iran attacks US targets despite Trump threats",
       "summary": "AI summary: Iran struck US military bases in Kuwait, the UAE, Bahrain, Jordan and Iraqi Kurdistan with missiles and drones, escalating a conflict that began in February after earlier US strikes killed Iranians and civilians, prompting President Trump to threaten further military action and expanded sanctions.",
       "sources": [
@@ -154,7 +268,7 @@
       }
     },
     {
-      "id": 9,
+      "id": 15,
       "headline": "NDMA issues flood alert for northern areas over next 72 hours",
       "summary": "AI summary: The National Disaster Management Authority warned of heavy rain, flash floods and landslides in Gilgit-Baltistan, Azad Kashmir and Khyber Pakhtunkhwa over the next 72 hours, forecasting rising river levels and urban flooding risk in cities including Peshawar, Nowshera and Rawalpindi, and urged residents to avoid low-lying and riverside areas.",
       "sources": [
@@ -174,7 +288,7 @@
       }
     },
     {
-      "id": 10,
+      "id": 16,
       "headline": "LHC Judge Raheel Kamran resigns citing personal reasons",
       "summary": "AI summary: Lahore High Court Justice Raheel Kamran Sheikh resigned with immediate effect, citing personal reasons and a wish to pursue legal scholarship and comparative judicial research, more than a decade before his scheduled 2036 retirement.",
       "sources": [
@@ -193,7 +307,7 @@
       }
     },
     {
-      "id": 11,
+      "id": 17,
       "headline": "15 terrorists killed as security forces foil infiltration attempt along Pak-Afghan border: ISPR",
       "summary": "AI summary: ISPR said security forces killed 15 alleged militants during a 36-hour operation after foiling an infiltration attempt from Afghanistan near North Waziristan between August 31 and September 1, with the military again accusing the Afghan Taliban of failing to curb cross-border terrorism.",
       "sources": [
