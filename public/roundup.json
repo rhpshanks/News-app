@@ -1,50 +1,50 @@
 {
-  "generatedAt": "2026-08-29T00:50:48+05:00",
-  "periodStart": "2026-08-22",
-  "periodEnd": "2026-08-28",
-  "periodLabel": "Aug 22 to Aug 28, 2026",
-  "totalArticles": 75,
+  "generatedAt": "2026-09-05T14:30:00+05:00",
+  "periodStart": "2026-08-28",
+  "periodEnd": "2026-09-04",
+  "periodLabel": "Aug 28 to Sep 4, 2026",
+  "totalArticles": 99,
   "stats": {
-    "economic": { "positive": 10, "neutral": 57, "negative": 8 },
-    "political": { "positive": 11, "neutral": 40, "negative": 24 },
-    "social": { "positive": 12, "neutral": 33, "negative": 30 }
+    "economic": { "positive": 9, "neutral": 78, "negative": 12 },
+    "political": { "positive": 17, "neutral": 60, "negative": 22 },
+    "social": { "positive": 12, "neutral": 44, "negative": 43 }
   },
   "summary": [
-    "Social sentiment was the most negative-skewed category this week (40% negative, versus 32% for political and just 11% for economic), and the driver is easy to name: the PIMS nursery fire on August 26, which killed 14 infants in the hospital's gynaecology ward in Islamabad. The story dominated coverage from the day of the fire through the end of the week, with follow-ups on a National Assembly health panel's finding that a 'technical fault' may be to blame, the disclosure that the ward had fire extinguishers but no water sprinklers, Health Minister Mustafa Kamal's pledge that 'no one will be spared' in the investigation, Rs5 million in compensation announced for each victim's family, and PIMS beginning to refer gynae patients to other hospitals while repairs proceed. Coverage consistently logged this as both a social tragedy and a political one, tying the deaths to disputed accounts of the cause, allegations of locked or sealed emergency exits, and a suspended health secretary.",
-    "Political sentiment was also heavily negative this week, but not from one story alone. Running in parallel with the PIMS fire was the continuing legal fight over Imran Khan's medical custody: PTI and his sister Uzma Khan filed and then escalated contempt petitions accusing the government of defying a Supreme Court order to move him to a private hospital, while the government resubmitted its own review petition arguing the court order exceeded its jurisdiction. That dispute surfaced in coverage on four separate days this week, a sustained marker of friction between the executive and judiciary rather than a single flare-up. Economic sentiment, by contrast, stayed mostly neutral (76% of articles), with only isolated negative notes such as a small petrol and diesel price increase and Jamaat-i-Islami's protests against the petroleum levy, which the party said had already forced a Rs32-per-litre cut in diesel prices.",
-    "Despite the politically charged week, lean stayed overwhelmingly balanced (72 of 75 articles, 96%). The small pro-opposition tilt that did appear (3 articles) came entirely from single-sourced reports on opposition press conferences and rallies, JI's criticism of civic conditions in Karachi and its petroleum-levy protests, and Jemima Goldsmith's appeal on Imran Khan's behalf, where no government rebuttal was quoted in the same piece, rather than from any broader editorial pattern. Confidence in AI-generated ratings also dipped noticeably in the back half of the week: low-confidence ratings were essentially absent from August 22-25 (zero each day) but rose to 2, 4, and 4 articles respectively on August 26-28, coinciding both with the fast-moving, still-unsettled facts of the PIMS fire and with a run of Business Recorder pages returning 403 errors that forced reliance on shorter RSS excerpts rather than full articles.",
-    "Beyond the PIMS fire and the Imran Khan case, the week also carried a notable security incident in Azad Jammu and Kashmir, where a banned group fatally attacked Rangers personnel conducting a road-clearance operation, and a more positive counterpoint in the same region: PML-N's Syed Iftikhar Ali Gillani was sworn in as AJK's new prime minister after a contested nomination was resolved through a completed assembly vote, a rare instance this week of a political flashpoint concluding without escalation. Overall, 24 of the week's 75 articles (32%) were flagged for review, concentrated disproportionately in the fire's aftermath, underscoring how much of the week's editorial judgment calls clustered around one unfolding public-safety crisis."
+    "Across the 99 articles published between August 28 and September 4, social-category sentiment ran far more negative than either economic or political: 43% of social readings came back negative, against 22% for political and just 12% for economic. That gap wasn't diffuse across many small stories; it was driven overwhelmingly by one story that threaded through nearly every day of the week: the August 26 nursery-ward fire at Islamabad's PIMS hospital that killed 14 infants. Coverage moved from compensation announcements to an inquiry finding that treatment and facilities fell 'below global standards,' to Prime Minister Shehbaz Sharif suspending eight officials and ordering criminal proceedings once the interim inquiry cited locked exits, absent emergency protocols and warnings from an earlier fire that had gone unaddressed. Because the story combined a public-wellbeing tragedy with an exposed institutional failure, it weighed on both the social and political tallies for most of the week rather than resolving quickly.",
+    "A second thread built more gradually: the Karachi DHA 'scuffle' case, which began as CCTV footage showing uniformed police restraining the victim of a residential assault rather than her attacker. By week's end, an inquiry had found the original complaint fabricated, tied the attacker to a senior police officer's family, and recommended disciplinary action against six officers for mishandling the case, including destroying CCTV evidence. Layered on top of that were Balochistan security operations that killed dozens of alleged militants across several days but also cost security personnel and civilian casualties, plus continuing coverage of Nepal's flood disaster, whose death toll climbed past 1,250 over the week. Together these pushed social sentiment well into negative territory even as economic coverage stayed comparatively calm.",
+    "Economic sentiment held up better this week, helped by a $3 billion Saudi agri-export target, a $10 billion ADB-backed push on the ML-1 railway upgrade, and Rs60 billion in newly cleared development projects. The clearest economic drag came from abroad: Iran's retaliatory strikes on US bases in Jordan and the UAE escalated the ongoing US-Iran conflict and sent oil prices sharply higher, a shock that matters directly for an import-dependent economy like Pakistan's. At home, the government raised petrol and diesel prices on September 4 even while its delegation was in active talks with Jamaat-e-Islami over the same petroleum levy that had already triggered a nationwide shutter-down strike days earlier. A slower-moving economic risk also surfaced this week: legal experts warned that India's continued suspension of the Indus Waters Treaty threatens the livelihoods of tens of millions of farmers in Punjab and Sindh.",
+    "Despite covering genuinely contested material, including recurring disputes over Imran Khan's health and custody, a planning-minister proposal to consider splitting Pakistan into up to 15 new provinces, and the Jamaat-e-Islami's fuel protests, the week's lean readings stayed almost entirely balanced: 97 of 99 articles were tagged balanced, with only two flagged pro-government, and both of those were single-source reports built entirely on unnamed military or security-force statements rather than visible editorializing toward a domestic political side. Confidence was notably strained on August 31 and September 1, when repeated access errors on Business Recorder's site forced several stories, including early coverage of the Iran-US escalation and the Indus Waters Treaty dispute, to be assessed from short RSS excerpts rather than full articles. That is a sourcing limitation worth naming, even though it does not appear to have introduced any one-sided framing into the coverage itself."
   ],
   "notableStories": [
     {
-      "headline": "14 infants killed in fire at Pims' gynae ward in Islamabad",
-      "context": "The week's defining story: a fire in a public hospital's neonatal ward killed 14 newborns and triggered a week-long chain of parliamentary probes, a suspended health secretary, and compensation announcements that drove much of the week's negative social and political sentiment.",
-      "sourceName": "Dawn News",
-      "sourceUrl": "https://www.dawn.com/news/2025385/14-infants-killed-in-fire-at-pims-gynae-ward-in-islamabad"
-    },
-    {
-      "headline": "Imran Khan's sister moves SC for early hearing on contempt plea over hospital transfer",
-      "context": "One of several filings this week in a recurring legal dispute over whether the government complied with a Supreme Court order on Imran Khan's medical care, illustrating sustained friction between the executive and judiciary.",
-      "sourceName": "Dawn News",
-      "sourceUrl": "https://www.dawn.com/news/2025502/imrans-hospital-visit-ex-pms-sister-again-moves-sc-for-early-hearing-of-contempt-plea-against-govt"
-    },
-    {
-      "headline": "Rangers personnel martyred, another wounded as armed men open fire in AJK",
-      "context": "A banned group's attack on paramilitary forces conducting a security operation in Azad Jammu and Kashmir, a reminder that the region saw both violent instability and, days later, a peaceful political transition.",
-      "sourceName": "Geo News",
-      "sourceUrl": "https://www.geo.tv/latest/679325-rangers-personnel-martyred-another-wounded-after-armed-men-open-fire-in-ajk"
-    },
-    {
-      "headline": "JI chief warns govt of escalating protest against petroleum levy",
-      "context": "Jamaat-i-Islami's threat to escalate nationwide protests over fuel taxes, tying the week's cost-of-living pressure to organized political opposition and illustrating the source of this week's modest pro-opposition lean tilt.",
+      "headline": "PIMS fire: PM Shehbaz orders suspension, criminal action against 8 officials as inquiry panel submits interim report",
+      "context": "An interim inquiry into the nursery-ward fire that killed 14 infants at Islamabad's PIMS hospital found locked exits and ignored warnings from an earlier fire, prompting the prime minister to suspend eight officials and order criminal proceedings.",
       "sourceName": "Business Recorder",
-      "sourceUrl": "https://www.brecorder.com/news/40436207/ji-chief-warns-govt-of-escalating-protest-against-petroleum-levy"
+      "sourceUrl": "https://www.brecorder.com/news/40436989/pims-fire-executive-director-imran-sikandar-among-eight-suspended"
     },
     {
-      "headline": "PML-N's Syed Iftikhar Ali Gillani sworn in as new AJK prime minister",
-      "context": "A contested nomination that briefly caused intra-party friction within PML-N was resolved through a completed assembly vote, a comparatively positive institutional outcome in a week otherwise dominated by negative political news.",
+      "headline": "Iran targets US military in Jordan, UAE after American attack on Larak Island in latest flare-up",
+      "context": "Iran's retaliatory strikes on US bases in Jordan and the UAE escalated the six-month US-Iran conflict and sent oil prices sharply higher, showing how a distant war is now feeding directly into Pakistan's energy costs.",
       "sourceName": "Dawn News",
-      "sourceUrl": "https://www.dawn.com/news/2025757/pml-ns-syed-iftikhar-ali-gillani-sworn-in-as-new-ajk-prime-minister"
+      "sourceUrl": "https://www.dawn.com/news/2026311/iran-targets-us-military-in-jordan-uae-after-american-attack-on-larak-island-in-latest-flare-up"
+    },
+    {
+      "headline": "Scuffle in Karachi's DHA: Inquiry report says allegations in FIR 'not substantiated'",
+      "context": "A week-long investigation into a viral video of police protecting the wrong party in a residential assault ended with a finding that the original complaint was fabricated and that officers connected to a senior officer's family had destroyed evidence.",
+      "sourceName": "Dawn News",
+      "sourceUrl": "https://www.dawn.com/news/2027445/scuffle-in-karachis-dha-inquiry-report-says-allegations-in-fir-not-substantiated"
+    },
+    {
+      "headline": "Govt raises petrol price by Rs2.84, HSD by Rs2.28 per litre",
+      "context": "The government raised fuel prices even as it was in active talks with Jamaat-e-Islami over the same petroleum levy that had triggered nationwide sit-ins and a shutter-down strike days earlier.",
+      "sourceName": "Dawn News",
+      "sourceUrl": "https://www.dawn.com/news/2027257/govt-raises-petrol-price-by-rs284-hsd-by-rs228-per-litre"
+    },
+    {
+      "headline": "India's move to hold IWT in abeyance breaches international law: experts",
+      "context": "Legal experts warned that India's continued suspension of the Indus Waters Treaty, reinforced by closing a dam's gates on the Chenab, threatens the livelihoods of tens of millions of farmers in Punjab and Sindh.",
+      "sourceName": "Business Recorder",
+      "sourceUrl": "https://www.brecorder.com/news/40437180/indias-move-to-hold-iwt-in-abeyance-breaches-international-law-experts"
     }
   ]
 }
