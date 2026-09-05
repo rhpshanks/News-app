@@ -1,0 +1,179 @@
+{
+  "generatedAt": "2026-09-05T17:34:47+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Eight Pakistan Bar Council members reject proposed changes to council rules",
+      "summary": "AI summary: Eight elected Pakistan Bar Council members have rejected a proposed rule change that would make all council proceedings confidential, arguing it was pushed through via circular resolution without a full meeting and violates lawyers' rights to transparency and free speech.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2027692/eight-pakistan-bar-council-members-reject-proposed-changes-to-council-rules" }
+      ],
+      "timestamp": "Sep 5, 5:00 PM",
+      "publishedAt": "2026-09-05T17:00:11+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A legal-body governance dispute with no direct bearing on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "Concerns internal governance of a professional legal body rather than state institutions, with limited effect on broader institutional stability." },
+        "social": { "value": "neutral", "reason": "Affects transparency norms within the legal profession but has little immediate effect on public safety or daily life." },
+        "market": { "value": "low", "reason": "A bar council internal governance dispute holds little relevance for investors or business decision-making." },
+        "lean": { "value": "balanced", "reason": "The article presents the dissenting members' detailed objections alongside the underlying rule text, without an evident one-sided framing." },
+        "confidence": { "value": "medium", "reason": "Based on a single detailed source covering a bar council governance dispute with clearly quoted objections." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Naqvi says new administrative units to be formed only with people's consent",
+      "summary": "AI summary: Interior Minister Mohsin Naqvi said any new administrative units carved from existing provinces would only be created with public consent and parliamentary debate, not imposed by political parties, while also renewing his push to make Islamabad a separate province.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/680774-naqvi-doubles-down-on-system-reset-urges-publics-say-on-new-administrative-units" },
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2027688/naqvi-says-new-administrative-units-to-be-formed-only-with-peoples-consent" }
+      ],
+      "timestamp": "Sep 5, 3:20 PM",
+      "publishedAt": "2026-09-05T15:20:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Proposed administrative restructuring has no immediate, direct economic effect; any impact depends on details not yet decided." },
+        "political": { "value": "neutral", "reason": "The minister emphasizes consensus, parliamentary process and public consultation, which could either defuse or later reignite the underlying coalition dispute over provincial restructuring." },
+        "social": { "value": "neutral", "reason": "Proposed changes to administrative boundaries could eventually affect service delivery in sectors like education and water access, but no concrete decision has been made yet." },
+        "market": { "value": "low", "reason": "A speculative, undecided administrative reform proposal carries little immediate weight for investors or business planning." },
+        "lean": { "value": "balanced", "reason": "Both sources report the minister's framing and also note the coalition friction and past rejection by provincial leaders, without favoring the government's position uncritically." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two independent outlets with consistent quotes and details, though the underlying policy remains undecided and politically contested." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Chinese national rescued from tunnel in Nepal 10 days after catastrophic flooding",
+      "summary": "AI summary: A Chinese national was pulled alive from a flooded hydropower tunnel in Nepal's Rasuwa district ten days after the catastrophic late-August glacial flood, as rescue teams continue searching for thousands still missing across Nepal and China.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2027685/chinese-national-rescued-from-tunnel-in-nepal-10-days-after-catastrophic-flooding" }
+      ],
+      "timestamp": "Sep 5, 2:31 PM",
+      "publishedAt": "2026-09-05T14:31:03+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Concerns disaster recovery in Nepal with no direct bearing on Pakistan's economy." },
+        "political": { "value": "neutral", "reason": "A foreign disaster rescue story with no bearing on Pakistani governance or institutions." },
+        "social": { "value": "positive", "reason": "A successful rescue after ten days trapped represents a positive, life-saving outcome amid an otherwise devastating disaster." },
+        "market": { "value": "low", "reason": "Limited relevance for investors or business decisions; concerns humanitarian rescue efforts abroad." },
+        "lean": { "value": "balanced", "reason": "Straightforward factual disaster reporting with no political framing relevant to Pakistan." },
+        "confidence": { "value": "medium", "reason": "Based on a single detailed source, though the facts (casualty figures, rescue details) are specific and internally consistent." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Police charge sheet says building management at fault for Gul Plaza inferno",
+      "summary": "AI summary: Police charge sheets over January's Gul Plaza fire in Karachi, which killed more than 70 people, place primary blame on the mall's building management and traders' association for safety lapses such as locked exits and missing fire equipment, while clearing rescue and municipal agencies of negligence.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2027682/police-charge-sheet-says-building-management-at-fault-for-gul-plaza-inferno" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/680757-gul-plaza-inferno-police-charge-sheet-holds-malls-association-primarily-responsible" }
+      ],
+      "timestamp": "Sep 5, 1:33 PM",
+      "publishedAt": "2026-09-05T13:33:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "The fire destroyed over 1,100 shops, representing a significant loss of business inventory and livelihoods for traders." },
+        "political": { "value": "neutral", "reason": "The charge sheet blames private building management rather than government agencies, and clears municipal and rescue bodies of negligence." },
+        "social": { "value": "negative", "reason": "A fire that killed over 70 people and revealed systemic fire-safety failures represents a serious public safety concern." },
+        "market": { "value": "low", "reason": "A localized retail-market disaster with limited relevance to broader investor or market decisions." },
+        "lean": { "value": "balanced", "reason": "Both sources report the same official findings without favoring government or opposition framing." },
+        "confidence": { "value": "high", "reason": "Corroborated by two independent outlets with consistent, specific details drawn from the same official charge sheet." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Passport delivery counters to remain open on Saturdays nationwide",
+      "summary": "AI summary: Pakistan's passport authority announced that passport delivery counters nationwide will open on Saturdays for the next two months, letting citizens collect ready passports on weekends without missing work.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/680743-passport-delivery-counters-to-remain-open-on-saturdays-nationwide" }
+      ],
+      "timestamp": "Sep 5, 11:47 AM",
+      "publishedAt": "2026-09-05T11:47:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A minor administrative convenience change with negligible broader economic effect." },
+        "political": { "value": "positive", "reason": "Reflects a government service-delivery improvement that could modestly bolster public perception of institutional responsiveness." },
+        "social": { "value": "positive", "reason": "Extended weekend hours make it easier for working citizens to collect passports without taking leave." },
+        "market": { "value": "low", "reason": "An administrative service change with no relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "A straightforward administrative announcement without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on a single source reporting an official government announcement." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "PM for strong, effective UN in promoting peace, security",
+      "summary": "AI summary: Prime Minister Shehbaz Sharif met UN Secretary-General candidate Olara Otunnu and Uganda's special envoy Ruhakana Rugunda, reaffirming Pakistan's commitment to a stronger, more balanced United Nations focused on peace, development and human rights.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40438038/pm-for-strong-effective-un-in-promoting-peace-security" }
+      ],
+      "timestamp": "Sep 5, 4:59 AM",
+      "publishedAt": "2026-09-05T04:59:30+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic courtesy meeting with no direct economic implications." },
+        "political": { "value": "neutral", "reason": "Routine diplomatic engagement reaffirming existing foreign-policy positions, without domestic institutional impact." },
+        "social": { "value": "neutral", "reason": "No direct bearing on public wellbeing or daily life domestically." },
+        "market": { "value": "low", "reason": "A diplomatic meeting with negligible relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Reports the government's stated position on multilateralism without contested claims or an opposition angle." },
+        "confidence": { "value": "medium", "reason": "Based on a single official source describing a routine diplomatic meeting." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Dar expresses solidarity with govt, people of Nepal",
+      "summary": "AI summary: Deputy PM and Foreign Minister Ishaq Dar visited Nepal's embassy in Islamabad to sign a condolence book and express Pakistan's solidarity following the deadly floods and landslides, reaffirming Pakistan's readiness to help with recovery.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40438028/dar-expresses-solidarity-with-govt-people-of-nepal" }
+      ],
+      "timestamp": "Sep 5, 4:59 AM",
+      "publishedAt": "2026-09-05T04:59:29+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic condolence gesture with no economic implications." },
+        "political": { "value": "neutral", "reason": "A routine diplomatic courtesy visit unrelated to domestic institutional stability." },
+        "social": { "value": "neutral", "reason": "Expresses sympathy for a foreign disaster but has no direct effect on domestic public wellbeing." },
+        "market": { "value": "low", "reason": "No relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "A straightforward diplomatic courtesy report with no partisan angle." },
+        "confidence": { "value": "medium", "reason": "Based on a single official source describing a routine diplomatic gesture." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Maj-Gen Faisal Naseer made NACTA coordinator",
+      "summary": "AI summary: The government appointed serving ISI counter-intelligence chief Maj Gen Faisal Naseer as NACTA's national coordinator for three years, a departure from the tradition of civilian-service leadership that raises questions about civil-military balance in counter-terrorism policy.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40438001/maj-gen-faisal-naseer-made-nacta-coordinator" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/680752-maj-gen-faisal-naseers-appointment-puts-nacta-back-in-focus" }
+      ],
+      "timestamp": "Sep 5, 4:59 AM",
+      "publishedAt": "2026-09-05T04:59:29+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A counter-terrorism leadership appointment with no direct economic effect." },
+        "political": { "value": "negative", "reason": "Placing a serving military intelligence officer atop a nominally civilian counter-terrorism authority departs from precedent and raises independently-flagged concerns about civil-military institutional balance." },
+        "social": { "value": "neutral", "reason": "A counter-terrorism leadership change with no immediate direct effect on daily public life." },
+        "market": { "value": "low", "reason": "An internal security appointment with no relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Both sources report the appointment neutrally, quoting institutional context and open questions without favoring government or opposition." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two independent outlets with consistent background details on the appointee and the institutional context." }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "Dar, Envoy Olara discuss evolving global landscape",
+      "summary": "AI summary: Deputy PM Ishaq Dar met UN Secretary-General candidate Olara Otunnu and Uganda's special envoy Ruhakana Rugunda in Islamabad, discussing multilateralism and stressing implementation of UN Security Council resolutions on Palestine and Kashmir.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40438029/dar-envoy-olara-discuss-evolving-global-landscape" }
+      ],
+      "timestamp": "Sep 5, 4:59 AM",
+      "publishedAt": "2026-09-05T04:59:29+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic meeting with no direct economic implications." },
+        "political": { "value": "neutral", "reason": "Routine diplomatic engagement reaffirming existing foreign-policy positions." },
+        "social": { "value": "neutral", "reason": "No direct bearing on domestic public wellbeing." },
+        "market": { "value": "low", "reason": "Negligible relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Reports the government's stated diplomatic position without contested claims." },
+        "confidence": { "value": "medium", "reason": "Based on a single official source describing a routine diplomatic meeting." }
+      }
+    }
+  ]
+}
