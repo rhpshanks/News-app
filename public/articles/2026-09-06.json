@@ -1,0 +1,197 @@
+{
+  "generatedAt": "2026-09-06T03:38:28+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Acting President pays tribute to armed forces on Defence Day",
+      "summary": "AI summary: Acting President Yousuf Raza Gilani marked Defence and Martyrs Day by honouring the armed forces, martyrs and veterans, recalling the 1965 war, and noting that institutions like the Fauji Foundation continue supporting bereaved military families through education and medical assistance.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40438143/acting-president-pays-tribute-to-armed-forces-on-defence-day" }
+      ],
+      "timestamp": "Sep 6, 2:30 AM",
+      "publishedAt": "2026-09-06T02:30:08+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A ceremonial commemorative statement with no direct bearing on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "A routine commemorative message from the acting head of state on Defence Day, with no bearing on institutional stability or policy." },
+        "social": { "value": "positive", "reason": "Honours sacrifice and highlights ongoing welfare support for bereaved military families, contributing positively to public sentiment." },
+        "market": { "value": "low", "reason": "A ceremonial statement with little relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "A standard commemorative statement from the acting president, reported without partisan framing." },
+        "confidence": { "value": "low", "reason": "Based only on a short RSS description excerpt rather than the full article." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Aleem Khan welcomes debate on new provinces",
+      "summary": "AI summary: Istehkam Pakistan Party president Aleem Khan welcomed the political debate around creating new provinces, arguing any new administrative units should be based on administrative convenience rather than linguistic or cultural lines, and called on all parties to hold substantive dialogue building on reorganisation proposals already backed by the Punjab and Khyber Pakhtunkhwa assemblies.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40438144/aleem-khan-welcomes-debate-on-new-provinces" }
+      ],
+      "timestamp": "Sep 6, 2:30 AM",
+      "publishedAt": "2026-09-06T02:30:08+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A political commentary on administrative reform with no direct near-term economic effect." },
+        "political": { "value": "neutral", "reason": "Expresses openness to a constitutional reform debate rather than escalating institutional conflict." },
+        "social": { "value": "neutral", "reason": "A political opinion on administrative boundaries with no immediate effect on public wellbeing or daily life." },
+        "market": { "value": "low", "reason": "A political statement on provincial reorganisation with little relevance to markets or investors." },
+        "lean": { "value": "balanced", "reason": "Reports one party leader's view without a clear indication of the party's current government/opposition standing, so treated as balanced rather than assuming a side." },
+        "confidence": { "value": "low", "reason": "Based only on a short RSS description excerpt, and uncertainty over the speaker's party's current government/opposition alignment." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Defence Day: Call for renewed pledge to national security",
+      "summary": "AI summary: Pakistan Ulema Council chairman Hafiz Tahir Mehmood Ashrafi urged religious and community leaders to reaffirm commitment to national defence on Defence Day, calling for solidarity with the armed forces against terrorism and destabilisation and requesting special prayers in mosques, churches and other places of worship.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40438145/defence-day-call-for-renewed-pledge-to-national-security" }
+      ],
+      "timestamp": "Sep 6, 2:30 AM",
+      "publishedAt": "2026-09-06T02:30:08+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A commemorative call for unity with no bearing on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "A religious leader's call for solidarity, not a governance or institutional matter." },
+        "social": { "value": "positive", "reason": "Promotes interfaith solidarity and unity messaging around national defence, aimed at social cohesion." },
+        "market": { "value": "low", "reason": "A commemorative religious/civic statement with no market relevance." },
+        "lean": { "value": "balanced", "reason": "A unifying commemorative call not directed at any party or government position." },
+        "confidence": { "value": "low", "reason": "Based only on a short RSS description excerpt rather than the full article." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Chairman HSATI for awareness of environmental laws",
+      "summary": "AI summary: The Hyderabad Site Association of Trade & Industry held an awareness session with the Sindh Environmental Protection Agency to educate industrialists on pollution-control responsibilities and waste-reduction compliance, with organisers saying industrial development and a clean environment can coexist through cooperation.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40438146/chairman-hsati-for-awareness-of-environmental-laws" }
+      ],
+      "timestamp": "Sep 6, 2:30 AM",
+      "publishedAt": "2026-09-06T02:30:08+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "An industry-association awareness session about compliance, with no direct near-term effect on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "A local industry-association and environmental-agency event, unrelated to governance or institutional stability." },
+        "social": { "value": "positive", "reason": "Promotes environmental protection awareness and pollution-reduction practices, beneficial for public health and daily life." },
+        "market": { "value": "low", "reason": "A local industry association event with little relevance to broader investors or markets." },
+        "lean": { "value": "balanced", "reason": "A civic/industry awareness event with no political framing." },
+        "confidence": { "value": "low", "reason": "Based only on a short RSS description excerpt rather than the full article." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "'Never be mistaken for weakness': Forces reaffirm Pakistan's defence readiness",
+      "summary": "AI summary: On the 61st Defence and Martyrs' Day, ISPR said the armed forces, led by CDF Field Marshal Asim Munir, warned that any aggression against Pakistan would draw a swift and decisive response and that the country's peaceful posture must not be mistaken for weakness, while paying tribute to the nation's martyrs.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/680832-any-aggression-against-pakistan-will-draw-swift-decisive-response-ispr" }
+      ],
+      "timestamp": "Sep 6, 1:08 AM",
+      "publishedAt": "2026-09-06T01:08:01+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A military deterrence statement with no bearing on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "A routine military commemorative/deterrence statement on Defence Day, unrelated to domestic governance." },
+        "social": { "value": "neutral", "reason": "A patriotic commemorative message with general effect on public sentiment but no immediate safety impact." },
+        "market": { "value": "low", "reason": "A defence posture statement with little direct relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Attributes the warning to ISPR as its stated source without additional editorial framing." },
+        "confidence": { "value": "medium", "reason": "A single-source ISPR statement, clearly attributed to that source." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "India upend Pakistan for seven-wicket win in Women's Asia Cup",
+      "summary": "AI summary: India bowled Pakistan out for a record-low 55 runs, then chased the target down for a seven-wicket win at the Women's Asia Cup in Dubai, sending India through to the semi-finals as group toppers while Pakistan must now beat Hong Kong to advance.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2027720/india-upend-pakistan-for-seven-wicket-win-in-womens-asia-cup" }
+      ],
+      "timestamp": "Sep 5, 11:45 PM",
+      "publishedAt": "2026-09-05T23:45:36+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A sports result with no bearing on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "A cricket match result unrelated to governance or institutions." },
+        "social": { "value": "neutral", "reason": "A routine sports result with only minor effect on public sentiment beyond fans." },
+        "market": { "value": "low", "reason": "A sports result with negligible relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "A factual sports report with no political framing." },
+        "confidence": { "value": "high", "reason": "A straightforward factual match report with objective scores and figures." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Naqvi says new administrative units to be formed only with people's consent",
+      "summary": "AI summary: Interior Minister Mohsin Naqvi told a National Policy Dialogue event in Lahore that any new administrative units, part of the ongoing new-provinces debate, would only be created with public consent and parliamentary consensus, not on the preference of a single individual or the government alone.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2027688/naqvi-says-new-administrative-units-to-be-formed-only-with-peoples-consent" }
+      ],
+      "timestamp": "Sep 5, 9:40 PM",
+      "publishedAt": "2026-09-05T21:40:37+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "An administrative-reform statement with no direct near-term economic effect." },
+        "political": { "value": "neutral", "reason": "A stated commitment to consensus and consultation on a sensitive constitutional question, without a concrete decision yet reached, so limited immediate effect on institutional stability." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily life or public safety at this stage of the debate." },
+        "market": { "value": "low", "reason": "An administrative-reform statement with no direct market relevance." },
+        "lean": { "value": "balanced", "reason": "Reports the minister's own words on due process without one-sided framing." },
+        "confidence": { "value": "medium", "reason": "A single detailed source, clearly quoting the minister's remarks at a named event." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "CDF Munir reaffirms Balochistan's peace, prosperity central to state efforts: ISPR",
+      "summary": "AI summary: Chief of Defence Forces Field Marshal Asim Munir visited Quetta Garrison amid recent militant attacks in Pishin and Chagai, reaffirming that peace and prosperity for Balochistan remain central to state efforts and pledging that a secure environment would continue enabling economic development, a day after security forces reported killing 48 militants in counter-terrorism operations across the province.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2027723/cdf-munir-reaffirms-balochistans-peace-prosperity-central-to-state-efforts-ispr" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/680816-peace-prosperity-of-balochistan-people-remain-states-top-priority-field-marshal" }
+      ],
+      "timestamp": "Sep 5, 9:39 PM",
+      "publishedAt": "2026-09-05T21:39:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A rhetorical commitment to enabling economic development without a concrete new economic action." },
+        "political": { "value": "neutral", "reason": "A routine military leadership statement on provincial stability, without a direct effect on institutional governance." },
+        "social": { "value": "negative", "reason": "The visit occurs amid active terrorist attacks in Pishin and Chagai and a large-scale operation killing 48 militants, reflecting ongoing insecurity and violence in the province despite the reassurance." },
+        "market": { "value": "low", "reason": "A security-reassurance statement with limited direct relevance to markets or investors." },
+        "lean": { "value": "balanced", "reason": "A routine ISPR statement reported consistently by both outlets without contested framing." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two independent outlets with matching quotes and details." }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "Punjab faces greater threat from other provinces than 'neighbouring countries': CM Maryam",
+      "summary": "AI summary: Punjab Chief Minister Maryam Nawaz told an AI technology event in Lahore that the province faces a greater security threat from neighbouring provinces than from neighbouring countries, citing fortified inter-provincial checkposts and a claimed 70% drop in crime, while PTI criticised the remarks as politicising terrorism from a provincial rather than national lens.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2027700/punjab-faces-greater-threat-from-other-provinces-than-neighbouring-countries-cm-maryam" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/680810-punjab-faces-greater-threat-from-neighbouring-provinces-than-countries-says-cm-maryam" }
+      ],
+      "timestamp": "Sep 5, 7:53 PM",
+      "publishedAt": "2026-09-05T19:53:39+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A security/political statement with only indirect economic relevance via investment-climate claims, not a direct economic action." },
+        "political": { "value": "negative", "reason": "Provincial blame-shifting over the source of terrorism threats, with opposition PTI condemning the remarks as politicisation, reflects friction in federal-provincial and inter-party relations rather than unified governance." },
+        "social": { "value": "neutral", "reason": "Discusses an ongoing terrorism threat and self-reported security improvements without independent verification, a mixed effect on perceived public safety." },
+        "market": { "value": "low", "reason": "Primarily political rhetoric with limited direct market relevance." },
+        "lean": { "value": "balanced", "reason": "The report includes both the Chief Minister's claims and PTI's rebuttal, presenting both government and opposition perspectives." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two independent outlets with matching quotes and details." }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "New grading policy implemented in Sindh, AJK, federal and other boards, IBCC told",
+      "summary": "AI summary: The Inter Boards Coordination Commission raised the passing threshold to 40% across boards in Sindh, FBISE, AJK and others to shift focus from rote learning to conceptual understanding, and after a two-day Murree meeting also approved scholarships for top performers, ID numbers on certificates, and equivalence recognition for 12 more religious schools.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/680805-new-grading-policy-implemented-in-sindh-ajk-federal-and-other-boards-ibcc-told" }
+      ],
+      "timestamp": "Sep 5, 7:34 PM",
+      "publishedAt": "2026-09-05T19:34:40+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "An education-policy change with no direct near-term effect on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "Routine inter-board administrative/education-policy coordination, with no bearing on institutional stability." },
+        "social": { "value": "positive", "reason": "Raising academic standards and adding scholarships and verification measures should improve educational quality and outcomes for students." },
+        "market": { "value": "low", "reason": "An education-sector administrative change with little relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "A factual report on an administrative education-policy decision, without partisan framing." },
+        "confidence": { "value": "medium", "reason": "A single detailed source describing a named commission meeting and its specific decisions." }
+      }
+    }
+  ]
+}
