@@ -1,8 +1,125 @@
 {
-  "generatedAt": "2026-09-06T03:38:28+05:00",
+  "generatedAt": "2026-09-06T15:22:00+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "Scuffle in Karachi's DHA: Fresh case registered after inquiry report finds first FIR unsubstantiated",
+      "summary": "AI summary: An internal inquiry into an August 20 altercation at a DHA Phase 6 apartment building in Karachi found the original FIR against the assaulted woman unsubstantiated, uncovered police misconduct including a destroyed CCTV camera and unjustified arrests, and recommended action against four constables, after which the victim filed a fresh FIR on September 5 against her neighbours and the officers involved.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2027901/scuffle-in-karachis-dha-fresh-case-registered-after-inquiry-report-finds-first-fir-unsubstantiated" }
+      ],
+      "timestamp": "Sep 6, 3:07 PM",
+      "publishedAt": "2026-09-06T15:07:26+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A local legal/policing matter with no bearing on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "A local law-enforcement misconduct case, not a matter of national institutional or governance stability." },
+        "social": { "value": "negative", "reason": "The inquiry found police misconduct including a destroyed CCTV camera and unjustified arrests, and the underlying neighbour dispute and violence remain unresolved, both negative for public trust and safety." },
+        "market": { "value": "low", "reason": "A local legal dispute with no relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "A factual report on the inquiry's findings and the new FIR, without partisan framing." },
+        "confidence": { "value": "medium", "reason": "A single detailed source naming specific officials, dates, and inquiry findings." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Dar, Saudi counterpart discuss 'follow-up' on understanding reached in inaugural meeting of Makkah Defence Alliance: FO",
+      "summary": "AI summary: Deputy PM and Foreign Minister Ishaq Dar spoke by phone with Saudi Foreign Minister Prince Faisal bin Farhan to follow up on understandings reached at the inaugural Makkah Defence Alliance meeting in Istanbul, with both sides agreeing to stay in close contact on implementing the Pakistan-Saudi-Turkey mutual-defence pact.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2027899/dar-saudi-counterpart-discuss-follow-up-on-understanding-reached-in-inaugural-meeting-of-makkah-defence-alliance-fo" }
+      ],
+      "timestamp": "Sep 6, 2:53 PM",
+      "publishedAt": "2026-09-06T14:53:17+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic coordination call with no direct near-term economic effect." },
+        "political": { "value": "neutral", "reason": "Routine follow-up diplomacy on an existing alliance, with no bearing on domestic institutional stability." },
+        "social": { "value": "neutral", "reason": "A diplomatic matter with no direct effect on daily life or public safety." },
+        "market": { "value": "low", "reason": "A diplomatic coordination call with little direct relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "A factual diplomatic report with no partisan framing." },
+        "confidence": { "value": "medium", "reason": "A single detailed source naming specific officials and the substance of the call." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "PTI leader Hammad Azhar 'arrested' from Multan",
+      "summary": "AI summary: PTI leader and former federal minister Hammad Azhar was arrested in Multan and moved to Lahore over multiple May 9, 2023 riot-related cases, having reportedly been a proclaimed offender in those cases since 2023, according to unnamed police sources; no police or PTI statement was available at the time of reporting.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/680873-pti-leader-hammad-azhar-arrested-over-may-9-cases-police-sources" }
+      ],
+      "timestamp": "Sep 6, 1:54 PM",
+      "publishedAt": "2026-09-06T13:54:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A political arrest with no direct bearing on jobs, prices, or business activity." },
+        "political": { "value": "negative", "reason": "The arrest of a prominent opposition leader over long-standing cases, reported before any police or party statement, reflects continuing friction between the state and the opposition." },
+        "social": { "value": "neutral", "reason": "A political/legal matter with limited direct effect on public wellbeing or daily life." },
+        "market": { "value": "low", "reason": "A political arrest with little relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "The report is sourced only from unnamed police sources with no PTI response yet available, read as an early factual report rather than deliberate one-sided framing." },
+        "confidence": { "value": "low", "reason": "Based only on unnamed police sources with no official confirmation or corroborating outlet." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Powerful quarters back restructuring Pakistan's existing administrative setup: sources",
+      "summary": "AI summary: Citing unnamed sources, a report says senior figures including Planning Minister Ahsan Iqbal have floated restructuring Pakistan's four provinces into 12 to 15 new administrative units, or alternatively empowering district governments, arguing the existing structure is too centralised for a population of 260 million, though no formal proposal has been placed before the cabinet and Sindh has voiced political opposition.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/680866-powerful-quarters-back-restructuring-pakistanpowerful-quarters-back-restructuring-pakistans-existing-administrative-setup-sources-existing-administrative-setup-sources" }
+      ],
+      "timestamp": "Sep 6, 1:42 PM",
+      "publishedAt": "2026-09-06T13:42:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "An exploratory governance-restructuring proposal with no immediate economic effect." },
+        "political": { "value": "neutral", "reason": "An informal, still-undecided internal debate over administrative reorganisation, with no formal cabinet proposal yet, consistent with other recent reporting on this same debate." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily life at this exploratory, undecided stage." },
+        "market": { "value": "low", "reason": "A speculative governance-structure proposal with little relevance to investors or markets at this stage." },
+        "lean": { "value": "balanced", "reason": "The report cites multiple named officials and notes Sindh's opposition, presenting more than one side of the debate." },
+        "confidence": { "value": "low", "reason": "Based on unnamed sources with no formal decision or cabinet proposal confirmed." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Security forces killed 21 terrorists in multiple KP operations: ISPR",
+      "summary": "AI summary: ISPR reported that security forces killed 21 alleged India-backed militants in counter-terrorism operations across Khyber Pakhtunkhwa, including North Waziristan, Kohat and Dera Ismail Khan, between September 3 and 5, part of the ongoing Azm-e-Istehkam campaign against banned militant group Fitna al-Khawarij, with President Zardari commending the operations.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2027892/security-forces-kill-over-20-terrorists-during-multiple-engagements-in-kp-ispr" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/680843-security-forces-kill-21-india-backed-terrorists-in-multiple-kp-operations-ispr" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40438162/security-forces-killed-21-terrorists-in-multiple-kp-operations-ispr" }
+      ],
+      "timestamp": "Sep 6, 9:21 AM",
+      "publishedAt": "2026-09-06T09:21:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A counter-terrorism operation with no direct near-term effect on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "A routine ISPR operational report and presidential commendation, without direct bearing on domestic institutional stability." },
+        "social": { "value": "negative", "reason": "Despite being framed as a security success, the report reflects ongoing armed conflict and casualties in Khyber Pakhtunkhwa, indicating continued instability and insecurity in the affected areas." },
+        "market": { "value": "low", "reason": "A security operation with limited direct relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Claims are attributed to ISPR as their stated source and reported consistently across three independent outlets." },
+        "confidence": { "value": "medium", "reason": "Corroborated by three independent outlets with matching casualty figures, though the underlying claim traces to a single official military source." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "PM, president highlight Pakistan's growing role in regional security as nation observes Defence Day",
+      "summary": "AI summary: Marking Pakistan's 61st Defence and Martyrs' Day, Prime Minister Shehbaz Sharif and President Asif Ali Zardari issued separate messages framing the country as a 'net security stabiliser' in the region, linking last year's Operation Bunyanum Marsoos to the 1965 war against India, accusing India of backing terrorism against Pakistan, and calling for a Kashmir settlement under UN Security Council resolutions.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2027870/pm-president-highlight-pakistans-growing-role-in-regional-security-as-nation-observes-defence-day" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/680838-from-1965-to-marka-e-haq-pm-and-president-hail-armed-forces-sacrifice-and-resolve" }
+      ],
+      "timestamp": "Sep 6, 3:19 AM",
+      "publishedAt": "2026-09-06T03:19:07+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Commemorative political messaging referencing regional stability, with no concrete economic action." },
+        "political": { "value": "neutral", "reason": "Routine annual Defence Day messages from the PM and President, with no direct bearing on domestic institutional stability." },
+        "social": { "value": "positive", "reason": "Unifying national commemorative messaging emphasising sacrifice and unity, similar to other Defence Day coverage." },
+        "market": { "value": "low", "reason": "Ceremonial political statements with little direct relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Reports the two leaders' official statements without a contested counter-view, consistent with typical commemorative coverage." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two independent outlets with matching quotes and details." }
+      }
+    },
+    {
+      "id": 7,
       "headline": "Acting President pays tribute to armed forces on Defence Day",
       "summary": "AI summary: Acting President Yousuf Raza Gilani marked Defence and Martyrs Day by honouring the armed forces, martyrs and veterans, recalling the 1965 war, and noting that institutions like the Fauji Foundation continue supporting bereaved military families through education and medical assistance.",
       "sources": [
@@ -21,7 +138,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 8,
       "headline": "Aleem Khan welcomes debate on new provinces",
       "summary": "AI summary: Istehkam Pakistan Party president Aleem Khan welcomed the political debate around creating new provinces, arguing any new administrative units should be based on administrative convenience rather than linguistic or cultural lines, and called on all parties to hold substantive dialogue building on reorganisation proposals already backed by the Punjab and Khyber Pakhtunkhwa assemblies.",
       "sources": [
@@ -40,7 +157,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 9,
       "headline": "Defence Day: Call for renewed pledge to national security",
       "summary": "AI summary: Pakistan Ulema Council chairman Hafiz Tahir Mehmood Ashrafi urged religious and community leaders to reaffirm commitment to national defence on Defence Day, calling for solidarity with the armed forces against terrorism and destabilisation and requesting special prayers in mosques, churches and other places of worship.",
       "sources": [
@@ -59,7 +176,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 10,
       "headline": "Chairman HSATI for awareness of environmental laws",
       "summary": "AI summary: The Hyderabad Site Association of Trade & Industry held an awareness session with the Sindh Environmental Protection Agency to educate industrialists on pollution-control responsibilities and waste-reduction compliance, with organisers saying industrial development and a clean environment can coexist through cooperation.",
       "sources": [
@@ -78,7 +195,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 11,
       "headline": "'Never be mistaken for weakness': Forces reaffirm Pakistan's defence readiness",
       "summary": "AI summary: On the 61st Defence and Martyrs' Day, ISPR said the armed forces, led by CDF Field Marshal Asim Munir, warned that any aggression against Pakistan would draw a swift and decisive response and that the country's peaceful posture must not be mistaken for weakness, while paying tribute to the nation's martyrs.",
       "sources": [
@@ -97,7 +214,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 12,
       "headline": "India upend Pakistan for seven-wicket win in Women's Asia Cup",
       "summary": "AI summary: India bowled Pakistan out for a record-low 55 runs, then chased the target down for a seven-wicket win at the Women's Asia Cup in Dubai, sending India through to the semi-finals as group toppers while Pakistan must now beat Hong Kong to advance.",
       "sources": [
@@ -116,7 +233,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 13,
       "headline": "Naqvi says new administrative units to be formed only with people's consent",
       "summary": "AI summary: Interior Minister Mohsin Naqvi told a National Policy Dialogue event in Lahore that any new administrative units, part of the ongoing new-provinces debate, would only be created with public consent and parliamentary consensus, not on the preference of a single individual or the government alone.",
       "sources": [
@@ -135,7 +252,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 14,
       "headline": "CDF Munir reaffirms Balochistan's peace, prosperity central to state efforts: ISPR",
       "summary": "AI summary: Chief of Defence Forces Field Marshal Asim Munir visited Quetta Garrison amid recent militant attacks in Pishin and Chagai, reaffirming that peace and prosperity for Balochistan remain central to state efforts and pledging that a secure environment would continue enabling economic development, a day after security forces reported killing 48 militants in counter-terrorism operations across the province.",
       "sources": [
@@ -155,7 +272,7 @@
       }
     },
     {
-      "id": 9,
+      "id": 15,
       "headline": "Punjab faces greater threat from other provinces than 'neighbouring countries': CM Maryam",
       "summary": "AI summary: Punjab Chief Minister Maryam Nawaz told an AI technology event in Lahore that the province faces a greater security threat from neighbouring provinces than from neighbouring countries, citing fortified inter-provincial checkposts and a claimed 70% drop in crime, while PTI criticised the remarks as politicising terrorism from a provincial rather than national lens.",
       "sources": [
@@ -175,7 +292,7 @@
       }
     },
     {
-      "id": 10,
+      "id": 16,
       "headline": "New grading policy implemented in Sindh, AJK, federal and other boards, IBCC told",
       "summary": "AI summary: The Inter Boards Coordination Commission raised the passing threshold to 40% across boards in Sindh, FBISE, AJK and others to shift focus from rote learning to conceptual understanding, and after a two-day Murree meeting also approved scholarships for top performers, ID numbers on certificates, and equivalence recognition for 12 more religious schools.",
       "sources": [

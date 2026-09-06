@@ -1441,34 +1441,34 @@
   },
   {
     "date": "2026-09-06",
-    "articleCount": 10,
+    "articleCount": 16,
     "counts": {
       "economic": {
         "positive": 0,
-        "neutral": 10,
+        "neutral": 16,
         "negative": 0
       },
       "political": {
         "positive": 0,
-        "neutral": 9,
-        "negative": 1
+        "neutral": 14,
+        "negative": 2
       },
       "social": {
-        "positive": 4,
-        "neutral": 5,
-        "negative": 1
+        "positive": 5,
+        "neutral": 8,
+        "negative": 3
       }
     },
-    "flaggedForReview": 1,
+    "flaggedForReview": 2,
     "lean": {
-      "balanced": 10,
+      "balanced": 16,
       "pro-government": 0,
       "pro-opposition": 0
     },
     "confidence": {
       "high": 1,
-      "medium": 5,
-      "low": 4
+      "medium": 9,
+      "low": 6
     }
   }
 ]
