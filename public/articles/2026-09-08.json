@@ -1,0 +1,197 @@
+{
+  "generatedAt": "2026-09-08T00:13:58+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Pakistan through to Women's Asia Cup semi-finals as Nashra leads Hong Kong rout",
+      "summary": "AI summary: Pakistan beat Hong Kong by 72 runs in the Women's Asia Cup, with Nashra Sandhu taking 6 wickets for 7 runs after Shawaal Zulfiqaar's 47 runs helped set a target of 143, sending Pakistan into a semi-final against Sri Lanka on Friday.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2028178/pakistan-through-to-womens-asia-cup-semi-finals-as-nashra-leads-hong-kong-rout" }
+      ],
+      "timestamp": "Sep 7, 11:30 PM",
+      "publishedAt": "2026-09-07T23:30:11+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A cricket result has no bearing on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "A sporting outcome has no connection to institutional or governance stability." },
+        "social": { "value": "positive", "reason": "A national team's advancement to the semi-finals is a public morale boost." },
+        "market": { "value": "low", "reason": "Not relevant to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Straightforward sports reporting with no political framing." },
+        "confidence": { "value": "medium", "reason": "Single-source report of a match result with specific, verifiable statistics." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Govt jacks up petrol price by Rs12.90, HSD by Rs3.72",
+      "summary": "AI summary: The government raised petrol prices by Rs12.90 per litre and high-speed diesel by Rs3.72 per litre effective September 8, pushing petrol to Rs358.77 and diesel to Rs381.77 per litre, with the Petroleum Division citing continued volatility in international oil markets.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2028176/govt-jacks-up-petrol-price-by-rs1290-hsd-by-rs372" }
+      ],
+      "timestamp": "Sep 7, 11:09 PM",
+      "publishedAt": "2026-09-07T23:09:35+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "A fuel price hike raises input costs for transport and business, and directly increases consumer prices." },
+        "political": { "value": "neutral", "reason": "This is a routine, formula-driven price adjustment rather than a governance or institutional development." },
+        "social": { "value": "negative", "reason": "Higher fuel prices raise the cost of living for the public, especially amid ongoing protests over fuel levies." },
+        "market": { "value": "medium", "reason": "Fuel price moves affect transport and business costs and are closely watched by markets." },
+        "lean": { "value": "balanced", "reason": "A factual report of an official price announcement with no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single-source report of a straightforward official announcement with specific figures." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Dar steps up diplomatic engagement, holds phone talks with Kuwaiti FM",
+      "summary": "AI summary: Deputy PM and Foreign Minister Ishaq Dar spoke by phone with Kuwait's Foreign Minister Sheikh Jarrah Jaber Al-Ahmad Al-Sabah about bilateral relations and regional developments, with both sides agreeing to stay in touch and meet during the upcoming UN General Assembly session.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40438333/dar-kuwaiti-fm-discuss-bilateral-ties-regional-developments" }
+      ],
+      "timestamp": "Sep 7, 10:04 PM",
+      "publishedAt": "2026-09-07T22:04:21+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic phone call has no immediate, direct economic effect." },
+        "political": { "value": "positive", "reason": "Routine diplomatic engagement with a Gulf state reflects positively on Pakistan's international standing." },
+        "social": { "value": "neutral", "reason": "No direct bearing on Pakistanis' daily life or safety." },
+        "market": { "value": "low", "reason": "Limited direct relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Routine, factual diplomatic reporting with no partisan angle." },
+        "confidence": { "value": "medium", "reason": "Working from the RSS description rather than the full article, covering a routine official readout." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Pakistan climber Asma Mushtaq's body airlifted to Skardu",
+      "summary": "AI summary: The body of Pakistani mountaineer Dr. Asma Mushtaq, who died on August 20 from a high-altitude medical emergency while descending Spantik Mountain, was airlifted from base camp to Skardu after weather delays, with officials saying it would next be flown to Lahore.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/681053-pakistan-climber-asma-mushtaqs-body-airlifted-to-skardu" }
+      ],
+      "timestamp": "Sep 7, 9:40 PM",
+      "publishedAt": "2026-09-07T21:40:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A mountaineering death and body recovery has no economic effect." },
+        "political": { "value": "neutral", "reason": "Not connected to governance or institutional stability." },
+        "social": { "value": "negative", "reason": "The report centers on the death of a mountaineer, a loss to the public even as the recovery operation offers some closure." },
+        "market": { "value": "low", "reason": "Not relevant to markets or business decisions." },
+        "lean": { "value": "balanced", "reason": "Factual reporting on a recovery operation, quoting an official statement." },
+        "confidence": { "value": "medium", "reason": "Single-source report with specific, attributed details from an information minister." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Senate panel passes bill proposing death penalty for perpetrators of acid attacks",
+      "summary": "AI summary: The Senate's Standing Committee on Interior approved a bill that would allow the death penalty, life imprisonment, or a minimum 14-year sentence plus a Rs2 million fine for acid attack perpetrators, part of a wider package of criminal-justice reforms passed despite objections from the state minister for interior.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2028160/senate-panel-passes-bill-proposing-death-penalty-for-perpetrators-of-acid-attacks" }
+      ],
+      "timestamp": "Sep 7, 9:26 PM",
+      "publishedAt": "2026-09-07T21:26:22+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A criminal-law amendment has no direct economic effect." },
+        "political": { "value": "positive", "reason": "A Senate committee advancing a criminal-justice reform bill reflects normal legislative institutions functioning." },
+        "social": { "value": "positive", "reason": "Tougher penalties for acid attacks strengthen protections for public safety and wellbeing." },
+        "market": { "value": "low", "reason": "Not relevant to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "The report notes objections from the state minister for interior alongside the committee's approval, rather than one-sided framing." },
+        "confidence": { "value": "medium", "reason": "Single-source report of specific committee proceedings with named details." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "SCO summit: ECC approves Rs6.6bn grant for purchase of 30 bullet-proof vehicles",
+      "summary": "AI summary: Pakistan's Economic Coordination Committee approved a Rs6.6 billion grant to buy 30 bullet-proof vehicles for transporting foreign leaders at the 2027 Shanghai Cooperation Organisation summit Islamabad will host, directing officials to further assess any additional requirements.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40438330/sco-summit-ecc-approves-rs66bn-grant-for-purchase-of-30-bullet-proof-vehicles" }
+      ],
+      "timestamp": "Sep 7, 9:19 PM",
+      "publishedAt": "2026-09-07T21:19:15+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A one-off state procurement for summit security has limited broader effect on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "Routine budgetary approval for hosting an international summit, not a stability-affecting development." },
+        "social": { "value": "neutral", "reason": "No direct bearing on the public's daily life." },
+        "market": { "value": "low", "reason": "A government procurement grant of this scale has minimal relevance to broader markets." },
+        "lean": { "value": "balanced", "reason": "Factual reporting of a committee decision with no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Working from the RSS description rather than the full article, covering a specific official decision." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "JI submits six proposals as first round of talks with govt concludes",
+      "summary": "AI summary: Jamaat-e-Islami submitted six proposals to the government aimed at abolishing the Rs80-per-litre petroleum levy after the first round of talks concluded, with JI leader Liaquat Baloch saying the levy had already exceeded its revenue target and that the party's protest campaign would continue alongside negotiations; the government asked for three days to review the proposals before a second round on Thursday.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2028177/ji-submits-six-proposals-as-first-round-of-talks-with-govt-concludes" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/681047-fuel-levy-ji-submits-six-proposals-to-govt-says-protest-will-continue-alongside-talks" }
+      ],
+      "timestamp": "Sep 7, 9:10 PM",
+      "publishedAt": "2026-09-07T21:10:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "The proposals are still at a negotiation stage with no fiscal action taken yet." },
+        "political": { "value": "positive", "reason": "The government and a protest movement engaging in structured dialogue, with a second round already scheduled, reflects institutional conflict being managed through negotiation." },
+        "social": { "value": "neutral", "reason": "Protests are set to continue alongside talks, with no reported escalation or resolution yet." },
+        "market": { "value": "medium", "reason": "The petroleum levy is a significant fiscal policy matter relevant to fuel costs and public finances." },
+        "lean": { "value": "balanced", "reason": "The report presents both JI's demands and the government's response, without favoring either side." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two outlets with consistent details on the talks and next steps." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Pakistan rejects India's 'baseless' assertions regarding status of disputed Jammu, Kashmir",
+      "summary": "AI summary: Pakistan's Foreign Office rejected India's statements on Jammu and Kashmir as baseless, saying UN maps confirm the territory's disputed status and calling on the international community to address alleged human rights violations and support a UN-supervised plebiscite for Kashmiri self-determination.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40438296/pakistan-rejects-indias-baseless-assertions-regarding-status-of-disputed-jammu-kashmir" }
+      ],
+      "timestamp": "Sep 7, 6:23 PM",
+      "publishedAt": "2026-09-07T18:23:12+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic statement on Kashmir's status has no direct economic effect." },
+        "political": { "value": "neutral", "reason": "A restatement of Pakistan's long-standing official position, not a development affecting institutional stability." },
+        "social": { "value": "neutral", "reason": "Diplomatic messaging with no direct effect on Pakistanis' daily life or safety." },
+        "market": { "value": "low", "reason": "Diplomatic rhetoric on Kashmir is unlikely to move markets or factor into business decisions." },
+        "lean": { "value": "balanced", "reason": "Reports Pakistan's official Foreign Office position without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Working from the RSS description rather than the full article, for a single-source official statement." }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "'Products of Form-47': PPP leader takes aim at federal ministers over new provinces",
+      "summary": "AI summary: Sindh Information Minister Sharjeel Memon accused federal PML-N ministers including Mohsin Naqvi, Ahsan Iqbal and Mustafa Kamal of being 'products of Form-47' and lacking genuine public mandates for pushing the new-provinces proposal, as PPP and PTI urge caution while MQM-P backs the idea.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/681012-products-of-form-47-ppp-leader-takes-aim-at-federal-ministers-over-new-provinces" }
+      ],
+      "timestamp": "Sep 7, 5:24 PM",
+      "publishedAt": "2026-09-07T17:24:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A political statement about provincial restructuring has no direct economic effect." },
+        "political": { "value": "negative", "reason": "A coalition partner publicly questioning allied ministers' electoral legitimacy signals friction within the ruling coalition, which can strain governance cohesion." },
+        "social": { "value": "neutral", "reason": "The statement itself does not directly change public wellbeing or daily life." },
+        "market": { "value": "low", "reason": "Not materially relevant to investors or markets." },
+        "lean": { "value": "balanced", "reason": "This is intra-coalition sniping between PPP and PML-N rather than a clean government-versus-opposition split, and it is unclear which framing would count as favoring 'the government' here, so a neutral read is used." },
+        "confidence": { "value": "medium", "reason": "Single-source report of an on-record statement, with the broader provinces debate context included." }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "Massive blaze continues to rage at Karachi's Landhi factory, section collapses",
+      "summary": "AI summary: A major fire at a used-clothing factory in Karachi's Landhi Export Processing Zone burned for more than nine hours, spreading to an adjacent building and causing part of the structure to collapse; all workers were evacuated safely with three treated for smoke inhalation, and firefighters using 16 fire tenders had brought roughly 70% of the blaze under control by the evening.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40438308/third-degree-fire-breaks-out-at-factory-in-landhi-export-processing-zone" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/681054-massive-blaze-continues-to-rage-at-karachis-landhi-factory-section-collapses" }
+      ],
+      "timestamp": "Sep 7, 5:03 PM",
+      "publishedAt": "2026-09-07T17:03:39+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "A prolonged fire that collapsed part of a factory and spread to a neighbouring building disrupts production and represents a direct loss for businesses in an export zone." },
+        "political": { "value": "neutral", "reason": "A local industrial accident has no bearing on government or institutional stability." },
+        "social": { "value": "negative", "reason": "A nine-hour fire with smoke-inhalation injuries and a building collapse points to a real, prolonged safety risk for workers and nearby facilities." },
+        "market": { "value": "low", "reason": "A localized factory fire is unlikely to move markets, though it affects businesses in one export zone." },
+        "lean": { "value": "balanced", "reason": "Straightforward factual reporting sourced from rescue and fire officials, with no political framing." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two outlets reporting consistent details on the fire's scale and response." }
+      }
+    }
+  ]
+}
