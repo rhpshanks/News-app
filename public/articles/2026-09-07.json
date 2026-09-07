@@ -1,0 +1,215 @@
+{
+  "generatedAt": "2026-09-07T11:37:48+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Pakistan faces uphill GSP+ battle",
+      "summary": "AI summary: Pakistan risks losing its EU GSP+ trade preferences as the current scheme expires by year end, with the EU ambassador warning continuation is not guaranteed unless Islamabad meets stricter compliance on human rights and judicial independence, putting roughly €7.1 billion of annual eligible exports at stake.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2028003/pakistan-faces-uphill-gsp-battle" }
+      ],
+      "timestamp": "Sep 7, 11:08 AM",
+      "publishedAt": "2026-09-07T11:08:31+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Potential loss of GSP+ status threatens duty-free access for roughly €7.1bn in annual exports, particularly textiles, risking jobs and business activity." },
+        "political": { "value": "neutral", "reason": "Article discusses EU trade-compliance concerns tied to governance criteria but reports no new domestic political action or institutional shift." },
+        "social": { "value": "neutral", "reason": "Story concerns trade policy, not an immediate direct effect on public daily life." },
+        "market": { "value": "high", "reason": "Directly relevant to exporters, the textile sector, and investors given large trade-preference exposure." },
+        "lean": { "value": "balanced", "reason": "Reports the EU's compliance concerns and Pakistan's export exposure without favoring government or opposition framing." },
+        "confidence": { "value": "medium", "reason": "Based on the full article with a quoted EU ambassador statement, a single-source EU perspective." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "US state of New Mexico becomes latest target of Trump's name-changing spree",
+      "summary": "AI summary: US President Donald Trump proposed renaming New Mexico to 'New America,' an idea New Mexico's governor firmly rejected, continuing a recent pattern of renaming geographic landmarks such as the Gulf of Mexico and Lake Ontario.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2028093/us-state-of-new-mexico-becomes-latest-target-of-trumps-name-changing-spree" }
+      ],
+      "timestamp": "Sep 7, 10:17 AM",
+      "publishedAt": "2026-09-07T10:17:10+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "US domestic political news with no direct bearing on Pakistan's economy." },
+        "political": { "value": "neutral", "reason": "Concerns US domestic governance, not Pakistani institutional or governance stability." },
+        "social": { "value": "neutral", "reason": "No effect on Pakistani public wellbeing or daily life." },
+        "market": { "value": "low", "reason": "Limited relevance to Pakistani investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Reports both Trump's proposal and the governor's rejection without favoring a side." },
+        "confidence": { "value": "medium", "reason": "Based on the full article text, though it notes the idea originated as an internet hoax, adding some uncertainty." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Pakistan rejects India's 'baseless' claims on status of occupied Kashmir",
+      "summary": "AI summary: Pakistan's Foreign Office rejected India's claims over the status of occupied Jammu and Kashmir following a dispute over UN map projections, saying India's 'unilateral actions and continued illegal occupation' cannot change the territory's internationally recognised disputed status, and called for resolution through a UN-supervised plebiscite.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2028090/pakistan-rejects-indias-baseless-claims-on-status-of-occupied-kashmir" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/680951-pakistan-dismisses-indias-baseless-assertions-on-disputed-jammu-and-kashmir-status" }
+      ],
+      "timestamp": "Sep 7, 9:05 AM",
+      "publishedAt": "2026-09-07T09:05:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Diplomatic rhetoric on the Kashmir dispute; no direct near-term economic effect." },
+        "political": { "value": "neutral", "reason": "Routine reaffirmation of Pakistan's longstanding Kashmir position; no shift affecting domestic institutional stability." },
+        "social": { "value": "neutral", "reason": "No direct impact on daily life of the public in Pakistan." },
+        "market": { "value": "low", "reason": "Standard diplomatic statement with limited market relevance." },
+        "lean": { "value": "balanced", "reason": "Both outlets report the Foreign Office's official position without additional editorializing or one-sided framing." },
+        "confidence": { "value": "high", "reason": "Corroborated by both Dawn and Geo News with matching quoted statements from the Foreign Office spokesperson." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "President Zardari shortens London visit amid growing debate over new provinces",
+      "summary": "AI summary: President Asif Ali Zardari is cutting short his London trip and will return to Pakistan on September 8, as political tension grows over Planning Minister Ahsan Iqbal's proposal to split Pakistan into 12-15 provinces, a plan the PPP has firmly opposed for Sindh.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/680954-president-zardari-shortens-london-visit-amid-political-debate-over-new-provinces" }
+      ],
+      "timestamp": "Sep 7, 8:29 AM",
+      "publishedAt": "2026-09-07T08:29:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Story is about political maneuvering, not economic policy or activity." },
+        "political": { "value": "negative", "reason": "Signals friction within the ruling coalition over a major constitutional proposal, with the PPP threatening resistance, raising governance uncertainty." },
+        "social": { "value": "neutral", "reason": "No immediate direct effect on public daily life, though the underlying provinces debate could matter longer-term." },
+        "market": { "value": "medium", "reason": "Coalition tension over constitutional restructuring carries some relevance to investors watching political stability." },
+        "lean": { "value": "balanced", "reason": "Reports both the government's provinces proposal and the PPP's opposition without favoring either side's framing." },
+        "confidence": { "value": "medium", "reason": "Based on the full article from a single outlet; details of PPP's internal position are attributed to sources." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "President's London tour sets tongues wagging",
+      "summary": "AI summary: President Zardari's extended London stay, overlapping with Interior Minister Mohsin Naqvi's visit, fueled speculation that he used the trip to coordinate PPP opposition to the government's new-provinces plan, including the Sindh Assembly's resolution rejecting the reorganisation, with PPP sources hinting the party could withdraw support if PML-N pursues the constitutional changes.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2028006/presidents-london-tour-sets-tongues-wagging" }
+      ],
+      "timestamp": "Sep 7, 7:57 AM",
+      "publishedAt": "2026-09-07T07:57:07+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Concerns political maneuvering, not economic activity." },
+        "political": { "value": "negative", "reason": "Highlights potential coalition rupture and the PPP's threat to withdraw support, indicating governance instability risk." },
+        "social": { "value": "neutral", "reason": "No direct bearing on public daily life or safety." },
+        "market": { "value": "medium", "reason": "Coalition stability is relevant to investors assessing political risk." },
+        "lean": { "value": "balanced", "reason": "Presents both the speculation about Zardari's role and the PPP's rationale without asserting the claims as fact." },
+        "confidence": { "value": "low", "reason": "Relies on unnamed PPP sources and speculation about the president's motives, which the article itself frames as unconfirmed." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Dar steps up diplomatic engagement with Turkiye, Egypt",
+      "summary": "AI summary: Deputy PM and Foreign Minister Ishaq Dar held separate calls with Turkiye's and Egypt's foreign ministers, discussing follow-up to the Makkah Joint Defence Agreement's first Strategic Political and Defence Committee meeting and regional security, with Egypt's minister inviting Dar to visit Cairo.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40438243/dar-steps-up-diplomatic-engagement-with-turkiye-egypt" }
+      ],
+      "timestamp": "Sep 7, 4:49 AM",
+      "publishedAt": "2026-09-07T04:49:47+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Diplomatic engagement with no direct economic policy outcome reported." },
+        "political": { "value": "positive", "reason": "Reflects active diplomatic engagement and strengthening regional defence and security ties, supportive of Pakistan's institutional standing abroad." },
+        "social": { "value": "neutral", "reason": "No direct bearing on Pakistani public daily life." },
+        "market": { "value": "low", "reason": "Limited immediate relevance to markets or investors." },
+        "lean": { "value": "balanced", "reason": "Straightforward diplomatic reporting without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single-source report from Business Recorder covering official diplomatic calls." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Forces kill 21 militants in KP operations",
+      "summary": "AI summary: ISPR said security forces killed 21 militants in multiple operations across Khyber Pakhtunkhwa between September 3-5, including a North Waziristan raid near the Afghan border, and blamed the Afghan Taliban government for failing to stop militant groups operating from Afghan soil.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40438227/forces-kill-21-militants-in-kp-operations" }
+      ],
+      "timestamp": "Sep 7, 4:49 AM",
+      "publishedAt": "2026-09-07T04:49:47+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Security operation with no direct near-term economic effect reported." },
+        "political": { "value": "neutral", "reason": "Reflects ongoing counter-militancy operations attributed to ISPR; no reported effect on domestic institutional stability beyond routine security reporting." },
+        "social": { "value": "negative", "reason": "Continued militant violence and cross-border security operations reflect ongoing instability and risk to public safety in the affected region, even though framed as a security success." },
+        "market": { "value": "low", "reason": "Localised security operation with limited direct market relevance." },
+        "lean": { "value": "balanced", "reason": "Attributes casualty claims to ISPR as the stated source rather than asserting them as independently verified fact." },
+        "confidence": { "value": "medium", "reason": "Based on a single official (ISPR) source without independent corroboration of casualty figures." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Sindh needs comprehensive police reforms: PDP",
+      "summary": "AI summary: Pasban Democratic Party chief Altaf Shakoor called for comprehensive police reform in Sindh, citing more than 24,000 street-crime incidents in Karachi in the first five months of 2026 and urging transparent transfers, specialised training, and AI/CCTV technology to insulate policing from political interference.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40438202/sindh-needs-comprehensive-police-reforms-pdp" }
+      ],
+      "timestamp": "Sep 7, 4:49 AM",
+      "publishedAt": "2026-09-07T04:49:47+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Policy commentary on policing; no direct economic activity effect reported." },
+        "political": { "value": "negative", "reason": "Alleges political interference in police operations, pointing to governance weakness in provincial policing." },
+        "social": { "value": "negative", "reason": "Highlights high levels of street crime affecting public safety in Karachi." },
+        "market": { "value": "low", "reason": "Limited direct relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Presents a political party's critique and reform proposals without the outlet itself taking a side." },
+        "confidence": { "value": "medium", "reason": "Based on statements from a single minor political party's chairman, with crime statistics not independently verified in the article." }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "Ghazis, families of martyrs: Armed forces, President and PM extend respect",
+      "summary": "AI summary: Pakistan's military and civilian leadership marked the 61st Defence and Martyrs' Day, with Field Marshal Asim Munir and other service chiefs paying tribute to the Shuhada of the 1965 war, while President Zardari said lasting peace in South Asia requires resolving the Kashmir dispute per UN resolutions.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40438229/ghazis-families-of-martyrs-armed-forces-president-and-pm-extend-respect" }
+      ],
+      "timestamp": "Sep 7, 4:49 AM",
+      "publishedAt": "2026-09-07T04:49:47+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Commemorative event with no direct economic effect." },
+        "political": { "value": "neutral", "reason": "Routine annual commemoration reaffirming national unity; not indicative of any shift in institutional stability." },
+        "social": { "value": "positive", "reason": "National commemoration honoring war veterans and martyrs' families tends to support public morale and unity." },
+        "market": { "value": "low", "reason": "Ceremonial event with minimal market relevance." },
+        "lean": { "value": "balanced", "reason": "Reports statements from both military and civilian leadership without favoring one political side." },
+        "confidence": { "value": "medium", "reason": "Based on official statements reported by a single outlet." }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "From 1965 to Marka-e-Haq, PM Shehbaz lauds PAF's valour, tactical brilliance, sacrifices",
+      "summary": "AI summary: On Pakistan Air Force Day, PM Shehbaz Sharif praised the PAF's professionalism and sacrifices, citing its role in the 1965 war and crediting its 'tactical brilliance' and coordination with other services for what he described as defeating the adversary during the May 2025 Marka-e-Haq conflict.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/680937-from-1965-to-marka-e-haq-pm-shehbaz-hails-pafs-courage-tactical-brilliance-and-sacrifice" }
+      ],
+      "timestamp": "Sep 7, 2:02 AM",
+      "publishedAt": "2026-09-07T02:02:59+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Commemorative speech; no direct economic effect." },
+        "political": { "value": "neutral", "reason": "Routine ceremonial praise of the armed forces; does not indicate a shift in governance or institutional stability." },
+        "social": { "value": "positive", "reason": "Public tribute to the armed forces on a national commemorative day tends to support morale and unity." },
+        "market": { "value": "low", "reason": "Ceremonial speech with minimal market relevance." },
+        "lean": { "value": "balanced", "reason": "Reports the PM's ceremonial remarks without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on official statements from a single outlet." }
+      }
+    },
+    {
+      "id": 11,
+      "headline": "Islamabad to get its own 27-member assembly, chief executive under proposed governance overhaul",
+      "summary": "AI summary: A high-level committee has proposed a 27-member elected assembly and chief executive for Islamabad Capital Territory, with 21 directly elected seats plus reserved seats for women and minorities, transferring most Capital Development Authority functions to the new local government while keeping law and order and master planning federal, to be enacted via ordinary legislation rather than a constitutional amendment.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/680928-islamabad-to-get-its-own-27-member-assembly-chief-executive-under-proposed-governance-overhaul" }
+      ],
+      "timestamp": "Sep 6, 11:28 PM",
+      "publishedAt": "2026-09-06T23:28:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Governance restructuring proposal with no immediate direct economic effect reported." },
+        "political": { "value": "neutral", "reason": "Proposed devolution of local governance; framed as a draft recommendation, not yet enacted, so no confirmed change in institutional stability." },
+        "social": { "value": "neutral", "reason": "Potential long-term effect on local governance and services, but no immediate direct impact on daily life reported." },
+        "market": { "value": "low", "reason": "Limited direct relevance to markets or investors." },
+        "lean": { "value": "balanced", "reason": "Neutral reporting of a technical governance proposal without favoring government or opposition." },
+        "confidence": { "value": "medium", "reason": "Based on a single article describing a draft committee proposal not yet finalized." }
+      }
+    }
+  ]
+}
