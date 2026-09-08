@@ -1,8 +1,198 @@
 {
-  "generatedAt": "2026-09-08T00:13:58+05:00",
+  "generatedAt": "2026-09-08T11:45:00+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "Karachi mayor's office completely gutted in fire at KMC building",
+      "summary": "AI summary: A fire broke out in the kitchen next to Karachi Mayor Murtaza Wahab's office at the KMC head office, spreading to and completely gutting the mayor's and his secretary's offices before two fire tenders brought it under control, with no casualties reported.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/681121-karachi-mayors-office-completely-gutted-in-fire-at-kmc-building" }
+      ],
+      "timestamp": "Sep 8, 10:40 AM",
+      "publishedAt": "2026-09-08T10:40:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Damage is confined to two municipal offices, with no broader effect on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "An accidental kitchen fire at a civic building has no bearing on governance or institutional stability." },
+        "social": { "value": "neutral", "reason": "No casualties and prompt containment mean minimal effect on public wellbeing." },
+        "market": { "value": "low", "reason": "Not relevant to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Straightforward factual reporting citing fire department and KMC officials." },
+        "confidence": { "value": "medium", "reason": "Single-source report with specific, attributed details." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "No region, province targeted in restructuring debate: official",
+      "summary": "AI summary: An unnamed senior PML-N government official said no specific province or region is being targeted by the new-provinces and administrative-restructuring debate, stressing that whether the outcome is new provinces, new administrative units, or district-level devolution remains undecided and that Interior Minister Mohsin Naqvi wants any decision put to public consultation first.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/681110-no-region-province-targeted-in-restructuring-debate-official" }
+      ],
+      "timestamp": "Sep 8, 10:04 AM",
+      "publishedAt": "2026-09-08T10:04:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A reassurance statement about an undecided restructuring debate has no direct economic effect." },
+        "political": { "value": "positive", "reason": "The government signaling a consultative, non-targeted approach to a sensitive restructuring debate helps de-escalate tension rather than fuel it." },
+        "social": { "value": "neutral", "reason": "No concrete decision has been made, so there is no direct effect on daily life yet." },
+        "market": { "value": "low", "reason": "Not materially relevant to investors or markets at this early, undecided stage." },
+        "lean": { "value": "pro-government", "reason": "The piece consists solely of an anonymous government official's reassurance, with no opposition or independent voice included on a debate that other parties have publicly contested." },
+        "confidence": { "value": "medium", "reason": "Single anonymous-official source without independent corroboration." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Ruling PML-N backs proposal to give Islamabad provincial status",
+      "summary": "AI summary: Ruling PML-N's Raja Khurram Shahzad Nawaz, chair of the National Assembly's Interior Committee, publicly backed Interior Minister Mohsin Naqvi's proposal to grant Islamabad provincial status with a 27-member assembly and its own chief minister, arguing residents who pay roughly Rs20 billion a year in taxes get no NFC Award share; the move could delay Islamabad's local government elections planned for October 2026.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2028199/ruling-pml-n-backs-proposal-to-give-islamabad-provincial-status" }
+      ],
+      "timestamp": "Sep 8, 8:44 AM",
+      "publishedAt": "2026-09-08T08:44:31+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A governance-status proposal has no immediate economic effect, though it references a tax-revenue-sharing grievance." },
+        "political": { "value": "neutral", "reason": "A party endorsement of an early-stage governance proposal is a normal legislative development, though it carries a risk of delaying planned local elections." },
+        "social": { "value": "neutral", "reason": "No direct, immediate effect on residents' daily life at this proposal stage." },
+        "market": { "value": "low", "reason": "Not materially relevant to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Factual reporting of a party position and its stated rationale, without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single-source report of an on-record statement with specific figures." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Nepra clears key hurdle to competitive power market",
+      "summary": "AI summary: Nepra approved uniform use-of-system charges for bulk power consumers across all distribution companies, ranging from Rs6.23 to over Rs32 per unit depending on category, clearing the way for the Independent System Operator to hold a 400-megawatt competitive electricity auction within months as part of a wider 800-megawatt reform tied to IMF program commitments.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2028259/nepra-clears-key-hurdle-to-competitive-power-market" }
+      ],
+      "timestamp": "Sep 8, 7:26 AM",
+      "publishedAt": "2026-09-08T07:26:44+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Enabling a competitive wholesale power market improves price discovery and efficiency for large power consumers and businesses." },
+        "political": { "value": "neutral", "reason": "A technical regulatory approval by Nepra, not a development affecting institutional or governance stability." },
+        "social": { "value": "neutral", "reason": "Primarily affects industrial and bulk consumers, with no direct near-term effect on households." },
+        "market": { "value": "high", "reason": "A structural power-sector reform directly relevant to investors, large consumers, and business decisions." },
+        "lean": { "value": "balanced", "reason": "Factual regulatory reporting with specific figures and no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single-source report with specific, verifiable figures." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Legal challenge launched against PTI's planned march on Islamabad",
+      "summary": "AI summary: A citizen petitioner asked the Islamabad High Court to block PTI's planned September 27 protest and sit-in in the capital, citing fears of traffic disruption and business harm and objecting to Khyber Pakhtunkhwa Chief Minister Sohail Afridi's participation, while PTI says the demonstration is a peaceful, constitutionally protected movement for Imran Khan's release.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2028262/legal-challenge-launched-against-ptis-planned-march-on-islamabad" }
+      ],
+      "timestamp": "Sep 8, 7:18 AM",
+      "publishedAt": "2026-09-08T07:18:59+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "This covers only a court petition stage; any economic disruption from an actual protest has not yet occurred." },
+        "political": { "value": "neutral", "reason": "A private citizen's court petition, being heard through normal judicial process, is not itself a government action affecting institutional stability." },
+        "social": { "value": "neutral", "reason": "Concerns about disruption are speculative at the petition stage, with no confirmed effect on public life yet." },
+        "market": { "value": "low", "reason": "Not materially relevant to markets at this preliminary legal stage." },
+        "lean": { "value": "balanced", "reason": "The report presents both the petitioner's concerns and PTI's position on the planned march." },
+        "confidence": { "value": "medium", "reason": "Single-source report of specific, named court proceedings." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Senate panel directs govt: 'Accountability & special courts act as per workload'",
+      "summary": "AI summary: The Senate Standing Committee on Law and Justice directed the government to reallocate accountability and special-court judges to match actual caseloads rather than abolishing under-used courts, and asked the law ministry for a briefing on whether federal narcotics courts still have a constitutional basis after the 18th Amendment devolved narcotics matters to the provinces.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40438411/senate-panel-directs-govt-accountability-amp-special-courts-act-as-per-workload" }
+      ],
+      "timestamp": "Sep 8, 6:01 AM",
+      "publishedAt": "2026-09-08T06:01:43+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "An internal judicial-resource directive has no direct economic effect." },
+        "political": { "value": "positive", "reason": "A Senate committee actively overseeing and directing judicial resource allocation reflects normal institutional oversight functioning." },
+        "social": { "value": "neutral", "reason": "Indirect effect on judicial efficiency, with no immediate bearing on daily life." },
+        "market": { "value": "low", "reason": "Not relevant to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Factual reporting of committee proceedings, including a minister's cautionary note, with no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single-source report of specific committee proceedings with named details." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "ADB VP lauds Punjab's pace of public service delivery",
+      "summary": "AI summary: Asian Development Bank Vice President Ying Ming Yang met Punjab Chief Minister Maryam Nawaz Sharif and praised the province's pace of public service delivery, with both sides agreeing to expand cooperation on drinking water, agriculture, health, education and technical training, including ADB-backed hospital projects, three farm-machinery loan agreements, and a plan to add 2,000 electric buses next year.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40438412/adb-vp-lauds-punjabs-pace-of-public-service-delivery" }
+      ],
+      "timestamp": "Sep 8, 6:01 AM",
+      "publishedAt": "2026-09-08T06:01:43+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Expanded development financing, agricultural loans, and infrastructure investment support business and agricultural activity." },
+        "political": { "value": "neutral", "reason": "Routine provincial-donor engagement, not a development affecting institutional or governance stability." },
+        "social": { "value": "positive", "reason": "Expanded healthcare, water, education, and transport cooperation supports public wellbeing." },
+        "market": { "value": "medium", "reason": "Relevant to investors and businesses in agriculture, healthcare, and infrastructure sectors." },
+        "lean": { "value": "pro-government", "reason": "The report consists entirely of an international official's praise for the Punjab government's performance, with no independent or critical perspective included." },
+        "confidence": { "value": "medium", "reason": "Single-source, event-based report with specific figures." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "SDPI seminar: Call to devise plan to address challenges posed by ageing population",
+      "summary": "AI summary: A Sustainable Development Policy Institute seminar with Turkey's IbniSina Institute called for Pakistan to develop a national strategy for its aging population, noting the country has about 16.6 million people aged 60+, projected to reach 37 million by 2050, with only 3-5% receiving pensions and just 5-7 trained geriatricians nationwide, and proposed community-based care, age-friendly cities, and geriatric research hospitals in each province.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40438413/sdpi-seminar-call-to-devise-plan-to-address-challenges-posed-by-ageing-population" }
+      ],
+      "timestamp": "Sep 8, 6:01 AM",
+      "publishedAt": "2026-09-08T06:01:43+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A policy seminar has no direct, immediate economic effect." },
+        "political": { "value": "neutral", "reason": "An academic policy seminar has no bearing on institutional or governance stability." },
+        "social": { "value": "neutral", "reason": "Raising awareness of elderly-care gaps and proposing solutions doesn't itself change public wellbeing, though it highlights an under-addressed vulnerability." },
+        "market": { "value": "low", "reason": "Not materially relevant to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Factual reporting of seminar proceedings with multiple speakers' views represented." },
+        "confidence": { "value": "medium", "reason": "Single-source report of a specific seminar with attributed figures and quotes." }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "Dar, Kuwaiti FM discuss regional situation",
+      "summary": "AI summary: Deputy PM and Foreign Minister Ishaq Dar spoke with Kuwait's Foreign Minister Sheikh Jarrah Jaber Al-Ahmad Al-Sabah about bilateral relations and regional developments, with both sides agreeing to stay in close contact and meet during the upcoming UN General Assembly session in New York.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40438414/dar-kuwaiti-fm-discuss-regional-situation" }
+      ],
+      "timestamp": "Sep 8, 6:01 AM",
+      "publishedAt": "2026-09-08T06:01:43+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic phone call has no immediate, direct economic effect." },
+        "political": { "value": "positive", "reason": "Routine diplomatic engagement with a Gulf state reflects positively on Pakistan's international standing." },
+        "social": { "value": "neutral", "reason": "No direct bearing on Pakistanis' daily life or safety." },
+        "market": { "value": "low", "reason": "Limited direct relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Routine, factual diplomatic reporting with no partisan angle." },
+        "confidence": { "value": "medium", "reason": "Single-source report of a routine official readout." }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "Fazl warns against 'imposing' new provinces, demanding debate on restructuring",
+      "summary": "AI summary: JUI-F chief Maulana Fazlur Rehman told a Lahore conference that Pakistan is not fundamentally opposed to new provinces but that any restructuring decision must not be imposed unilaterally and needs broader political debate and consensus, while also criticizing successive governments over national identity, ethnic division, and reliance on foreign borrowing.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/681091-fazl-warns-against-imposing-new-provinces-demands-debate-on-restructuring-pakistan" }
+      ],
+      "timestamp": "Sep 8, 1:49 AM",
+      "publishedAt": "2026-09-08T01:49:51+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A political leader's speech has no direct economic effect." },
+        "political": { "value": "neutral", "reason": "A political leader publicly calling for broader consensus before any restructuring decision is normal democratic engagement, not itself a destabilizing development." },
+        "social": { "value": "neutral", "reason": "No direct, immediate effect on public wellbeing or daily life." },
+        "market": { "value": "low", "reason": "Not relevant to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Factual reporting of a political leader's speech and stated positions." },
+        "confidence": { "value": "medium", "reason": "Single-source report of an on-record speech with specific quotes." }
+      }
+    },
+    {
+      "id": 11,
       "headline": "Pakistan through to Women's Asia Cup semi-finals as Nashra leads Hong Kong rout",
       "summary": "AI summary: Pakistan beat Hong Kong by 72 runs in the Women's Asia Cup, with Nashra Sandhu taking 6 wickets for 7 runs after Shawaal Zulfiqaar's 47 runs helped set a target of 143, sending Pakistan into a semi-final against Sri Lanka on Friday.",
       "sources": [
@@ -21,7 +211,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 12,
       "headline": "Govt jacks up petrol price by Rs12.90, HSD by Rs3.72",
       "summary": "AI summary: The government raised petrol prices by Rs12.90 per litre and high-speed diesel by Rs3.72 per litre effective September 8, pushing petrol to Rs358.77 and diesel to Rs381.77 per litre, with the Petroleum Division citing continued volatility in international oil markets.",
       "sources": [
@@ -40,7 +230,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 13,
       "headline": "Dar steps up diplomatic engagement, holds phone talks with Kuwaiti FM",
       "summary": "AI summary: Deputy PM and Foreign Minister Ishaq Dar spoke by phone with Kuwait's Foreign Minister Sheikh Jarrah Jaber Al-Ahmad Al-Sabah about bilateral relations and regional developments, with both sides agreeing to stay in touch and meet during the upcoming UN General Assembly session.",
       "sources": [
@@ -59,7 +249,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 14,
       "headline": "Pakistan climber Asma Mushtaq's body airlifted to Skardu",
       "summary": "AI summary: The body of Pakistani mountaineer Dr. Asma Mushtaq, who died on August 20 from a high-altitude medical emergency while descending Spantik Mountain, was airlifted from base camp to Skardu after weather delays, with officials saying it would next be flown to Lahore.",
       "sources": [
@@ -78,7 +268,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 15,
       "headline": "Senate panel passes bill proposing death penalty for perpetrators of acid attacks",
       "summary": "AI summary: The Senate's Standing Committee on Interior approved a bill that would allow the death penalty, life imprisonment, or a minimum 14-year sentence plus a Rs2 million fine for acid attack perpetrators, part of a wider package of criminal-justice reforms passed despite objections from the state minister for interior.",
       "sources": [
@@ -97,7 +287,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 16,
       "headline": "SCO summit: ECC approves Rs6.6bn grant for purchase of 30 bullet-proof vehicles",
       "summary": "AI summary: Pakistan's Economic Coordination Committee approved a Rs6.6 billion grant to buy 30 bullet-proof vehicles for transporting foreign leaders at the 2027 Shanghai Cooperation Organisation summit Islamabad will host, directing officials to further assess any additional requirements.",
       "sources": [
@@ -116,7 +306,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 17,
       "headline": "JI submits six proposals as first round of talks with govt concludes",
       "summary": "AI summary: Jamaat-e-Islami submitted six proposals to the government aimed at abolishing the Rs80-per-litre petroleum levy after the first round of talks concluded, with JI leader Liaquat Baloch saying the levy had already exceeded its revenue target and that the party's protest campaign would continue alongside negotiations; the government asked for three days to review the proposals before a second round on Thursday.",
       "sources": [
@@ -136,7 +326,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 18,
       "headline": "Pakistan rejects India's 'baseless' assertions regarding status of disputed Jammu, Kashmir",
       "summary": "AI summary: Pakistan's Foreign Office rejected India's statements on Jammu and Kashmir as baseless, saying UN maps confirm the territory's disputed status and calling on the international community to address alleged human rights violations and support a UN-supervised plebiscite for Kashmiri self-determination.",
       "sources": [
@@ -155,7 +345,7 @@
       }
     },
     {
-      "id": 9,
+      "id": 19,
       "headline": "'Products of Form-47': PPP leader takes aim at federal ministers over new provinces",
       "summary": "AI summary: Sindh Information Minister Sharjeel Memon accused federal PML-N ministers including Mohsin Naqvi, Ahsan Iqbal and Mustafa Kamal of being 'products of Form-47' and lacking genuine public mandates for pushing the new-provinces proposal, as PPP and PTI urge caution while MQM-P backs the idea.",
       "sources": [
@@ -174,7 +364,7 @@
       }
     },
     {
-      "id": 10,
+      "id": 20,
       "headline": "Massive blaze continues to rage at Karachi's Landhi factory, section collapses",
       "summary": "AI summary: A major fire at a used-clothing factory in Karachi's Landhi Export Processing Zone burned for more than nine hours, spreading to an adjacent building and causing part of the structure to collapse; all workers were evacuated safely with three treated for smoke inhalation, and firefighters using 16 fire tenders had brought roughly 70% of the blaze under control by the evening.",
       "sources": [
