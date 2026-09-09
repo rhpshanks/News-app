@@ -1,0 +1,197 @@
+{
+  "generatedAt": "2026-09-09T13:20:11+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Iran attacks American base in Jordan, ships near Hormuz after US hits oil tankers",
+      "summary": "AI summary: Iran's Revolutionary Guard fired ballistic missiles at a US base in Jordan and struck ships near the Strait of Hormuz, escalating its months-long standoff with Washington after the US destroyed five Iranian oil tankers; Jordan said it intercepted most of the incoming missiles with no casualties reported, while oil prices surged toward $100 a barrel.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2028569/iran-attacks-american-base-in-jordan-ships-near-hormuz-after-us-hits-oil-tankers" }
+      ],
+      "timestamp": "Sep 9, 12:53 PM",
+      "publishedAt": "2026-09-09T12:53:14+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Oil prices surging toward $100 a barrel raise import costs for Pakistan, a net oil importer, adding inflationary pressure." },
+        "political": { "value": "neutral", "reason": "A foreign military escalation between Iran and the US has no direct bearing on Pakistan's own institutional or governance stability." },
+        "social": { "value": "negative", "reason": "A widening Middle East conflict threatens costlier fuel and goods for the Pakistani public and raises risk for Pakistani workers in the Gulf region." },
+        "market": { "value": "high", "reason": "A Middle East conflict disrupting oil shipping and prices is directly relevant to investors and business decisions." },
+        "lean": { "value": "balanced", "reason": "Factual foreign-affairs reporting with no partisan Pakistani political framing." },
+        "confidence": { "value": "medium", "reason": "Single-source report of an evolving foreign conflict with specific attributed details, not independently corroborated by another outlet in this set." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Security forces kill 11 terrorists during IBOs in Balochistan's Kharan, Washuk districts: ISPR",
+      "summary": "AI summary: ISPR said security forces killed 11 alleged militants, whom it attributed to an India-backed group it calls Fitna al-Hindustan, in two separate intelligence-based operations in Balochistan's Kharan and Washuk districts on September 6-7, also recovering 2.9 tonnes of explosives; President Zardari and Interior Minister Naqvi issued statements on the operations.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/681301-security-forces-neutralise-11-india-sponsored-terrorists-in-balochistan-ibos-ispr" },
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2028601/security-forces-kill-11-terrorists-during-ibos-in-balochistans-kharan-washuk-districts-ispr" }
+      ],
+      "timestamp": "Sep 9, 12:17 PM",
+      "publishedAt": "2026-09-09T12:17:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A counter-terrorism operation has no direct bearing on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "A security operation reported by ISPR doesn't itself affect national institutional or governance stability, though it reflects Balochistan's ongoing security challenges." },
+        "social": { "value": "negative", "reason": "Casualty and attribution claims rest on ISPR's own statement rather than independent verification, and the operation reflects continuing violence and instability in Balochistan that poses an ongoing risk to the region's population even when framed as a security success." },
+        "market": { "value": "low", "reason": "A localized security operation is not materially relevant to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "The account relies entirely on ISPR's own statement, presented factually without independent scrutiny, but does not favor a domestic political side." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two outlets with consistent casualty figures and locations, though the account rests solely on the military's own statement." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Govt hikes petrol price by Rs5.58, HSD by Rs4.18",
+      "summary": "AI summary: The government raised petrol prices by Rs5.58 per litre and high-speed diesel by Rs4.18 per litre effective September 9, taking petrol to Rs364.35 and diesel to Rs385.95 per litre, under the daily fuel-pricing mechanism adopted in July amid renewed Iran-US hostilities.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2028413/govt-hikes-petrol-price-by-rs558-hsd-by-rs418" }
+      ],
+      "timestamp": "Sep 9, 11:22 AM",
+      "publishedAt": "2026-09-09T11:22:03+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "A fuel price hike raises transport and business input costs and directly increases consumer prices." },
+        "political": { "value": "neutral", "reason": "A routine, formula-driven daily price adjustment rather than a governance development." },
+        "social": { "value": "negative", "reason": "Higher fuel prices raise the cost of living for the public, compounding an already-elevated price trajectory." },
+        "market": { "value": "medium", "reason": "Fuel price moves affect transport and business costs and are closely watched by markets." },
+        "lean": { "value": "balanced", "reason": "A factual report of an official price mechanism with no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single-source report of a routine, formulaic announcement with specific figures." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Mir Raza case: Bullet shell recovered from crime scene fails to match security guard's pistol",
+      "summary": "AI summary: A forensic report in the Mir Raza case found the bullet shell recovered from the crime scene doesn't match the security guard's pistol, and the postmortem ruled out suicide as the cause of death, while the businessman's family lawyer questioned why police recovered the shell only eight days after the incident and a judicial commission has questioned police handling of the investigation.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/681279-mir-raza-case-bullet-shell-recovered-from-crime-scene-fails-to-match-security-guards-pistol" }
+      ],
+      "timestamp": "Sep 9, 10:42 AM",
+      "publishedAt": "2026-09-09T10:42:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A criminal investigation has no bearing on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "A specific criminal case, even with judicial-commission oversight, does not bear on national institutional or governance stability." },
+        "social": { "value": "negative", "reason": "An unresolved suspicious death investigation with questioned evidence handling raises public safety and justice concerns." },
+        "market": { "value": "low", "reason": "Not relevant to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "The report includes the family's concerns about the investigation alongside official forensic findings, without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single-source report with specific, attributed forensic and procedural details." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "'Instead of speaking at business forums, Naqvi should visit Parliament': Bilawal on interior minister's call for governance reset",
+      "summary": "AI summary: PPP chairman Bilawal Bhutto-Zardari said Interior Minister Mohsin Naqvi should debate his 'collapsed system' governance-reset comments in Parliament rather than at business forums, arguing the country's problems shouldn't be decided by a handful of businessmen and cautioning against treating new provinces as a solution to poverty, unemployment and inflation.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/681273-debate-collapsed-system-issue-in-parliament-bilawal-tells-naqvi" },
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2028581/instead-of-speaking-at-business-forums-naqvi-should-visit-parliament-bilawal-on-interior-ministers-call-for-governance-reset" }
+      ],
+      "timestamp": "Sep 9, 9:45 AM",
+      "publishedAt": "2026-09-09T09:45:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A political exchange over how to debate governance reform has no direct economic effect." },
+        "political": { "value": "neutral", "reason": "Routine political criticism and debate over process is normal democratic engagement, not itself a development threatening institutional stability." },
+        "social": { "value": "neutral", "reason": "No direct, immediate effect on public wellbeing or daily life." },
+        "market": { "value": "low", "reason": "Not materially relevant to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "The report presents Bilawal's criticism alongside Naqvi's earlier framing of the reset as a 'comprehensive review', without favoring either side." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two outlets with consistent quotes and context." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Maryam Nawaz celebrates youngest daughter Mahnoor Safdar's graduation in London",
+      "summary": "AI summary: Punjab Chief Minister Maryam Nawaz attended her youngest daughter Mahnoor Safdar's graduation in Anthropology from SOAS University of London, marking all three of her children completing higher education, and during the private visit dismissed reports of internal PML-N divisions while meeting UK party leaders.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/681275-maryam-nawaz-celebrates-youngest-daughter-mahnoor-safdars-graduation-in-london" }
+      ],
+      "timestamp": "Sep 9, 9:23 AM",
+      "publishedAt": "2026-09-09T09:23:58+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A personal family event has no bearing on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "A personal milestone with a brief denial of party division doesn't itself affect institutional or governance stability." },
+        "social": { "value": "neutral", "reason": "A personal family event with limited direct bearing on general public wellbeing." },
+        "market": { "value": "low", "reason": "Not relevant to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "A straightforward personal/human-interest report with no partisan framing beyond a quoted denial of party division." },
+        "confidence": { "value": "medium", "reason": "Single-source report of a personal event with specific, attributed quotes." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Lucrative special pay scale posts: Govt expands policy on appointments of civil servants",
+      "summary": "AI summary: The federal government's Finance Division revised its policy to let civil servants competitively selected for special pay scale posts in government corporations and autonomous bodies, including contractual roles, accept them while retaining deputation status, extending the framework to both federal and provincial positions.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40438590/lucrative-special-pay-scale-posts-govt-expands-policy-on-appointments-of-civil-servants" }
+      ],
+      "timestamp": "Sep 9, 5:39 AM",
+      "publishedAt": "2026-09-09T05:39:59+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A civil-service appointment policy update has no material, direct effect on broader jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "A routine administrative policy clarification doesn't affect institutional or governance stability." },
+        "social": { "value": "neutral", "reason": "A technical bureaucratic-appointments matter has no direct bearing on the general public's daily life." },
+        "market": { "value": "low", "reason": "Not relevant to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "A factual account of an administrative policy change with no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single-source report of a specific official policy document with quoted text." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Safeguarding province's unity and geographical borders: Sindh PA sends 'unity resolution' to federal govt",
+      "summary": "AI summary: The Sindh Assembly formally transmitted its resolution affirming that 'Sindh is one and will remain integrated' to the federal government, urging all political parties and institutions to respect existing provincial boundaries, with constitutional experts noting federal authorities must respond within 30 days or face a possible privilege-motion summons.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40438569/safeguarding-provinces-unity-and-geographical-borders-sindh-pa-sends-unity-resolution-to-federal-govt" }
+      ],
+      "timestamp": "Sep 9, 5:39 AM",
+      "publishedAt": "2026-09-09T05:39:59+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A provincial-unity resolution has no direct economic effect." },
+        "political": { "value": "neutral", "reason": "A formal provincial assertion of its constitutional boundaries through normal legislative channels is standard institutional process, though it reflects underlying tension around restructuring proposals." },
+        "social": { "value": "neutral", "reason": "No direct, immediate effect on daily life." },
+        "market": { "value": "low", "reason": "Not relevant to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "A factual account of a formal legislative resolution with no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single-source report of a specific legislative action with attributed procedural detail." }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "SC rejects FBR's appeals, upholds Tribunal's decision granting HQ allowance to time-scale employees",
+      "summary": "AI summary: The Supreme Court, in a bench led by Chief Justice Yahya Afridi, dismissed FBR appeals against a Federal Service Tribunal ruling and upheld that employees promoted through time-scale advancement to BS-17 are entitled to the 140% headquarters allowance, rejecting FBR's argument that only substantive BS-17 officers qualify.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40438573/sc-rejects-fbrs-appeals-upholds-tribunals-decision-granting-hq-allowance-to-time-scale-employees" }
+      ],
+      "timestamp": "Sep 9, 5:39 AM",
+      "publishedAt": "2026-09-09T05:39:59+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A judicial ruling on a specific civil-service allowance dispute has no broader economic effect." },
+        "political": { "value": "positive", "reason": "The Supreme Court adjudicating and resolving a bureaucratic dispute reflects normal judicial institutions functioning as a check on executive agencies." },
+        "social": { "value": "neutral", "reason": "Affects a specific group of civil servants, with no direct bearing on the general public." },
+        "market": { "value": "low", "reason": "Not relevant to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "A factual account of a court ruling with both sides' arguments represented." },
+        "confidence": { "value": "medium", "reason": "Single-source report of specific court proceedings with named details and quotes." }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "Sindh Assembly passes resolution against PL",
+      "summary": "AI summary: The Sindh Assembly unanimously passed a Jamaat-e-Islami-sponsored resolution urging the federal government to withdraw the petroleum levy amid rising inflation, with the provincial parliamentary affairs minister acknowledging the province lacks authority over the federal levy while still backing the resolution, as MQM-P lawmakers staged protests during the session.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40438566/sindh-assembly-passes-resolution-against-pl" }
+      ],
+      "timestamp": "Sep 9, 5:39 AM",
+      "publishedAt": "2026-09-09T05:39:59+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A non-binding provincial resolution urging federal action doesn't itself change fiscal policy or prices." },
+        "political": { "value": "neutral", "reason": "A provincial assembly passing a resolution on a federal matter is normal legislative expression, though the session's disruptions reflect some political friction." },
+        "social": { "value": "neutral", "reason": "The resolution itself doesn't change public cost-of-living conditions, though it responds to inflation concerns affecting the public." },
+        "market": { "value": "low", "reason": "A non-binding provincial resolution on a federal levy has limited direct market relevance." },
+        "lean": { "value": "balanced", "reason": "Reports both JI's proposal and the minister's cautionary response, without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single-source report of specific proceedings with named officials and outcomes." }
+      }
+    }
+  ]
+}
