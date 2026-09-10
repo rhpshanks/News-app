@@ -1,0 +1,177 @@
+{
+  "generatedAt": "2026-09-11T01:44:15+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Govt increases petrol price by Rs3.05, diesel by Rs5.37",
+      "summary": "AI summary: Pakistan's government raised petrol prices by Rs3.05 and diesel by Rs5.37 per litre effective September 11, continuing a pattern of near-daily price adjustments tied to regional volatility since the Iran-US conflict began earlier this year.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2028913/govt-increases-petrol-price-by-rs305-diesel-by-rs537" }
+      ],
+      "timestamp": "Sep 10, 11:01 PM",
+      "publishedAt": "2026-09-10T23:01:13+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Higher fuel prices raise transport and production costs, squeezing household budgets and business margins." },
+        "political": { "value": "neutral", "reason": "Routine, mechanism-driven price revision under the existing daily-pricing policy, not a discretionary political decision." },
+        "social": { "value": "negative", "reason": "Higher petrol and diesel costs directly raise the cost of living for commuters and lower-income households." },
+        "market": { "value": "medium", "reason": "Fuel price moves affect transport, logistics and consumer inflation but are a routine, expected adjustment." },
+        "lean": { "value": "balanced", "reason": "Straightforward factual pricing report with no partisan framing." },
+        "confidence": { "value": "high", "reason": "Single clear factual report of a published price notification." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Govt asks JI for three more days to decide on petroleum levy: Liaqat Baloch",
+      "summary": "AI summary: The government has requested a three-day extension from Jamaat-e-Islami to respond to the party's demands on the petroleum levy, with JI warning that a countrywide long march to Islamabad will follow if its demands aren't met by Monday.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/681542-govt-asks-ji-for-three-more-days-to-decide-on-petroleum-levy-liaqat-baloch" }
+      ],
+      "timestamp": "Sep 10, 10:29 PM",
+      "publishedAt": "2026-09-10T22:29:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No levy change has actually occurred yet; it's a negotiation update rather than a fiscal policy shift." },
+        "political": { "value": "negative", "reason": "Ongoing brinkmanship with an opposition-aligned party and threats of a long march signal friction and potential instability." },
+        "social": { "value": "neutral", "reason": "Report describes negotiations rather than an event directly affecting the public yet." },
+        "market": { "value": "low", "reason": "No confirmed levy change yet, limited immediate relevance to markets." },
+        "lean": { "value": "balanced", "reason": "Article relays statements from JI's side but frames it as a factual negotiation update." },
+        "confidence": { "value": "medium", "reason": "Single-source account relayed through one party's spokesperson." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Trump administration proposes waiving grace period for H-1B holders after job loss",
+      "summary": "AI summary: The US Department of Homeland Security has proposed eliminating the 60-day grace period that lets H-1B and other temporary work-visa holders stay in the US to find new jobs after being laid off, a change immigration attorneys say would compress layoff timelines sharply.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2028903/trump-administration-proposes-waiving-grace-period-for-h-1b-holders-after-job-loss" }
+      ],
+      "timestamp": "Sep 10, 8:47 PM",
+      "publishedAt": "2026-09-10T20:47:42+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Could disrupt tech and consulting firms reliant on skilled foreign workers, including many Pakistani professionals in the US." },
+        "political": { "value": "neutral", "reason": "A US domestic policy proposal with no direct bearing on Pakistani governance." },
+        "social": { "value": "negative", "reason": "Would create hardship for foreign workers, including Pakistanis on H-1B visas, facing sudden loss of status." },
+        "market": { "value": "medium", "reason": "Relevant to businesses and workers tied to US tech/consulting sectors, though it's a US regulatory proposal not yet final." },
+        "lean": { "value": "balanced", "reason": "Straight factual report on a US policy proposal, not political framing local to Pakistan." },
+        "confidence": { "value": "medium", "reason": "Based on a single report of a proposed, not yet finalized, US rule." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "PM Shehbaz, Gates Foundation delegation discuss polio eradication, key reforms",
+      "summary": "AI summary: Prime Minister Shehbaz Sharif met a Gates Foundation delegation in Islamabad to discuss cooperation on polio eradication, health, nutrition and financial inclusion, and highlighted government priorities including digital payments and poverty reduction.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40438879/pm-shehbaz-gates-foundation-delegation-discuss-polio-eradication-key-reforms" }
+      ],
+      "timestamp": "Sep 10, 8:14 PM",
+      "publishedAt": "2026-09-10T20:14:44+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Discussion of financial inclusion and digital payments cooperation could support economic development initiatives." },
+        "political": { "value": "positive", "reason": "Routine diplomatic engagement showcasing international partnership, reflecting normal government functioning." },
+        "social": { "value": "positive", "reason": "Continued polio eradication and health/nutrition cooperation directly benefits public wellbeing." },
+        "market": { "value": "low", "reason": "A diplomatic meeting with limited immediate market relevance." },
+        "lean": { "value": "balanced", "reason": "Standard government readout of a diplomatic meeting, not adversarial in framing." },
+        "confidence": { "value": "medium", "reason": "Single-source government-adjacent readout of the meeting." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Parliament to debate new provinces next month, says minister",
+      "summary": "AI summary: Parliamentary Affairs Minister Tariq Fazal Chaudhry said parliament will debate proposals for new provinces when the National Assembly and Senate reconvene in October, while separately clarifying that Islamabad will not become a standalone province but may get its own elected assembly instead.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2028912/parliament-to-debate-new-provinces-next-month-says-minister" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/681526-parliamentary-debate-on-new-provinces-to-be-held-next-month-says-minister" }
+      ],
+      "timestamp": "Sep 10, 8:12 PM",
+      "publishedAt": "2026-09-10T20:12:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Purely procedural scheduling of a future debate, no immediate economic effect." },
+        "political": { "value": "neutral", "reason": "Signals an orderly, parliamentary process for a contentious proposal rather than unilateral action, though the underlying new-provinces idea remains disputed among coalition partners." },
+        "social": { "value": "neutral", "reason": "No direct, immediate impact on daily life; the substantive debate has not yet happened." },
+        "market": { "value": "low", "reason": "Administrative and political process story with minimal market relevance." },
+        "lean": { "value": "balanced", "reason": "Both reports quote the minister directly and note opposition from PPP and Sindhi nationalist groups without favoring either side." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two independent outlets with matching details." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Pakistan says no military response discussed under Makkah pact over Houthi attacks on Saudi Arabia",
+      "summary": "AI summary: Pakistan's Foreign Office said no military response has been discussed under the Makkah Joint Defence Agreement despite Houthi attacks on Saudi Arabia, describing the pact as a defensive alliance that would only activate if Yemen's conflict spilled into Saudi territory.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40438842/pakistan-says-no-military-response-discussed-under-makkah-pact-over-houthi-attacks-on-saudi-arabia" }
+      ],
+      "timestamp": "Sep 10, 7:34 PM",
+      "publishedAt": "2026-09-10T19:34:10+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic clarification with no direct economic effect." },
+        "political": { "value": "neutral", "reason": "Reassures about the defensive, non-escalatory nature of the pact, reflecting measured foreign policy management." },
+        "social": { "value": "negative", "reason": "References ongoing regional conflict and Houthi attacks, which carries background risk of instability even though Pakistan itself isn't engaging militarily." },
+        "market": { "value": "medium", "reason": "Regional security dynamics involving Gulf allies can affect oil prices and regional business confidence." },
+        "lean": { "value": "balanced", "reason": "Reports the Foreign Office's own statement without editorializing." },
+        "confidence": { "value": "medium", "reason": "Single official statement, not independently corroborated by other outlets in this set." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "IMF mission due on Sept 23 for biannual review of Pakistan's economic performance",
+      "summary": "AI summary: An IMF mission will arrive in Pakistan on September 23 for the fourth review of the $7 billion Extended Fund Facility and third review of the Resilience and Sustainability Facility, with governance reforms flagged as lagging well behind targets despite fiscal and monetary criteria staying mostly on track.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2028892/imf-mission-due-on-sept-23-for-biannual-review-of-pakistans-economic-performance" }
+      ],
+      "timestamp": "Sep 10, 7:31 PM",
+      "publishedAt": "2026-09-10T19:31:51+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Routine scheduled IMF review; outcome and disbursement remain pending, with governance shortfalls noted as a risk." },
+        "political": { "value": "negative", "reason": "Report flags that most governance reform targets have not been met, an indicator of institutional underperformance on IMF commitments." },
+        "social": { "value": "neutral", "reason": "No direct near-term effect on daily life; concerns are about revenue collection and governance rather than a public-facing measure." },
+        "market": { "value": "high", "reason": "IMF review outcomes directly affect Pakistan's loan disbursements, currency stability and investor sentiment." },
+        "lean": { "value": "balanced", "reason": "Factual, technical report on program compliance based on IMF and government data points." },
+        "confidence": { "value": "medium", "reason": "Single-source detailed report, plausible and specific but not cross-corroborated here." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Non-bailable arrest warrants issued for KP CM, other PTI lawmakers",
+      "summary": "AI summary: An Islamabad anti-terrorism court issued non-bailable arrest warrants for KP Chief Minister Sohail Afridi and several PTI-backed lawmakers over their alleged involvement in violent November 2024 protests demanding Imran Khan's release.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/681508-non-bailable-arrest-warrants-issued-for-kp-cm-other-pti-lawmakers" }
+      ],
+      "timestamp": "Sep 10, 6:43 PM",
+      "publishedAt": "2026-09-10T18:43:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A legal and judicial development with no direct economic effect." },
+        "political": { "value": "negative", "reason": "Arrest warrants against a sitting chief minister and multiple lawmakers from the main opposition party signal deepening confrontation between state institutions and the opposition." },
+        "social": { "value": "neutral", "reason": "A legal proceeding; direct public-safety impact is limited unless arrests are carried out and provoke unrest." },
+        "market": { "value": "low", "reason": "Domestic political and legal story with limited direct market relevance." },
+        "lean": { "value": "balanced", "reason": "Report attributes the warrants to the court and states the charges factually without editorializing, though it centers only on the case against PTI figures." },
+        "confidence": { "value": "medium", "reason": "Single-source report on a specific court action." }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "AGP Awan backs plea against PTI long march, says capital police 'outnumbered'",
+      "summary": "AI summary: The Attorney General told the Islamabad High Court he supports a petition to block PTI's planned September 27 long march, arguing police lack sufficient personnel, while the Chief Justice warned the court would intervene if protesters cross constitutional limits.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/681502-agp-awan-backs-plea-against-pti-long-march-says-capital-police-outnumbered" }
+      ],
+      "timestamp": "Sep 10, 5:44 PM",
+      "publishedAt": "2026-09-10T17:44:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct economic impact from this court hearing stage." },
+        "political": { "value": "negative", "reason": "A government law officer actively backing a court petition to block the opposition's planned protest reflects rising institutional friction ahead of the march." },
+        "social": { "value": "negative", "reason": "A potential move to restrict the opposition's planned demonstration raises tension and risk of unrest if the march proceeds despite legal challenges." },
+        "market": { "value": "low", "reason": "Primarily a domestic political and legal story, though prolonged unrest could affect business activity in Islamabad." },
+        "lean": { "value": "pro-government", "reason": "The Attorney General, representing the government, is quoted arguing to restrict the opposition's planned march; the report centers this argument without presenting PTI's counter-view in comparable depth." },
+        "confidence": { "value": "medium", "reason": "Single-source report of a court hearing, plausible but not cross-corroborated here." }
+      }
+    }
+  ]
+}
