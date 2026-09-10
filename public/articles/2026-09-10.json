@@ -1,0 +1,179 @@
+{
+  "generatedAt": "2026-09-10T14:36:02+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Mir Raza case: Sindh home minister apologises over AG's conduct before judicial commission",
+      "summary": "AI summary: Sindh Home Minister Zia-ul-Hassan Lanjar issued an unconditional apology before the judicial commission probing businessman Mir Raza Ali's death after Justice Omar Sial criticised the advocate general's earlier conduct, and pledged the provincial government would not obstruct the inquiry, with witness hearings set to resume September 14.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/681456-mir-raza-case-sindh-home-minister-apologises-over-ags-conduct-before-judicial-commission" },
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2028859" }
+      ],
+      "timestamp": "Sep 10, 12:58 PM",
+      "publishedAt": "2026-09-10T12:58:22+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A judicial commission proceeding over a criminal case has no direct bearing on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "A provincial minister cooperating with judicial oversight is normal institutional process, not a governance-stability development." },
+        "social": { "value": "negative", "reason": "An unresolved suspicious death investigation with criticized official conduct and low family confidence reflects ongoing public justice concerns." },
+        "market": { "value": "low", "reason": "A localized judicial proceeding is not relevant to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Both the commission's criticism of the AG and the minister's assurances are reported without partisan framing." },
+        "confidence": { "value": "high", "reason": "Corroborated by two independent outlets with consistent quotes, dates, and procedural details." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "FO says Makkah defence pact 'defensive' in nature, expansion currently 'not on the cards'",
+      "summary": "AI summary: Pakistan's Foreign Office said the Makkah defence pact with Saudi Arabia and Turkiye is purely defensive and that expanding its membership isn't currently planned, even as it condemned Houthi attacks on Saudi Arabia and reaffirmed the pact would be honoured if Gulf aggression widened.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40438842/pakistan-says-makkah-alliance-is-defensive-its-expansion-not-on-the-cards" },
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2028847" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/681449-houthi-attacks-on-ksa-fo-says-more-time-needed-to-implement-makkah-defence-pact" }
+      ],
+      "timestamp": "Sep 10, 12:56 PM",
+      "publishedAt": "2026-09-10T12:56:59+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic clarification about a defence pact's scope has no direct effect on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "A routine Foreign Office briefing on an existing alliance's status doesn't itself affect Pakistan's domestic institutional or governance stability." },
+        "social": { "value": "neutral", "reason": "No direct, immediate effect on the Pakistani public's daily life." },
+        "market": { "value": "medium", "reason": "Ties to Gulf security dynamics and Houthi attacks near Saudi Arabia are relevant to investors watching regional stability and oil markets." },
+        "lean": { "value": "balanced", "reason": "A factual account of an official briefing with no partisan domestic framing." },
+        "confidence": { "value": "high", "reason": "Corroborated by three independent outlets citing the same spokesperson and consistent quotes from the same briefing." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "FM Dar, Turkish counterpart reaffirm support for Palestine, two-state solution",
+      "summary": "AI summary: Foreign Minister Ishaq Dar and Turkish counterpart Hakan Fidan reaffirmed joint support for Palestine and a two-state solution in a phone call, backing recent Western curbs on imports from illegal Israeli settlements and agreeing to meet again during the UN General Assembly.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40438839/fm-dar-turkish-counterpart-reaffirm-support-for-palestine-two-state-solution" }
+      ],
+      "timestamp": "Sep 10, 12:20 PM",
+      "publishedAt": "2026-09-10T12:20:28+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic call on the Palestinian issue has no direct bearing on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "Routine bilateral diplomacy reaffirming an existing foreign-policy position doesn't affect domestic institutional stability." },
+        "social": { "value": "neutral", "reason": "No direct, immediate effect on Pakistani public daily life." },
+        "market": { "value": "low", "reason": "Not materially relevant to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "A factual diplomatic readout with no partisan domestic framing." },
+        "confidence": { "value": "medium", "reason": "Single-source report of a specific official call with attributed detail." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Anti-migrant protesters mistakenly target Pakistan U-19 team hotel in UK",
+      "summary": "AI summary: Anti-immigration protesters gathered outside a Portsmouth hotel after mistakenly believing Pakistan's under-19 cricket squad were asylum seekers, dispersing without incident once police and a local councillor confirmed the travellers' identity.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2028744" }
+      ],
+      "timestamp": "Sep 10, 11:46 AM",
+      "publishedAt": "2026-09-10T11:46:26+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A crowd incident abroad has no bearing on Pakistan's jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "A foreign domestic immigration dispute has no bearing on Pakistan's institutional or governance stability." },
+        "social": { "value": "negative", "reason": "The incident reflects hostility and misidentification risk faced by Pakistani travellers abroad, a safety and dignity concern even though it resolved without harm." },
+        "market": { "value": "low", "reason": "Not relevant to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "A factual report including both the protesters' mistake and criticism of the profiling, with no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single-source report with specific, attributed details from police and a witness." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Prime suspect gets interim bail in KU professor assault case",
+      "summary": "AI summary: A Karachi court granted interim bail to the man accused of assaulting and briefly holding University of Karachi professor Dr Arif Khan Saqi after a road collision escalated into gunfire and alleged torture, as Sindh's home minister ordered a detailed report and vowed to protect teachers' safety.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/681426-prime-suspect-gets-interim-bail-in-ku-professor-assault-case" }
+      ],
+      "timestamp": "Sep 10, 11:28 AM",
+      "publishedAt": "2026-09-10T11:28:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A criminal case has no bearing on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "A specific criminal case with a provincial minister's response doesn't itself affect institutional or governance stability." },
+        "social": { "value": "negative", "reason": "A violent assault and alleged torture of a university professor raises public safety concerns." },
+        "market": { "value": "low", "reason": "Not relevant to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "A factual account of the court decision and official response with no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single-source report with specific, attributed court and police details." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "President Zardari returns to Pakistan after concluding private UK visit",
+      "summary": "AI summary: President Asif Ali Zardari returned to Pakistan after a week-plus private visit to the UK that included medical checkups, declining to comment on domestic political matters such as proposals for new provinces.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/681421-president-zardari-returns-to-pakistan-after-private-visit-to-uk" }
+      ],
+      "timestamp": "Sep 10, 10:44 AM",
+      "publishedAt": "2026-09-10T10:44:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A presidential personal/medical trip has no bearing on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "A routine return from a declared private visit, with no political meetings held, doesn't affect institutional or governance stability." },
+        "social": { "value": "neutral", "reason": "A personal travel and health update has no direct bearing on general public wellbeing." },
+        "market": { "value": "low", "reason": "Not relevant to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "A straightforward factual report with no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single-source report of a personal event with specific, attributed details." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "PM to highlight efforts to end US-Iran war at UNGA",
+      "summary": "AI summary: Prime Minister Shehbaz Sharif is set to use his September 25 UN General Assembly address to push for a negotiated end to the US-Iran conflict, citing Pakistan's geographic proximity and economic and security stakes in the Gulf.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2028776" }
+      ],
+      "timestamp": "Sep 10, 7:21 AM",
+      "publishedAt": "2026-09-10T07:21:50+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A planned diplomatic speech has no direct, immediate effect on jobs, prices, or business activity." },
+        "political": { "value": "neutral", "reason": "A planned UNGA address on a foreign conflict doesn't itself affect Pakistan's domestic institutional or governance stability." },
+        "social": { "value": "neutral", "reason": "No direct, immediate effect on Pakistani public daily life." },
+        "market": { "value": "medium", "reason": "Pakistan's diplomatic positioning on the Gulf conflict is relevant to investors given regional oil and security stakes." },
+        "lean": { "value": "balanced", "reason": "A factual preview of a planned diplomatic speech with no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single-source report with specific, attributed diplomatic and scheduling detail." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Qatar revokes visa-on-arrival facility for Pakistanis",
+      "summary": "AI summary: Qatar has ended its visa-on-arrival and online visa portal for Pakistani nationals, reportedly citing regional security concerns after the Iran-US escalation, becoming the second Gulf state after the UAE to tighten entry for Pakistanis, while Islamabad says it has yet to receive formal notice and plans to raise the matter with Doha.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40438727/qatar-revokes-visa-on-arrival-facility-for-pakistanis" }
+      ],
+      "timestamp": "Sep 10, 6:20 AM",
+      "publishedAt": "2026-09-10T06:20:40+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Restricting easy entry to a major Gulf labour and business market raises travel friction for Pakistani workers, traders, and job-seekers." },
+        "political": { "value": "neutral", "reason": "An unconfirmed bilateral consular restriction reflects diplomatic friction but doesn't itself affect Pakistan's institutional stability." },
+        "social": { "value": "negative", "reason": "Directly disrupts travel plans and access for Pakistani citizens who relied on visa-on-arrival, following similar UAE restrictions." },
+        "market": { "value": "medium", "reason": "Relevant to businesses and travellers dependent on Gulf mobility and labour markets." },
+        "lean": { "value": "balanced", "reason": "A factual report citing both traveller accounts and the Foreign Office's cautious response, with no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single-source report describing an unofficial, not yet formally confirmed policy change." }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "Speaker, Dar discuss matters relating to parliamentary affairs",
+      "summary": "AI summary: National Assembly Speaker Ayaz Sadiq and Deputy PM/Foreign Minister Ishaq Dar met to discuss pending government and private-member legislation, with Dar stressing the need for a strong parliament and cross-party cooperation on matters of national importance.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40438709/speaker-dar-discuss-matters-relating-to-parliamentary-affairs" }
+      ],
+      "timestamp": "Sep 10, 6:20 AM",
+      "publishedAt": "2026-09-10T06:20:40+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A routine parliamentary-affairs meeting has no direct bearing on jobs, prices, or business activity." },
+        "political": { "value": "positive", "reason": "Reflects normal, functioning legislative engagement and a stated commitment to strengthening parliamentary institutions and cross-party cooperation." },
+        "social": { "value": "neutral", "reason": "No direct, immediate effect on public daily life." },
+        "market": { "value": "low", "reason": "Not relevant to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "A factual official readout with no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single-source report of a specific official meeting with attributed quotes." }
+      }
+    }
+  ]
+}
