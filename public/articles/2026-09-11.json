@@ -1,8 +1,198 @@
 {
-  "generatedAt": "2026-09-11T01:44:15+05:00",
+  "generatedAt": "2026-09-11T10:02:25+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "President Zardari, PM Shehbaz pledge to advance Quaid's vision of prosperous Pakistan",
+      "summary": "AI summary: On the 78th death anniversary of Muhammad Ali Jinnah, President Asif Ali Zardari and Prime Minister Shehbaz Sharif issued tributes pledging to advance the Quaid's vision, with Zardari calling for stronger democratic institutions and economic reform and Shehbaz stressing national unity and economic stability.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/681594-president-zardari-pm-shehbaz-pledge-to-advance-quaids-vision-of-prosperous-pakistan" }
+      ],
+      "timestamp": "Sep 11, 9:13 AM",
+      "publishedAt": "2026-09-11T09:13:39+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A ceremonial statement referencing economic reform in general terms, with no concrete policy action." },
+        "political": { "value": "positive", "reason": "Routine, unified commemorative messaging from both the President and PM with no controversy or friction." },
+        "social": { "value": "positive", "reason": "A unifying national commemoration promoting shared values rather than division." },
+        "market": { "value": "low", "reason": "Ceremonial statements with no direct bearing on markets or business." },
+        "lean": { "value": "balanced", "reason": "Both the President and PM are quoted with similar unifying, non-partisan messaging." },
+        "confidence": { "value": "medium", "reason": "Single-source readout of official statements." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Azma Bokhari defends Punjab CM's use of official jet for London trip",
+      "summary": "AI summary: Punjab Information Minister Azma Bokhari defended Chief Minister Maryam Nawaz's use of the provincial government's jet for a private trip to her daughter's London graduation, saying Nawaz personally paid all expenses, after opposition figures including PTI's Moonis Elahi criticized the trip amid rising fuel costs.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2028993/azma-bokhari-defends-punjab-cms-use-of-official-jet-for-london-trip" }
+      ],
+      "timestamp": "Sep 11, 7:59 AM",
+      "publishedAt": "2026-09-11T07:59:49+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A resource-use controversy rather than a policy or spending decision with direct economic effect." },
+        "political": { "value": "negative", "reason": "Public controversy over a sitting chief minister's use of official resources for a private trip, drawing opposition criticism, reflects governance-optics friction." },
+        "social": { "value": "neutral", "reason": "A political controversy story with limited direct effect on daily public life." },
+        "market": { "value": "low", "reason": "Domestic political controversy with no market relevance." },
+        "lean": { "value": "balanced", "reason": "The report quotes both the opposition's criticism and the minister's defense." },
+        "confidence": { "value": "medium", "reason": "Single-source report on an ongoing controversy." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Twin cities prepare strategy to counter PTI's Sept 27 protest",
+      "summary": "AI summary: Rawalpindi and Islamabad administrations are mobilizing over 1,000 shipping containers, around 15,000 personnel from other provinces, and anti-riot supplies to block PTI's planned September 27 protest, while Rawalpindi has also issued preventive detention orders against more than 30 PTI activists.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2029048/twin-cities-prepare-strategy-to-counter-ptis-sept-27-protest" }
+      ],
+      "timestamp": "Sep 11, 7:38 AM",
+      "publishedAt": "2026-09-11T07:38:36+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Large-scale container blockades and road closures in two major cities would disrupt business activity and commuting." },
+        "political": { "value": "negative", "reason": "Large-scale security mobilization and preventive detention of over 30 opposition activists ahead of a planned protest signal rising state-opposition confrontation." },
+        "social": { "value": "negative", "reason": "Mass container placement, heavy security deployment and activist detentions disrupt daily life and raise civil-liberties concerns." },
+        "market": { "value": "medium", "reason": "Potential business and traffic disruption in the twin cities from large-scale road blockades." },
+        "lean": { "value": "balanced", "reason": "Reports the administration's logistical security preparations factually, though PTI's response is not included in this account." },
+        "confidence": { "value": "medium", "reason": "Single-source report on administrative planning, not corroborated elsewhere in this set." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "NCCIA quizzes cricketers over 'dressing room leaks'",
+      "summary": "AI summary: Pakistan's National Cyber Crime Investigation Agency questioned cricketers Imam-ul-Haq and Mohammad Rizwan for about four hours and forensically examined their phones over alleged dressing-room leaks during the England Test series, following a complaint from the Pakistan Cricket Board, in an unusual move to involve law enforcement mid-series.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2028985/nccia-quizzes-cricketers-over-dressing-room-leaks" }
+      ],
+      "timestamp": "Sep 11, 7:23 AM",
+      "publishedAt": "2026-09-11T07:23:45+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A sports-related investigation with no economic impact." },
+        "political": { "value": "neutral", "reason": "A cricket-board-initiated probe involving a state cyber agency, but not a governance or institutional stability matter." },
+        "social": { "value": "neutral", "reason": "A matter of public sporting interest with limited broader social effect." },
+        "market": { "value": "low", "reason": "No relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Straightforward factual reporting of an investigation with no partisan angle." },
+        "confidence": { "value": "medium", "reason": "Single-source report of an ongoing investigation." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Five terrorists killed in CTD operation in Peshawar",
+      "summary": "AI summary: Pakistan's Counter-Terrorism Department said it killed five militants, including a commander wanted in 20 cases and carrying a Rs120 million bounty, during an operation in Peshawar's Shamshatoo Camp area, recovering weapons and explosives from the site.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/681584-five-terrorists-killed-in-ctd-operation-in-peshawar" }
+      ],
+      "timestamp": "Sep 11, 6:23 AM",
+      "publishedAt": "2026-09-11T06:23:18+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A security operation with no direct economic effect." },
+        "political": { "value": "neutral", "reason": "A routine counter-terrorism operation attributed to CTD, not a governance or institutional-stability event." },
+        "social": { "value": "negative", "reason": "Reflects ongoing militant activity and violence in the region, a marker of continued instability even though the operation is framed as a security success." },
+        "market": { "value": "low", "reason": "Localized security story with limited market relevance." },
+        "lean": { "value": "balanced", "reason": "Report attributes the claims to CTD/police sources without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single-source official account of a security operation, not independently corroborated here." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Pakistan to play its role as per Makkah pact: MOFA",
+      "summary": "AI summary: Pakistan's Foreign Ministry denied reports of planning military strikes against Yemen's Houthis, saying there are currently no discussions of military action under the Makkah Defence Pact, while reaffirming support for Saudi Arabia's sovereignty and describing the pact as a defensive alliance that would need to be strengthened before any expansion.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40438964/pakistan-to-play-its-role-as-per-makkah-pact-mofa" }
+      ],
+      "timestamp": "Sep 11, 6:00 AM",
+      "publishedAt": "2026-09-11T06:00:47+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic clarification with no direct economic effect." },
+        "political": { "value": "neutral", "reason": "A de-escalatory official statement reflecting measured foreign-policy management rather than a governance disruption." },
+        "social": { "value": "neutral", "reason": "Primarily reassures the public against speculation of military action, without a direct effect on daily life." },
+        "market": { "value": "medium", "reason": "Regional security dynamics involving Gulf allies can affect oil prices and regional business confidence." },
+        "lean": { "value": "balanced", "reason": "Reports the Foreign Ministry's own statement factually without editorializing." },
+        "confidence": { "value": "medium", "reason": "Single official statement, not independently corroborated by other outlets in this set." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "President returns home",
+      "summary": "AI summary: President Asif Ali Zardari returned to Pakistan after a private visit to the United Kingdom that began August 27, telling reporters on arrival that he was well and had enjoyed his time abroad.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40438961/president-returns-home" }
+      ],
+      "timestamp": "Sep 11, 6:00 AM",
+      "publishedAt": "2026-09-11T06:00:47+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Routine personal travel with no economic effect." },
+        "political": { "value": "neutral", "reason": "A routine return from a private trip, not a governance event." },
+        "social": { "value": "neutral", "reason": "No effect on public wellbeing or daily life." },
+        "market": { "value": "low", "reason": "No relevance to markets or business." },
+        "lean": { "value": "balanced", "reason": "Simple factual report of the president's arrival with brief quoted remarks." },
+        "confidence": { "value": "medium", "reason": "Single-source report, though a low-stakes, easily verifiable factual claim." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "JI to continue sit-ins as talks with govt fail",
+      "summary": "AI summary: Jamaat-e-Islami ended talks with the government on Thursday without agreement on reducing the petroleum levy and fuel prices, with the party saying it will continue nationwide sit-ins and march on Islamabad if no relief comes by Monday, as the government sought a three-day extension and JUI-F's Fazlur Rehman voiced support for JI's campaign.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40438948/ji-to-continue-sit-ins-as-talks-with-govt-fail" }
+      ],
+      "timestamp": "Sep 11, 6:00 AM",
+      "publishedAt": "2026-09-11T06:00:47+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No levy or price change has occurred yet; this is a negotiation-status update." },
+        "political": { "value": "negative", "reason": "Talks breaking down and a threatened nationwide escalation, now also backed by JUI-F, signal rising political tension and pressure on the government." },
+        "social": { "value": "neutral", "reason": "Describes a protest threat rather than an event yet affecting the public directly." },
+        "market": { "value": "low", "reason": "No confirmed levy change yet; limited immediate market relevance." },
+        "lean": { "value": "balanced", "reason": "The report states both JI's demands and the government's extension request factually." },
+        "confidence": { "value": "medium", "reason": "Single-source account of an ongoing negotiation." }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "Delegation of Gates Foundation visits BISP HQs",
+      "summary": "AI summary: A Gates Foundation delegation led by Dr Anita Zaidi visited the Benazir Income Support Programme headquarters, where BISP said 9.7 million free SIMs have been issued to women beneficiaries under its Digital Wallet initiative, and the two sides discussed collaboration on digital literacy, maternal health and skills training including a planned pilot across ten districts.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40438939/delegation-of-gates-foundation-visits-bisp-hqs" }
+      ],
+      "timestamp": "Sep 11, 6:00 AM",
+      "publishedAt": "2026-09-11T06:00:47+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Digital wallet and financial-inclusion initiatives for women beneficiaries support economic empowerment." },
+        "political": { "value": "positive", "reason": "Routine, non-controversial collaboration between a welfare institution and an international foundation." },
+        "social": { "value": "positive", "reason": "Expands digital literacy, maternal health and skills-training support for low-income women." },
+        "market": { "value": "low", "reason": "A development-sector collaboration with limited direct market relevance." },
+        "lean": { "value": "balanced", "reason": "A straightforward, non-partisan readout of a welfare-program visit." },
+        "confidence": { "value": "medium", "reason": "Single-source report of the visit and its stated figures." }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "Arif Saqi assault case: Police arrest key suspect Konain Shah",
+      "summary": "AI summary: Police arrested Syed Muhammad Konain Shah, the prime suspect accused of shooting at and beating University of Karachi professor Dr Muhammad Arif Khan Saqi and then confining him and his nephew at a hotel following a vehicle collision near Safoora Chowrangi, arresting him despite his having obtained interim pre-arrest bail, over fears he might flee.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/681575-arif-saqi-assault-case-police-arrest-key-suspect-konain-shah" }
+      ],
+      "timestamp": "Sep 11, 3:45 AM",
+      "publishedAt": "2026-09-11T03:45:46+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A criminal case with no economic effect." },
+        "political": { "value": "neutral", "reason": "A local law-enforcement matter, not a governance or institutional-stability issue." },
+        "social": { "value": "negative", "reason": "A violent assault and unlawful confinement of a university professor raises public-safety concerns, though the arrest is a step toward accountability." },
+        "market": { "value": "low", "reason": "No relevance to markets or business." },
+        "lean": { "value": "balanced", "reason": "A factual crime-and-arrest report with no partisan angle." },
+        "confidence": { "value": "medium", "reason": "Single-source report of the arrest and allegations." }
+      }
+    },
+    {
+      "id": 11,
       "headline": "Govt increases petrol price by Rs3.05, diesel by Rs5.37",
       "summary": "AI summary: Pakistan's government raised petrol prices by Rs3.05 and diesel by Rs5.37 per litre effective September 11, continuing a pattern of near-daily price adjustments tied to regional volatility since the Iran-US conflict began earlier this year.",
       "sources": [
@@ -21,7 +211,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 12,
       "headline": "Govt asks JI for three more days to decide on petroleum levy: Liaqat Baloch",
       "summary": "AI summary: The government has requested a three-day extension from Jamaat-e-Islami to respond to the party's demands on the petroleum levy, with JI warning that a countrywide long march to Islamabad will follow if its demands aren't met by Monday.",
       "sources": [
@@ -40,7 +230,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 13,
       "headline": "Trump administration proposes waiving grace period for H-1B holders after job loss",
       "summary": "AI summary: The US Department of Homeland Security has proposed eliminating the 60-day grace period that lets H-1B and other temporary work-visa holders stay in the US to find new jobs after being laid off, a change immigration attorneys say would compress layoff timelines sharply.",
       "sources": [
@@ -59,7 +249,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 14,
       "headline": "PM Shehbaz, Gates Foundation delegation discuss polio eradication, key reforms",
       "summary": "AI summary: Prime Minister Shehbaz Sharif met a Gates Foundation delegation in Islamabad to discuss cooperation on polio eradication, health, nutrition and financial inclusion, and highlighted government priorities including digital payments and poverty reduction.",
       "sources": [
@@ -78,7 +268,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 15,
       "headline": "Parliament to debate new provinces next month, says minister",
       "summary": "AI summary: Parliamentary Affairs Minister Tariq Fazal Chaudhry said parliament will debate proposals for new provinces when the National Assembly and Senate reconvene in October, while separately clarifying that Islamabad will not become a standalone province but may get its own elected assembly instead.",
       "sources": [
@@ -98,7 +288,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 16,
       "headline": "Pakistan says no military response discussed under Makkah pact over Houthi attacks on Saudi Arabia",
       "summary": "AI summary: Pakistan's Foreign Office said no military response has been discussed under the Makkah Joint Defence Agreement despite Houthi attacks on Saudi Arabia, describing the pact as a defensive alliance that would only activate if Yemen's conflict spilled into Saudi territory.",
       "sources": [
@@ -117,7 +307,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 17,
       "headline": "IMF mission due on Sept 23 for biannual review of Pakistan's economic performance",
       "summary": "AI summary: An IMF mission will arrive in Pakistan on September 23 for the fourth review of the $7 billion Extended Fund Facility and third review of the Resilience and Sustainability Facility, with governance reforms flagged as lagging well behind targets despite fiscal and monetary criteria staying mostly on track.",
       "sources": [
@@ -136,7 +326,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 18,
       "headline": "Non-bailable arrest warrants issued for KP CM, other PTI lawmakers",
       "summary": "AI summary: An Islamabad anti-terrorism court issued non-bailable arrest warrants for KP Chief Minister Sohail Afridi and several PTI-backed lawmakers over their alleged involvement in violent November 2024 protests demanding Imran Khan's release.",
       "sources": [
@@ -155,7 +345,7 @@
       }
     },
     {
-      "id": 9,
+      "id": 19,
       "headline": "AGP Awan backs plea against PTI long march, says capital police 'outnumbered'",
       "summary": "AI summary: The Attorney General told the Islamabad High Court he supports a petition to block PTI's planned September 27 long march, arguing police lack sufficient personnel, while the Chief Justice warned the court would intervene if protesters cross constitutional limits.",
       "sources": [
