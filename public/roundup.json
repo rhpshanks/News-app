@@ -1,50 +1,50 @@
 {
-  "generatedAt": "2026-09-05T14:30:00+05:00",
-  "periodStart": "2026-08-28",
-  "periodEnd": "2026-09-04",
-  "periodLabel": "Aug 28 to Sep 4, 2026",
-  "totalArticles": 99,
+  "generatedAt": "2026-09-11T23:08:24+05:00",
+  "periodStart": "2026-09-05",
+  "periodEnd": "2026-09-11",
+  "periodLabel": "Sep 5 to Sep 11, 2026",
+  "totalArticles": 92,
   "stats": {
-    "economic": { "positive": 9, "neutral": 78, "negative": 12 },
-    "political": { "positive": 17, "neutral": 60, "negative": 22 },
-    "social": { "positive": 12, "neutral": 44, "negative": 43 }
+    "economic": { "positive": 4, "neutral": 78, "negative": 10 },
+    "political": { "positive": 13, "neutral": 66, "negative": 13 },
+    "social": { "positive": 13, "neutral": 51, "negative": 28 }
   },
   "summary": [
-    "Across the 99 articles published between August 28 and September 4, social-category sentiment ran far more negative than either economic or political: 43% of social readings came back negative, against 22% for political and just 12% for economic. That gap wasn't diffuse across many small stories; it was driven overwhelmingly by one story that threaded through nearly every day of the week: the August 26 nursery-ward fire at Islamabad's PIMS hospital that killed 14 infants. Coverage moved from compensation announcements to an inquiry finding that treatment and facilities fell 'below global standards,' to Prime Minister Shehbaz Sharif suspending eight officials and ordering criminal proceedings once the interim inquiry cited locked exits, absent emergency protocols and warnings from an earlier fire that had gone unaddressed. Because the story combined a public-wellbeing tragedy with an exposed institutional failure, it weighed on both the social and political tallies for most of the week rather than resolving quickly.",
-    "A second thread built more gradually: the Karachi DHA 'scuffle' case, which began as CCTV footage showing uniformed police restraining the victim of a residential assault rather than her attacker. By week's end, an inquiry had found the original complaint fabricated, tied the attacker to a senior police officer's family, and recommended disciplinary action against six officers for mishandling the case, including destroying CCTV evidence. Layered on top of that were Balochistan security operations that killed dozens of alleged militants across several days but also cost security personnel and civilian casualties, plus continuing coverage of Nepal's flood disaster, whose death toll climbed past 1,250 over the week. Together these pushed social sentiment well into negative territory even as economic coverage stayed comparatively calm.",
-    "Economic sentiment held up better this week, helped by a $3 billion Saudi agri-export target, a $10 billion ADB-backed push on the ML-1 railway upgrade, and Rs60 billion in newly cleared development projects. The clearest economic drag came from abroad: Iran's retaliatory strikes on US bases in Jordan and the UAE escalated the ongoing US-Iran conflict and sent oil prices sharply higher, a shock that matters directly for an import-dependent economy like Pakistan's. At home, the government raised petrol and diesel prices on September 4 even while its delegation was in active talks with Jamaat-e-Islami over the same petroleum levy that had already triggered a nationwide shutter-down strike days earlier. A slower-moving economic risk also surfaced this week: legal experts warned that India's continued suspension of the Indus Waters Treaty threatens the livelihoods of tens of millions of farmers in Punjab and Sindh.",
-    "Despite covering genuinely contested material, including recurring disputes over Imran Khan's health and custody, a planning-minister proposal to consider splitting Pakistan into up to 15 new provinces, and the Jamaat-e-Islami's fuel protests, the week's lean readings stayed almost entirely balanced: 97 of 99 articles were tagged balanced, with only two flagged pro-government, and both of those were single-source reports built entirely on unnamed military or security-force statements rather than visible editorializing toward a domestic political side. Confidence was notably strained on August 31 and September 1, when repeated access errors on Business Recorder's site forced several stories, including early coverage of the Iran-US escalation and the Indus Waters Treaty dispute, to be assessed from short RSS excerpts rather than full articles. That is a sourcing limitation worth naming, even though it does not appear to have introduced any one-sided framing into the coverage itself."
+    "Social coverage carried the week's sharpest negative tilt: 30% of the week's 92 articles landed negative on the social dimension, roughly three times economic coverage's 11% negative share. That gap traces to a real, near-daily cost-of-living story rather than a one-off event: petrol and diesel prices rose in almost every one of the seven days (including a Rs12.90/litre petrol jump on September 8 and further increases on September 9 and 10), compounding an Iran-US standoff that briefly pushed oil toward $100 a barrel. Layer on a violent assault on a Karachi University professor, cross-border militant operations in Balochistan and Khyber Pakhtunkhwa, and reports of police misconduct in a Karachi case, and the social-negative share reflects a genuine cluster of public-safety and affordability stories rather than an artifact of how the categories are scored.",
+    "Political coverage came out exactly balanced on paper, 14% positive against 14% negative, but that arithmetic balance sits on top of one dominant, one-sided storyline: escalating confrontation between the state and PTI ahead of the party's planned September 27 long march on Islamabad. Within the week, an Islamabad anti-terrorism court issued non-bailable arrest warrants for a sitting provincial chief minister and other PTI lawmakers, authorities began mobilizing over 1,000 shipping containers and roughly 15,000 personnel while detaining more than 30 activists, and the Attorney General went to court to help block the march outright. Running in parallel, and just as consequential for ordinary households, talks between the government and Jamaat-e-Islami over the petroleum levy broke down, with JI threatening nationwide sit-ins (and JUI-F voicing support) if fuel relief doesn't come by month's end.",
+    "The clearest example of politics and economics intersecting was the IMF's scheduled review, due September 23, of Pakistan's $7 billion Extended Fund Facility: reporting flagged that governance-reform targets are lagging well behind schedule even as fiscal and monetary benchmarks stay mostly on track, a reminder that institutional friction carries direct financial stakes given how IMF outcomes feed into currency stability and loan disbursements. Separately, a journalist's arrest and short remand under the cybercrime law, over disputed reporting on a security-agency appointment, added a press-freedom angle to the week's institutional tension that stands apart from the more overtly partisan disputes.",
+    "Despite how confrontational the week's political substance was, the AI's lean classification stayed 'balanced' on 89 of the week's 92 articles (97%); only 3 were flagged pro-government, and none pro-opposition, suggesting the underlying reporting was judged to present multiple sides even on stories about state action against the opposition. Confidence, meanwhile, was overwhelmingly medium across the week, but dipped noticeably on September 6, when six of that day's articles were rated low-confidence, largely stories built on unnamed sources covering the new-provinces restructuring debate and an early, unconfirmed report of a PTI leader's arrest that lacked an official statement at the time."
   ],
   "notableStories": [
     {
-      "headline": "PIMS fire: PM Shehbaz orders suspension, criminal action against 8 officials as inquiry panel submits interim report",
-      "context": "An interim inquiry into the nursery-ward fire that killed 14 infants at Islamabad's PIMS hospital found locked exits and ignored warnings from an earlier fire, prompting the prime minister to suspend eight officials and order criminal proceedings.",
+      "headline": "Non-bailable arrest warrants issued for KP CM, other PTI lawmakers",
+      "context": "An Islamabad anti-terrorism court issued non-bailable arrest warrants for a sitting provincial chief minister and several PTI lawmakers, marking one of the sharpest escalations yet in the standoff between the state and the main opposition party.",
+      "sourceName": "Geo News",
+      "sourceUrl": "https://www.geo.tv/latest/681508-non-bailable-arrest-warrants-issued-for-kp-cm-other-pti-lawmakers"
+    },
+    {
+      "headline": "Twin cities prepare strategy to counter PTI's Sept 27 protest",
+      "context": "Authorities began mobilizing over 1,000 shipping containers and roughly 15,000 personnel to block a planned September 27 opposition march, alongside preventive detentions of more than 30 activists, illustrating the scale of the state's response to the planned protest.",
+      "sourceName": "Dawn News",
+      "sourceUrl": "https://www.dawn.com/news/2029048/twin-cities-prepare-strategy-to-counter-ptis-sept-27-protest"
+    },
+    {
+      "headline": "JI to continue sit-ins as talks with govt fail",
+      "context": "Talks between the government and Jamaat-e-Islami over the petroleum levy collapsed without agreement, with the party threatening nationwide sit-ins and a march on Islamabad, backed by JUI-F, if fuel relief doesn't materialize.",
       "sourceName": "Business Recorder",
-      "sourceUrl": "https://www.brecorder.com/news/40436989/pims-fire-executive-director-imran-sikandar-among-eight-suspended"
+      "sourceUrl": "https://www.brecorder.com/news/40438948/ji-to-continue-sit-ins-as-talks-with-govt-fail"
     },
     {
-      "headline": "Iran targets US military in Jordan, UAE after American attack on Larak Island in latest flare-up",
-      "context": "Iran's retaliatory strikes on US bases in Jordan and the UAE escalated the six-month US-Iran conflict and sent oil prices sharply higher, showing how a distant war is now feeding directly into Pakistan's energy costs.",
+      "headline": "IMF mission due on Sept 23 for biannual review of Pakistan's economic performance",
+      "context": "An IMF mission is due later in September for a scheduled review of Pakistan's loan program, and the report notes governance reforms are lagging well behind targets even though fiscal and monetary benchmarks remain largely on track, a signal worth watching given how directly IMF outcomes affect currency stability and disbursements.",
       "sourceName": "Dawn News",
-      "sourceUrl": "https://www.dawn.com/news/2026311/iran-targets-us-military-in-jordan-uae-after-american-attack-on-larak-island-in-latest-flare-up"
+      "sourceUrl": "https://www.dawn.com/news/2028892/imf-mission-due-on-sept-23-for-biannual-review-of-pakistans-economic-performance"
     },
     {
-      "headline": "Scuffle in Karachi's DHA: Inquiry report says allegations in FIR 'not substantiated'",
-      "context": "A week-long investigation into a viral video of police protecting the wrong party in a residential assault ended with a finding that the original complaint was fabricated and that officers connected to a senior officer's family had destroyed evidence.",
+      "headline": "NCCIA gets journalist Bilal Ghauri's 3-day physical remand in Peca case",
+      "context": "A journalist was arrested and granted only a short remand under Pakistan's cybercrime law over disputed reporting on a security-agency appointment, a case that raises press-freedom questions distinct from the week's more overtly partisan political disputes.",
       "sourceName": "Dawn News",
-      "sourceUrl": "https://www.dawn.com/news/2027445/scuffle-in-karachis-dha-inquiry-report-says-allegations-in-fir-not-substantiated"
-    },
-    {
-      "headline": "Govt raises petrol price by Rs2.84, HSD by Rs2.28 per litre",
-      "context": "The government raised fuel prices even as it was in active talks with Jamaat-e-Islami over the same petroleum levy that had triggered nationwide sit-ins and a shutter-down strike days earlier.",
-      "sourceName": "Dawn News",
-      "sourceUrl": "https://www.dawn.com/news/2027257/govt-raises-petrol-price-by-rs284-hsd-by-rs228-per-litre"
-    },
-    {
-      "headline": "India's move to hold IWT in abeyance breaches international law: experts",
-      "context": "Legal experts warned that India's continued suspension of the Indus Waters Treaty, reinforced by closing a dam's gates on the Chenab, threatens the livelihoods of tens of millions of farmers in Punjab and Sindh.",
-      "sourceName": "Business Recorder",
-      "sourceUrl": "https://www.brecorder.com/news/40437180/indias-move-to-hold-iwt-in-abeyance-breaches-international-law-experts"
+      "sourceUrl": "https://www.dawn.com/news/2028119/nccia-gets-journalist-bilal-ghauris-3-day-physical-remand-in-peca-case"
     }
   ]
 }
