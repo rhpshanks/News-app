@@ -1,0 +1,215 @@
+{
+  "generatedAt": "2026-09-12T17:04:27+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Pakistan makes NADRA-integrated vaccination proof mandatory for Umrah travelers",
+      "summary": "AI summary: Pakistan's Airport Health Department has made NADRA-linked digital vaccination certificates compulsory for Umrah pilgrims leaving the country from September 14, covering polio, meningitis, yellow fever and influenza jabs, with on-site vaccination available at airports for latecomers.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40439170/pakistan-makes-nadra-integrated-vaccination-proof-mandatory-for-umrah-travelers" }
+      ],
+      "timestamp": "Sep 12, 4:57 PM",
+      "publishedAt": "2026-09-12T16:57:12+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "New documentation requirement adds a minor compliance step for pilgrims and airlines but has no broader effect on jobs, prices or business activity." },
+        "political": { "value": "neutral", "reason": "A routine administrative/public-health directive with no bearing on institutional or governance stability." },
+        "social": { "value": "positive", "reason": "Strengthens public-health safeguards for international travelers by ensuring pilgrims are vaccinated against communicable diseases." },
+        "market": { "value": "low", "reason": "Narrow administrative change affecting only Umrah travel logistics, not markets or investors." },
+        "lean": { "value": "balanced", "reason": "Straightforward reporting of a government health notification without political framing." },
+        "confidence": { "value": "high", "reason": "Single clear official notification reported plainly from a primary source." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "PML-N's Rana Sanaullah says Parliament to decide on more provinces",
+      "summary": "AI summary: PM's political affairs adviser Rana Sanaullah said any decision on creating new provinces in Pakistan must go through Parliament and requires political consensus, responding to Interior Minister Mohsin Naqvi's repeated calls for administrative reorganization, and noted the matter has not yet reached the federal cabinet.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2029377/pml-ns-rana-sanaullah-says-parliament-to-decide-on-more-provinces" }
+      ],
+      "timestamp": "Sep 12, 4:55 PM",
+      "publishedAt": "2026-09-12T16:55:05+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Procedural statement about how a provinces decision would be made carries no direct economic effect." },
+        "political": { "value": "neutral", "reason": "Affirms that structural changes like new provinces require parliamentary process, a routine institutional statement rather than a destabilizing one." },
+        "social": { "value": "neutral", "reason": "No immediate effect on public wellbeing or daily life; discussion remains at the procedural stage." },
+        "market": { "value": "low", "reason": "Not something investors or markets would react to at this preliminary stage." },
+        "lean": { "value": "balanced", "reason": "Reports a government adviser's procedural comment without one-sided framing or missing rebuttal." },
+        "confidence": { "value": "medium", "reason": "Single-source report of a direct quote, with only one side represented in this account." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Karachi likely to receive rain from September 14: PMD",
+      "summary": "AI summary: The Pakistan Meteorological Department forecasts light rain and thunderstorms hitting Karachi from September 14 as a low-pressure system moves in from the Bay of Bengal, with several Sindh districts expecting heavier rain September 14-16 and a separate weather system bringing rain to Punjab over the weekend.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/681786-karachi-likely-to-receive-rain-from-september-14" }
+      ],
+      "timestamp": "Sep 12, 4:35 PM",
+      "publishedAt": "2026-09-12T16:35:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Routine seasonal rain forecast unlikely to significantly disrupt business activity." },
+        "political": { "value": "neutral", "reason": "A weather forecast has no bearing on governance or institutions." },
+        "social": { "value": "neutral", "reason": "Expected rainfall is moderate and forecast in advance, allowing normal precautions rather than posing an acute risk." },
+        "market": { "value": "low", "reason": "Weather forecasts of this scale are not materially relevant to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Purely factual meteorological reporting with no political angle." },
+        "confidence": { "value": "high", "reason": "Straightforward relay of an official PMD forecast." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "CJP Afridi calls for strengthening district judiciary, terms it 'backbone' of country's justice system",
+      "summary": "AI summary: Chief Justice Yahya Afridi told an Islamabad conference that the district judiciary is the 'backbone' of Pakistan's justice system, citing reforms that cut project approval times from months to 21 days and a Rs3.4 billion allocation for court electricity, internet, women's facilities and clean water, alongside solarizing tehsil courts and commending high-performing judges.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2029339/cjp-afridi-calls-for-strengthening-district-judiciary-terms-it-backbone-of-countrys-justice-system" }
+      ],
+      "timestamp": "Sep 12, 3:23 PM",
+      "publishedAt": "2026-09-12T15:23:15+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Judicial infrastructure spending is modest in scale and not likely to move broader economic indicators." },
+        "political": { "value": "positive", "reason": "Reforms aimed at speeding up judicial administration and investing in court infrastructure reflect efforts to strengthen institutional capacity." },
+        "social": { "value": "positive", "reason": "Improved facilities such as clean water, electricity and women's amenities at courts benefit court staff and the public who rely on them." },
+        "market": { "value": "low", "reason": "Internal judicial administration matters are not directly relevant to markets or investors." },
+        "lean": { "value": "balanced", "reason": "Reports the CJP's own remarks and reform announcements without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single-source account of a speech; figures are reported as stated without independent verification." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "'The real issue is her rising popularity': Marriyum defends Maryam amid criticism over jet use, terrorism remarks",
+      "summary": "AI summary: Punjab Senior Minister Marriyum Aurangzeb defended Chief Minister Maryam Nawaz against criticism over her use of a government jet for a private London trip and remarks on terrorism threats facing Punjab, calling the backlash a reaction to Maryam's rising popularity and saying the CM would personally cover the trip's costs, as the KP Assembly separately passed a resolution seeking action against her under Article 6 and a KP minister faced criticism for derogatory remarks in the same row.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2029353/the-real-issue-is-her-rising-popularity-marriyum-defends-maryam-amid-criticism-over-jet-use-terrorism-remarks" }
+      ],
+      "timestamp": "Sep 12, 3:22 PM",
+      "publishedAt": "2026-09-12T15:22:43+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A political defense statement carries no direct economic consequence." },
+        "political": { "value": "negative", "reason": "Reflects an active inter-provincial political dispute, including a resolution invoking Article 6 against a sitting chief minister, pointing to institutional friction." },
+        "social": { "value": "neutral", "reason": "A political controversy over conduct and remarks, without a direct effect on public safety or daily life, though it includes reported derogatory remarks by another official." },
+        "market": { "value": "low", "reason": "A domestic political controversy of this kind has little relevance to markets or business decisions." },
+        "lean": { "value": "balanced", "reason": "Coverage includes both the government minister's defense and the opposition-side controversy (the KP resolution and criticized remarks by a KP minister), without one-sided advocacy." },
+        "confidence": { "value": "medium", "reason": "Multiple claims from a single source account of an active political dispute." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Maryam Nawaz's daughter Mahnoor's nikah to take place today at Jati Umra",
+      "summary": "AI summary: Punjab CM Maryam Nawaz's youngest daughter Mahnoor Safdar is having her nikah today at the family's Jati Umra residence with Azan Jabbar, son of a businessman, in an intimate family ceremony following her recent graduation from SOAS University of London.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/681776-maryam-nawazs-daughter-mahnoors-nikah-to-take-place-today" }
+      ],
+      "timestamp": "Sep 12, 3:04 PM",
+      "publishedAt": "2026-09-12T15:04:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A family event with no economic implications." },
+        "political": { "value": "neutral", "reason": "A personal family occasion for a political figure's family, not tied to governance or institutions." },
+        "social": { "value": "neutral", "reason": "Personal/family news of general public interest with no broader social effect." },
+        "market": { "value": "low", "reason": "Not relevant to markets or investors." },
+        "lean": { "value": "balanced", "reason": "Purely descriptive personal/family news reporting." },
+        "confidence": { "value": "high", "reason": "Straightforward factual reporting of a scheduled family event." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Saudi Arabia says Iraqi drones forced temporary closure of crucial oil pipeline",
+      "summary": "AI summary: Saudi Arabia temporarily shut its 1,200km East-West oil pipeline after it was struck by drones launched from Iraq near Medina, an attack Baghdad acknowledged originated on its territory and for which it dismissed a provincial military commander; Pakistan's Foreign Office condemned the strike as a violation of international law and reaffirmed solidarity with Saudi sovereignty, as the incident added to regional tensions already pushing oil prices above $100 a barrel.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2029319/saudi-arabia-says-iraqi-drones-forced-temporary-closure-of-crucial-oil-pipeline" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/681781-pakistan-slams-drone-attacks-on-saudi-oil-pipeline-reaffirms-support-for-sovereignty" }
+      ],
+      "timestamp": "Sep 12, 2:29 PM",
+      "publishedAt": "2026-09-12T14:29:45+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "The attack disrupted a major oil pipeline bypassing the Strait of Hormuz and contributed to oil prices rising above $100/barrel, raising energy costs and business uncertainty." },
+        "political": { "value": "negative", "reason": "A cross-border drone attack on critical Gulf energy infrastructure, with Iraq acknowledging it originated on its territory, signals serious regional instability with implications for Pakistan's diplomatic and energy ties." },
+        "social": { "value": "negative", "reason": "The attack caused injuries and damage, and the continuing regional escalation raises safety and economic-security concerns that could affect Pakistanis connected to Gulf energy markets." },
+        "market": { "value": "high", "reason": "A major oil pipeline attack pushing global oil prices above $100/barrel is highly relevant to markets, energy costs and business decisions." },
+        "lean": { "value": "balanced", "reason": "Reports factual details from Saudi, Iraqi and Pakistani officials without favoring a domestic political side; Pakistan's government statement is reported as a diplomatic response, not partisan framing." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two independent outlets (Dawn and Geo) with matching core details on the attack and Pakistan's reaction, though full independent verification of the pipeline damage extent is unavailable." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "CJP Afridi says entire judiciary united to free judges from 'external pressure'",
+      "summary": "AI summary: Chief Justice Yahya Afridi told an Islamabad conference that the entire judiciary stands united behind judges to keep them free from external pressure, citing an improved judicial code of conduct, new solar power, internet and water facilities at Balochistan's courts, and more than Rs3 billion released this year for judicial improvements.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/681767-cjp-afridi-says-entire-judiciary-united-to-free-judges-from-external-pressure" }
+      ],
+      "timestamp": "Sep 12, 12:59 PM",
+      "publishedAt": "2026-09-12T12:59:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Judicial infrastructure funding at this scale is unlikely to have a broader economic effect." },
+        "political": { "value": "positive", "reason": "A public commitment to judicial independence and continued investment in court infrastructure supports institutional stability." },
+        "social": { "value": "positive", "reason": "Improved court facilities such as power, internet and water benefit litigants and staff who rely on the district judiciary." },
+        "market": { "value": "low", "reason": "Internal judicial administration is not directly relevant to markets or investors." },
+        "lean": { "value": "balanced", "reason": "Reports the CJP's own remarks and announcements plainly without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single-source account of remarks at a conference, not independently corroborated in this run." }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "PM places two-hour cap on power load-shedding",
+      "summary": "AI summary: PM Shehbaz Sharif ordered a two-hour cap on power load-shedding in any area after officials attributed worsening outages to RLNG supply disruptions linked to regional tensions, and directed power distribution companies to set up consumer grievance committees within a week.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40439130/pm-places-two-hour-cap-on-power-load-shedding" }
+      ],
+      "timestamp": "Sep 12, 5:46 AM",
+      "publishedAt": "2026-09-12T05:46:42+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Capping outages and creating grievance mechanisms aims to reduce disruption to businesses and consumers from prolonged blackouts." },
+        "political": { "value": "neutral", "reason": "A routine executive directive to address a public-service problem, without direct bearing on institutional stability." },
+        "social": { "value": "positive", "reason": "Limiting load-shedding directly benefits households and daily life by reducing extended power outages." },
+        "market": { "value": "medium", "reason": "Energy supply directives affect power-sector companies and business operating costs, though the order is largely administrative." },
+        "lean": { "value": "balanced", "reason": "Reports a government directive and its stated rationale (RLNG supply issues) without partisan framing or one-sided sourcing." },
+        "confidence": { "value": "medium", "reason": "Reported from a single source relaying an official meeting readout." }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "Araghchi, CDF discuss Houthi attacks on KSA",
+      "summary": "AI summary: Iran's foreign minister Abbas Araghchi and Pakistan's army chief General Asim Munir spoke by phone about efforts to de-escalate Iran's conflict with the United States and discussed Houthi attacks on Saudi Arabia, according to a Pakistani security official.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40439122/araghchi-cdf-discuss-houthi-attacks-on-ksa" }
+      ],
+      "timestamp": "Sep 12, 5:46 AM",
+      "publishedAt": "2026-09-12T05:46:42+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic phone call has no direct economic effect." },
+        "political": { "value": "neutral", "reason": "Routine diplomatic contact aimed at de-escalation does not itself indicate institutional instability, though it reflects the broader tense regional context." },
+        "social": { "value": "neutral", "reason": "No direct effect on Pakistani public wellbeing or daily life from a diplomatic call." },
+        "market": { "value": "low", "reason": "Diplomatic discussions of this kind are not directly market-moving on their own." },
+        "lean": { "value": "balanced", "reason": "Neutral relay of a diplomatic readout attributed to a security official, without partisan framing." },
+        "confidence": { "value": "low", "reason": "Based on a single unnamed security official's account of a private phone call, with no independent confirmation of details." }
+      }
+    },
+    {
+      "id": 11,
+      "headline": "JI sit-in against petroleum levy enters its 27th day",
+      "summary": "AI summary: Jamaat-e-Islami's sit-in outside the Sindh Governor House against the petroleum levy entered its 27th day, with the party saying protests have spread to 30 cities and former finance minister Miftah Ismail joining to argue the Rs85-per-litre levy should be scrapped, as officials noted the government collected Rs1,567 billion from the levy last year against a Rs1,660 billion target for the coming year.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40439101/ji-sit-in-against-petroleum-levy-enters-its-27th-day" }
+      ],
+      "timestamp": "Sep 12, 5:46 AM",
+      "publishedAt": "2026-09-12T05:46:41+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Highlights a fuel levy widely criticized as burdening consumers and businesses, alongside a prolonged protest disrupting normal activity in the area." },
+        "political": { "value": "negative", "reason": "A month-long opposition-aligned protest against government fiscal policy, spreading to 30 cities, signals sustained public pressure and friction over governance." },
+        "social": { "value": "negative", "reason": "Extended protests and public frustration over fuel-related costs affect daily life and public sentiment, especially for lower-income groups per the protesters' framing." },
+        "market": { "value": "medium", "reason": "Fuel levy policy and sustained opposition pressure are relevant to businesses and cost planning, though the protest itself has limited direct market impact." },
+        "lean": { "value": "pro-opposition", "reason": "The article foregrounds the protesters' and opposition figure's arguments against the levy at length, without including the government's countervailing rationale for the levy in this account." },
+        "confidence": { "value": "medium", "reason": "Single-source account of a protest and its organizers' claims and figures, not independently verified against government data." }
+      }
+    }
+  ]
+}
