@@ -1,0 +1,233 @@
+{
+  "generatedAt": "2026-09-13T15:59:23+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Four miners killed, two injured in Harnai coal mine explosion",
+      "summary": "AI summary: A methane gas explosion in a Harnai, Balochistan coal mine killed four miners from Dir and injured two others, with rescue teams later freeing two trapped responders; officials cited a recurring pattern of accidents in the region's mines.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/681889-four-miners-killed-two-injured-in-harnai-coal-mine-explosion" }
+      ],
+      "timestamp": "Sep 13, 3:18 PM",
+      "publishedAt": "2026-09-13T15:18:52+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Mine deaths halt operations and raise safety-compliance costs in Balochistan's coal sector." },
+        "political": { "value": "neutral", "reason": "A workplace safety incident attributed to methane buildup, not a government action or policy failure directly implicated." },
+        "social": { "value": "negative", "reason": "Four miners killed and two injured, continuing a pattern of fatal accidents in the region's coal mines." },
+        "market": { "value": "low", "reason": "A single local mine incident with no broader market or investment implications." },
+        "lean": { "value": "balanced", "reason": "Straight incident reporting citing the chief mines inspector, no partisan framing." },
+        "confidence": { "value": "high", "reason": "Full article from a named outlet with an on-record official quote confirming the cause." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "China's Xi pushes 'Greater Brics' economic ties to give bloc larger global role",
+      "summary": "AI summary: At the BRICS summit in New Delhi, China's Xi Jinping proposed new economic initiatives including an AI open-source zone and a service trade forum, while the expanded 10-nation bloc issued a joint call for restraint in the Middle East and Iranian and UAE leaders held rare high-level talks.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2029619/chinas-xi-pushes-greater-brics-economic-ties-to-give-bloc-larger-global-role" }
+      ],
+      "timestamp": "Sep 13, 2:22 PM",
+      "publishedAt": "2026-09-13T14:22:16+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "New BRICS trade and AI cooperation initiatives signal expanded economic ties among member states." },
+        "political": { "value": "positive", "reason": "The bloc's joint call for Middle East restraint and rare Iran-UAE talks suggest a modest diplomatic thaw." },
+        "social": { "value": "neutral", "reason": "A diplomatic and economic summit with no direct effect on daily public life." },
+        "market": { "value": "medium", "reason": "New trade and AI frameworks matter to investors in BRICS economies, though Pakistan is not a member." },
+        "lean": { "value": "balanced", "reason": "Factual summit reporting covering multiple leaders' statements without favoring one side." },
+        "confidence": { "value": "medium", "reason": "Single full-article source covering a multilateral summit with quoted statements." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "PDMA urges authorities in Sindh to stay alert amid rain, thunderstorm forecast",
+      "summary": "AI summary: Sindh's disaster management authority warned of rain and thunderstorms expected across the province from September 14-16, including in Karachi, and directed district officials and emergency services to keep staff and equipment on standby.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/681877-pdma-issues-advisory-as-rains-forecast-across-sindh" }
+      ],
+      "timestamp": "Sep 13, 1:26 PM",
+      "publishedAt": "2026-09-13T13:26:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A precautionary weather advisory with no immediate economic impact unless the storm causes damage." },
+        "political": { "value": "neutral", "reason": "Routine disaster-management coordination, not a governance or stability issue." },
+        "social": { "value": "neutral", "reason": "A preparedness advisory intended to protect the public, with impact depending on how the actual weather unfolds." },
+        "market": { "value": "low", "reason": "A provincial weather advisory with negligible relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Reports official directives without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on a single official advisory and forecast, not yet confirmed by the weather event itself." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Iran authorities say 1 killed, 3 injured as merchant vessel struck in Hormuz",
+      "summary": "AI summary: A merchant vessel was struck near Iran's Hengam and Qeshm islands in the Strait of Hormuz, killing one person and injuring three, according to local Iranian officials, adding to tensions in a waterway central to the ongoing Iran-US conflict.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2029620/iran-authorities-say-1-killed-3-injured-as-merchant-vessel-struck-in-hormuz" }
+      ],
+      "timestamp": "Sep 13, 1:00 PM",
+      "publishedAt": "2026-09-13T13:00:15+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "An attack near a critical oil-shipping strait adds to global energy-price and trade-route risk." },
+        "political": { "value": "negative", "reason": "The strike adds to escalating Iran-US conflict and regional instability around the Strait of Hormuz." },
+        "social": { "value": "negative", "reason": "One person was killed and three injured in the attack." },
+        "market": { "value": "high", "reason": "Strait of Hormuz incidents directly affect global oil prices and shipping, of high relevance to markets." },
+        "lean": { "value": "balanced", "reason": "Reporting attributes the account to a local Iranian official without assigning blame to a specific actor." },
+        "confidence": { "value": "medium", "reason": "Based on a single local official's statement; the attacker has not been identified." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Parts of Karachi may face water supply disruption after Dhabeji power outage",
+      "summary": "AI summary: A power cable fault near K-Electric's Dhabeji facility knocked out 10 of the 21 pumps supplying Karachi's water, prompting the Karachi Water and Sewerage Corporation to warn of possible supply disruption in affected areas until electricity is restored.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/681871-parts-of-karachi-may-face-water-supply-disruption-after-dhabeji-power-outage" }
+      ],
+      "timestamp": "Sep 13, 12:20 PM",
+      "publishedAt": "2026-09-13T12:20:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Water and power disruption affects households and businesses reliant on Dhabeji-supplied water in Karachi." },
+        "political": { "value": "neutral", "reason": "An infrastructure fault attributed to a cable issue, not a policy or governance failure." },
+        "social": { "value": "negative", "reason": "Residents in affected areas face water-supply disruption on top of a recent tariff increase." },
+        "market": { "value": "low", "reason": "A localized utility outage with limited relevance to broader markets or investors." },
+        "lean": { "value": "balanced", "reason": "Reports statements from both KWSC and K-Electric without favoring either." },
+        "confidence": { "value": "medium", "reason": "Single-source report based on utility company statements, effects not independently verified." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Security Forces Kill Highly Wanted Terrorist in Karachi Operation",
+      "summary": "AI summary: Pakistan Rangers and the Counter Terrorism Department said they killed a wanted militant, identified as a Bajaur resident recently arrived from Afghanistan, during a gun battle in Karachi's Gulbai Sher Shah area, and recovered weapons and explosives from the scene.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40439276/security-forces-kill-highly-wanted-terrorist-in-karachi-operation" }
+      ],
+      "timestamp": "Sep 13, 11:46 AM",
+      "publishedAt": "2026-09-13T11:46:53+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A security operation with no direct economic effect." },
+        "political": { "value": "neutral", "reason": "Attributed to Rangers/CTD as a routine counter-terrorism operation, not indicative of a broader institutional shift." },
+        "social": { "value": "positive", "reason": "Per Rangers' account, a militant allegedly planning attacks and building a network was neutralized, though the claim is not independently verified." },
+        "market": { "value": "low", "reason": "A local security operation with no market relevance." },
+        "lean": { "value": "balanced", "reason": "Reports the security forces' account without political framing." },
+        "confidence": { "value": "medium", "reason": "Based solely on the Rangers spokesperson's account; claims are attributed, not independently corroborated." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Gaza documentary by Israeli directors wins special prize at Venice",
+      "summary": "AI summary: A documentary by Israeli filmmakers examining the country's AI-assisted targeting systems in Gaza won a special jury prize at the Venice Film Festival after drawing a lengthy standing ovation, with the directors saying the film was made to confront Israeli audiences with the military's own conduct.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2029515/gaza-documentary-by-israeli-directors-wins-special-prize-at-venice" }
+      ],
+      "timestamp": "Sep 13, 11:40 AM",
+      "publishedAt": "2026-09-13T11:40:43+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "An arts and film-festival story with no economic implications." },
+        "political": { "value": "neutral", "reason": "A film festival award, not tied to any institution's governance or stability." },
+        "social": { "value": "neutral", "reason": "Raises awareness of a conflict-related issue but has no direct effect on local daily life." },
+        "market": { "value": "low", "reason": "No relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Reports on the film, its award, and quotes from the director without taking a side." },
+        "confidence": { "value": "high", "reason": "Verifiable festival result reported with multiple direct quotes and consistent detail." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "PM Shehbaz expected to meet Trump on UNGA sidelines in New York",
+      "summary": "AI summary: Prime Minister Shehbaz Sharif is expected to meet US President Trump at a reception during the UN General Assembly on September 23, ahead of his own General Assembly address where he plans to raise the Indus Waters Treaty suspension, Kashmir, and regional counterterrorism efforts.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/681863-pm-shehbaz-expected-to-meet-trump-on-unga-sidelines-in-new-york" }
+      ],
+      "timestamp": "Sep 13, 11:08 AM",
+      "publishedAt": "2026-09-13T11:08:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic meeting with no immediate economic measures announced." },
+        "political": { "value": "positive", "reason": "A high-level meeting and planned UNGA address raise Pakistan's diplomatic engagement on Kashmir, water rights, and regional security." },
+        "social": { "value": "neutral", "reason": "A diplomatic event with no direct effect on daily public life." },
+        "market": { "value": "medium", "reason": "Diplomatic engagement with the US can influence trade and investment sentiment." },
+        "lean": { "value": "balanced", "reason": "Straightforward reporting of a scheduled diplomatic meeting and planned agenda." },
+        "confidence": { "value": "medium", "reason": "The meeting is described as 'expected,' not yet confirmed to have taken place." }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "State Bank in tight spot as inflation rises",
+      "summary": "AI summary: With inflation back in double digits at 11.1% in August, the State Bank faces a split market ahead of Monday's policy meeting, as some traders expect a rate hike from the current 11.5% while most analysts expect it to hold, partly due to global oil-price pressure from the Gulf conflict.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2029577/state-bank-in-tight-spot-as-inflation-rises" }
+      ],
+      "timestamp": "Sep 13, 8:43 AM",
+      "publishedAt": "2026-09-13T08:43:20+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Inflation returning to double digits complicates the State Bank's policy path and raises cost pressures." },
+        "political": { "value": "neutral", "reason": "A monetary-policy story, not directly tied to governance or institutional stability." },
+        "social": { "value": "negative", "reason": "Higher inflation directly raises living costs for the public." },
+        "market": { "value": "high", "reason": "The upcoming SBP rate decision is highly relevant to investors, businesses, and traders." },
+        "lean": { "value": "balanced", "reason": "Presents both trader and analyst expectations without favoring a side." },
+        "confidence": { "value": "medium", "reason": "Draws on named analysts and a trader poll, though the actual policy decision is still pending." }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "Dr Kumbhar Emphasizes Modern Sugarcane Production Technologies",
+      "summary": "AI summary: A Sindh Agriculture University professor urged growers and policymakers to adopt modern sugarcane cultivation methods and region-specific planning, while also warning that protecting the Indus Delta from sea intrusion is essential to sustaining the crop's long-term productivity.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40439254/dr-kumbhar-emphasizes-modern-sugarcane-production-technologies" }
+      ],
+      "timestamp": "Sep 13, 2:36 AM",
+      "publishedAt": "2026-09-13T02:36:43+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Advocating modern cultivation techniques could raise sugarcane yields and industry output." },
+        "political": { "value": "neutral", "reason": "An academic/industry conference statement with no governance implications." },
+        "social": { "value": "neutral", "reason": "Indirectly benefits farmers over time, no immediate effect on daily life." },
+        "market": { "value": "low", "reason": "A sector-specific agricultural conference with limited broader market relevance." },
+        "lean": { "value": "balanced", "reason": "Reports an academic's recommendations without political framing." },
+        "confidence": { "value": "medium", "reason": "Based on a single source's conference remarks." }
+      }
+    },
+    {
+      "id": 11,
+      "headline": "Azma Raps PTI Leaders' Derogatory Statements",
+      "summary": "AI summary: Punjab Information Minister Azma Bokhari accused PTI leaders of insulting the Pashtun community by claiming that ethnic identity while behaving in ways she called disgraceful, citing past remarks by PTI figures to make her case.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40439251/azma-raps-pti-leaders-derogatory-statements" }
+      ],
+      "timestamp": "Sep 13, 2:36 AM",
+      "publishedAt": "2026-09-13T02:36:43+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A political rhetoric story with no economic content." },
+        "political": { "value": "negative", "reason": "Inflammatory, one-sided partisan rhetoric between the ruling party and opposition reflects ongoing political polarization." },
+        "social": { "value": "neutral", "reason": "Rhetorical dispute with no direct effect on public safety or daily life." },
+        "market": { "value": "low", "reason": "No market relevance." },
+        "lean": { "value": "pro-government", "reason": "The article carries only the ruling Punjab minister's inflammatory quotes against the opposition with no PTI response included." },
+        "confidence": { "value": "medium", "reason": "Based on one outlet's report of the minister's statements, not corroborated elsewhere in this run." }
+      }
+    },
+    {
+      "id": 12,
+      "headline": "PYMA Executive Body: Candidates Elected Unopposed for 2026-28",
+      "summary": "AI summary: The Pakistan Yarn Merchants Association elected its Southern and Northern zone executive committees for 2026-28 unopposed, filling 15 corporate-class and 13 associate-class seats.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40439252/pyma-executive-body-candidates-elected-unopposed-for-2026-28" }
+      ],
+      "timestamp": "Sep 13, 2:36 AM",
+      "publishedAt": "2026-09-13T02:36:43+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "An internal trade-association election with no broader economic effect." },
+        "political": { "value": "neutral", "reason": "A private association's leadership election, unrelated to government or governance stability." },
+        "social": { "value": "neutral", "reason": "No direct impact on the public." },
+        "market": { "value": "low", "reason": "Relevant only to the yarn trade association's own members." },
+        "lean": { "value": "balanced", "reason": "A factual list of elected names with no partisan angle." },
+        "confidence": { "value": "high", "reason": "A straightforward, verifiable list of unopposed candidates." }
+      }
+    }
+  ]
+}
