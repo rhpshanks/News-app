@@ -1,0 +1,215 @@
+{
+  "generatedAt": "2026-09-14T12:10:31+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "PPP's Attaullah Shah edges past IPP's Imam Malik after counting of postal ballots for Diamer seat",
+      "summary": "AI summary: PPP's Attaullah Shah narrowly won the Gilgit-Baltistan Assembly's Diamer-II seat by just 13 votes after a court-ordered recount of postal ballots overturned IPP candidate Imam Malik's earlier declared win.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2029832/ppps-attaullah-shah-edges-past-ipps-imam-malik-after-counting-of-postal-ballots-for-diamer-seat" }
+      ],
+      "timestamp": "Sep 14, 12:01 PM",
+      "publishedAt": "2026-09-14T12:01:04+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A single provincial assembly seat result carries no direct economic effect." },
+        "political": { "value": "neutral", "reason": "Resolved through a tribunal-ordered recount, a normal institutional process, with no reported unrest." },
+        "social": { "value": "neutral", "reason": "A local electoral outcome with no direct bearing on public safety or daily life." },
+        "market": { "value": "low", "reason": "A provincial assembly seat result is not relevant to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Reports vote counts and the tribunal process factually without favoring either candidate." },
+        "confidence": { "value": "medium", "reason": "Full article read from a single outlet with specific, verifiable vote figures." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "FCC issues notice to AG on Adiala inmates' pleas seeking medical facilities similar to Imran Khan",
+      "summary": "AI summary: The Federal Constitutional Court sought a response from the Attorney General after three Adiala jail inmates petitioned for private hospital treatment similar to that given to PTI founder Imran Khan, arguing the disparity violates their constitutional right to equal treatment.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/681972-fcc-issues-notice-to-attorney-general-on-adiala-inmates-private-treatment-pleas" }
+      ],
+      "timestamp": "Sep 14, 11:34 AM",
+      "publishedAt": "2026-09-14T11:34:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A prisoner-treatment court petition has no discernible economic effect." },
+        "political": { "value": "neutral", "reason": "A routine judicial review of a constitutional petition; does not itself signal institutional instability." },
+        "social": { "value": "neutral", "reason": "Concerns healthcare access for a small group of inmates; the case remains unresolved pending Tuesday's hearing." },
+        "market": { "value": "low", "reason": "Not relevant to investors or broader market decisions." },
+        "lean": { "value": "balanced", "reason": "Presents petitioners' argument and the court's questions to state facilities without favoring a political side." },
+        "confidence": { "value": "medium", "reason": "Full article read from a single outlet reporting on-record court proceedings." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Security forces kill 3 terrorists, including commander, in Balochistan's Mastung: state media",
+      "summary": "AI summary: Pakistani security forces killed three militants, including a commander identified as Naqeeb of the group Fitna al-Hindustan, in a drone strike on a vehicle in Mastung, Balochistan, according to state media and security sources, part of a string of recent operations in the province.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2029834/security-forces-kill-3-terrorists-including-commander-in-balochistans-mastung-state-media" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/681970-militant-commander-among-three-killed-in-balochistans-mastung-security-sources" }
+      ],
+      "timestamp": "Sep 14, 10:51 AM",
+      "publishedAt": "2026-09-14T10:51:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A security operation in a remote district has no reported material economic effect." },
+        "political": { "value": "neutral", "reason": "Framed by both outlets as a state security operation; attributed to state media and security sources rather than asserted as independently verified fact." },
+        "social": { "value": "negative", "reason": "The claimed killings and the broader security operations reflect ongoing conflict and instability in Balochistan (attacks reportedly up 7% since July-August), relevant to public safety even though framed as a security success." },
+        "market": { "value": "low", "reason": "A localized security incident in Balochistan is unlikely to move markets." },
+        "lean": { "value": "balanced", "reason": "Both accounts attribute the claim to state media/security sources; an Interior Ministry reaction quote is standard official comment rather than one-sided framing." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two independent outlets with matching details (three killed, commander named, drone/quadcopter strike), though details rest entirely on state/security-source attribution, not independent verification." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Is rain expected in Karachi today?",
+      "summary": "AI summary: Pakistan's Meteorological Department forecasts light rain and thunderstorms for Karachi today, with temperatures around 38-40°C, high humidity, and stronger winds and rain expected in areas like DHA and Gadap after noon.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/681964-is-rain-expected-in-karachi-today" }
+      ],
+      "timestamp": "Sep 14, 10:06 AM",
+      "publishedAt": "2026-09-14T10:06:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A routine weather forecast with no clear economic implication." },
+        "political": { "value": "neutral", "reason": "A weather forecast has no bearing on institutional or governance stability." },
+        "social": { "value": "neutral", "reason": "A routine forecast of light rain and thunderstorms; not a significant safety concern at this stage." },
+        "market": { "value": "low", "reason": "Not relevant to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "A factual weather report with no political framing." },
+        "confidence": { "value": "medium", "reason": "Based directly on the official Met Department forecast." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "New provinces debate may take eight months, says PM's aide",
+      "summary": "AI summary: PM's Adviser Rana Sanaullah said any move toward creating new provinces is still in early stages and could take six to eight months to pass through parliament, adding that PML-N did not originate the proposal but would not oppose the debate.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2029786/new-provinces-debate-may-take-eight-months-says-pms-aide" }
+      ],
+      "timestamp": "Sep 14, 7:23 AM",
+      "publishedAt": "2026-09-14T07:23:58+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "An early-stage administrative-restructuring debate with no direct economic effect described." },
+        "political": { "value": "neutral", "reason": "Reflects an ongoing, orderly parliamentary discussion about administrative restructuring, not visible instability." },
+        "social": { "value": "neutral", "reason": "The proposal is early-stage and abstract with no immediate effect on daily life." },
+        "market": { "value": "low", "reason": "Not directly relevant to investors at this preliminary stage." },
+        "lean": { "value": "balanced", "reason": "Reports the aide's own comments directly without added framing favoring government or opposition." },
+        "confidence": { "value": "medium", "reason": "Direct quotes from an on-record government official reported by a single outlet." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "KP govt to introduce optional top-up health package for employees",
+      "summary": "AI summary: The Khyber Pakhtunkhwa government, chaired by Chief Minister Sohail Afridi, is planning an optional supplementary health coverage under the Sehat Card Plus programme, expanding coverage to more facilities and raising rates for costly treatments.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40439366/kp-govt-to-introduce-optional-top-up-health-package-for-employees" }
+      ],
+      "timestamp": "Sep 14, 4:59 AM",
+      "publishedAt": "2026-09-14T04:59:48+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Expanded health coverage for public employees represents added public spending/benefit that could support household welfare and healthcare-sector activity." },
+        "political": { "value": "neutral", "reason": "Routine provincial policy planning; a follow-up review is still pending before implementation." },
+        "social": { "value": "positive", "reason": "Expanding health insurance coverage and facilities would likely improve access to care for employees if implemented." },
+        "market": { "value": "low", "reason": "A provincial employee health-benefits programme has limited relevance to broader investor decisions." },
+        "lean": { "value": "balanced", "reason": "Reports the Chief Minister's stated priorities and meeting outcomes without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on an official government meeting readout; the plan itself is preliminary and details are still being finalized." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "PDWP approves 14 uplift projects in KP",
+      "summary": "AI summary: Khyber Pakhtunkhwa's Provincial Development Working Party approved 14 development projects, including a 45-kilometer road in Upper Chitral and a Rs9 billion package for Torghar district, aimed at improving connectivity, healthcare access, and employment in remote areas.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40439361/pdwp-approves-14-uplift-projects-in-kp" }
+      ],
+      "timestamp": "Sep 14, 4:59 AM",
+      "publishedAt": "2026-09-14T04:59:48+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "New infrastructure and development spending, including a Rs9 billion package, should support local employment and economic activity in remote districts." },
+        "political": { "value": "neutral", "reason": "A routine provincial development approval process reflecting ordinary administrative functioning." },
+        "social": { "value": "positive", "reason": "Improved roads, healthcare access, and employment opportunities in remote districts should benefit residents' daily life." },
+        "market": { "value": "low", "reason": "Localized public infrastructure spending with limited relevance to broader investors." },
+        "lean": { "value": "balanced", "reason": "A factual report of project approvals without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on an official provincial development body's meeting outcomes; single-source but a straightforward, verifiable process." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Protest against oil levy: JI says people want rights, not charity",
+      "summary": "AI summary: Jamaat-e-Islami's 29-day sit-in outside the Sindh Governor House against the petroleum levy and IPP power agreements continued, with the party citing Rs3,137 billion collected in levies over two and a half years and announcing a September 20 march to Islamabad, while government talks on the issues are set to begin.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40439301/protest-against-oil-levy-ji-says-people-want-rights-not-charity" }
+      ],
+      "timestamp": "Sep 14, 4:59 AM",
+      "publishedAt": "2026-09-14T04:59:47+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Highlights public grievance over high fuel levies and IPP costs that raise living and business costs, with a prolonged protest and planned march signalling continued friction over energy pricing." },
+        "political": { "value": "neutral", "reason": "An opposition/religious party's protest against government policy is a normal expression of dissent, and the government has agreed to hold talks, suggesting engagement rather than instability." },
+        "social": { "value": "negative", "reason": "Reflects public discontent over high fuel and electricity costs affecting daily cost of living." },
+        "market": { "value": "medium", "reason": "Energy pricing policy and levy revenue directly affect fuel costs, IPP agreements, and business planning." },
+        "lean": { "value": "balanced", "reason": "Presents JI's stated grievances and figures while also noting the government's agreement to hold talks, without asserting the demands as fact." },
+        "confidence": { "value": "medium", "reason": "Single-source report of an ongoing protest with specific attributed figures, not independently corroborated by other outlets today." }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "PML-N starts preparations for LG polls in Punjab",
+      "summary": "AI summary: PML-N Punjab president Rana Sanaullah led a meeting to launch preparations for local government elections, directing officials to fill vacant party positions and prioritize long-serving workers as candidates, while PML-N and coalition partner PPP also met to review their governing alliance.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40439330/pml-n-starts-preparations-for-lg-polls-in-punjab" }
+      ],
+      "timestamp": "Sep 14, 4:59 AM",
+      "publishedAt": "2026-09-14T04:59:47+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Internal party organizing for future elections has no direct economic effect." },
+        "political": { "value": "neutral", "reason": "Routine party preparation for local government elections and a coalition coordination meeting reflect normal political activity, not instability." },
+        "social": { "value": "neutral", "reason": "Internal party organizational matters have no direct bearing on public wellbeing or safety." },
+        "market": { "value": "low", "reason": "Internal party election preparations are not relevant to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Reports the ruling coalition parties' internal preparations factually; the story's own subject does not require an opposing-side rebuttal." },
+        "confidence": { "value": "medium", "reason": "Single-outlet report of the party's own internal meeting; a straightforward factual account." }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "Pakistan stepping up efforts to end Middle East conflict, says foreign secretary",
+      "summary": "AI summary: Foreign Secretary Asim Iftikhar Ahmad said Pakistan is intensifying diplomatic efforts toward a UN-backed peaceful resolution and ceasefire in the Middle East conflict, while balancing its defense commitments to Saudi Arabia under the Makkah agreement with Turkey.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/681956-pakistan-stepping-up-efforts-to-end-middle-east-conflict-says-foreign-secretary" }
+      ],
+      "timestamp": "Sep 14, 4:28 AM",
+      "publishedAt": "2026-09-14T04:28:26+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic statement on foreign policy with no direct domestic economic effect described." },
+        "political": { "value": "neutral", "reason": "A routine diplomatic statement reflecting stated foreign policy positioning, not domestic governance stability." },
+        "social": { "value": "neutral", "reason": "Diplomatic commentary on an external conflict with no direct effect on domestic public wellbeing described." },
+        "market": { "value": "low", "reason": "A general foreign-policy statement is not directly market-moving for Pakistan." },
+        "lean": { "value": "balanced", "reason": "Reports the foreign secretary's remarks directly without partisan framing; a foreign-policy topic not tied to the domestic government/opposition divide." },
+        "confidence": { "value": "medium", "reason": "Direct quotes from an on-record government official reported by a single outlet." }
+      }
+    },
+    {
+      "id": 11,
+      "headline": "Winners India refuse to collect Women's Asia Cup trophy from ACC chief Mohsin Naqvi",
+      "summary": "AI summary: India's women's cricket team won the 2026 Women's Asia Cup final against Sri Lanka but refused to accept the trophy from ACC president Mohsin Naqvi at the ceremony, echoing their similar boycott at the men's Asia Cup final in 2025 amid ongoing India-Pakistan tensions.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2029664/winners-india-refuse-to-collect-womens-asia-cup-trophy-from-acc-chief-mohsin-naqvi" }
+      ],
+      "timestamp": "Sep 14, 2:14 AM",
+      "publishedAt": "2026-09-14T02:14:44+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A sporting-event protocol dispute has no discernible economic effect." },
+        "political": { "value": "neutral", "reason": "A sporting protocol boycott reflects continued India-Pakistan diplomatic tension but does not directly affect Pakistan's own governance or institutional stability." },
+        "social": { "value": "neutral", "reason": "A sporting-event incident with limited direct effect on Pakistani public wellbeing, primarily symbolic and diplomatic in nature." },
+        "market": { "value": "low", "reason": "A sports-event protocol dispute is not relevant to markets or business decisions." },
+        "lean": { "value": "balanced", "reason": "Reports the event and both teams' actions factually, without editorializing for either government or opposition." },
+        "confidence": { "value": "medium", "reason": "Full article read from a single outlet describing a publicly witnessed event." }
+      }
+    }
+  ]
+}
