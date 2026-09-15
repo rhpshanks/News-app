@@ -1,0 +1,197 @@
+{
+  "generatedAt": "2026-09-15T14:04:37+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "PM Shehbaz, Kundi stress enhanced efforts for 'harmony' between Centre, KP",
+      "summary": "AI summary: Prime Minister Shehbaz Sharif met KP Governor Faisal Karim Kundi in Islamabad, with both sides calling for closer federal-provincial cooperation and continued support for KP's development amid ongoing tension between the centre and the PTI-led provincial government.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2030091/pm-shehbaz-kundi-stress-enhanced-efforts-for-harmony-between-centre-kp" }
+      ],
+      "timestamp": "Sep 15, 12:49 PM",
+      "publishedAt": "2026-09-15T12:49:17+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic courtesy meeting with no announced economic measures." },
+        "political": { "value": "neutral", "reason": "A symbolic outreach on Centre-KP relations without any concrete resolution to underlying disputes." },
+        "social": { "value": "neutral", "reason": "No direct, immediate effect on public wellbeing or daily life." },
+        "market": { "value": "low", "reason": "Not relevant to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Reports both officials' statements factually without favoring either side." },
+        "confidence": { "value": "medium", "reason": "Single detailed source with direct quotes from the meeting." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Naqvi did not object to India's refusal to collect Women's Asia Cup trophy, claims BCCI official",
+      "summary": "AI summary: India's cricket board says Pakistan's ACC chief Mohsin Naqvi raised no objection when India's women's team declined to receive the Asia Cup trophy from him after beating Sri Lanka, extending a pattern of India-Pakistan sporting friction that began after last year's military conflict.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2030085/naqvi-did-not-object-to-indias-refusal-to-collect-womens-asia-cup-trophy-from-acc-chief-mohsin-naqvi" }
+      ],
+      "timestamp": "Sep 15, 12:21 PM",
+      "publishedAt": "2026-09-15T12:21:31+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A sporting/diplomatic dispute with negligible effect on jobs, prices or business activity." },
+        "political": { "value": "neutral", "reason": "External India-Pakistan sporting friction rather than a domestic governance or institutional stability issue." },
+        "social": { "value": "neutral", "reason": "Limited effect on public wellbeing beyond cricket fandom." },
+        "market": { "value": "low", "reason": "Not materially relevant to investors or businesses." },
+        "lean": { "value": "balanced", "reason": "Presents the BCCI's account and Naqvi's dual role factually without editorializing." },
+        "confidence": { "value": "medium", "reason": "Single source relying on BCCI officials' quotes about a decision made by the other party." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Constitution must remain supreme, every exercise of public authority must be within its limits: FCC CJ",
+      "summary": "AI summary: In a speech marking the start of the new judicial year, Federal Constitutional Court Chief Justice Aminuddin Khan said the Constitution must remain supreme and all public authority must stay within its limits, while highlighting the new court's progress building its infrastructure since being created under last year's 27th Amendment.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2030083/constitution-must-remain-supreme-every-exercise-of-public-authority-must-be-within-its-limits-fcc-cj" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/682144-constitutional-supremacy-non-discriminatory-justice-must-remain-priorities-fcc-cj" }
+      ],
+      "timestamp": "Sep 15, 11:49 AM",
+      "publishedAt": "2026-09-15T11:49:52+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A judicial speech with no direct economic content." },
+        "political": { "value": "neutral", "reason": "Rhetoric on constitutional supremacy is stabilizing in tone, but the FCC's own legitimacy remains contested by critics who say it diminished the Supreme Court's role, making the net institutional effect ambiguous." },
+        "social": { "value": "neutral", "reason": "No direct bearing on public wellbeing or daily life." },
+        "market": { "value": "low", "reason": "Not relevant to markets or business decisions." },
+        "lean": { "value": "balanced", "reason": "Straightforward reporting of a judicial speech, no partisan framing." },
+        "confidence": { "value": "high", "reason": "Corroborated by two independent outlets with matching quotes and details from the same speech." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "War on Iran resulted in munitions shortfall for US, confirms Pentagon report",
+      "summary": "AI summary: A Pentagon Inspector General report found that the US-Israeli campaign against Iran depleted American munitions stockpiles and exposed weaknesses in weapons production capacity, with total direct costs estimated near $33.4 billion over four months.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2030086/war-on-iran-resulted-in-munitions-shortfall-for-us-confirms-pentagon-report" }
+      ],
+      "timestamp": "Sep 15, 11:44 AM",
+      "publishedAt": "2026-09-15T11:44:08+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Concerns US defense budget and industrial base strain rather than Pakistan's economy directly." },
+        "political": { "value": "neutral", "reason": "Relates to US institutional/military processes, not Pakistan's governance stability." },
+        "social": { "value": "neutral", "reason": "Reports budgetary and materiel data rather than immediate local social impact." },
+        "market": { "value": "medium", "reason": "Relevant to investors and businesses tracking geopolitical risk and defense spending." },
+        "lean": { "value": "balanced", "reason": "Reports the Pentagon's own findings without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single source, but drawn from a detailed official Inspector General report with specific figures." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "FIA plans immigration automation with e-gates as int'l passenger traffic tops 22m",
+      "summary": "AI summary: The FIA says it is rolling out automated e-gates and expanded digital document checks at airports to speed up immigration clearance by up to 80% for eligible travellers, as Pakistan's international passenger traffic crossed 22.6 million in 2025.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/682135-fia-plans-immigration-automation-with-e-gates-as-intl-passenger-traffic-tops-22m" }
+      ],
+      "timestamp": "Sep 15, 11:15 AM",
+      "publishedAt": "2026-09-15T11:15:16+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Faster immigration clearance eases business and passenger travel, supporting broader economic activity." },
+        "political": { "value": "neutral", "reason": "An administrative/institutional modernization effort, not politically contentious." },
+        "social": { "value": "positive", "reason": "Benefits the public through faster processing and reduced hassle at airports." },
+        "market": { "value": "medium", "reason": "Relevant to the travel and aviation sector and businesses reliant on efficient border processing." },
+        "lean": { "value": "balanced", "reason": "Reports an official announcement and data without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single source, but based on concrete official statements and passenger-traffic data." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Karachi likely to receive light rain today amid hot, humid weather",
+      "summary": "AI summary: The Met Office forecasts light rain and hot, humid weather for Karachi as a monsoon low-pressure system moves toward the Arabian Sea, with several Sindh districts expected to see moderate rainfall through September 16.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/682122-karachi-likely-to-receive-light-rain-today-amid-hot-humid-weather" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40439578/karachi-weather-update-is-rain-expected-today" }
+      ],
+      "timestamp": "Sep 15, 9:40 AM",
+      "publishedAt": "2026-09-15T09:40:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Routine weather forecast with no notable economic impact expected." },
+        "political": { "value": "neutral", "reason": "A meteorological report unrelated to governance or institutions." },
+        "social": { "value": "neutral", "reason": "Light rain and isolated thunderstorms forecast, not a severe weather event threatening public safety." },
+        "market": { "value": "low", "reason": "Not relevant to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Straightforward reporting of an official PMD forecast." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two outlets both citing the Pakistan Meteorological Department." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Sindh PA adopts LG bill",
+      "summary": "AI summary: The Sindh Assembly passed the Local Government Amendment Bill 2026 amid opposition protests and torn bill copies, letting mayors act as administrators once council terms expire, a move opposition parties call anti-democratic and plan to challenge in court.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40439516/sindh-pa-adopts-lg-bill" }
+      ],
+      "timestamp": "Sep 15, 6:20 AM",
+      "publishedAt": "2026-09-15T06:20:56+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A local governance restructuring bill with no direct near-term economic effect." },
+        "political": { "value": "negative", "reason": "Centralizes local power amid opposition allegations that it circumvents Supreme Court devolution rulings, straining institutional stability." },
+        "social": { "value": "neutral", "reason": "Affects local governance structure but no immediate direct impact on public safety or daily life is reported." },
+        "market": { "value": "low", "reason": "Not materially relevant to investors or business decisions." },
+        "lean": { "value": "pro-opposition", "reason": "The coverage centers heavily on multiple opposition parties' objections and frames the government as sidestepping procedure and court rulings, without a quoted government defense." },
+        "confidence": { "value": "medium", "reason": "Single source; lean assessment is based on one article's framing." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "No party or public office-holder has authority to block roads: IHC",
+      "summary": "AI summary: The Islamabad High Court ruled that no political party or public official may block roads, highways or public buildings for protests, and directed provincial governments not to use state resources for demonstrations, ahead of PTI's planned September 27 march.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40439505/no-party-or-public-office-holder-has-authority-to-block-roads-ihc" }
+      ],
+      "timestamp": "Sep 15, 4:57 AM",
+      "publishedAt": "2026-09-15T04:57:45+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Limiting road and infrastructure blockades supports uninterrupted business and commercial activity." },
+        "political": { "value": "positive", "reason": "Reinforces a general, non-partisan rule-of-law limit on all parties' use of public infrastructure for protest." },
+        "social": { "value": "positive", "reason": "Protects the public's ability to commute and access roads without disruption from blockades." },
+        "market": { "value": "medium", "reason": "Relevant to businesses and logistics that depend on reduced road-blockade risk." },
+        "lean": { "value": "balanced", "reason": "The ruling applies generally to any political party or office-holder rather than naming PTI as a specific target." },
+        "confidence": { "value": "medium", "reason": "Single source, but a clear official court ruling with specific directives." }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "Senate body says concerned over failure of health ministry",
+      "summary": "AI summary: A Senate committee criticized the health ministry and PIMS management for failing to register a police case over the nursery fire that killed 14 newborns, questioned whether proper DNA testing was done before releasing the infants' remains, and demanded accountability including possible ECL placement for responsible officers.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40439482/senate-body-says-concerned-over-failure-of-health-ministry" }
+      ],
+      "timestamp": "Sep 15, 4:57 AM",
+      "publishedAt": "2026-09-15T04:57:45+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A regulatory accountability matter with no direct economic effect." },
+        "political": { "value": "negative", "reason": "Highlights a ministry's failure to act on a fatal incident, indicating institutional accountability gaps." },
+        "social": { "value": "negative", "reason": "The underlying event, 14 newborn deaths with unresolved accountability and unverified identification procedures, represents a serious ongoing harm to public wellbeing and trust." },
+        "market": { "value": "low", "reason": "Not relevant to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "One government body (the Senate committee) scrutinizing another (the health ministry), not a partisan government-versus-opposition framing." },
+        "confidence": { "value": "medium", "reason": "Single source, but based on direct committee proceedings and quotes." }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "CM Afridi claims he was abducted, dumped in Lahore; Punjab govt denies allegation",
+      "summary": "AI summary: KP Chief Minister Sohail Afridi said he was abducted and abandoned roadside in Lahore, while Punjab's government released video it says shows him voluntarily boarding a police van to avoid a crowd, as KP officials backed his account and a third version said he stayed on to secure the release of detained party workers.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/682108-afridi-claims-he-was-abducted-and-dumped-in-lahore-as-punjab-denies-allegation" }
+      ],
+      "timestamp": "Sep 15, 2:29 AM",
+      "publishedAt": "2026-09-15T02:29:44+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct effect on jobs, prices or business activity." },
+        "political": { "value": "negative", "reason": "Conflicting accounts of a sitting chief minister's treatment by police deepen Centre-KP institutional friction and raise questions about political neutrality of law enforcement." },
+        "social": { "value": "negative", "reason": "Involves a public official's personal safety and security being disputed, denting public trust regardless of which account is accurate." },
+        "market": { "value": "low", "reason": "Not relevant to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "The report presents Afridi's claim, Punjab government's video-backed denial, KP's rebuttal, and a third conflicting account without favoring one." },
+        "confidence": { "value": "medium", "reason": "Single source reporting multiple directly conflicting claims, so the underlying facts remain unresolved even though the claims themselves are clearly attributed." }
+      }
+    }
+  ]
+}
