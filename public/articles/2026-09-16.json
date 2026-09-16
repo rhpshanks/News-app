@@ -1,0 +1,197 @@
+{
+  "generatedAt": "2026-09-16T10:30:44+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Makkah defence pact is defensive, contains no 'regional aspirations', says ISPR chief",
+      "summary": "AI summary: Pakistan's military spokesperson said the Makkah Joint Defence Agreement between Pakistan, Saudi Arabia and Turkey is purely defensive and represents collective deterrence, declining to detail how members would respond if one were attacked.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/682279-makkah-defence-pact-is-defensive-contains-no-regional-aspirations-says-ispr-chief" }
+      ],
+      "timestamp": "Sep 16, 10:02 AM",
+      "publishedAt": "2026-09-16T10:02:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A military/diplomatic clarification with no direct bearing on jobs, prices or business activity." },
+        "political": { "value": "neutral", "reason": "Clarifies the scope of an existing defence pact without signalling institutional instability or gain." },
+        "social": { "value": "neutral", "reason": "No direct effect on public safety or daily life described." },
+        "market": { "value": "low", "reason": "Limited relevance to investors or business decisions; a diplomatic/military clarification." },
+        "lean": { "value": "balanced", "reason": "Straight reporting of an official statement without one-sided framing." },
+        "confidence": { "value": "medium", "reason": "Based on a single official's on-record statement, not cross-verified by another outlet." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Saudi-led coalition says Houthis targeted Makkah with drone, warn of 'red line'",
+      "summary": "AI summary: A Saudi-led coalition said Yemen's Houthis attempted to target Makkah with a drone that Saudi air defences intercepted, warning that the security of Islamic holy sites is a \"red line,\" while the Houthis denied involvement; Pakistan's UN envoy called the escalation an \"extremely dangerous juncture\" and voiced support for Saudi Arabia's right to self-defense.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2030333/saudi-led-coalition-says-houthis-targeted-makkah-with-drone-warn-of-red-line" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/682277-pakistan-condemns-houthi-attacks-on-saudi-arabia-vows-efforts-for-regional-peace" }
+      ],
+      "timestamp": "Sep 16, 9:13 AM",
+      "publishedAt": "2026-09-16T09:13:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Escalating attacks near Saudi Arabia raise regional security risk that could disrupt trade and energy routes." },
+        "political": { "value": "negative", "reason": "A drone reaching near a top Islamic holy site sharply escalates regional tension and draws in Pakistan via the new defence pact and UN diplomacy." },
+        "social": { "value": "negative", "reason": "An attack near a globally significant religious site raises concern for pilgrim and public safety." },
+        "market": { "value": "medium", "reason": "Regional security escalation could affect oil markets and investor sentiment, though it is not Pakistan-specific business activity." },
+        "lean": { "value": "balanced", "reason": "Reports statements from multiple sides (Saudi coalition, Houthi denial, OIC, Pakistan) without favoring a domestic political camp." },
+        "confidence": { "value": "medium", "reason": "Corroborated across two independent outlets with consistent details, though the core facts rest on official claims not independently verified." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Ministers sound alarm as energy crunch looms",
+      "summary": "AI summary: Pakistani ministers warned of a worsening energy crunch as fuel prices climb and Gulf energy transit is disrupted, with the climate change minister calling current relief insufficient even as a Rs100-per-litre subsidy for motorcyclists and small-car owners rolls out nationwide.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2030288/ministers-sound-alarm-as-energy-crunch-looms" }
+      ],
+      "timestamp": "Sep 16, 7:36 AM",
+      "publishedAt": "2026-09-16T07:36:32+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Rising fuel prices and transit disruption threaten household budgets and business costs despite a partial subsidy." },
+        "political": { "value": "neutral", "reason": "Ministers publicly acknowledging strain reflects an active government response rather than institutional breakdown." },
+        "social": { "value": "negative", "reason": "An energy crunch directly raises household costs and affects daily life for ordinary citizens." },
+        "market": { "value": "high", "reason": "Energy supply and pricing directly affect business costs, investor sentiment and the macroeconomic outlook." },
+        "lean": { "value": "balanced", "reason": "Reports ministers' own acknowledgment of the problem alongside relief measures without favoring government or opposition framing." },
+        "confidence": { "value": "medium", "reason": "Based on ministers' public statements from a single outlet, not cross-verified elsewhere." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Govt raises petrol price by Rs4.10 per litre, HSD by Rs6.41 per litre",
+      "summary": "AI summary: The government raised petrol prices by Rs4.10 and high-speed diesel by Rs6.41 per litre effective September 16, pushing petrol to Rs384.34 and HSD to Rs415.83 per litre amid continued global oil market volatility.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2030163/govt-raises-petrol-price-by-rs410-per-litre-hsd-by-rs641-per-litre" }
+      ],
+      "timestamp": "Sep 16, 7:29 AM",
+      "publishedAt": "2026-09-16T07:29:34+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Higher fuel prices raise transport and production costs across the economy." },
+        "political": { "value": "neutral", "reason": "A routine fortnightly price adjustment tied to global oil markets, not an institutional development." },
+        "social": { "value": "negative", "reason": "Higher fuel costs directly raise the cost of living for the public." },
+        "market": { "value": "high", "reason": "Fuel price changes are closely watched by businesses and investors for their inflationary impact." },
+        "lean": { "value": "balanced", "reason": "Straight factual reporting of a price notification with no partisan framing." },
+        "confidence": { "value": "high", "reason": "Official price figures reported directly with specific, verifiable numbers." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Pakistan, Lebanon to boost security cooperation",
+      "summary": "AI summary: Visiting Lebanese Interior Minister Ahmad Al-Hajjar held separate meetings with Pakistan's Interior Minister Mohsin Naqvi and Deputy PM/Foreign Minister Ishaq Dar, agreeing to deepen cooperation on security, counterterrorism and anti-narcotics efforts, while Dar reaffirmed Pakistan's support for Lebanon's sovereignty and welcomed a new prisoner-transfer agreement.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2030257/pakistan-lebanon-to-boost-security-cooperation" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40439654/sovereignty-unity-dar-reaffirms-lebanon-minister-of-support" }
+      ],
+      "timestamp": "Sep 16, 5:59 AM",
+      "publishedAt": "2026-09-16T05:59:50+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic and security cooperation agreement with no direct economic impact described." },
+        "political": { "value": "positive", "reason": "Strengthened bilateral ties and a new legal cooperation agreement reflect constructive diplomatic engagement." },
+        "social": { "value": "neutral", "reason": "No direct effect on public wellbeing or daily life described." },
+        "market": { "value": "low", "reason": "Limited relevance to investors or immediate business decisions." },
+        "lean": { "value": "balanced", "reason": "Reports official government meetings and statements from both countries without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two independent outlets with consistent details on the same visit." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Police field force: Punjab launches body-worn camera project",
+      "summary": "AI summary: Punjab has launched body-worn cameras for police field units in Lahore under CM Maryam Nawaz Sharif's Safe Punjab initiative, with facial recognition and license-plate-reading capabilities linked to the province's Smart Safe City network across 43 cities, ahead of a province-wide rollout.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40439661/police-field-force-punjab-launches-body-worn-camera-project" }
+      ],
+      "timestamp": "Sep 16, 5:59 AM",
+      "publishedAt": "2026-09-16T05:59:50+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A policing technology rollout with no direct effect on jobs, prices or business activity." },
+        "political": { "value": "positive", "reason": "Expands transparent, accountable policing infrastructure, a modest institutional capacity improvement." },
+        "social": { "value": "positive", "reason": "Body cameras and facial recognition can improve public safety and accountability in policing interactions." },
+        "market": { "value": "low", "reason": "A provincial policing initiative has minimal relevance to investors or broader business decisions." },
+        "lean": { "value": "balanced", "reason": "Straightforward reporting of a provincial government initiative without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single-source report with specific verifiable details, not cross-verified elsewhere." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Transfer of Imran, other inmates to private hospitals: FCC seeks records of cases from SC, high courts",
+      "summary": "AI summary: Pakistan's Federal Constitutional Court asked the Supreme Court and high courts for case records on transferring PTI founder Imran Khan and three other Adiala Jail inmates to private hospitals, as the court weighs whether medical care is a prisoner's fundamental right ahead of the Supreme Court's resumed hearing on Khan's health.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40439656/transfer-of-imran-other-inmates-to-private-hospitals-fcc-seeks-records-of-cases-from-sc-high-courts" }
+      ],
+      "timestamp": "Sep 16, 5:59 AM",
+      "publishedAt": "2026-09-16T05:59:50+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A judicial and prison-administration matter with no direct economic effect." },
+        "political": { "value": "negative", "reason": "Ongoing legal disputes over treatment of a high-profile opposition figure, and questions about equal application of constitutional protections, reflect continued judicial and political tension." },
+        "social": { "value": "neutral", "reason": "Primarily a legal/institutional matter rather than a direct effect on general public wellbeing or safety." },
+        "market": { "value": "low", "reason": "Limited direct relevance to markets or business decisions." },
+        "lean": { "value": "balanced", "reason": "Presents the Attorney General's arguments and the court's questions on prisoner treatment and equal protection without endorsing either side." },
+        "confidence": { "value": "medium", "reason": "Single-source account of court proceedings with specific procedural detail, not cross-verified against another outlet." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Huge consignment of illegal arms, ammunition seized",
+      "summary": "AI summary: Customs enforcement intercepted a roughly Rs32 million shipment of illegal weapons, including M4 and G3 rifles, dozens of pistols and thousands of rounds of ammunition, at the Joint Check Post Yarik near Karachi, though the driver abandoned the vehicle and fled before arrest.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40439647/huge-consignment-of-illegal-arms-ammunition-seized" }
+      ],
+      "timestamp": "Sep 16, 5:59 AM",
+      "publishedAt": "2026-09-16T05:59:50+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A customs seizure with no significant direct economic effect described." },
+        "political": { "value": "neutral", "reason": "Routine law-enforcement action with no indication of institutional instability." },
+        "social": { "value": "positive", "reason": "Removing a large illegal arms shipment from circulation reduces potential harm to public safety, even though the smuggler evaded capture." },
+        "market": { "value": "low", "reason": "Minimal relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Straightforward factual reporting of a law-enforcement seizure." },
+        "confidence": { "value": "medium", "reason": "Single-source account with specific verifiable quantities, not cross-verified elsewhere." }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "Sindh imposes complete ban on new arms licences",
+      "summary": "AI summary: Sindh's home department announced an immediate, indefinite ban on issuing new firearms licences and arms-dealership permits, with exceptions only via special approval from the chief minister or home minister.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/682222-sindh-imposes-complete-ban-on-new-arms-licences" }
+      ],
+      "timestamp": "Sep 15, 9:54 PM",
+      "publishedAt": "2026-09-15T21:54:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A regulatory freeze on arms licensing with negligible broader economic impact." },
+        "political": { "value": "neutral", "reason": "A provincial administrative decision without indication of institutional instability." },
+        "social": { "value": "positive", "reason": "Restricting new firearms licences can reduce arms proliferation and improve public safety." },
+        "market": { "value": "low", "reason": "Minimal relevance to investors or broader business activity." },
+        "lean": { "value": "balanced", "reason": "Factual reporting of a provincial government policy without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single-source report of an official policy announcement, not cross-verified elsewhere." }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "DPM Dar directs simple, accessible registration process for fuel relief",
+      "summary": "AI summary: Deputy PM Ishaq Dar directed officials overseeing the Prime Minister's Fuel Relief Scheme to keep registration simple, as the nationwide rollout lets motorcycle and small-vehicle owners text their CNIC to 9771 for a Rs100-per-litre petrol discount of up to 20-30 litres monthly.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/682219-dpm-dar-directs-simple-accessible-registration-process-for-fuel-relief" }
+      ],
+      "timestamp": "Sep 15, 9:47 PM",
+      "publishedAt": "2026-09-15T21:47:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "A fuel subsidy for motorcyclists and small-car owners eases household transport costs." },
+        "political": { "value": "neutral", "reason": "Routine oversight of an announced relief scheme's rollout, with no institutional stability implications." },
+        "social": { "value": "positive", "reason": "Directly reduces fuel costs for lower-income vehicle owners, easing the daily-life burden." },
+        "market": { "value": "medium", "reason": "A subsidy scheme has moderate relevance to consumer spending and fuel-sector business planning." },
+        "lean": { "value": "balanced", "reason": "Straightforward reporting of a government relief programme's rollout details." },
+        "confidence": { "value": "medium", "reason": "Single-source report of scheme details, not cross-verified elsewhere." }
+      }
+    }
+  ]
+}
