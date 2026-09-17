@@ -1,0 +1,179 @@
+{
+  "generatedAt": "2026-09-17T16:46:00+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "PIMS administration initiates departmental action against six officers over deadly nursery fire",
+      "summary": "AI summary: PIMS Hospital in Islamabad issued charge sheets against six senior officers, including its executive director, over \"systemic and institutional failures\" behind an August 26 NICU fire that killed fifteen newborns, giving them 14 days to respond to allegations that included missing fire drills and unaddressed warnings from an earlier July blaze.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/682463-pims-administration-initiates-departmental-action-against-six-officers-over-deadly-nursery-fire" }
+      ],
+      "timestamp": "Sep 17, 4:04 PM",
+      "publishedAt": "2026-09-17T16:04:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "An internal hospital disciplinary matter with no direct effect on jobs, prices or business activity." },
+        "political": { "value": "neutral", "reason": "An accountability process within a public hospital's administration, not a signal of broader institutional instability." },
+        "social": { "value": "negative", "reason": "Surfaces systemic failures behind the deaths of fifteen newborns, a severe public-safety concern even as disciplinary proceedings begin." },
+        "market": { "value": "low", "reason": "A hospital administrative matter with minimal relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Reports the inquiry's findings and charges factually without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single-source report with specific, verifiable detail (names, charges, timeline), not cross-verified by another outlet." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "PM Shehbaz announces free SMS registration for fuel subsidy scheme",
+      "summary": "AI summary: Prime Minister Shehbaz Sharif made SMS registration free for Pakistan's fuel subsidy scheme, letting owners of motorcycles, rickshaws and vehicles up to 800cc register by texting their CNIC and vehicle details to 9771 to claim a Rs100-per-litre discount.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40439960/pm-shehbaz-announces-free-sms-registration-for-fuel-subsidy-scheme" }
+      ],
+      "timestamp": "Sep 17, 3:40 PM",
+      "publishedAt": "2026-09-17T15:40:05+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Removing a cost barrier to a fuel subsidy scheme eases transport expenses for lower-income vehicle owners." },
+        "political": { "value": "neutral", "reason": "A routine administrative simplification of an already-announced relief scheme." },
+        "social": { "value": "positive", "reason": "Free, simpler registration lowers the cost of living for eligible motorcycle and small-vehicle owners." },
+        "market": { "value": "medium", "reason": "Relevant to fuel-sector and consumer spending outlook, though not a broad market-moving development." },
+        "lean": { "value": "balanced", "reason": "Straightforward reporting of a government policy announcement." },
+        "confidence": { "value": "medium", "reason": "Single-source report of official scheme details, not cross-verified elsewhere." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Security plan being prepared for E&P activities in KP: petroleum minister",
+      "summary": "AI summary: Federal Petroleum Minister Ali Pervaiz Malik and KP's energy minister agreed that federal and provincial authorities are developing a joint security plan to protect oil and gas exploration activity in Khyber Pakhtunkhwa, while also discussing a proposed KP-based LPG company drawing on the province's hilly-area supply quota.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40439957/security-plan-being-prepared-for-eampp-activities-in-kp-petroleum-minister" }
+      ],
+      "timestamp": "Sep 17, 3:29 PM",
+      "publishedAt": "2026-09-17T15:29:37+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Coordinated security planning aims to sustain and expand oil and gas exploration investment in KP." },
+        "political": { "value": "neutral", "reason": "Routine federal-provincial coordination meeting with no institutional stability implications." },
+        "social": { "value": "neutral", "reason": "No direct, immediate effect on public wellbeing or daily life described." },
+        "market": { "value": "medium", "reason": "Relevant to energy-sector investors and businesses weighing exploration activity in the region." },
+        "lean": { "value": "balanced", "reason": "Reports the coordination meeting and its outcomes factually." },
+        "confidence": { "value": "medium", "reason": "Single-source report with specific detail, not cross-verified elsewhere." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Pakistan eyes bigger China swap line, expects US financing decision soon",
+      "summary": "AI summary: Finance Minister Muhammad Aurangzeb said Pakistan will seek an expanded currency swap facility with China once the current 30-billion-yuan arrangement expires in 2027, while also expecting a US decision within two months on a proposed $10 billion exchange stabilisation facility, cautioning that Middle East tensions dragging past November could hurt Pakistan's 4% growth target.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2030620/pakistan-eyes-bigger-china-swap-line-expects-us-financing-decision-soon" }
+      ],
+      "timestamp": "Sep 17, 2:44 PM",
+      "publishedAt": "2026-09-17T14:44:02+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Pursuing expanded external financing buffers from both China and the US could ease balance-of-payments pressure, though outcomes remain unconfirmed." },
+        "political": { "value": "neutral", "reason": "Routine finance-ministry diplomacy on external financing, not an institutional stability signal." },
+        "social": { "value": "neutral", "reason": "No direct, immediate effect on daily life described." },
+        "market": { "value": "high", "reason": "Directly relevant to investors and the forex/growth outlook given the scale of financing being discussed." },
+        "lean": { "value": "balanced", "reason": "Reports the finance minister's own statements on parallel talks with both China and the US without favoring a domestic political side." },
+        "confidence": { "value": "medium", "reason": "Single-source report of a minister's statements with specific figures, not cross-verified elsewhere." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Surjani Town suspect tried to sexually assault woman before killings: DIG West",
+      "summary": "AI summary: Karachi police said a New Karachi resident identified as Humayun allegedly tried to sexually assault a woman in Surjani Town and, when she resisted, beat and killed her and her three children with an iron rod before staging the scene to look like a robbery; an eight-member team is still searching for the murder weapon.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/682445-surjani-town-suspect-tried-to-sexually-assault-woman-before-killings-dig-west" }
+      ],
+      "timestamp": "Sep 17, 2:43 PM",
+      "publishedAt": "2026-09-17T14:43:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A criminal case with no direct economic effect." },
+        "political": { "value": "neutral", "reason": "A local criminal investigation with no institutional or governance angle." },
+        "social": { "value": "negative", "reason": "A violent quadruple killing directly concerns public safety, as attributed to the investigating DIG's own account." },
+        "market": { "value": "low", "reason": "Minimal relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Straight reporting of an official police briefing." },
+        "confidence": { "value": "medium", "reason": "Single-source account attributed to the investigating DIG, not independently corroborated beyond the police statement." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "US drone maker Powerus signs MoU with Pakistan Army, gets initial order",
+      "summary": "AI summary: American drone manufacturer Powerus signed a memorandum of understanding with Pakistan Army that includes an initial order for unmanned aerial systems, with co-founder Brett Velicovich declining to disclose financial terms citing security sensitivity; the deal comes as Powerus plans a merger with a Trump-family-linked investment vehicle, though the company and the White House say there is no conflict of interest.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2030619/us-drone-maker-powerus-says-it-signed-mou-with-pakistan-army-gets-initial-order" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40439953/us-drone-maker-powerus-signs-pakistan-army-mou-gets-initial-order" }
+      ],
+      "timestamp": "Sep 17, 2:34 PM",
+      "publishedAt": "2026-09-17T14:34:12+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "A new defence-industry order and prospective US-Pakistan technology partnership represents incremental foreign investment interest, though the scale is undisclosed." },
+        "political": { "value": "neutral", "reason": "A bilateral defence-industry MoU; questions about the buyer's Trump-family investment ties concern US governance, not Pakistan's institutional stability." },
+        "social": { "value": "neutral", "reason": "No direct effect on public wellbeing or daily life described." },
+        "market": { "value": "medium", "reason": "Relevant to defence-sector business and investment interest, though undisclosed deal terms limit its weight." },
+        "lean": { "value": "balanced", "reason": "Reports statements from the company and the White House addressing conflict-of-interest questions without favoring a side." },
+        "confidence": { "value": "medium", "reason": "Corroborated by two independent outlets with consistent details, though key financial terms remain undisclosed." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "SC suspends Imaan Mazari and husband's sentences in social media posts case, orders their release",
+      "summary": "AI summary: Pakistan's Supreme Court suspended the sentences of human rights lawyer Imaan Zainab Mazari-Hazir and her husband Hadi Ali Chattha in a controversial social-media posts case, granting bail on Rs200,000 surety bonds pending the Islamabad High Court's final ruling; the pair had been sentenced to 17 years under cybercrime law over posts about missing persons in Khyber Pakhtunkhwa and Balochistan.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2030611/sc-suspends-imaan-hadis-sentences-in-controversial-social-media-posts-case-orders-their-release" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/682453-sc-suspends-imaan-mazari-husbands-sentences-in-controversial-tweets-case" }
+      ],
+      "timestamp": "Sep 17, 2:30 PM",
+      "publishedAt": "2026-09-17T14:30:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A judicial bail decision with no direct economic effect." },
+        "political": { "value": "neutral", "reason": "A superior court granting bail pending appeal in a high-profile PECA case is a procedural judicial step, not a clear signal of institutional gain or decline." },
+        "social": { "value": "neutral", "reason": "Primarily affects the two individuals' legal case rather than broad public daily life, though it touches on civil-liberties concerns." },
+        "market": { "value": "low", "reason": "Minimal relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Reports the court's order and a judge's quoted remarks factually, without favoring government or opposition framing." },
+        "confidence": { "value": "high", "reason": "Corroborated by two independent outlets with matching specific details (bail amount, sentence breakdown, case history)." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Pakistan committed to Saudi defence agreement 'in intent and spirit': FO",
+      "summary": "AI summary: Pakistan's Foreign Office reaffirmed its commitment \"in intent and spirit\" to the Strategic Mutual Defence Agreement with Saudi Arabia and the trilateral Makkah Defence Alliance, declining to detail operational specifics amid renewed Houthi attacks on Saudi Arabia, while also confirming PM Shehbaz Sharif will lead Pakistan's delegation to next week's UN General Assembly session.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40439946/pakistan-committed-to-saudi-defence-agreement-in-intent-and-spirit-fo" },
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2030603/pakistan-committed-to-implementing-saudi-defence-pact-makkah-agreement-fo" }
+      ],
+      "timestamp": "Sep 17, 1:37 PM",
+      "publishedAt": "2026-09-17T13:37:05+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic and defence statement with no direct economic effect." },
+        "political": { "value": "neutral", "reason": "A routine reaffirmation of an existing defence pact amid regional tension, without a concrete new domestic institutional development." },
+        "social": { "value": "neutral", "reason": "No direct effect on Pakistan's public wellbeing or daily life described." },
+        "market": { "value": "low", "reason": "Primarily a diplomatic clarification with limited direct relevance to markets or business decisions." },
+        "lean": { "value": "balanced", "reason": "Reports the Foreign Office spokesperson's own statement factually without partisan framing." },
+        "confidence": { "value": "high", "reason": "Corroborated by two independent outlets with matching quotes and details from the same briefing." }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "PM Shehbaz to lead Pakistan's delegation to UNGA session next week, confirms FO",
+      "summary": "AI summary: Pakistan's Foreign Office confirmed PM Shehbaz Sharif will lead the country's delegation to the 81st UN General Assembly session next week, where he plans to raise Kashmir and Palestine alongside sustainable development, climate, counterterrorism and UN reform priorities, accompanied by Deputy PM Ishaq Dar and other senior officials.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/682432-pm-shehbaz-to-lead-pakistans-delegation-to-unga-session-next-week-confirms-fo" }
+      ],
+      "timestamp": "Sep 17, 12:25 PM",
+      "publishedAt": "2026-09-17T12:25:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic scheduling announcement with no direct economic effect." },
+        "political": { "value": "neutral", "reason": "A routine confirmation of delegation plans for an annual diplomatic event." },
+        "social": { "value": "neutral", "reason": "No direct effect on public wellbeing or daily life described." },
+        "market": { "value": "low", "reason": "Minimal relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Straightforward reporting of official delegation and agenda details." },
+        "confidence": { "value": "medium", "reason": "Single-source report with specific detail (dates, officials), not cross-verified elsewhere." }
+      }
+    }
+  ]
+}
