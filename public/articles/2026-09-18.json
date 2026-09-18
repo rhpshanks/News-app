@@ -1,0 +1,197 @@
+{
+  "generatedAt": "2026-09-18T12:26:46+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Govt finalises plan for specialised recruitment under civil service reforms",
+      "summary": "AI summary: Planning Minister Ahsan Iqbal announced sweeping civil service reforms, including cluster-based CSS recruitment, bilingual (English/Urdu) exams, digital testing, and a six-month hiring cycle, with the government adopting 43 of 46 recommendations modeled on Commonwealth countries' systems.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/682578-govt-finalises-plan-for-specialised-recruitment-under-civil-service-reforms" }
+      ],
+      "timestamp": "Sep 18, 11:28 AM",
+      "publishedAt": "2026-09-18T11:28:09+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Long-term administrative reform with no immediate market or business impact." },
+        "political": { "value": "positive", "reason": "Broad consensus (43/46 recommendations) signals institutional reform and governance modernization." },
+        "social": { "value": "positive", "reason": "Merit-based, bilingual, faster recruitment could improve access and reduce delays for job seekers." },
+        "market": { "value": "low", "reason": "Civil service administrative reform has minimal direct relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Reports the government's own reform announcement without contesting or endorsing framing from any political side." },
+        "confidence": { "value": "medium", "reason": "Single-source government announcement from a full article, not independently corroborated by other outlets." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "South Korea rules out deployment of troops for military intervention in Iran",
+      "summary": "AI summary: South Korean President Lee Jae Myung ruled out sending troops or military assets into the US-Israel conflict with Iran, a stance he held despite earlier reports that Seoul might help secure the Strait of Hormuz and criticism from President Trump over allied support.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2030831/south-korea-rules-out-deployment-of-troops-for-military-intervention-in-iran" }
+      ],
+      "timestamp": "Sep 18, 11:07 AM",
+      "publishedAt": "2026-09-18T11:07:37+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct economic impact stated; relevant only as regional context for Gulf shipping routes." },
+        "political": { "value": "neutral", "reason": "A foreign government's internal policy decision, not affecting Pakistan's institutional stability." },
+        "social": { "value": "neutral", "reason": "No direct effect on public wellbeing or safety in Pakistan." },
+        "market": { "value": "medium", "reason": "Ties to Strait of Hormuz tensions that affect regional oil and gas shipping relevant to investors." },
+        "lean": { "value": "balanced", "reason": "Straight news report of a foreign leader's statement, with no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on a single full-article source without cross-outlet corroboration." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "MQM founder Altaf Hussain's London home 'attacked by masked men'",
+      "summary": "AI summary: Two masked men attempted to force entry into MQM founder Altaf Hussain's London home by damaging a door and window, fleeing after an alarm triggered; Hussain was inside and unharmed, and London police are investigating while MQM called it a serious security threat.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/682576-mqm-founder-altaf-hussains-london-home-attacked-by-masked-men" }
+      ],
+      "timestamp": "Sep 18, 11:02 AM",
+      "publishedAt": "2026-09-18T11:02:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No bearing on jobs, prices, or business activity." },
+        "political": { "value": "negative", "reason": "An attack on a prominent political figure's residence raises security and stability concerns around a major party's founder." },
+        "social": { "value": "negative", "reason": "A violent break-in attempt represents a safety threat, even though no injuries occurred." },
+        "market": { "value": "low", "reason": "Limited relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Reports the incident and MQM's reaction without taking a side or assigning blame politically." },
+        "confidence": { "value": "medium", "reason": "Single-source report of a UK incident, not yet corroborated by other outlets or confirmed by police findings." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Pakistan will go 'to any extent' to defend Saudi Arabia, vows ISPR DG",
+      "summary": "AI summary: DG ISPR Lt Gen Ahmed Sharif Chaudhry told Arab News that Pakistan's commitment to defending Saudi Arabia is unconditional and it will 'go to any extent' to protect the kingdom, including its holy sites, amid Houthi drone and missile attacks that have reportedly killed at least one person and wounded over 80, citing the Makkah Defence Alliance signed by Pakistan, Saudi Arabia and Turkey.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/682564-pakistan-will-go-to-any-extent-to-defend-saudi-arabia-vows-ispr-dg" },
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2030830/our-commitment-is-unconditional-amid-houthi-attacks-dg-ispr-says-pakistan-will-go-to-any-extent-to-defend-saudi-arabia" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40440125/pakistan-will-go-to-any-length-to-defend-saudi-arabia-dg-ispr" }
+      ],
+      "timestamp": "Sep 18, 9:31 AM",
+      "publishedAt": "2026-09-18T09:31:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A defense pledge with no direct near-term effect on jobs, prices, or trade." },
+        "political": { "value": "neutral", "reason": "Reaffirms an existing alliance commitment rather than signaling new domestic institutional risk." },
+        "social": { "value": "neutral", "reason": "No direct impact on daily life or safety within Pakistan itself, though it signals proximity to a regional conflict." },
+        "market": { "value": "medium", "reason": "Regional escalation involving Gulf allies and the Houthi conflict has relevance for investors watching Middle East stability and oil markets." },
+        "lean": { "value": "balanced", "reason": "Reports the ISPR spokesperson's statement as attributed comments from three independent outlets without partisan framing." },
+        "confidence": { "value": "high", "reason": "Corroborated by three independent outlets (Dawn, Geo, Business Recorder) all citing the same Arab News interview with matching details." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "LNG shortages hit Pakistan badly",
+      "summary": "AI summary: Pakistan is facing severe LNG shortages after the Strait of Hormuz closure disrupted supply from Qatar and the UAE, which provide 99% of the country's LNG and about 30% of total gas supply, prompting policymakers to consider faster renewable, coal, hydropower and nuclear expansion plus new storage contracts.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2030754/lng-shortages-hit-pakistan-badly" }
+      ],
+      "timestamp": "Sep 18, 8:37 AM",
+      "publishedAt": "2026-09-18T08:37:06+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Supply disruption threatens higher power costs and energy security for households and industry." },
+        "political": { "value": "neutral", "reason": "An external supply shock rather than a domestic governance or institutional issue." },
+        "social": { "value": "negative", "reason": "Gas shortages and higher power costs directly affect households' daily life and cost of living." },
+        "market": { "value": "high", "reason": "Energy supply and pricing volatility is highly relevant to investors and businesses reliant on gas and power." },
+        "lean": { "value": "balanced", "reason": "Reports on an external supply shock and policy response without favoring any political side." },
+        "confidence": { "value": "medium", "reason": "Based on a single full-article source (a Gastech report) without cross-outlet corroboration." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Govt lowers petrol price by Rs0.43 per litre, raises HSD by Rs3.47 per litre",
+      "summary": "AI summary: Pakistan's government cut petrol prices by Rs0.43 per litre to Rs390.79 while raising high-speed diesel by Rs3.47 per litre to Rs424.92, effective September 18, with OGRA attributing the diesel hike to higher international oil market prices.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2030655/govt-lowers-petrol-price-by-rs043-per-litre-raises-hsd-by-rs347-per-litre" }
+      ],
+      "timestamp": "Sep 18, 7:22 AM",
+      "publishedAt": "2026-09-18T07:22:55+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "A sizable diesel price hike raises transport and production costs across the economy, outweighing the marginal petrol cut." },
+        "political": { "value": "neutral", "reason": "A routine, formula-based price revision rather than a governance or institutional matter." },
+        "social": { "value": "negative", "reason": "Higher diesel prices raise transport and goods costs that affect household budgets." },
+        "market": { "value": "medium", "reason": "Fuel price changes affect transport, logistics and manufacturing costs relevant to businesses." },
+        "lean": { "value": "balanced", "reason": "Reports the price change and OGRA's stated rationale without partisan framing." },
+        "confidence": { "value": "high", "reason": "Official OGRA pricing figures reported directly and precisely." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Islamabad: Granting provincial status need of the hour: Naqvi",
+      "summary": "AI summary: Interior Minister Mohsin Naqvi proposed granting Islamabad provincial status, arguing more provinces are needed for national stability and development given the capital's population growth and outdated administrative structures, saying it would let residents elect their own representatives.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40440051/islamabad-granting-provincial-status-need-of-the-hour-naqvi" }
+      ],
+      "timestamp": "Sep 18, 5:15 AM",
+      "publishedAt": "2026-09-18T05:15:22+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A governance restructuring proposal with no direct near-term economic effect." },
+        "political": { "value": "neutral", "reason": "A proposal for administrative restructuring whose effect on institutional stability depends on implementation not yet decided." },
+        "social": { "value": "positive", "reason": "Provincial status would give Islamabad residents elected representation and potentially more responsive services." },
+        "market": { "value": "low", "reason": "Limited direct relevance to investors or markets at this proposal stage." },
+        "lean": { "value": "balanced", "reason": "Reports the minister's proposal and rationale without contesting or endorsing it." },
+        "confidence": { "value": "medium", "reason": "Single-source report of a ministerial proposal, not yet a decided policy." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Danish varsity: Regular classes to begin from next Sept, PM told",
+      "summary": "AI summary: Prime Minister Shehbaz Sharif was told Danish University will begin regular classes in September 2027, with 185 faculty applications already received and entrance exams for a nationwide talent-search program set for October 24, 2026 across more than 40 cities offering free virtual coursework.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40440052/danish-varsity-regular-classes-to-begin-from-next-sept-pm-told" }
+      ],
+      "timestamp": "Sep 18, 5:15 AM",
+      "publishedAt": "2026-09-18T05:15:22+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "New university expands higher education capacity and a skilled workforce pipeline in engineering, AI and tech fields." },
+        "political": { "value": "neutral", "reason": "A routine project-status briefing to the PM rather than a governance or institutional matter." },
+        "social": { "value": "positive", "reason": "Expanded, largely free higher-education access, especially the nationwide talent search, benefits students broadly." },
+        "market": { "value": "low", "reason": "Limited immediate relevance to investors, though it signals future skilled-labor supply." },
+        "lean": { "value": "balanced", "reason": "Reports project progress and figures without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Single-source report of a government briefing without independent corroboration." }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "SC suspends Imaan, Chattha sentences; grants bail",
+      "summary": "AI summary: The Supreme Court suspended the 17-year sentences handed to human rights lawyer Imaan Mazari and her husband Hadi Ali Chattha over social media posts under cybercrime law and granted them bail pending the Islamabad High Court's final ruling, with a justice criticizing the IHC's repeated adjournments.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40440054/sc-suspends-imaan-chattha-sentences-grants-bail" }
+      ],
+      "timestamp": "Sep 18, 5:15 AM",
+      "publishedAt": "2026-09-18T05:15:22+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A judicial bail decision with no bearing on jobs, prices, or business activity." },
+        "political": { "value": "negative", "reason": "Judicial criticism of a lower court's repeated adjournments in a high-profile cybercrime sentencing case points to friction and delay within the justice system." },
+        "social": { "value": "neutral", "reason": "Affects the individuals involved directly but has limited broader effect on public wellbeing or safety." },
+        "market": { "value": "low", "reason": "Limited relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Reports the court's ruling and the justice's criticism of court delays without endorsing either side of the underlying case." },
+        "confidence": { "value": "medium", "reason": "Single-source report of a court proceeding without independent corroboration." }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "10 India-sponsored militants killed in KP operations: ISPR",
+      "summary": "AI summary: ISPR said security forces killed 10 militants it described as India-sponsored Fitna al-Khawarij members in separate operations in North Waziristan and Hangu during September 15-17, while an IED attack on a military convoy in the same period killed six soldiers, with the campaign continuing under the Azm-e-Istehkam initiative.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/682555-ten-india-sponsored-militants-killed-in-kp-operations-says-ispr" }
+      ],
+      "timestamp": "Sep 18, 3:01 AM",
+      "publishedAt": "2026-09-18T03:01:37+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A localized security operation with no direct near-term economic effect." },
+        "political": { "value": "neutral", "reason": "Reflects an ongoing counter-terrorism campaign under an existing government initiative rather than a new institutional development." },
+        "social": { "value": "negative", "reason": "Six soldiers killed by an IED and continued militant activity reflect ongoing instability and loss of life in the region, despite the operation being framed as a security success." },
+        "market": { "value": "low", "reason": "Limited direct relevance to investors, confined to a specific security context." },
+        "lean": { "value": "balanced", "reason": "Attributes casualty figures and characterizations directly to ISPR as the stated source rather than asserting them as independently verified fact." },
+        "confidence": { "value": "medium", "reason": "Based on a single official military source (ISPR) without independent verification of casualty figures." }
+      }
+    }
+  ]
+}
