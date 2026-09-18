@@ -1,50 +1,50 @@
 {
-  "generatedAt": "2026-09-11T23:08:24+05:00",
-  "periodStart": "2026-09-05",
-  "periodEnd": "2026-09-11",
-  "periodLabel": "Sep 5 to Sep 11, 2026",
-  "totalArticles": 92,
+  "generatedAt": "2026-09-19T01:34:33+05:00",
+  "periodStart": "2026-09-12",
+  "periodEnd": "2026-09-18",
+  "periodLabel": "Sep 12 to 18, 2026",
+  "totalArticles": 73,
   "stats": {
-    "economic": { "positive": 4, "neutral": 78, "negative": 10 },
-    "political": { "positive": 13, "neutral": 66, "negative": 13 },
-    "social": { "positive": 13, "neutral": 51, "negative": 28 }
+    "economic": { "positive": 13, "neutral": 48, "negative": 12 },
+    "political": { "positive": 8, "neutral": 53, "negative": 12 },
+    "social": { "positive": 17, "neutral": 37, "negative": 19 }
   },
   "summary": [
-    "Social coverage carried the week's sharpest negative tilt: 30% of the week's 92 articles landed negative on the social dimension, roughly three times economic coverage's 11% negative share. That gap traces to a real, near-daily cost-of-living story rather than a one-off event: petrol and diesel prices rose in almost every one of the seven days (including a Rs12.90/litre petrol jump on September 8 and further increases on September 9 and 10), compounding an Iran-US standoff that briefly pushed oil toward $100 a barrel. Layer on a violent assault on a Karachi University professor, cross-border militant operations in Balochistan and Khyber Pakhtunkhwa, and reports of police misconduct in a Karachi case, and the social-negative share reflects a genuine cluster of public-safety and affordability stories rather than an artifact of how the categories are scored.",
-    "Political coverage came out exactly balanced on paper, 14% positive against 14% negative, but that arithmetic balance sits on top of one dominant, one-sided storyline: escalating confrontation between the state and PTI ahead of the party's planned September 27 long march on Islamabad. Within the week, an Islamabad anti-terrorism court issued non-bailable arrest warrants for a sitting provincial chief minister and other PTI lawmakers, authorities began mobilizing over 1,000 shipping containers and roughly 15,000 personnel while detaining more than 30 activists, and the Attorney General went to court to help block the march outright. Running in parallel, and just as consequential for ordinary households, talks between the government and Jamaat-e-Islami over the petroleum levy broke down, with JI threatening nationwide sit-ins (and JUI-F voicing support) if fuel relief doesn't come by month's end.",
-    "The clearest example of politics and economics intersecting was the IMF's scheduled review, due September 23, of Pakistan's $7 billion Extended Fund Facility: reporting flagged that governance-reform targets are lagging well behind schedule even as fiscal and monetary benchmarks stay mostly on track, a reminder that institutional friction carries direct financial stakes given how IMF outcomes feed into currency stability and loan disbursements. Separately, a journalist's arrest and short remand under the cybercrime law, over disputed reporting on a security-agency appointment, added a press-freedom angle to the week's institutional tension that stands apart from the more overtly partisan disputes.",
-    "Despite how confrontational the week's political substance was, the AI's lean classification stayed 'balanced' on 89 of the week's 92 articles (97%); only 3 were flagged pro-government, and none pro-opposition, suggesting the underlying reporting was judged to present multiple sides even on stories about state action against the opposition. Confidence, meanwhile, was overwhelmingly medium across the week, but dipped noticeably on September 6, when six of that day's articles were rated low-confidence, largely stories built on unnamed sources covering the new-provinces restructuring debate and an early, unconfirmed report of a PTI leader's arrest that lacked an official statement at the time."
+    "Miqyas logged 73 articles over the week of September 12-18, and the throughline connecting a good share of them was the spillover from the Gulf conflict into Pakistan's own energy picture. It started with Saudi Arabia briefly shutting a major East-West oil pipeline after a drone strike it attributed to Iraqi territory, escalated with Iran reporting a fatal strike on a merchant vessel in the Strait of Hormuz, and by mid-week Saudi-led forces said Houthi drones had been aimed at Makkah itself, prompting Pakistan's military leadership to reaffirm it would defend Saudi Arabia \"to any extent\" under the Makkah Defence Alliance. The knock-on effects showed up domestically all week: ministers warned of a looming energy crunch, Dawn reported LNG shortages after Qatari and UAE supply routes were disrupted, and petrol and diesel prices moved twice in five days. That cluster helps explain why economic sentiment this week was roughly balanced between positive and negative (13 versus 12) rather than clearly one or the other: fuel-cost pain was offset in the data by unrelated positive stories like new financing talks with China and the US and infrastructure spending in KP.",
+    "Political coverage was the most lopsided of the three categories relative to its own positive count: only 8 political readings were positive against 12 negative, a wider gap than economic or social saw. That negativity wasn't concentrated in one storyline but spread across several separate domestic disputes: Punjab's defense of CM Maryam Nawaz over jet use drew a KP Assembly resolution invoking Article 6, the Sindh Assembly passed a Local Government Amendment Bill amid torn-up paper and opposition walkouts that critics call an attempt to sidestep Supreme Court devolution rulings, and KP CM Sohail Afridi's claim that he was abducted and dumped in Lahore was directly disputed by the Punjab government's own video, with a third, partial account from his own side further complicating the story. None of these have a single resolution yet, but together they point to a week of unusually active Centre-province and inter-party friction rather than a single dominant flashpoint.",
+    "Social sentiment carried the highest negative share of any category (26%, and also the lowest neutral share), and the underlying flagged stories explain why: a Senate committee publicly criticized the health ministry for failing to even register a police case over the PIMS nursery fire that killed 14 newborns weeks earlier, a Harnai coal mine explosion in Balochistan killed four miners, a quadruple killing in Karachi's Surjani Town was reported in graphic detail by police, and an IED attack on a military convoy killed six soldiers even as ISPR announced militants killed in the same operations. Regional events fed into this too: the reported deaths from the Hormuz vessel strike and the Houthi drone aimed at Makkah were flagged for their bearing on pilgrim and public safety, not just their political or economic weight. It's a pattern of harm reported across several unconnected settings rather than one crisis, which is part of why social also posted the week's highest positive share (23%) alongside its highest negative share, courtesy of separate good-news items like fuel-subsidy rollouts and judicial reforms.",
+    "Two things stand out in the meta-indicators. First, political lean stayed overwhelmingly balanced (70 of 73 articles) even in a week thick with genuinely partisan disputes; only the Sindh Governor House protest coverage and one story on PTI-directed rhetoric were flagged as leaning toward a side, and both were flagged for foregrounding one party's framing without an on-record rebuttal from the other, not for factual bias. Second, AI confidence was unusually concentrated in the medium band this week (60 of 73, or 82%), with almost nothing rated low (just 1 article) — a sign that most of the week's coverage, even the contested claims like the Afridi abduction dispute or the Rangers' account of a Karachi operation, was at least clearly attributed to a named official or institution, even where the underlying facts remain unverified or actively disputed between parties."
   ],
   "notableStories": [
     {
-      "headline": "Non-bailable arrest warrants issued for KP CM, other PTI lawmakers",
-      "context": "An Islamabad anti-terrorism court issued non-bailable arrest warrants for a sitting provincial chief minister and several PTI lawmakers, marking one of the sharpest escalations yet in the standoff between the state and the main opposition party.",
-      "sourceName": "Geo News",
-      "sourceUrl": "https://www.geo.tv/latest/681508-non-bailable-arrest-warrants-issued-for-kp-cm-other-pti-lawmakers"
-    },
-    {
-      "headline": "Twin cities prepare strategy to counter PTI's Sept 27 protest",
-      "context": "Authorities began mobilizing over 1,000 shipping containers and roughly 15,000 personnel to block a planned September 27 opposition march, alongside preventive detentions of more than 30 activists, illustrating the scale of the state's response to the planned protest.",
+      "headline": "Saudi Arabia says Iraqi drones forced temporary closure of crucial oil pipeline",
+      "context": "The week's clearest example of the Gulf conflict hitting global energy markets directly, pushing oil above $100/barrel and setting up the fuel-price and LNG-shortage stories that followed later in the week.",
       "sourceName": "Dawn News",
-      "sourceUrl": "https://www.dawn.com/news/2029048/twin-cities-prepare-strategy-to-counter-ptis-sept-27-protest"
+      "sourceUrl": "https://www.dawn.com/news/2029319/saudi-arabia-says-iraqi-drones-forced-temporary-closure-of-crucial-oil-pipeline"
     },
     {
-      "headline": "JI to continue sit-ins as talks with govt fail",
-      "context": "Talks between the government and Jamaat-e-Islami over the petroleum levy collapsed without agreement, with the party threatening nationwide sit-ins and a march on Islamabad, backed by JUI-F, if fuel relief doesn't materialize.",
+      "headline": "Saudi-led coalition says Houthis targeted Makkah with drone, warn of 'red line'",
+      "context": "An escalation that drew in Pakistan directly through the Makkah Defence Alliance and prompted its military leadership to publicly pledge unconditional support for Saudi Arabia's defense.",
+      "sourceName": "Dawn News",
+      "sourceUrl": "https://www.dawn.com/news/2030333/saudi-led-coalition-says-houthis-targeted-makkah-with-drone-warn-of-red-line"
+    },
+    {
+      "headline": "Sindh PA adopts LG bill",
+      "context": "A significant domestic political dispute in which the Sindh Assembly passed local-government changes amid torn bill copies and opposition protest, with critics arguing it circumvents Supreme Court rulings on devolution.",
       "sourceName": "Business Recorder",
-      "sourceUrl": "https://www.brecorder.com/news/40438948/ji-to-continue-sit-ins-as-talks-with-govt-fail"
+      "sourceUrl": "https://www.brecorder.com/news/40439516/sindh-pa-adopts-lg-bill"
     },
     {
-      "headline": "IMF mission due on Sept 23 for biannual review of Pakistan's economic performance",
-      "context": "An IMF mission is due later in September for a scheduled review of Pakistan's loan program, and the report notes governance reforms are lagging well behind targets even though fiscal and monetary benchmarks remain largely on track, a signal worth watching given how directly IMF outcomes affect currency stability and disbursements.",
-      "sourceName": "Dawn News",
-      "sourceUrl": "https://www.dawn.com/news/2028892/imf-mission-due-on-sept-23-for-biannual-review-of-pakistans-economic-performance"
+      "headline": "CM Afridi claims he was abducted, dumped in Lahore; Punjab govt denies allegation",
+      "context": "A sitting chief minister's disputed account of his own treatment by police, directly contradicted by the Punjab government's video evidence, underscoring ongoing Centre-KP institutional friction.",
+      "sourceName": "Geo News",
+      "sourceUrl": "https://www.geo.tv/latest/682108-afridi-claims-he-was-abducted-and-dumped-in-lahore-as-punjab-denies-allegation"
     },
     {
-      "headline": "NCCIA gets journalist Bilal Ghauri's 3-day physical remand in Peca case",
-      "context": "A journalist was arrested and granted only a short remand under Pakistan's cybercrime law over disputed reporting on a security-agency appointment, a case that raises press-freedom questions distinct from the week's more overtly partisan political disputes.",
-      "sourceName": "Dawn News",
-      "sourceUrl": "https://www.dawn.com/news/2028119/nccia-gets-journalist-bilal-ghauris-3-day-physical-remand-in-peca-case"
+      "headline": "Senate body says concerned over failure of health ministry",
+      "context": "Lawmakers publicly faulted the health ministry and a major public hospital for failing to pursue accountability over the deaths of 14 newborns in a nursery fire, a story that continued into the following week with formal charges against hospital officers.",
+      "sourceName": "Business Recorder",
+      "sourceUrl": "https://www.brecorder.com/news/40439482/senate-body-says-concerned-over-failure-of-health-ministry"
     }
   ]
 }
