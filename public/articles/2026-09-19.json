@@ -1,0 +1,337 @@
+{
+  "generatedAt": "2026-09-19T17:05:00+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Dar stresses importance of uninterrupted energy supplies in phone call with Iran's FM Araghchi",
+      "summary": "AI summary: Pakistan's Deputy PM spoke with Iran's foreign minister, urging safe shipping and steady energy supplies and saying dialogue is the way to ease tensions. Business Recorder adds that Strait of Hormuz transits have fallen sharply.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2031124/dar-stresses-importance-of-uninterrupted-energy-supplies-in-phone-call-with-irans-fm-araghchi"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40440255/dar-stresses-need-for-uninterrupted-energy-supplies-amid-regional-tensions"
+        }
+      ],
+      "timestamp": "Sep 19, 4:06 PM",
+      "publishedAt": "2026-09-19T16:06:05+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Diplomatic call only, but disrupted shipping lanes threaten energy imports and prices."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "Diplomatic engagement supports regional stability."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct daily-life effect from the call itself."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Energy supply and shipping disruption matter to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Neutral reporting of an official call."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Two outlets agree; based on feed excerpts rather than full pages."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "PTI's Sept 27 protest: KP IG bars police from facilitating Islamabad-bound rallies",
+      "summary": "AI summary: The Khyber Pakhtunkhwa police chief directed officers not to help rallies heading to Islamabad for PTI's September 27 protest, the report notes, following an Islamabad High Court order on the protest.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/682759-ptis-sept-27-protest-kp-ig-bars-police-officers-from-facilitating-islamabad-bound-rallies"
+        }
+      ],
+      "timestamp": "Sep 19, 3:42 PM",
+      "publishedAt": "2026-09-19T15:42:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Possible disruption around protest dates, effect unclear."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Friction between provincial police, protesters and the courts signals political tension."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Protest movement may affect road access and daily routines."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Political unrest can affect market sentiment."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Report relays an official directive without evident slant."
+        },
+        "confidence": {
+          "value": "low",
+          "reason": "Based only on a short RSS excerpt."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Trump says Denmark to give US 'permanent control' over Greenland security",
+      "summary": "AI summary: Trump said Denmark will give the US 'permanent control' over Greenland's security and exclude Russian and Chinese bases, with signing expected at next week's UN General Assembly. This is Trump's claim as reported by Dawn.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2031087/trump-says-denmark-to-give-us-permanent-control-over-greenland-security"
+        }
+      ],
+      "timestamp": "Sep 19, 3:19 PM",
+      "publishedAt": "2026-09-19T15:19:04+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Little direct effect on Pakistan's economy."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Foreign story with no direct Pakistani governance effect."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life in Pakistan."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited relevance to Pakistan's markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports a US claim; not about Pakistani government or opposition."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single source, feed excerpt only, and claim awaits Danish confirmation."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Taliban regime wants continued dialogue, cooperation with Pakistan, says spokesperson",
+      "summary": "AI summary: A Taliban spokesperson said Kabul wants to keep talking and cooperating with Pakistan and hopes efforts will settle bilateral issues.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/682745-taliban-regime-wants-continued-dialogue-cooperation-with-pakistan-says-spokesperson"
+        }
+      ],
+      "timestamp": "Sep 19, 12:59 PM",
+      "publishedAt": "2026-09-19T12:59:23+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Possible trade and border benefits if ties improve, but nothing concrete."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Conciliatory statement, no binding step."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Indirect benefit to border communities if talks hold."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little direct market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports Kabul's stated position."
+        },
+        "confidence": {
+          "value": "low",
+          "reason": "Short RSS excerpt of an official statement, no verification."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Security forces kill 11 terrorists during operations in Balochistan's Panjgur, Chagai",
+      "summary": "AI summary: Security forces said they killed eleven militants in two Balochistan districts under Operation Raddul Fitna 3 and recovered weapons and explosives. The Interior Minister praised the action; claims are the authorities' own.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2031095/security-forces-kill-11-terrorists-during-operations-in-balochistans-panjgur-chagai"
+        }
+      ],
+      "timestamp": "Sep 19, 12:28 PM",
+      "publishedAt": "2026-09-19T12:28:31+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Security operations may affect regional investment and mobility."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Authorities present it as success, yet militancy persists."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Ongoing violence and instability affect local safety."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited direct market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Relays official claims; independent verification absent."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single source from feed excerpt; claims are official."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "India's RAW, Taliban regime linked to proxy attacks in Pakistan: sources",
+      "summary": "AI summary: Unnamed sources told Geo that a terror network backed by India's RAW works with senior Taliban leaders behind attacks in Pakistan. The claims are unverified and unattributed by name.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/682733-indias-raw-taliban-regime-linked-to-proxy-attacks-in-pakistan-sources"
+        }
+      ],
+      "timestamp": "Sep 19, 11:57 AM",
+      "publishedAt": "2026-09-19T11:57:59+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic effect."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Accusations against India and Kabul could worsen regional tensions."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Frames ongoing militant attacks; safety concerns persist."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little direct market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Anonymous-source claims, uncontested; no clear government or opposition slant."
+        },
+        "confidence": {
+          "value": "low",
+          "reason": "Unnamed sources and short excerpt only."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Pakistan vows to defend KSA 'to any extent'",
+      "summary": "AI summary: Pakistan's military leadership pledged diplomatic and physical support for Saudi Arabia as Houthi attacks escalate, citing the Makkah Joint Defence Agreement with Saudi Arabia and Turkiye.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40440233/pakistan-vows-to-defend-ksa-to-any-extent"
+        }
+      ],
+      "timestamp": "Sep 19, 7:02 AM",
+      "publishedAt": "2026-09-19T07:02:46+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Regional escalation could hit oil prices and remittances."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Strengthens alliances but raises entanglement risk."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Wider conflict risk raises anxiety for Pakistanis in the region."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Regional conflict and energy prices matter to investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports military statements; no clear partisan slant."
+        },
+        "confidence": {
+          "value": "low",
+          "reason": "RSS excerpt only."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "At least 17 including cops martyred in Kohat blast",
+      "summary": "AI summary: A suicide blast and armed assault at Kohat Police Lines during Friday prayers killed many, mostly police. Outlets report differing tolls (17 to 31 dead, over 100 hurt) and Dawn cites eight attackers killed after an overnight operation, per police statements.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2031100/kohat-police-lines-attack-8-terrorists-killed-as-overnight-clearance-operation-concludes"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/682735-kohat-police-lines-attack-eight-militants-killed-as-forces-conclude-operation"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40440236/at-least-17-including-cops-martyred-in-kohat-blast"
+        }
+      ],
+      "timestamp": "Sep 19, 4:55 AM",
+      "publishedAt": "2026-09-19T04:55:26+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Attacks damage investor confidence and local activity in KP."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Major attack on police institutions exposes security weakness."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Heavy loss of life and over 100 injured; harm continues despite the operation's conclusion."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Security deterioration is relevant to risk assessment."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports casualties and police statements evenly."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Three outlets agree on the event, but death tolls differ across reports."
+        }
+      }
+    }
+  ]
+}
