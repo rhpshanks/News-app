@@ -1,0 +1,305 @@
+{
+  "generatedAt": "2026-09-20T16:05:00+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Imran Khan 'undergoes' medical check-up at Adiala jail",
+      "summary": "AI summary: Geo News, citing its sources, reports a PIMS medical team checked the jailed former PM's blood pressure, cholesterol and eyesight at Adiala jail, weeks after a court-ordered hospital transfer was not carried out, with PTI's September 27 march to Islamabad approaching.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/682878-imran-khan-undergoes-medical-check-up-at-adiala-jail"
+        }
+      ],
+      "timestamp": "Sep 20, 2:05 PM",
+      "publishedAt": "2026-09-20T14:05:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct effect on jobs, prices or business."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Detained leader's health and a disputed court transfer add to political tension before a planned march."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Limited effect on daily life beyond political mood."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little relevance to investors or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Report is short and sourced to unnamed sources, with no framing favoring either side."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single outlet citing unnamed sources."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "JI kicks off long march towards Islamabad against petroleum levy",
+      "summary": "AI summary: Jamaat-e-Islami began a march toward Islamabad demanding the petroleum levy be scrapped, after five failed rounds of talks with the government. The party's leader warned the protest could escalate, while Islamabad authorities set up containers and put hospitals on alert.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/682873-ji-kicks-off-long-march-towards-islamabad-against-petroleum-levy"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2031346/ji-launches-protest-march-towards-islamabad-against-petroleum-levy"
+        }
+      ],
+      "timestamp": "Sep 20, 1:22 PM",
+      "publishedAt": "2026-09-20T13:22:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Road closures and prolonged protests risk disrupting business, while the levy dispute reflects fuel price pressure."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Failed talks and warnings of escalation strain government-opposition relations."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Container blockades and hospital high alerts signal expected disruption to daily life."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Fuel taxation and disruption risk matter to businesses and markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Both outlets report the party's demands and the government's talks and security steps."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Two outlets report matching core details."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Marches, sit-ins may cause Rs120bn daily loss to exchequer, warns FinMin Aurangzeb",
+      "summary": "AI summary: Finance Minister Muhammad Aurangzeb warned that planned marches and sit-ins could cost the economy about Rs120bn a day, mostly in services, and urged dialogue. He also cited record foreign reserves and a lower fiscal deficit as gains at risk. The figures are the government's own and were not independently verified.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/682865-marches-sit-ins-may-cause-rs120bn-daily-loss-to-exchequer-warns-finmin-aurangzeb"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2031342/self-inflicted-pain-finance-minister-says-protests-sit-ins-to-cause-daily-loss-of-around-rs120bn"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40440370/strikes-road-closures-may-cause-rs120bn-daily-economic-loss-aurangzeb"
+        }
+      ],
+      "timestamp": "Sep 20, 12:08 PM",
+      "publishedAt": "2026-09-20T12:08:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Projected daily losses across services, industry and agriculture, plus risk to IT exports."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Government warning ahead of protests, with a call for talks rather than a new political shift."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Daily-wage workers and small businesses would be hit hardest if disruption occurs."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Direct macro figures and reserve and deficit data relevant to investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "The minister's claims are attributed to him, and the framing is mostly reported statement, though no protest organizers' rebuttal is included."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Three outlets match, but the loss estimate rests on government figures alone."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "FM Dar Departs for New York to Attend 81st UNGA Session",
+      "summary": "AI summary: Deputy PM and Foreign Minister Ishaq Dar left for New York to join the prime minister at the UN General Assembly from September 21 to 25. His schedule includes an OIC Contact Group meeting on Kashmir, a Security Council briefing on AI and chairing an ECO ministers' meeting.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40440362/fm-dar-departs-for-new-york-to-attend-81st-unga-session"
+        }
+      ],
+      "timestamp": "Sep 20, 11:52 AM",
+      "publishedAt": "2026-09-20T11:52:09+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No immediate effect on jobs or prices."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "Active diplomacy at the UN supports Pakistan's international standing."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Little direct effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited direct market relevance, though ECO engagements touch on regional trade."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reads as a factual schedule announcement."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on an RSS excerpt from one outlet."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Security Forces Kill Five Terrorists, Recover 23 Abductees Near Kalat",
+      "summary": "AI summary: The military's media wing ISPR said security forces killed five militants and freed 23 abducted people at a checkpoint the group had set up on the N-25 highway near Kalat, Balochistan. Vehicles and weapons were recovered, and the PM and President praised the operation. These claims come from the ISPR and are not independently verified.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40440361/security-forces-kill-five-terrorists-recover-23-abductees-near-kalat"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2031253/security-forces-kill-5-terrorists-recover-23-abductees-in-operation-along-n-25-highway-near-balochistans-kalat-ispr"
+        }
+      ],
+      "timestamp": "Sep 20, 11:44 AM",
+      "publishedAt": "2026-09-20T11:44:35+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Safer highway may help transport, but the incident shows ongoing insecurity."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Officials praised the operation, yet militancy persists."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Highway kidnappings for ransom show continuing risk to travellers, even though the hostages were freed."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited market relevance beyond transport risk on N-25."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Claims are attributed to the ISPR and officials, with no independent account."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Two outlets, but both rely on the same official military statement."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Aleema Khan 'detained' in Lahore under 3MPO, 'shifted' to Kot Lakhpat jail",
+      "summary": "AI summary: Imran Khan's sister Aleema Khan was detained in Lahore for 30 days under the public order ordinance, with the order citing police reports of her role in May 2023 protests. PTI called it political revenge and said talks with the government had made no headway ahead of its September 27 march; authorities had not publicly responded.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/682861-ptis-gohar-says-no-headway-in-govt-talks-amid-cold-political-atmosphere"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2031350/pti-says-aleema-detained-by-authorities-as-lahore-dc-orders-arrest-under-mpo"
+        }
+      ],
+      "timestamp": "Sep 20, 11:38 AM",
+      "publishedAt": "2026-09-20T11:38:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct effect on jobs or prices."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Detaining an opposition leader's relative ahead of a march raises political tension."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Risk of unrest and heightened confrontation before the planned march."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little direct market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Both the official order and the PTI reaction are reported, though the government has not yet commented."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Two outlets agree on the facts, but details of the allegations are contested."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Commissioner Visits Petrol Pumps to Review Operations",
+      "summary": "AI summary: Lahore Commissioner Nauman Yousuf inspected several fuel stations to check that government petroleum subsidies were being distributed properly, saying the process was going smoothly. Officials were monitoring pumps across the region.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40440344/commissioner-visits-petrol-pumps-to-review-operations"
+        }
+      ],
+      "timestamp": "Sep 20, 2:22 AM",
+      "publishedAt": "2026-09-20T02:22:45+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "Subsidised fuel distribution eases costs for residents."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine administrative oversight."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Supports access to fuel relief for citizens."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Small local relevance to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Officials' own account of the process, with no independent check or dissent."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on an RSS excerpt from one outlet."
+        }
+      }
+    }
+  ]
+}
