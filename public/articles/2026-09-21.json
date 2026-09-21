@@ -1,8 +1,300 @@
 {
-  "generatedAt": "2026-09-21T11:10:00+05:00",
+  "generatedAt": "2026-09-21T18:10:00+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "US media outlets to sue Trump administration after White House ban",
+      "summary": "AI summary: Three major American news organizations are taking legal action after losing White House access, arguing that pulling credentials over editorial coverage threatens press freedom.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2031607/us-media-outlets-to-sue-trump-administration-after-white-house-ban"
+        }
+      ],
+      "timestamp": "Sep 21, 5:57 PM",
+      "publishedAt": "2026-09-21T17:57:40+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No notable economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A dispute over press access in the US, with little direct effect on Pakistan's institutions."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Concerns press freedom abroad but has little direct effect on daily life here."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Minimal relevance to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Foreign story with no Pakistani government or opposition framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on a short feed description of a foreign story."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "KU professor Arif Saqi reconciles with Konain Shah in assault case",
+      "summary": "AI summary: A Karachi University teacher met the man accused of assaulting him and the two settled their dispute.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/683007-ku-professor-arif-saqi-reconciles-with-konain-shah-in-assault-case"
+        }
+      ],
+      "timestamp": "Sep 21, 4:33 PM",
+      "publishedAt": "2026-09-21T16:33:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A private settlement with little institutional effect."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Resolution of a dispute eases tension around the case."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not relevant to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "No political framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based only on a short feed description."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "PTI claims federal-level contacts 'ongoing' amid long march call",
+      "summary": "AI summary: PTI leaders say talks with government officials are continuing even as the party pushes ahead with its protest march plan. This is PTI's own claim.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/683008-pti-claims-federal-contacts-ongoing-amid-long-march-call"
+        }
+      ],
+      "timestamp": "Sep 21, 4:23 PM",
+      "publishedAt": "2026-09-21T16:23:39+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Reported backchannel talks could ease or prolong the standoff; unconfirmed."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Uncertain until talks are confirmed."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports PTI's claim as a claim, based on a short excerpt."
+        },
+        "confidence": {
+          "value": "low",
+          "reason": "Single source, unconfirmed claim, short excerpt only."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Security forces kill 37 terrorists in KP operations, air strikes: govt",
+      "summary": "AI summary: Pakistan's information ministry and military sources said ground operations in Kohat and Hangu and follow-up strikes near the Afghan border killed dozens of militants and destroyed hideouts, including a suicide bomber training site. The figures are official claims following recent attacks on civilians in Khyber Pakhtunkhwa.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40440506/security-forces-kill-37-terrorists-in-kp-operations-air-strikes-govt"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/682991-pakistan-strikes-terror-camps-hideouts-in-border-region-with-afghanistan"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2031589/pakistan-carries-out-calibrated-airstrikes-against-terrorist-targets-in-border-region-with-afghanistan"
+        }
+      ],
+      "timestamp": "Sep 21, 2:50 PM",
+      "publishedAt": "2026-09-21T14:50:21+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct near-term effect on jobs or prices is stated."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Cross-border strikes near Afghanistan risk straining relations and signal continued instability in KP."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Militant violence and armed operations continue to threaten safety in border districts, even as officials frame the strikes as a success."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Security escalation can affect investor sentiment, though no market impact is reported."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Claims are attributed to the government and military with no independent verification in the excerpts; not enough to judge tilt."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Three outlets report matching events, but the casualty figures come from official sources and I worked from feed excerpts."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Naqvi warns PTI against Islamabad march, urges it to reconsider protest plan",
+      "summary": "AI summary: Interior Minister Mohsin Naqvi urged PTI to drop its September 27 Islamabad protest, saying courts have barred road occupation and that it would hurt the economy amid terrorism concerns. PTI leaders responded by condemning arrests of party workers and relatives.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40440504/naqvi-warns-pti-against-islamabad-march-urges-it-to-reconsider-protest-plan"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2031568/interior-minister-naqvi-warns-pti-against-sept-27-protest-call-urges-party-to-change-course"
+        }
+      ],
+      "timestamp": "Sep 21, 1:35 PM",
+      "publishedAt": "2026-09-21T13:35:17+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Minister argues that road occupation and protests would damage economic activity."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "A standoff between the government and the main opposition party raises the risk of confrontation."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Threats of strict action and likely disruption in the capital affect daily life and safety."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Political tension in Islamabad can weigh on business confidence."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Both the minister's warning and PTI's rebuttal are reported."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Two outlets report the same statement; based on excerpts and descriptions only."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "After Aleema, Imran's other sisters, relatives also arrested: PTI",
+      "summary": "AI summary: PTI said Punjab authorities detained more relatives of Imran Khan, including two sisters and several children, and that five of its parliamentarians were picked up in Islamabad under public order law. The party called the moves political victimization and demanded court appearances; these are PTI's claims.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40440499/after-aleema-imrans-other-sisters-relatives-also-arrested-pti"
+        }
+      ],
+      "timestamp": "Sep 21, 1:02 PM",
+      "publishedAt": "2026-09-21T13:02:44+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic effect is described."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Detentions of opposition figures and relatives deepen political polarization."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Reported arrests of family members, including children, raise rights and safety concerns."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited relevance to investors beyond general political risk."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "The report attributes claims to PTI as PTI's allegations without endorsing them."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Claims are PTI's own and unverified in the excerpt; single source."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Govt vows to tackle protests 'once and for all' amid PTI's Sept 27 Islamabad march",
+      "summary": "AI summary: Officials said the government will firmly deal with protests planned for Islamabad on September 27 by PTI and another party. The report is based on a short feed excerpt.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/682963-security-czar-vows-to-tackle-protests-once-and-for-all-amid-pti-ji-planned-islamabad-marches"
+        }
+      ],
+      "timestamp": "Sep 21, 11:37 AM",
+      "publishedAt": "2026-09-21T11:37:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No specific economic effect is stated."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "A hardline stance ahead of a planned march points to rising political confrontation."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Possible clashes and security clampdowns could affect public safety."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little direct relevance to markets in the excerpt."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Only a brief excerpt was available, so no clear framing tilt could be judged."
+        },
+        "confidence": {
+          "value": "low",
+          "reason": "Single source and only a short description was used."
+        }
+      }
+    },
+    {
+      "id": 8,
       "headline": "Imran's sisters Uzma, Noreen detained under 3-MPO following Aleema's detention",
       "summary": "AI summary: Two more sisters of PTI founder Imran Khan were detained for 30 days under public order rules in Lahore, after a third sister was held earlier, ahead of a protest planned for September 27. Officials cited alleged mobilisation tied to the May 9 unrest.",
       "sources": [
@@ -46,7 +338,7 @@
       "flaggedForReview": true
     },
     {
-      "id": 2,
+      "id": 9,
       "headline": "Putin's party set to retain power after Russia vote hit by cyberattacks, drones",
       "summary": "AI summary: Early results show Russia's ruling United Russia party winning over 57% of the parliamentary vote, while authorities reported cyberattacks and Ukrainian drone strikes around the election.",
       "sources": [
@@ -86,7 +378,7 @@
       "flaggedForReview": false
     },
     {
-      "id": 3,
+      "id": 10,
       "headline": "Four India-backed terrorists killed in Balochistan's Panjgur district: security sources",
       "summary": "AI summary: Security sources said four militants were killed in raids in Panjgur, Balochistan, with further operations planned. The 'India-backed' label is the sources' own claim and is not independently verified here.",
       "sources": [
@@ -126,7 +418,7 @@
       "flaggedForReview": false
     },
     {
-      "id": 4,
+      "id": 11,
       "headline": "Over 22,000 security personnel to be deployed in Islamabad amid protest calls",
       "summary": "AI summary: More than 22,000 security personnel are to be deployed in Islamabad, with containers set to block about 30 entry points ahead of opposition marches planned for late September.",
       "sources": [
@@ -166,7 +458,7 @@
       "flaggedForReview": true
     },
     {
-      "id": 5,
+      "id": 12,
       "headline": "Govt vows not to allow violent groups to reach capital",
       "summary": "AI summary: The information minister said the government will stop any violent group from reaching Islamabad, citing court rulings on road closures, while the finance minister warned protests could cost roughly Rs120 billion a day.",
       "sources": [
@@ -206,7 +498,7 @@
       "flaggedForReview": true
     },
     {
-      "id": 6,
+      "id": 13,
       "headline": "Dar departs for NY to attend 81st session of UNGA",
       "summary": "AI summary: Foreign Minister Ishaq Dar left for New York for the UN General Assembly, where he will push Kashmir self-determination and Palestinian causes and chair an ECO ministers' meeting.",
       "sources": [
@@ -246,7 +538,7 @@
       "flaggedForReview": false
     },
     {
-      "id": 7,
+      "id": 14,
       "headline": "Naqvi visits residence of martyred Captain Hamza",
       "summary": "AI summary: Interior Minister Mohsin Naqvi visited the family of Captain Hamza Akram, who died in fighting in Hangu. The captain is reported to have killed seven militants; his father expressed pride.",
       "sources": [
@@ -286,7 +578,7 @@
       "flaggedForReview": false
     },
     {
-      "id": 8,
+      "id": 15,
       "headline": "Abbasi opens new parks in Rawalpindi",
       "summary": "AI summary: Railways Minister Hanif Abbasi inaugurated two parks in Rawalpindi, saying safe recreation for women and children is a government priority, with surveillance and utility upgrades cited.",
       "sources": [
@@ -326,7 +618,7 @@
       "flaggedForReview": false
     },
     {
-      "id": 9,
+      "id": 16,
       "headline": "PM Shehbaz to raise Kashmir, Palestine issues during UNGA address on Sept 25: envoy",
       "summary": "AI summary: Pakistan's UN envoy said the prime minister will focus on Kashmir and Palestine in his address to the 81st UN General Assembly session on September 25.",
       "sources": [
@@ -366,7 +658,7 @@
       "flaggedForReview": false
     },
     {
-      "id": 10,
+      "id": 17,
       "headline": "8 terrorists killed: Two officers among 6 martyred in Hangu",
       "summary": "AI summary: Six soldiers, including two young officers, were killed in a firefight in Hangu, Khyber Pakhtunkhwa, and the military says eight militants also died. Figures are attributed to military and security statements.",
       "sources": [
