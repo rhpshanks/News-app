@@ -1,0 +1,413 @@
+{
+  "generatedAt": "2026-09-21T11:10:00+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Imran's sisters Uzma, Noreen detained under 3-MPO following Aleema's detention",
+      "summary": "AI summary: Two more sisters of PTI founder Imran Khan were detained for 30 days under public order rules in Lahore, after a third sister was held earlier, ahead of a protest planned for September 27. Officials cited alleged mobilisation tied to the May 9 unrest.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/682961-uzma-khan-noreen-niazi-detained-under-3mpo-following-aleemas-detention"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2031544/after-aleema-imrans-sisters-uzma-and-noreen-also-detained-in-lahore-under-mpo-for-30-days"
+        }
+      ],
+      "timestamp": "Sep 21, 10:51 AM",
+      "publishedAt": "2026-09-21T10:51:00+05:00",
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic effect reported."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Detaining opposition leader's relatives before a protest raises political tension."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Heightens confrontation and unrest risk around planned protest."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Political unrest can affect market sentiment."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Both outlets report the detentions and official grounds without evident slant."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Two outlets agree on details, but only feed summaries were read."
+        }
+      },
+      "flaggedForReview": true
+    },
+    {
+      "id": 2,
+      "headline": "Putin's party set to retain power after Russia vote hit by cyberattacks, drones",
+      "summary": "AI summary: Early results show Russia's ruling United Russia party winning over 57% of the parliamentary vote, while authorities reported cyberattacks and Ukrainian drone strikes around the election.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2031561/putins-party-set-to-retain-power-after-russia-vote-hit-by-cyberattacks-drones"
+        }
+      ],
+      "timestamp": "Sep 21, 10:28 AM",
+      "publishedAt": "2026-09-21T10:28:40+05:00",
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Foreign election; no direct effect on Pakistan's economy stated."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Foreign domestic politics; little effect on Pakistan's institutions."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life in Pakistan."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited relevance to Pakistani markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Not about Pakistani government or opposition."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single outlet, feed summary only."
+        }
+      },
+      "flaggedForReview": false
+    },
+    {
+      "id": 3,
+      "headline": "Four India-backed terrorists killed in Balochistan's Panjgur district: security sources",
+      "summary": "AI summary: Security sources said four militants were killed in raids in Panjgur, Balochistan, with further operations planned. The 'India-backed' label is the sources' own claim and is not independently verified here.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/682954-four-india-backed-terrorists-killed-in-balochistans-panjgur-district-security-sources"
+        }
+      ],
+      "timestamp": "Sep 21, 9:20 AM",
+      "publishedAt": "2026-09-21T09:20:00+05:00",
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic effect stated."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Reported as a security success, with no governance change stated."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Ongoing militancy and continued operations signal persistent instability."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited direct market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Relies on unnamed security sources, but the piece does not take a political side."
+        },
+        "confidence": {
+          "value": "low",
+          "reason": "Single outlet citing unnamed security sources; unverified claims."
+        }
+      },
+      "flaggedForReview": false
+    },
+    {
+      "id": 4,
+      "headline": "Over 22,000 security personnel to be deployed in Islamabad amid protest calls",
+      "summary": "AI summary: More than 22,000 security personnel are to be deployed in Islamabad, with containers set to block about 30 entry points ahead of opposition marches planned for late September.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2031473/over-22000-security-personnel-to-be-deployed-in-islamabad-amid-protest-calls"
+        }
+      ],
+      "timestamp": "Sep 21, 8:55 AM",
+      "publishedAt": "2026-09-21T08:55:59+05:00",
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Road blockades and protests typically disrupt business and movement."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Heavy security response signals confrontation between government and opposition."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Blockades and heavy deployments disrupt daily life."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Possible disruption relevant to business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Describes the measures factually."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single outlet, feed summary only."
+        }
+      },
+      "flaggedForReview": true
+    },
+    {
+      "id": 5,
+      "headline": "Govt vows not to allow violent groups to reach capital",
+      "summary": "AI summary: The information minister said the government will stop any violent group from reaching Islamabad, citing court rulings on road closures, while the finance minister warned protests could cost roughly Rs120 billion a day.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2031452/govt-vows-not-to-allow-violent-groups-to-reach-capital"
+        }
+      ],
+      "timestamp": "Sep 21, 7:10 AM",
+      "publishedAt": "2026-09-21T07:10:12+05:00",
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Minister's Rs120bn daily loss estimate points to economic cost."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Government-opposition standoff deepens ahead of protest."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Threat of confrontation and blockades affects public safety."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Protest cost claims matter to businesses."
+        },
+        "lean": {
+          "value": "pro-government",
+          "reason": "Piece leans on government statements; opposition response not evident in the excerpt."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Feed summary only; cost figure is a ministerial claim."
+        }
+      },
+      "flaggedForReview": true
+    },
+    {
+      "id": 6,
+      "headline": "Dar departs for NY to attend 81st session of UNGA",
+      "summary": "AI summary: Foreign Minister Ishaq Dar left for New York for the UN General Assembly, where he will push Kashmir self-determination and Palestinian causes and chair an ECO ministers' meeting.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40440418/dar-departs-for-ny-to-attend-81st-session-of-unga"
+        }
+      ],
+      "timestamp": "Sep 21, 4:53 AM",
+      "publishedAt": "2026-09-21T04:53:46+05:00",
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine diplomatic engagement."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Neutral reporting of a scheduled trip."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on RSS excerpt only."
+        }
+      },
+      "flaggedForReview": false
+    },
+    {
+      "id": 7,
+      "headline": "Naqvi visits residence of martyred Captain Hamza",
+      "summary": "AI summary: Interior Minister Mohsin Naqvi visited the family of Captain Hamza Akram, who died in fighting in Hangu. The captain is reported to have killed seven militants; his father expressed pride.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40440416/naqvi-visits-residence-of-martyred-captain-hamza"
+        }
+      ],
+      "timestamp": "Sep 21, 4:53 AM",
+      "publishedAt": "2026-09-21T04:53:46+05:00",
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Condolence visit; no governance impact."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Reflects human cost of ongoing militancy."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not market relevant."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Condolence coverage, not politically framed."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on RSS excerpt only; militant kill count is as reported."
+        }
+      },
+      "flaggedForReview": false
+    },
+    {
+      "id": 8,
+      "headline": "Abbasi opens new parks in Rawalpindi",
+      "summary": "AI summary: Railways Minister Hanif Abbasi inaugurated two parks in Rawalpindi, saying safe recreation for women and children is a government priority, with surveillance and utility upgrades cited.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40440415/abbasi-opens-new-parks-in-rawalpindi"
+        }
+      ],
+      "timestamp": "Sep 21, 4:53 AM",
+      "publishedAt": "2026-09-21T04:53:46+05:00",
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Minor local infrastructure."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine inauguration."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "New public recreation spaces benefit families."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little market relevance."
+        },
+        "lean": {
+          "value": "pro-government",
+          "reason": "Relies on the minister's own claims, no outside view; excerpt too short to judge firmly."
+        },
+        "confidence": {
+          "value": "low",
+          "reason": "RSS excerpt only."
+        }
+      },
+      "flaggedForReview": false
+    },
+    {
+      "id": 9,
+      "headline": "PM Shehbaz to raise Kashmir, Palestine issues during UNGA address on Sept 25: envoy",
+      "summary": "AI summary: Pakistan's UN envoy said the prime minister will focus on Kashmir and Palestine in his address to the 81st UN General Assembly session on September 25.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/682949-shehbaz-to-put-kashmir-palestine-at-centre-of-pakistans-unga-push"
+        }
+      ],
+      "timestamp": "Sep 21, 4:40 AM",
+      "publishedAt": "2026-09-21T04:40:24+05:00",
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine diplomatic agenda."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the envoy's stated plans neutrally."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Feed summary only."
+        }
+      },
+      "flaggedForReview": false
+    },
+    {
+      "id": 10,
+      "headline": "8 terrorists killed: Two officers among 6 martyred in Hangu",
+      "summary": "AI summary: Six soldiers, including two young officers, were killed in a firefight in Hangu, Khyber Pakhtunkhwa, and the military says eight militants also died. Figures are attributed to military and security statements.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/682915-two-officers-among-six-soldiers-martyred-in-exchange-of-fire-in-hangu"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40440427/8-terrorists-killed-two-officers-among-6-martyred-in-hangu"
+        }
+      ],
+      "timestamp": "Sep 20, 9:14 PM",
+      "publishedAt": "2026-09-20T21:14:00+05:00",
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic effect stated."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Continued militant violence strains security governance."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Loss of soldiers and ongoing violence harm public safety."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited direct market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Attributes claims to military statements without political slant."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Two outlets match on toll, but figures come from the military and only excerpts were read."
+        }
+      },
+      "flaggedForReview": true
+    }
+  ]
+}
