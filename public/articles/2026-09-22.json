@@ -1,0 +1,197 @@
+{
+  "generatedAt": "2026-09-22T11:08:29+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "CDF Munir says armed forces remain resolute in defeating terrorism, ensuring lasting peace: ISPR",
+      "summary": "AI summary: Chief of Defence Forces Field Marshal Asim Munir visited Peshawar Corps Headquarters, was briefed on counterterrorism operations and border management in Khyber Pakhtunkhwa, and reaffirmed that the armed forces remain resolute in defeating terrorism, a visit that followed the deadly Kohat Police Lines attack that killed 22 people.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2031798/cdf-munir-says-armed-forces-remain-resolute-in-defeating-terrorism-ensuring-lasting-peace-ispr" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/683117-cdf-munir-reaffirms-armed-forces-resolve-to-defeat-terrorism-ensure-lasting-peace" }
+      ],
+      "timestamp": "Sep 22, 10:42 AM",
+      "publishedAt": "2026-09-22T10:42:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Routine military statement and base visit with no direct economic effect." },
+        "political": { "value": "neutral", "reason": "Reaffirms institutional counterterrorism commitment without notable political controversy." },
+        "social": { "value": "negative", "reason": "Visit follows the deadly Kohat Police Lines attack that killed 22, underscoring an ongoing militant threat to public safety." },
+        "market": { "value": "low", "reason": "Internal military affairs with limited relevance to investors or markets." },
+        "lean": { "value": "balanced", "reason": "Straightforward reporting of an ISPR statement with no one-sided framing." },
+        "confidence": { "value": "high", "reason": "Corroborated by both Dawn and Geo with matching details." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Iran shows willingness to return to negotiating table",
+      "summary": "AI summary: During a Tehran visit, Pakistan's Interior Minister Mohsin Naqvi met Iranian officials who signaled openness to resuming talks with the US to de-escalate tensions, as Pakistan and Qatar continue mediation efforts, even as Washington denied visas to members of Iran's UN General Assembly delegation.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2031745/iran-shows-willingness-to-return-to-negotiating-table" }
+      ],
+      "timestamp": "Sep 22, 7:44 AM",
+      "publishedAt": "2026-09-22T07:44:53+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Signs of de-escalation could ease regional tensions that affect oil markets and trade routes." },
+        "political": { "value": "positive", "reason": "Diplomatic progress toward dialogue supports regional stability and Pakistan's mediating role." },
+        "social": { "value": "neutral", "reason": "Primarily a diplomatic development with no immediate direct effect on daily life in Pakistan." },
+        "market": { "value": "medium", "reason": "Iran-US tension trajectory affects regional oil prices and shipping relevant to investors." },
+        "lean": { "value": "balanced", "reason": "Reports statements from multiple parties without favoring a domestic political side." },
+        "confidence": { "value": "medium", "reason": "Single-source report describing statements amid a fluid, disputed diplomatic situation." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Pakistan, Saudi Arabia sign agreement to abolish visa requirements for diplomatic, official passport holders",
+      "summary": "AI summary: Pakistan and Saudi Arabia signed an agreement at the UN General Assembly in New York eliminating visa requirements for diplomatic and official passport holders, signed by Deputy PM Ishaq Dar and Saudi FM Prince Faisal bin Farhan, extending the countries' broader strategic partnership including earlier defence and trade agreements.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2031777/pakistan-saudi-arabia-sign-agreement-to-abolish-visa-requirements-for-diplomatic-official-passport-holders" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/683105-pakistan-saudi-arabia-waive-visa-requirements-for-diplomatic-official-passport-holders" }
+      ],
+      "timestamp": "Sep 22, 7:11 AM",
+      "publishedAt": "2026-09-22T07:11:50+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Eases diplomatic travel and strengthens bilateral ties that can facilitate trade and investment engagement." },
+        "political": { "value": "positive", "reason": "Strengthens diplomatic relationship and institutional cooperation with a key ally." },
+        "social": { "value": "neutral", "reason": "Affects official travel only, with minimal direct impact on the general public." },
+        "market": { "value": "low", "reason": "Narrow diplomatic/visa matter with limited direct market relevance." },
+        "lean": { "value": "balanced", "reason": "Factual report of a bilateral diplomatic agreement with no partisan framing." },
+        "confidence": { "value": "high", "reason": "Corroborated by Dawn and Geo with matching details on signatories and context." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "PM arrives in New York",
+      "summary": "AI summary: Prime Minister Shehbaz Sharif arrived in New York with Deputy PM Ishaq Dar and Special Assistant Tariq Fatemi to attend the UN General Assembly's 81st session, where he is due to address regional security, climate, counterterrorism, and the Kashmir and Palestine situations, and hold bilateral meetings with world leaders.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40440620/pm-arrives-in-new-york" }
+      ],
+      "timestamp": "Sep 22, 6:34 AM",
+      "publishedAt": "2026-09-22T06:34:20+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Routine diplomatic travel with no direct economic effect reported." },
+        "political": { "value": "neutral", "reason": "Standard high-level diplomatic engagement without domestic political controversy." },
+        "social": { "value": "neutral", "reason": "No direct impact on the daily life of the public." },
+        "market": { "value": "low", "reason": "Diplomatic visit with limited immediate relevance to markets or business." },
+        "lean": { "value": "balanced", "reason": "Factual account of official travel and planned agenda." },
+        "confidence": { "value": "high", "reason": "Straightforward, uncontested factual report on official travel plans." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "28 militants killed in Pak-Afghan border region",
+      "summary": "AI summary: Pakistan's government said airstrikes on suspected militant hubs in Afghanistan's Paktika and Kunar provinces killed at least 28 militants including suicide bombers, a claim Afghanistan's Taliban administration disputed as inaccurate.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40440622/28-militants-killed-in-pak-afghan-border-region" }
+      ],
+      "timestamp": "Sep 22, 6:22 AM",
+      "publishedAt": "2026-09-22T06:22:21+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Cross-border military action with no direct near-term economic effect reported." },
+        "political": { "value": "negative", "reason": "Disputed cross-border strikes and rejected casualty claims add friction to Pakistan-Afghanistan relations." },
+        "social": { "value": "negative", "reason": "Reported killings and disputed casualty claims reflect ongoing cross-border conflict affecting communities in the border region." },
+        "market": { "value": "low", "reason": "Cross-border security incident with limited immediate relevance to markets." },
+        "lean": { "value": "balanced", "reason": "Attributes the claim to Pakistan's government and includes the Afghan Taliban administration's rejection of the death toll." },
+        "confidence": { "value": "medium", "reason": "Casualty figures are disputed between the two governments and not independently verified." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "PM offers talks on petroleum levy as JI Islamabad march reaches Multan",
+      "summary": "AI summary: Prime Minister Shehbaz Sharif called Jamaat-e-Islami chief Hafiz Naeemur Rehman as the party's train march against the petroleum levy reached Multan, asking JI to postpone its Islamabad protest until his return and offering talks on the levy, while JI said it would consult its council before responding.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/683104-pm-offers-talks-on-petroleum-levy-as-ji-march-arrives-in-multan" }
+      ],
+      "timestamp": "Sep 22, 5:41 AM",
+      "publishedAt": "2026-09-22T05:41:43+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Covers negotiation over a levy dispute, not yet a policy change with economic effect." },
+        "political": { "value": "positive", "reason": "Government's offer of dialogue reduces risk of confrontation and supports orderly resolution of the protest." },
+        "social": { "value": "neutral", "reason": "March continues with no reported disruption or harm from this specific development." },
+        "market": { "value": "low", "reason": "Internal political negotiation with limited immediate market relevance." },
+        "lean": { "value": "balanced", "reason": "Reports both the government's offer and JI's cautious response without favoring either side." },
+        "confidence": { "value": "medium", "reason": "Single-source account of a fluid, ongoing political negotiation." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "IK's sisters arrested ahead of protest",
+      "summary": "AI summary: Punjab Police arrested Imran Khan's sisters Uzma Khan and Noreen Niazi along with their children ahead of PTI's September 27 protest, a day after another sister, Aleema Khan, was ordered detained for 30 days by Lahore's Deputy Commissioner, actions PTI condemned as illegal political victimisation.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40440608/iks-sisters-arrested-ahead-of-protest" }
+      ],
+      "timestamp": "Sep 22, 5:15 AM",
+      "publishedAt": "2026-09-22T05:15:09+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Detention of political figures' family members with no direct economic effect." },
+        "political": { "value": "negative", "reason": "Detention of an opposition leader's family members ahead of a planned protest signals escalating political confrontation." },
+        "social": { "value": "negative", "reason": "Arrests of family members, including children present, raise civil-liberties concerns." },
+        "market": { "value": "low", "reason": "Primarily a domestic political and legal matter with limited direct market relevance." },
+        "lean": { "value": "pro-opposition", "reason": "Coverage centers on PTI's account and condemnation of the arrests as illegal, without a quoted government justification." },
+        "confidence": { "value": "medium", "reason": "Single-source account; one-sided sourcing noted but details are specific and consistent with the RSS excerpt." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Naqvi warns PTI against reaching a dead end",
+      "summary": "AI summary: Interior Minister Mohsin Naqvi warned PTI against forcing its way into Islamabad, saying the government would act with \"iron hands\" against anyone attempting to storm the capital, while also criticizing the Khyber Pakhtunkhwa government's handling of recent security personnel deaths.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40440601/naqvi-warns-pti-against-reaching-a-dead-end" }
+      ],
+      "timestamp": "Sep 22, 5:15 AM",
+      "publishedAt": "2026-09-22T05:15:08+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Political statement with no direct economic effect." },
+        "political": { "value": "negative", "reason": "Combative rhetoric between the interior minister and an opposition party ahead of a planned protest signals rising institutional tension." },
+        "social": { "value": "negative", "reason": "Warnings of forceful action against a planned protest raise concerns about potential unrest affecting public safety." },
+        "market": { "value": "low", "reason": "Primarily a domestic political statement with limited direct market relevance." },
+        "lean": { "value": "pro-government", "reason": "Article centers on the minister's warning and framing of PTI's plans without including a PTI response." },
+        "confidence": { "value": "medium", "reason": "Single-source coverage of a political statement; quotes are direct but no counter viewpoint is included in this piece." }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "Punjab, Sindh send police contingents to Islamabad as capital braces for PTI march",
+      "summary": "AI summary: Ahead of PTI's planned September 27 march, Punjab and Sindh deployed thousands of police to Islamabad and authorities welded shipping containers to block roads, while several PTI lawmakers and family members of Imran Khan were detained, actions the party has condemned as authorities warn against prolonged disruption.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/683089-punjab-and-sindh-send-police-to-islamabad-as-capital-braces-for-pti-march" }
+      ],
+      "timestamp": "Sep 22, 1:37 AM",
+      "publishedAt": "2026-09-22T01:37:33+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Road blockages and heavy security deployment risk disrupting commerce and mobility in the capital." },
+        "political": { "value": "negative", "reason": "Mass police deployment and detention of opposition lawmakers and a leader's family members ahead of a protest signal rising institutional tension." },
+        "social": { "value": "negative", "reason": "Large-scale security lockdown and detentions raise civil-liberties concerns and disrupt daily life in Islamabad." },
+        "market": { "value": "medium", "reason": "Political unrest and a capital lockdown could weigh on investor sentiment and business operations." },
+        "lean": { "value": "balanced", "reason": "Article reports both the government's security rationale and PTI's condemnation of the detentions." },
+        "confidence": { "value": "medium", "reason": "Single-source account of an evolving security situation." }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "Govt raises petrol price by Rs4.61 per litre, reduces HSD rate by Rs1.96",
+      "summary": "AI summary: Pakistan's government raised petrol prices by Rs4.61 to Rs393.75 per litre while cutting high-speed diesel by Rs1.96 to Rs422.08 per litre effective September 22, amid continued volatility in international oil markets tied to the US-Iran conflict.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2031638/govt-raises-petrol-price-by-rs461-per-litre-reduces-hsd-rate-by-rs196" }
+      ],
+      "timestamp": "Sep 21, 11:52 PM",
+      "publishedAt": "2026-09-21T23:52:57+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Petrol price hike raises transport and living costs for consumers and businesses, despite diesel relief." },
+        "political": { "value": "neutral", "reason": "Routine fortnightly fuel price adjustment rather than a discretionary political decision." },
+        "social": { "value": "negative", "reason": "Higher petrol prices increase the cost of living for the public amid already elevated inflation pressure." },
+        "market": { "value": "medium", "reason": "Fuel price shifts affect transport, logistics and consumer sectors relevant to business planning." },
+        "lean": { "value": "balanced", "reason": "Straightforward factual reporting of an official price notification." },
+        "confidence": { "value": "high", "reason": "Official, unambiguous price figures reported directly." }
+      }
+    }
+  ]
+}
