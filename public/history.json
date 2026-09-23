@@ -2014,5 +2014,37 @@
       "medium": 8,
       "low": 0
     }
+  },
+  {
+    "date": "2026-09-24",
+    "articleCount": 8,
+    "counts": {
+      "economic": {
+        "positive": 2,
+        "neutral": 5,
+        "negative": 1
+      },
+      "political": {
+        "positive": 1,
+        "neutral": 5,
+        "negative": 2
+      },
+      "social": {
+        "positive": 1,
+        "neutral": 4,
+        "negative": 3
+      }
+    },
+    "flaggedForReview": 2,
+    "lean": {
+      "balanced": 8,
+      "pro-government": 0,
+      "pro-opposition": 0
+    },
+    "confidence": {
+      "high": 4,
+      "medium": 4,
+      "low": 0
+    }
   }
 ]

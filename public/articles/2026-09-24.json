@@ -1,0 +1,333 @@
+{
+  "generatedAt": "2026-09-24T01:17:10+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "UNGA: PM Shehbaz meets IMF chief",
+      "summary": "AI summary: At the UN General Assembly, PM Shehbaz said Pakistan remains focused on brokering de-escalation between Iran and the US, while the IMF managing director met him and credited Pakistan's reform programme with keeping the economy stable and restoring market access.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40440907/unga-pm-shehbaz-meets-imf-chief-tells-reporters-pakistan-completely-focused-on-mediating-end-to-iran-war"
+        }
+      ],
+      "timestamp": "Sep 24, 1:06 AM",
+      "publishedAt": "2026-09-24T01:06:37+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "IMF endorsement of reforms supports investor confidence and continued financing."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Diplomatic engagement abroad with no direct domestic governance change."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate effect on daily life described."
+        },
+        "market": {
+          "value": "high",
+          "reason": "IMF relations and market access are directly relevant to investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straight report of the PM's remarks and the IMF meeting; no partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on the RSS excerpt only, as Business Recorder pages are not fetched in full."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Section 144 imposed in Islamabad; district admin warns citizens against participating in any 'illegal activity'",
+      "summary": "AI summary: Islamabad's district administration has banned gatherings of five or more people and all rallies across the capital for two months, citing planned PTI and farmer protests, and warned violators could face up to three years in jail as over 22,000 security personnel are deployed.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2032130/section-144-imposed-in-islamabad-district-admin-warns-citizens-against-participating-in-any-illegal-activity"
+        }
+      ],
+      "timestamp": "Sep 23, 11:18 PM",
+      "publishedAt": "2026-09-23T23:18:01+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Possible local disruption, but no direct economic measure announced."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "A blanket protest ban ahead of an opposition march signals rising confrontation."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Restricts public assembly for two months under threat of imprisonment."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited direct relevance to markets beyond general unrest risk."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the official order factually, though it carries no PTI response."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Details of a formal administrative order reported in the full article."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Govt reduces petrol price by Rs1.93 per litre, HSD by Rs4.21 per litre",
+      "summary": "AI summary: The government trimmed petrol by Rs1.93 to Rs390.12 per litre and diesel by Rs4.21 to Rs414.75 from Thursday, keeping its Rs114 and Rs100 per litre levies unchanged; prices, now set daily, remain well below their April peak after the US-Iran conflict.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2032124/govt-reduces-petrol-price-by-rs193-per-litre-hsd-by-rs421-per-litre"
+        }
+      ],
+      "timestamp": "Sep 23, 11:10 PM",
+      "publishedAt": "2026-09-23T23:10:18+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "Lower fuel, especially diesel, eases transport and input costs."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine pricing decision with no governance implications."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Slight relief on household fuel spending."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Fuel prices feed directly into inflation and business costs."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual reporting of an official price notification."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Official figures reported in full in the article."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Pezeshkian says Iran will not surrender after Trump's annihilation threat",
+      "summary": "AI summary: Iran's President Pezeshkian told the UN his country would never submit, a day after Trump said he was weighing whether to annihilate Iran, even as US and Iranian officials held their first indirect talks in months through Qatari mediators, per Reuters and AFP.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2032120/pezeshkian-says-iran-will-not-surrender-after-trumps-annihilation-threat"
+        }
+      ],
+      "timestamp": "Sep 23, 10:06 PM",
+      "publishedAt": "2026-09-23T22:06:36+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Escalatory rhetoric raises oil risk, offset by the resumption of indirect talks."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A foreign dispute with no direct effect on Pakistan's institutions."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life in Pakistan described."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "US-Iran tensions influence oil prices and regional risk sentiment."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Presents both leaders' statements and the diplomatic track."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Wire-agency reporting of on-record UN speeches, read in full."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "19 terrorists killed, soldier martyred in operations in Balochistan: ISPR",
+      "summary": "AI summary: ISPR said security forces killed 19 militants in intelligence-based operations in Shaban, Kech and Quetta West between September 21 and 23, recovering weapons and explosives, while one soldier was killed; the militants' identities and alleged foreign backing are ISPR's claims and were not independently verified.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2032069/19-terrorists-killed-soldier-martyred-in-operations-in-balochistan-ispr"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/683371-19-india-backed-terrorists-killed-in-balochistan-ibos-since-sep-21-ispr"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40440874/security-forces-kill-19-terrorists-in-balochistan-operations-ispr"
+        }
+      ],
+      "timestamp": "Sep 23, 9:03 PM",
+      "publishedAt": "2026-09-23T21:03:22+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic effect reported."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Ongoing counterterrorism campaign; no change in governance described."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Deadly clashes and a soldier's death reflect continuing insecurity in Balochistan."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited direct market relevance, though security risk weighs on regional investment."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Outlets relay ISPR statements; the military's framing is attributed, not endorsed."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Three outlets carry matching figures, but all rest on a single official source (ISPR)."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Govt discourages officials from accepting gifts from foreign dignitaries under new Toshakhana rules",
+      "summary": "AI summary: New Toshakhana rules issued by the Cabinet Division discourage public office holders, except the president and PM, from accepting foreign gifts, require unavoidable ones to be deposited within 30 days, and set up televised auctions whose proceeds go to girls' primary education.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/683342-govt-discourages-officials-from-accepting-gifts-from-foreign-dignitaries-under-new-toshakhana-rules"
+        }
+      ],
+      "timestamp": "Sep 23, 6:12 PM",
+      "publishedAt": "2026-09-23T18:12:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Negligible economic impact."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "Tighter, more transparent gift rules may strengthen accountability."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Auction proceeds for education are modest in scale."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little relevance to markets or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Describes the rules factually; no partisan framing, though no outside comment."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Based on the text of officially issued rules, read in full."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Punjab 'seeks mobile, internet shutdown' amid PTI's proposed long march",
+      "summary": "AI summary: Ahead of PTI's September 27 march on Islamabad, Punjab's Home Department reportedly asked the Centre to suspend mobile and internet service in parts of Rawalpindi and Attock and deploy Rangers, while Section 144 was imposed province-wide and two highways to Khyber Pakhtunkhwa were closed; PTI said the march would go ahead.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/683335-punjab-seeks-mobile-internet-shutdown-amid-ptis-proposed-long-march"
+        }
+      ],
+      "timestamp": "Sep 23, 6:02 PM",
+      "publishedAt": "2026-09-23T18:02:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Internet cuts and highway closures disrupt commerce and transport."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Escalating standoff between authorities and the opposition march."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Communication blackouts and road closures affect ordinary residents."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Unrest and connectivity cuts matter for business continuity."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Includes both official measures and PTI's stated response."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Key details rest on unnamed sources alongside official statements."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Teenage arrested in Bahawalpur over AI-assisted attempt to poison father",
+      "summary": "AI summary: The NCCIA said it arrested a 17-year-old in Bahawalpur accused of trying to poison his father, allegedly after using an AI tool to research methods and ordering chemicals for a home setup; the agency said the case surfaced through intelligence from abroad.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/683331-teenage-arrested-in-bahawalpur-over-alleged-ai-assisted-poisoning-attempt"
+        }
+      ],
+      "timestamp": "Sep 23, 5:26 PM",
+      "publishedAt": "2026-09-23T17:26:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No economic impact."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Individual criminal case with no governance effect."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "A disturbing isolated case, though an arrest was made before any reported harm."
+        },
+        "market": {
+          "value": "low",
+          "reason": "No market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straight crime report attributed to the agency."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Allegations come from a single agency spokesperson and are unproven."
+        }
+      }
+    }
+  ]
+}
