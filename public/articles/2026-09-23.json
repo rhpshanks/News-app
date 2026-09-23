@@ -1,0 +1,485 @@
+{
+  "generatedAt": "2026-09-23T11:13:59+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Pakistan calls for verifiable action against terrorism emanating from Afghan soil",
+      "summary": "AI summary: Speaking at an OIC contact group meeting on Afghanistan during UNGA, Deputy PM Ishaq Dar pressed for concrete, verifiable steps to stop Afghan territory being used for attacks on Pakistan, citing the recent Kohat attack, and also urged the Taliban to lift curbs on women and girls.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/683269-pakistan-calls-for-concrete-verifiable-action-against-terrorism-emanating-from-afghan-soil"
+        }
+      ],
+      "timestamp": "Sep 23, 11:05 AM",
+      "publishedAt": "2026-09-23T11:05:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Diplomatic statement with no direct effect on prices or business."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Restates Pakistan's established position at a multilateral forum without domestic political fallout."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Highlights an ongoing cross-border militant threat following the deadly Kohat attack."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Foreign policy remarks of limited direct market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the minister's statement plainly; no domestic partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single outlet, based only on official statements."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "PM Shehbaz, Bill Gates eye collaboration in agri-tech, AI",
+      "summary": "AI summary: On the UNGA sidelines, PM Shehbaz Sharif and Gates Foundation chair Bill Gates discussed widening cooperation, with Gates stressing polio eradication and both sides agreeing to explore work on improved seeds, livestock genetics and newer farm technologies.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40440821/pm-shehbaz-bill-gates-eye-collaboration-in-agri-tech-ai"
+        }
+      ],
+      "timestamp": "Sep 23, 11:04 AM",
+      "publishedAt": "2026-09-23T11:04:32+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "Possible agri-tech cooperation could support farm productivity, though nothing concrete is announced yet."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine high-level meeting with no governance implications."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Continued focus on polio, maternal health and nutrition supports public health."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Exploratory talks with no immediate investment commitments."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straightforward meeting readout without partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based only on the RSS excerpt from one outlet."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "'Heinous and cowardly': UNSC condemns Kohat terrorist attack, calls for accountability for perpetrators, sponsors",
+      "summary": "AI summary: The UN Security Council condemned the September 18 bombing and assault on Kohat Police Lines, which reportedly killed 23 people including 17 police officers, and urged that its organisers and financiers be held to account; a group led by Hafiz Gul Bahadur reportedly claimed the attack.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2032037/heinous-and-cowardly-unsc-condemns-kohat-terrorist-attack-calls-for-accountability-for-perpetrators-sponsors"
+        }
+      ],
+      "timestamp": "Sep 23, 10:53 AM",
+      "publishedAt": "2026-09-23T10:53:41+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "International condemnation has no direct economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "UNSC backing strengthens Pakistan's diplomatic position, though the underlying attack reflects continuing militancy."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "The attack killed 23 people, mostly police, and signals an ongoing threat to public safety."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Security statement with limited direct market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the UNSC statement and official accounts without partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single outlet; casualty and retaliation figures rely on official sources."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Asian Development Bank keeps Pakistan's growth forecast at 3.7pc",
+      "summary": "AI summary: The ADB held its FY2027 growth projection for Pakistan at 3.7 percent, below the government's 4 percent target, and expects inflation of around 8.3 percent, above the central bank's 5-7 percent goal, flagging Middle East tensions and austerity as key risks.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2032035/asian-development-bank-keeps-pakistans-growth-forecast-at-37pc"
+        }
+      ],
+      "timestamp": "Sep 23, 9:20 AM",
+      "publishedAt": "2026-09-23T09:20:55+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Growth outlook is steady but below target, while inflation is projected above the preferred range."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "An external economic assessment with no governance impact."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Inflation forecast above target points to continued pressure on household living costs."
+        },
+        "market": {
+          "value": "high",
+          "reason": "A multilateral growth and inflation forecast is directly relevant to investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the ADB's figures and risks without partisan framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Figures come directly from a published ADB outlook, reported in full."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Pakistan stands out amid flurry of diplomacy at UNGA",
+      "summary": "AI summary: Pakistan's role in mediating between the US and Iran drew attention at the UN General Assembly, with the UN chief's office calling it critical and Trump praising PM Shehbaz, while PM Shehbaz and Deputy PM Dar held a series of meetings on the sidelines.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2032006/pakistan-stands-out-amid-flurry-of-diplomacy-at-unga"
+        }
+      ],
+      "timestamp": "Sep 23, 7:31 AM",
+      "publishedAt": "2026-09-23T07:31:19+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Diplomatic recognition has no immediate economic effect."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "International recognition of Pakistan's mediation role supports its diplomatic standing."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Progress on US-Iran de-escalation could affect regional energy prices."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Framing is favourable, but it rests on UN and US statements rather than one-sided domestic sourcing; no critical voices included."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single outlet, and the piece offers no independent or skeptical assessment."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "French SGDSN, ambassador meet CDF",
+      "summary": "AI summary: France's top defence and national security official Nicolas Roche and its ambassador met Chief of Defence Forces Field Marshal Asim Munir in Rawalpindi to discuss regional security and bilateral defence cooperation.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40440803/french-sgdsn-ambassador-meet-cdf"
+        }
+      ],
+      "timestamp": "Sep 23, 6:05 AM",
+      "publishedAt": "2026-09-23T06:05:03+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Defence talks with no direct economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine bilateral defence engagement."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on public wellbeing."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little relevance to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Standard meeting readout."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based only on the RSS excerpt from one outlet."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Dar for implementation of Islamabad MoU for advancing regional stability",
+      "summary": "AI summary: Meeting Libyan and Egyptian foreign ministers at UNGA, Deputy PM Ishaq Dar discussed trade, education and business links and called for putting the Islamabad MoU into practice to support regional stability.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40440800/dar-for-implementation-of-islamabad-mou-for-advancing-regional-stability"
+        }
+      ],
+      "timestamp": "Sep 23, 6:05 AM",
+      "publishedAt": "2026-09-23T06:05:02+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "General pledges of cooperation without concrete economic deals."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine diplomatic engagement."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "No specific commercial announcements."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Plain meeting readout."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based only on the RSS excerpt from one outlet."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Pakistan, others call for preservation of Gaza ceasefire",
+      "summary": "AI summary: Pakistan joined seven other Muslim-majority countries in a joint statement at UNGA urging that the Gaza ceasefire be maintained, aid access expanded and forced displacement rejected, while backing a two-state outcome and continued US engagement.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40440793/pakistan-others-call-for-preservation-of-gaza-ceasefire"
+        }
+      ],
+      "timestamp": "Sep 23, 6:05 AM",
+      "publishedAt": "2026-09-23T06:05:02+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct domestic economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Foreign policy statement with no domestic governance effect."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Concerns an overseas humanitarian situation rather than domestic wellbeing."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited direct market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the joint statement without partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based only on the RSS excerpt from one outlet."
+        }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "PM Shehbaz, DPM Dar engage world leaders on sidelines of UNGA",
+      "summary": "AI summary: PM Shehbaz Sharif met the leaders of Kenya and Kuwait on the UNGA sidelines to discuss trade, investment, energy and defence ties, while Deputy PM Dar used separate meetings to raise terrorism concerns linked to Afghanistan.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/683252-pm-shehbaz-dpm-dar-engage-world-leaders-on-sidelines-of-unga"
+        }
+      ],
+      "timestamp": "Sep 23, 2:31 AM",
+      "publishedAt": "2026-09-23T02:31:46+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "Talks aimed at expanding trade and investment with Kenya and Kuwait, though no deals were announced."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine high-level diplomacy."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Signals possible trade and investment openings in pharma, textiles and SEZs."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Formal readout without partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single outlet, based on official readouts."
+        }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "Govt reduces petrol price by Rs1.7 per litre, HSD by Rs3.12 per litre",
+      "summary": "AI summary: The government lowered petrol to Rs392.05 and high-speed diesel to Rs418.96 per litre from September 23, continuing a gradual decline from April's peak under the daily pricing system in place since July, while fuel taxes stay unchanged.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2031887/govt-reduces-petrol-price-by-rs17-per-litre-hsd-by-rs312-per-litre"
+        }
+      ],
+      "timestamp": "Sep 23, 2:17 AM",
+      "publishedAt": "2026-09-23T02:17:38+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "Lower fuel costs ease transport and input expenses, though the cut is small."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Administrative price revision under an existing mechanism."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Offers modest relief to commuters and households relying on private transport."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Fuel prices feed directly into inflation and business costs."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual price notification with context, no partisan framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Concrete official figures reported in full."
+        }
+      }
+    },
+    {
+      "id": 11,
+      "headline": "Hamza Farrukh appointed PCCA chairperson on two-year contract",
+      "summary": "AI summary: The federal government named climate-tech entrepreneur and former Goldman Sachs vice president Hamza Farrukh as chairperson of the Pakistan Climate Change Authority on a two-year contract, per an Establishment Division notification.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/683231-hamza-farrukh-appointed-pcca-chairperson-on-two-year-contract"
+        }
+      ],
+      "timestamp": "Sep 22, 11:41 PM",
+      "publishedAt": "2026-09-22T23:41:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Personnel appointment with no immediate economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine administrative appointment to a statutory body."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate effect on daily life, though it may shape climate policy later."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little direct market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual appointment report."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Based on an official notification with specific terms."
+        }
+      }
+    },
+    {
+      "id": 12,
+      "headline": "PM Shehbaz 'terrific', Pakistan 'great country', says Trump in UNGA speech",
+      "summary": "AI summary: In his UNGA address, US President Trump praised PM Shehbaz and Pakistan and repeated his claim of ending a 2025 Pakistan-India conflict, while also warning Iran of severe consequences if no nuclear deal is reached.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/683218-pm-shehbaz-terrific-pakistan-great-country-says-trump-in-unga-speech"
+        }
+      ],
+      "timestamp": "Sep 22, 9:22 PM",
+      "publishedAt": "2026-09-22T21:22:26+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Rhetorical praise without economic commitments."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "Public US praise supports Pakistan's diplomatic standing."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Trump's threats toward Iran carry regional energy and risk implications."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the speech's content, including Trump's claims, as his statements."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Direct public speech remarks, also referenced in Dawn's UNGA coverage."
+        }
+      }
+    }
+  ]
+}

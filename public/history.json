@@ -1982,5 +1982,37 @@
       "medium": 6,
       "low": 0
     }
+  },
+  {
+    "date": "2026-09-23",
+    "articleCount": 12,
+    "counts": {
+      "economic": {
+        "positive": 3,
+        "neutral": 9,
+        "negative": 0
+      },
+      "political": {
+        "positive": 2,
+        "neutral": 10,
+        "negative": 0
+      },
+      "social": {
+        "positive": 2,
+        "neutral": 7,
+        "negative": 3
+      }
+    },
+    "flaggedForReview": 0,
+    "lean": {
+      "balanced": 12,
+      "pro-government": 0,
+      "pro-opposition": 0
+    },
+    "confidence": {
+      "high": 4,
+      "medium": 8,
+      "low": 0
+    }
   }
 ]
