@@ -1,8 +1,376 @@
 {
-  "generatedAt": "2026-09-24T01:17:10+05:00",
+  "generatedAt": "2026-09-24T11:50:21+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "LHC rejects petitions seeking immediate suspension of Imran's sisters detention orders",
+      "summary": "AI summary: The Lahore High Court declined to immediately suspend the 30-day MPO detention orders against Imran Khan's sisters Noreen Niazi and Dr Uzma Khan, issued by the Lahore deputy commissioner on police recommendation. The court instead sought replies from the respondents, with the case continuing days before PTI's planned September 27 march.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/683437-lhc-rejects-petitions-seeking-immediate-suspension-of-imrans-sisters-detention-orders"
+        }
+      ],
+      "timestamp": "Sep 24, 10:39 AM",
+      "publishedAt": "2026-09-24T10:39:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic effect."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Preventive detention of an opposition leader's relatives ahead of a march adds to political confrontation."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Limited effect on public daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straight court-proceedings report without evident slant."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read with specific named court and legal provisions."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Trump welcomes Xi to Washington looking for a trade win",
+      "summary": "AI summary: US President Donald Trump is hosting Chinese President Xi Jinping in Washington, Xi's first visit to the US capital in over a decade, in a summit expected to be heavy on symbolism. Treasury Secretary Scott Bessent said the trade truce would be extended to January 10, with possible announcements on farm goods, Boeing purchases and lower tariffs, while Taiwan and tech export controls remain unresolved.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2032298/trump-welcomes-xi-to-washington-looking-for-a-trade-win"
+        }
+      ],
+      "timestamp": "Sep 24, 10:38 AM",
+      "publishedAt": "2026-09-24T10:38:07+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "An extended US-China trade truce eases global trade uncertainty, indirectly supportive for Pakistan's export markets."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A foreign summit with no direct effect on Pakistan's domestic governance."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Little direct effect on daily life in Pakistan."
+        },
+        "market": {
+          "value": "high",
+          "reason": "US-China trade terms move global markets and commodity prices."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Report weighs expected gains against unresolved tensions without taking sides."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; truce extension attributed to a named US official."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Pakistan conducted strikes at 10 locations in Afghanistan in response to recent drone attacks: info minister",
+      "summary": "AI summary: Information Minister Attaullah Tarar said Pakistan carried out what he called precise, proportionate strikes on 10 locations in Afghanistan early Thursday, a day after eight drones from Afghan territory entered Pakistani airspace near Torkham and Kohat. He blamed the Afghan Taliban for not acting against militant sanctuaries and warned of a firm response to further violations; no casualty figures or Afghan response were reported.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/683425-pakistan-hits-10-afghan-locations-in-response-to-recent-drone-intrusion-by-taliban-regime-minister"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2032261/pakistan-conducted-strikes-at-10-locations-in-afghanistan-in-response-to-recent-drone-attacks-info-minister"
+        }
+      ],
+      "timestamp": "Sep 24, 8:22 AM",
+      "publishedAt": "2026-09-24T08:22:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Cross-border escalation raises risk to border trade and investor sentiment."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Open military exchanges with Afghanistan deepen regional instability despite the October 2025 ceasefire."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Escalating hostilities heighten security risks for border communities, whatever the stated success of the strikes."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Security escalation on the western border is material to risk pricing and markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Both outlets report the minister's account with attribution; the one-sidedness reflects a single official source, not editorial framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Corroborated by two outlets, but key claims rest solely on the government's statement with no independent or Afghan confirmation."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "'Carrot and stick' dangled before PTI ahead of march",
+      "summary": "AI summary: Ahead of PTI's planned September 27 march on Islamabad, party insiders told Dawn the government has refused permission while hinting at concessions such as moving Imran Khan to hospital and allowing family visits after the protest date. Minister Tallal Chaudhry denied any such offer, while a PTI spokesperson promised a peaceful march amid internal uncertainty over mobilisation.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2032226/carrot-and-stick-dangled-before-pti-ahead-of-march"
+        }
+      ],
+      "timestamp": "Sep 24, 7:20 AM",
+      "publishedAt": "2026-09-24T07:20:10+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Possible capital disruption is a risk, but no direct economic measure yet."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "A standoff over a banned march and alleged backchannel pressure signals political tension."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Warnings to transporters and possible restrictions may disrupt movement around Islamabad."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited direct market relevance unless the march causes major disruption."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Includes both the government's denial and PTI's position on the record."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but key claims come from anonymous insiders and are officially denied."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "In meeting with top EU officials, PM Shehbaz reiterates commitment to continued engagement under GSP+",
+      "summary": "AI summary: On the sidelines of the UN General Assembly in New York, PM Shehbaz Sharif met European Council President Antonio Costa and Commission President Ursula von der Leyen, reaffirming Pakistan's commitment to the EU's GSP+ trade scheme, which he called vital for jobs and exports. The sides agreed to implement the Pakistan-EU Strategic Engagement Plan, and von der Leyen thanked Pakistan for its offer to mediate between the US and Iran.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/683424-shehbaz-stresses-gsp-plus-importance-as-pakistan-seeks-stronger-eu-ties"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2032300/in-meeting-with-top-eu-officials-pm-shehbaz-reiterates-commitment-to-continued-engagement-under-gsp"
+        }
+      ],
+      "timestamp": "Sep 24, 7:00 AM",
+      "publishedAt": "2026-09-24T07:00:39+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "Continued GSP+ access supports Pakistan's EU-bound exports and textile jobs."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "High-level EU engagement strengthens the government's diplomatic standing."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate effect on daily life."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Relevant to exporters dependent on EU tariff preferences."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Largely a readout of official meetings, reported straightforwardly."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Two outlets report matching details from full articles."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Dar urges OIC members to maintain unified position on Kashmir at UN",
+      "summary": "AI summary: Addressing an OIC ministerial meeting, Deputy PM Ishaq Dar urged member states to keep a united stance on Kashmir, arguing that no domestic law, court ruling or election can replace Kashmiris' right to self-determination. He reaffirmed Pakistan's push to resolve the dispute under UN Security Council resolutions.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40440970/dar-urges-oic-members-to-maintain-unified-position-on-kashmir-at-un"
+        }
+      ],
+      "timestamp": "Sep 24, 5:47 AM",
+      "publishedAt": "2026-09-24T05:47:50+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Diplomatic statement with no direct economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Restates a longstanding foreign-policy position."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Minimal market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the official's statement without evident editorial framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on the RSS excerpt only, not the full article."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Pakistan shoots down 8 Afghan drones",
+      "summary": "AI summary: Pakistan's air defences intercepted eight drones entering from Afghanistan, four near Torkham and four in mountainous border areas, according to the report. Troops also answered Taliban gunfire, and security sources described heightened tension and ongoing surveillance along the border.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40440948/pakistan-shoots-down-8-afghan-drones"
+        }
+      ],
+      "timestamp": "Sep 24, 5:47 AM",
+      "publishedAt": "2026-09-24T05:47:50+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Border hostilities threaten cross-border trade and sentiment."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Armed incidents with Afghanistan signal worsening regional stability."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Drone incursions and gunfire raise risks for border residents."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Security escalation is relevant to investor risk perception."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Relays security officials' account with attribution."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on the RSS excerpt only; claims come from security sources without independent confirmation."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "PM reiterates importance of ties with Bosnia and Herzegovina",
+      "summary": "AI summary: PM Shehbaz Sharif met Bosnia and Herzegovina's leadership to discuss cooperation in trade, defence and culture. He described Bosnia as a potential trade and connectivity hub for Pakistani goods heading to European and Western Balkan markets.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40440974/pm-reiterates-importance-of-ties-with-bosnia-and-herzegovina"
+        }
+      ],
+      "timestamp": "Sep 24, 5:47 AM",
+      "publishedAt": "2026-09-24T05:47:50+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Aspirational trade talk with no concrete agreement reported."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine bilateral diplomacy."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Minimal market relevance without concrete deals."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Standard meeting readout."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on the RSS excerpt only."
+        }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "PM reiterates his commitment to a polio-free Pakistan",
+      "summary": "AI summary: PM Shehbaz Sharif met Bill Gates and thanked the Gates Foundation for backing Pakistan's polio eradication drive. The two discussed widening cooperation into public health, agriculture, digital innovation and AI.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40440950/pm-reiterates-his-commitment-to-a-polio-free-pakistan"
+        }
+      ],
+      "timestamp": "Sep 24, 5:47 AM",
+      "publishedAt": "2026-09-24T05:47:50+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Possible future collaboration but no funding figures reported."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine high-level engagement."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Continued support for polio eradication benefits public health."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little direct market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Standard meeting readout."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on the RSS excerpt only."
+        }
+      }
+    },
+    {
+      "id": 10,
       "headline": "UNGA: PM Shehbaz meets IMF chief",
       "summary": "AI summary: At the UN General Assembly, PM Shehbaz said Pakistan remains focused on brokering de-escalation between Iran and the US, while the IMF managing director met him and credited Pakistan's reform programme with keeping the economy stable and restoring market access.",
       "sources": [
@@ -42,7 +410,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 11,
       "headline": "Section 144 imposed in Islamabad; district admin warns citizens against participating in any 'illegal activity'",
       "summary": "AI summary: Islamabad's district administration has banned gatherings of five or more people and all rallies across the capital for two months, citing planned PTI and farmer protests, and warned violators could face up to three years in jail as over 22,000 security personnel are deployed.",
       "sources": [
@@ -82,7 +450,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 12,
       "headline": "Govt reduces petrol price by Rs1.93 per litre, HSD by Rs4.21 per litre",
       "summary": "AI summary: The government trimmed petrol by Rs1.93 to Rs390.12 per litre and diesel by Rs4.21 to Rs414.75 from Thursday, keeping its Rs114 and Rs100 per litre levies unchanged; prices, now set daily, remain well below their April peak after the US-Iran conflict.",
       "sources": [
@@ -122,7 +490,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 13,
       "headline": "Pezeshkian says Iran will not surrender after Trump's annihilation threat",
       "summary": "AI summary: Iran's President Pezeshkian told the UN his country would never submit, a day after Trump said he was weighing whether to annihilate Iran, even as US and Iranian officials held their first indirect talks in months through Qatari mediators, per Reuters and AFP.",
       "sources": [
@@ -162,7 +530,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 14,
       "headline": "19 terrorists killed, soldier martyred in operations in Balochistan: ISPR",
       "summary": "AI summary: ISPR said security forces killed 19 militants in intelligence-based operations in Shaban, Kech and Quetta West between September 21 and 23, recovering weapons and explosives, while one soldier was killed; the militants' identities and alleged foreign backing are ISPR's claims and were not independently verified.",
       "sources": [
@@ -210,7 +578,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 15,
       "headline": "Govt discourages officials from accepting gifts from foreign dignitaries under new Toshakhana rules",
       "summary": "AI summary: New Toshakhana rules issued by the Cabinet Division discourage public office holders, except the president and PM, from accepting foreign gifts, require unavoidable ones to be deposited within 30 days, and set up televised auctions whose proceeds go to girls' primary education.",
       "sources": [
@@ -250,7 +618,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 16,
       "headline": "Punjab 'seeks mobile, internet shutdown' amid PTI's proposed long march",
       "summary": "AI summary: Ahead of PTI's September 27 march on Islamabad, Punjab's Home Department reportedly asked the Centre to suspend mobile and internet service in parts of Rawalpindi and Attock and deploy Rangers, while Section 144 was imposed province-wide and two highways to Khyber Pakhtunkhwa were closed; PTI said the march would go ahead.",
       "sources": [
@@ -290,7 +658,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 17,
       "headline": "Teenage arrested in Bahawalpur over AI-assisted attempt to poison father",
       "summary": "AI summary: The NCCIA said it arrested a 17-year-old in Bahawalpur accused of trying to poison his father, allegedly after using an AI tool to research methods and ordering chemicals for a home setup; the agency said the case surfaced through intelligence from abroad.",
       "sources": [
