@@ -1,0 +1,179 @@
+{
+  "generatedAt": "2026-09-26T00:45:00+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Any attempt to divert Pakistan's water to be treated as act of war, India must make no mistake about it: PM at UNGA",
+      "summary": "AI summary: Addressing the UN General Assembly, PM Shehbaz Sharif warned that any Indian move to stop or divert Pakistan's share of Indus waters would be seen as an act of war, calling India's suspension of the treaty legally baseless. He also credited US mediation for the 2025 ceasefire, backed Palestinian statehood and urged Afghanistan to act against militant groups on its soil.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2032621/any-attempt-to-divert-pakistans-water-to-be-treated-as-act-of-war-india-must-make-no-mistake-about-it-pm-at-unga" }
+      ],
+      "timestamp": "Sep 26, 12:23 AM",
+      "publishedAt": "2026-09-26T00:23:57+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Water security is economically vital, but the statement itself changes nothing immediately for prices or jobs." },
+        "political": { "value": "neutral", "reason": "A firm stance in an ongoing dispute; raises rhetoric with India but does not shift domestic governance." },
+        "social": { "value": "neutral", "reason": "No direct change to daily life, though it reflects a lingering source of regional tension." },
+        "market": { "value": "medium", "reason": "India-Pakistan escalation risk is a factor investors weigh." },
+        "lean": { "value": "balanced", "reason": "Straight reporting of the PM's speech; no Indian response is included, but no editorial endorsement either." },
+        "confidence": { "value": "high", "reason": "Full article read; a direct report of a public, recorded speech." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Pakistani, Saudi, Turkish military chiefs meet to discuss ways to assist Riyadh under Makkah defence pact",
+      "summary": "AI summary: Military chiefs of Pakistan, Saudi Arabia and Turkiye met to work out how to support Riyadh under their three-way defence alliance, following renewed Houthi attacks that included missiles aimed at Makkah. The Foreign Office describes the pact as treating an attack on one member as an attack on all, and ISPR's chief said Pakistan's commitment to Saudi security is unconditional.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2032546/pakistani-saudi-turkish-military-chiefs-meet-to-discuss-ways-to-assist-riyadh-under-makkah-defence-pact" }
+      ],
+      "timestamp": "Sep 26, 12:21 AM",
+      "publishedAt": "2026-09-26T00:21:51+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No immediate effect on domestic prices or jobs." },
+        "political": { "value": "neutral", "reason": "Strengthens a formal alliance but draws Pakistan closer to an active Gulf conflict." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily life in Pakistan for now." },
+        "market": { "value": "medium", "reason": "Gulf security and possible military commitments affect regional risk outlook and oil sentiment." },
+        "lean": { "value": "balanced", "reason": "Factual account attributing commitments to the Foreign Office and ISPR." },
+        "confidence": { "value": "medium", "reason": "Full article read, single outlet; key commitments are official statements rather than independently verified." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Five key takeaways from PM Shehbaz's UNGA speech",
+      "summary": "AI summary: Geo distils the PM's General Assembly address into five themes: keeping the Hormuz and Bab al-Mandeb straits open, a warning to India over Indus waters, Kashmir, terrorism launched from Afghan soil, and Gaza. It notes his claim that Pakistan has lost about 100,000 lives and over $150 billion to terrorism.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/683725-five-key-takeaways-from-pm-shehbazs-unga-speech" }
+      ],
+      "timestamp": "Sep 26, 12:06 AM",
+      "publishedAt": "2026-09-26T00:06:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A policy overview with no direct economic measures." },
+        "political": { "value": "neutral", "reason": "Restates established foreign policy positions." },
+        "social": { "value": "neutral", "reason": "No direct effect on public daily life." },
+        "market": { "value": "medium", "reason": "Shipping lanes and regional tensions it highlights matter to trade and energy markets." },
+        "lean": { "value": "balanced", "reason": "Summarises the speech's content without partisan domestic framing." },
+        "confidence": { "value": "high", "reason": "Full article read; matches other outlets' accounts of the same speech." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Petrol price raised by Rs2.02 per litre, high-speed diesel rate reduced by Rs3.59",
+      "summary": "AI summary: The government raised petrol by Rs2.02 to Rs391.30 a litre and cut high-speed diesel by Rs3.59 to Rs408.53 for September 26-28, under the daily pricing system in place since July. Both remain well below the April peaks that followed the US-Iran conflict, while taxes of about Rs114 (petrol) and Rs100 (diesel) per litre stay in place.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2032620/petrol-price-raised-by-rs202-per-litre-high-speed-diesel-rate-reduced-by-rs359" }
+      ],
+      "timestamp": "Sep 25, 11:37 PM",
+      "publishedAt": "2026-09-25T23:37:39+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A small petrol rise is offset by a larger diesel cut, which matters for freight and transport costs." },
+        "political": { "value": "neutral", "reason": "Routine pricing adjustment with no governance impact." },
+        "social": { "value": "neutral", "reason": "Minor mixed change to household fuel costs." },
+        "market": { "value": "high", "reason": "Fuel prices feed directly into inflation and business costs." },
+        "lean": { "value": "balanced", "reason": "Factual price notification with context." },
+        "confidence": { "value": "high", "reason": "Full article read; official price figures." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "'Arteries of global economy': At UNGA, PM says Hormuz, Bab al-Mandeb must remain open",
+      "summary": "AI summary: At the 81st UN General Assembly, PM Shehbaz Sharif urged that the Strait of Hormuz and Bab al-Mandeb stay open to shipping rather than turn into flashpoints, and condemned Houthi strikes on Saudi Arabia including an attempt on Makkah. Both outlets note he cited Pakistan's role in hosting US-Iran talks that produced the Islamabad MoU, and also raised Kashmir, the Indus waters dispute and terrorism from Afghanistan.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/683705-pm-shehbaz-addresses-united-nations-general-assembly" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40441071/arteries-of-global-economy-at-un-pm-shehbaz-says-hormuz-bab-al-mandab-must-remain-open" }
+      ],
+      "timestamp": "Sep 25, 10:52 PM",
+      "publishedAt": "2026-09-25T22:52:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Advocacy for open shipping lanes has no immediate domestic economic effect." },
+        "political": { "value": "neutral", "reason": "Foreign policy positioning without domestic governance impact." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily life." },
+        "market": { "value": "high", "reason": "Hormuz and Bab al-Mandeb are critical for oil and trade flows that drive Pakistan's import bill." },
+        "lean": { "value": "balanced", "reason": "Reports the speech's content; praise of leadership is attributed to the PM, not the outlets." },
+        "confidence": { "value": "high", "reason": "Two independent outlets report matching details of the same speech." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "16 terrorists killed in Balochistan operations over two days: ISPR",
+      "summary": "AI summary: ISPR said security forces killed 16 militants in Balochistan across two operations, five in Quetta's Shaban area on September 24 and eleven in Nushki district on September 25, taking its reported toll since September 21 to 33. The military described the targets as India-backed groups and said operations under Azm-e-Istehkam would continue.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40441246/16-terrorists-killed-in-balochistan-operations-over-two-days-ispr" }
+      ],
+      "timestamp": "Sep 25, 9:16 PM",
+      "publishedAt": "2026-09-25T21:16:24+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct effect on prices or business activity." },
+        "political": { "value": "neutral", "reason": "Continuation of an existing security campaign; no institutional shift." },
+        "social": { "value": "negative", "reason": "Repeated armed clashes point to ongoing insecurity for Balochistan residents, whatever the framing as a success." },
+        "market": { "value": "low", "reason": "Limited direct relevance to investors beyond general security risk." },
+        "lean": { "value": "balanced", "reason": "Claims are attributed to ISPR, though no independent account is offered." },
+        "confidence": { "value": "medium", "reason": "Full article read, but casualty figures and group attributions rest solely on the military's statement." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "13 Taliban fighters killed as security forces thwart border aggression",
+      "summary": "AI summary: Pakistan's information ministry said 13 Afghan Taliban fighters were killed repelling an incursion in the Gulistan border sector on September 24-25, and security sources said eight drones from Afghanistan were downed near Torkham and Kohat. Information Minister Attaullah Tarar said Pakistan hit back with air and drone strikes at 10 locations inside Afghanistan, while the ministry dismissed Kabul's differing account.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/683689-13-taliban-fighters-killed-as-security-forces-thwart-border-aggression" }
+      ],
+      "timestamp": "Sep 25, 8:14 PM",
+      "publishedAt": "2026-09-25T20:14:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Border hostilities threaten cross-border trade routes such as Torkham." },
+        "political": { "value": "negative", "reason": "Cross-border strikes mark a serious escalation with Afghanistan despite the 2025 ceasefire." },
+        "social": { "value": "negative", "reason": "Fighting and drone incursions heighten danger for border communities." },
+        "market": { "value": "medium", "reason": "Regional conflict risk affects investor sentiment and trade." },
+        "lean": { "value": "balanced", "reason": "Relies on Pakistani official sources but attributes each claim and notes Afghanistan disputes them." },
+        "confidence": { "value": "medium", "reason": "Full article read, single outlet; casualty and strike claims are official and contested by the other side." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "PTI postpones Islamabad long march to Oct 4",
+      "summary": "AI summary: PTI moved its Islamabad long march for Imran Khan's release from September 27 to October 4, with KP Chief Minister Sohail Afridi saying it will start from Peshawar, after earlier reports had pointed to October 5. The federal government has imposed Section 144 curbs, deployed Rangers and sealed routes, Information Minister Tarar accused the KP government of aiding terrorism, the KP governor hinted at governor's rule, and HRCP criticised arrests of PTI workers.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/683647-pti-decides-to-postpone-islamabad-long-march-till-oct-5-sources" },
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2032588/pti-postpones-islamabad-long-march-to-oct-4" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40441236/pti-defers-long-march-to-october-4" }
+      ],
+      "timestamp": "Sep 25, 4:27 PM",
+      "publishedAt": "2026-09-25T16:27:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Blocked highways, internet restrictions and prolonged security measures disrupt business activity." },
+        "political": { "value": "negative", "reason": "Sharp government-opposition confrontation, talk of governor's rule in KP, and mass arrests signal instability." },
+        "social": { "value": "negative", "reason": "Movement curbs, service suspensions and detentions affect ordinary citizens." },
+        "market": { "value": "medium", "reason": "Political unrest weighs on investor confidence." },
+        "lean": { "value": "balanced", "reason": "All three outlets carry both PTI's statements and the government's response, plus HRCP's view." },
+        "confidence": { "value": "high", "reason": "Three independent outlets report matching core details." }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "Heavy rains may trigger flash floods in northern areas through Sept 30: NDMA",
+      "summary": "AI summary: NDMA warned that a strengthening westerly system could bring heavy rain and flash floods to upper KP, Gilgit-Baltistan and AJK through September 30, with urban flooding possible in Islamabad, Rawalpindi, Lahore and Peshawar. It told authorities to keep response teams ready and advised residents to stay away from swollen streams and flooded roads.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40441218/heavy-rains-may-trigger-flash-floods-in-northern-areas-through-sept-30-ndma" }
+      ],
+      "timestamp": "Sep 25, 3:25 PM",
+      "publishedAt": "2026-09-25T15:25:13+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Floods and urban inundation can disrupt transport, tourism and local commerce." },
+        "political": { "value": "neutral", "reason": "Routine disaster advisory with no governance impact." },
+        "social": { "value": "negative", "reason": "Flash flood risk threatens safety in mountain valleys and major cities." },
+        "market": { "value": "low", "reason": "Localised weather risk with limited market relevance." },
+        "lean": { "value": "balanced", "reason": "Neutral relay of an official advisory." },
+        "confidence": { "value": "high", "reason": "Full article read; direct official NDMA advisory." }
+      }
+    }
+  ]
+}
