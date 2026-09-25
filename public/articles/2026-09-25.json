@@ -1,0 +1,449 @@
+{
+  "generatedAt": "2026-09-25T10:05:46+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Dar, Saudi and Turkish counterparts review progress on institutionalising tripartite defence pact",
+      "summary": "AI summary: Foreign ministers Ishaq Dar, Prince Faisal bin Farhan and Hakan Fidan met in New York on the UNGA sidelines to check how far the Makkah Joint Defence Agreement's institutional setup has come, with Pakistan set to lead its Riyadh secretariat. Geo reports the talks also covered recent Houthi missile and drone strikes on Saudi Arabia and set up an urgent meeting of the three countries' military chiefs.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2032546/dar-saudi-and-turkish-counterparts-review-progress-on-institutionalising-tripartite-defence-pact"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/683594-makkah-pact-pakistani-turkish-saudi-fms-discuss-security-issues-on-unga-sidelines"
+        }
+      ],
+      "timestamp": "Sep 25, 9:28 AM",
+      "publishedAt": "2026-09-25T09:28:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No immediate effect on prices, jobs or business activity."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Deepens a formal alliance but also ties Pakistan more closely to an active Gulf security threat."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life in Pakistan."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Regional defence commitments and Gulf instability matter to investors watching risk."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Both reports are factual diplomatic readouts without partisan framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Two independent outlets report matching details of the same meeting."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Delegate walkout, protests greet Netanyahu as he addresses UN General Assembly",
+      "summary": "AI summary: Dozens of delegates left the UN General Assembly hall as Israeli PM Benjamin Netanyahu spoke, while more than 100 demonstrators, including well-known actors, were arrested outside. Netanyahu rejected genocide allegations over Gaza as he faces an election on October 27.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2032532/delegate-walkout-protests-greet-netanyahu-as-he-addresses-un-general-assembly"
+        }
+      ],
+      "timestamp": "Sep 25, 9:12 AM",
+      "publishedAt": "2026-09-25T09:12:05+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic effect on Pakistan."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Foreign diplomatic event with no bearing on Pakistan's institutional stability."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Little effect on daily life in Pakistan."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited relevance to Pakistani markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Concerns a foreign leader, not Pakistan's government or opposition; the piece leans on critical voices but that is outside this axis."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read with named sources and specific figures."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "PTI 'still in two minds' over march plans to Islamabad",
+      "summary": "AI summary: A PTI leader floated putting off the September 27 march if the government agreed to early elections, Imran Khan's release and inquiries into past crackdowns, but the party spokesperson said only Khan could decide and the march stands. Rangers have been authorised in Islamabad and several Punjab districts until October 5, and mobile service cuts have been requested for Rawalpindi and Attock.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2032491/pti-still-in-two-minds-over-march-plans-to-islamabad"
+        }
+      ],
+      "timestamp": "Sep 25, 7:12 AM",
+      "publishedAt": "2026-09-25T07:12:02+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic effect beyond possible local disruption."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Unresolved standoff between the government and PTI ahead of a march raises confrontation risk."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Paramilitary deployment and planned mobile service cuts disrupt residents."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little direct market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Quotes conflicting PTI statements and reports government measures without editorial slant."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read with named officials and specific dates."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Islamabad, five Punjab districts: Ministry approves deployment of Rangers",
+      "summary": "AI summary: The Interior Ministry cleared Rangers deployment in Islamabad and five Punjab districts under the Rangers Ordinance and Anti-Terrorism Act to help police ahead of PTI's September 27 long march. The notification allows personnel to respond in self-defence to threats or violence.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40441162/islamabad-five-punjab-districts-ministry-approves-deployment-of-rangers"
+        }
+      ],
+      "timestamp": "Sep 25, 5:45 AM",
+      "publishedAt": "2026-09-25T05:45:17+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic effect."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Paramilitary deployment against an opposition march signals heightened political tension."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Armed deployment and self-defence clauses raise the risk of clashes affecting the public."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the notification and its legal basis factually."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read citing specific legal provisions."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Roads blocked around capital ahead of planned PTI protest",
+      "summary": "AI summary: Islamabad was sealed off with stacked shipping containers and around 22,000 security personnel ahead of a weekend protest by Imran Khan's supporters, with Khan's sisters placed in preventive custody and PTI claiming about 1,500 arrests. Amnesty International called the detentions a rights violation, while the information minister denied the city was under lockdown.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40441143/roads-blocked-around-capital-ahead-of-planned-pti-protest"
+        }
+      ],
+      "timestamp": "Sep 25, 5:45 AM",
+      "publishedAt": "2026-09-25T05:45:17+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Blocked highways halt transport and hit daily wage earners and business activity."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Mass arrests and a sealed capital deepen the government and opposition confrontation."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Movement is restricted for ordinary residents and detentions affect many families."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Disruption to the capital's transport and commerce is relevant to business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Includes PTI claims, Amnesty criticism and the government's denial."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read with named officials, figures and multiple viewpoints."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Sec 144 imposed across B'tan for 30 days",
+      "summary": "AI summary: Balochistan has banned public gatherings, sit-ins, rallies and face coverings in public places for a month under Section 144. Separately, mobile and internet services are due to be suspended in Islamabad, Rawalpindi and parts of Attock on September 26-27 around PTI's planned activities.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40441111/sec-144-imposed-across-btan-for-30-days"
+        }
+      ],
+      "timestamp": "Sep 25, 5:45 AM",
+      "publishedAt": "2026-09-25T05:45:16+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Internet and mobile suspensions disrupt digital commerce and work."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Province-wide assembly bans restrict political activity and point to instability."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Month-long curbs on gatherings and dress, plus communication blackouts, affect daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Modest direct market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports official directives factually without commentary."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read quoting the notification directly."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Gohar urges govt to hold talks with PTI ahead of march",
+      "summary": "AI summary: PTI chairman Barrister Gohar Ali Khan called on the government to open talks before the party's long march, insisting protesters will stay peaceful and objecting to force against workers. He also backed Sohail Afridi as Khyber Pakhtunkhwa chief minister and rejected claims PTI would change its plans.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40441112/gohar-urges-govt-to-hold-talks-with-pti-ahead-of-march"
+        }
+      ],
+      "timestamp": "Sep 25, 5:45 AM",
+      "publishedAt": "2026-09-25T05:45:16+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A call for dialogue is constructive, but no talks have been agreed."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "A statement report from one party; carries no government reply, but does not editorialise."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but it relays one side's claims only."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "PM Shehbaz meets Lebanese, Bangladeshi leaders and UN chief on UNGA sidelines",
+      "summary": "AI summary: At the UN General Assembly, PM Shehbaz Sharif met Lebanon's PM Nawaf Salam, Bangladesh's PM Tarique Rahman, UN chief Antonio Guterres and Iran's foreign minister, backing Lebanese sovereignty and Palestinian statehood. Pakistan and Bangladesh agreed to widen ties in trade, investment, connectivity and education.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/683587-pm-shehbaz-meets-lebanese-bangladeshi-leaders-and-un-chief-on-unga-sidelines"
+        }
+      ],
+      "timestamp": "Sep 25, 4:31 AM",
+      "publishedAt": "2026-09-25T04:31:38+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "Agreed expansion of trade and investment with Bangladesh could support business."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine diplomatic engagement with no domestic stability effect."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Stated intentions only, no concrete deals."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Official readout style; relays Pakistan's positions without partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but based on official statements only."
+        }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "Multiple Afghan Taliban killed as Pakistan forces foil border attack: sources",
+      "summary": "AI summary: Unnamed security sources told Geo that Pakistani forces repelled an attempted Afghan Taliban incursion in the Gulistan border sector and killed several attackers. The report also says Pakistan downed eight drones this week and struck ten Afghan locations; none of this is independently verified.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/683552-multiple-afghan-taliban-killed-as-pakistan-forces-foil-border-attack-sources"
+        }
+      ],
+      "timestamp": "Sep 24, 11:22 PM",
+      "publishedAt": "2026-09-24T23:22:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No immediate economic effect, though border tension can hit trade."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Continuing cross-border clashes signal ongoing regional instability."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Armed conflict along the border endangers nearby communities."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited direct market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Framed from the Pakistani security perspective, but that is a state versus Taliban angle, not a government versus opposition one."
+        },
+        "confidence": {
+          "value": "low",
+          "reason": "Rests only on unnamed security sources with no independent or Afghan account."
+        }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "Petrol price down by Rs0.84 per litre, high-speed diesel rate reduced by Rs2.63",
+      "summary": "AI summary: From September 25, petrol falls slightly to Rs389.28 a litre and diesel to Rs412.12, still well below April's peaks after the US-Iran conflict. Taxes of about Rs114 and Rs100 a litre remain, and prices continue to be set daily by OGRA.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2032376/petrol-price-down-by-rs084-per-litre-high-speed-diesel-rate-reduced-by-rs263"
+        }
+      ],
+      "timestamp": "Sep 24, 10:49 PM",
+      "publishedAt": "2026-09-24T22:49:35+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "Lower diesel especially eases transport and power generation costs."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine regulatory price change."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Small relief for households and commuters."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Fuel prices directly affect inflation and business costs."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual report with policy context."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read with official figures."
+        }
+      }
+    },
+    {
+      "id": 11,
+      "headline": "In meeting with Iran's Pezeshkian, PM emphasises need for restraint, de-escalation",
+      "summary": "AI summary: PM Shehbaz Sharif told Iranian President Masoud Pezeshkian at the UNGA that restraint and continued diplomacy are needed, and said Tehran still accepts the Islamabad MoU. He added that Pakistan is working with friendly states to calm tensions around the Bab el-Mandeb.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/683543-in-meeting-with-irans-pezeshkian-pm-emphasises-need-for-restraint-de-escalation"
+        }
+      ],
+      "timestamp": "Sep 24, 10:43 PM",
+      "publishedAt": "2026-09-24T22:43:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No immediate economic change, though regional calm would help trade."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Diplomatic engagement with no direct domestic stability effect."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Iran tensions and shipping routes matter for oil prices and trade."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Relays official statements without partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but Iran's position is reported via the PM's account."
+        }
+      }
+    }
+  ]
+}
