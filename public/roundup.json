@@ -1,50 +1,62 @@
 {
-  "generatedAt": "2026-09-19T01:34:33+05:00",
-  "periodStart": "2026-09-12",
-  "periodEnd": "2026-09-18",
-  "periodLabel": "Sep 12 to 18, 2026",
-  "totalArticles": 73,
+  "generatedAt": "2026-09-26T00:33:17+05:00",
+  "periodStart": "2026-09-19",
+  "periodEnd": "2026-09-25",
+  "periodLabel": "Sep 19 to Sep 25, 2026",
+  "totalArticles": 82,
   "stats": {
-    "economic": { "positive": 13, "neutral": 48, "negative": 12 },
-    "political": { "positive": 8, "neutral": 53, "negative": 12 },
-    "social": { "positive": 17, "neutral": 37, "negative": 19 }
+    "economic": {
+      "positive": 12,
+      "neutral": 57,
+      "negative": 13
+    },
+    "political": {
+      "positive": 9,
+      "neutral": 44,
+      "negative": 29
+    },
+    "social": {
+      "positive": 8,
+      "neutral": 36,
+      "negative": 38
+    }
   },
   "summary": [
-    "Miqyas logged 73 articles over the week of September 12-18, and the throughline connecting a good share of them was the spillover from the Gulf conflict into Pakistan's own energy picture. It started with Saudi Arabia briefly shutting a major East-West oil pipeline after a drone strike it attributed to Iraqi territory, escalated with Iran reporting a fatal strike on a merchant vessel in the Strait of Hormuz, and by mid-week Saudi-led forces said Houthi drones had been aimed at Makkah itself, prompting Pakistan's military leadership to reaffirm it would defend Saudi Arabia \"to any extent\" under the Makkah Defence Alliance. The knock-on effects showed up domestically all week: ministers warned of a looming energy crunch, Dawn reported LNG shortages after Qatari and UAE supply routes were disrupted, and petrol and diesel prices moved twice in five days. That cluster helps explain why economic sentiment this week was roughly balanced between positive and negative (13 versus 12) rather than clearly one or the other: fuel-cost pain was offset in the data by unrelated positive stories like new financing talks with China and the US and infrastructure spending in KP.",
-    "Political coverage was the most lopsided of the three categories relative to its own positive count: only 8 political readings were positive against 12 negative, a wider gap than economic or social saw. That negativity wasn't concentrated in one storyline but spread across several separate domestic disputes: Punjab's defense of CM Maryam Nawaz over jet use drew a KP Assembly resolution invoking Article 6, the Sindh Assembly passed a Local Government Amendment Bill amid torn-up paper and opposition walkouts that critics call an attempt to sidestep Supreme Court devolution rulings, and KP CM Sohail Afridi's claim that he was abducted and dumped in Lahore was directly disputed by the Punjab government's own video, with a third, partial account from his own side further complicating the story. None of these have a single resolution yet, but together they point to a week of unusually active Centre-province and inter-party friction rather than a single dominant flashpoint.",
-    "Social sentiment carried the highest negative share of any category (26%, and also the lowest neutral share), and the underlying flagged stories explain why: a Senate committee publicly criticized the health ministry for failing to even register a police case over the PIMS nursery fire that killed 14 newborns weeks earlier, a Harnai coal mine explosion in Balochistan killed four miners, a quadruple killing in Karachi's Surjani Town was reported in graphic detail by police, and an IED attack on a military convoy killed six soldiers even as ISPR announced militants killed in the same operations. Regional events fed into this too: the reported deaths from the Hormuz vessel strike and the Houthi drone aimed at Makkah were flagged for their bearing on pilgrim and public safety, not just their political or economic weight. It's a pattern of harm reported across several unconnected settings rather than one crisis, which is part of why social also posted the week's highest positive share (23%) alongside its highest negative share, courtesy of separate good-news items like fuel-subsidy rollouts and judicial reforms.",
-    "Two things stand out in the meta-indicators. First, political lean stayed overwhelmingly balanced (70 of 73 articles) even in a week thick with genuinely partisan disputes; only the Sindh Governor House protest coverage and one story on PTI-directed rhetoric were flagged as leaning toward a side, and both were flagged for foregrounding one party's framing without an on-record rebuttal from the other, not for factual bias. Second, AI confidence was unusually concentrated in the medium band this week (60 of 73, or 82%), with almost nothing rated low (just 1 article) — a sign that most of the week's coverage, even the contested claims like the Afridi abduction dispute or the Rangers' account of a Karachi operation, was at least clearly attributed to a named official or institution, even where the underlying facts remain unverified or actively disputed between parties."
+    "Social impact was the week's heaviest category: 38 of 82 stories (46%) carried a negative social reading, against only 8 (10%) positive. Political coverage was also skewed, at 35% negative to 11% positive. Economic readings stayed mostly neutral (70%), with negatives (16%) only narrowly outnumbering positives (15%). The social and political pattern traces to two storylines that ran almost the whole week: the build up to PTI's planned September 27 march on Islamabad, and a sharp rise in violence and cross-border action in Khyber Pakhtunkhwa and along the Afghan frontier.",
+    "The march dominated the flagged stories. Across the week, Miqyas tracked a sequence of official measures and opposition responses: the 30 day detention of Imran Khan's sister Aleema Khan under public order law, followed by the detention of two more sisters (which the Lahore High Court declined to suspend immediately), a reported deployment of more than 22,000 security personnel, Section 144 orders in Islamabad, Punjab and Balochistan, Rangers authorised in the capital and five Punjab districts, and a reported request to suspend mobile and internet service around Rawalpindi and Attock. The government said these steps were needed to stop violent groups reaching the capital and, per the finance minister, to avoid losses he put at roughly Rs120 billion a day; PTI called the detentions political victimisation and claimed around 1,500 arrests, and Amnesty International called the detentions a rights violation. Jamaat-e-Islami's separate long march against the petroleum levy added to the pressure on the capital. By Friday, Dawn reported PTI was still weighing its options, though its spokesperson said the march stands.",
+    "Security was the second thread. The week opened with a suicide blast and assault on Kohat Police Lines, with reported death tolls ranging from 17 to 31. Official accounts then described operations in Kohat and Hangu, strikes on militant targets across the Afghan border, eight drones shot down near Torkham and Kohat, and strikes on ten locations in Afghanistan that the information minister described as proportionate. Afghanistan's Taliban administration disputed at least one set of casualty figures. These stories rest heavily on official and security sources, which is why most were tagged with medium or low confidence. The economic picture was quieter and mixed: several fuel price adjustments (one petrol increase, then a run of cuts) and Prime Minister Shehbaz Sharif's UNGA meetings, including with the IMF chief and EU officials, accounted for most positive economic readings, while negative ones mostly came from protest related disruption. Notably, September 23, the day UNGA diplomacy led the feed, was the only day with no flagged stories.",
+    "On lean, 78 of 82 stories (95%) were read as balanced, with 3 tagged pro-government and 1 pro-opposition, even though the week's coverage was about as politically charged as it gets. The few non-balanced tags fell on single source pieces carrying one side's statements, such as the interior minister's 'iron hands' warning and a PTI-sourced account of the sisters' arrests. Confidence was the weaker signal: only 23 stories (28%) were rated high, 50 medium and 9 low. The low confidence items clustered around unnamed-source claims, including a report linking India's RAW and the Taliban to attacks in Pakistan and an account of a foiled Taliban border incursion, and those should be read as unverified until corroborated."
   ],
   "notableStories": [
     {
-      "headline": "Saudi Arabia says Iraqi drones forced temporary closure of crucial oil pipeline",
-      "context": "The week's clearest example of the Gulf conflict hitting global energy markets directly, pushing oil above $100/barrel and setting up the fuel-price and LNG-shortage stories that followed later in the week.",
+      "headline": "At least 17 including cops martyred in Kohat blast",
+      "context": "A suicide blast and armed assault on Kohat Police Lines during Friday prayers opened a week of escalating violence in Khyber Pakhtunkhwa, with outlets reporting tolls between 17 and 31 dead.",
       "sourceName": "Dawn News",
-      "sourceUrl": "https://www.dawn.com/news/2029319/saudi-arabia-says-iraqi-drones-forced-temporary-closure-of-crucial-oil-pipeline"
+      "sourceUrl": "https://www.dawn.com/news/2031100/kohat-police-lines-attack-8-terrorists-killed-as-overnight-clearance-operation-concludes"
     },
     {
-      "headline": "Saudi-led coalition says Houthis targeted Makkah with drone, warn of 'red line'",
-      "context": "An escalation that drew in Pakistan directly through the Makkah Defence Alliance and prompted its military leadership to publicly pledge unconditional support for Saudi Arabia's defense.",
-      "sourceName": "Dawn News",
-      "sourceUrl": "https://www.dawn.com/news/2030333/saudi-led-coalition-says-houthis-targeted-makkah-with-drone-warn-of-red-line"
-    },
-    {
-      "headline": "Sindh PA adopts LG bill",
-      "context": "A significant domestic political dispute in which the Sindh Assembly passed local-government changes amid torn bill copies and opposition protest, with critics arguing it circumvents Supreme Court rulings on devolution.",
-      "sourceName": "Business Recorder",
-      "sourceUrl": "https://www.brecorder.com/news/40439516/sindh-pa-adopts-lg-bill"
-    },
-    {
-      "headline": "CM Afridi claims he was abducted, dumped in Lahore; Punjab govt denies allegation",
-      "context": "A sitting chief minister's disputed account of his own treatment by police, directly contradicted by the Punjab government's video evidence, underscoring ongoing Centre-KP institutional friction.",
+      "headline": "Pakistan conducted strikes at 10 locations in Afghanistan in response to recent drone attacks: info minister",
+      "context": "The information minister said Pakistan struck ten locations in Afghanistan after drones crossed into its airspace, a significant cross-border escalation resting so far on the government's own account.",
       "sourceName": "Geo News",
-      "sourceUrl": "https://www.geo.tv/latest/682108-afridi-claims-he-was-abducted-and-dumped-in-lahore-as-punjab-denies-allegation"
+      "sourceUrl": "https://www.geo.tv/latest/683425-pakistan-hits-10-afghan-locations-in-response-to-recent-drone-intrusion-by-taliban-regime-minister"
     },
     {
-      "headline": "Senate body says concerned over failure of health ministry",
-      "context": "Lawmakers publicly faulted the health ministry and a major public hospital for failing to pursue accountability over the deaths of 14 newborns in a nursery fire, a story that continued into the following week with formal charges against hospital officers.",
+      "headline": "Aleema Khan 'detained' in Lahore under 3MPO, 'shifted' to Kot Lakhpat jail",
+      "context": "The 30 day detention of Imran Khan's sister, which PTI called political revenge, started a run of detentions of Khan's relatives ahead of the September 27 march.",
+      "sourceName": "Geo News",
+      "sourceUrl": "https://www.geo.tv/latest/682861-ptis-gohar-says-no-headway-in-govt-talks-amid-cold-political-atmosphere"
+    },
+    {
+      "headline": "Roads blocked around capital ahead of planned PTI protest",
+      "context": "The clearest snapshot of the capital before the march: containers, around 22,000 security personnel, PTI's claim of about 1,500 arrests, Amnesty's criticism, and the information minister's denial of a lockdown.",
       "sourceName": "Business Recorder",
-      "sourceUrl": "https://www.brecorder.com/news/40439482/senate-body-says-concerned-over-failure-of-health-ministry"
+      "sourceUrl": "https://www.brecorder.com/news/40441143/roads-blocked-around-capital-ahead-of-planned-pti-protest"
+    },
+    {
+      "headline": "JI kicks off long march towards Islamabad against petroleum levy",
+      "context": "Jamaat-e-Islami's march over the petroleum levy, after five failed rounds of talks, was the week's main economic protest and ran alongside PTI's plans.",
+      "sourceName": "Geo News",
+      "sourceUrl": "https://www.geo.tv/latest/682873-ji-kicks-off-long-march-towards-islamabad-against-petroleum-levy"
     }
   ]
 }
