@@ -1,0 +1,141 @@
+{
+  "generatedAt": "2026-09-28T01:58:00+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "In second letter to KP police chief, assembly speaker Swati seeks details of 'detained' lawmakers, ministers",
+      "summary": "AI summary: Khyber Pakhtunkhwa Assembly Speaker Babar Saleem Swati has written to the provincial police chief a second time demanding details of PTI legislators and ministers held ahead of the party's postponed protest march, arguing police need his approval to arrest sitting members. Interior Minister Mohsin Naqvi publicly disputed that requirement, and the two traded arguments on X over parliamentary privilege versus equal application of the law.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2033086/in-second-letter-to-kp-police-chief-assembly-speaker-swati-seeks-details-of-detained-lawmakers-ministers" }
+      ],
+      "timestamp": "Sep 27, 11:56 PM",
+      "publishedAt": "2026-09-27T23:56:50+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A procedural dispute over arrests with no direct effect on prices, jobs or business." },
+        "political": { "value": "negative", "reason": "Detentions of provincial lawmakers and an open federal-provincial clash over privilege deepen the institutional standoff." },
+        "social": { "value": "neutral", "reason": "Raises civil-liberty concerns but no reported direct harm to the wider public in this piece." },
+        "market": { "value": "low", "reason": "Little immediate relevance to investors beyond general political risk." },
+        "lean": { "value": "balanced", "reason": "Both the speaker's and the interior minister's positions are quoted with their own arguments." },
+        "confidence": { "value": "high", "reason": "Based on the full article citing both officials' own public statements." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Bill Gates joins calls for AI safeguards, including legislation",
+      "summary": "AI summary: In a US television interview, Microsoft co-founder Bill Gates said self-regulation by AI companies is not enough and that lawmakers and law enforcement should help shape safeguards and monitoring. He dismissed claims that AI risk is a hoax, putting him at odds with the Trump administration's resistance to new rules.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2033076/bill-gates-joins-calls-for-ai-safeguards-including-legislation" }
+      ],
+      "timestamp": "Sep 27, 10:21 PM",
+      "publishedAt": "2026-09-27T22:21:14+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "An opinion in a US policy debate with no direct effect on Pakistan's economy." },
+        "political": { "value": "neutral", "reason": "Foreign policy commentary with no bearing on Pakistan's governance stability." },
+        "social": { "value": "neutral", "reason": "No immediate effect on daily life; relevant only to longer-term technology policy." },
+        "market": { "value": "medium", "reason": "AI regulation debates matter to technology investors and global tech firms." },
+        "lean": { "value": "balanced", "reason": "Reports Gates's view alongside the opposing stance of the US administration." },
+        "confidence": { "value": "high", "reason": "Based on the full article reporting on-record interview remarks." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "No govt financing, sovereign-guaranteed loans for new PIA aircraft: adviser to finmin",
+      "summary": "AI summary: Finance adviser Khurram Schehzad said the government is neither buying planes for the now-privatised PIA nor guaranteeing loans for them, after social media claims followed Finance Minister Aurangzeb's talks with the US Exim Bank about Boeing 787 financing. He said Exim uses asset-backed structures and that the state's role is only to help private firms reach international financing.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2033062/no-govt-financing-sovereign-guaranteed-loans-for-new-pia-aircraft-adviser-to-finmin" }
+      ],
+      "timestamp": "Sep 27, 7:55 PM",
+      "publishedAt": "2026-09-27T19:55:35+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Signals no new contingent liability on the public purse while the privatised airline pursues fleet financing." },
+        "political": { "value": "neutral", "reason": "A routine policy clarification with no effect on institutional stability." },
+        "social": { "value": "neutral", "reason": "No direct effect on public wellbeing or daily life." },
+        "market": { "value": "medium", "reason": "Relevant to aviation, privatisation and sovereign-risk watchers." },
+        "lean": { "value": "balanced", "reason": "Straightforward report of an official clarification without editorial framing for or against the government." },
+        "confidence": { "value": "high", "reason": "Based on the full article quoting the adviser's own statement." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "PML-N leader urges govt, protesters to rise above egos and hold talks",
+      "summary": "AI summary: PML-N's Saad Rafique called on both the federal government and PTI protesters to drop stubbornness and negotiate, warning that a prolonged confrontation leaves everyone worse off. The appeal comes after PTI pushed its long march back to October 4 and KP Chief Minister Sohail Afridi offered talks with the centre.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/683932-pml-n-leader-urges-govt-protesters-to-rise-above-egos-and-hold-talks" }
+      ],
+      "timestamp": "Sep 27, 5:19 PM",
+      "publishedAt": "2026-09-27T17:19:22+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Mentions economic strain but the statement itself changes nothing for prices or jobs." },
+        "political": { "value": "neutral", "reason": "A call for dialogue is constructive, but the underlying standoff remains unresolved." },
+        "social": { "value": "neutral", "reason": "Postponement reopened some roads, though containers around Islamabad remain." },
+        "market": { "value": "low", "reason": "Limited direct relevance to investors beyond general political risk." },
+        "lean": { "value": "balanced", "reason": "Reports a plea aimed at both sides and includes the KP chief minister's own offer of talks." },
+        "confidence": { "value": "high", "reason": "Based on the full article citing on-record statements." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Three detained as police probe foreign woman's 'rape' in Lahore",
+      "summary": "AI summary: Lahore police say they have detained three people suspected of facilitating the alleged drugging and sexual assault of a foreign businesswoman in the city's Defence area, and have placed the named main suspects on a stop list. According to police, a vehicle linked to the case was recovered and the woman has had a medical examination but is not yet able to give a statement.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/683927-three-detained-as-police-probe-foreign-womans-rape-in-lahore" }
+      ],
+      "timestamp": "Sep 27, 5:03 PM",
+      "publishedAt": "2026-09-27T17:03:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct effect on jobs, prices or business activity." },
+        "political": { "value": "neutral", "reason": "A criminal investigation with no bearing on governance stability." },
+        "social": { "value": "negative", "reason": "An alleged violent crime against a visitor raises serious public safety concerns." },
+        "market": { "value": "low", "reason": "Not relevant to market decisions." },
+        "lean": { "value": "balanced", "reason": "Reports police statements without political framing." },
+        "confidence": { "value": "medium", "reason": "Details rest on police accounts of an ongoing investigation; the victim has not yet given a statement." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Pakistan categorically rejects Afghan Taliban's 'frivolous and baseless' Nuristan allegations",
+      "summary": "AI summary: Pakistan's information ministry denied Afghan Taliban claims that Pakistan-backed fighters took part in clashes in Nuristan's Kamdesh district, saying no evidence had been offered and calling a circulated video staged. The Taliban had said their forces killed 28 infiltrators and captured 32; separately, Pakistan's Foreign Office summoned the Afghan envoy over an alleged drone airspace violation.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/683929-pakistan-categorically-rejects-afghan-talibans-frivolous-and-baseless-nuristan-allegations" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40441462/pakistan-rejects-taliban-claims-linking-islamabad-to-nuristan-clashes" },
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2033051/info-ministry-rejects-afghan-talibans-frivolous-claims-linking-pakistan-to-reported-nuristan-violence" }
+      ],
+      "timestamp": "Sep 27, 4:48 PM",
+      "publishedAt": "2026-09-27T16:48:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic exchange with no immediate effect on trade or prices reported." },
+        "political": { "value": "negative", "reason": "Trading accusations and summoning an envoy mark further escalation in already strained Pakistan-Afghanistan ties." },
+        "social": { "value": "neutral", "reason": "No new harm to Pakistani civilians reported in this exchange itself." },
+        "market": { "value": "low", "reason": "Limited direct market relevance, though border tension adds to regional risk." },
+        "lean": { "value": "balanced", "reason": "Coverage relays Pakistan's official rebuttal while also stating the Taliban's allegations." },
+        "confidence": { "value": "high", "reason": "Three independent outlets report the same statement with matching details." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Security forces kill over 70 India-backed terrorists in Balochistan operations: ISPR",
+      "summary": "AI summary: The military's media wing ISPR said security forces killed more than 71 militants across Balochistan over 96 hours, including in Operation Shaban near Quetta and operations in Ziarat, Nushki and Mand, and attributed the groups to Indian sponsorship. The figures come solely from ISPR and have not been independently verified.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/683917-security-forces-kill-over-70-india-backed-terrorists-in-balochistan-operations-ispr" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40441460/over-71-terrorists-killed-in-balochistan-operations-over-96-hours-ispr" }
+      ],
+      "timestamp": "Sep 27, 3:02 PM",
+      "publishedAt": "2026-09-27T15:02:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct economic effect reported, though Balochistan insecurity weighs on investment over time." },
+        "political": { "value": "neutral", "reason": "An ongoing security campaign with no change to institutional stability reported." },
+        "social": { "value": "negative", "reason": "A large death toll in days of armed operations signals continuing violence and instability in Balochistan, whatever its framing." },
+        "market": { "value": "low", "reason": "Limited immediate relevance to investors." },
+        "lean": { "value": "balanced", "reason": "Relays military claims with attribution; not framed around government versus opposition." },
+        "confidence": { "value": "medium", "reason": "Two outlets carry it, but all figures and attributions rest on ISPR alone with no independent verification." }
+      }
+    }
+  ]
+}
