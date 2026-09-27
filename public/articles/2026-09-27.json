@@ -1,0 +1,377 @@
+{
+  "generatedAt": "2026-09-27T14:59:13+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Police declare major incident at UK's Fairford airbase, used by US air forces",
+      "summary": "AI summary: British police declared a major incident at RAF Fairford, which hosts US Air Force aircraft involved in strikes on Iranian targets, after several men were arrested under the Explosives Act and army bomb disposal teams examined vehicles nearby. Some homes in the area were evacuated, and a US Air Force spokesperson said it remains vigilant on force protection.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2033037/police-declare-major-incident-at-uks-fairford-airbase-used-by-us-air-forces"
+        }
+      ],
+      "timestamp": "Sep 27, 2:07 PM",
+      "publishedAt": "2026-09-27T14:07:31+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A foreign security incident with no direct bearing on Pakistan's economy."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "No effect on Pakistan's institutional stability."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Evacuations and a suspected explosives plot raise safety concerns linked to the wider Iran conflict."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited direct relevance to Pakistani markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Attributes information to UK police and US Air Force statements."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single outlet; details are still developing and the arrests' motive is unconfirmed."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Multiple backchannel meetings fail to resolve PTI-govt deadlock over Islamabad march: sources",
+      "summary": "AI summary: Citing unnamed sources, Geo reports that more than half a dozen backchannel contacts between authorities and PTI have not settled whether the party will cancel, rather than merely postpone, its Islamabad march. The government reportedly offered facilitation such as lawyer access and medical care for Imran Khan in return for dropping confrontation, but made no commitment on his release and turned down a condition that Mahmood Khan Achakzai meet him.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/683911-multiple-backchannel-meetings-fail-to-resolve-pti-govt-deadlock-over-islamabad-march-sources"
+        }
+      ],
+      "timestamp": "Sep 27, 1:57 PM",
+      "publishedAt": "2026-09-27T13:57:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "A continuing standoff prolongs Islamabad containment and security costs."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Failed talks leave the government-opposition confrontation unresolved ahead of the march."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "The risk of protest clashes and road closures affects daily life in the capital."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Political uncertainty is of moderate concern to investors."
+        },
+        "lean": {
+          "value": "pro-government",
+          "reason": "Relies on unnamed official-side sources and gives PTI's position mainly second hand, without direct rebuttal."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single outlet built on anonymous sources; details cannot be independently confirmed."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Newly inducted Hangor-class submarine conducts maiden live weapon firing in Arabian Sea: ISPR",
+      "summary": "AI summary: ISPR says the Navy's newly inducted Chinese-built submarine PNS/M Hangor hit a long-range target with an anti-ship cruise missile in its first live firing in the North Arabian Sea, watched by naval chief Admiral Naveed Ashraf, and PM Shehbaz Sharif congratulated the force. It is the first of eight Hangor-class boats Pakistan is acquiring from China.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/683910-pakistan-navys-hangor-submarine-conducts-maiden-live-weapon-firing"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40441456/pnsm-hangor-demonstrates-combat-capability-in-maiden-weapon-firing"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2033036/newly-inducted-hangor-class-submarine-conducts-maiden-live-weapon-firing-in-arabian-sea-ispr"
+        }
+      ],
+      "timestamp": "Sep 27, 1:42 PM",
+      "publishedAt": "2026-09-27T13:42:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A defence test with no direct bearing on jobs, prices or business activity."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A routine military capability milestone with no effect on governance stability."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on public wellbeing; the claims are ISPR's own and not independently verified."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited relevance to investors or markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "All three outlets attribute the claims to ISPR without partisan framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Three outlets carry matching details, though all rely on the same ISPR statement."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Iran stands firm on Hormuz plan after US rejection",
+      "summary": "AI summary: Iranian Foreign Minister Abbas Araghchi said Tehran will only move to reopen the Strait of Hormuz if its conditions are met, including unfrozen assets, lifted oil sanctions and an end to the US naval blockade, after President Trump rejected the plan. A June understanding mediated by Pakistan broke down after attacks on commercial shipping in the strait, Dawn reports.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2033031/iran-stands-firm-on-hormuz-plan-after-us-rejection"
+        }
+      ],
+      "timestamp": "Sep 27, 1:08 PM",
+      "publishedAt": "2026-09-27T13:08:46+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "A continued Hormuz closure keeps oil prices and import costs under pressure for Pakistan."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A foreign dispute; Pakistan's mediation role is mentioned but not directly affected today."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Prolonged regional conflict and energy costs weigh on public wellbeing."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Hormuz shipping and oil sanctions are directly relevant to energy markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports Iranian, US, Saudi and Russian positions with attribution."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read with on-record statements from named officials."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Police register case over alleged abduction, gang rape of foreign woman in Lahore",
+      "summary": "AI summary: Lahore police have registered a case against unidentified suspects after a 20-year-old woman from Azerbaijan alleged she was drugged, abducted and gang raped after meeting two women at a cafe. Police say suspects have been identified, a vehicle allegedly used has been recovered, and raids are under way.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/683902-police-register-case-over-alleged-abduction-gang-rape-of-foreign-woman-in-lahore"
+        }
+      ],
+      "timestamp": "Sep 27, 12:44 PM",
+      "publishedAt": "2026-09-27T12:44:23+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No meaningful effect on jobs, prices or business."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A criminal case with no bearing on governance stability."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "A serious violent crime raises public safety concerns, especially for women and visitors."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not relevant to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual crime reporting attributed to police."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single outlet reporting police claims at an early stage of investigation."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "SCO meeting in Islamabad from Sept 28-30 to discuss activities under Pakistan's chairmanship",
+      "summary": "AI summary: Islamabad hosts SCO national coordinators from September 28 to 30 in the first major gathering of Pakistan's 2026-27 chairmanship, according to the Foreign Office, with talks on cooperation programmes and groundwork for the heads of state summit due in August 2027. The capital is also preparing venues and roughly 4,000 hotel rooms ahead of that summit, Dawn reports.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2033039/sco-meeting-in-islamabad-from-sept-28-30-to-discuss-activities-under-pakistans-chairmanship"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40441454/pakistan-to-host-first-sco-national-coordinators-meeting-tomorrow"
+        }
+      ],
+      "timestamp": "Sep 27, 11:57 AM",
+      "publishedAt": "2026-09-27T11:57:46+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "Hosting regional meetings and summit preparations brings hospitality spending and trade-connectivity talks."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "A routine multilateral chairmanship role supports Pakistan's diplomatic standing."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Little direct effect on daily life beyond possible Islamabad security arrangements."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Connectivity, energy and IT cooperation agendas are of moderate interest to businesses."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straight reporting of a Foreign Office announcement without partisan framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Two outlets report matching dates and agenda details from an official statement."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "KP Assembly speaker hits back at Naqvi in spat over parliamentary privileges",
+      "summary": "AI summary: KP Assembly Speaker Babar Saleem Swati defended a provincial police law requiring prior approval before lawmakers are arrested, saying it guards against politically driven arrests without putting legislators above the law, after Interior Minister Mohsin Naqvi questioned the provision. Swati also accused Naqvi of withholding his passport, which he said stopped him attending an international parliamentary conference.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/683882-kp-assembly-speaker-hits-back-at-naqvi-in-spat-over-parliamentary-privileges"
+        }
+      ],
+      "timestamp": "Sep 27, 10:11 AM",
+      "publishedAt": "2026-09-27T10:11:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic effect."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "A public federal-provincial clash over arrest powers deepens institutional friction."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Limited immediate effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little relevance to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Presents both the speaker's defence and the interior minister's criticism."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read with on-record statements from named officials."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Balance between shift to renewable energy and inclusivity urged",
+      "summary": "AI summary: Speakers at an AAS-in-Asia roundtable at LUMS warned that Pakistan's wind and solar build-out feeds the national grid while nearby rural communities often still lack reliable power. They called for energy policy that goes beyond technical and investment targets to include community consultation, benefit sharing and women's needs.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40441435/balance-between-shift-to-renewable-energy-and-inclusivity-urged"
+        }
+      ],
+      "timestamp": "Sep 27, 2:24 AM",
+      "publishedAt": "2026-09-27T02:24:56+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A policy discussion with no immediate effect on prices or jobs."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Academic commentary with no bearing on governance stability."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Highlights energy access gaps but reports no change on the ground."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Renewable energy policy is of moderate interest to energy investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Expert views without partisan framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; opinions are clearly attributed to panelists."
+        }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "Bilawal meets Ashraf & Yasin",
+      "summary": "AI summary: PPP Chairman Bilawal Bhutto Zardari held separate meetings at Zardari House with Raja Pervaiz Ashraf, the party's Punjab president, and Chaudhry Yasin, its AJK president, to discuss the current political situation and Azad Jammu and Kashmir affairs.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40441436/bilawal-meets-ashraf-amp-yasin"
+        }
+      ],
+      "timestamp": "Sep 27, 2:24 AM",
+      "publishedAt": "2026-09-27T02:24:56+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine internal party consultations."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not relevant to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Brief factual report of party meetings."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on the RSS excerpt only; little detail on outcomes."
+        }
+      }
+    }
+  ]
+}
