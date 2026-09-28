@@ -1,0 +1,179 @@
+{
+  "generatedAt": "2026-09-29T00:45:00+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Security forces kill 4 terrorists in Dera Ismail Khan IBO: state media",
+      "summary": "AI summary: State news agency APP reported that security forces killed four suspected TTP militants in an intelligence-based operation in Dera Ismail Khan and recovered weapons, ammunition and Afghan currency. The operation comes days after a deadly suicide attack on a police checkpost in the same district, amid a sharp rise in militant attacks across Khyber Pakhtunkhwa.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2033323/security-forces-kill-4-terrorists-in-dera-ismail-khan-ibo-state-media" }
+      ],
+      "timestamp": "Sep 28, 11:40 PM",
+      "publishedAt": "2026-09-28T23:40:07+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A single security operation has no direct bearing on prices, jobs or business activity." },
+        "political": { "value": "neutral", "reason": "Routine counter-militancy action that does not by itself shift institutional stability." },
+        "social": { "value": "negative", "reason": "Reflects continuing armed violence in KP, where attacks rose from 36 in July to 54 in August per cited think-tank data." },
+        "market": { "value": "low", "reason": "Little direct relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Claims are clearly attributed to state media and security sources rather than asserted as verified fact." },
+        "confidence": { "value": "medium", "reason": "Single outlet relaying official claims that cannot be independently verified." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Govt reduces petrol price by Rs2.27 per litre, high-speed diesel rate by Rs3.56",
+      "summary": "AI summary: Petrol and high-speed diesel prices were cut by Rs2.27 and Rs3.56 per litre respectively, effective September 29, bringing them to about Rs389 and Rs405 per litre while heavy per-litre taxes stay unchanged. Prices remain well above pre-crisis levels after spiking following the US-Iran conflict earlier this year, and fuel is now repriced daily in line with global markets.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2033319/govt-reduces-petrol-price-by-rs227-per-litre-high-speed-diesel-rate-by-rs356" }
+      ],
+      "timestamp": "Sep 28, 11:00 PM",
+      "publishedAt": "2026-09-28T23:00:09+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Lower fuel prices ease transport and input costs, though the cut is modest." },
+        "political": { "value": "neutral", "reason": "Routine pricing adjustment under an existing daily mechanism." },
+        "social": { "value": "positive", "reason": "Slight relief for commuters and lower-income households reliant on petrol." },
+        "market": { "value": "high", "reason": "Fuel costs feed directly into inflation, transport and industrial margins." },
+        "lean": { "value": "balanced", "reason": "Factual price reporting with context on the tax burden and past peaks." },
+        "confidence": { "value": "high", "reason": "Official notified figures reported in full article detail." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Tarar says PTI-led KP govt has failed to act against terrorism",
+      "summary": "AI summary: Federal Information Minister Attaullah Tarar accused Khyber Pakhtunkhwa's PTI government of failing to take real action against terrorism and alleged it was enabling militancy for political gain, while Minister of State Talal Chaudhry faulted the province over police resources. The report carries no response from PTI or the provincial government.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40441621/tarar-says-pti-led-kp-govt-has-failed-to-act-against-terrorism" }
+      ],
+      "timestamp": "Sep 28, 9:25 PM",
+      "publishedAt": "2026-09-28T21:25:56+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Political accusations with no immediate economic effect." },
+        "political": { "value": "negative", "reason": "Escalating federal-provincial hostility over security deepens institutional friction." },
+        "social": { "value": "neutral", "reason": "Rhetoric alone does not change public safety conditions." },
+        "market": { "value": "low", "reason": "Limited direct relevance to business decisions." },
+        "lean": { "value": "pro-government", "reason": "Relays serious federal allegations without any rebuttal from the accused provincial side." },
+        "confidence": { "value": "medium", "reason": "Single-source report of one-sided statements." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "US delegation meets CDF Munir, acknowledges Pakistan's 'longstanding role, sacrifices' during Afghan war",
+      "summary": "AI summary: According to ISPR, co-chairs of the US Congress-mandated Afghanistan War Commission met Field Marshal Asim Munir at GHQ Rawalpindi and acknowledged Pakistan's role and losses during the 2001-2021 Afghan conflict. Munir urged that Pakistan's regional perspective be factored into the commission's review of US engagement in Afghanistan.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/684078-field-marshal-munir-briefs-us-delegation-on-challenges-pakistan-faced-during-afghan-war" },
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2033301/us-delegation-meets-cdf-munir-acknowledges-pakistans-longstanding-role-sacrifices-during-afghan-war" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40441631/us-afghan-war-commission-acknowledges-pakistans-role-sacrifices-in-conflict" }
+      ],
+      "timestamp": "Sep 28, 7:02 PM",
+      "publishedAt": "2026-09-28T19:02:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Diplomatic-military meeting with no stated economic component." },
+        "political": { "value": "positive", "reason": "Signals constructive engagement with a US review body on Pakistan's regional role." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily life or public safety." },
+        "market": { "value": "low", "reason": "Marginal relevance to markets beyond general US-Pakistan ties." },
+        "lean": { "value": "balanced", "reason": "All outlets attribute the account to ISPR without added partisan framing." },
+        "confidence": { "value": "high", "reason": "Three outlets report matching details, though all rely on the same ISPR statement." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Minister warns governor's rule possible in KP amid tensions with provincial govt",
+      "summary": "AI summary: Federal ministers including Amir Muqam and Law Minister Azam Nazeer Tarar said governor's rule in Khyber Pakhtunkhwa could be imposed if constitutional conditions are met, blaming the PTI provincial government for worsening security after recent deadly attacks. Chief Minister Sohail Afridi rejected the pressure, saying extra police funding alone cannot help without a policy shift and accusing the Centre of favouring Punjab.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/684072-minister-warns-governors-rule-possible-in-kp-amid-tensions-with-provincial-govt" },
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2033266/cm-afridi-strikes-defiant-tone-as-federal-ministers-rail-against-kp-govts-counter-terror-fight" }
+      ],
+      "timestamp": "Sep 28, 5:52 PM",
+      "publishedAt": "2026-09-28T17:52:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No immediate economic measure, though prolonged instability could weigh on KP investment." },
+        "political": { "value": "negative", "reason": "Open talk of suspending an elected provincial government signals serious governance instability." },
+        "social": { "value": "negative", "reason": "The dispute unfolds against a surge in deadly attacks and unresolved security policy." },
+        "market": { "value": "medium", "reason": "Federal-provincial confrontation raises political risk that investors watch." },
+        "lean": { "value": "balanced", "reason": "Both outlets carry the federal warnings and the chief minister's rebuttal." },
+        "confidence": { "value": "high", "reason": "Two independent outlets report consistent details from full articles." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "PTI again offers talks to govt, rejects reports of 'backchannel contacts'",
+      "summary": "AI summary: PTI Secretary General Salman Akram Raja renewed the party's offer of talks with the government, saying the long march was moved to October 4 to give the government time rather than due to secret contacts, and called for collective dialogue on terrorism. Unnamed sources told Geo several backchannel meetings had taken place without resolving differences.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/684065-pti-again-offers-talks-to-govt-rejects-reports-of-backchannel-contacts" }
+      ],
+      "timestamp": "Sep 28, 5:28 PM",
+      "publishedAt": "2026-09-28T17:28:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct economic consequence yet, though the planned march could disrupt activity later." },
+        "political": { "value": "neutral", "reason": "A talks offer eases tone, but no government acceptance and the march remains scheduled." },
+        "social": { "value": "neutral", "reason": "No immediate change to public life." },
+        "market": { "value": "low", "reason": "Limited market relevance at this stage." },
+        "lean": { "value": "balanced", "reason": "Reports PTI's position alongside sourced accounts of the government's objections." },
+        "confidence": { "value": "medium", "reason": "Single outlet; backchannel claims rest on unnamed sources." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Lahore rape case: Medical report confirms foreign woman sexually assaulted",
+      "summary": "AI summary: Lahore police said a medical report has confirmed the sexual assault of a foreign woman in the city's Defence area, with one main suspect arrested and two alleged accomplices detained. Police say raids continue to trace further suspects and a vehicle linked to the case has been recovered.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/684062-medical-report-of-foreign-woman-confirms-rape" }
+      ],
+      "timestamp": "Sep 28, 5:20 PM",
+      "publishedAt": "2026-09-28T17:20:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct economic effect." },
+        "political": { "value": "neutral", "reason": "A criminal case being handled through normal policing channels." },
+        "social": { "value": "negative", "reason": "Serious violent crime raises concerns about public safety, especially for women and visitors." },
+        "market": { "value": "low", "reason": "Not relevant to business decisions." },
+        "lean": { "value": "balanced", "reason": "Straight reporting of police statements." },
+        "confidence": { "value": "medium", "reason": "Single outlet relying on police accounts of an ongoing investigation." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Three policemen killed in firing on police vehicle in Tank",
+      "summary": "AI summary: Gunmen fired on a police vehicle in Khyber Pakhtunkhwa's Tank district, killing three officers and wounding two. Interior Minister Mohsin Naqvi condemned the attack.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40441608/three-policemen-killed-in-firing-on-police-vehicle-in-tank" }
+      ],
+      "timestamp": "Sep 28, 3:06 PM",
+      "publishedAt": "2026-09-28T15:06:37+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Localised attack with no direct economic effect." },
+        "political": { "value": "neutral", "reason": "Condemned by officials but does not itself alter governance." },
+        "social": { "value": "negative", "reason": "Deaths of police officers add to the ongoing insecurity in southern KP." },
+        "market": { "value": "low", "reason": "Minimal market relevance." },
+        "lean": { "value": "balanced", "reason": "Brief factual report with an official reaction." },
+        "confidence": { "value": "medium", "reason": "Based on the RSS excerpt of a single outlet." }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "CM Murad approves request to extend Mir Raza judicial commission's tenure",
+      "summary": "AI summary: Sindh Chief Minister Murad Ali Shah extended the judicial commission probing businessman Mir Raza Ali's death until October 15. The commission, headed by Justice Omar Sial, has flagged problems with evidence handling, the post-mortem report and crime-scene footage in the initial police investigation.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40441595/cm-murad-approves-request-to-extend-mir-raza-judicial-commissions-tenure" }
+      ],
+      "timestamp": "Sep 28, 1:45 PM",
+      "publishedAt": "2026-09-28T13:45:51+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No economic dimension." },
+        "political": { "value": "neutral", "reason": "Procedural extension of an inquiry, supporting accountability without broader instability." },
+        "social": { "value": "neutral", "reason": "Findings of investigative lapses are concerning, but the extension itself changes little for the public yet." },
+        "market": { "value": "low", "reason": "Not relevant to markets." },
+        "lean": { "value": "balanced", "reason": "Neutral procedural reporting." },
+        "confidence": { "value": "medium", "reason": "Based on the RSS excerpt of a single outlet." }
+      }
+    }
+  ]
+}
