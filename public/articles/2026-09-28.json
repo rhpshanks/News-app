@@ -1,140 +1,696 @@
 {
-  "generatedAt": "2026-09-28T01:58:00+05:00",
+  "generatedAt": "2026-09-28T11:15:09+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "Islamabad-Peshawar motorway reopened to traffic following 'indefinite' closure",
+      "summary": "AI summary: The M-1 motorway and GT Road have reopened after roughly a week of closure ordered ahead of PTI's planned march, which has been pushed from September 27 to October 4; repair work continues on part of the M-14. Gathering bans under Section 144 and a Rangers deployment remain in place in Punjab and Islamabad.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2033234/islamabad-peshawar-motorway-reopened-to-traffic-following-indefinite-closure"
+        }
+      ],
+      "timestamp": "Sep 28, 10:06 AM",
+      "publishedAt": "2026-09-28T10:06:38+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "Reopened highways restore freight and passenger movement between Islamabad and Peshawar."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Extended gathering bans and security deployments ahead of the rescheduled PTI march point to continuing confrontation."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Commuters regain access to main routes, though restrictions on assembly continue."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Mainly a logistics and security update with limited market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual account of closures and reopening; relies on official actions without PTI quotes, but does not editorialise."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; details are concrete and officially sourced."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Pakistan's corruption ranking improves, yet data warrants closer look",
+      "summary": "AI summary: Pakistan's score on Transparency International's 2025 Corruption Perceptions Index rose one point to 28, ranking 136th of 182, but this analysis argues the gain is not statistically meaningful and rests mostly on a single source. It also questions the index's mixing of different methodologies and notes that far fewer citizens report facing bribe demands than believe bribery is common.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/683995-pakistans-corruption-ranking-improves-yet-data-warrants-closer-look"
+        }
+      ],
+      "timestamp": "Sep 28, 9:53 AM",
+      "publishedAt": "2026-09-28T09:53:23+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A marginal ranking change has little direct economic effect, though governance perceptions can influence investment."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Analytical piece; no change in governance itself."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate effect on daily life."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Country-risk and governance indicators are relevant to investor assessments."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Examines the data critically without crediting or blaming a political side."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; figures are drawn from a published index and the piece is transparent about its reasoning."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "China's space diplomacy lifts Pakistani astronaut toward orbit",
+      "summary": "AI summary: Two Pakistani military pilots are training in China for a mission that would make a Pakistani the first foreign astronaut aboard the Tiangong station, with a final selection expected in mid-to-late October, according to SUPARCO. The mission, carrying four Pakistani university experiments, is part of wider space cooperation including a Pakistani lunar rover slated for China's 2028 Chang'e 8 mission.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40441555/chinas-space-diplomacy-lifts-pakistani-astronaut-toward-orbit"
+        }
+      ],
+      "timestamp": "Sep 28, 9:45 AM",
+      "publishedAt": "2026-09-28T09:45:19+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Scientific cooperation with little immediate economic effect."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "Showcases stable bilateral cooperation and national technical ambitions."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "A milestone likely to boost public interest in science and research."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited direct relevance to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Descriptive feature on the programme without partisan framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; timeline attributed to a named SUPARCO official."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Country braces for 25pc Rabi water shortage",
+      "summary": "AI summary: Pakistan is heading into the Rabi season with an expected water shortfall of about 25 percent, as reservoir carryover has dropped below 9.5 MAF, the lowest since 2021, putting pressure on the next wheat crop. Sources cited by Dawn attributed part of the gap to avoidable releases during Kharif for political reasons, and IRSA is meeting to set provincial shares amid possible Sindh-Punjab friction.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2033149/country-braces-for-25pc-rabi-water-shortage"
+        }
+      ],
+      "timestamp": "Sep 28, 7:40 AM",
+      "publishedAt": "2026-09-28T07:40:16+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Lower water availability threatens wheat output, food imports and farm incomes."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Allegations of politically driven releases and a likely Sindh-Punjab dispute strain inter-provincial relations."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Reduced irrigation raises food security and price concerns for households."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Relevant to agriculture, commodity and food-price outlooks."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports official figures and unnamed sources' criticism without favouring a side."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read; key causal claims rest on unnamed sources, with final IRSA figures still pending."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "US, Iran may return to table within days over Hormuz",
+      "summary": "AI summary: President Trump said US negotiators would engage Iran in the coming days over the Strait of Hormuz standoff, while rejecting Tehran's offer to reopen the strait in exchange for a ceasefire, sanctions relief and unfrozen assets. Iran's Revolutionary Guards said they seized a US underwater drone, and Iranian army officials warned of readiness for further attacks.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2033148/us-iran-may-return-to-table-within-days-over-hormuz"
+        }
+      ],
+      "timestamp": "Sep 28, 7:32 AM",
+      "publishedAt": "2026-09-28T07:32:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "A continuing Hormuz blockade threatens regional energy supply and import costs for economies like Pakistan's."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "International development with no direct bearing on Pakistan's domestic institutions."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Ongoing regional conflict raises risks of instability and higher living costs."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Shipping through Hormuz is central to global energy markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Presents US and Iranian positions with attribution to each side."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but the situation is fluid and several claims (e.g. drone seizure) are unverified statements by the parties."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "IMF talks to unlock next $1.2bn set to begin today",
+      "summary": "AI summary: An IMF mission led by Iva Petrova is starting formal talks with Pakistan on the fourth EFF review and third RSF review, which could release about $1.2 billion by November or December if completed. The finance ministry's adviser separately denied that the government is buying aircraft for the privatised PIA or offering a sovereign guarantee.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2033147/imf-talks-to-unlock-next-12bn-set-to-begin-today"
+        }
+      ],
+      "timestamp": "Sep 28, 7:22 AM",
+      "publishedAt": "2026-09-28T07:22:15+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "A successful review would unlock roughly $1.2bn and support external financing stability."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine programme review; no immediate governance shift."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct near-term effect on daily life, though programme conditions can shape future taxes and prices."
+        },
+        "market": {
+          "value": "high",
+          "reason": "IMF disbursements and review outcomes are closely watched by investors and markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straight reporting of the review schedule and official statements."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; claims are attributed to official sources and the IMF timetable."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "First SCO national coordinators meeting today in Islamabad",
+      "summary": "AI summary: SCO national coordinators are meeting in Islamabad from September 28 to 30, the first such session under Pakistan's chairmanship, to plan activities and prepare for the heads of state summit Pakistan hosts in August 2027. Authorities are also upgrading the Jinnah Convention Centre and pushing for more international-standard hotel rooms ahead of the summit.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40441521/first-sco-national-coordinators-meeting-today-in-islamabad"
+        }
+      ],
+      "timestamp": "Sep 28, 4:13 AM",
+      "publishedAt": "2026-09-28T04:13:47+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "Summit preparations may spur hospitality and infrastructure investment in Islamabad."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "Hosting a multilateral grouping signals diplomatic standing and institutional continuity."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Little direct effect on daily life at this stage."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Relevant to hospitality, construction and regional trade connectivity."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Procedural reporting of the meeting and preparations."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; schedule and details are specific and official."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Hangor-class submarine conducts maiden live weapon firing",
+      "summary": "AI summary: According to ISPR, the Pakistan Navy's newly commissioned Hangor-class submarine fired an anti-ship cruise missile in its first live weapons exercise in the North Arabian Sea, witnessed by the naval chief. It is the first of eight such submarines being procured from China.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40441517/hangor-class-submarine-conducts-maiden-live-weapon-firing"
+        }
+      ],
+      "timestamp": "Sep 28, 4:13 AM",
+      "publishedAt": "2026-09-28T04:13:47+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Defence test with no immediate economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine military capability announcement with no governance implications."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on public daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited market relevance beyond defence procurement."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Relays the ISPR statement; claims attributed to the military rather than asserted independently."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but the account rests solely on an official military statement."
+        }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "Governor's rule in KP: Minister highlights reasons behind debate",
+      "summary": "AI summary: Federal Parliamentary Affairs Minister Dr Tariq Fazal Chaudhry said the debate over possible governor's rule in Khyber Pakhtunkhwa stems from what he called the PTI-led provincial government's failure on development and its policies, which he alleged indirectly aided militants. He added that the Centre remains open to dialogue with all stakeholders.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40441541/governors-rule-in-kp-minister-highlights-reasons-behind-debate"
+        }
+      ],
+      "timestamp": "Sep 28, 4:13 AM",
+      "publishedAt": "2026-09-28T04:13:47+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic measure announced."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Talk of suspending an elected provincial government signals heightened federal-provincial conflict."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Escalating tension alongside security allegations adds to uncertainty for KP residents."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited direct market relevance, though political instability can weigh on sentiment."
+        },
+        "lean": {
+          "value": "pro-government",
+          "reason": "Carries only the federal minister's allegations, with no response from the KP government or PTI."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but single-source and one-sided; the minister's allegations are not independently verified."
+        }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "PML-N retains NA-168 as Malik Munir Iqbal Channar wins Bahawalpur by-poll",
+      "summary": "AI summary: PML-N's Malik Munir Iqbal Channar won the NA-168 Bahawalpur by-election with 79,306 votes in unofficial results, well ahead of independent Wali Dad Cheema's 42,623. The seat fell vacant after his father's death, and the PPP had backed the PML-N candidate.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/683972-pml-n-retains-na-168-as-malik-munir-iqbal-channar-wins-bahawalpur-by-poll"
+        }
+      ],
+      "timestamp": "Sep 28, 1:31 AM",
+      "publishedAt": "2026-09-28T01:31:23+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A single by-election has no material economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Seat retained by the incumbent party with no reported irregularities; the balance in the Assembly is unchanged."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Polling reportedly proceeded without interruption."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited relevance to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports results and vote counts factually."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but results are unofficial and from a single outlet."
+        }
+      }
+    },
+    {
+      "id": 11,
       "headline": "In second letter to KP police chief, assembly speaker Swati seeks details of 'detained' lawmakers, ministers",
       "summary": "AI summary: Khyber Pakhtunkhwa Assembly Speaker Babar Saleem Swati has written to the provincial police chief a second time demanding details of PTI legislators and ministers held ahead of the party's postponed protest march, arguing police need his approval to arrest sitting members. Interior Minister Mohsin Naqvi publicly disputed that requirement, and the two traded arguments on X over parliamentary privilege versus equal application of the law.",
       "sources": [
-        { "name": "Dawn News", "url": "https://www.dawn.com/news/2033086/in-second-letter-to-kp-police-chief-assembly-speaker-swati-seeks-details-of-detained-lawmakers-ministers" }
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2033086/in-second-letter-to-kp-police-chief-assembly-speaker-swati-seeks-details-of-detained-lawmakers-ministers"
+        }
       ],
       "timestamp": "Sep 27, 11:56 PM",
       "publishedAt": "2026-09-27T23:56:50+05:00",
       "flaggedForReview": true,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "A procedural dispute over arrests with no direct effect on prices, jobs or business." },
-        "political": { "value": "negative", "reason": "Detentions of provincial lawmakers and an open federal-provincial clash over privilege deepen the institutional standoff." },
-        "social": { "value": "neutral", "reason": "Raises civil-liberty concerns but no reported direct harm to the wider public in this piece." },
-        "market": { "value": "low", "reason": "Little immediate relevance to investors beyond general political risk." },
-        "lean": { "value": "balanced", "reason": "Both the speaker's and the interior minister's positions are quoted with their own arguments." },
-        "confidence": { "value": "high", "reason": "Based on the full article citing both officials' own public statements." }
+        "economic": {
+          "value": "neutral",
+          "reason": "A procedural dispute over arrests with no direct effect on prices, jobs or business."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Detentions of provincial lawmakers and an open federal-provincial clash over privilege deepen the institutional standoff."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Raises civil-liberty concerns but no reported direct harm to the wider public in this piece."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little immediate relevance to investors beyond general political risk."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Both the speaker's and the interior minister's positions are quoted with their own arguments."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Based on the full article citing both officials' own public statements."
+        }
       }
     },
     {
-      "id": 2,
+      "id": 12,
       "headline": "Bill Gates joins calls for AI safeguards, including legislation",
       "summary": "AI summary: In a US television interview, Microsoft co-founder Bill Gates said self-regulation by AI companies is not enough and that lawmakers and law enforcement should help shape safeguards and monitoring. He dismissed claims that AI risk is a hoax, putting him at odds with the Trump administration's resistance to new rules.",
       "sources": [
-        { "name": "Dawn News", "url": "https://www.dawn.com/news/2033076/bill-gates-joins-calls-for-ai-safeguards-including-legislation" }
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2033076/bill-gates-joins-calls-for-ai-safeguards-including-legislation"
+        }
       ],
       "timestamp": "Sep 27, 10:21 PM",
       "publishedAt": "2026-09-27T22:21:14+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "An opinion in a US policy debate with no direct effect on Pakistan's economy." },
-        "political": { "value": "neutral", "reason": "Foreign policy commentary with no bearing on Pakistan's governance stability." },
-        "social": { "value": "neutral", "reason": "No immediate effect on daily life; relevant only to longer-term technology policy." },
-        "market": { "value": "medium", "reason": "AI regulation debates matter to technology investors and global tech firms." },
-        "lean": { "value": "balanced", "reason": "Reports Gates's view alongside the opposing stance of the US administration." },
-        "confidence": { "value": "high", "reason": "Based on the full article reporting on-record interview remarks." }
+        "economic": {
+          "value": "neutral",
+          "reason": "An opinion in a US policy debate with no direct effect on Pakistan's economy."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Foreign policy commentary with no bearing on Pakistan's governance stability."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate effect on daily life; relevant only to longer-term technology policy."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "AI regulation debates matter to technology investors and global tech firms."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports Gates's view alongside the opposing stance of the US administration."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Based on the full article reporting on-record interview remarks."
+        }
       }
     },
     {
-      "id": 3,
+      "id": 13,
       "headline": "No govt financing, sovereign-guaranteed loans for new PIA aircraft: adviser to finmin",
       "summary": "AI summary: Finance adviser Khurram Schehzad said the government is neither buying planes for the now-privatised PIA nor guaranteeing loans for them, after social media claims followed Finance Minister Aurangzeb's talks with the US Exim Bank about Boeing 787 financing. He said Exim uses asset-backed structures and that the state's role is only to help private firms reach international financing.",
       "sources": [
-        { "name": "Dawn News", "url": "https://www.dawn.com/news/2033062/no-govt-financing-sovereign-guaranteed-loans-for-new-pia-aircraft-adviser-to-finmin" }
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2033062/no-govt-financing-sovereign-guaranteed-loans-for-new-pia-aircraft-adviser-to-finmin"
+        }
       ],
       "timestamp": "Sep 27, 7:55 PM",
       "publishedAt": "2026-09-27T19:55:35+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "positive", "reason": "Signals no new contingent liability on the public purse while the privatised airline pursues fleet financing." },
-        "political": { "value": "neutral", "reason": "A routine policy clarification with no effect on institutional stability." },
-        "social": { "value": "neutral", "reason": "No direct effect on public wellbeing or daily life." },
-        "market": { "value": "medium", "reason": "Relevant to aviation, privatisation and sovereign-risk watchers." },
-        "lean": { "value": "balanced", "reason": "Straightforward report of an official clarification without editorial framing for or against the government." },
-        "confidence": { "value": "high", "reason": "Based on the full article quoting the adviser's own statement." }
+        "economic": {
+          "value": "positive",
+          "reason": "Signals no new contingent liability on the public purse while the privatised airline pursues fleet financing."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A routine policy clarification with no effect on institutional stability."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on public wellbeing or daily life."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Relevant to aviation, privatisation and sovereign-risk watchers."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straightforward report of an official clarification without editorial framing for or against the government."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Based on the full article quoting the adviser's own statement."
+        }
       }
     },
     {
-      "id": 4,
+      "id": 14,
       "headline": "PML-N leader urges govt, protesters to rise above egos and hold talks",
       "summary": "AI summary: PML-N's Saad Rafique called on both the federal government and PTI protesters to drop stubbornness and negotiate, warning that a prolonged confrontation leaves everyone worse off. The appeal comes after PTI pushed its long march back to October 4 and KP Chief Minister Sohail Afridi offered talks with the centre.",
       "sources": [
-        { "name": "Geo News", "url": "https://www.geo.tv/latest/683932-pml-n-leader-urges-govt-protesters-to-rise-above-egos-and-hold-talks" }
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/683932-pml-n-leader-urges-govt-protesters-to-rise-above-egos-and-hold-talks"
+        }
       ],
       "timestamp": "Sep 27, 5:19 PM",
       "publishedAt": "2026-09-27T17:19:22+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "Mentions economic strain but the statement itself changes nothing for prices or jobs." },
-        "political": { "value": "neutral", "reason": "A call for dialogue is constructive, but the underlying standoff remains unresolved." },
-        "social": { "value": "neutral", "reason": "Postponement reopened some roads, though containers around Islamabad remain." },
-        "market": { "value": "low", "reason": "Limited direct relevance to investors beyond general political risk." },
-        "lean": { "value": "balanced", "reason": "Reports a plea aimed at both sides and includes the KP chief minister's own offer of talks." },
-        "confidence": { "value": "high", "reason": "Based on the full article citing on-record statements." }
+        "economic": {
+          "value": "neutral",
+          "reason": "Mentions economic strain but the statement itself changes nothing for prices or jobs."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A call for dialogue is constructive, but the underlying standoff remains unresolved."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Postponement reopened some roads, though containers around Islamabad remain."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited direct relevance to investors beyond general political risk."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports a plea aimed at both sides and includes the KP chief minister's own offer of talks."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Based on the full article citing on-record statements."
+        }
       }
     },
     {
-      "id": 5,
+      "id": 15,
       "headline": "Three detained as police probe foreign woman's 'rape' in Lahore",
       "summary": "AI summary: Lahore police say they have detained three people suspected of facilitating the alleged drugging and sexual assault of a foreign businesswoman in the city's Defence area, and have placed the named main suspects on a stop list. According to police, a vehicle linked to the case was recovered and the woman has had a medical examination but is not yet able to give a statement.",
       "sources": [
-        { "name": "Geo News", "url": "https://www.geo.tv/latest/683927-three-detained-as-police-probe-foreign-womans-rape-in-lahore" }
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/683927-three-detained-as-police-probe-foreign-womans-rape-in-lahore"
+        }
       ],
       "timestamp": "Sep 27, 5:03 PM",
       "publishedAt": "2026-09-27T17:03:00+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "No direct effect on jobs, prices or business activity." },
-        "political": { "value": "neutral", "reason": "A criminal investigation with no bearing on governance stability." },
-        "social": { "value": "negative", "reason": "An alleged violent crime against a visitor raises serious public safety concerns." },
-        "market": { "value": "low", "reason": "Not relevant to market decisions." },
-        "lean": { "value": "balanced", "reason": "Reports police statements without political framing." },
-        "confidence": { "value": "medium", "reason": "Details rest on police accounts of an ongoing investigation; the victim has not yet given a statement." }
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct effect on jobs, prices or business activity."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A criminal investigation with no bearing on governance stability."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "An alleged violent crime against a visitor raises serious public safety concerns."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not relevant to market decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports police statements without political framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Details rest on police accounts of an ongoing investigation; the victim has not yet given a statement."
+        }
       }
     },
     {
-      "id": 6,
+      "id": 16,
       "headline": "Pakistan categorically rejects Afghan Taliban's 'frivolous and baseless' Nuristan allegations",
       "summary": "AI summary: Pakistan's information ministry denied Afghan Taliban claims that Pakistan-backed fighters took part in clashes in Nuristan's Kamdesh district, saying no evidence had been offered and calling a circulated video staged. The Taliban had said their forces killed 28 infiltrators and captured 32; separately, Pakistan's Foreign Office summoned the Afghan envoy over an alleged drone airspace violation.",
       "sources": [
-        { "name": "Geo News", "url": "https://www.geo.tv/latest/683929-pakistan-categorically-rejects-afghan-talibans-frivolous-and-baseless-nuristan-allegations" },
-        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40441462/pakistan-rejects-taliban-claims-linking-islamabad-to-nuristan-clashes" },
-        { "name": "Dawn News", "url": "https://www.dawn.com/news/2033051/info-ministry-rejects-afghan-talibans-frivolous-claims-linking-pakistan-to-reported-nuristan-violence" }
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/683929-pakistan-categorically-rejects-afghan-talibans-frivolous-and-baseless-nuristan-allegations"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40441462/pakistan-rejects-taliban-claims-linking-islamabad-to-nuristan-clashes"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2033051/info-ministry-rejects-afghan-talibans-frivolous-claims-linking-pakistan-to-reported-nuristan-violence"
+        }
       ],
       "timestamp": "Sep 27, 4:48 PM",
       "publishedAt": "2026-09-27T16:48:00+05:00",
       "flaggedForReview": true,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "A diplomatic exchange with no immediate effect on trade or prices reported." },
-        "political": { "value": "negative", "reason": "Trading accusations and summoning an envoy mark further escalation in already strained Pakistan-Afghanistan ties." },
-        "social": { "value": "neutral", "reason": "No new harm to Pakistani civilians reported in this exchange itself." },
-        "market": { "value": "low", "reason": "Limited direct market relevance, though border tension adds to regional risk." },
-        "lean": { "value": "balanced", "reason": "Coverage relays Pakistan's official rebuttal while also stating the Taliban's allegations." },
-        "confidence": { "value": "high", "reason": "Three independent outlets report the same statement with matching details." }
+        "economic": {
+          "value": "neutral",
+          "reason": "A diplomatic exchange with no immediate effect on trade or prices reported."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Trading accusations and summoning an envoy mark further escalation in already strained Pakistan-Afghanistan ties."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No new harm to Pakistani civilians reported in this exchange itself."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited direct market relevance, though border tension adds to regional risk."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Coverage relays Pakistan's official rebuttal while also stating the Taliban's allegations."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Three independent outlets report the same statement with matching details."
+        }
       }
     },
     {
-      "id": 7,
+      "id": 17,
       "headline": "Security forces kill over 70 India-backed terrorists in Balochistan operations: ISPR",
       "summary": "AI summary: The military's media wing ISPR said security forces killed more than 71 militants across Balochistan over 96 hours, including in Operation Shaban near Quetta and operations in Ziarat, Nushki and Mand, and attributed the groups to Indian sponsorship. The figures come solely from ISPR and have not been independently verified.",
       "sources": [
-        { "name": "Geo News", "url": "https://www.geo.tv/latest/683917-security-forces-kill-over-70-india-backed-terrorists-in-balochistan-operations-ispr" },
-        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40441460/over-71-terrorists-killed-in-balochistan-operations-over-96-hours-ispr" }
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/683917-security-forces-kill-over-70-india-backed-terrorists-in-balochistan-operations-ispr"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40441460/over-71-terrorists-killed-in-balochistan-operations-over-96-hours-ispr"
+        }
       ],
       "timestamp": "Sep 27, 3:02 PM",
       "publishedAt": "2026-09-27T15:02:00+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "No direct economic effect reported, though Balochistan insecurity weighs on investment over time." },
-        "political": { "value": "neutral", "reason": "An ongoing security campaign with no change to institutional stability reported." },
-        "social": { "value": "negative", "reason": "A large death toll in days of armed operations signals continuing violence and instability in Balochistan, whatever its framing." },
-        "market": { "value": "low", "reason": "Limited immediate relevance to investors." },
-        "lean": { "value": "balanced", "reason": "Relays military claims with attribution; not framed around government versus opposition." },
-        "confidence": { "value": "medium", "reason": "Two outlets carry it, but all figures and attributions rest on ISPR alone with no independent verification." }
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic effect reported, though Balochistan insecurity weighs on investment over time."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "An ongoing security campaign with no change to institutional stability reported."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "A large death toll in days of armed operations signals continuing violence and instability in Balochistan, whatever its framing."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited immediate relevance to investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Relays military claims with attribution; not framed around government versus opposition."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Two outlets carry it, but all figures and attributions rest on ISPR alone with no independent verification."
+        }
       }
     }
   ]
