@@ -1,0 +1,485 @@
+{
+  "generatedAt": "2026-09-30T10:16:13+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "US-led coalition ends mission in Iraq",
+      "summary": "AI summary: The US-led anti-IS coalition is completing its withdrawal from Iraq, including from the Kurdistan region, on October 1, which Prime Minister Ali al-Zaidi has named Sovereignty Day. Baghdad now faces armed factions, among them Kataeb Hezbollah, that are refusing to give up weapons held outside state control.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2033700/us-led-coalition-ends-mission-in-iraq"
+        }
+      ],
+      "timestamp": "Sep 30, 9:45 AM",
+      "publishedAt": "2026-09-30T09:45:47+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Foreign troop drawdown with no direct bearing on Pakistani jobs or prices."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Concerns Iraq's governance, not Pakistan's institutions."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life in Pakistan, though regional militia tensions persist."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited relevance to Pakistani investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the government's framing alongside militia warnings."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article with named, attributed statements."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Pakistani rights activist among others honoured with 'alternative Nobel prize'",
+      "summary": "AI summary: Pakistani human rights lawyer Jalila Haider, noted as the first woman lawyer from the Hazara community, was among four winners of this year's Right Livelihood Award in Stockholm. The other recipients were AI researcher Timnit Gebru, Southern Africa's Rural Women's Assembly and Georgia's Young Lawyers' Association.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/684335-pakistani-rights-activist-among-others-honoured-with-alternative-nobel-prize"
+        }
+      ],
+      "timestamp": "Sep 30, 9:42 AM",
+      "publishedAt": "2026-09-30T09:42:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "An international award has no measurable economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Recognition of an activist does not change governance stability."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "International recognition of rights work for a marginalised community."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not relevant to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straight reporting of the award citations."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article with clear, verifiable facts."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "No change in Kashmir policy, US assures Islamabad",
+      "summary": "AI summary: After the US ambassador to India called Kashmir part of India during an August visit to Srinagar, Washington has told Pakistani contacts that it still regards Kashmir as a dispute for Pakistan and India to resolve. A Pakistani parliamentary committee chairman said lasting regional peace depends on a settlement under UN Security Council resolutions.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2033661/no-change-in-kashmir-policy-us-assures-islamabad"
+        }
+      ],
+      "timestamp": "Sep 30, 7:43 AM",
+      "publishedAt": "2026-09-30T07:43:59+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Diplomatic clarification with no direct economic effect."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "Eases a diplomatic irritant between Islamabad and Washington."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate change to daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Minor relevance to investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports both the original remark and the clarification; no domestic partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "US reassurance is relayed through diplomatic contacts rather than an on-record statement."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Ahead of deal on Hormuz, US and Iran ramp up the rhetoric again",
+      "summary": "AI summary: While Qatar mediates talks on reopening the Strait of Hormuz, Iran is demanding a regional ceasefire, unfrozen assets and sanctions relief, and its parliament speaker has threatened fresh strikes; President Trump denied offering any concessions. Brent crude eased 1.3% as Saudi Arabia resumed loadings at Yanbu and Washington offered 40 million barrels from strategic reserves.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2033667/ahead-of-deal-on-hormuz-us-and-iran-ramp-up-the-rhetoric-again"
+        }
+      ],
+      "timestamp": "Sep 30, 7:35 AM",
+      "publishedAt": "2026-09-30T07:35:10+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "A continued Hormuz disruption keeps oil import costs and shipping risk elevated for Pakistan."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Regional diplomacy, not a domestic governance matter."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Threats of new strikes prolong regional insecurity and fuel price pressure."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Directly relevant to oil prices and energy-importing economies."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Presents statements from both Washington and Tehran."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article with multiple attributed sources."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "IMF-linked plan to boost local currency bond market unveiled",
+      "summary": "AI summary: The finance ministry presented a strategic plan to deepen the local currency bond market during talks with an IMF staff mission, including letting ordinary investors trade government securities through the stock exchange. The reform targets heavy bank concentration, with banks holding 78% of government paper, and is tied to a roughly $1.2 billion IMF disbursement.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2033664/imf-linked-plan-to-boost-local-currency-bond-market-unveiled"
+        }
+      ],
+      "timestamp": "Sep 30, 7:27 AM",
+      "publishedAt": "2026-09-30T07:27:30+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "Broader investor access could lower government borrowing costs and support IMF funding."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A technical reform with no bearing on institutional stability."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Little immediate effect on daily life."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Directly relevant to debt markets, banks and retail investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual description of the plan and its rationale."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article citing the plan document and IMF context."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Five India-backed terrorists killed in KP, Balochistan: security sources",
+      "summary": "AI summary: Security sources say forces killed five militants, whom they describe as India-backed, in operations in North Waziristan, Surab and Tank, one of them reportedly when his own explosive went off early. The report sets the operations against a second-quarter tally attributing 96% of violence-related deaths to KP and Balochistan.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/684327-security-forces-kill-four-terrorists-in-separate-operations-destroy-militant-hideouts"
+        }
+      ],
+      "timestamp": "Sep 30, 7:06 AM",
+      "publishedAt": "2026-09-30T07:06:21+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct effect on jobs or prices."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Ongoing security operations; no change in governance stability."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Continued militant violence in KP and Balochistan harms public safety, even when framed as a security success."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Claims, including the India-backed label, come from security sources and are reported as such; no government-versus-opposition framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single-source security claims that cannot be independently verified."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Mly conditionally supports the creation of new provinces?",
+      "summary": "AI summary: Military sources say the army would back new provinces if they improve governance and service delivery, while leaving the decision to Parliament. The PML-N plans a parliamentary debate in October, the PPP opposes dividing Sindh, and any change needs two-thirds majorities in both houses and the affected provincial assemblies.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40441897/mly-conditionally-supports-the-creation-of-new-provinces"
+        }
+      ],
+      "timestamp": "Sep 30, 5:49 AM",
+      "publishedAt": "2026-09-30T05:49:24+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No immediate economic effect."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "A divisive constitutional question with open inter-party and intra-party splits."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate effect on daily life."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Administrative restructuring could matter to provincial fiscal planning."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Notes both backing and opposition across parties."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on unnamed military sources; the headline itself is framed as a question."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "KDA chief calls for institutional reforms",
+      "summary": "AI summary: Karachi Development Authority director general Zain-ul-Abideen Ansari told staff to put practical process fixes ahead of simply identifying problems. He stressed punctuality, discipline, and focusing on outcomes rather than blaming individuals.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40441925/kda-chief-calls-for-institutional-reforms"
+        }
+      ],
+      "timestamp": "Sep 30, 5:49 AM",
+      "publishedAt": "2026-09-30T05:49:24+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Internal management remarks with no direct economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine administrative messaging."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No concrete change to services announced yet."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not relevant to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the official's remarks without partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Short report of a single internal address."
+        }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "New generation must adopt right approach in social media era: Governor",
+      "summary": "AI summary: Sindh Governor Nehal Hashmi urged young people at an Al-Khidmat youth summit in Karachi to use social media responsibly and take part in nation-building. JI Karachi chief Monem Zafar Khan criticised governments for never building a government university in Karachi, and the event included a job fair and career counselling.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40441928/new-generation-must-adopt-right-approach-in-social-media-era-governor"
+        }
+      ],
+      "timestamp": "Sep 30, 5:49 AM",
+      "publishedAt": "2026-09-30T05:49:24+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A one-off event with a small job fair; no broader economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Speeches only; no policy change."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Career guidance and skills activities for young people."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not relevant to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Carries both the governor's message and criticism of the government's record."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Event report centred on speeches."
+        }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "Pakistan belongs to youth, Hafiz tells summit",
+      "summary": "AI summary: Jamaat-e-Islami chief Hafiz Naeemur Rehman told a Karachi youth summit that young people should build businesses rather than rely on jobs. He argued that salaried workers pay far more tax than landlords and called for the petroleum development levy to be withdrawn.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40441929/pakistan-belongs-to-youth-hafiz-tells-summit"
+        }
+      ],
+      "timestamp": "Sep 30, 5:49 AM",
+      "publishedAt": "2026-09-30T05:49:24+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Policy demands from a party leader, with no change in policy."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine political speech."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Mentions tax and the petroleum levy, but proposes no actual change."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straight report of one speaker's views; no editorial slant evident."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single-speaker claims, including tax figures, are not independently checked."
+        }
+      }
+    },
+    {
+      "id": 11,
+      "headline": "Karachi to get all interior ministry services under one roof",
+      "summary": "AI summary: Interior Minister Mohsin Naqvi announced a Grand Khidmat Markaz in Karachi, to be Pakistan's largest federal service centre, offering passports, ID cards, arms licences and certificates at one site, with a master plan due within 10 days. He also inspected new Chinese-made rescue vehicles for Islamabad's fire brigade.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/684292-largest-federal-service-centre-to-be-set-up-in-karachi"
+        }
+      ],
+      "timestamp": "Sep 29, 11:01 PM",
+      "publishedAt": "2026-09-29T23:01:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Modest administrative investment; no broader economic effect yet."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A service-delivery announcement, not a governance shift."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Should make it easier for Karachi residents to get official documents, once built."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not relevant to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports a government announcement factually, without added praise or criticism."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article with clear, attributed details."
+        }
+      }
+    },
+    {
+      "id": 12,
+      "headline": "PTI leader urges party to further postpone long march, warns of emergency risk",
+      "summary": "AI summary: PTI's KP information secretary Shaukat Yousafzai urged the party to postpone its October 4 long march, warning of possible emergency rule and more terrorism, but chairman Barrister Gohar said it will go ahead. Law Minister Azam Nazeer Tarar said the government is open to talks but not with Imran Khan's release as a precondition, while opposition figures floated an All Parties Conference with the PPP.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/684238-pti-kp-leader-urges-party-to-further-postpone-long-march-warns-of-emergency-risk"
+        }
+      ],
+      "timestamp": "Sep 29, 4:58 PM",
+      "publishedAt": "2026-09-29T16:58:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic effect yet, though prolonged protests could disrupt activity."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "A looming confrontation over the march, with warnings of emergency rule, points to political instability."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate disruption, but a risk of unrest around October 4."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Political instability risk is relevant to investor sentiment."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Includes PTI's internal disagreement and the government's position."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article with multiple named sources on different sides."
+        }
+      }
+    }
+  ]
+}
