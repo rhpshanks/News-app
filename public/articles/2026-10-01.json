@@ -1,0 +1,377 @@
+{
+  "generatedAt": "2026-10-01T16:05:17+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Indian media claims individual killed in occupied Kashmir 'encounter' was Pakistan Army trooper",
+      "summary": "AI summary: Indian outlets, citing unnamed sources and echoed by the Indian Army's Chinar Corps, claimed a man killed in a Kashmir encounter was a retired Pakistan Army soldier wanted over the April 2025 Pahalgam attack. Dawn reports that Pakistan's government and military had not yet responded, and notes earlier Indian allegations of this kind went unsubstantiated.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2033963/indian-media-claims-individual-killed-in-occupied-kashmir-encounter-was-pakistan-army-trooper"
+        }
+      ],
+      "timestamp": "Oct 1, 3:15 PM",
+      "publishedAt": "2026-10-01T15:15:18+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "An unverified allegation with no direct effect on jobs, prices or trade so far."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Adds to Pakistan-India friction but does not bear on domestic institutions at this stage."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate effect on daily life, though renewed bilateral tension is a background risk."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited investor relevance unless the allegation escalates into a wider standoff."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "The piece is sceptical of the Indian claim, but that is a Pakistan versus India angle, not a government versus opposition one."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but the core claim rests on unnamed Indian sources and Pakistan has not yet responded."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "'Off-the-record talks' between PTI and govt ongoing: Rana Sanaullah",
+      "summary": "AI summary: PM's political affairs adviser Rana Sanaullah told Geo News that informal consultations with PTI's senior leadership about its October 4 march are under way, while warning the party would be stopped from entering Islamabad if it goes ahead. He added that governor's rule in Khyber Pakhtunkhwa remains an option under discussion with coalition partners and would need parliament's approval.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2033967/off-the-record-talks-between-pti-and-govt-ongoing-rana-sanaullah"
+        }
+      ],
+      "timestamp": "Oct 1, 2:54 PM",
+      "publishedAt": "2026-10-01T14:54:33+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic measure, though a blocked capital would disrupt business activity."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "An open threat of governor's rule against a provincial government signals a deepening federal-provincial standoff."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Road and motorway closures tied to the march standoff threaten routine life in and around the twin cities."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Political confrontation and possible emergency measures in a province matter to investor sentiment."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Mostly carries the adviser's remarks, but they are clearly attributed and the piece describes both sides as entrenched."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article with on-record quotes, though no PTI response is included in this piece."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Mir Raza murder case: Sindh govt extends judicial commission's term until Oct 15",
+      "summary": "AI summary: The Sindh cabinet, chaired by Chief Minister Murad Ali Shah, extended until October 15 the single-judge commission led by Justice Omar Sial that is examining businessman Mir Raza Ali's death and possible negligence in the police probe. The commission, whose original 30-day term had lapsed, has recorded statements from dozens of witnesses and asked for more time to finish its findings.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/684517-mir-raza-case-sindh-cabinet-approves-extension-of-inquiry-commission-until-oct-15"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2033973/mir-raza-murder-case-sindh-govt-extends-judicial-commissions-term-until-oct-15"
+        }
+      ],
+      "timestamp": "Oct 1, 2:49 PM",
+      "publishedAt": "2026-10-01T14:49:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A procedural extension of an inquiry with no bearing on jobs or prices."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "The inquiry continues as planned; the extension itself neither strengthens nor weakens institutions."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Keeps an accountability process alive, but brings no resolution yet for the family or the public."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little relevance to markets or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the cabinet decision alongside the family's earlier objections and criticism of the police."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Two outlets report matching details from the same cabinet decision, both read in full."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Centre decides against imposing emergency or governor's rule in KP 'for now': sources",
+      "summary": "AI summary: According to unnamed sources cited by Geo News, a meeting chaired by PM Shehbaz Sharif discussed emergency and governor's rule for Khyber Pakhtunkhwa but held off, giving PTI another chance to cancel its October 4 march. The sources said easier access to and medical care for Imran Khan could follow a de-escalation, while PTI chairman Gohar Ali Khan said the march is still planned.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/684495-centre-decides-against-imposing-emergency-or-governors-rule-in-kp-for-now-sources"
+        }
+      ],
+      "timestamp": "Oct 1, 11:11 AM",
+      "publishedAt": "2026-10-01T11:11:46+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No economic measure involved; the standoff's cost depends on what happens on October 4."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A pause on emergency rule eases the immediate risk, but the confrontation itself is unresolved."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No change to daily life yet; possible disruption still hinges on the march."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Whether a province is placed under emergency rule is relevant to political-risk assessments."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Carries the government-side account and the PTI chairman's position."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but the central claim comes from unnamed sources."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Pakistan says 22 terrorists killed in airstrikes on Afghan hideouts",
+      "summary": "AI summary: The information ministry said Pakistan carried out air strikes on what it called militant hideouts at two locations in Afghanistan under Operation Ghazab lil Haq, with initial reports of 22 killed and weapons stores destroyed. The ministry said precautions were taken against collateral damage; none of the three reports carries an Afghan response or independent confirmation of the toll.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/684490-at-least-22-terrorists-reportedly-killed-as-pakistan-strikes-terror-hideout"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2033937/calibrated-air-strikes-target-terrorist-hideouts-at-two-locations-in-afghanistan-info-ministry"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40442161/pakistan-says-22-terrorists-killed-in-airstrikes-on-afghan-hideouts"
+        }
+      ],
+      "timestamp": "Oct 1, 9:26 AM",
+      "publishedAt": "2026-10-01T09:26:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic measure, though continued border hostilities weigh on cross-border trade."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Repeated cross-border strikes mark a continuing breakdown in Pakistan-Afghanistan relations."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Ongoing strikes and the militant violence behind them mean continued insecurity, even if framed as a success."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Regional security escalation is relevant to country-risk and investor sentiment."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "All three outlets attribute the claims to the ministry; the one-sidedness reflects a single official source, not partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Three outlets match on the details, but all rely on the same ministry statement with no independent verification."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Gulshan-e-Iqbal BRT structure collapses, duty guard killed",
+      "summary": "AI summary: A structure at a Red Line BRT construction site near Baitul Mukarram Mosque in Karachi's Gulshan-e-Iqbal collapsed, killing a guard on duty, whose body Rescue 1122 recovered from the debris. The long-delayed project has previously drawn Asian Development Bank concerns about construction quality and safety compliance.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/684489-gulshan-e-iqbal-brt-structure-collapses-duty-guard-killed"
+        }
+      ],
+      "timestamp": "Oct 1, 7:06 AM",
+      "publishedAt": "2026-10-01T07:06:41+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A single site accident; the project's delays are an existing cost, not a new one."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "No direct effect on governance stability."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "A worker died and the incident raises safety worries on a project already disrupting Karachi commuters."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited market relevance beyond the project's lenders and contractors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual incident report with project background and no partisan framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article with rescue officials' account and specific details."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Federal govt mulling imposing emergency on KP, says Tariq",
+      "summary": "AI summary: Parliamentary Affairs Minister Tariq Fazal Chaudhry said the federal government is seriously weighing an emergency in Khyber Pakhtunkhwa under Article 232, blaming the PTI-led provincial government for worsening security. His remarks come ahead of PTI's planned October 4 march on Islamabad, and he said the proposal was driven by security rather than political rivalry.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40442100/federal-govt-mulling-imposing-emergency-on-kp-says-tariq"
+        }
+      ],
+      "timestamp": "Oct 1, 5:39 AM",
+      "publishedAt": "2026-10-01T05:39:56+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No economic measure announced, though emergency rule in a province would unsettle business there."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "A federal minister openly raising emergency rule over an opposition-run province signals serious institutional strain."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate change to daily life; the security concerns cited are existing ones."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Possible emergency rule in a province is relevant to political-risk assessments."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "The excerpt relays the minister's attributed claims; not enough to judge the full piece's framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on the RSS excerpt only, as the article page could not be fetched."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "FCC CJ opens Smart Paperless Digital Court",
+      "summary": "AI summary: The Chief Justice of the Federal Constitutional Court inaugurated a paperless digital courtroom at the Islamabad High Court, built by the court's own IT department, along with public Wi-Fi for lawyers and litigants. The IHC also opened a media centre for journalists covering proceedings, which the Islamabad bar welcomed.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40442109/fcc-cj-opens-smart-paperless-digital-court"
+        }
+      ],
+      "timestamp": "Oct 1, 5:39 AM",
+      "publishedAt": "2026-10-01T05:39:56+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "An administrative upgrade with no direct effect on jobs or prices."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "Court digitisation and press facilities modestly improve judicial transparency and efficiency."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Paperless handling and public Wi-Fi should make court access easier for litigants and lawyers."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little relevance to markets or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straightforward report of an inauguration with no partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on the RSS excerpt only, as the article page could not be fetched."
+        }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "IHC seeks reply from DC challenging detention of two PTI MNAs",
+      "summary": "AI summary: The Islamabad High Court asked for responses on petitions against the 15-day detention of PTI MNAs Adil Bazai and Dawar Khan Kundi under public order law, ordered on September 21. Their counsel Babar Awan alleged they were unlawfully taken from Parliament Lodges and held in solitary confinement, claims the court has yet to rule on.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40442111/ihc-seeks-reply-from-dc-challenging-detention-of-two-pti-mnas"
+        }
+      ],
+      "timestamp": "Oct 1, 5:39 AM",
+      "publishedAt": "2026-10-01T05:39:56+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A court proceeding with no direct economic effect."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Preventive detention of sitting lawmakers, now contested in court, reflects strain between the state and the opposition."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Concerns two detained individuals, with no broad effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited relevance to markets or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "The excerpt carries the petitioners' arguments as court submissions; the official reply is still pending, so tilt cannot be judged."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on the RSS excerpt only, as the article page could not be fetched."
+        }
+      }
+    }
+  ]
+}
