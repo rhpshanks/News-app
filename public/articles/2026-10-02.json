@@ -1,0 +1,341 @@
+{
+  "generatedAt": "2026-10-02T00:11:19+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "PM Shehbaz met Trump at reception banquet on UNGA sidelines",
+      "summary": "AI summary: Official photographs released by Pakistan's Press Information Department show PM Shehbaz Sharif shaking hands with US President Donald Trump at a reception for world leaders during last month's UN General Assembly session. No details of any discussion between the two were given.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2034035/pm-shehbaz-met-trump-at-reception-banquet-on-unga-sidelines"
+        }
+      ],
+      "timestamp": "Oct 1, 11:56 PM",
+      "publishedAt": "2026-10-01T23:56:08+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A ceremonial encounter with no trade, aid or investment announcement attached."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine diplomatic optics with no bearing on domestic institutions or governance."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on public wellbeing or daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Photographs of a reception carry little decision value for investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Plain reporting of an official photo release, with no partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on one report that itself relies on an official release with few details."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Saudi-led coalition says Houthis attacked power station in Madina",
+      "summary": "AI summary: The Saudi-led coalition said a Houthi unmanned aircraft hit a power distribution station in Madina that supplies the Prophet's Mosque, disabling one transformer while the wider grid kept working. A Houthi military source rejected the accusation as a lie, and neither account has been independently verified.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2034032/saudi-led-coalition-says-houthis-attacked-power-station-in-madina"
+        }
+      ],
+      "timestamp": "Oct 1, 11:35 PM",
+      "publishedAt": "2026-10-01T23:35:36+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "The coalition reported one transformer disabled and no wider disruption to the electricity network."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A foreign conflict development with no direct effect on Pakistan's institutions."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "A reported strike on infrastructure serving a holy site signals escalation and risk to civilians and pilgrims."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Renewed Gulf hostilities matter for energy prices, shipping and remittance-linked sentiment."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Both the coalition's claim and the Houthi denial were reported, with neither treated as settled."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Competing claims with no independent verification, reported by one publication."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Govt-PPP delegation to meet PTI for talks ahead of Oct 4 long march",
+      "summary": "AI summary: After PM Shehbaz Sharif and President Asif Ali Zardari met at the President House, a joint government and PPP delegation was named to hold talks with PTI leaders on October 2, two days before the party's planned October 4 march on Islamabad. Officials reportedly still treat emergency or governor's rule in Khyber Pakhtunkhwa as an option if dialogue fails.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/684603-govt-ppp-delegation-to-meet-pti-for-talks-ahead-of-oct-4-long-march"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2033967/ppp-to-join-govt-representatives-as-shehbaz-zardari-meeting-yields-friday-talks-with-opposition"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40442207/president-pm-discuss-countrys-political-security-situation"
+        }
+      ],
+      "timestamp": "Oct 1, 9:19 PM",
+      "publishedAt": "2026-10-01T21:19:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No immediate effect on jobs or prices, though a negotiated settlement would lower disruption risk."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "Both sides chose formal dialogue before the march, even with emergency rule still under discussion."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Talks may ease tension, but nothing has changed yet for daily life or public safety."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "The prospect of a capital march and possible emergency rule in a province is material political risk for investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Coverage carried government positions alongside PTI and wider opposition reactions."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Three publications reported matching details of the meeting and the planned talks, two read in full."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Bodies of Pakistanis killed in MT Honour 25 operation to be repatriated at earliest: FO",
+      "summary": "AI summary: The Foreign Office spokesperson said five crew members, three of them Pakistani, died during a recovery operation for the hijacked vessel MT Honour 25 off Somalia, and four more were injured. He said Pakistani diplomats hold the remains and will repatriate them as early as local procedures allow.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/684594-bodies-of-pakistanis-killed-in-mt-honour-25-operation-to-be-repatriated-at-earliest-says-fo"
+        }
+      ],
+      "timestamp": "Oct 1, 8:04 PM",
+      "publishedAt": "2026-10-01T20:04:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A humanitarian and consular matter with no broad effect on jobs or prices."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Consular handling of a hijacking aftermath does not change governance stability."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Three Pakistani seafarers died and others were injured after months in captivity."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited relevance beyond maritime security and crewing risk."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "A factual account of an official briefing, with no government versus opposition angle."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Relies on the Foreign Office's own account as carried by one publication."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "PTI 'accepts' govt invitation for talks ahead of October 4 long march",
+      "summary": "AI summary: PTI Chairman Barrister Gohar said his party accepted the government's invitation to talks before its October 4 long march, while warning that governor's rule in Khyber Pakhtunkhwa would deepen tensions. Other opposition figures insisted on talks without preconditions, and Mahmood Khan Achakzai refused to meet at government venues.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/684578-pti-accepts-govt-invitation-for-talks-ahead-of-october-4-long-march"
+        }
+      ],
+      "timestamp": "Oct 1, 7:03 PM",
+      "publishedAt": "2026-10-01T19:03:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic effect until the talks or the march produce a concrete result."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Acceptance of talks is constructive, but one alliance leader rejected the venue and called the government unconstitutional."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Statements of position only, with no change yet to public safety or daily life."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Signals on whether the October 4 march proceeds affect near-term political risk."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "The piece relays opposition statements as attributed quotes without endorsing them."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "One publication's report, built mainly on opposition leaders' remarks."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "DG ISPR debunks Indian media claim of ex-Pakistan Army official's killing",
+      "summary": "AI summary: DG ISPR Lt Gen Ahmed Sharif Chaudhry told a press conference that Indian reports of a former Pakistani soldier being killed in a Kashmir encounter were staged, and presented retired SSG commando Muhammad Asif alive before the media. The coverage carried no Indian response; Indian media and army sources had earlier claimed he was a militant killed on September 29 to 30.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/684570-who-is-muhammad-asif-ex-ssg-commando-india-claimed-killed-in-iiojk"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2033963/why-the-need-for-all-this-drama-dg-ispr-lampoons-indias-neutralised-pakistani-terrorist-claims-presents-him-before-media"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40442183/dg-ispr-debunks-indian-media-claim-of-ex-pakistan-army-officials-killing"
+        }
+      ],
+      "timestamp": "Oct 1, 6:52 PM",
+      "publishedAt": "2026-10-01T18:52:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A dispute over competing narratives, with no direct effect on jobs, prices or business activity."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "An external dispute that does not alter domestic institutional stability."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Sharp rhetoric and warnings of a severe military response add to India-Pakistan tension that worries the public."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Heightened India-Pakistan friction is a geopolitical risk investors watch."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "The reporting relays the military's account without an Indian reply, but takes no side between government and opposition."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Three publications agree the press conference took place, but the underlying claims rest on one party's account."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Sindh cabinet extends Mir Raza inquiry commission's tenure till Oct 15",
+      "summary": "AI summary: The Sindh cabinet approved more time, until October 15, for the judicial commission under Justice Omar Sial investigating the death of Mir Raza Ali. The commission has reportedly heard dozens of witnesses and raised questions about evidence handling, CCTV footage and the post-mortem.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40442179/sindh-cabinet-extends-mir-raza-inquiry-commissions-tenure-till-oct-15"
+        }
+      ],
+      "timestamp": "Oct 1, 4:39 PM",
+      "publishedAt": "2026-10-01T16:39:24+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A procedural extension of an inquiry, with no economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "The inquiry continues through its established judicial process."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No change for the public until the commission reports its findings."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little relevance to markets or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "A procedural report with no evident partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Worked from the RSS excerpt only, because the article page returned 403."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Pakistan says 22 terrorists killed in airstrikes on Afghan hideouts",
+      "summary": "AI summary: The government said aerial strikes on militant camps in Afghanistan under Operation Ghazab lil Haq killed 22 militants and destroyed weapons stockpiles, a claim not independently verified. It also reported further militant deaths in intelligence-based operations in Khyber Pakhtunkhwa and Balochistan.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40442161/pakistan-says-22-terrorists-killed-in-airstrikes-on-afghan-hideouts"
+        }
+      ],
+      "timestamp": "Oct 1, 12:58 PM",
+      "publishedAt": "2026-10-01T12:58:38+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No immediate effect on prices or business activity, though border tension can weigh on trade."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A security operation that leaves domestic governance arrangements unchanged."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Cross-border strikes and continuing operations reflect ongoing violence and instability for affected communities."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Pakistan-Afghanistan hostilities bear on security risk and border trade."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "The excerpt relays the government's statement as a claim, with no partisan angle."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Worked from the RSS excerpt only (article page returned 403), and the casualty figure is the government's own."
+        }
+      }
+    }
+  ]
+}
