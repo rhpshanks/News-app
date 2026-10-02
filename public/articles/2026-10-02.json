@@ -1,8 +1,296 @@
 {
-  "generatedAt": "2026-10-02T00:11:19+05:00",
+  "generatedAt": "2026-10-02T10:15:53+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "'Grave provocation': Pakistan condemns Houthi attack on power facility in Madina",
+      "summary": "AI summary: Pakistan's Foreign Office condemned what it called a Houthi attack on the Taibah power distribution station in Madina, which supplies the Prophet's Mosque, labelling it a grave provocation and voicing solidarity with Saudi Arabia. The statement urged an immediate, unconditional halt to such attacks; neither report carried a Houthi response.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/684655-pakistan-slams-houthi-attack-on-madina-power-station-as-grave-provocation"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2034209/grave-provocation-pakistan-condemns-houthi-attack-on-power-facility-in-madina"
+        }
+      ],
+      "timestamp": "Oct 2, 9:57 AM",
+      "publishedAt": "2026-10-02T09:57:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A diplomatic statement with no direct effect on jobs, prices or business activity in Pakistan."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A foreign policy position that leaves domestic institutions and governance unchanged."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "The reported strike on infrastructure serving a holy site points to escalation and risk for civilians and pilgrims."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Gulf hostilities bear on energy prices, shipping and remittance-linked sentiment."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Both reports relay the official statement plainly, with no government versus opposition angle."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Two publications, both read in full, carried matching details of the Foreign Office statement."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Trump calls Iran's Hormuz offer 'not enough'",
+      "summary": "AI summary: In a Time Magazine interview, US President Donald Trump dismissed Iran's proposal to reopen the Strait of Hormuz as insufficient and said military action could resume after the midterm elections. Iran's president said Tehran remains open to dialogue, while Washington added sanctions on Iran's automotive and railway sectors.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2034154/trump-calls-irans-hormuz-offer-not-enough"
+        }
+      ],
+      "timestamp": "Oct 2, 7:48 AM",
+      "publishedAt": "2026-10-02T07:48:04+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "A rejected reopening offer and new sanctions keep pressure on oil supply and shipping costs for an importer like Pakistan."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A US-Iran development with no direct effect on Pakistan's institutions."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Statements and sanctions only so far, with no immediate change to daily life in Pakistan."
+        },
+        "market": {
+          "value": "high",
+          "reason": "The status of the Strait of Hormuz and the chance of renewed strikes weigh heavily on energy markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "The piece carries Trump's remarks alongside the Iranian president's reply and a Russian view."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "One publication's report, though built on a named interview and wire agency material."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Islamabad hints at cautious shift on US sanctions against Iran",
+      "summary": "AI summary: The Foreign Office spokesperson said Pakistan will follow all applicable sanctions regimes under international and domestic law, wording Dawn reads as a careful widening of its earlier position on US sanctions against Iran. Pakistan has not formally joined those sanctions and says it will keep mediating between Washington and Tehran.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2034164/islamabad-hints-at-cautious-shift-on-us-sanctions-against-iran"
+        }
+      ],
+      "timestamp": "Oct 2, 7:22 AM",
+      "publishedAt": "2026-10-02T07:22:03+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Closer sanctions compliance could limit trade with Iran while protecting banks' access to global payment systems, a mixed effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A change in diplomatic wording that does not alter domestic governance."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on public wellbeing or daily life at this stage."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Sanctions exposure matters to banks and firms trading with Iran."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "An analytical report on official wording, with no government versus opposition angle."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "The shift is the reporter's reading of one briefing, with no US, Iranian or independent comment included."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "PM orders expansion of Asaan Khidmat Centres",
+      "summary": "AI summary: The Prime Minister directed faster work on new Asaan Khidmat service centres in cities including Peshawar and Bannu. Officials said the Islamabad centre handled more than 171,000 applications between January and September with 99.5% citizen satisfaction, a figure not independently checked.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40442273/pm-orders-expansion-of-asaan-khidmat-centres"
+        }
+      ],
+      "timestamp": "Oct 2, 7:08 AM",
+      "publishedAt": "2026-10-02T07:08:06+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Quicker paperwork helps citizens and firms at the margin, but has no broad effect on jobs or prices."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "Wider access to one-window public services supports state capacity and trust in institutions."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "More centres would cut the time people spend on routine government paperwork."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little relevance to investors or market decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "The excerpt relays official figures without challenge, but shows no clear partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Worked from the RSS excerpt only (article page returned 403), and the figures come from officials."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "IMF praises oil crisis handling, urges gas sector reforms",
+      "summary": "AI summary: The IMF reportedly commended Pakistan's handling of petroleum pricing during the regional crisis while pressing for action on gas sector circular debt of roughly Rs3.6 trillion. Both sides plan to replace electricity tariff subsidies with direct cash payments to poor consumers through BISP, with a similar gas scheme held back by weak consumer data.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40442272/poor-consumers-to-get-cash-via-bisp-govt-imf-agree-to-make-power-subsidies-more-targeted"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2034157/imf-praises-oil-crisis-handling-urges-gas-sector-reforms"
+        }
+      ],
+      "timestamp": "Oct 2, 7:06 AM",
+      "publishedAt": "2026-10-02T07:06:15+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Targeted subsidies may curb circular debt, but households losing tariff support could face higher bills, a mixed picture."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine programme talks that leave governance arrangements unchanged."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Poor households would get cash support while others may pay more; nothing has taken effect yet."
+        },
+        "market": {
+          "value": "high",
+          "reason": "IMF programme progress, energy pricing and circular debt directly shape investor and business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports on policy talks with no partisan framing, though no critical voices were included."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Two publications agree on the BISP plan, but one was read only as an excerpt and the other relies on unnamed officials."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "India staged false-flag operation: DG ISPR presents 'killed' Pakistani soldier alive",
+      "summary": "AI summary: According to the military's spokesperson, India staged a fake encounter in Kashmir, and he presented before journalists a retired soldier whom Indian reports had declared killed. He also accused India of sponsoring terrorism in the region; the excerpt carries no Indian response.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40442259/india-staged-false-flag-operation-dg-ispr-presents-killed-pakistani-soldier-alive"
+        }
+      ],
+      "timestamp": "Oct 2, 6:46 AM",
+      "publishedAt": "2026-10-02T06:46:03+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A dispute between competing narratives, with no direct effect on jobs, prices or business activity."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "An external dispute that does not alter domestic institutional stability."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Mutual accusations add to India-Pakistan tension that worries the public on both sides."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Heightened India-Pakistan tension is a geopolitical risk investors watch."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "The excerpt relays the military's account as attributed claims, with no government versus opposition angle."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Worked from the RSS excerpt only (article page returned 403), and the claims rest on one party's account."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Rabi season: MSP for wheat will be above Rs4,000/40kg, says food minister",
+      "summary": "AI summary: The food minister said the minimum support price for wheat in the coming Rabi season will exceed Rs4,000 per 40kg, while a parliamentary committee unanimously recommended Rs5,000 to spur production. A new National Wheat Policy awaits the Prime Minister's approval.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40442256/rabi-season-msp-for-wheat-will-be-above-rs400040kg-says-food-minister"
+        }
+      ],
+      "timestamp": "Oct 2, 5:28 AM",
+      "publishedAt": "2026-10-02T05:28:38+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A higher support price would lift farm incomes but could push up flour prices, and the final figure is not yet set."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Normal policy debate between a ministry and a parliamentary committee."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No change for farmers or consumers until the price and the wheat policy get approved."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Wheat pricing affects agriculture, food inflation and fertiliser demand."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "The excerpt gives both the minister's position and the committee's higher recommendation."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Worked from the RSS excerpt only, because the article page returned 403."
+        }
+      }
+    },
+    {
+      "id": 8,
       "headline": "PM Shehbaz met Trump at reception banquet on UNGA sidelines",
       "summary": "AI summary: Official photographs released by Pakistan's Press Information Department show PM Shehbaz Sharif shaking hands with US President Donald Trump at a reception for world leaders during last month's UN General Assembly session. No details of any discussion between the two were given.",
       "sources": [
@@ -42,7 +330,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 9,
       "headline": "Saudi-led coalition says Houthis attacked power station in Madina",
       "summary": "AI summary: The Saudi-led coalition said a Houthi unmanned aircraft hit a power distribution station in Madina that supplies the Prophet's Mosque, disabling one transformer while the wider grid kept working. A Houthi military source rejected the accusation as a lie, and neither account has been independently verified.",
       "sources": [
@@ -82,7 +370,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 10,
       "headline": "Govt-PPP delegation to meet PTI for talks ahead of Oct 4 long march",
       "summary": "AI summary: After PM Shehbaz Sharif and President Asif Ali Zardari met at the President House, a joint government and PPP delegation was named to hold talks with PTI leaders on October 2, two days before the party's planned October 4 march on Islamabad. Officials reportedly still treat emergency or governor's rule in Khyber Pakhtunkhwa as an option if dialogue fails.",
       "sources": [
@@ -130,7 +418,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 11,
       "headline": "Bodies of Pakistanis killed in MT Honour 25 operation to be repatriated at earliest: FO",
       "summary": "AI summary: The Foreign Office spokesperson said five crew members, three of them Pakistani, died during a recovery operation for the hijacked vessel MT Honour 25 off Somalia, and four more were injured. He said Pakistani diplomats hold the remains and will repatriate them as early as local procedures allow.",
       "sources": [
@@ -170,7 +458,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 12,
       "headline": "PTI 'accepts' govt invitation for talks ahead of October 4 long march",
       "summary": "AI summary: PTI Chairman Barrister Gohar said his party accepted the government's invitation to talks before its October 4 long march, while warning that governor's rule in Khyber Pakhtunkhwa would deepen tensions. Other opposition figures insisted on talks without preconditions, and Mahmood Khan Achakzai refused to meet at government venues.",
       "sources": [
@@ -210,7 +498,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 13,
       "headline": "DG ISPR debunks Indian media claim of ex-Pakistan Army official's killing",
       "summary": "AI summary: DG ISPR Lt Gen Ahmed Sharif Chaudhry told a press conference that Indian reports of a former Pakistani soldier being killed in a Kashmir encounter were staged, and presented retired SSG commando Muhammad Asif alive before the media. The coverage carried no Indian response; Indian media and army sources had earlier claimed he was a militant killed on September 29 to 30.",
       "sources": [
@@ -258,7 +546,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 14,
       "headline": "Sindh cabinet extends Mir Raza inquiry commission's tenure till Oct 15",
       "summary": "AI summary: The Sindh cabinet approved more time, until October 15, for the judicial commission under Justice Omar Sial investigating the death of Mir Raza Ali. The commission has reportedly heard dozens of witnesses and raised questions about evidence handling, CCTV footage and the post-mortem.",
       "sources": [
@@ -298,7 +586,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 15,
       "headline": "Pakistan says 22 terrorists killed in airstrikes on Afghan hideouts",
       "summary": "AI summary: The government said aerial strikes on militant camps in Afghanistan under Operation Ghazab lil Haq killed 22 militants and destroyed weapons stockpiles, a claim not independently verified. It also reported further militant deaths in intelligence-based operations in Khyber Pakhtunkhwa and Balochistan.",
       "sources": [
