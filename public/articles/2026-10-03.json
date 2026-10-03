@@ -1,0 +1,413 @@
+{
+  "generatedAt": "2026-10-03T09:11:43+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Govts should be allowed to complete their terms: CM Maryam",
+      "summary": "AI summary: Punjab Chief Minister Maryam Nawaz argued that well-performing governments should serve full five-year terms, crediting continuity for what she described as controlled terrorism and the absence of no-go areas in the province. She also cited the dismissal of around 1,000 police and revenue officials over corruption and new virtual police stations for domestic violence cases; the report carried no independent check or critics' response.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2034350/govts-should-be-allowed-to-complete-their-terms-cm-maryam"
+        }
+      ],
+      "timestamp": "Oct 3, 7:25 AM",
+      "publishedAt": "2026-10-03T07:25:37+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A political statement with no direct bearing on prices, jobs or business activity."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "An argument for tenure stability that does not itself change any institution or rule."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "The claimed safety and policing gains are asserted rather than newly announced or verified."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little direct relevance to investors beyond general policy-continuity rhetoric."
+        },
+        "lean": {
+          "value": "pro-government",
+          "reason": "The piece relays the chief minister's achievement claims, backed by a provincial minister, with no opposition or independent rebuttal."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but it rests on a single outlet and unverified official claims."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "PTI to begin march from south KP tomorrow",
+      "summary": "AI summary: PTI says its October 4 protest march will set off from southern Khyber Pakhtunkhwa under Chief Minister Sohail Afridi, with Malakand processions joining at Swabi before moving on Islamabad. The party's demands include access to jailed founder Imran Khan, his hospital transfer and faster case hearings, while a party spokesman described talks with the government as encouraging and opposed any governor's rule.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2034348/pti-to-begin-march-from-south-kp-tomorrow"
+        }
+      ],
+      "timestamp": "Oct 3, 7:16 AM",
+      "publishedAt": "2026-10-03T07:16:12+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Any economic effect depends on how much road closure or disruption the march causes, which is not yet known."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "A march on the capital amid military warnings points to heightened confrontation between the opposition and the state."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Large processions toward Islamabad carry risks of disruption and clashes for ordinary commuters and residents."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Political unrest around the capital can weigh on investor sentiment in the short term."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "The piece mainly reports PTI's stated plans and also notes ongoing talks with the government, without editorialising."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read from one outlet, largely based on party statements."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Some institutions have become hurdles to performance: Naqvi",
+      "summary": "AI summary: Speaking to business leaders in Lahore, Interior Minister Mohsin Naqvi said Pakistan's system needs a reset because certain departments and institutions are obstructing performance, and asked the business community to back reform efforts. He also pointed to Iran's local manufacturing under sanctions as a model for cutting imports, without naming which institutions he meant.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2034347/some-institutions-have-become-hurdles-to-performance-naqvi"
+        }
+      ],
+      "timestamp": "Oct 3, 7:11 AM",
+      "publishedAt": "2026-10-03T07:11:24+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Calls for reform and import substitution are aspirational, with no concrete measure announced."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A minister's critique of unnamed institutions signals friction but no actual institutional change yet."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate effect on daily life or public services."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Directly addressed to business leaders and touches on import and manufacturing policy direction."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "A straightforward report of a speech; it lacks rebuttal but does not frame the claims as settled fact."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, single outlet, statements unaccompanied by specifics."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Pakistan slams Houthi attack on power facility in Madina",
+      "summary": "AI summary: Pakistan's Foreign Office condemned the reported September 29 Houthi strike on the Taibah power distribution station in Madina, which serves the Prophet's Mosque, calling it a grave provocation. It expressed solidarity with Saudi Arabia and urged an immediate, unconditional end to such attacks.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40442431/pakistan-slams-houthi-attack-on-power-facility-in-madina"
+        }
+      ],
+      "timestamp": "Oct 3, 6:47 AM",
+      "publishedAt": "2026-10-03T06:47:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A diplomatic statement with no direct effect on Pakistani prices or jobs."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A foreign policy position that leaves domestic institutions unchanged."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "The reported attack on infrastructure serving a holy site signals regional escalation with risk to civilians and pilgrims."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Gulf hostilities bear on oil prices and remittance-linked sentiment."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Relays the official statement plainly with no domestic partisan angle."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on the RSS excerpt only, as the article page was not accessible."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Military warns against May 9-like unrest, vows decisive action",
+      "summary": "AI summary: According to the report, the 277th Corps Commanders' Conference warned that any attempt to stir agitation or create a May 9-like situation ahead of PTI's October 4 march would be met with decisive force under the rule of law. The forum also discussed counter-terrorism operations, terrorism it attributed to Afghanistan, and welcomed the Makkah Joint Defence Agreement.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40442434/military-warns-against-may-9-like-unrest-vows-decisive-action"
+        }
+      ],
+      "timestamp": "Oct 3, 6:17 AM",
+      "publishedAt": "2026-10-03T06:17:52+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic measure, though unrest risk could indirectly affect activity."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "A military warning tied to an opposition march signals elevated tension between the state and a major party."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "The threat of force around a mass protest raises safety concerns for participants and the public."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Prospects of confrontation near the capital can unsettle markets in the short term."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "The excerpt attributes the warning to the military forum without adding its own framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on the RSS excerpt only, as the article page returned 403."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Nearly Rs800bn released to KP under 1% war-on-terror share since 2010-11, documents show",
+      "summary": "AI summary: Official documents cited by Geo News show Khyber Pakhtunkhwa has received about Rs799bn since 2010-11 through the extra 1% federal revenue share for terrorism-related losses under the 7th NFC Award, with yearly releases rising to Rs128bn in 2025-26 and an estimated Rs149bn for 2026-27. The report notes the money has no separate accounting head in the provincial budget, making its use hard to track.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/684805-kp-received-rs799359bn-under-war-on-terror-fund-since-2010-11-data-shows"
+        }
+      ],
+      "timestamp": "Oct 3, 4:13 AM",
+      "publishedAt": "2026-10-03T04:13:08+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Reports historical and planned transfers rather than a new fiscal decision."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Raises a transparency question but announces no change to federal-provincial arrangements."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Context on conflict funding; no new direct effect on residents."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Of limited interest to markets beyond fiscal-transfer watchers."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Document-based reporting that notes both the rationale for the funds and the tracking gap."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, single outlet relying on official documents."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Govt raises petrol price by Rs2.10 per litre, high-speed diesel by Re0.30 per litre",
+      "summary": "AI summary: The government raised petrol by Rs2.10 to Rs392.76 a litre and high-speed diesel by Re0.30 to Rs399.64 for October 3 to 5, keeping per-litre levies of about Rs114 on petrol and Rs100 on diesel. The move comes amid Middle East-linked price volatility, with austerity steps such as early market closures still in place.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2034287/govt-raises-petrol-price-by-rs210-per-litre-high-speed-diesel-by-re030-per-litre"
+        }
+      ],
+      "timestamp": "Oct 2, 11:12 PM",
+      "publishedAt": "2026-10-02T23:12:37+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Higher fuel prices feed into transport, freight and consumer costs."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A routine pricing decision with no institutional effect."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Adds to household transport costs, especially for motorcycle and car users on lower incomes."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Fuel pricing directly affects inflation expectations and business costs."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual reporting of the notification with background on prices and taxes."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read with specific official figures."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Govt warns officers of action over failure to declare dual nationality",
+      "summary": "AI summary: The Establishment Division has given officers in services including PAS and PSP one week to declare any foreign nationality, travel documents and related details for themselves and dependants, warning that non-compliance or false statements will count as misconduct. The push follows declaration forms circulated in July under 2026 civil service rules.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/684765-govt-warns-officers-of-action-over-failure-to-declare-dual-nationality"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40442449/civil-servants-directed-to-submit-foreign-nationality-declarations"
+        }
+      ],
+      "timestamp": "Oct 2, 9:36 PM",
+      "publishedAt": "2026-10-02T21:36:27+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "An administrative compliance measure with no economic effect."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "Enforcing disclosure by senior officials may strengthen accountability within the bureaucracy."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on the general public."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little relevance to markets or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Both outlets report the directive factually."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Two outlets carried matching details, one read in full."
+        }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "Newborn goes missing from Peshawar's Lady Reading Hospital",
+      "summary": "AI summary: A newborn went missing from Peshawar's Lady Reading Hospital, with the father alleging staff involvement after relatives were asked to leave the ward and police saying the mother handed the baby to a woman in a burqa and declined to lodge a complaint. The hospital says an inquiry is under way, and video seen by Geo shows a woman leaving with the infant.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/684760-newborn-goes-missing-from-peshawars-lady-reading-hospital"
+        }
+      ],
+      "timestamp": "Oct 2, 9:09 PM",
+      "publishedAt": "2026-10-02T21:09:57+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No economic implication."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A local incident with no bearing on governance stability."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Raises concerns about patient and infant safety in a major public hospital."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not relevant to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Presents the father's, police and hospital accounts side by side."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but accounts conflict and the facts are unsettled."
+        }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "More than six nations keen on joining Makkah defence pact: DPM Dar",
+      "summary": "AI summary: Deputy Prime Minister Ishaq Dar said several countries want to join the Makkah Joint Defence Agreement signed by Pakistan, Saudi Arabia and Turkey, and that its members will hold an emergency committee meeting in Riyadh following Houthi attacks on Saudi infrastructure. He said Pakistan is bound to defend Saudi Arabia, favoured political engagement over escalation in Yemen and argued against transit fees in the Strait of Hormuz.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/684747-more-than-six-nations-keen-on-joining-makkah-defence-pact-dpm-dar"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40442430/makkah-accord-members-to-hold-emergency-talks-dar"
+        }
+      ],
+      "timestamp": "Oct 2, 7:27 PM",
+      "publishedAt": "2026-10-02T19:27:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No immediate economic measure, though Gulf ties underpin remittances and energy supply."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A foreign and defence policy statement that does not alter domestic institutions."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Signals deeper military commitments abroad but no direct change to daily life yet."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Gulf security and Hormuz transit bear on oil prices and trade sentiment."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Both reports relay the minister's remarks without partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Two outlets agree on the core event but differ on the number of interested countries (six versus more than six), and one is an excerpt only."
+        }
+      }
+    }
+  ]
+}
