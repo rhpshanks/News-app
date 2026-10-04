@@ -1,0 +1,305 @@
+{
+  "generatedAt": "2026-10-04T15:01:27+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Yemen forces say struck Houthi targets in several areas",
+      "summary": "AI summary: Yemen's government forces say they hit Houthi positions in Sanaa, Saada and Taiz, while the Houthis claimed a missile and drone strike on a Saudi oil site near Riyadh, where an AFP reporter saw fire and smoke. The renewed civil war, reignited in July, has left heavy casualties around Taiz, and the WFP warns most Yemenis cannot meet basic food needs.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2034695/yemen-forces-say-struck-houthi-targets-in-several-areas"
+        }
+      ],
+      "timestamp": "Oct 4, 12:57 PM",
+      "publishedAt": "2026-10-04T12:57:50+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "A claimed strike on Saudi oil infrastructure raises oil supply and price risk for an importer like Pakistan."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A foreign conflict with no direct effect on Pakistan's own institutions."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Rising combat deaths and a severe food crisis harm civilians in the region."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Gulf energy disruption is relevant to oil prices and markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Both warring sides' claims are attributed, with no tilt toward either Pakistani camp."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single outlet, and battlefield claims from both sides are not independently verified."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Naqvi accuses KP govt of backing out of counterterrorism commitments",
+      "summary": "AI summary: Interior Minister Mohsin Naqvi says the PTI-led Khyber Pakhtunkhwa government agreed to counterterrorism pledges, including National Action Plan implementation and police reforms, then withdrew from them at the last stage of talks with the Centre. KP Chief Minister Sohail Afridi countered by publishing his own draft, saying none of its demands, which covered political dialogue and Imran Khan's detention conditions, were unconstitutional, leaving the talks deadlocked.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/684948-security-czar-says-kp-govt-backed-out-of-security-commitments-during-final-phase-of-talks"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40442593/kp-govt-backs-out-of-counterterrorism-commitments-during-talks-naqvi"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2034693/naqvi-accuses-kp-govt-of-backing-out-of-counterterrorism-commitments-during-centre-opposition-talks"
+        }
+      ],
+      "timestamp": "Oct 4, 12:24 PM",
+      "publishedAt": "2026-10-04T12:24:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct effect on prices, jobs or business is reported."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Collapse of Centre-province talks deepens confrontation between federal and KP governments."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Lack of agreed counterterrorism cooperation in KP weighs on public safety amid ongoing militancy."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Mainly a political dispute with limited immediate market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Coverage carries both Naqvi's allegations and Afridi's published rebuttal."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Reported by three outlets with matching core details, including the KP side's response."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "4 injured Pakistanis rescued from vessel hijacked in Somalia",
+      "summary": "AI summary: Four Pakistani sailors wounded when Somali forces retook the hijacked tanker MT Honour 25 flew from Addis Ababa to Karachi with the remains of three Pakistani crewmates killed in the operation, after about five months in pirate captivity. PM Shehbaz Sharif announced Rs12.5 million for each bereaved family; the two outlets differ on which Somali force led the rescue and how many pirates were arrested.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2034691/4-injured-pakistanis-rescued-from-vessel-hijacked-in-somalia-head-to-karachi-with-remains-of-3-colleagues"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/684939-four-injured-sailors-remains-of-three-others-somali-pirate-victims-head-to-karachi"
+        }
+      ],
+      "timestamp": "Oct 4, 11:38 AM",
+      "publishedAt": "2026-10-04T11:38:39+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Compensation is targeted at families and has no broad economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A consular and humanitarian matter with no effect on governance stability."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Three Pakistani sailors died and four were injured after months in captivity."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited relevance to investors beyond general maritime risk."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual reporting of the rescue and the government's relief package without partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Two outlets agree on the core facts but differ on the rescuing force and number of pirates arrested."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Security forces kill 8 terrorists in Dera Ismail Khan IBO",
+      "summary": "AI summary: Security sources cited by state media and Geo say eight militants, including three commanders of the group the state calls Fitna al-Khawarij, were killed in an intelligence-based operation in Dera Ismail Khan, with weapons and foreign currency reportedly recovered. The claims, which Geo's sources also describe as India-backed, come amid a reported surge of militant attacks in KP and have not been independently verified.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/684933-eight-india-backed-terrorists-killed-in-kps-di-khan-operation-security-sources"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40442586/8-terrorists-killed-in-di-khan-ibo-state-media"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2034697/security-forces-kill-8-terrorists-in-dera-ismail-khan-ibo-state-media"
+        }
+      ],
+      "timestamp": "Oct 4, 10:51 AM",
+      "publishedAt": "2026-10-04T10:51:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct effect on prices, jobs or business activity."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A routine security operation that does not change institutional stability."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Continued armed operations reflect ongoing insecurity in KP, whatever the stated outcome."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited direct market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Outlets attribute the claims to security sources and state media rather than asserting them."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Three outlets agree, but all rely on the same official sources with no independent confirmation."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "PTI long march to begin from Lakki Marwat today as Sanaullah draws line at Islamabad entry",
+      "summary": "AI summary: PTI's long march toward Islamabad was set to start from Lakki Marwat after talks with the federal government broke down, reportedly over KP's counterterrorism cooperation despite broad agreement on other points. PM's adviser Rana Sanaullah warned the march would not be let into Islamabad and that law enforcement would stop any disorder, while PTI leaders gave their own account of the deadlock.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/684923-sanaullah-draws-line-at-islamabad-entry-as-pti-march-gets-underway-leaves-talks-open"
+        }
+      ],
+      "timestamp": "Oct 4, 4:07 AM",
+      "publishedAt": "2026-10-04T04:07:23+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No economic impact is reported yet, though disruption is possible."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "A march meeting a vow to block Islamabad entry signals escalating political confrontation."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Risk of clashes and travel disruption for the public along the march route."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Political unrest near the capital can affect business sentiment."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "The piece quotes both government negotiators and PTI leaders."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but single outlet and events still unfolding."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "11 Indian-backed terrorists killed in Balochistan, KP",
+      "summary": "AI summary: Security forces are reported to have killed eleven militants, labelled by the state as belonging to Fitna al-Hindustan and Fitna al-Khawarij, in two operations: six in Mashkeel, Balochistan, and five in South Waziristan. The claims come from official sources and are not independently verified.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40442560/11-indian-backed-terrorists-killed-in-balochistan-kp"
+        }
+      ],
+      "timestamp": "Oct 4, 2:23 AM",
+      "publishedAt": "2026-10-04T02:23:01+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct effect on prices, jobs or business."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Ongoing security operations do not alter institutional stability."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Repeated armed operations reflect continued insecurity in Balochistan and KP."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited direct market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the official account without partisan framing between government and opposition."
+        },
+        "confidence": {
+          "value": "low",
+          "reason": "Based only on a short RSS excerpt of single-source official claims."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Spain, Punjab explore expanding ties in trade, culture",
+      "summary": "AI summary: Punjab CM Maryam Nawaz and Spain's ambassador discussed wider cooperation in trade, sport and culture, including a possible La Liga-linked football academy in Lahore and a Lahore-Barcelona sister city arrangement. The talks were exploratory, with no signed agreements reported.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40442539/spain-punjab-explore-expanding-ties-in-trade-culture"
+        }
+      ],
+      "timestamp": "Oct 4, 2:23 AM",
+      "publishedAt": "2026-10-04T02:23:01+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "Potential trade and sports investment links, though only at discussion stage."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine diplomatic engagement with no effect on governance stability."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Proposed cultural and sports projects are not yet confirmed."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Exploratory talks with no concrete deals for investors yet."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straightforward reporting of a meeting without evident partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on an RSS excerpt of a simple, low-controversy event."
+        }
+      }
+    }
+  ]
+}
