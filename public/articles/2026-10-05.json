@@ -1,0 +1,449 @@
+{
+  "generatedAt": "2026-10-05T09:20:30+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Islamabad march: PTI caravan led by CM Afridi reaches KP's Karak",
+      "summary": "AI summary: The PTI convoy headed for Islamabad, led by KP Chief Minister Sohail Afridi, has moved from Lakki Marwat into Karak district after talks with the federal government collapsed. A security official accused Afridi of sabotaging the negotiations, while PTI blames the Centre's push for unilateral anti-terror action in KP.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/685034-islamabad-march-pti-caravan-led-by-cm-afridi-reaches-kps-karak"
+        }
+      ],
+      "timestamp": "Oct 5, 9:02 AM",
+      "publishedAt": "2026-10-05T09:02:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Road blockades and convoy movement along the route are likely to disrupt transport and trade."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "An open standoff between a provincial government and the Centre strains governance."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Heavy security deployment and confrontation risk weigh on daily life along the route."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Political unrest is a recurring factor in investor sentiment."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Both the security official's accusation and PTI's explanation are reported."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single outlet on a fast-moving story."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Only 'just, fair' talks can end war, Iran tells US",
+      "summary": "AI summary: Iran's foreign minister said the conflict with the US has no military solution and can only end through fair negotiations, while the parliament speaker said the Strait of Hormuz stays shut until seven conditions tied to the Islamabad memorandum are met. Washington has reportedly rejected the proposal and continues its regional buildup, and Iran's oil minister has resigned under economic strain.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2034846/only-just-fair-talks-can-end-war-iran-tells-us"
+        }
+      ],
+      "timestamp": "Oct 5, 8:02 AM",
+      "publishedAt": "2026-10-05T08:02:37+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "A continued Hormuz closure keeps oil supply and prices under pressure for importers like Pakistan."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A foreign conflict with no direct effect on Pakistan's own institutions."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Prolonged war and blockade harm civilians and regional stability."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Hormuz access and oil sanctions directly drive energy markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Iranian positions and the reported US response are both attributed."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single outlet; several claims rest on official statements."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Major assault on Houthis as Riyadh moot begins",
+      "summary": "AI summary: Yemen's Saudi-backed government announced an offensive to retake Houthi-held territory, with more than 70 reported killed in a day of fighting around Taiz, per figures from both sides. The move coincides with a Riyadh meeting of Pakistan, Turkey and Saudi Arabia under the Makkah Defence Alliance on Houthi attacks.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2034854/major-assault-on-houthis-as-riyadh-moot-begins"
+        }
+      ],
+      "timestamp": "Oct 5, 7:43 AM",
+      "publishedAt": "2026-10-05T07:43:38+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Fighting near the Bab al-Mandab strait threatens Red Sea shipping and trade costs."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Pakistan's role is diplomatic and does not directly affect domestic institutions."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Heavy casualties and an escalating war worsen conditions for civilians."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Red Sea shipping risk is relevant to freight and energy markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Casualty figures from both warring sides are attributed."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single outlet; battlefield figures come from the parties themselves."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Train engine derails near Balochistan's Kuchlak",
+      "summary": "AI summary: The engine of the Jinnah Peoples Train came off the track while reversing near Kuchlak station, with no one hurt and a replacement engine letting the service continue after a short delay. Railway officials suggested a stolen fishplate, police pointed to poor track under maintenance, and an inquiry has been ordered.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2034857/train-engine-derails-near-balochistans-kuchlak"
+        }
+      ],
+      "timestamp": "Oct 5, 7:34 AM",
+      "publishedAt": "2026-10-05T07:34:34+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A brief service delay with no wider economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A routine operational incident under inquiry."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No casualties, though the disputed cause raises track safety questions."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little relevance to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Both the railway and police explanations are reported."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single outlet and the cause is still disputed."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Moscow consultation moot today",
+      "summary": "AI summary: The eighth round of the Moscow Format talks on Afghanistan is set to take place in Moscow, according to the Foreign Office. Pakistan is sending its special representative for Afghanistan, Mohammad Sadiq, along with its ambassador in Kabul.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40442668/moscow-consultation-moot-today"
+        }
+      ],
+      "timestamp": "Oct 5, 5:09 AM",
+      "publishedAt": "2026-10-05T05:09:06+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A diplomatic meeting with no immediate economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine regional diplomacy."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little near-term market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "A factual announcement based on an official statement."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on the RSS excerpt only."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Talal says JAAC protests mirrored PTI pattern",
+      "summary": "AI summary: Minister of State for Interior Talal Chaudhry claimed that protests by the banned Joint Action Committee followed the same pattern as PTI demonstrations. He also said security agencies had arrested three people accused of supplying weapons, allegedly from a neighbouring country, to the group.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40442635/talal-says-jaac-protests-mirrored-pti-pattern"
+        }
+      ],
+      "timestamp": "Oct 5, 5:09 AM",
+      "publishedAt": "2026-10-05T05:09:05+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic effect."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Linking an opposition party to a proscribed group's tactics deepens political confrontation."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Alleged arms supply to a banned group points to security risks."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "The excerpt attributes the claims to the minister; no rebuttal is visible in the available text."
+        },
+        "confidence": {
+          "value": "low",
+          "reason": "Based only on a short RSS excerpt of uncorroborated allegations."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Environmental protection: Pakistan, Türkiye explore avenues for cooperation",
+      "summary": "AI summary: Pakistani and Turkish officials discussed working together on environmental protection and climate action, with Türkiye's consul general praising Punjab's climate monitoring hub and anti-smog plan. Punjab's green school certification scheme is reported to reach about 7.6 million students in 26,000 schools.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40442613/environmental-protection-pakistan-turkiye-explore-avenues-for-cooperation"
+        }
+      ],
+      "timestamp": "Oct 5, 5:09 AM",
+      "publishedAt": "2026-10-05T05:09:04+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Exploratory talks with no immediate economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine bilateral engagement."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Climate and anti-smog efforts can benefit public health."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Descriptive coverage without partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on the RSS excerpt only."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "PTI 'explains' why talks with govt failed",
+      "summary": "AI summary: PTI Secretary General Salman Akram Raja said negotiations broke down because the federal team wanted the KP government to endorse actions the Centre had taken on its own. PTI's side objected to what it called blind operations and wanted local support behind counterterrorism policy.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40442611/pti-explains-why-talks-with-govt-failed"
+        }
+      ],
+      "timestamp": "Oct 5, 5:09 AM",
+      "publishedAt": "2026-10-05T05:09:04+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic effect."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Collapsed talks between the Centre and the opposition-run province prolong the standoff."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate effect on daily life described."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited direct market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "The piece presents PTI's account, clearly attributed as such."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on the RSS excerpt only."
+        }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "Major blaze at Karachi garment factory contained after four-hour firefighting",
+      "summary": "AI summary: Firefighters needed about four hours to control a large fire at a garment factory in Karachi's SITE area, which spread to a floor storing plastic and rubber materials; no casualties were reported. The city logged over 2,400 fires in 2025 with only 28 fire stations.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/685023-major-blaze-at-karachi-garment-factory-contained-after-four-hour-firefighting-effort"
+        }
+      ],
+      "timestamp": "Oct 5, 3:07 AM",
+      "publishedAt": "2026-10-05T03:07:57+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Damage to an industrial unit disrupts production and jobs."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A local incident with no governance effect."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Recurring industrial fires and thin fire coverage put workers at risk."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual reporting citing the chief fire officer."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single outlet, though details are officially sourced."
+        }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "Naqvi, Kundi mull governor's rule",
+      "summary": "AI summary: Interior Minister Mohsin Naqvi and KP Governor Faisal Karim Kundi met as PTI's march began, voicing concern that militants could slip through checkposts and saying the governor would play his constitutional part if the president and prime minister opt for governor's rule or an emergency. They accused the KP government of misusing state resources for the march, police were put on high alert, and a government source told Dawn an emergency was imminent.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/684997-kp-governor-agrees-to-play-constitutional-role-if-centre-deems-emergency-necessary"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2034861/naqvi-kundi-mull-governors-rule"
+        }
+      ],
+      "timestamp": "Oct 4, 7:48 PM",
+      "publishedAt": "2026-10-04T19:48:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "The prospect of emergency rule adds uncertainty for business in KP."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "A possible suspension of an elected provincial government signals serious institutional strain."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Heightened security alerts and unrest affect daily life in KP."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Political instability of this scale is relevant to investor sentiment."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Federal officials' claims are attributed, and PTI's account of the talks is included in the Geo report."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Two outlets report matching details of the meeting."
+        }
+      }
+    },
+    {
+      "id": 11,
+      "headline": "PTI begins Islamabad long march after talks breakdown",
+      "summary": "AI summary: PTI set off on its march toward Islamabad from Lakki Marwat under KP Chief Minister Sohail Afridi after three rounds of talks with the federal government and PPP failed. Former CM Ali Amin Gandapur turned back at a blocked toll plaza, and Interior Minister Naqvi warned anyone breaking the law would be prosecuted.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/684992-pti-begins-islamabad-long-march-after-talks-breakdown"
+        }
+      ],
+      "timestamp": "Oct 4, 6:44 PM",
+      "publishedAt": "2026-10-04T18:44:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Blocked roads and a multi-day march are likely to disrupt transport and commerce."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Failed talks and a march on the capital escalate the confrontation."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Heavy police deployment and blockades raise the risk of clashes."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Political unrest is a recurring factor in investor sentiment."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Statements from PTI and the interior minister are both included."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single outlet on a developing story."
+        }
+      }
+    }
+  ]
+}
