@@ -1,0 +1,413 @@
+{
+  "generatedAt": "2026-10-06T14:38:45+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "PM Shehbaz links fresh talks with PTI to end of Islamabad long march",
+      "summary": "AI summary: Prime Minister Shehbaz Sharif said the ruling coalition is open to a new round of negotiations with PTI, but only if the party calls off its long march, which had reached Kohat after three earlier rounds of talks broke down on Sunday. He warned that continued protests would hurt exports, manufacturing and economic recovery.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/685224-pm-shehbaz-links-fresh-talks-with-pti-to-end-of-islamabad-long-march"
+        }
+      ],
+      "timestamp": "Oct 6, 2:30 PM",
+      "publishedAt": "2026-10-06T14:30:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "The PM warns of export and manufacturing damage, but no measurable economic change is reported yet."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Talks remain stalled on a precondition while the opposition march continues toward the capital."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life is reported, though a prolonged march could cause disruption."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Investors watch political standoffs and the PM explicitly ties the protest to export performance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straight report of the PM's remarks with context on both sides blaming each other for the collapse of talks."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Based on the full Geo News article with clearly attributed statements."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Dar, UN chief Guterres discuss regional, global peace and security issues",
+      "summary": "AI summary: Deputy PM and Foreign Minister Ishaq Dar met UN Secretary-General António Guterres in Islamabad, covering Palestine, Kashmir, the Indus Waters Treaty, Afghanistan and counter-terrorism, and pointing to Pakistan's role in facilitating US-Iran talks. Guterres, on a three-day visit with further meetings planned with the president, PM and military leadership, praised Pakistan's UN contributions and mediation efforts.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40442885/dpm-dar-un-chief-discuss-regional-global-peace-and-security-issues"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2035126/dar-un-chief-guterres-discuss-regional-global-peace-and-security-issues"
+        }
+      ],
+      "timestamp": "Oct 6, 1:37 PM",
+      "publishedAt": "2026-10-06T13:37:23+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A diplomatic meeting with no direct economic announcements."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "A high-level UN visit and public recognition strengthen Pakistan's diplomatic standing."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate effect on public daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited direct relevance to markets or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Both outlets relay the Foreign Office readout without partisan framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Matching details reported independently by Dawn and Business Recorder."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "4 FBR officials, traffic policeman martyred in DI Khan attacks: police",
+      "summary": "AI summary: Gunmen killed four Federal Board of Revenue personnel and, in a separate attack on a police vehicle, a traffic policeman in Dera Ismail Khan, with one more officer injured, according to the district police chief. Police launched search operations as the attacks came after a September that a think tank counted as Pakistan's worst month for militant attacks in 12 years.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/685218-four-fbr-personnel-shot-dead-in-di-khan-police"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2035149/4-fbr-officials-traffic-policeman-martyred-in-di-khan-attacks-police"
+        }
+      ],
+      "timestamp": "Oct 6, 1:06 PM",
+      "publishedAt": "2026-10-06T13:06:38+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Targeting of tax officials threatens revenue collection and local business confidence; exams were also postponed."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Attacks on state personnel signal worsening security control in KP."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Five people killed and one injured, adding to fear and disruption in the district."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Localized security incident with limited direct market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual police-sourced reporting with no partisan framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Corroborated by Dawn and Geo with matching casualty figures from the same police official."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Pakistan, Turkiye supporting Saudi Arabia in anti-Houthi ops in Yemen: defence czar",
+      "summary": "AI summary: Defence Minister Khawaja Asif said Pakistani and Turkish forces are providing reconnaissance and other support to Saudi-led operations against the Houthis in Yemen, under a trilateral defence pact signed in August 2026. He claimed the Houthis have pulled back from areas they took last month and that the Yemeni government now holds the advantage.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/685213-pakistan-turkiye-supporting-saudi-arabia-in-anti-houthi-operations-in-yemen-defence-czar"
+        }
+      ],
+      "timestamp": "Oct 6, 1:03 PM",
+      "publishedAt": "2026-10-06T13:03:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct domestic economic effect is reported, though Gulf ties carry long-term economic weight."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A foreign military commitment that does not directly alter domestic governance stability."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate effect on daily life in Pakistan."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited near-term relevance to domestic markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the minister's account without promotional or critical framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Battlefield claims rest on a single official's statement and are not independently verified."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "PTI long march won't be allowed beyond Attock, warns Kundi",
+      "summary": "AI summary: KP Governor Faisal Karim Kundi said the PTI march for Imran Khan's release, led by CM Sohail Afridi, would be stopped at Attock and questioned the party's claimed turnout. He also raised concerns about infiltration risks and accused the provincial government of staying silent on terrorism, after government-opposition talks collapsed.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2035130/pti-long-march-wont-be-allowed-beyond-attock-warns-kundi"
+        }
+      ],
+      "timestamp": "Oct 6, 12:47 PM",
+      "publishedAt": "2026-10-06T12:47:12+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic measure, though a blocked march could disrupt highway traffic."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "A threat to halt the march escalates the federal-provincial confrontation after failed talks."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "A forced stop at Attock raises the risk of clashes and travel disruption."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Primarily political, with limited direct market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the governor's claims with background on why talks failed."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Based on the full Dawn article with clearly attributed quotes."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "India opposition leader Rahul Gandhi briefly detained during protest seeking election chief's resignation",
+      "summary": "AI summary: Indian police briefly held Congress leader Rahul Gandhi and other opposition MPs as they marched in New Delhi to demand Chief Election Commissioner Gyanesh Kumar's resignation over voter-roll revisions they say favour the BJP. The commission denies wrongdoing, and India's Supreme Court has agreed to hear petitions on the matter.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2035136/india-opposition-leader-rahul-gandhi-briefly-detained-during-protest-seeking-election-chiefs-resignation"
+        }
+      ],
+      "timestamp": "Oct 6, 12:29 PM",
+      "publishedAt": "2026-10-06T12:29:02+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No economic effect on Pakistan."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Foreign political dispute with no direct effect on Pakistan's institutions."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No effect on daily life in Pakistan."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not relevant to Pakistani markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Includes both the opposition's allegations and the commission's rebuttal."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full Dawn article with attributed claims and responses."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Five India-backed terrorists killed, two injured in North Waziristan: security sources",
+      "summary": "AI summary: Security sources said forces killed five militants and wounded two in an operation in North Waziristan, describing them as India-backed members of 'Fitna al-Khawarij', a claim the report does not independently support. The president and PM praised the forces, as the country faces its highest level of militant attacks in over a decade.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/685201-five-india-backed-terrorists-killed-two-injured-in-north-waziristan-security-sources"
+        }
+      ],
+      "timestamp": "Oct 6, 11:30 AM",
+      "publishedAt": "2026-10-06T11:30:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic effect reported."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine counter-terrorism operation that neither markedly strengthens nor weakens governance."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Continued armed clashes reflect ongoing insecurity for residents of the region."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Localized security operation with little market relevance."
+        },
+        "lean": {
+          "value": "pro-government",
+          "reason": "The headline adopts the security sources' 'India-backed' label without independent evidence or alternative accounts."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Relies solely on unnamed security sources whose claims cannot be verified."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "KP CM resumes PTI march, convoy moves towards Kohat",
+      "summary": "AI summary: KP Chief Minister Sohail Afridi restarted the PTI long march from Karak toward Kohat, calling for nationwide participation and saying the next steps would be announced in Swabi. He alleged large-scale federal corruption, criticised the impact of terrorism on his province and defended his stance against criticism from the establishment.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40442833/kp-cm-resumes-pti-march-convoy-moves-towards-kohat"
+        }
+      ],
+      "timestamp": "Oct 6, 6:36 AM",
+      "publishedAt": "2026-10-06T06:36:26+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic measure reported."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "An ongoing march amid federal-provincial confrontation deepens political instability."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No specific harm or disruption reported in the excerpt."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Primarily a political event."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the CM's speech as attributed claims without endorsing them."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based only on the RSS excerpt; the full article was not accessible (403)."
+        }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "Gohar says Governor's Rule in KP could trigger law and order situation",
+      "summary": "AI summary: PTI chairman Barrister Gohar Ali Khan said his party remains open to dialogue with the federal government but warned that imposing Governor's Rule or an emergency in KP would worsen law and order. He said PTI lawmakers across the national, Senate and provincial legislatures would boycott proceedings if such steps were taken.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40442793/gohar-says-governors-rule-in-kp-could-trigger-law-and-order-situation"
+        }
+      ],
+      "timestamp": "Oct 6, 6:14 AM",
+      "publishedAt": "2026-10-06T06:14:23+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic effect reported."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Talk of Governor's Rule and a legislative boycott signals a deepening constitutional standoff."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate effect on daily life reported."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited direct market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the PTI chairman's position as attributed statements."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based only on the RSS excerpt; the full article was not accessible (403)."
+        }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "Punjab CM wins 'UN-Habitat Scroll of Honour Award'",
+      "summary": "AI summary: Punjab Chief Minister Maryam Nawaz Sharif received a UN-Habitat Scroll of Honour in Muscat for the province's 'Apni Chhat, Apna Ghar' affordable housing scheme. Business Recorder reports it is the first time a Pakistani provincial housing project has won the honour and the country's first win since 2007.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40442830/punjab-cm-wins-un-habitat-scroll-of-honour-award"
+        }
+      ],
+      "timestamp": "Oct 6, 5:18 AM",
+      "publishedAt": "2026-10-06T05:18:33+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "International recognition of an affordable housing scheme that supports construction activity."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "An award with no direct effect on institutional stability."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Affordable housing schemes improve living conditions for beneficiaries."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited relevance to investors beyond the housing sector."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "A factual award report, though it carries no critical perspective."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based only on the RSS excerpt; the full article was not accessible (403)."
+        }
+      }
+    }
+  ]
+}
