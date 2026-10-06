@@ -1,0 +1,178 @@
+{
+  "generatedAt": "2026-10-07T01:15:00+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Petrol price up by Rs1.19 per litre, high-speed diesel's down by Rs1.91 in latest revision",
+      "summary": "AI summary: The Petroleum Division has nudged petrol up to Rs394.83 a litre while trimming high-speed diesel to Rs395.85, effective October 7, with taxes of roughly Rs114 and Rs100 per litre respectively still built into the prices.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2035208/petrol-price-up-by-rs119-per-litre-high-speed-diesels-down-by-rs191-in-latest-revision" }
+      ],
+      "timestamp": "Oct 6, 10:59 PM",
+      "publishedAt": "2026-10-06T22:59:31+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A small petrol rise is offset by a diesel cut, which matters more for freight and goods prices." },
+        "political": { "value": "neutral", "reason": "Routine fortnightly price revision with no governance implications." },
+        "social": { "value": "neutral", "reason": "Mixed, modest changes to household and transport fuel costs." },
+        "market": { "value": "high", "reason": "Fuel prices feed directly into inflation, transport and business costs." },
+        "lean": { "value": "balanced", "reason": "Straight factual report of an official notification with price history." },
+        "confidence": { "value": "high", "reason": "Full article citing the official notification with specific figures." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "President Zardari confers Nishan-e-Imtiaz on UN chief Guterres",
+      "summary": "AI summary: President Zardari presented UN Secretary-General Guterres with the Nishan-e-Imtiaz, reportedly the first time a UN chief has received it, while restating Pakistan's positions on Kashmir, Palestine, the Indus Waters Treaty and peacekeeping.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40442930/president-zardari-confers-nishan-e-imtiaz-on-un-chief-guterres" }
+      ],
+      "timestamp": "Oct 6, 10:40 PM",
+      "publishedAt": "2026-10-06T22:40:05+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Ceremonial diplomatic event with no direct economic measures." },
+        "political": { "value": "positive", "reason": "Signals strong ties with the UN and raises Pakistan's diplomatic profile." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily life." },
+        "market": { "value": "low", "reason": "Little relevance to investment or business decisions." },
+        "lean": { "value": "balanced", "reason": "Descriptive event report of an official ceremony, not partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on the RSS excerpt only; article page returned 403." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "PM Shehbaz says protests could hurt economic gains, urges PTI to withdraw long march call",
+      "summary": "AI summary: PM Shehbaz Sharif warned that marches and road blockades could undo recent gains in exports and remittances and asked PTI to call off its long march, while PTI's negotiators said talks stalled over access to Imran Khan and a provincial role in counterterrorism policy.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40442897/pm-shehbaz-says-protests-could-hurt-economic-gains-urges-pti-to-withdraw-long-march-call" }
+      ],
+      "timestamp": "Oct 6, 10:38 PM",
+      "publishedAt": "2026-10-06T22:38:55+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A warning about possible disruption, not an actual economic measure." },
+        "political": { "value": "negative", "reason": "Government-opposition talks have broken down while the march continues." },
+        "social": { "value": "neutral", "reason": "No direct immediate effect described beyond possible future disruption." },
+        "market": { "value": "medium", "reason": "Political unrest risk is relevant to business sentiment." },
+        "lean": { "value": "balanced", "reason": "Leads with the PM's view but also states PTI's unresolved demands." },
+        "confidence": { "value": "medium", "reason": "Based on the RSS excerpt only; article page returned 403." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Medical report reveals Imran Khan's anxiety level assessed at 'three-plus'",
+      "summary": "AI summary: A four-member, federally constituted medical board that examined jailed PTI founder Imran Khan at Adiala found normal heart test results but rated his anxiety at 'three-plus', recommending daily walks and more family contact and reading material.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/685314-medical-report-reveals-imran-khans-anxiety-level-assessed-at-three-plus" }
+      ],
+      "timestamp": "Oct 6, 10:12 PM",
+      "publishedAt": "2026-10-06T22:12:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No economic dimension." },
+        "political": { "value": "neutral", "reason": "Adds context to PTI's health concerns but changes no institutional position." },
+        "social": { "value": "neutral", "reason": "Concerns one individual's health, not wider public wellbeing." },
+        "market": { "value": "low", "reason": "Not relevant to business decisions." },
+        "lean": { "value": "balanced", "reason": "Reports the board's findings factually without taking sides." },
+        "confidence": { "value": "medium", "reason": "Single-source report; the examination itself appears to date from August." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Two FBR officials killed in firing incident in Dera Ismail Khan",
+      "summary": "AI summary: Unidentified gunmen attacked a Federal Board of Revenue enforcement squad at Qureshi Mor in Dera Ismail Khan, killing two personnel and escaping with their weapons, while a third officer survived and fired back.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40442926/two-fbr-officials-killed-in-firing-incident-in-dera-ismail-khan" }
+      ],
+      "timestamp": "Oct 6, 9:54 PM",
+      "publishedAt": "2026-10-06T21:54:54+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A localised attack; no direct effect on prices or activity reported." },
+        "political": { "value": "neutral", "reason": "A security incident without a reported shift in governance." },
+        "social": { "value": "negative", "reason": "Loss of life and ongoing insecurity for officials in southern KP." },
+        "market": { "value": "low", "reason": "Limited relevance to investors." },
+        "lean": { "value": "balanced", "reason": "Factual incident report with no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on the RSS excerpt only; article page not fetched due to prior 403s." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "PTI long march: CM Afridi-led convoy camps in Mattani for the night, heads to Khyber next",
+      "summary": "AI summary: KP Chief Minister Sohail Afridi's PTI convoy, demanding Imran Khan's release, stopped overnight at Mattani near Peshawar en route to Khyber and Khairabad, as the KP governor vowed it would not pass Attock and authorities imposed Section 144 and detained workers in Sindh.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2035130/pti-long-march-cm-afridi-led-convoy-camps-in-mattani-for-the-night-heads-to-khyber-next" }
+      ],
+      "timestamp": "Oct 6, 9:31 PM",
+      "publishedAt": "2026-10-06T21:31:18+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Road blockades and movement restrictions disrupt trade and travel." },
+        "political": { "value": "negative", "reason": "A provincial government is marching against the federal government after talks failed." },
+        "social": { "value": "negative", "reason": "Section 144, road closures and detentions affect daily life and civil liberties." },
+        "market": { "value": "medium", "reason": "Escalating unrest weighs on business sentiment." },
+        "lean": { "value": "balanced", "reason": "Quotes PTI, the KP governor, the interior ministry and the PM." },
+        "confidence": { "value": "high", "reason": "Full article with clearly attributed statements from several sides." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Pakistan successfully tests launch of extended-range Fatah-IV cruise missile: ISPR",
+      "summary": "AI summary: According to ISPR, Pakistan test-fired an extended-range version of its locally built Fatah-IV ground-launched cruise missile, which the military says has improved avionics and navigation for precise long-range strikes; the president, PM and army chief praised the team.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/685296-pakistan-conducts-successful-test-of-indigenous-fatah-4-cruise-missile" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40442922/pakistan-successfully-test-fires-extended-range-fatah-4-cruise-missile" },
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2035197/pakistan-successfully-tests-launch-of-extended-range-fatah-iv-cruise-missile-ispr" }
+      ],
+      "timestamp": "Oct 6, 8:12 PM",
+      "publishedAt": "2026-10-06T20:12:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A weapons test with no direct economic effect." },
+        "political": { "value": "neutral", "reason": "Routine defence milestone; no change to governance stability." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily life." },
+        "market": { "value": "low", "reason": "Little relevance to business decisions." },
+        "lean": { "value": "balanced", "reason": "All three outlets relay the ISPR statement; not a government-versus-opposition framing." },
+        "confidence": { "value": "medium", "reason": "Three outlets agree, but all rely on a single ISPR statement with no independent verification." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "UN chief lauds Pakistan's trusted mediatory role in US-Iran conflict",
+      "summary": "AI summary: Meeting Deputy PM and Foreign Minister Ishaq Dar in Islamabad, UN Secretary-General Guterres praised Pakistan's mediation in the US-Iran conflict, as the two also discussed terrorism from Afghan soil, Security Council reform, climate and Palestine.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/685267-un-chief-lauds-pakistans-trusted-mediatory-role-in-us-iran-conflict" }
+      ],
+      "timestamp": "Oct 6, 5:54 PM",
+      "publishedAt": "2026-10-06T17:54:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Diplomatic talks with no immediate economic measures." },
+        "political": { "value": "positive", "reason": "International endorsement strengthens Pakistan's diplomatic standing." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily life." },
+        "market": { "value": "low", "reason": "Limited direct relevance to markets." },
+        "lean": { "value": "balanced", "reason": "Reports statements from a joint press stakeout factually." },
+        "confidence": { "value": "high", "reason": "Full article with direct quotes attributed to APP and the Foreign Office." }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "PTI terms PM Shehbaz's dialogue offer 'merely symbolic'",
+      "summary": "AI summary: PTI leaders including Barrister Gohar Khan dismissed PM Shehbaz Sharif's conditional offer of talks as symbolic, saying the long march will go on until their demands, including access to Imran Khan, are settled.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/685263-pti-terms-pm-shehbazs-dialogue-offer-merely-symbolic" }
+      ],
+      "timestamp": "Oct 6, 5:36 PM",
+      "publishedAt": "2026-10-06T17:36:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct economic measure, though prolonged protest is a risk." },
+        "political": { "value": "negative", "reason": "Rejection of the dialogue offer deepens the government-opposition standoff." },
+        "social": { "value": "neutral", "reason": "No immediate effect on daily life described." },
+        "market": { "value": "low", "reason": "Mainly political statements with limited direct market bearing." },
+        "lean": { "value": "balanced", "reason": "Centres on PTI's view but also states the PM's offer and its conditions." },
+        "confidence": { "value": "high", "reason": "Full article with direct, attributed quotes." }
+      }
+    }
+  ]
+}
