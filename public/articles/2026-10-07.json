@@ -1,177 +1,772 @@
 {
-  "generatedAt": "2026-10-07T01:15:00+05:00",
+  "generatedAt": "2026-10-07T09:45:00+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "US Vice President Vance says Iran must cut enrichment to end war",
+      "summary": "AI summary: In a Reuters interview, JD Vance said Washington will only end the seven-month war with Iran if Tehran concretely reduces its uranium enrichment capacity, while admitting the US is unsure who now holds decision-making power in Iran; Iran's foreign ministry blamed mixed US messaging instead.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2035354/us-vice-president-vance-says-iran-must-cut-enrichment-to-end-war"
+        }
+      ],
+      "timestamp": "Oct 7, 9:01 AM",
+      "publishedAt": "2026-10-07T09:01:53+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "A prolonged war keeps pressure on global energy prices, which feeds into Pakistan's import bill and fuel costs."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A foreign policy statement with no direct effect on Pakistan's own institutions."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Hardening US demands suggest the war and its human toll will continue."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Oil and energy markets are directly sensitive to prospects for a US-Iran settlement."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports Vance's position alongside Iran's foreign ministry rebuttal."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Read from the full article; claims are attributed to a named on-record interview."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Heavy losses reported as Yemen fighting escalates",
+      "summary": "AI summary: More than 270 combatants were reported killed in a single day of Yemen fighting, according to figures from government and Houthi sources, as a government counter-offensive near the Bab al-Mandab strait intensified and the Houthis claimed strikes on Riyadh's airport and an Aramco refinery.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2035312/heavy-losses-reported-as-yemen-fighting-escalates"
+        }
+      ],
+      "timestamp": "Oct 7, 7:34 AM",
+      "publishedAt": "2026-10-07T07:34:21+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Fighting near a key energy shipping lane and claimed attacks on Saudi oil infrastructure threaten energy flows and prices."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Escalating conflict destabilises the region, and Pakistan has pledged troops to Saudi Arabia under a defence pact."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Heavy casualties and more than 184,000 people displaced, with Pakistani expatriates in Saudi Arabia also exposed."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Relevant to energy and shipping markets, though casualty reports alone are not a direct market event."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Casualty claims are sourced to both warring sides rather than one."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Casualty figures come from the combatants themselves and are not independently verified."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Power loom sector reels under imports, rising costs",
+      "summary": "AI summary: Around 40 percent of power loom units in the Faisalabad cluster have reportedly closed, leaving over 100,000 workers jobless, as operators blame cheap Chinese yarn and cloth imports, higher utility bills and taxes, and disrupted routes to Afghanistan; loom owners have asked the commerce minister for tighter import valuation checks.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2035310/power-loom-sector-reels-under-imports-rising-costs"
+        }
+      ],
+      "timestamp": "Oct 7, 7:22 AM",
+      "publishedAt": "2026-10-07T07:22:10+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Widespread closures and job losses in a major textile manufacturing hub."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "An industry appeal to the government, with no direct effect on governance stability."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "More than 100,000 reported job losses hit household incomes in Faisalabad and surrounding towns."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Directly relevant to textile manufacturers, importers, and trade policy decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Presents the industry's case; it neither praises nor attacks the government."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single outlet; closure and job-loss figures come from industry representatives, not official data."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "KP situation: President, PM agree to continue talks with opposition",
+      "summary": "AI summary: President Zardari and Prime Minister Shehbaz Sharif reportedly agreed to keep talking with opposition parties before taking any constitutional steps over the situation in Khyber Pakhtunkhwa, after government negotiators briefed senior PPP and PML-N leaders on the dialogue.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40443023/kp-situation-president-pm-agree-to-continue-talks-with-opposition"
+        }
+      ],
+      "timestamp": "Oct 7, 7:14 AM",
+      "publishedAt": "2026-10-07T07:14:25+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic measures announced."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Continued dialogue eases immediate escalation, but constitutional measures for KP remain under consideration."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate change for residents of Khyber Pakhtunkhwa."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited direct relevance to business decisions at this stage."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual account of a leadership meeting, without evident one-sided framing in the excerpt."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based only on the RSS excerpt; the full article returned 403."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "First end 'long march' then talk, PM tells PTI",
+      "summary": "AI summary: Prime Minister Shehbaz Sharif said the government will hold talks with PTI only after it ends its long march and sit-ins, warning that continued agitation endangers economic recovery, while also announcing a Rs1.4 billion Kashmir Chowk underpass project.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40443022/first-end-long-march-then-talk-pm-tells-pti"
+        }
+      ],
+      "timestamp": "Oct 7, 7:10 AM",
+      "publishedAt": "2026-10-07T07:10:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "The PM's warning about agitation is a claim, and the underpass is a small local project."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Dialogue is made conditional while the long march continues, prolonging the standoff."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Ongoing protests may disrupt daily life, partly offset by a traffic relief project."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "The PM explicitly ties protests to exports, manufacturing, and jobs."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the PM's statement; no clear one-sided framing can be judged from the excerpt."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based only on the RSS excerpt; the full article returned 403 and no PTI response is visible."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "FBR introduces rules for electronic scrutiny of taxpayers",
+      "summary": "AI summary: The FBR has proposed draft rules for an AI-assisted system that cross-checks individual tax returns against other data and notifies taxpayers of discrepancies through IRIS, giving them at least seven days to respond before any officer decides on legal action.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2035311/fbr-introduces-rules-for-electronic-scrutiny-of-taxpayers"
+        }
+      ],
+      "timestamp": "Oct 7, 7:01 AM",
+      "publishedAt": "2026-10-07T07:01:47+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "May improve tax compliance, but also adds scrutiny for filers; the net effect is not yet clear."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "An administrative rule change with no effect on governance stability."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Taxpayers get advance notice and a response window rather than immediate penalties."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Relevant to businesses and tax advisers managing return compliance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Procedural reporting of draft rules without favouring any side."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Read from the full article describing the draft rules in detail."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "PM pledges federal resources for AJK's development",
+      "summary": "AI summary: After swearing in four newly elected AJK Council members, Prime Minister Shehbaz Sharif promised federal support for Azad Kashmir's development, naming education, healthcare, and basic amenities as areas for cooperation.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40443042/pm-pledges-federal-resources-for-ajks-development"
+        }
+      ],
+      "timestamp": "Oct 7, 5:37 AM",
+      "publishedAt": "2026-10-07T05:37:01+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A general pledge without specific funding figures."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "Completion of the AJK Council oath-taking supports routine institutional functioning."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Promised services are not yet backed by concrete projects in the report."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little direct relevance to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Relays an official ceremony and statement without evident slant in the excerpt."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based only on the RSS excerpt."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "President for more practical, results-oriented partnership with ILO",
+      "summary": "AI summary: President Zardari called the ILO a strategic partner and asked for practical help on jobs, social protection, and labour standards, proposing a 'From Skills to Global Jobs' initiative and labour-migration corridors to the Gulf, Europe, and Asia.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40443002/president-for-more-practical-results-oriented-partnership-with-ilo"
+        }
+      ],
+      "timestamp": "Oct 7, 5:37 AM",
+      "publishedAt": "2026-10-07T05:37:01+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Proposals only; any employment effect depends on future implementation."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine diplomatic engagement."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Social protection and migration proposals have no immediate effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited relevance to investors or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straight relay of the President's remarks with no apparent slant."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based only on the RSS excerpt."
+        }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "Pakistan warns India against using water as 'instrument of coercion' at UN rights council",
+      "summary": "AI summary: At the UN Human Rights Council in Geneva, Pakistan accused India of weaponising shared water, and a resolution on the right to safe drinking water was adopted without a vote with Pakistan-backed language on transboundary cooperation retained despite India's attempt to remove it.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/685329-pakistan-warns-india-against-using-water-as-instrument-of-coercion-at-un-rights-council"
+        }
+      ],
+      "timestamp": "Oct 7, 12:31 AM",
+      "publishedAt": "2026-10-07T00:31:08+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A diplomatic statement with no immediate economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Ongoing diplomacy over the Indus Waters Treaty; no change to domestic stability."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate effect on water supply or daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited relevance to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports Pakistan's position and notes India's objection, without domestic partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single outlet; India's position is described but not quoted directly."
+        }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "India's bid to restrict Pakistan's water share carries 'serious security implications': Dar",
+      "summary": "AI summary: Speaking at a water symposium in Vienna, Ishaq Dar said India's suspension of the Indus Waters Treaty threatens regional peace, citing an August arbitration ruling that the treaty remains in force, which India has rejected, and called for dialogue and use of treaty mechanisms.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/685328-indias-bid-to-restrict-pakistans-water-share-carries-serious-implications-dar-warns"
+        }
+      ],
+      "timestamp": "Oct 7, 12:30 AM",
+      "publishedAt": "2026-10-07T00:30:52+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Highlights a long-term risk to water and agriculture, but announces no new measures."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A diplomatic statement; no direct effect on domestic institutions."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Water security concerns persist, but nothing changes immediately for the public."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited direct relevance to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Includes India's rejection of the arbitration ruling alongside Dar's remarks."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Read from the full article, which includes the counter-position and a specific legal ruling."
+        }
+      }
+    },
+    {
+      "id": 11,
       "headline": "Petrol price up by Rs1.19 per litre, high-speed diesel's down by Rs1.91 in latest revision",
       "summary": "AI summary: The Petroleum Division has nudged petrol up to Rs394.83 a litre while trimming high-speed diesel to Rs395.85, effective October 7, with taxes of roughly Rs114 and Rs100 per litre respectively still built into the prices.",
       "sources": [
-        { "name": "Dawn News", "url": "https://www.dawn.com/news/2035208/petrol-price-up-by-rs119-per-litre-high-speed-diesels-down-by-rs191-in-latest-revision" }
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2035208/petrol-price-up-by-rs119-per-litre-high-speed-diesels-down-by-rs191-in-latest-revision"
+        }
       ],
       "timestamp": "Oct 6, 10:59 PM",
       "publishedAt": "2026-10-06T22:59:31+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "A small petrol rise is offset by a diesel cut, which matters more for freight and goods prices." },
-        "political": { "value": "neutral", "reason": "Routine fortnightly price revision with no governance implications." },
-        "social": { "value": "neutral", "reason": "Mixed, modest changes to household and transport fuel costs." },
-        "market": { "value": "high", "reason": "Fuel prices feed directly into inflation, transport and business costs." },
-        "lean": { "value": "balanced", "reason": "Straight factual report of an official notification with price history." },
-        "confidence": { "value": "high", "reason": "Full article citing the official notification with specific figures." }
+        "economic": {
+          "value": "neutral",
+          "reason": "A small petrol rise is offset by a diesel cut, which matters more for freight and goods prices."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine fortnightly price revision with no governance implications."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Mixed, modest changes to household and transport fuel costs."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Fuel prices feed directly into inflation, transport and business costs."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straight factual report of an official notification with price history."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article citing the official notification with specific figures."
+        }
       }
     },
     {
-      "id": 2,
+      "id": 12,
       "headline": "President Zardari confers Nishan-e-Imtiaz on UN chief Guterres",
       "summary": "AI summary: President Zardari presented UN Secretary-General Guterres with the Nishan-e-Imtiaz, reportedly the first time a UN chief has received it, while restating Pakistan's positions on Kashmir, Palestine, the Indus Waters Treaty and peacekeeping.",
       "sources": [
-        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40442930/president-zardari-confers-nishan-e-imtiaz-on-un-chief-guterres" }
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40442930/president-zardari-confers-nishan-e-imtiaz-on-un-chief-guterres"
+        }
       ],
       "timestamp": "Oct 6, 10:40 PM",
       "publishedAt": "2026-10-06T22:40:05+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "Ceremonial diplomatic event with no direct economic measures." },
-        "political": { "value": "positive", "reason": "Signals strong ties with the UN and raises Pakistan's diplomatic profile." },
-        "social": { "value": "neutral", "reason": "No direct effect on daily life." },
-        "market": { "value": "low", "reason": "Little relevance to investment or business decisions." },
-        "lean": { "value": "balanced", "reason": "Descriptive event report of an official ceremony, not partisan framing." },
-        "confidence": { "value": "medium", "reason": "Based on the RSS excerpt only; article page returned 403." }
+        "economic": {
+          "value": "neutral",
+          "reason": "Ceremonial diplomatic event with no direct economic measures."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "Signals strong ties with the UN and raises Pakistan's diplomatic profile."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little relevance to investment or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Descriptive event report of an official ceremony, not partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on the RSS excerpt only; article page returned 403."
+        }
       }
     },
     {
-      "id": 3,
+      "id": 13,
       "headline": "PM Shehbaz says protests could hurt economic gains, urges PTI to withdraw long march call",
       "summary": "AI summary: PM Shehbaz Sharif warned that marches and road blockades could undo recent gains in exports and remittances and asked PTI to call off its long march, while PTI's negotiators said talks stalled over access to Imran Khan and a provincial role in counterterrorism policy.",
       "sources": [
-        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40442897/pm-shehbaz-says-protests-could-hurt-economic-gains-urges-pti-to-withdraw-long-march-call" }
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40442897/pm-shehbaz-says-protests-could-hurt-economic-gains-urges-pti-to-withdraw-long-march-call"
+        }
       ],
       "timestamp": "Oct 6, 10:38 PM",
       "publishedAt": "2026-10-06T22:38:55+05:00",
       "flaggedForReview": true,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "A warning about possible disruption, not an actual economic measure." },
-        "political": { "value": "negative", "reason": "Government-opposition talks have broken down while the march continues." },
-        "social": { "value": "neutral", "reason": "No direct immediate effect described beyond possible future disruption." },
-        "market": { "value": "medium", "reason": "Political unrest risk is relevant to business sentiment." },
-        "lean": { "value": "balanced", "reason": "Leads with the PM's view but also states PTI's unresolved demands." },
-        "confidence": { "value": "medium", "reason": "Based on the RSS excerpt only; article page returned 403." }
+        "economic": {
+          "value": "neutral",
+          "reason": "A warning about possible disruption, not an actual economic measure."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Government-opposition talks have broken down while the march continues."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct immediate effect described beyond possible future disruption."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Political unrest risk is relevant to business sentiment."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Leads with the PM's view but also states PTI's unresolved demands."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on the RSS excerpt only; article page returned 403."
+        }
       }
     },
     {
-      "id": 4,
+      "id": 14,
       "headline": "Medical report reveals Imran Khan's anxiety level assessed at 'three-plus'",
       "summary": "AI summary: A four-member, federally constituted medical board that examined jailed PTI founder Imran Khan at Adiala found normal heart test results but rated his anxiety at 'three-plus', recommending daily walks and more family contact and reading material.",
       "sources": [
-        { "name": "Geo News", "url": "https://www.geo.tv/latest/685314-medical-report-reveals-imran-khans-anxiety-level-assessed-at-three-plus" }
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/685314-medical-report-reveals-imran-khans-anxiety-level-assessed-at-three-plus"
+        }
       ],
       "timestamp": "Oct 6, 10:12 PM",
       "publishedAt": "2026-10-06T22:12:00+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "No economic dimension." },
-        "political": { "value": "neutral", "reason": "Adds context to PTI's health concerns but changes no institutional position." },
-        "social": { "value": "neutral", "reason": "Concerns one individual's health, not wider public wellbeing." },
-        "market": { "value": "low", "reason": "Not relevant to business decisions." },
-        "lean": { "value": "balanced", "reason": "Reports the board's findings factually without taking sides." },
-        "confidence": { "value": "medium", "reason": "Single-source report; the examination itself appears to date from August." }
+        "economic": {
+          "value": "neutral",
+          "reason": "No economic dimension."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Adds context to PTI's health concerns but changes no institutional position."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Concerns one individual's health, not wider public wellbeing."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not relevant to business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the board's findings factually without taking sides."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single-source report; the examination itself appears to date from August."
+        }
       }
     },
     {
-      "id": 5,
+      "id": 15,
       "headline": "Two FBR officials killed in firing incident in Dera Ismail Khan",
       "summary": "AI summary: Unidentified gunmen attacked a Federal Board of Revenue enforcement squad at Qureshi Mor in Dera Ismail Khan, killing two personnel and escaping with their weapons, while a third officer survived and fired back.",
       "sources": [
-        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40442926/two-fbr-officials-killed-in-firing-incident-in-dera-ismail-khan" }
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40442926/two-fbr-officials-killed-in-firing-incident-in-dera-ismail-khan"
+        }
       ],
       "timestamp": "Oct 6, 9:54 PM",
       "publishedAt": "2026-10-06T21:54:54+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "A localised attack; no direct effect on prices or activity reported." },
-        "political": { "value": "neutral", "reason": "A security incident without a reported shift in governance." },
-        "social": { "value": "negative", "reason": "Loss of life and ongoing insecurity for officials in southern KP." },
-        "market": { "value": "low", "reason": "Limited relevance to investors." },
-        "lean": { "value": "balanced", "reason": "Factual incident report with no partisan framing." },
-        "confidence": { "value": "medium", "reason": "Based on the RSS excerpt only; article page not fetched due to prior 403s." }
+        "economic": {
+          "value": "neutral",
+          "reason": "A localised attack; no direct effect on prices or activity reported."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A security incident without a reported shift in governance."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Loss of life and ongoing insecurity for officials in southern KP."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited relevance to investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual incident report with no partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on the RSS excerpt only; article page not fetched due to prior 403s."
+        }
       }
     },
     {
-      "id": 6,
+      "id": 16,
       "headline": "PTI long march: CM Afridi-led convoy camps in Mattani for the night, heads to Khyber next",
       "summary": "AI summary: KP Chief Minister Sohail Afridi's PTI convoy, demanding Imran Khan's release, stopped overnight at Mattani near Peshawar en route to Khyber and Khairabad, as the KP governor vowed it would not pass Attock and authorities imposed Section 144 and detained workers in Sindh.",
       "sources": [
-        { "name": "Dawn News", "url": "https://www.dawn.com/news/2035130/pti-long-march-cm-afridi-led-convoy-camps-in-mattani-for-the-night-heads-to-khyber-next" }
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2035130/pti-long-march-cm-afridi-led-convoy-camps-in-mattani-for-the-night-heads-to-khyber-next"
+        }
       ],
       "timestamp": "Oct 6, 9:31 PM",
       "publishedAt": "2026-10-06T21:31:18+05:00",
       "flaggedForReview": true,
       "indicators": {
-        "economic": { "value": "negative", "reason": "Road blockades and movement restrictions disrupt trade and travel." },
-        "political": { "value": "negative", "reason": "A provincial government is marching against the federal government after talks failed." },
-        "social": { "value": "negative", "reason": "Section 144, road closures and detentions affect daily life and civil liberties." },
-        "market": { "value": "medium", "reason": "Escalating unrest weighs on business sentiment." },
-        "lean": { "value": "balanced", "reason": "Quotes PTI, the KP governor, the interior ministry and the PM." },
-        "confidence": { "value": "high", "reason": "Full article with clearly attributed statements from several sides." }
+        "economic": {
+          "value": "negative",
+          "reason": "Road blockades and movement restrictions disrupt trade and travel."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "A provincial government is marching against the federal government after talks failed."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Section 144, road closures and detentions affect daily life and civil liberties."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Escalating unrest weighs on business sentiment."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Quotes PTI, the KP governor, the interior ministry and the PM."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article with clearly attributed statements from several sides."
+        }
       }
     },
     {
-      "id": 7,
+      "id": 17,
       "headline": "Pakistan successfully tests launch of extended-range Fatah-IV cruise missile: ISPR",
       "summary": "AI summary: According to ISPR, Pakistan test-fired an extended-range version of its locally built Fatah-IV ground-launched cruise missile, which the military says has improved avionics and navigation for precise long-range strikes; the president, PM and army chief praised the team.",
       "sources": [
-        { "name": "Geo News", "url": "https://www.geo.tv/latest/685296-pakistan-conducts-successful-test-of-indigenous-fatah-4-cruise-missile" },
-        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40442922/pakistan-successfully-test-fires-extended-range-fatah-4-cruise-missile" },
-        { "name": "Dawn News", "url": "https://www.dawn.com/news/2035197/pakistan-successfully-tests-launch-of-extended-range-fatah-iv-cruise-missile-ispr" }
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/685296-pakistan-conducts-successful-test-of-indigenous-fatah-4-cruise-missile"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40442922/pakistan-successfully-test-fires-extended-range-fatah-4-cruise-missile"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2035197/pakistan-successfully-tests-launch-of-extended-range-fatah-iv-cruise-missile-ispr"
+        }
       ],
       "timestamp": "Oct 6, 8:12 PM",
       "publishedAt": "2026-10-06T20:12:00+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "A weapons test with no direct economic effect." },
-        "political": { "value": "neutral", "reason": "Routine defence milestone; no change to governance stability." },
-        "social": { "value": "neutral", "reason": "No direct effect on daily life." },
-        "market": { "value": "low", "reason": "Little relevance to business decisions." },
-        "lean": { "value": "balanced", "reason": "All three outlets relay the ISPR statement; not a government-versus-opposition framing." },
-        "confidence": { "value": "medium", "reason": "Three outlets agree, but all rely on a single ISPR statement with no independent verification." }
+        "economic": {
+          "value": "neutral",
+          "reason": "A weapons test with no direct economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine defence milestone; no change to governance stability."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little relevance to business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "All three outlets relay the ISPR statement; not a government-versus-opposition framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Three outlets agree, but all rely on a single ISPR statement with no independent verification."
+        }
       }
     },
     {
-      "id": 8,
+      "id": 18,
       "headline": "UN chief lauds Pakistan's trusted mediatory role in US-Iran conflict",
       "summary": "AI summary: Meeting Deputy PM and Foreign Minister Ishaq Dar in Islamabad, UN Secretary-General Guterres praised Pakistan's mediation in the US-Iran conflict, as the two also discussed terrorism from Afghan soil, Security Council reform, climate and Palestine.",
       "sources": [
-        { "name": "Geo News", "url": "https://www.geo.tv/latest/685267-un-chief-lauds-pakistans-trusted-mediatory-role-in-us-iran-conflict" }
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/685267-un-chief-lauds-pakistans-trusted-mediatory-role-in-us-iran-conflict"
+        }
       ],
       "timestamp": "Oct 6, 5:54 PM",
       "publishedAt": "2026-10-06T17:54:00+05:00",
       "flaggedForReview": false,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "Diplomatic talks with no immediate economic measures." },
-        "political": { "value": "positive", "reason": "International endorsement strengthens Pakistan's diplomatic standing." },
-        "social": { "value": "neutral", "reason": "No direct effect on daily life." },
-        "market": { "value": "low", "reason": "Limited direct relevance to markets." },
-        "lean": { "value": "balanced", "reason": "Reports statements from a joint press stakeout factually." },
-        "confidence": { "value": "high", "reason": "Full article with direct quotes attributed to APP and the Foreign Office." }
+        "economic": {
+          "value": "neutral",
+          "reason": "Diplomatic talks with no immediate economic measures."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "International endorsement strengthens Pakistan's diplomatic standing."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited direct relevance to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports statements from a joint press stakeout factually."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article with direct quotes attributed to APP and the Foreign Office."
+        }
       }
     },
     {
-      "id": 9,
+      "id": 19,
       "headline": "PTI terms PM Shehbaz's dialogue offer 'merely symbolic'",
       "summary": "AI summary: PTI leaders including Barrister Gohar Khan dismissed PM Shehbaz Sharif's conditional offer of talks as symbolic, saying the long march will go on until their demands, including access to Imran Khan, are settled.",
       "sources": [
-        { "name": "Geo News", "url": "https://www.geo.tv/latest/685263-pti-terms-pm-shehbazs-dialogue-offer-merely-symbolic" }
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/685263-pti-terms-pm-shehbazs-dialogue-offer-merely-symbolic"
+        }
       ],
       "timestamp": "Oct 6, 5:36 PM",
       "publishedAt": "2026-10-06T17:36:00+05:00",
       "flaggedForReview": true,
       "indicators": {
-        "economic": { "value": "neutral", "reason": "No direct economic measure, though prolonged protest is a risk." },
-        "political": { "value": "negative", "reason": "Rejection of the dialogue offer deepens the government-opposition standoff." },
-        "social": { "value": "neutral", "reason": "No immediate effect on daily life described." },
-        "market": { "value": "low", "reason": "Mainly political statements with limited direct market bearing." },
-        "lean": { "value": "balanced", "reason": "Centres on PTI's view but also states the PM's offer and its conditions." },
-        "confidence": { "value": "high", "reason": "Full article with direct, attributed quotes." }
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic measure, though prolonged protest is a risk."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Rejection of the dialogue offer deepens the government-opposition standoff."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate effect on daily life described."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Mainly political statements with limited direct market bearing."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Centres on PTI's view but also states the PM's offer and its conditions."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article with direct, attributed quotes."
+        }
       }
     }
   ]
