@@ -1,8 +1,344 @@
 {
-  "generatedAt": "2026-10-07T09:45:00+05:00",
+  "generatedAt": "2026-10-07T23:33:25+05:00",
   "articles": [
     {
       "id": 1,
+      "headline": "Emergency, governor's rule would 'definitely' be imposed if deemed necessary to 'save' KP: Kundi",
+      "summary": "AI summary: KP Governor Faisal Karim Kundi said in a TV appearance that emergency or governor's rule would be imposed in the province if the president and prime minister judged it necessary to restore peace amid terrorism, citing a past Balochistan precedent.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2035457/emergency-governors-rule-would-definitely-be-imposed-if-deemed-necessary-to-save-kp-kundi"
+        }
+      ],
+      "timestamp": "Oct 7, 11:24 PM",
+      "publishedAt": "2026-10-07T23:24:50+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic measure announced."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Open talk of suspending an elected provincial government signals a deepening federal-provincial confrontation."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Remarks are framed around an unresolved terrorism and law-and-order problem in KP."
+        },
+        "market": {
+          "value": "low",
+          "reason": "A political statement with no immediate market trigger."
+        },
+        "lean": {
+          "value": "pro-government",
+          "reason": "The piece carries only the governor's position, with no response from the KP government or PTI."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single outlet, but full article read; it reports a stated position, not an action taken."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Govt raises petrol price by Rs1.82 per litre, reduces high-speed diesel rate by Re0.91",
+      "summary": "AI summary: From October 8, petrol rises Rs1.82 to Rs396.65 per litre while high-speed diesel falls Re0.91 to Rs394.94, with taxes held at about Rs114 and Rs100 per litre respectively; prices remain well below April's war-driven peaks.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2035445/govt-raises-petrol-price-by-rs182-per-litre-reduces-high-speed-diesel-rate-by-re091"
+        }
+      ],
+      "timestamp": "Oct 7, 10:53 PM",
+      "publishedAt": "2026-10-07T22:53:18+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Petrol up slightly while diesel, key for freight and farming, eases, so the net cost effect is mixed."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A routine pricing revision under the existing mechanism."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Small petrol increase for commuters offset by a diesel cut that can ease transport costs."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Fuel prices feed directly into inflation expectations and business costs."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straight reporting of official figures with historical context."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Official price notification reported with specific figures in the full article."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "DG ISPR says Pakistani troops present in Saudi Arabia 'for decades' across multiple domains",
+      "summary": "AI summary: The ISPR director general told CNN that Pakistani troops have long been stationed in Saudi Arabia in multiple capacities, after Pakistan, Saudi Arabia and Türkiye agreed in Riyadh to rapidly deploy forces under their Makkah Joint Defence Agreement; Defence Minister Khawaja Asif said only Saudi troops are fighting the Houthis, with Pakistan in supportive roles such as reconnaissance.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/685475-pakistani-troops-already-in-saudi-arabia-across-multiple-domains-dg-ispr"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2035448/dg-ispr-says-pakistani-troops-present-in-saudi-arabia-for-decades-across-multiple-domains"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40443119/pakistani-forces-already-stationed-in-saudi-arabia-says-dg-ispr"
+        }
+      ],
+      "timestamp": "Oct 7, 8:33 PM",
+      "publishedAt": "2026-10-07T20:33:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No immediate economic measure, though Gulf ties matter for remittances and financing."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Clarifies existing military posture rather than changing domestic governance."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Pakistani role is described by officials as supportive, not combat, but deeper regional involvement carries risk."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Regional security commitments in the Gulf are relevant to investors watching Middle East exposure."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "All three outlets attribute the claims to ISPR and the defence minister without editorial framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Three independent outlets report matching details from the same official statements."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Enough is enough: KP cannot be left to 'Taliban allies', says defence minister",
+      "summary": "AI summary: Defence Minister Khawaja Asif demanded decisive action on Khyber Pakhtunkhwa's security, accusing the PTI-led provincial government of ignoring terrorism, prioritising its long march and failing to respond to the October 6 Dera Ismail Khan attack that killed five, including two customs officials.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40443111/enough-is-enough-kp-cannot-be-left-to-taliban-allies-says-defence-minister"
+        }
+      ],
+      "timestamp": "Oct 7, 7:47 PM",
+      "publishedAt": "2026-10-07T19:47:26+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No economic measure involved."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "A federal minister alleging collusion between a provincial government and militants escalates the centre-province standoff."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Statement follows a deadly attack and points to continuing insecurity in KP."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Political rhetoric with no direct market trigger."
+        },
+        "lean": {
+          "value": "pro-government",
+          "reason": "The excerpt carries only the minister's allegations, with no reply from the KP government or PTI."
+        },
+        "confidence": {
+          "value": "low",
+          "reason": "Article page returned 403; worked only from the RSS excerpt, and the allegations are unverified."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Three more crew members of hijacked tanker arrive in Karachi",
+      "summary": "AI summary: Three more crew of the tanker MT Honour 25, seized by Somali pirates in April and freed by Puntland forces in September, returned to Karachi; five crew, including three Pakistanis, were killed before the rescue, and earlier survivors and remains had already been repatriated.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/685459-three-more-crew-members-of-hijacked-tanker-arrive-in-karachi"
+        }
+      ],
+      "timestamp": "Oct 7, 7:27 PM",
+      "publishedAt": "2026-10-07T19:27:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No meaningful economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Consular repatriation with no governance implication."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Surviving crew are reunited with families after a months-long ordeal, though lives were lost earlier."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Of little relevance to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual reporting of the return and background."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single outlet, but full article read with specific names and dates."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Govt again offers talks to PTI, says demands cannot be met by holding state hostage",
+      "summary": "AI summary: Adviser Rana Sanaullah renewed the government's offer of talks as PTI's long march entered its fourth day, saying demands cannot be won through pressure and accusing the party of using KP resources; the report notes earlier talks stalled over a government demand that KP take on counter-terrorism responsibility, as cited by PTI's Salman Akram Raja.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/685456-govt-again-offers-talks-to-pti-says-demands-cannot-be-met-by-holding-state-hostage"
+        }
+      ],
+      "timestamp": "Oct 7, 6:50 PM",
+      "publishedAt": "2026-10-07T18:50:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic step, though prolonged protest can weigh on activity."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Talks remain deadlocked while the long march continues toward the capital."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No specific disruption or harm described in the report."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Prolonged political standoff is a recognised risk factor for markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Mostly the government's view, but includes PTI's stated reason for the deadlock."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single outlet, full article read; positions are attributed claims."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "KP CM calls governor's meeting with senior officials 'unconstitutional', seeks legal opinion",
+      "summary": "AI summary: KP Chief Minister Sohail Afridi called the governor's summoning of the chief secretary and police chief to a security meeting unconstitutional and said he will seek legal advice, stressing his government's two-thirds majority; Governor Kundi had argued the province cannot afford complacency on terrorism.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40443108/kp-cm-calls-governors-meeting-with-senior-officials-unconstitutional-seeks-legal-opinion"
+        }
+      ],
+      "timestamp": "Oct 7, 6:13 PM",
+      "publishedAt": "2026-10-07T18:13:09+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No economic measure involved."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "An open constitutional dispute between the governor and elected chief minister adds to KP's instability."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Concerns governance of security rather than a specific incident affecting residents."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Provincial dispute with no direct market trigger."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Presents both the chief minister's objection and the governor's rationale."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Article page returned 403; worked from a detailed RSS excerpt covering both sides."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "In meeting with UN chief, CDF Munir reaffirms Pakistan's commitment to int'l peace",
+      "summary": "AI summary: UN Secretary-General Antonio Guterres met Field Marshal Asim Munir at GHQ, where ISPR said they discussed regional security, Kashmir, India's suspension of the Indus Waters Treaty and terrorism from Afghanistan; Guterres later met PM Shehbaz Sharif, who highlighted Pakistan's US-Iran mediation, and was conferred the Nishan-i-Imtiaz.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/685454-in-meeting-with-un-chief-cdf-munir-reaffirms-pakistans-commitment-to-intl-peace"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40443109/un-chief-meets-pm-sharif-field-marshal-munir-discusses-international-peace-efforts"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2035418/cdf-munir-reaffirms-pakistans-commitment-to-international-peace-in-meeting-with-un-chief"
+        }
+      ],
+      "timestamp": "Oct 7, 6:08 PM",
+      "publishedAt": "2026-10-07T18:08:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No economic commitments reported."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "High-level UN engagement supports Pakistan's diplomatic standing."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Diplomatic meeting with little immediate market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Outlets attribute the account to ISPR and official readouts rather than asserting it themselves."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Three outlets report matching details of the same meetings."
+        }
+      }
+    },
+    {
+      "id": 9,
       "headline": "US Vice President Vance says Iran must cut enrichment to end war",
       "summary": "AI summary: In a Reuters interview, JD Vance said Washington will only end the seven-month war with Iran if Tehran concretely reduces its uranium enrichment capacity, while admitting the US is unsure who now holds decision-making power in Iran; Iran's foreign ministry blamed mixed US messaging instead.",
       "sources": [
@@ -42,7 +378,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 10,
       "headline": "Heavy losses reported as Yemen fighting escalates",
       "summary": "AI summary: More than 270 combatants were reported killed in a single day of Yemen fighting, according to figures from government and Houthi sources, as a government counter-offensive near the Bab al-Mandab strait intensified and the Houthis claimed strikes on Riyadh's airport and an Aramco refinery.",
       "sources": [
@@ -82,7 +418,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 11,
       "headline": "Power loom sector reels under imports, rising costs",
       "summary": "AI summary: Around 40 percent of power loom units in the Faisalabad cluster have reportedly closed, leaving over 100,000 workers jobless, as operators blame cheap Chinese yarn and cloth imports, higher utility bills and taxes, and disrupted routes to Afghanistan; loom owners have asked the commerce minister for tighter import valuation checks.",
       "sources": [
@@ -122,7 +458,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 12,
       "headline": "KP situation: President, PM agree to continue talks with opposition",
       "summary": "AI summary: President Zardari and Prime Minister Shehbaz Sharif reportedly agreed to keep talking with opposition parties before taking any constitutional steps over the situation in Khyber Pakhtunkhwa, after government negotiators briefed senior PPP and PML-N leaders on the dialogue.",
       "sources": [
@@ -162,7 +498,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 13,
       "headline": "First end 'long march' then talk, PM tells PTI",
       "summary": "AI summary: Prime Minister Shehbaz Sharif said the government will hold talks with PTI only after it ends its long march and sit-ins, warning that continued agitation endangers economic recovery, while also announcing a Rs1.4 billion Kashmir Chowk underpass project.",
       "sources": [
@@ -202,7 +538,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 14,
       "headline": "FBR introduces rules for electronic scrutiny of taxpayers",
       "summary": "AI summary: The FBR has proposed draft rules for an AI-assisted system that cross-checks individual tax returns against other data and notifies taxpayers of discrepancies through IRIS, giving them at least seven days to respond before any officer decides on legal action.",
       "sources": [
@@ -242,7 +578,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 15,
       "headline": "PM pledges federal resources for AJK's development",
       "summary": "AI summary: After swearing in four newly elected AJK Council members, Prime Minister Shehbaz Sharif promised federal support for Azad Kashmir's development, naming education, healthcare, and basic amenities as areas for cooperation.",
       "sources": [
@@ -282,7 +618,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 16,
       "headline": "President for more practical, results-oriented partnership with ILO",
       "summary": "AI summary: President Zardari called the ILO a strategic partner and asked for practical help on jobs, social protection, and labour standards, proposing a 'From Skills to Global Jobs' initiative and labour-migration corridors to the Gulf, Europe, and Asia.",
       "sources": [
@@ -322,7 +658,7 @@
       }
     },
     {
-      "id": 9,
+      "id": 17,
       "headline": "Pakistan warns India against using water as 'instrument of coercion' at UN rights council",
       "summary": "AI summary: At the UN Human Rights Council in Geneva, Pakistan accused India of weaponising shared water, and a resolution on the right to safe drinking water was adopted without a vote with Pakistan-backed language on transboundary cooperation retained despite India's attempt to remove it.",
       "sources": [
@@ -362,7 +698,7 @@
       }
     },
     {
-      "id": 10,
+      "id": 18,
       "headline": "India's bid to restrict Pakistan's water share carries 'serious security implications': Dar",
       "summary": "AI summary: Speaking at a water symposium in Vienna, Ishaq Dar said India's suspension of the Indus Waters Treaty threatens regional peace, citing an August arbitration ruling that the treaty remains in force, which India has rejected, and called for dialogue and use of treaty mechanisms.",
       "sources": [
@@ -402,7 +738,7 @@
       }
     },
     {
-      "id": 11,
+      "id": 19,
       "headline": "Petrol price up by Rs1.19 per litre, high-speed diesel's down by Rs1.91 in latest revision",
       "summary": "AI summary: The Petroleum Division has nudged petrol up to Rs394.83 a litre while trimming high-speed diesel to Rs395.85, effective October 7, with taxes of roughly Rs114 and Rs100 per litre respectively still built into the prices.",
       "sources": [
@@ -442,7 +778,7 @@
       }
     },
     {
-      "id": 12,
+      "id": 20,
       "headline": "President Zardari confers Nishan-e-Imtiaz on UN chief Guterres",
       "summary": "AI summary: President Zardari presented UN Secretary-General Guterres with the Nishan-e-Imtiaz, reportedly the first time a UN chief has received it, while restating Pakistan's positions on Kashmir, Palestine, the Indus Waters Treaty and peacekeeping.",
       "sources": [
@@ -482,7 +818,7 @@
       }
     },
     {
-      "id": 13,
+      "id": 21,
       "headline": "PM Shehbaz says protests could hurt economic gains, urges PTI to withdraw long march call",
       "summary": "AI summary: PM Shehbaz Sharif warned that marches and road blockades could undo recent gains in exports and remittances and asked PTI to call off its long march, while PTI's negotiators said talks stalled over access to Imran Khan and a provincial role in counterterrorism policy.",
       "sources": [
@@ -522,7 +858,7 @@
       }
     },
     {
-      "id": 14,
+      "id": 22,
       "headline": "Medical report reveals Imran Khan's anxiety level assessed at 'three-plus'",
       "summary": "AI summary: A four-member, federally constituted medical board that examined jailed PTI founder Imran Khan at Adiala found normal heart test results but rated his anxiety at 'three-plus', recommending daily walks and more family contact and reading material.",
       "sources": [
@@ -562,7 +898,7 @@
       }
     },
     {
-      "id": 15,
+      "id": 23,
       "headline": "Two FBR officials killed in firing incident in Dera Ismail Khan",
       "summary": "AI summary: Unidentified gunmen attacked a Federal Board of Revenue enforcement squad at Qureshi Mor in Dera Ismail Khan, killing two personnel and escaping with their weapons, while a third officer survived and fired back.",
       "sources": [
@@ -602,7 +938,7 @@
       }
     },
     {
-      "id": 16,
+      "id": 24,
       "headline": "PTI long march: CM Afridi-led convoy camps in Mattani for the night, heads to Khyber next",
       "summary": "AI summary: KP Chief Minister Sohail Afridi's PTI convoy, demanding Imran Khan's release, stopped overnight at Mattani near Peshawar en route to Khyber and Khairabad, as the KP governor vowed it would not pass Attock and authorities imposed Section 144 and detained workers in Sindh.",
       "sources": [
@@ -642,7 +978,7 @@
       }
     },
     {
-      "id": 17,
+      "id": 25,
       "headline": "Pakistan successfully tests launch of extended-range Fatah-IV cruise missile: ISPR",
       "summary": "AI summary: According to ISPR, Pakistan test-fired an extended-range version of its locally built Fatah-IV ground-launched cruise missile, which the military says has improved avionics and navigation for precise long-range strikes; the president, PM and army chief praised the team.",
       "sources": [
@@ -690,7 +1026,7 @@
       }
     },
     {
-      "id": 18,
+      "id": 26,
       "headline": "UN chief lauds Pakistan's trusted mediatory role in US-Iran conflict",
       "summary": "AI summary: Meeting Deputy PM and Foreign Minister Ishaq Dar in Islamabad, UN Secretary-General Guterres praised Pakistan's mediation in the US-Iran conflict, as the two also discussed terrorism from Afghan soil, Security Council reform, climate and Palestine.",
       "sources": [
@@ -730,7 +1066,7 @@
       }
     },
     {
-      "id": 19,
+      "id": 27,
       "headline": "PTI terms PM Shehbaz's dialogue offer 'merely symbolic'",
       "summary": "AI summary: PTI leaders including Barrister Gohar Khan dismissed PM Shehbaz Sharif's conditional offer of talks as symbolic, saying the long march will go on until their demands, including access to Imran Khan, are settled.",
       "sources": [
