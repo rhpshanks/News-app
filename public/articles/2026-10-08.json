@@ -1,0 +1,413 @@
+{
+  "generatedAt": "2026-10-08T11:00:21+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Trump says he deserves Nobel Peace Prize but has doubts he will get it",
+      "summary": "AI summary: US President Donald Trump said in the Oval Office that he merits the Nobel Peace Prize but is unsure the Norwegian committee will pick him when it names the 2026 laureate on Friday. The Reuters report notes that his claims of ending several conflicts are contested and that other candidates are seen as frontrunners.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2035634/trump-says-he-deserves-nobel-peace-prize-but-has-doubts-he-will-get-it"
+        }
+      ],
+      "timestamp": "Oct 8, 10:54 AM",
+      "publishedAt": "2026-10-08T10:54:56+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No economic measure involved."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Foreign leader's remarks with no direct bearing on Pakistan's institutions."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No effect on daily life in Pakistan."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not a market-moving development."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Report includes context disputing Trump's claimed peace record alongside his own statements."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full wire report read; claims are clearly attributed."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Pakistan, IMF reach staff-level agreement for $1.2bn tranche",
+      "summary": "AI summary: The IMF and Pakistan agreed at staff level on the latest reviews of the Extended Fund Facility and the Resilience and Sustainability Facility, which would release roughly $1.2bn once the Fund's board signs off. The IMF credited recent stabilisation gains but flagged geopolitical and energy-price risks, and urged a tight monetary stance, an end to the fuel support scheme and higher health and education spending.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2035602/pakistan-imf-reach-staff-level-agreement-for-12bn-tranche"
+        }
+      ],
+      "timestamp": "Oct 8, 10:40 AM",
+      "publishedAt": "2026-10-08T10:40:17+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "Unlocks about $1.2bn in external financing and signals programme continuity, supporting reserves."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "Keeps the IMF programme on track, reducing policy uncertainty."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Calls to phase out fuel support are offset by planned increases in social and cash-transfer spending."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Directly relevant to reserves, the currency, ratings and investor sentiment."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the IMF's praise alongside the risks and reform demands it listed."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; figures attributed to the IMF's own statement."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "PPP's Farooq Naek resigns from JCP",
+      "summary": "AI summary: PPP Senator Farooq Naek stepped down from the Judicial Commission of Pakistan, giving personal reasons. He had sat on the body, which handles appointments of superior court judges, as a treasury-benches representative.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40443201/ppps-farooq-naek-resigns-from-jcp"
+        }
+      ],
+      "timestamp": "Oct 8, 6:47 AM",
+      "publishedAt": "2026-10-08T06:47:54+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No economic dimension."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Creates a vacancy on the judicial appointments body, but the stated reason is personal and no dispute is reported."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not relevant to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straight report of the resignation and the reason given."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based only on the RSS excerpt; article page returned 403."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Bahrain FM arrives",
+      "summary": "AI summary: Bahrain's foreign minister arrived in Islamabad for a two-day visit at Ishaq Dar's invitation, where the two will co-chair the third Pakistan-Bahrain Joint Ministerial Commission on trade, investment, defence, labour and culture.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40443202/bahrain-fm-arrives"
+        }
+      ],
+      "timestamp": "Oct 8, 6:45 AM",
+      "publishedAt": "2026-10-08T06:45:53+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Trade and investment are on the agenda, but no agreements are reported yet."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "Routine high-level diplomatic engagement strengthens bilateral ties."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Labour cooperation could matter to overseas workers, but nothing concrete yet."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited immediate market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual visit announcement."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based only on the RSS excerpt; article page returned 403."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "India sponsoring terrorism through proxies in Afghanistan, Pakistan tells UN",
+      "summary": "AI summary: Replying to India's remarks at the UN, Pakistani diplomat Muhammad Jawad Ajmal accused New Delhi of backing militant groups such as the TTP and BLA through proxies in Afghanistan and of supporting attacks on Pakistan. The report carries no response from India to these allegations.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/685538-india-sponsoring-terrorism-through-proxies-in-afghanistan-pakistan-tells-un"
+        }
+      ],
+      "timestamp": "Oct 8, 6:38 AM",
+      "publishedAt": "2026-10-08T06:38:24+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic effect."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Sharpening Pakistan-India accusations at the UN points to continued regional hostility."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "A diplomatic exchange with no immediate change on the ground, though it concerns ongoing militancy."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Rhetoric alone is unlikely to move markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports Pakistan's official position at the UN; the dispute is with a foreign state, not a domestic party, though India's side is absent."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Claims are attributed to Pakistan's envoy and are not independently verified; no Indian response carried."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "KP CM slams governor for 'unconstitutional' meeting",
+      "summary": "AI summary: Khyber Pakhtunkhwa Chief Minister Sohail Afridi denounced a meeting the governor held with the province's chief secretary and police chief as unconstitutional, arguing his two-thirds majority can only be removed by a no-confidence vote. He also accused the PPP of trying to destabilise his government and criticised federal counterterrorism policy.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40443207/kp-cm-slams-governor-for-unconstitutional-meeting"
+        }
+      ],
+      "timestamp": "Oct 8, 5:42 AM",
+      "publishedAt": "2026-10-08T05:42:51+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No economic measure involved."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Open confrontation between KP's chief minister and governor deepens the federal-provincial standoff."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate change to services, though it unfolds against a security backdrop."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Political dispute with no direct market trigger."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Excerpt relays the chief minister's claims; framing cannot be judged one-sided from the excerpt alone."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based only on the RSS excerpt; article page returned 403; governor's side not included."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Vatican envoy to discuss peace, interfaith harmony during Oct 8-10 Pakistan visit",
+      "summary": "AI summary: Archbishop Paul Richard Gallagher, the Holy See's foreign relations chief, is visiting Pakistan from October 8 to 10 at Ishaq Dar's invitation, the first such visit by an official in his role, marking 75 years of diplomatic ties. Talks are expected to cover interfaith harmony and peace, with meetings with the prime minister and the Catholic community also planned.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/685508-vatican-envoy-to-discuss-peace-interfaith-harmony-during-oct-8-10-pakistan-visit"
+        }
+      ],
+      "timestamp": "Oct 8, 12:22 AM",
+      "publishedAt": "2026-10-08T00:22:46+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No economic component."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "A first-of-its-kind diplomatic visit strengthens Pakistan's international engagement."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Focus on interfaith harmony and outreach to the Catholic community supports minority wellbeing."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not market-relevant."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual report based on the Foreign Office announcement."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; details attributed to the Foreign Office."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Govt raises petrol price by Rs1.82 per litre, reduces high-speed diesel rate by Re0.91",
+      "summary": "AI summary: Fuel prices for October 8 moved in opposite directions, with petrol up Rs1.82 to Rs396.65 a litre and high-speed diesel down Re0.91 to Rs394.94. Prices, now set daily by Ogra, remain well below their April peaks but carry heavy per-litre taxes, while austerity steps such as early market closures continue.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2035445/govt-raises-petrol-price-by-rs182-per-litre-reduces-high-speed-diesel-rate-by-re091"
+        }
+      ],
+      "timestamp": "Oct 7, 10:53 PM",
+      "publishedAt": "2026-10-07T22:53:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Small, offsetting moves: a slight petrol rise against a diesel cut that eases freight costs."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine administrative price revision."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Marginal change to household fuel bills."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Fuel prices feed into inflation expectations and transport costs."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual pricing report with background context."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; figures are official notified prices."
+        }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "DG ISPR says Pakistani troops present in Saudi Arabia 'for decades' across multiple domains",
+      "summary": "AI summary: ISPR's director general told CNN that Pakistani forces are already stationed in Saudi Arabia in several roles and have been for decades, after the Pakistan-Saudi-Turkiye defence alliance agreed at an emergency meeting to rapidly deploy forces to the kingdom amid Houthi attacks. He gave no troop numbers or operational details; the defence minister said Pakistani and Turkish forces are in a supporting role while only Saudi troops are in combat.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/685475-pakistani-troops-already-in-saudi-arabia-across-multiple-domains-dg-ispr"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2035448/dg-ispr-says-pakistani-troops-present-in-saudi-arabia-for-decades-across-multiple-domains"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40443214/troops-deployed-in-ksa-across-multiple-domains-dg-ispr"
+        }
+      ],
+      "timestamp": "Oct 7, 8:33 PM",
+      "publishedAt": "2026-10-07T20:33:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic measure, though regional conflict adds to energy risk."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Reaffirms an existing alliance commitment rather than a domestic institutional change."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Pakistani personnel are tied to an active regional conflict, raising security risk."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Gulf security and energy-market exposure are relevant to investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Coverage relays official military and government statements without critical voices, but reads as straight reporting of an interview."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Three outlets report matching details, all attributed to the ISPR chief and officials."
+        }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "Three more crew members of hijacked tanker arrive in Karachi",
+      "summary": "AI summary: Three more Pakistani crew from the tanker MT Honour 25, seized by Somali pirates in April and freed by Puntland forces in September, landed in Karachi and were received by the Sindh governor and Karachi mayor. Five crew members, three of them Pakistani, were killed before the rescue, and four injured crew and three bodies were flown home earlier in the week.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/685459-three-more-crew-members-of-hijacked-tanker-arrive-in-karachi"
+        }
+      ],
+      "timestamp": "Oct 7, 7:27 PM",
+      "publishedAt": "2026-10-07T19:27:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Consular matter with no governance implications."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Survivors are reunited with families after months in captivity, though the ordeal cost several lives."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not market-relevant."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual account of the return."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read with specific names and dates."
+        }
+      }
+    }
+  ]
+}
