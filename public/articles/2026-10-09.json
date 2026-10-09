@@ -1,0 +1,179 @@
+{
+  "generatedAt": "2026-10-09T14:55:00+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "South Africa's Navanethem 'Navi' Pillay wins 2026 Nobel Peace Prize",
+      "summary": "AI summary: The Norwegian Nobel Committee awarded this year's Peace Prize to South African jurist Navi Pillay, crediting her long career in international law, from anti-apartheid defence work to chairing a UN inquiry on the occupied Palestinian territory. The prize will be presented in Oslo on December 10.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2035908/south-africas-navanethem-navi-pillay-wins-2026-nobel-peace-prize" }
+      ],
+      "timestamp": "Oct 9, 2:26 PM",
+      "publishedAt": "2026-10-09T14:26:02+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "An international award with no direct bearing on Pakistan's jobs, prices or business." },
+        "political": { "value": "neutral", "reason": "No effect on Pakistan's institutional or governance stability." },
+        "social": { "value": "neutral", "reason": "Symbolic international news with no direct effect on daily life in Pakistan." },
+        "market": { "value": "low", "reason": "Not relevant to investor or business decisions." },
+        "lean": { "value": "balanced", "reason": "Straight reporting of the committee's citation, noting Israel's rejection of the inquiry's findings." },
+        "confidence": { "value": "high", "reason": "Full article read; a formal, publicly announced decision." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Pilot among 3 Saudi nationals killed in attacks on Riyadh airport, authorities say",
+      "summary": "AI summary: Saudi aviation authorities said two Houthi-claimed strikes on Riyadh's King Khalid airport on Thursday killed three Saudis, including a Saudia pilot, and damaged an aircraft, though operations have since resumed. Several foreign airlines have suspended Riyadh flights and firms in the city's financial district told staff to work from home.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2035905/pilot-among-3-saudi-nationals-killed-in-attacks-on-riyadh-airport-authorities-say" }
+      ],
+      "timestamp": "Oct 9, 2:08 PM",
+      "publishedAt": "2026-10-09T14:08:58+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Escalating Gulf conflict disrupts air travel and threatens energy supply and overseas worker flows that Pakistan relies on." },
+        "political": { "value": "neutral", "reason": "Event is in Saudi Arabia; no direct change to Pakistan's governance stability." },
+        "social": { "value": "negative", "reason": "Civilian deaths and disruption in a city with a large Pakistani expatriate population." },
+        "market": { "value": "high", "reason": "Attacks on Saudi infrastructure and threats to oil facilities are highly relevant to oil prices and regional markets." },
+        "lean": { "value": "balanced", "reason": "Claims are attributed to Saudi authorities, Saudia and the Houthis respectively, with unconfirmed Houthi claims labelled as such." },
+        "confidence": { "value": "high", "reason": "Full article read, with casualty figures attributed to official Saudi sources." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "PMD forecasts hot weather conditions in Karachi from Monday",
+      "summary": "AI summary: The Met Office expects Karachi's daytime highs to climb to 36-38°C from Monday, which it says is still within the usual October range, with sea breeze strength a possible factor. A western weather system arriving from October 12 may bring rain to parts of Balochistan and the upper regions.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/685732-pmd-forecasts-hot-weather-conditions-in-karachi-from-monday" }
+      ],
+      "timestamp": "Oct 9, 1:42 PM",
+      "publishedAt": "2026-10-09T13:42:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Seasonal temperatures within the normal range are unlikely to affect business activity." },
+        "political": { "value": "neutral", "reason": "Routine weather forecast with no governance angle." },
+        "social": { "value": "neutral", "reason": "Warm but normal conditions for the season; no extreme weather warning." },
+        "market": { "value": "low", "reason": "Little relevance to investment or business decisions." },
+        "lean": { "value": "balanced", "reason": "Factual relay of the Met Office forecast." },
+        "confidence": { "value": "high", "reason": "Full article read; official forecast from PMD." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "PIA temporarily suspends flights to Riyadh citing 'situation in the Middle East': spokesperson",
+      "summary": "AI summary: PIA has paused its Riyadh flights because of the Houthi strikes on Saudi airports and asked passengers to check flight status with its call centre before travelling. Lufthansa, Air India and other carriers have also halted Riyadh services, with flight-tracking data showing hundreds of cancellations over two days.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40443436/pia-suspends-flights-to-riyadh-amid-middle-east-situation" },
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2035895/pia-temporarily-suspends-flights-to-riyadh-citing-situation-in-the-middle-east-spokesperson" }
+      ],
+      "timestamp": "Oct 9, 12:39 PM",
+      "publishedAt": "2026-10-09T12:39:08+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Lost route revenue for the national carrier and disruption to travel between Pakistan and a major labour destination." },
+        "political": { "value": "neutral", "reason": "An operational airline decision with no direct governance effect." },
+        "social": { "value": "negative", "reason": "Pakistani workers, pilgrims and families travelling to Riyadh face cancellations and uncertainty." },
+        "market": { "value": "medium", "reason": "Relevant to aviation, travel and remittance-linked businesses." },
+        "lean": { "value": "balanced", "reason": "Both outlets attribute the decision to a PIA spokesperson and give regional context without slant." },
+        "confidence": { "value": "high", "reason": "Corroborated by two outlets with matching details, one read in full." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Security forces neutralise seven India-backed terrorists in North Waziristan IBO: sources",
+      "summary": "AI summary: Unnamed security sources say an intelligence-based operation in North Waziristan killed seven militants they describe as India-backed, destroyed hideouts and recovered weapons, a day after a separate operation they say killed nine. The report also cites think-tank data showing militant attacks rose for a third straight month in September.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/685715-security-forces-neutralise-seven-india-backed-terrorists-in-north-waziristan-ibo-sources" }
+      ],
+      "timestamp": "Oct 9, 11:15 AM",
+      "publishedAt": "2026-10-09T11:15:03+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Localised security operation with no direct national economic effect." },
+        "political": { "value": "neutral", "reason": "Part of an ongoing counter-militancy campaign rather than a shift in governance stability." },
+        "social": { "value": "negative", "reason": "Deadly operations and a third consecutive monthly rise in attacks point to continuing insecurity in the region." },
+        "market": { "value": "low", "reason": "Limited direct relevance to markets." },
+        "lean": { "value": "balanced", "reason": "Claims, including the 'India-backed' label, are attributed to security sources, and independent attack data is included; no counterview is offered, but the tone is not one-sided toward a party." },
+        "confidence": { "value": "medium", "reason": "Based on unnamed security sources that cannot be independently verified, and the article gives inconsistent figures (seven versus nine)." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "PM Shehbaz condemns fresh Houthi attacks on Saudi Arabia, reiterates commitment to kingdom's security under Makkah pact",
+      "summary": "AI summary: In a post on X, PM Shehbaz Sharif condemned Houthi missile strikes on Riyadh and Abha airports that killed and injured civilians, demanded the attacks stop, and restated Pakistan's commitment to Saudi security under the Makkah defence pact with Saudi Arabia and Turkiye. Defence Minister Khawaja Asif has said Pakistani forces are present in theatre in a supporting, mainly reconnaissance, role while the combat is Saudi Arabia's.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/685704-pakistan-pledges-resolute-commitment-to-saudi-arabias-security-under-makkah-pact" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40443430/pm-shehbaz-calls-on-houthis-to-immediately-cease-attacks-on-saudi-arabia" },
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2035878/pm-shehbaz-condemns-fresh-houthi-attacks-on-saudi-arabia-reiterates-commitment-to-kingdoms-security-under-makkah-pact" }
+      ],
+      "timestamp": "Oct 9, 9:44 AM",
+      "publishedAt": "2026-10-09T09:44:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic statement with no immediate effect on prices or jobs, though regional escalation carries indirect risk." },
+        "political": { "value": "neutral", "reason": "Restates an existing alliance commitment; no change to domestic institutional stability." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily life in Pakistan from the statement itself." },
+        "market": { "value": "medium", "reason": "Pakistan's deepening role in a Gulf conflict matters for energy, remittance and risk outlooks." },
+        "lean": { "value": "balanced", "reason": "All three outlets report the PM's statement with attribution and add context such as the defence minister's remarks and the pact's stated defensive nature." },
+        "confidence": { "value": "high", "reason": "Same statement corroborated by three outlets with matching details." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Afridi-led convoy enters Peshawar",
+      "summary": "AI summary: A PTI long-march convoy led by Khyber Pakhtunkhwa Chief Minister Sohail Afridi, demanding Imran Khan's release, reached Peshawar on Thursday evening behind schedule, with its route shifting several times and the final destination still unclear. Mobile internet was reportedly disrupted in parts of the city ahead of its arrival.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40443373/afridi-led-convoy-enters-peshawar" }
+      ],
+      "timestamp": "Oct 9, 5:56 AM",
+      "publishedAt": "2026-10-09T05:56:35+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Localised disruption so far, with no clear broader economic effect reported." },
+        "political": { "value": "negative", "reason": "An ongoing protest march against the federal authorities, led by a sitting chief minister, signals heightened political confrontation." },
+        "social": { "value": "negative", "reason": "Reported mobile internet disruption and uncertainty over the march route affect residents' daily life." },
+        "market": { "value": "low", "reason": "Limited direct relevance to markets at this stage, though prolonged unrest could change that." },
+        "lean": { "value": "balanced", "reason": "The excerpt describes the march's progress factually without endorsing or dismissing its demands." },
+        "confidence": { "value": "medium", "reason": "Working from the RSS excerpt only (article page returned 403); internet disruption is reported as unconfirmed." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Pakistan rejects NYT report",
+      "summary": "AI summary: The Ministry of Information and Broadcasting denied a New York Times report that the Pakistan Air Force had been deployed against the Houthis, calling it false. It urged foreign media not to speculate about Pakistani deployments under the Makkah defence agreement, which it describes as defensive.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40443383/pakistan-rejects-nyt-report" }
+      ],
+      "timestamp": "Oct 9, 5:27 AM",
+      "publishedAt": "2026-10-09T05:27:58+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "An official denial with no direct economic effect." },
+        "political": { "value": "neutral", "reason": "A routine government rebuttal; no change to institutional stability." },
+        "social": { "value": "neutral", "reason": "No direct effect on public wellbeing." },
+        "market": { "value": "low", "reason": "Minor relevance, though the scale of Pakistan's military role in the Gulf conflict is watched by markets." },
+        "lean": { "value": "balanced", "reason": "Reports the ministry's denial alongside the substance of the disputed report it rejects." },
+        "confidence": { "value": "medium", "reason": "Working from the RSS excerpt only (article page returned 403); the underlying deployment question remains contested." }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "Govt cannot change petroleum levy targets without consulting multilateral partners: minister",
+      "summary": "AI summary: Petroleum Minister Ali Pervaiz Malik told a parliamentary committee that budgeted petroleum levy targets cannot be altered without consulting multilateral lenders, blaming regional tensions for record diesel costs and supply disruption. Committee members criticised the levy as a heavy public burden that bypasses parliamentary approval.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/685613-govt-cannot-change-petroleum-levy-targets-without-consulting-multilateral-partners-minister" }
+      ],
+      "timestamp": "Oct 8, 5:45 PM",
+      "publishedAt": "2026-10-08T17:45:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Fuel levy relief is ruled out while diesel prices are described as historically high, adding cost pressure on transport and agriculture." },
+        "political": { "value": "neutral", "reason": "Routine committee exchange; criticism is voiced through normal parliamentary channels." },
+        "social": { "value": "negative", "reason": "High fuel costs feed through to household transport and food prices." },
+        "market": { "value": "high", "reason": "Fuel pricing, levy policy and lender commitments are directly relevant to businesses and investors." },
+        "lean": { "value": "balanced", "reason": "Gives both the minister's position and lawmakers' criticism of the levy." },
+        "confidence": { "value": "high", "reason": "Full article read, with on-record statements from named officials." }
+      }
+    }
+  ]
+}
