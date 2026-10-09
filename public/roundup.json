@@ -1,62 +1,62 @@
 {
-  "generatedAt": "2026-10-02T23:15:09+05:00",
-  "periodStart": "2026-09-26",
-  "periodEnd": "2026-10-02",
-  "periodLabel": "Sep 26 to Oct 2, 2026",
-  "totalArticles": 94,
+  "generatedAt": "2026-10-09T23:14:13+05:00",
+  "periodStart": "2026-10-03",
+  "periodEnd": "2026-10-09",
+  "periodLabel": "Oct 3 to Oct 9, 2026",
+  "totalArticles": 84,
   "stats": {
     "economic": {
-      "positive": 8,
-      "neutral": 75,
-      "negative": 11
+      "positive": 3,
+      "neutral": 65,
+      "negative": 16
     },
     "political": {
-      "positive": 8,
-      "neutral": 65,
-      "negative": 21
+      "positive": 9,
+      "neutral": 49,
+      "negative": 26
     },
     "social": {
-      "positive": 9,
-      "neutral": 52,
-      "negative": 33
+      "positive": 5,
+      "neutral": 45,
+      "negative": 34
     }
   },
   "summary": [
-    "Social impact was again the most negative category, though less so than a week earlier: 33 of 94 stories (35%) carried a negative social reading against 9 (10%) positive, down from 46% negative the week before. Political readings were 22% negative and 9% positive, with 69% neutral. Economic readings were the flattest of the three, at 80% neutral, 12% negative and 9% positive. The softer numbers do not mean the underlying disputes were settled. They reflect a week in which the main confrontation was deferred rather than resolved, while the feed filled out with routine and diplomatic coverage.",
-    "The dominant storyline was the fallout from PTI moving its Islamabad march from September 27 to October 4, and it explains the political column almost entirely: all 21 negative political readings this week fell on stories flagged for review, and most of those trace back to this one standoff. Party leaders described the delay as tactical. Dawn reported the capital's security bill was set to roughly double past Rs1 billion, with about 2,700 seized vehicles still held, before the M-1 motorway and GT Road reopened on September 28 with Section 144 orders and Rangers still in place. From there the dispute widened into a federal versus provincial fight over Khyber Pakhtunkhwa. Federal ministers and the KP governor raised the possibility of governor's rule, the PML-N issued a 'white paper' alleging weak counter-terrorism performance by the provincial government, and by October 1 a minister said an emergency under Article 232 was under serious consideration. Chief Minister Sohail Afridi rejected the pressure and accused the Centre of favouring Punjab, and the KP Assembly speaker clashed publicly with the interior minister over whether police need his approval to arrest lawmakers. Talks ran in parallel: Geo, citing unnamed sources, reported that several backchannel meetings had failed, the PM's adviser Rana Sanaullah confirmed off-the-record contacts, and one PTI leader in KP publicly urged a further delay while the party chairman said the march would go ahead. The window closes two days before the new date, so the outcome is not part of this week's data.",
-    "The social column tells a different story from the political one. Only 12 of the 33 negative social readings came from flagged stories; the other 21 were mostly security and safety reports that sit outside the march dispute. These include a run of military and security-source statements on operations in Balochistan and KP (ISPR put one 96 hour toll at more than 70 militants, and described the groups as India-backed, a characterisation that is the military's own), the killing of three policemen in Tank, a rape case involving a foreign woman in Lahore, a fatal collapse at a Karachi BRT construction site, and the deaths of three Pakistani crew members in the MT Honour 25 recovery operation off Somalia. Relations with Afghanistan stayed tense as well: Pakistan's information ministry said 13 Taliban fighters were killed repelling a border incursion and later that air strikes killed 22 militants inside Afghanistan, while Kabul gave a differing account of the border clash and Pakistan denied Taliban allegations about fighting in Nuristan. On the economic side, the few negative readings came from protest related costs, the US and Iran standoff over the Strait of Hormuz, and a projected 25% water shortfall for the Rabi season. The positives were modest: the start of IMF review talks tied to about $1.2 billion, a small petrol and diesel price cut, and SCO meetings hosted in Islamabad.",
-    "On lean, 90 of 94 stories (96%) were read as balanced, 4 as pro-government and none as pro-opposition. All four pro-government tags fell on single outlet pieces that carried federal or ruling party allegations against the KP government, or unnamed official-side accounts of the talks, without a response from the other side. That is a narrow but consistent pattern worth noting in a week when the governor's rule debate was driven largely by federal statements. Confidence improved: 37 stories (39%) were rated high and none low, compared with 28% high and 9 low the week before. The medium ratings still cluster where they should, on casualty and strike figures that rest on a single ministry or military statement with no independent confirmation, and those numbers should be read as official claims rather than established fact."
+    "One storyline set the tone for this week: PTI's long march toward Islamabad, led by Khyber Pakhtunkhwa Chief Minister Sohail Afridi. Of the 26 stories Miqyas flagged for review across 84 articles, roughly three in four tracked the march or the federal-provincial standoff around it, from the October 3 announcement and the military's warning against 'May 9-like' unrest, through the collapse of talks and the convoy's slow route from Lakki Marwat through Karak, Kohat and Mattani, to its arrival in Peshawar on October 9. The two sides gave competing accounts of why talks failed: federal ministers said the KP government withdrew from counterterrorism commitments, while PTI's negotiators said the Centre wanted the province to endorse actions it had already taken on its own, alongside unresolved demands over access to Imran Khan.",
+    "Social coverage carried the week's heaviest negative share, at 34 of 84 articles (about 40 percent), with only 5 positive. That reading reflects two overlapping pressures rather than one: the disruption risks of the march itself (road blockades, Section 144 orders, worker detentions in Sindh, and a reported mobile internet disruption in Peshawar), and a run of militant violence, most visibly the October 6 attacks in Dera Ismail Khan that killed four FBR personnel and a traffic policeman. Political coverage was negative in 26 articles (about 31 percent), but it also had the week's largest positive count (9), which fits a week in which offers of talks were made repeatedly even as they were rejected or made conditional. The dispute widened midweek into a constitutional question, with Governor Faisal Karim Kundi saying emergency or governor's rule would be imposed if the president and prime minister deemed it necessary, and Afridi calling the governor's meeting with the chief secretary and police chief unconstitutional.",
+    "Economic coverage stayed overwhelmingly neutral (65 of 84, about 77 percent), and that is worth reading carefully. Prime Minister Shehbaz Sharif repeatedly warned that the march and road blockades could undo recent gains in exports and remittances, but the AI classifier generally tagged these as neutral on the economic axis because they were forecasts and warnings, not measured effects. The 16 economic negatives clustered on October 5, the day the march set off, when 6 of 11 articles were economically negative. The busiest day by far was October 7, with 27 articles, about a third of the week's volume, as the governor's rule debate, the defence minister's remarks and the dialogue standoff all broke at once.",
+    "On political lean, 80 of 84 articles were rated balanced, 4 pro-government and none pro-opposition. The pro-government readings concentrated on stories built around a single official's statement, such as Kundi's governor's rule remarks and Defence Minister Khawaja Asif's accusation that KP was being left to 'Taliban allies', where PTI's response was not in the source text. AI confidence was mostly medium (50) with 31 high and 3 low; the low readings fell on uncorroborated allegations, including Asif's claims and Minister of State Talal Chaudhry's claim that banned JAAC protests mirrored a PTI pattern. One structural caveat: 11 of the 26 flagged stories were assessed from RSS excerpts alone because the full article page returned an error, so readers should treat those classifications as provisional. Outside Pakistan's domestic standoff, the flagged set also included escalating fighting in Yemen and Pakistan's accusation at the UN that India backs militant proxies in Afghanistan, both attributed claims without independent verification."
   ],
   "notableStories": [
     {
-      "headline": "PTI postpones Islamabad long march to Oct 4",
-      "context": "The delay of PTI's march for Imran Khan's release set up the whole week, extending Section 144 curbs, Rangers deployments and arrests that HRCP criticised, and prompting the first hints of governor's rule in KP.",
+      "headline": "PTI begins Islamabad long march after talks breakdown",
+      "context": "The week's central event: PTI set off from Lakki Marwat toward Islamabad after three rounds of talks with the federal government and PPP failed, framing every other political story that followed.",
       "sourceName": "Geo News",
-      "sourceUrl": "https://www.geo.tv/latest/683647-pti-decides-to-postpone-islamabad-long-march-till-oct-5-sources"
+      "sourceUrl": "https://www.geo.tv/latest/684992-pti-begins-islamabad-long-march-after-talks-breakdown"
     },
     {
-      "headline": "Minister warns governor's rule possible in KP amid tensions with provincial govt",
-      "context": "Federal ministers openly raised suspending an elected provincial government on security grounds, while Chief Minister Sohail Afridi rejected the pressure, making this the clearest two-sided account of the week's main institutional dispute.",
+      "headline": "4 FBR officials, traffic policeman martyred in DI Khan attacks: police",
+      "context": "A deadly militant attack, corroborated by two outlets, that became a reference point in the federal government's case against the KP government's handling of security.",
       "sourceName": "Geo News",
-      "sourceUrl": "https://www.geo.tv/latest/684072-minister-warns-governors-rule-possible-in-kp-amid-tensions-with-provincial-govt"
+      "sourceUrl": "https://www.geo.tv/latest/685218-four-fbr-personnel-shot-dead-in-di-khan-police"
     },
     {
-      "headline": "Pakistan says 22 terrorists killed in airstrikes on Afghan hideouts",
-      "context": "The information ministry reported air strikes at two locations inside Afghanistan, a further cross-border escalation whose toll rests on one official statement with no Afghan response or independent confirmation.",
-      "sourceName": "Geo News",
-      "sourceUrl": "https://www.geo.tv/latest/684490-at-least-22-terrorists-reportedly-killed-as-pakistan-strikes-terror-hideout"
-    },
-    {
-      "headline": "Country braces for 25pc Rabi water shortage",
-      "context": "An expected 25% water shortfall, with reservoir carryover at its lowest since 2021, puts the next wheat crop under pressure and could reopen Sindh and Punjab friction over provincial shares.",
+      "headline": "Emergency, governor's rule would 'definitely' be imposed if deemed necessary to 'save' KP: Kundi",
+      "context": "The KP governor's statement escalated the standoff from a protest dispute into a constitutional one, prompting the chief minister to seek legal opinion.",
       "sourceName": "Dawn News",
-      "sourceUrl": "https://www.dawn.com/news/2033149/country-braces-for-25pc-rabi-water-shortage"
+      "sourceUrl": "https://www.dawn.com/news/2035457/emergency-governors-rule-would-definitely-be-imposed-if-deemed-necessary-to-save-kp-kundi"
     },
     {
-      "headline": "Mly conditionally supports the creation of new provinces?",
-      "context": "Unnamed military sources were reported as backing new provinces if they improve governance, ahead of a parliamentary debate the PML-N plans for October and against PPP opposition to dividing Sindh.",
+      "headline": "PM Shehbaz says protests could hurt economic gains, urges PTI to withdraw long march call",
+      "context": "The government's main economic argument against the march, set against PTI's account that talks stalled over access to Imran Khan and the province's role in counterterrorism policy.",
       "sourceName": "Business Recorder",
-      "sourceUrl": "https://www.brecorder.com/news/40441897/mly-conditionally-supports-the-creation-of-new-provinces"
+      "sourceUrl": "https://www.brecorder.com/news/40442897/pm-shehbaz-says-protests-could-hurt-economic-gains-urges-pti-to-withdraw-long-march-call"
+    },
+    {
+      "headline": "Heavy losses reported as Yemen fighting escalates",
+      "context": "The week's most significant international story, with more than 270 combatants reported killed in a day near the Bab al-Mandab strait, according to figures from both warring sides.",
+      "sourceName": "Dawn News",
+      "sourceUrl": "https://www.dawn.com/news/2035312/heavy-losses-reported-as-yemen-fighting-escalates"
     }
   ]
 }
