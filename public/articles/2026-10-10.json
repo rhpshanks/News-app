@@ -1,0 +1,377 @@
+{
+  "generatedAt": "2026-10-10T13:43:58+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Islamabad ATC seeks report on failure to produce Imaan, Hadi in security breach case",
+      "summary": "AI summary: An Islamabad anti-terrorism court asked jail officials to explain why rights lawyers Imaan Mazari and Hadi Ali Chattha were not physically brought to court as ordered, after a jail report blamed a missing police escort; the pair appeared by video link. The court also set aside, as premature, their plea to drop terrorism charges tied to removing security barriers placed for the visiting English cricket team.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2036142/islamabad-atc-seeks-report-on-failure-to-produce-imaan-hadi-in-security-breach-case"
+        }
+      ],
+      "timestamp": "Oct 10, 12:56 PM",
+      "publishedAt": "2026-10-10T12:56:29+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct bearing on jobs, prices or business activity."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Terrorism charges against rights lawyers and a missed court production order raise fair-trial and rule-of-law concerns."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Prolonged detention of rights advocates and procedural lapses weigh on civil liberties."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Legal proceeding with little relevance to investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Courtroom report quoting the judge, defence and the jail report; defence side gets more space but the state's procedural position is included."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; details come from the court record and named participants."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "India's 'cockroach' movement chief detained ahead of major protest",
+      "summary": "AI summary: Indian police held Abhijeet Dipke, leader of the satirical Cockroach Janta Party, and two colleagues as they arrived in Delhi for a protest demanding the chief election commissioner's resignation over a contested voter-roll revision, while authorities shut roads, metro stations and trains around the capital. The party claims some 10,000 supporters were detained nationwide, a figure police have not addressed, and the Election Commission denies wrongdoing.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2036128/indias-cockroach-movement-chief-detained-ahead-of-major-protest"
+        }
+      ],
+      "timestamp": "Oct 10, 11:45 AM",
+      "publishedAt": "2026-10-10T11:45:16+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Localised transport closures in Delhi; little measurable economic effect for Pakistan."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Mass pre-emptive detentions and a dispute over voter rolls strain trust in India's electoral institutions."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Transport shutdowns and reported large-scale detentions disrupt daily life and civic freedoms."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited relevance to Pakistani markets or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Wire report carries both the protesters' claims and the Election Commission's rebuttal."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but the key detention figure is a party claim police have not confirmed."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Trump sows doubt on plan to livestream US military execution",
+      "summary": "AI summary: President Trump signalled that a decision is still pending on whether the December 3 firing-squad execution of 2009 Fort Hood gunman Nidal Hasan will be broadcast live, despite earlier Pentagon statements that it would be. The plan has drawn criticism from lawmakers, Catholic bishops and the UN human rights chief, and it would be the first US military firing-squad execution since 1945.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2036133/trump-sows-doubt-on-plan-to-livestream-us-military-execution"
+        }
+      ],
+      "timestamp": "Oct 10, 11:04 AM",
+      "publishedAt": "2026-10-10T11:04:18+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No economic effect expected."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Policy uncertainty within the US administration, with no direct effect on Pakistan's governance."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Raises human rights debate abroad but has no direct effect on wellbeing in Pakistan."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not relevant to markets or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Presents administration statements alongside bipartisan, religious and UN criticism."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read with multiple named on-record sources."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Pakistan reaffirms commitment to Saudi security at UN Security Council",
+      "summary": "AI summary: At the Security Council's monthly Yemen session, Pakistan's UN envoy Asim Iftikhar Ahmad pledged support for Saudi Arabia under the Makkah Joint Defence Agreement and condemned Houthi strikes on Saudi airports, power and other infrastructure. He also urged an end to attacks on commercial shipping, backed the UN envoy's mediation, and called for humanitarian access and the release of detained UN and diplomatic staff.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2036131/pakistan-reaffirms-commitment-to-saudi-security-at-un-security-council"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40443554/pakistan-calls-for-protection-of-commercial-shipping-political-settlement-in-yemen"
+        }
+      ],
+      "timestamp": "Oct 10, 10:50 AM",
+      "publishedAt": "2026-10-10T10:50:55+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A diplomatic statement; the shipping-lane risks it highlights are pre-existing rather than changed by it."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Restates an existing foreign-policy commitment without altering domestic governance."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "The underlying Houthi attacks have caused civilian casualties in a country hosting a large Pakistani diaspora."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Gulf security and Red Sea shipping risks matter for trade, fuel and remittance flows."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straight account of Pakistan's stated position at the UN; claims are attributed to the envoy."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Two outlets report matching details; full Dawn article read."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Bilawal, Sana inducted into JCP",
+      "summary": "AI summary: PPP chairman Bilawal Bhutto Zardari and PML-N senator Rana Sanaullah were notified as treasury members of the Judicial Commission of Pakistan, filling seats left by resignations, ahead of an October 13 meeting expected to take up extending the Sindh High Court's constitutional benches. Unnamed sources quoted by Geo say coalition friction over rejected judicial nominees has eased, though neither party has confirmed this publicly.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40443525/bilawal-sana-inducted-into-jcp"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/685881-ppp-pmln-understanding-for-appointment-of-preferred-judicial-nominees"
+        }
+      ],
+      "timestamp": "Oct 10, 4:39 AM",
+      "publishedAt": "2026-10-10T04:39:01+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Judicial appointments have no immediate economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Reported easing of coalition friction is offset by concerns over political influence in judicial appointments; the easing claim is unconfirmed."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Marginal relevance to investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the appointments factually; the coalition-relations angle rests on anonymous sources rather than one-sided framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Appointments confirmed by two outlets; the rift-easing claim relies on unnamed sources."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Legal Call Centre inaugurated at apex court",
+      "summary": "AI summary: The Supreme Court opened a 1818 legal helpline, attended by the Chief Justice, that gives callers court-related information, free legal guidance and referrals to legal aid.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40443523/legal-call-centre-inaugurated-at-apex-court"
+        }
+      ],
+      "timestamp": "Oct 10, 4:39 AM",
+      "publishedAt": "2026-10-10T04:39:01+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No measurable economic effect."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "Improves institutional access to the justice system."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Free legal guidance and aid referrals can help ordinary citizens navigate the courts."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not relevant to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual announcement-style report."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based only on the RSS excerpt; the article page returned 403."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Makkah alliance: Pakistan reaffirms support for Saudi Arabia",
+      "summary": "AI summary: The Foreign Office spokesperson said Pakistan's role in the Makkah alliance is defensive, denying reports that Pakistani jets joined strikes in Yemen while affirming forces could help defend Saudi territory. He also said Islamabad keeps mediating between the US and Iran, and that no joint statement emerged from the Moscow Format talks after the Afghan Taliban rejected agreed language on terrorism.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/685813-pakistan-reaffirms-support-for-saudi-arabia-denies-reports-of-jets-in-yemen"
+        }
+      ],
+      "timestamp": "Oct 9, 9:03 PM",
+      "publishedAt": "2026-10-09T21:03:52+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Clarifies Pakistan's posture without direct economic measures."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Restates foreign-policy positions; no change to domestic institutions."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Denial of combat involvement limits escalation risk, though regional tension remains a concern for about 2.5 million Pakistanis in Saudi Arabia."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Gulf security and regional escalation affect remittances, oil and investor sentiment."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the official briefing with claims attributed to the spokesperson."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; on-record statements from a named official."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Bilawal urges PTI to shun 'extremist' politics as govt 'weighs' KP emergency, governor's rule",
+      "summary": "AI summary: In a Karachi speech, PPP chairman Bilawal Bhutto-Zardari told PTI its confrontational approach was hurting the party and urged it to return to parliamentary talks with the federal government. Unnamed sources say the government is considering an emergency or governor's rule in Khyber Pakhtunkhwa, possibly covering 12 districts, with a high-level security review expected while PTI's long march toward Islamabad continues.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/685798-bilawal-urges-pti-to-shun-extremist-politics-as-govt-weighs-kp-emergency-governors-rule"
+        }
+      ],
+      "timestamp": "Oct 9, 6:57 PM",
+      "publishedAt": "2026-10-09T18:57:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "An emergency or governor's rule in KP, plus an ongoing long march, could disrupt business and movement in the province."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Possible suspension of normal provincial governance signals serious federal-provincial confrontation."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Security concerns and potential emergency measures affect daily life and civil liberties in KP."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Political instability and possible emergency rule are relevant to investor sentiment."
+        },
+        "lean": {
+          "value": "pro-government",
+          "reason": "A coalition leader's criticism of PTI runs with no PTI response, and the emergency plans are reported from unnamed sources without opposing voices."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but the emergency claims rest entirely on unnamed sources."
+        }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "PIA temporarily suspends Riyadh flights, confirms PAA",
+      "summary": "AI summary: PIA has paused its Riyadh service after Houthi attacks on the city's airport that Saudi authorities say killed three people, the Pakistan Airports Authority confirmed, adding that other Saudi routes run normally and dismissing social media rumours. No resumption date was given, and Europe's aviation safety agency has widened its no-fly advisory over the region.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/685776-pia-temporarily-suspends-riyadh-flights-confirms-paa"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40443526/pia-temporarily-suspends-riyadh-operations"
+        }
+      ],
+      "timestamp": "Oct 9, 5:05 PM",
+      "publishedAt": "2026-10-09T17:05:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Lost airline revenue and travel disruption for workers and businesses on a key route."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Operational aviation decision with no direct governance effect."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Disrupts travel for Pakistani workers and families connected to Riyadh amid security risks."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Relevant to aviation, travel and remittance-linked business."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual report built on the airports authority's confirmation."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Two outlets report matching details; full Geo article read."
+        }
+      }
+    }
+  ]
+}
