@@ -1,0 +1,341 @@
+{
+  "generatedAt": "2026-10-11T16:32:17+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Naqvi says Centre tried to take KP govt on board in counterterror fight",
+      "summary": "AI summary: Interior Minister Mohsin Naqvi said the federal government spent over a month trying to bring the PTI-run Khyber Pakhtunkhwa government into a joint counterterrorism effort, describing a draft agreement that went through four revisions before talks collapsed. His account came after the Centre placed the province under emergency and governor's rule.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2036389/naqvi-says-centre-tried-to-take-kp-govt-on-board-in-counterterror-fight"
+        }
+      ],
+      "timestamp": "Oct 11, 4:20 PM",
+      "publishedAt": "2026-10-11T16:20:56+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Justification briefing with no direct effect on prices, jobs or business."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Publicly airs the breakdown between the Centre and KP government, deepening the federal-provincial rift."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate effect on daily life beyond the wider emergency it explains."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Political messaging with little direct investor relevance."
+        },
+        "lean": {
+          "value": "pro-government",
+          "reason": "Carries only the interior minister's account; no response from PTI or the KP government is included."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but it rests on one official's claims and was marked as developing."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "PTI calls Centre's move to impose emergency in KP a 'grave political mistake'",
+      "summary": "AI summary: PTI leaders, including chairman Gohar Ali Khan and Asad Qaiser, rejected the emergency and governor's rule in Khyber Pakhtunkhwa as an assault on the province's mandate and autonomy, vowing a constitutional and democratic response. Party KP president Junaid Akbar said he and Chief Minister Sohail Afridi had been arrested, a claim the government had not officially addressed.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/686028-pti-calls-centres-move-to-impose-emergency-in-kp-a-grave-political-mistake"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40443682/pti-rejects-emergency-governors-rule-in-kp-condemns-arrests-of-cm-sohail-afridi-junaid-akbar"
+        }
+      ],
+      "timestamp": "Oct 11, 2:20 PM",
+      "publishedAt": "2026-10-11T14:20:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Reaction statements with no direct economic measure attached."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Reported arrest of a sitting chief minister and the provincial ruling party's rejection signal a sharp confrontation."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Reported detentions and threatened protests raise risk of unrest in the province."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Party statements carry limited direct market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports PTI's reaction as a reaction story while noting the Centre's stated security rationale; arrest claims are attributed, not asserted."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Two outlets agree, but the arrest claim is unconfirmed and the Business Recorder side relies on an RSS excerpt."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Emergency, governor's rule imposed in KP as president approves cabinet decision",
+      "summary": "AI summary: President Asif Ali Zardari approved the federal cabinet's call to impose an emergency and governor's rule in Khyber Pakhtunkhwa under Articles 232 and 234, with the Centre accusing the provincial government of pulling back from counterterrorism. A new chief secretary was named, mobile data was disrupted in parts of some cities, and PTI and other opposition groups rejected the step as unconstitutional.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40443673/emergency-governors-rule-imposed-in-kp-as-president-approves-cabinet-decision"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2036352/emergency-governors-rule-imposed-in-kp-as-president-approves-cabinet-decision"
+        }
+      ],
+      "timestamp": "Oct 11, 2:18 PM",
+      "publishedAt": "2026-10-11T14:18:58+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Suspension of provincial rule and mobile data cuts add uncertainty and disrupt business activity in KP."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Federal takeover of an elected provincial government is a major institutional rupture contested by the opposition."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Internet disruption, heavy police deployment and protest risk affect daily life in the province."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Political instability at this scale bears directly on investor sentiment, with the PM linking it to IMF tranche prospects."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Gives the cabinet's rationale alongside PTI, opposition alliance and legal-procedure context."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full Dawn article read and matching details corroborated by Business Recorder."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Soldier martyred, 12 terrorists killed as security forces foil infiltration attempt in Kurram: ISPR",
+      "summary": "AI summary: The military's media wing ISPR said troops repelled an infiltration attempt from Afghanistan into Kurram district, killing 12 militants including Afghan Taliban personnel, with one soldier killed, and accused Afghan border posts of giving covering fire. Coverage also cites PICSS data showing militant attacks in September reached a 12-year monthly high.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40443677/12-khwarij-afghan-taliban-killed-in-thwarted-infiltration-attempt-in-kurram-ispr"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/686013-12-terrorists-afghan-taliban-personnel-killed-as-security-forces-foil-infiltration-bid-in-kurram"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2036382/soldier-martyred-12-terrorists-killed-as-security-forces-foil-infiltration-attempt-in-kurram-ispr"
+        }
+      ],
+      "timestamp": "Oct 11, 12:48 PM",
+      "publishedAt": "2026-10-11T12:48:01+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Border clash with no immediate stated economic effect."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "ISPR's accusation that Afghan Taliban posts aided the attack heightens Pakistan-Afghanistan tension."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Deaths, an ongoing clearance operation and record monthly attack figures point to continuing insecurity in KP."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Localized security incident with limited direct investor relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "All outlets attribute the account to ISPR rather than asserting it independently."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Three outlets agree, but all rely on a single ISPR statement with no independent verification."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Pakistan condemns Houthi attack on Riyadh airport, reaffirms commitment to Saudi security",
+      "summary": "AI summary: Pakistan's prime minister and Foreign Office condemned a Houthi strike on Riyadh's King Khalid International Airport that Saudi authorities said killed at least 12 people and wounded over 300, calling attacks on civilian infrastructure terrorism. Islamabad reaffirmed its defence commitments to Saudi Arabia, days after agreeing with Riyadh and Ankara on rapid troop deployment.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/685997-pakistan-condemns-houthi-attack-on-riyadh-airport-reaffirms-commitment-to-saudi-security"
+        }
+      ],
+      "timestamp": "Oct 11, 10:06 AM",
+      "publishedAt": "2026-10-11T10:06:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Diplomatic statement; Gulf instability is a background risk but no direct effect is reported."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Restates an existing foreign policy position without changing domestic governance."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No Pakistani casualties are reported; limited direct effect on daily life at home."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Gulf security and Pakistan's deepening military role there matter for oil, remittances and regional risk."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straight report of official statements with casualty figures attributed to Saudi authorities."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; content is official statements on the record."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "KP police put on alert as emergency 'looms'",
+      "summary": "AI summary: Khyber Pakhtunkhwa's police chief ordered district forces to prepare for possible violent protests and sabotage if an emergency were declared, directing protection of key sites such as banks, fuel stations and government buildings. The notification calls for negotiation and restraint first, with force escalating in stages and aerial firing only in extreme cases.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2036342/kp-police-put-on-alert-as-emergency-looms"
+        }
+      ],
+      "timestamp": "Oct 11, 8:24 AM",
+      "publishedAt": "2026-10-11T08:24:21+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Precautionary security order with no direct economic measure."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Administrative preparation rather than a governance change in itself."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Anticipation of violent protest and potential use of force signals risk to public safety."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Operational police guidance of little investor relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual report of an official notification without partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but it rests on one notification with no independent corroboration."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Zardari briefed on KP law and order",
+      "summary": "AI summary: KP Governor Faisal Karim Kundi and Interior Minister Mohsin Naqvi met President Asif Ali Zardari late Saturday to brief him on worsening law and order in Khyber Pakhtunkhwa and wider security concerns.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40443660/zardari-briefed-on-kp-law-and-order"
+        }
+      ],
+      "timestamp": "Oct 11, 2:21 AM",
+      "publishedAt": "2026-10-11T02:21:50+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Briefing meeting with no economic decision reported."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine consultation, though it preceded the emergency decision."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "The briefing centred on deteriorating law and order in the province."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little direct relevance to investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Brief factual report of an official meeting."
+        },
+        "confidence": {
+          "value": "low",
+          "reason": "Working only from a short RSS excerpt; article page blocked (403)."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Federal govt decides to impose emergency in KP: sources",
+      "summary": "AI summary: Citing unnamed sources, the report said the president and prime minister had agreed in a Saturday meeting to seek an emergency in Khyber Pakhtunkhwa as PTI's march toward Islamabad continued, with cabinet approval expected the next morning. The KP governor said no formal decision had yet been taken, JUI-F urged talks instead, and Section 144 restrictions were imposed in Rawalpindi until November 8.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/685964-federal-govt-decides-to-impose-emergency-in-kp-sources"
+        }
+      ],
+      "timestamp": "Oct 10, 10:57 PM",
+      "publishedAt": "2026-10-10T22:57:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Pre-decision report; no direct economic measure yet."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Signals an imminent federal override of the provincial government amid a protest march."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "A month-long ban on gatherings in Rawalpindi curbs movement and assembly."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Prospect of emergency rule raises political risk relevant to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Includes the governor's caveat and JUI-F's call for dialogue alongside the sourced claim."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Core claim relies on anonymous sources, though later events matched it."
+        }
+      }
+    }
+  ]
+}
