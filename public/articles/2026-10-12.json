@@ -1,0 +1,377 @@
+{
+  "generatedAt": "2026-10-12T09:57:12+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Pakistani national killed, 11 wounded as Riyadh airport hit by Houthi strike",
+      "summary": "AI summary: Saudi aviation authorities said a projectile strike on Riyadh's King Khalid International Airport on Sunday killed a Pakistani resident and injured 11 people, a day after an earlier Houthi-claimed attack there that officials said left 12 dead. The airport's closure was extended, and the Houthis have threatened further strikes on Saudi transport hubs.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2036412/pakistani-national-killed-11-wounded-as-riyadh-airport-hit-by-houthi-strike"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/686103-pakistani-killed-11-others-injured-in-riyadh-airport-attack"
+        }
+      ],
+      "timestamp": "Oct 12, 8:49 AM",
+      "publishedAt": "2026-10-12T08:49:39+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Airport shutdown and Gulf instability threaten travel, remittance flows and labour mobility for Pakistani workers."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Foreign conflict with no direct effect on Pakistan's domestic institutions."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "A Pakistani worker was killed and expatriates in Saudi Arabia face heightened risk."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Gulf aviation disruption and regional escalation are relevant to oil, travel and remittance outlooks."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Both outlets attribute casualty figures to Saudi authorities and attack claims to the Houthis."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Two independent outlets report matching casualty figures attributed to the same official source."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Another slain MT Honour 25 seaman's family seeks return of his remains",
+      "summary": "AI summary: The family of a Pakistani ship engineer killed in a September attack on a tanker off Oman is pressing for his body to be brought home, saying they have had no clear answer from officials. The Foreign Office has said the remains are held in an Omani mortuary pending DNA identification, but the family says no sample has yet been taken from them.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2036510/another-slain-mt-honour-25-seamans-family-seeks-return-of-his-remains"
+        }
+      ],
+      "timestamp": "Oct 12, 8:16 AM",
+      "publishedAt": "2026-10-12T08:16:06+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Individual case with no broad effect on jobs, prices or business."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Raises questions about consular responsiveness but does not affect governance stability."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "A bereaved family remains without the remains of a relative, highlighting risks to Pakistani seafarers."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little relevance to markets or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Presents the family's account alongside the Foreign Office's stated position."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single source; the article body names a different vessel (MT El Gaia) than the headline, so some detail is unclear."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Textile makers warn of steep decline in exports from Oct to Dec",
+      "summary": "AI summary: The Pakistan Textile Exporters Association warned that goods exports will fall sharply in the October to December quarter, blaming weak Western demand, freight costs up to two and a half times higher and rising production costs. It asked the government for temporary duty drawback support, release of pending refunds, removal of energy cross-subsidies and implementation of the announced export finance rate.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2036498/textile-makers-warn-of-steep-decline-in-exports-from-oct-to-dec"
+        }
+      ],
+      "timestamp": "Oct 12, 7:00 AM",
+      "publishedAt": "2026-10-12T07:00:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "A projected drop in the country's largest export sector points to pressure on jobs, foreign exchange and output."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Industry lobbying for policy relief, not a governance shock."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Lower textile activity risks layoffs in a labour-intensive sector already hit by high inflation."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Directly relevant to exporters, banks and investors tracking the external account."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports an industry body's warning and demands as attributed statements."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single-source report of an industry forecast, not yet confirmed by official trade data."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Pakistan condemns Houthi attack on Riyadh airport",
+      "summary": "AI summary: Pakistan's Foreign Office denounced the Houthi strike on Riyadh's main airport as terrorism and a violation of international law, offered condolences over the casualties and voiced support for Saudi Arabia's right to defend itself. It called on the group to halt its attacks and referred to the joint defence pact between the two countries.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40443749/pakistan-condemns-houthi-attack-on-riyadh-airport"
+        }
+      ],
+      "timestamp": "Oct 12, 4:45 AM",
+      "publishedAt": "2026-10-12T04:45:11+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Diplomatic statement with no direct effect on prices or jobs."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine foreign policy position consistent with existing Saudi ties."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life in Pakistan."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited market relevance beyond signalling alignment with Riyadh."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straight report of an official statement without editorial framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Worked from the RSS excerpt only, since the article page was not fetched."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Deployment of Army in KP notified",
+      "summary": "AI summary: The Interior Ministry issued a notification under Article 245 authorising army troops to assist civil authorities in Khyber Pakhtunkhwa for as long as the October 11 emergency proclamation remains in force. The governor, in consultation with the army's Military Operations Directorate, will decide how many troops are needed.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40443754/deployment-of-army-in-kp-notified"
+        }
+      ],
+      "timestamp": "Oct 12, 4:45 AM",
+      "publishedAt": "2026-10-12T04:45:11+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Security measure with no immediate stated economic effect."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Military deployment under emergency rule signals a deep breakdown of normal civilian governance in the province."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Troop deployment reflects a serious security situation affecting residents' daily lives."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Heightened security posture in KP is relevant to businesses and investors operating there."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual report of a government notification."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Worked from the RSS excerpt only, since the article page was not fetched."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "JI chief opposes governor's rule",
+      "summary": "AI summary: Jamaat-e-Islami head Hafiz Naeemur Rehman rejected the imposition of emergency and governor's rule in Khyber Pakhtunkhwa, arguing on X that political disputes must be settled democratically and that such steps reflect weakening authority. He also faulted the PPP and PML-N for having used governor's rule in the past.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40443724/ji-chief-opposes-governors-rule"
+        }
+      ],
+      "timestamp": "Oct 12, 4:45 AM",
+      "publishedAt": "2026-10-12T04:45:10+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Political statement with no direct economic effect."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Adds to cross-party opposition to the KP emergency, widening the political confrontation."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little direct market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "A straight report of one party leader's statement; framing does not itself take sides."
+        },
+        "confidence": {
+          "value": "low",
+          "reason": "Worked from a short RSS excerpt of a social media post."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "All Punjab schools to remain open today as authorities debunk fake holiday notice",
+      "summary": "AI summary: Punjab's school and higher education departments said a circulating notice announcing closures was fake and that schools, colleges and universities would operate normally on Monday. In Khyber Pakhtunkhwa, by contrast, some districts including Peshawar, Malakand and Lower Dir closed schools and two boards postponed secondary exams over security concerns.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/686094-punjab-schools-to-open-monday-as-education-departments-debunk-fake-holiday-notice"
+        }
+      ],
+      "timestamp": "Oct 12, 2:37 AM",
+      "publishedAt": "2026-10-12T02:37:54+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No meaningful effect on prices or business activity."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Administrative clarification; no effect on institutional stability."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "KP school closures and postponed exams disrupt students' education, even as Punjab stays open."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not relevant to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports official statements factually."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Based on the full article citing named official departments."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Ministers defend KP emergency as choice between 'daily martyrdoms', tough decision",
+      "summary": "AI summary: At an Islamabad press conference, the interior, law and information ministers justified the Khyber Pakhtunkhwa emergency, saying terror incidents in the province had risen sharply and that talks with PTI collapsed after several drafts. The information minister alleged links between the former provincial government and militants, a claim the article does not put to PTI for response.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/686065-ministers-defend-kp-emergency-as-choice-between-daily-martyrdoms-tough-decision"
+        }
+      ],
+      "timestamp": "Oct 11, 6:58 PM",
+      "publishedAt": "2026-10-11T18:58:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Political messaging with no direct effect on prices or jobs."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Escalating federal accusations against the ousted provincial government deepen the political confrontation."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "The cited rise in terror incidents points to serious public safety concerns in KP."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Mainly political communication."
+        },
+        "lean": {
+          "value": "pro-government",
+          "reason": "Carries ministers' claims, including an unproven allegation of militant links, with no PTI rebuttal."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single source; the claims are attributed but uncorroborated."
+        }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "Emergency, governor's rule imposed in KP as President Zardari approves summary on PM's advice",
+      "summary": "AI summary: President Asif Ali Zardari approved the federal cabinet's advice to impose an emergency and governor's rule in Khyber Pakhtunkhwa under Articles 232 and 234, with the government citing security conditions and the collapse of talks with the PTI-led provincial leadership. Governor Faisal Karim Kundi will run the province with an 11-member advisory council, while PTI and other parties denounced the step as undemocratic and vowed a court challenge.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/686054-emergency-governors-rule-imposed-in-kp-as-president-zardari-approves-summary-on-pms-advice"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2036352/emergency-governors-rule-imposed-in-kp-as-president-approves-cabinet-decision"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40443755/governors-rule-emergency-imposed-on-kp"
+        }
+      ],
+      "timestamp": "Oct 11, 5:33 PM",
+      "publishedAt": "2026-10-11T17:33:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Emergency rule and internet disruptions in Peshawar are likely to dampen business activity in the province."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Suspending an elected provincial government is a major shock to federal-provincial relations and institutional stability."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Troop deployment, reported internet disruption and school closures affect residents' daily lives."
+        },
+        "market": {
+          "value": "high",
+          "reason": "A major political and security development relevant to investors' assessment of country risk."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Coverage reports the government's rationale alongside objections from PTI, JUI-F and others."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Three outlets independently report matching details of the proclamation and legal basis."
+        }
+      }
+    }
+  ]
+}
