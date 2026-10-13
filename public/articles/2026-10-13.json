@@ -1,0 +1,413 @@
+{
+  "generatedAt": "2026-10-13T09:11:25+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Riyadh vows 'serious' response amid Houthi escalation",
+      "summary": "AI summary: Saudi Arabia has promised a serious retaliation after Houthi strikes on Riyadh's main airport left 18 dead in less than a week, with oil climbing above $105 a barrel and the airport closed until October 17. The Houthis threatened US interests if Washington joins the Saudi campaign, while Iran offered to mediate.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2036764/riyadh-vows-serious-response-amid-houthi-escalation"
+        }
+      ],
+      "timestamp": "Oct 13, 7:47 AM",
+      "publishedAt": "2026-10-13T07:47:42+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Oil above $105 raises Pakistan's import bill and fuel prices, and Gulf disruption threatens worker travel and remittances."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Foreign conflict with no direct effect on Pakistan's domestic institutions."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Rising casualties and airport closure endanger and strand the large Pakistani workforce in Saudi Arabia."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Oil price spike and Gulf aviation disruption are directly market-moving."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Agency-based report attributing claims to Saudi, Houthi, US and Iranian sides."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; casualty and price figures attributed to named officials and agencies."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Super El Nino set to make 2026 record hottest year",
+      "summary": "AI summary: Europe's Copernicus service says Pacific sea temperatures in the key El Nino monitoring zone hit a record high in September, which could make 2026 the hottest year on record and possibly push 2027 higher still. Its director cautioned it is still too early to call this the strongest El Nino ever observed.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2036765/super-el-nino-set-to-make-2026-record-hottest-year"
+        }
+      ],
+      "timestamp": "Oct 13, 7:38 AM",
+      "publishedAt": "2026-10-13T07:38:12+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "A strong El Nino typically threatens crop yields and raises weather-related costs for agriculture-dependent economies."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Global climate data with no direct governance effect."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Record heat raises risks to health, water and daily life, though the article does not name Pakistan specifically."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Relevant to agriculture, energy demand and commodity planning."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straight science reporting citing Copernicus and its director, including his caveats."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; figures attributed to a named scientific agency."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "At least five killed, several injured as Rehman Baba Express derails in Multan",
+      "summary": "AI summary: All 14 coaches of the Karachi to Peshawar Rehman Baba Express left the tracks near Sher Shah Bridge in Multan early Tuesday, killing at least five passengers and injuring around 30, according to police and rescue officials. The cause has not been officially established, and the prime minister ordered faster rescue and medical care.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/686262-three-killed-as-rehman-baba-express-derails-near-multan-several-injured"
+        }
+      ],
+      "timestamp": "Oct 13, 7:32 AM",
+      "publishedAt": "2026-10-13T07:32:23+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Disruption to a major north-south rail route affects travel and freight in the near term."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Prompts official response and scrutiny of railway safety but no institutional instability."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Loss of life and injuries, with renewed concern over passenger rail safety."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited relevance to investors beyond railway operations."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual report citing police, rescue officials and a passenger, flagging unverified claims as such."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but the toll was still being updated (URL says three, body says five) and the cause is unconfirmed."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "'Pakistan's poverty rate higher than India, B'desh'",
+      "summary": "AI summary: UNDP's latest Multidimensional Poverty Index puts 38.3% of Pakistanis in multidimensional poverty, far above India and Bangladesh, though the underlying surveys come from different years. Globally the count of such poor people rose for the first time in 15 years, to 1.2 billion.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2036753/pakistans-poverty-rate-higher-than-india-bdesh"
+        }
+      ],
+      "timestamp": "Oct 13, 7:00 AM",
+      "publishedAt": "2026-10-13T07:00:17+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Signals deep deprivation in health, education and living standards that weighs on productivity and demand."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "An international data release; may add policy pressure but no direct institutional effect."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Over a third of the population faces multidimensional poverty, with another 12.9% vulnerable."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Useful context for development finance and consumer-market planning, not immediately price-moving."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports UNDP figures and notes the survey-year caveat without partisan framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; figures attributed to a named UN index and official."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "PM forms body to oversee Centre's KP affairs",
+      "summary": "AI summary: Following the emergency and governor's rule in Khyber Pakhtunkhwa, PM Shehbaz Sharif has set up an 11-member committee under Deputy PM Ishaq Dar to monitor the province's governance, security and administration daily, reportedly without a formal notification so far. Opposition parties, lawyers and rights groups have condemned the move, per Business Recorder.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40443937/pm-forms-body-to-oversee-centres-kp-affairs"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2036767/dar-led-body-to-oversee-kp-affairs"
+        }
+      ],
+      "timestamp": "Oct 13, 5:04 AM",
+      "publishedAt": "2026-10-13T05:04:30+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic measures announced, though prolonged uncertainty in KP could weigh on activity there."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Federal oversight of a province under emergency rule deepens centre-province and government-opposition confrontation."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Framed around security and governance; daily-life effects not yet clear."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Political instability in a province is relevant to investor risk perception."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Dawn's piece relies on government-side sources only, but Business Recorder's coverage notes condemnation from critics, so the combined card is balanced."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Corroborated by two outlets, but the committee's status rests on an anonymous source and BR was read from its RSS excerpt only."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Governor's rule, Emergency in KP: President summons NA, Senate sessions today",
+      "summary": "AI summary: President Asif Ali Zardari has called separate National Assembly and Senate sittings for Tuesday evening, as the government seeks parliamentary approval for the emergency and governor's rule in Khyber Pakhtunkhwa. A heated debate is expected, with the opposition questioning the constitutional basis of the measures.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40443936/governors-rule-emergency-in-kp-president-summons-na-senate-sessions-today"
+        }
+      ],
+      "timestamp": "Oct 13, 5:04 AM",
+      "publishedAt": "2026-10-13T05:04:30+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Procedural step with no direct economic measures."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Parliament is set to debate contested emergency rule in a province, signalling serious institutional strain."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate effect on daily life from the session itself."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Outcome of the endorsement vote matters for political risk assessments."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Excerpt notes both the government's procedural move and opposition objections."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Working from the RSS excerpt only (article page returned 403)."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Setting aside an order-in-original: No unlimited period for re-adjudication: apex court",
+      "summary": "AI summary: A three-judge Supreme Court bench ruled that when a sales tax order is set aside and sent back for fresh adjudication, tax authorities get a new time limit under section 36(3), not open-ended time. The case involved a remanded adjudication that took nearly five years against a 45-day requirement.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40443926/setting-aside-an-order-in-original-no-unlimited-period-for-re-adjudication-apex-court"
+        }
+      ],
+      "timestamp": "Oct 13, 5:04 AM",
+      "publishedAt": "2026-10-13T05:04:29+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "Time limits on re-adjudication give businesses more certainty against prolonged tax disputes."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A routine judicial interpretation of tax law."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on public daily life."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Relevant to companies facing sales tax litigation and tax compliance planning."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straight legal reporting on a court judgment."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Working from the RSS excerpt only (article page returned 403)."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Iqrar ul Hassan 'picked up' from home, whereabouts remain unknown: family",
+      "summary": "AI summary: The family of Pakistan Awam Raj Tehreek chief Iqrar ul Hassan says a group took him from his home around 2am along with phones, a laptop and CCTV footage, and his wife says she saw NCCIA markings. His lawyer says the NCCIA denied holding him before a magistrate, while Punjab's information minister said police did not arrest him and the matter is under investigation.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/686213-iqrar-ul-hassan-picked-up-from-home-whereabouts-remain-unknown-family"
+        }
+      ],
+      "timestamp": "Oct 12, 11:21 PM",
+      "publishedAt": "2026-10-12T23:21:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No economic dimension."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Alleged unacknowledged detention of a party leader raises rule-of-law and civil-liberties concerns."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Unknown whereabouts and a reported forced entry heighten public concern over personal safety and due process."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little direct relevance to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Presents the family's, lawyer's and Punjab government's accounts side by side."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but key facts are contested claims and his whereabouts are unconfirmed."
+        }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "Omani FM to arrive in Pakistan for two-day visit today",
+      "summary": "AI summary: Oman's Foreign Minister Sayyid Badr Albusaidi begins a two-day visit to Pakistan to co-chair the 8th Pakistan-Oman Joint Ministerial Commission with Ishaq Dar, covering trade, investment, energy, agriculture and aviation. He is also expected to call on PM Shehbaz Sharif.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/686208-omani-fm-to-arrive-in-pakistan-for-two-day-visit-tomorrow"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40443925/omans-fm-arrives-today"
+        }
+      ],
+      "timestamp": "Oct 12, 10:53 PM",
+      "publishedAt": "2026-10-12T22:53:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "Commission agenda targets trade, investment and oil and gas cooperation, though no specific deals are named."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "Routine high-level diplomacy reinforcing a stable bilateral relationship."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Possible trade and energy cooperation is of interest to businesses, pending concrete outcomes."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straightforward reporting based on the Foreign Office announcement."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Corroborated by two outlets with matching details, drawn from an official statement."
+        }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "Four youths martyred as landmine drifting from Indian side explodes near LoC",
+      "summary": "AI summary: AJK's public relations directorate said four young men repairing a water pipeline near the Line of Control in Poonch were killed when a landmine it says drifted from the Indian side exploded. The DGPR warned that residents and livestock near the LoC remain at risk from such drifting mines.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/686212-four-youths-martyred-as-landmine-drifting-from-indian-side-explodes-near-loc"
+        }
+      ],
+      "timestamp": "Oct 12, 10:50 PM",
+      "publishedAt": "2026-10-12T22:50:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Local tragedy with no broad economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Adds to Pakistan-India border tension but no direct domestic institutional effect."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Civilian deaths and an ongoing mine hazard for LoC communities."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Attributes the account to the AJK DGPR; no domestic partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but the origin of the mine rests on an official claim not independently verified."
+        }
+      }
+    }
+  ]
+}
