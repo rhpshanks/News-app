@@ -1,0 +1,413 @@
+{
+  "generatedAt": "2026-10-14T10:43:20+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Makkah Alliance sec-gen meets PM Shehbaz, briefs premier on defence cooperation",
+      "summary": "AI summary: The first secretary-general of the Makkah Joint Defence Agreement, Lt Gen (retd) Nauman Mahmood, briefed PM Shehbaz Sharif on plans for defence and strategic cooperation under the Pakistan, Saudi Arabia and Turkiye pact, according to Radio Pakistan. Sharif called the pact a regional milestone and restated Pakistan's backing for Saudi security as the Houthi conflict escalates.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2037071/makkah-alliance-sec-gen-meets-pm-shehbaz-briefs-premier-on-defence-cooperation"
+        }
+      ],
+      "timestamp": "Oct 14, 10:35 AM",
+      "publishedAt": "2026-10-14T10:35:44+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A courtesy briefing with no announced spending, trade or financial measures."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine diplomatic engagement on an existing pact, with no effect on domestic institutions."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life, though deeper Gulf security commitments carry longer-term risk."
+        },
+        "market": {
+          "value": "low",
+          "reason": "No concrete deal or figures that would move investor decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "A standard official readout relayed from the state broadcaster, without editorial praise or criticism."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single outlet relying only on an official statement, and the report was marked as still developing."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Pope Leo has cancerous tumour removed in lung operation",
+      "summary": "AI summary: Surgeons at Rome's Gemelli hospital removed the lower lobe of Pope Leo XIV's right lung to take out a confirmed adenocarcinoma, and the Vatican said the 90-minute operation went without complications. Tests are continuing to see whether the cancer has spread, audiences are cancelled until October 20, and his November trip to Latin America is uncertain.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2037070/pope-leo-has-cancerous-tumour-removed-in-lung-operation"
+        }
+      ],
+      "timestamp": "Oct 14, 10:21 AM",
+      "publishedAt": "2026-10-14T10:21:04+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Foreign health news with no bearing on Pakistan's jobs, prices or business."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "No effect on Pakistan's governance or institutions."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "International news with no direct effect on daily life in Pakistan."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not relevant to local markets or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Wire-based report citing the Vatican and an independent medical expert, with no political framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read, with clear attribution to the Vatican and AFP."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "'Emergency applies to all of KP, not just 12 districts'",
+      "summary": "AI summary: Law Minister Azam Nazeer Tarar said the Article 232 emergency covers the whole of Khyber Pakhtunkhwa, with an added mechanism and secretariat for the 12 districts worst hit by militancy, citing a claimed 195 per cent rise in attacks. He blamed the former PTI-led provincial government's approach, while Information Minister Attaullah Tarar denied any political agenda against the party.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2037025/emergency-applies-to-all-of-kp-not-just-12-districts"
+        }
+      ],
+      "timestamp": "Oct 14, 8:15 AM",
+      "publishedAt": "2026-10-14T08:15:23+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No economic measures announced, though prolonged emergency rule could weigh on provincial business confidence."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Confirms federal emergency powers over an entire province whose elected government was removed, deepening the centre-opposition dispute."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "The ministers' own figures describe a sharp rise in militant attacks affecting public safety across KP."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Political and security story with limited direct market relevance."
+        },
+        "lean": {
+          "value": "pro-government",
+          "reason": "The report body carries only the ministers' claims and figures, with no rebuttal from PTI or the opposition."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but key figures are the government's own and not independently checked."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Joint opposition flays move to 'usurp KP govt mandate'",
+      "summary": "AI summary: Opposition parties meeting at Parliament House under NA Opposition Leader Mehmood Khan Achakzai demanded an end to the emergency and governor's rule in Khyber Pakhtunkhwa, condemning the removal of its elected government and the arrest of leaders including Chief Minister Sohail Afridi. They accused the centre of treating Balochistan and KP differently and called for a counterterrorism strategy agreed with all stakeholders.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2037013/joint-opposition-flays-move-to-usurp-kp-govt-mandate"
+        }
+      ],
+      "timestamp": "Oct 14, 7:49 AM",
+      "publishedAt": "2026-10-14T07:49:05+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No economic measures involved."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Unified opposition rejection of governor's rule and arrests of political leaders signal escalating institutional confrontation."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Political dispute without reported direct effect on daily life beyond the arrests."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited direct relevance to investors, beyond general political risk."
+        },
+        "lean": {
+          "value": "pro-opposition",
+          "reason": "The report carries only the opposition's statement, with no government response in the body."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but claims are one side's statement and not independently verified."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "At least 5 killed, 41 hurt as train derails near Multan",
+      "summary": "AI summary: The Peshawar-bound Rehman Baba Express came off the tracks near Sher Shah station in Multan, with officials giving four or five deaths and 41 people injured, among them 13 children. Railways Minister Hanif Abbasi pledged compensation and set a December 31 deadline for repairing rolling stock, while the driver said his signal was clear.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40444095/at-least-5-killed-41-hurt-as-train-derails-near-multan"
+        }
+      ],
+      "timestamp": "Oct 14, 4:31 AM",
+      "publishedAt": "2026-10-14T04:31:49+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Localised disruption with compensation costs, but no wider economic effect reported."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Raises questions of railway management but no institutional instability."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Deaths and dozens of injuries, including children, plus concerns about rolling stock safety."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not relevant to market or investment decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual accident report noting both the minister's and spokesperson's differing death tolls."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on the RSS excerpt only (article page returned 403), and official death tolls differ."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Skilled workers and professionals in Europe: PM for expanding legal migration opportunities",
+      "summary": "AI summary: In talks with visiting EU Migration Commissioner Magnus Brunner, PM Shehbaz Sharif pressed for more legal pathways for Pakistani skilled workers and professionals to Europe, arguing this would fill labour gaps and undercut smuggling networks. The two sides discussed cooperation under the Pakistan-EU Strategic Engagement Plan, and Brunner commended Pakistan's anti-trafficking steps.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40444096/skilled-workers-and-professionals-in-europe-pm-for-expanding-legal-migration-opportunities"
+        }
+      ],
+      "timestamp": "Oct 14, 4:31 AM",
+      "publishedAt": "2026-10-14T04:31:49+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "Wider legal migration routes could raise overseas employment and remittances, though nothing was agreed yet."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine diplomatic engagement with no domestic institutional effect."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Safer legal routes could reduce reliance on dangerous smuggling networks."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Exploratory talks with no concrete commitments."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straight readout of a bilateral meeting without contested claims."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on the RSS excerpt only, as the article page returned 403."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Oman FM Albusaidi begins Pakistan visit for JMC, talks with DPM Dar",
+      "summary": "AI summary: Omani Foreign Minister Sayyid Badr Albusaidi arrived in Islamabad for a two-day visit to co-chair the eighth Pakistan-Oman Joint Ministerial Commission with Deputy PM Ishaq Dar. The agenda spans trade, investment, energy, labour, security and other sectors, and he is also due to call on PM Shehbaz Sharif.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/686357-oman-fm-albusaidi-begins-pakistan-visit-for-jmc-talks-with-dpm-dar"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40444101/omani-fm-arrives"
+        }
+      ],
+      "timestamp": "Oct 13, 9:35 PM",
+      "publishedAt": "2026-10-13T21:35:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "Commission talks on trade, investment, oil and gas and labour could open economic opportunities, though no deals are announced yet."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine bilateral diplomacy with no domestic institutional effect."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate effect on daily life."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Energy, trade and investment agenda is of some interest to businesses dealing with the Gulf."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual visit coverage based on Foreign Office details, without one-sided framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Two outlets report matching details, with the Geo article read in full."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Vawda says incumbent KP setup will also be replaced 'if it fails to perform'",
+      "summary": "AI summary: Senator Faisal Vawda backed the emergency in Khyber Pakhtunkhwa, saying Governor Faisal Karim Kundi's administration would itself be replaced if it fails, with results expected within 60 days and public relief within 180. He criticised PTI's record on education and health in the province and said KP would not be divided.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/686334-vawda-says-incumbent-kp-setup-will-also-be-replaced-if-it-fails-to-perform"
+        }
+      ],
+      "timestamp": "Oct 13, 6:28 PM",
+      "publishedAt": "2026-10-13T18:28:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No economic measures announced."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Signals further possible changes to an unelected provincial setup, adding to governance uncertainty in KP."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Promises of public relief are not yet concrete measures."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Political commentary with little direct market relevance."
+        },
+        "lean": {
+          "value": "pro-government",
+          "reason": "The piece carries only Vawda's supportive view of the emergency, with no PTI response to his criticism."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but it rests on one speaker's claims."
+        }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "Pakistan successfully test-fires hypersonic ballistic missile",
+      "summary": "AI summary: ISPR said the army test-launched an extended-range version of the Fatah-2 hypersonic ballistic missile, describing upgraded navigation, manoeuvrability and the ability to evade missile defences. The test, watched by the Army Rocket Force Command chief, drew congratulations from the president, prime minister and service chiefs, and followed a recent Fatah-4 cruise missile test.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/686331-pakistan-army-successfully-test-launches-hypersonic-ballistic-missile"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40444099/army-conducts-test-launch-of-fatah-2-er-ballistic-missile"
+        }
+      ],
+      "timestamp": "Oct 13, 5:40 PM",
+      "publishedAt": "2026-10-13T17:40:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct effect on jobs, prices or business activity."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine defence test with no change to domestic institutions."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life, though it may add to regional tensions."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited relevance to investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Both reports attribute capability claims to ISPR rather than asserting them as fact."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Two outlets carry matching details, all sourced to ISPR, with the Geo article read in full."
+        }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "Centre says no 'elected govt' overthrown in KP through governor's rule",
+      "summary": "AI summary: At an Islamabad briefing, Law Minister Azam Nazeer Tarar argued that governor's rule and the emergency in Khyber Pakhtunkhwa, imposed under Articles 232 and 234, did not topple an elected government and were driven by rising terrorism. Information Minister Attaullah Tarar blamed Chief Minister Sohail Afridi for rejecting a federal counterterrorism proposal, while PTI condemned the move and said it would go to court.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/686291-centre-says-no-elected-govt-overthrown-in-kp-through-governors-rule"
+        }
+      ],
+      "timestamp": "Oct 13, 1:14 PM",
+      "publishedAt": "2026-10-13T13:14:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No economic measures involved."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Federal-provincial confrontation over removal of KP's government, now headed for a court challenge."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Rising terrorism cited as the reason for emergency rule points to worsening safety in KP."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Political and legal dispute with limited direct market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Centres the government's case but notes PTI's condemnation and planned court challenge."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, single outlet, and opposition view is given only briefly."
+        }
+      }
+    }
+  ]
+}
