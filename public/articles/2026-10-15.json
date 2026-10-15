@@ -1,0 +1,305 @@
+{
+  "generatedAt": "2026-10-15T15:45:00+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Parliament's joint sitting ratifies emergency, governor's rule in KP",
+      "summary": "AI summary: Meeting jointly, both houses of Parliament backed the federal government's resolutions placing Khyber Pakhtunkhwa under emergency and governor's rule, after a procedural motion carried 214-56 amid opposition protests. Ministers cited the PTI-led provincial government's alleged withdrawal from counterterrorism efforts, while PTI and JUI-F lawmakers rejected the move and said no evidence was presented.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40444369/parliaments-joint-sitting-ratifies-emergency-governors-rule-in-kp"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2037325/joint-parliamentary-session-debates-resolutions-on-emergency-governors-rule-in-kp"
+        }
+      ],
+      "timestamp": "Oct 15, 2:52 PM",
+      "publishedAt": "2026-10-15T14:52:32+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Prolonged federal rule over a province can unsettle business sentiment and investment in KP."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Suspending an elected provincial government deepens the federal-opposition confrontation."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate change to daily life is reported, though the security rationale is contested."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Political stability in a major province matters to investors, but no direct market measure is involved."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Both outlets carry government justifications alongside PTI, JUI-F and opposition objections."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Two independent outlets report matching details, one from the full article."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Laila Naz Taj awarded Dukhtaran-e-Pakistan Excellence Award 2026",
+      "summary": "AI summary: Development professional Laila Naz Taj, who has worked across Pakistan, the UK, the US and Afghanistan including with the Aga Khan Development Network, received the Dukhtaran-e-Pakistan Excellence Award 2026 for her social and institutional development work. The federal poverty alleviation minister presented it, with Senate Chairman Yousaf Raza Gilani attending as chief guest.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/686653-laila-naz-taj-awarded-dukhtaran-e-pakistan-excellence-award-2026"
+        }
+      ],
+      "timestamp": "Oct 15, 1:25 PM",
+      "publishedAt": "2026-10-15T13:25:01+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A recognition ceremony with no economic measures attached."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "No bearing on governance or institutional stability."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Publicly recognises development work aimed at marginalised communities."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little relevance to markets or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straightforward event report with no partisan framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Simple factual event read from the full article."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "TTAP says 'no talks' with govt until meeting with Imran Khan is arranged, health details are provided",
+      "summary": "AI summary: The opposition alliance TTAP, led by Mehmood Khan Achakzai, suspended negotiations with the government, conditioning any resumption on access to jailed PTI founder Imran Khan and information on his health. It also demanded an end to the KP emergency and governor's rule and the release of detained officials, and said it would go to the Peshawar High Court.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2037320/ttap-says-no-talks-with-govt-until-meeting-with-imran-khan-is-arranged-health-details-are-provided"
+        }
+      ],
+      "timestamp": "Oct 15, 1:14 PM",
+      "publishedAt": "2026-10-15T13:14:53+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic measures, though a prolonged standoff adds to uncertainty."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Collapse of government-opposition dialogue prolongs the political impasse."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate effect on daily life is reported."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited direct relevance to markets beyond general political risk."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Mainly relays the alliance's announcement but includes the government's stated rationale in background; a statement report rather than advocacy."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single source; the piece relies heavily on one side's statements, so the lean reading is less certain."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Five 'Indian-sponsored terrorists' killed in Balochistan operation: ISPR",
+      "summary": "AI summary: The military's media wing ISPR said security forces killed five militants it describes as India-backed during an intelligence-based operation in Balochistan's Washuk district on the night of October 12-13, and recovered weapons and explosives. The claims, including the alleged India link, are attributed to ISPR and were not independently verified in either report.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/686632-security-forces-kill-five-india-backed-terrorists-in-balochistan-ibo-ispr"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40444346/five-indian-sponsored-terrorists-killed-in-balochistan-operation-ispr"
+        }
+      ],
+      "timestamp": "Oct 15, 11:07 AM",
+      "publishedAt": "2026-10-15T11:07:24+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic effect reported from a single operation."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine security operation with no institutional change."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Deadly violence and ongoing clearance operations point to continuing insecurity in Balochistan."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited market relevance beyond general security risk perception."
+        },
+        "lean": {
+          "value": "pro-government",
+          "reason": "Both reports rely solely on the ISPR statement and leader praise, with no independent or dissenting sourcing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Two outlets match, but both carry the same single official claim without verification."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "FCC disposes of Marwat's plea challenging Sohail Afridi's appointment as KP CM",
+      "summary": "AI summary: The Federal Constitutional Court closed MNA Sher Afzal Marwat's challenge to Sohail Afridi's election as KP chief minister, ruling it moot since Afridi is out of office under the province's emergency and governor's rule. The bench said the petition could be revived if Afridi is restored, and Marwat said he would now challenge the emergency itself.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/686629-fcc-disposes-of-marwats-plea-challenging-sohail-afridis-appointment-as-kp-cm"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2037336/fcc-declares-plea-against-kp-cms-appointment-infructuous-after-governors-rule"
+        }
+      ],
+      "timestamp": "Oct 15, 10:54 AM",
+      "publishedAt": "2026-10-15T10:54:24+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A procedural court ruling with no economic consequence."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Closes one legal dispute while signalling a fresh challenge to the emergency; no net change yet."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little direct relevance to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Both reports describe the court's reasoning and the petitioner's response without partisan framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Two outlets report matching details from full articles."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Teacher, 32 students killed in Peshawar school roof collapse",
+      "summary": "AI summary: The roof of a private school in Peshawar's Afridi Abad area gave way and crushed classrooms below, killing over 30 people, mostly children under 14 plus at least one teacher, with tolls ranging from 30 to 35 across outlets and dozens injured. Officials blamed a weak, overloaded structure; police arrested the school owner, inquiries were ordered, and the KP governor directed a safety audit of school buildings.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/686623-at-least-four-children-die-in-roof-collapse-incident-at-private-school-in-peshawar"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40444336/at-least-28-children-two-teachers-killed-as-school-roof-collapses-in-peshawar"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2037299/teacher-32-students-killed-in-peshawar-school-roof-collapse"
+        }
+      ],
+      "timestamp": "Oct 15, 10:47 AM",
+      "publishedAt": "2026-10-15T10:47:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A tragedy with no broad economic effect, though safety audits may impose costs on private schools."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Prompts inquiries and audits but no institutional disruption."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Mass loss of children's lives exposes serious gaps in school building safety."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Minimal relevance to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual disaster coverage citing officials and rescuers across all three outlets."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Three outlets corroborate the event, though casualty figures differ between them."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Bilawal invites PTI for talks again",
+      "summary": "AI summary: PPP chairman Bilawal Bhutto Zardari renewed his offer of dialogue to the PTI and other opposition parties, saying he would ask the prime minister to lift the KP emergency if political conditions changed. He also held the PTI's provincial leadership responsible for the current situation.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40444290/bilawal-invites-pti-for-talks-again"
+        }
+      ],
+      "timestamp": "Oct 15, 4:57 AM",
+      "publishedAt": "2026-10-15T04:57:48+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No economic measures involved."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "An offer of dialogue and a possible path to lifting the emergency could ease tensions."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports one leader's remarks as statements without evident editorial slant."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based only on the RSS excerpt, not the full article."
+        }
+      }
+    }
+  ]
+}
