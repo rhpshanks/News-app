@@ -1,0 +1,215 @@
+{
+  "generatedAt": "2026-10-16T11:51:37+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "DPM Dar reviews essential commodity stocks, prices at cabinet committee meeting",
+      "summary": "AI summary: Deputy PM Ishaq Dar chaired a cabinet committee that was told essential goods are in adequate supply with prices steadying, and he threatened action against hoarding and overcharging. The meeting came as weekly inflation climbed near 12% on the back of higher flour prices.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2037554/dpm-dar-reviews-essential-commodity-stocks-prices-at-cabinet-committee-meeting" }
+      ],
+      "timestamp": "Oct 16, 11:44 AM",
+      "publishedAt": "2026-10-16T11:44:59+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Official says stocks are adequate, but weekly inflation near 12% and flour price rises offset that." },
+        "political": { "value": "neutral", "reason": "Routine cabinet oversight meeting with no governance shift." },
+        "social": { "value": "neutral", "reason": "Promised price monitoring may help households, but no concrete relief measure announced." },
+        "market": { "value": "medium", "reason": "Food price and supply signals matter to traders, millers and inflation expectations." },
+        "lean": { "value": "balanced", "reason": "Meeting claims come from an official statement, but the piece adds independent inflation data and millers' objections." },
+        "confidence": { "value": "medium", "reason": "Full article read, but the core supply claim is an unverified official statement from one outlet." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "India closes down New Delhi park ahead of 'cockroach' movement rally",
+      "summary": "AI summary: Delhi authorities shut a central park and barred gatherings around Connaught Place before a Cockroach Janta Party protest demanding the removal of India's election chief over a voter-roll revision critics say struck off millions. The government and Election Commission reject the allegations of wrongdoing.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2037555/india-closes-down-new-delhi-park-ahead-of-cockroach-movement-rally" }
+      ],
+      "timestamp": "Oct 16, 11:30 AM",
+      "publishedAt": "2026-10-16T11:30:50+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Domestic Indian protest with no clear effect on Pakistani jobs, prices or business." },
+        "political": { "value": "neutral", "reason": "Concerns India's internal electoral dispute; no direct effect on Pakistan's governance." },
+        "social": { "value": "neutral", "reason": "Restrictions on assembly in Delhi; no direct effect on daily life in Pakistan." },
+        "market": { "value": "low", "reason": "Little relevance to Pakistani investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Quotes both the protest leader and the Indian government and Election Commission positions." },
+        "confidence": { "value": "high", "reason": "Full wire-based article with named sources on both sides." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "PHC to hear PTI's plea against emergency, governor's rule in KP on Oct 20",
+      "summary": "AI summary: The Peshawar High Court will on October 20 take up PTI petitions asking it to strike down the emergency and governor's rule imposed on Khyber Pakhtunkhwa, with the party arguing that citing terrorism is selective since Balochistan faced no such step. The federal government has justified the measures on security grounds.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/686781-phc-to-hear-ptis-plea-against-emergency-governors-rule-in-kp-on-oct-20" }
+      ],
+      "timestamp": "Oct 16, 10:47 AM",
+      "publishedAt": "2026-10-16T10:47:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Legal proceeding with no immediate effect on jobs or prices." },
+        "political": { "value": "negative", "reason": "A constitutional challenge to suspended provincial rule prolongs the federal-KP standoff." },
+        "social": { "value": "neutral", "reason": "No direct change to public safety or daily life from the hearing itself." },
+        "market": { "value": "low", "reason": "Limited direct relevance to investors, beyond general political uncertainty." },
+        "lean": { "value": "balanced", "reason": "Lays out PTI's arguments and also the government's stated security rationale." },
+        "confidence": { "value": "high", "reason": "Full article with specific court date, petitioners and respondents named." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Hina Javed murder case: DNA report reveals matches involving husband, domestic help",
+      "summary": "AI summary: A DNA report in the killing of Rawalpindi media executive Hina Javed reportedly ties evidence to both her husband and a domestic worker, who are in custody. Her family says it distrusts the police inquiry and wants a judicial commission, while Punjab's crime control department has opened a fresh probe.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/686775-hina-javed-murder-case-dna-report-reveals-matches-involving-husband-domestic-help" }
+      ],
+      "timestamp": "Oct 16, 10:18 AM",
+      "publishedAt": "2026-10-16T10:18:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Criminal case with no economic dimension." },
+        "political": { "value": "neutral", "reason": "Provincial order for a new probe is routine law-enforcement action." },
+        "social": { "value": "negative", "reason": "Violent death and family doubts about police impartiality weigh on public trust and safety." },
+        "market": { "value": "low", "reason": "No relevance to markets or business decisions." },
+        "lean": { "value": "balanced", "reason": "Reports investigators' findings alongside the family's criticism of the probe." },
+        "confidence": { "value": "medium", "reason": "Single outlet relaying report details; key allegations remain unproven." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Shooter kills four at Oregon elementary school before being shot dead by community member",
+      "summary": "AI summary: A 16-year-old gunman killed three young children and a teacher at an elementary school in Bend, Oregon, and critically wounded two others before an armed resident followed him inside and shot him dead, police said. Investigators expect a lengthy inquiry.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2037546/shooter-kills-four-at-oregon-elementary-school-before-being-shot-dead-by-community-member" }
+      ],
+      "timestamp": "Oct 16, 9:50 AM",
+      "publishedAt": "2026-10-16T09:50:22+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No economic effect relevant to Pakistan." },
+        "political": { "value": "neutral", "reason": "US local tragedy with no effect on Pakistan's governance." },
+        "social": { "value": "negative", "reason": "Deaths of children and a teacher in a school attack are a grave harm, though outside Pakistan." },
+        "market": { "value": "low", "reason": "No relevance to Pakistani markets." },
+        "lean": { "value": "balanced", "reason": "Straight wire report attributing details to police and officials." },
+        "confidence": { "value": "high", "reason": "Full Reuters-based article with named police chief and governor." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Trump banking on 'swift end' of Iran war to bring down fuel prices",
+      "summary": "AI summary: US President Trump again forecast a quick end to the Iran war and a drop in oil prices, while Iran's President Pezeshkian said force would not make Tehran yield. CNN reported Washington is weighing its largest conventional bomb against Iranian energy and nuclear sites if fighting resumes.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2037502/trump-banking-on-swift-end-of-iran-war-to-bring-down-fuel-prices" }
+      ],
+      "timestamp": "Oct 16, 7:30 AM",
+      "publishedAt": "2026-10-16T07:30:44+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "An unresolved war on Pakistan's border and possible escalation keep oil and fuel import costs at risk." },
+        "political": { "value": "neutral", "reason": "Regional conflict with no direct change to Pakistan's institutions reported." },
+        "social": { "value": "negative", "reason": "Ongoing blockade hardship and talk of heavy bombing point to continued civilian harm in the region." },
+        "market": { "value": "high", "reason": "Oil price outlook is directly relevant to investors and fuel-importing businesses." },
+        "lean": { "value": "balanced", "reason": "Gives both Trump's and Pezeshkian's positions, though Trump's military claims go unverified." },
+        "confidence": { "value": "medium", "reason": "Full article, but much rests on secondhand reports and unverified claims by leaders." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "India waging proxy war against Pakistan: Aizaz Chaudhry",
+      "summary": "AI summary: Former foreign secretary Aizaz Chaudhry told an Islamabad roundtable that India is using Afghan soil to wage a proxy war on Pakistan, pointing to UN findings of numerous militant groups there. Other speakers urged renewed dialogue and people-to-people links between Pakistan and Afghanistan.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40444428/india-waging-proxy-war-against-pakistan-aizaz-chaudhry" }
+      ],
+      "timestamp": "Oct 16, 5:31 AM",
+      "publishedAt": "2026-10-16T05:31:35+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Think-tank commentary with no direct economic measure." },
+        "political": { "value": "neutral", "reason": "Views of a former official at a seminar, not a policy change." },
+        "social": { "value": "neutral", "reason": "Discussion of security threats and dialogue, with no direct effect on daily life." },
+        "market": { "value": "low", "reason": "Little immediate relevance to business decisions." },
+        "lean": { "value": "balanced", "reason": "Reports a speaker's claims as attributed opinion alongside calls for dialogue." },
+        "confidence": { "value": "medium", "reason": "Based only on the RSS excerpt; the article page was not accessible." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "World Food Day: Minister reaffirms govt's commitment to food security",
+      "summary": "AI summary: At a World Food Day event in Islamabad held with FAO, WFP and IFAD, Food Security Minister Rana Tanveer Hussain restated the government's food security commitment. Speakers called for climate-resilient farming, careful water use and bringing new techniques to small farmers.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40444445/world-food-day-minister-reaffirms-govts-commitment-to-food-security" }
+      ],
+      "timestamp": "Oct 16, 5:31 AM",
+      "publishedAt": "2026-10-16T05:31:35+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Statements of intent with no new funding or policy announced in the excerpt." },
+        "political": { "value": "neutral", "reason": "Ceremonial event, no governance change." },
+        "social": { "value": "neutral", "reason": "Focus on food security is welcome, but no concrete measure reported." },
+        "market": { "value": "low", "reason": "Limited near-term relevance to agricultural markets." },
+        "lean": { "value": "balanced", "reason": "Event coverage of official and UN agency remarks without contested claims." },
+        "confidence": { "value": "medium", "reason": "Based only on the RSS excerpt; the article page was not accessible." }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "Five terrorists killed in Balochistan",
+      "summary": "AI summary: The military's media wing ISPR said security forces killed five militants it linked to an India-backed group in an intelligence-based operation in Balochistan's Washuk district on the night of October 12-13, recovering arms and explosives. ISPR said clearance operations were continuing.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40444433/five-terrorists-killed-in-balochistan" }
+      ],
+      "timestamp": "Oct 16, 5:31 AM",
+      "publishedAt": "2026-10-16T05:31:35+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct economic effect reported." },
+        "political": { "value": "neutral", "reason": "Recurring security operation, no institutional change." },
+        "social": { "value": "negative", "reason": "Lethal violence and ongoing operations reflect continuing insecurity in Balochistan." },
+        "market": { "value": "low", "reason": "Little direct relevance to markets." },
+        "lean": { "value": "pro-government", "reason": "Relays the military's account and labels without any independent or opposing source." },
+        "confidence": { "value": "medium", "reason": "RSS excerpt only, and ISPR's claims are not independently verified." }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "Peshawar school tragedy: Case registered against owners, shareholders and contractor",
+      "summary": "AI summary: Police have filed a case against the owners, shareholders and contractor of a private Peshawar school whose roof collapsed during classes, alleging substandard materials and ignored complaints, and the owner has been arrested. Reported tolls differ by source, with the FIR listing 30 children and a teacher dead and Business Recorder reporting at least 35 pupils and two teachers killed.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/686753-peshawar-school-tragedy-case-registered-against-owners-shareholders-and-contractor" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40444474/peshawar-school-roof-collapse-kills-35-students-2-teachers" }
+      ],
+      "timestamp": "Oct 16, 1:52 AM",
+      "publishedAt": "2026-10-16T01:52:46+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Local tragedy with no broad economic effect." },
+        "political": { "value": "neutral", "reason": "Criminal case and calls for inquiry, no institutional shift." },
+        "social": { "value": "negative", "reason": "Dozens of children killed exposes serious building safety failures in private schools." },
+        "market": { "value": "low", "reason": "Little relevance to investors." },
+        "lean": { "value": "balanced", "reason": "Factual reporting of the FIR, the owner's explanation and official reactions." },
+        "confidence": { "value": "medium", "reason": "Two outlets confirm the event and charges, but casualty figures differ and one source is an RSS excerpt." }
+      }
+    },
+    {
+      "id": 11,
+      "headline": "Nawaz Sharif's cars vandalised in London as masked men caught on CCTV removing windows",
+      "summary": "AI summary: Two London cars belonging to Nawaz Sharif had windows smashed and glass panels taken, with CCTV reportedly showing two masked men, according to a family spokesperson who called it the third such incident. Who did it and why remains unknown.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/686739-nawaz-sharifs-cars-vandalised-in-london-as-masked-men-caught-on-cctv-removing-windows" }
+      ],
+      "timestamp": "Oct 15, 11:46 PM",
+      "publishedAt": "2026-10-15T23:46:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No economic dimension." },
+        "political": { "value": "neutral", "reason": "Property damage abroad with unknown motive; no effect on governance." },
+        "social": { "value": "neutral", "reason": "Isolated vandalism in London with no effect on daily life in Pakistan." },
+        "market": { "value": "low", "reason": "No market relevance." },
+        "lean": { "value": "balanced", "reason": "Notes the identities and motives are unknown and avoids speculation." },
+        "confidence": { "value": "medium", "reason": "Single outlet relying on a family spokesperson; details not independently established." }
+      }
+    }
+  ]
+}
