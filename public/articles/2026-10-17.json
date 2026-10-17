@@ -1,0 +1,215 @@
+{
+  "generatedAt": "2026-10-17T15:39:30+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Minister rebukes JUI-F chief for seeking 'share' in KP governance after imposition of governor's rule, emergency",
+      "summary": "AI summary: State Minister for Interior Tallal Chaudhry accused JUI-F chief Fazlur Rehman of seeking a stake in running Khyber Pakhtunkhwa after governor's rule and an emergency were imposed there, insisting the arrangement is administrative and aimed at fighting terrorism. Several other senior government figures, including Khawaja Asif, Mohsin Naqvi and Maryam Nawaz, also criticised Fazl.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2037812/minister-rebukes-jui-f-chief-for-seeking-share-in-kp-governance-after-imposition-of-governors-rule-emergency" }
+      ],
+      "timestamp": "Oct 17, 3:34 PM",
+      "publishedAt": "2026-10-17T15:34:48+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "War of words between politicians with no direct economic measure attached." },
+        "political": { "value": "negative", "reason": "Public sparring over governor's rule and emergency in KP points to deepening friction over provincial governance." },
+        "social": { "value": "neutral", "reason": "No immediate change to daily life reported, though the KP emergency itself remains in force." },
+        "market": { "value": "low", "reason": "Political rhetoric with little direct bearing on business decisions." },
+        "lean": { "value": "balanced", "reason": "Ministers' criticism is reported as attributed statements alongside the JUI-F chief's reported demand, without the outlet taking a side." },
+        "confidence": { "value": "medium", "reason": "Single outlet, based on attributed ministerial statements; Fazl's own position is relayed only as reported." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Armed men abduct 20 under-training police personnel in Mastung: officials",
+      "summary": "AI summary: Officials said gunmen on motorcycles seized 20 police recruits from the Kalat training centre as they travelled home by van on the Quetta-Karachi Highway in Mastung, freeing the driver and three other passengers. Security forces began searching nearby mountains, and no group had claimed responsibility.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2037816/armed-men-abduct-20-under-training-police-personnel-in-mastung-officials" }
+      ],
+      "timestamp": "Oct 17, 2:52 PM",
+      "publishedAt": "2026-10-17T14:52:20+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct economic effect reported, though highway insecurity can weigh on transport in the area." },
+        "political": { "value": "negative", "reason": "Mass abduction of police trainees on a major highway signals weak state control in parts of Balochistan." },
+        "social": { "value": "negative", "reason": "Twenty people held by armed men and continuing danger to travellers on the Quetta-Karachi route." },
+        "market": { "value": "low", "reason": "Security incident with limited direct market relevance." },
+        "lean": { "value": "balanced", "reason": "Factual account attributed to officials, with no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Details come from officials via one outlet; the situation is still developing and unclaimed." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Govt rejects Achakzai's demand for alternative venue for talks with PM Shehbaz",
+      "summary": "AI summary: Adviser Rana Sanaullah said the government will not meet NA Opposition Leader Mahmood Achakzai at a neutral venue and that talks must happen at the PM Office, while saying unconditional talks with PTI remain possible. The standoff follows the joint sitting that approved governor's rule and an emergency in KP, after which the opposition alliance TTAP ended negotiations.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/686988-govt-rejects-achakzais-demand-for-alternative-venue-for-talks-with-pm-shehbaz" }
+      ],
+      "timestamp": "Oct 17, 2:51 PM",
+      "publishedAt": "2026-10-17T14:51:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Procedural dispute with no direct economic consequence." },
+        "political": { "value": "negative", "reason": "Government-opposition talks are stalled amid the KP emergency, and key ECP appointments remain delayed." },
+        "social": { "value": "neutral", "reason": "No immediate effect on daily life reported." },
+        "market": { "value": "low", "reason": "Political deadlock matters only indirectly to investors at this stage." },
+        "lean": { "value": "pro-government", "reason": "Piece relays only government officials' positions and claims, with no response included from Achakzai, TTAP or PTI." },
+        "confidence": { "value": "medium", "reason": "Single outlet; the one-sided sourcing limits how fully the dispute is represented." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "'I'm extremely fearless person', remarks ATC judge in Imaan, Chattha case",
+      "summary": "AI summary: An Islamabad anti-terrorism court judge criticised the absent investigating officer and the missing case record in the case against lawyers Imaan Mazari and Hadi Ali Chattha, saying he acts without fear and would decide quickly once the record arrives. He summoned the Islamabad IGP, issued show-cause notices to police officers and adjourned the hearing to November 3.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/686963-im-extremely-fearless-person-remarks-atc-judge-in-imaan-chattha-case" }
+      ],
+      "timestamp": "Oct 17, 1:45 PM",
+      "publishedAt": "2026-10-17T13:45:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Court proceeding with no economic dimension." },
+        "political": { "value": "neutral", "reason": "Judicial pressure on police over delays, but no shift in institutional stability." },
+        "social": { "value": "neutral", "reason": "Continued delay for the accused lawyers, with the court pushing police to move the case forward." },
+        "market": { "value": "low", "reason": "No relevance to markets or business." },
+        "lean": { "value": "balanced", "reason": "Straight court report of the judge's remarks and orders." },
+        "confidence": { "value": "medium", "reason": "Single-source courtroom report, read in full." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Pakistan to roll out e-passports 'within a month'",
+      "summary": "AI summary: The interior ministry told the National Assembly that machine-readable passports will stop being issued within a month, with passport offices and missions abroad switching entirely to chip-based e-passports while existing passports stay valid until expiry. Officials say the chip makes forgery far harder, though a minister cautioned that capacity problems could cause delays.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/686964-pakistan-to-roll-out-e-passports-within-a-month-ministry" }
+      ],
+      "timestamp": "Oct 17, 12:40 PM",
+      "publishedAt": "2026-10-17T12:40:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No fees or costs disclosed; limited immediate economic effect." },
+        "political": { "value": "neutral", "reason": "Administrative modernisation step with no governance controversy." },
+        "social": { "value": "positive", "reason": "More secure travel documents for citizens, though transition delays are possible." },
+        "market": { "value": "low", "reason": "Minor relevance to business beyond travel services." },
+        "lean": { "value": "balanced", "reason": "Reports the ministry's plan and includes a minister's caution about delays." },
+        "confidence": { "value": "medium", "reason": "Based on an official parliamentary reply relayed by one outlet." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Any miscalculation by adversaries will invite response beyond their 'imagination, calculation', warns CNSC",
+      "summary": "AI summary: Speaking at the PMA Kakul passing-out parade, Commander National Strategic Command Gen Aamer Raza warned that any miscalculation by an adversary would be met with a response far exceeding its expectations, while calling Pakistan peace-loving. The remarks followed threats by Indian Defence Minister Rajnath Singh, which the Foreign Office had condemned a day earlier.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2037799/any-miscalculation-by-adversaries-will-invite-response-beyond-their-imagination-calculation-warns-cnsc" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40444657/any-miscalculation-will-invite-response-beyond-adversarys-imagination-warns-strategic-commander" }
+      ],
+      "timestamp": "Oct 17, 12:22 PM",
+      "publishedAt": "2026-10-17T12:22:59+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Deterrence rhetoric with no direct economic measure." },
+        "political": { "value": "neutral", "reason": "Signals military resolve but does not change domestic institutional stability." },
+        "social": { "value": "neutral", "reason": "Heightened Pakistan-India rhetoric, though no immediate change for the public." },
+        "market": { "value": "medium", "reason": "Rising regional tension rhetoric can affect investor risk sentiment." },
+        "lean": { "value": "balanced", "reason": "Both outlets report the commander's speech as attributed remarks without added partisan framing." },
+        "confidence": { "value": "high", "reason": "Two independent outlets report matching details of the same speech." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Pakistan has enough energy supplies to last through November, planning for winter spike: Aurangzeb",
+      "summary": "AI summary: Finance Minister Muhammad Aurangzeb told AFP that Pakistan has secured energy supplies through November and is preparing for winter demand, having so far absorbed price shocks from the US-Israeli war on Iran. He warned that strikes on Gulf energy facilities could slow recovery and said costly spot LNG purchases would be avoided unless urgently needed.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2037797/pakistan-has-enough-energy-supplies-to-last-through-november-planning-for-winter-spike-aurangzeb" }
+      ],
+      "timestamp": "Oct 17, 12:21 PM",
+      "publishedAt": "2026-10-17T12:21:43+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Supply secured for now, but the minister flags real downside risk from Gulf infrastructure attacks." },
+        "political": { "value": "neutral", "reason": "Policy update from the finance minister with no governance shift." },
+        "social": { "value": "neutral", "reason": "No shortages for now, but winter supply beyond November is not yet assured." },
+        "market": { "value": "high", "reason": "Energy supply, LNG purchasing and IMF programme comments are directly relevant to investors." },
+        "lean": { "value": "balanced", "reason": "Interview relays the minister's views including his own stated risks; no partisan framing." },
+        "confidence": { "value": "medium", "reason": "Rests on the finance minister's own claims via one outlet, not independently verified." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Parts of Karachi to face gas supply suspension this weekend: SSGC",
+      "summary": "AI summary: SSGC will shut gas supply to parts of Karachi for 11 hours, from 10pm Saturday to 9am Sunday, to carry out maintenance on a 24-inch mainline in Shershah. Areas such as Saeedabad, Naval Colony, Mehran City and SITE may see low pressure if the work overruns.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/686951-parts-of-karachi-to-face-gas-supply-suspension-this-weekend-ssgc" }
+      ],
+      "timestamp": "Oct 17, 9:46 AM",
+      "publishedAt": "2026-10-17T09:46:34+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Short overnight outage with minor effect on some industrial users." },
+        "political": { "value": "neutral", "reason": "Routine utility maintenance notice." },
+        "social": { "value": "negative", "reason": "Households in affected areas lose gas overnight, with possible low pressure afterwards." },
+        "market": { "value": "low", "reason": "Localised, temporary disruption." },
+        "lean": { "value": "balanced", "reason": "Straightforward utility notice with no political framing." },
+        "confidence": { "value": "high", "reason": "Specific, verifiable schedule from the utility itself, read in full." }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "Electoral reforms: NA passes motion to form parliamentary body",
+      "summary": "AI summary: The National Assembly approved a motion letting Speaker Ayaz Sadiq, in consultation with the Senate chairman, set up a parliamentary committee to recommend electoral reforms aimed at free and fair elections. The session also touched on passport modernisation, PTV funding and two newly introduced bills.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40444627/electoral-reforms-na-passes-motion-to-form-parliamentary-body" }
+      ],
+      "timestamp": "Oct 17, 6:51 AM",
+      "publishedAt": "2026-10-17T06:51:20+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Parliamentary procedure with no economic measure." },
+        "political": { "value": "positive", "reason": "A formal parliamentary track for electoral reform could strengthen institutional processes." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily life." },
+        "market": { "value": "low", "reason": "Little immediate relevance to business decisions." },
+        "lean": { "value": "balanced", "reason": "Excerpt is a neutral procedural account of the house's business." },
+        "confidence": { "value": "medium", "reason": "Article page returned 403; working from the RSS excerpt only." }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "CM inaugurates four uplift projects in Sahiwal",
+      "summary": "AI summary: Punjab Chief Minister Maryam Nawaz opened four development projects worth Rs5.61 billion in Sahiwal, including a sports arena, a renovated bazaar and a 27km dual carriageway to Arifwala. She also laid the foundation stone for 10 model agriculture malls across the province.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40444646/cm-inaugurates-four-uplift-projects-in-sahiwal" }
+      ],
+      "timestamp": "Oct 17, 4:52 AM",
+      "publishedAt": "2026-10-17T04:52:08+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Rs5.61bn in infrastructure and agriculture market projects can support local commerce and jobs." },
+        "political": { "value": "neutral", "reason": "Routine provincial development event." },
+        "social": { "value": "positive", "reason": "New road, sports and market facilities for local residents." },
+        "market": { "value": "medium", "reason": "Public development spending is relevant to construction and agriculture businesses in Punjab." },
+        "lean": { "value": "balanced", "reason": "Short factual excerpt of an official event, without evaluative framing." },
+        "confidence": { "value": "medium", "reason": "Article page returned 403 earlier in this run; working from the RSS excerpt only." }
+      }
+    },
+    {
+      "id": 11,
+      "headline": "Civil aviation sector: Dar reviews developments, key priorities",
+      "summary": "AI summary: Deputy PM and Foreign Minister Ishaq Dar chaired a civil aviation review covering infrastructure upgrades, air connectivity and new international routes. He told officials to speed up projects and meet global safety standards, calling a modern aviation sector important for growth.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40444647/civil-aviation-sector-dar-reviews-developments-key-priorities" }
+      ],
+      "timestamp": "Oct 17, 4:52 AM",
+      "publishedAt": "2026-10-17T04:52:08+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Review meeting with directives but no concrete investment or route announced." },
+        "political": { "value": "neutral", "reason": "Routine government oversight meeting." },
+        "social": { "value": "neutral", "reason": "No immediate change for travellers." },
+        "market": { "value": "medium", "reason": "Aviation infrastructure and route plans matter to airlines, tourism and logistics businesses." },
+        "lean": { "value": "balanced", "reason": "Excerpt relays the meeting's agenda as an official account without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Article page returned 403 earlier in this run; working from the RSS excerpt only." }
+      }
+    }
+  ]
+}
