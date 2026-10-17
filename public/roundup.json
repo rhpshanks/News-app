@@ -1,62 +1,62 @@
 {
-  "generatedAt": "2026-10-09T23:14:13+05:00",
-  "periodStart": "2026-10-03",
-  "periodEnd": "2026-10-09",
-  "periodLabel": "Oct 3 to Oct 9, 2026",
-  "totalArticles": 84,
+  "generatedAt": "2026-10-17T15:39:32+05:00",
+  "periodStart": "2026-10-10",
+  "periodEnd": "2026-10-16",
+  "periodLabel": "Oct 10 to Oct 16, 2026",
+  "totalArticles": 64,
   "stats": {
     "economic": {
-      "positive": 3,
-      "neutral": 65,
-      "negative": 16
+      "positive": 4,
+      "neutral": 48,
+      "negative": 12
     },
     "political": {
-      "positive": 9,
-      "neutral": 49,
-      "negative": 26
+      "positive": 3,
+      "neutral": 39,
+      "negative": 22
     },
     "social": {
-      "positive": 5,
-      "neutral": 45,
+      "positive": 3,
+      "neutral": 27,
       "negative": 34
     }
   },
   "summary": [
-    "One storyline set the tone for this week: PTI's long march toward Islamabad, led by Khyber Pakhtunkhwa Chief Minister Sohail Afridi. Of the 26 stories Miqyas flagged for review across 84 articles, roughly three in four tracked the march or the federal-provincial standoff around it, from the October 3 announcement and the military's warning against 'May 9-like' unrest, through the collapse of talks and the convoy's slow route from Lakki Marwat through Karak, Kohat and Mattani, to its arrival in Peshawar on October 9. The two sides gave competing accounts of why talks failed: federal ministers said the KP government withdrew from counterterrorism commitments, while PTI's negotiators said the Centre wanted the province to endorse actions it had already taken on its own, alongside unresolved demands over access to Imran Khan.",
-    "Social coverage carried the week's heaviest negative share, at 34 of 84 articles (about 40 percent), with only 5 positive. That reading reflects two overlapping pressures rather than one: the disruption risks of the march itself (road blockades, Section 144 orders, worker detentions in Sindh, and a reported mobile internet disruption in Peshawar), and a run of militant violence, most visibly the October 6 attacks in Dera Ismail Khan that killed four FBR personnel and a traffic policeman. Political coverage was negative in 26 articles (about 31 percent), but it also had the week's largest positive count (9), which fits a week in which offers of talks were made repeatedly even as they were rejected or made conditional. The dispute widened midweek into a constitutional question, with Governor Faisal Karim Kundi saying emergency or governor's rule would be imposed if the president and prime minister deemed it necessary, and Afridi calling the governor's meeting with the chief secretary and police chief unconstitutional.",
-    "Economic coverage stayed overwhelmingly neutral (65 of 84, about 77 percent), and that is worth reading carefully. Prime Minister Shehbaz Sharif repeatedly warned that the march and road blockades could undo recent gains in exports and remittances, but the AI classifier generally tagged these as neutral on the economic axis because they were forecasts and warnings, not measured effects. The 16 economic negatives clustered on October 5, the day the march set off, when 6 of 11 articles were economically negative. The busiest day by far was October 7, with 27 articles, about a third of the week's volume, as the governor's rule debate, the defence minister's remarks and the dialogue standoff all broke at once.",
-    "On political lean, 80 of 84 articles were rated balanced, 4 pro-government and none pro-opposition. The pro-government readings concentrated on stories built around a single official's statement, such as Kundi's governor's rule remarks and Defence Minister Khawaja Asif's accusation that KP was being left to 'Taliban allies', where PTI's response was not in the source text. AI confidence was mostly medium (50) with 31 high and 3 low; the low readings fell on uncorroborated allegations, including Asif's claims and Minister of State Talal Chaudhry's claim that banned JAAC protests mirrored a PTI pattern. One structural caveat: 11 of the 26 flagged stories were assessed from RSS excerpts alone because the full article page returned an error, so readers should treat those classifications as provisional. Outside Pakistan's domestic standoff, the flagged set also included escalating fighting in Yemen and Pakistan's accusation at the UN that India backs militant proxies in Afghanistan, both attributed claims without independent verification."
+    "Across the seven days from October 10 to 16, Miqyas logged 64 articles. Social coverage carried the heaviest negative weight: 34 of 64 social readings (53.1%) were negative, against 22 (34.4%) on the political axis and 12 (18.8%) on the economic axis. The social figure reflects a run of deadly incidents, not one storyline: a Houthi strike on Riyadh airport that Dawn reported killed a Pakistani national, a train derailment near Multan that killed at least five, the collapse of a school roof in Peshawar that killed a teacher and 32 students, and a shooting at an Oregon elementary school. Detentions also weighed on this axis. The family of Pakistan Awam Raj Tehreek chief Iqrar ul Hassan says he was taken from his home at night, while his lawyer says the NCCIA denied holding him and Punjab's information minister said police did not arrest him. Positive readings were scarce on every axis, just 10 of 192 category readings all week.",
+    "The week's dominant storyline was the emergency and governor's rule in Khyber Pakhtunkhwa, which accounted for 18 of the 22 stories flagged for review. It moved fast: on October 10 unnamed sources said the Centre was weighing the step, on October 11 President Zardari approved the cabinet's decision under Articles 232 and 234, the army's deployment was then notified under Article 245, the Prime Minister set up an 11-member committee under Deputy PM Ishaq Dar, and on October 15 a joint sitting of Parliament ratified the measures after a procedural motion carried 214 to 56 amid opposition protests. Federal ministers say the step was driven by rising terrorism and the PTI-led provincial government's alleged withdrawal from counterterrorism work, with the law minister citing a 195 per cent rise in attacks. PTI, JUI-F, Jamaat-e-Islami and the TTAP opposition alliance reject it as an assault on the province's mandate, PTI says Chief Minister Sohail Afridi was arrested, and the Peshawar High Court is due to hear PTI's petitions on October 20. Security reporting formed the backdrop: ISPR said troops killed 12 militants, including Afghan Taliban personnel, in a foiled infiltration attempt in Kurram, with coverage citing PICSS data that militant attacks in September reached a 12-year monthly high. This one storyline explains much of the political negativity, and four of the week's 12 negative economic readings were attached to emergency coverage. The few economic positives came from Oman's foreign minister's visit (two cards), the Prime Minister's call for wider legal migration routes to Europe, and an apex court ruling limiting how long tax re-adjudication can take.",
+    "The political lean readings held up well given how polarising the week's main story was. Of 64 articles, 56 were rated balanced, 7 pro-government and 1 pro-opposition. Five of the seven pro-government readings were emergency stories built around one side speaking: Bilawal Bhutto-Zardari's speech paired with unnamed-source reports of emergency plans, Interior Minister Mohsin Naqvi's account of failed talks, the ministers' joint press conference, the law minister's briefing that the emergency covers the whole province, and Senator Faisal Vawda's remarks. The lone pro-opposition reading was the joint opposition's statement condemning the move. These tilted readings were split between Geo News and Dawn News, which suggests the tilt follows story format (a statement carried with no reply from the other side) more than any one publisher. Cards that combined two or three publications, such as the proclamation itself and the parliamentary ratification, were rated balanced.",
+    "Confidence was moderate for most of the week: 24 articles high, 38 medium and 2 low. Among flagged stories the reasons for medium or low ratings repeat: early emergency reports rested on unnamed sources (later events matched them), the Kurram account was carried by three publications but all relied on one ISPR statement, and several cards were built from RSS excerpts because the full page could not be fetched. Readers should treat specific figures this week, including the government's 195 per cent figure, PTI's arrest claims and the Cockroach Janta Party's claim that some 10,000 supporters were detained in India, as claims by the parties making them, not as verified facts."
   ],
   "notableStories": [
     {
-      "headline": "PTI begins Islamabad long march after talks breakdown",
-      "context": "The week's central event: PTI set off from Lakki Marwat toward Islamabad after three rounds of talks with the federal government and PPP failed, framing every other political story that followed.",
+      "headline": "Emergency, governor's rule imposed in KP as President Zardari approves summary on PM's advice",
+      "context": "The week's central development: Khyber Pakhtunkhwa was placed under emergency and governor's rule, which the government links to security conditions and which PTI and other parties called undemocratic and vowed to challenge in court.",
       "sourceName": "Geo News",
-      "sourceUrl": "https://www.geo.tv/latest/684992-pti-begins-islamabad-long-march-after-talks-breakdown"
+      "sourceUrl": "https://www.geo.tv/latest/686054-emergency-governors-rule-imposed-in-kp-as-president-zardari-approves-summary-on-pms-advice"
     },
     {
-      "headline": "4 FBR officials, traffic policeman martyred in DI Khan attacks: police",
-      "context": "A deadly militant attack, corroborated by two outlets, that became a reference point in the federal government's case against the KP government's handling of security.",
-      "sourceName": "Geo News",
-      "sourceUrl": "https://www.geo.tv/latest/685218-four-fbr-personnel-shot-dead-in-di-khan-police"
-    },
-    {
-      "headline": "Emergency, governor's rule would 'definitely' be imposed if deemed necessary to 'save' KP: Kundi",
-      "context": "The KP governor's statement escalated the standoff from a protest dispute into a constitutional one, prompting the chief minister to seek legal opinion.",
-      "sourceName": "Dawn News",
-      "sourceUrl": "https://www.dawn.com/news/2035457/emergency-governors-rule-would-definitely-be-imposed-if-deemed-necessary-to-save-kp-kundi"
-    },
-    {
-      "headline": "PM Shehbaz says protests could hurt economic gains, urges PTI to withdraw long march call",
-      "context": "The government's main economic argument against the march, set against PTI's account that talks stalled over access to Imran Khan and the province's role in counterterrorism policy.",
+      "headline": "Parliament's joint sitting ratifies emergency, governor's rule in KP",
+      "context": "Parliament gave its backing to the KP measures after a 214 to 56 procedural vote, while PTI and JUI-F lawmakers objected that no evidence was presented.",
       "sourceName": "Business Recorder",
-      "sourceUrl": "https://www.brecorder.com/news/40442897/pm-shehbaz-says-protests-could-hurt-economic-gains-urges-pti-to-withdraw-long-march-call"
+      "sourceUrl": "https://www.brecorder.com/news/40444369/parliaments-joint-sitting-ratifies-emergency-governors-rule-in-kp"
     },
     {
-      "headline": "Heavy losses reported as Yemen fighting escalates",
-      "context": "The week's most significant international story, with more than 270 combatants reported killed in a day near the Bab al-Mandab strait, according to figures from both warring sides.",
+      "headline": "Soldier martyred, 12 terrorists killed as security forces foil infiltration attempt in Kurram: ISPR",
+      "context": "The security backdrop to the week, with ISPR reporting a deadly infiltration attempt from Afghanistan and coverage citing a 12-year monthly high in militant attacks in September.",
+      "sourceName": "Business Recorder",
+      "sourceUrl": "https://www.brecorder.com/news/40443677/12-khwarij-afghan-taliban-killed-in-thwarted-infiltration-attempt-in-kurram-ispr"
+    },
+    {
+      "headline": "Iqrar ul Hassan 'picked up' from home, whereabouts remain unknown: family",
+      "context": "A political party chief's family says he was taken from his home at night, while the NCCIA reportedly denied holding him and Punjab officials said police did not arrest him.",
+      "sourceName": "Geo News",
+      "sourceUrl": "https://www.geo.tv/latest/686213-iqrar-ul-hassan-picked-up-from-home-whereabouts-remain-unknown-family"
+    },
+    {
+      "headline": "India's 'cockroach' movement chief detained ahead of major protest",
+      "context": "The week's main regional story: Indian police held the leader of a satirical party protesting a disputed voter roll revision, with the party claiming mass detentions that police have not addressed.",
       "sourceName": "Dawn News",
-      "sourceUrl": "https://www.dawn.com/news/2035312/heavy-losses-reported-as-yemen-fighting-escalates"
+      "sourceUrl": "https://www.dawn.com/news/2036128/indias-cockroach-movement-chief-detained-ahead-of-major-protest"
     }
   ]
 }
