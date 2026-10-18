@@ -1,0 +1,161 @@
+{
+  "generatedAt": "2026-10-18T22:25:00+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Two moments of madness cost Sri Lanka as Pakistan win tri-series opener after Salman Ali Agha century",
+      "summary": "AI summary: Pakistan beat Sri Lanka by 37 runs in the opening ODI of a tri-series in Rawalpindi, defending 305 built around Salman Ali Agha's 107. Sri Lanka's chase was on track through a century stand until two loose shots in quick succession sparked a collapse.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2038011/two-moments-of-madness-cost-sri-lanka-as-pakistan-win-tri-series-opener-after-salman-ali-agha-century" }
+      ],
+      "timestamp": "Oct 18, 10:02 PM",
+      "publishedAt": "2026-10-18T22:02:14+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A single home match has no measurable effect on jobs or prices." },
+        "political": { "value": "neutral", "reason": "Sporting result with no bearing on governance." },
+        "social": { "value": "positive", "reason": "A home win in an international series lifts public mood." },
+        "market": { "value": "low", "reason": "Little relevance to investors beyond minor sponsorship interest." },
+        "lean": { "value": "balanced", "reason": "Straight match report covering both teams' performances." },
+        "confidence": { "value": "high", "reason": "Full article read; scores and result are factual and verifiable." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Cairo vows support for Riyadh as 2 Saudi officers killed in helicopter crash near Yemen",
+      "summary": "AI summary: Two Saudi officers died when a National Guard helicopter went down in Najran near the Yemen border; the Saudi-led coalition blamed a technical fault while the Houthis said they shot it down. Egypt pledged support for Saudi security, and Pakistan's Ishaq Dar and Egypt's foreign minister jointly condemned Houthi attacks on the kingdom.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2038013/cairo-vows-support-for-riyadh-as-2-saudi-officers-killed-in-helicopter-crash-near-yemen" }
+      ],
+      "timestamp": "Oct 18, 7:50 PM",
+      "publishedAt": "2026-10-18T19:50:22+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct effect on Pakistani prices or business reported, though Gulf tension is a background risk." },
+        "political": { "value": "neutral", "reason": "Foreign event; Pakistan's role is limited to diplomatic statements of solidarity." },
+        "social": { "value": "negative", "reason": "Loss of life and a widening regional conflict that Pakistan has defence ties to." },
+        "market": { "value": "medium", "reason": "Gulf security escalation is relevant to energy and remittance-sensitive markets." },
+        "lean": { "value": "balanced", "reason": "Both the coalition's and the Houthis' competing accounts are reported and attributed." },
+        "confidence": { "value": "medium", "reason": "Full article read, but the cause of the crash is disputed and unverified." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "PM stresses equal opportunities in education to realise Quaid's vision",
+      "summary": "AI summary: Prime Minister Shehbaz Sharif inaugurated Daanish School Kuri in Islamabad and called for fair access to education and healthcare, criticising a two-tier system that favours wealthy families. He also said the Punjab Endowment Fund has been renamed and widened into a national Pakistan Endowment Fund.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/687151-pm-stresses-equal-opportunities-in-education-to-realise-quaids-vision" }
+      ],
+      "timestamp": "Oct 18, 7:23 PM",
+      "publishedAt": "2026-10-18T19:23:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "One school opening and a fund rename carry no stated budget or jobs figures." },
+        "political": { "value": "neutral", "reason": "Routine official event with no institutional consequence." },
+        "social": { "value": "positive", "reason": "A new school and expanded scholarship support may widen access for low-income students." },
+        "market": { "value": "low", "reason": "Not relevant to investment decisions." },
+        "lean": { "value": "pro-government", "reason": "Relies solely on the PM's remarks with no independent or critical voice testing his claims." },
+        "confidence": { "value": "medium", "reason": "Full article read, but single-source and based on an official event." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Opposition must support centre against terrorism to end KP emergency, says Bilawal",
+      "summary": "AI summary: Speaking in Karachi on the Karsaz bombing anniversary, PPP chief Bilawal Bhutto Zardari said governor's rule and the emergency in Khyber Pakhtunkhwa could be lifted if the PTI-led opposition engaged with the federal government on a joint counterterrorism plan. He defended the measures as constitutional, attacked KP Chief Minister Sohail Afridi, and urged JUI-F chief Fazlur Rehman to openly condemn terrorism.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/687145-maulana-fazl-can-play-role-in-ending-terrorism-enforcing-governors-rule-in-kp-bilawal" },
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2038032/bilawal-says-kp-governors-rule-could-end-if-opposition-engages-with-centre-on-counterterrorism-policy" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40444810/opposition-must-support-centre-against-terrorism-to-end-kp-emergency-says-bilawal" }
+      ],
+      "timestamp": "Oct 18, 5:57 PM",
+      "publishedAt": "2026-10-18T17:57:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Political statements with no direct economic measure attached." },
+        "political": { "value": "negative", "reason": "Highlights the continuing federal-provincial standoff over KP's emergency and governor's rule." },
+        "social": { "value": "neutral", "reason": "Rhetoric only; no change yet to the security situation residents face." },
+        "market": { "value": "low", "reason": "Limited direct relevance to investors, though prolonged KP instability is a background concern." },
+        "lean": { "value": "balanced", "reason": "Reported as a speech with attribution; PTI and Afridi responses are absent, but the outlets do not adopt Bilawal's claims as their own." },
+        "confidence": { "value": "high", "reason": "Three outlets independently report the same remarks with matching details." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Masked delivery men target Nawaz Sharif's BMW, Mercedes outside London flats",
+      "summary": "AI summary: CCTV footage released by a PML-N youth leader shows two masked men posing as delivery riders taking parts from two cars used by Nawaz Sharif outside his London residence. PML-N figures suspect a politically motivated act, but London police are still investigating and no motive has been established.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/687144-footage-shows-masked-delivery-men-target-nawaz-sharifs-bmw-mercedes-outside-london-flats" }
+      ],
+      "timestamp": "Oct 18, 5:22 PM",
+      "publishedAt": "2026-10-18T17:22:26+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Isolated property incident abroad with no economic effect." },
+        "political": { "value": "neutral", "reason": "No institutional consequence; political-motive claim is unproven." },
+        "social": { "value": "neutral", "reason": "Minor property crime affecting one family, with no wider public impact." },
+        "market": { "value": "low", "reason": "Not relevant to markets." },
+        "lean": { "value": "balanced", "reason": "The political-motive claim is clearly attributed to PML-N officials, and the piece notes nothing is confirmed." },
+        "confidence": { "value": "medium", "reason": "Full article read, but single-source and the investigation is ongoing." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "First Pakistani astronaut to undertake space mission from China on Nov 25: Ahsan Iqbal",
+      "summary": "AI summary: Planning Minister Ahsan Iqbal said Pakistan's first astronaut will fly from a Chinese launch site on November 25 and set a goal of a lunar landing by 2035. Two Pakistani pilots are training in Beijing, but China has not yet confirmed which one will fly as a payload specialist.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2038022/first-pakistani-astronaut-to-undertake-space-mission-from-china-on-nov-25-ahsan-iqbal" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40444807/pakistans-first-astronaut-to-embark-on-space-mission-next-month-minister" }
+      ],
+      "timestamp": "Oct 18, 4:01 PM",
+      "publishedAt": "2026-10-18T16:01:46+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Prestige milestone without stated near-term economic spending or jobs." },
+        "political": { "value": "neutral", "reason": "No effect on governance stability." },
+        "social": { "value": "positive", "reason": "A national first likely to boost public pride and interest in science." },
+        "market": { "value": "low", "reason": "Minimal direct relevance to investors." },
+        "lean": { "value": "balanced", "reason": "Dawn notes China has not confirmed the crew choice, adding context beyond the minister's claim." },
+        "confidence": { "value": "high", "reason": "Two outlets report the same date and details from the same event." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Maldives President Muizzu to arrive in Pakistan on three-day state visit tomorrow",
+      "summary": "AI summary: Maldivian President Mohamed Muizzu will make a state visit to Pakistan from October 20 to 22, the first by a Maldivian leader in 11 years, marking 60 years of ties. Talks with PM Shehbaz Sharif and President Zardari, a business forum, and several MoUs covering trade, defence, health and other sectors are planned.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40444802/maldives-president-muizzu-to-arrive-in-pakistan-on-three-day-state-visit-tomorrow" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/687136-maldives-president-to-visit-pakistan-next-week-for-trade-defence-talks" }
+      ],
+      "timestamp": "Oct 18, 3:32 PM",
+      "publishedAt": "2026-10-18T15:32:35+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "A business forum and planned trade and investment MoUs could open modest new opportunities." },
+        "political": { "value": "neutral", "reason": "Routine diplomatic engagement with no domestic governance effect." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily life." },
+        "market": { "value": "medium", "reason": "Trade, tourism and maritime agreements are of interest to exporters and businesses." },
+        "lean": { "value": "balanced", "reason": "Factual relay of the Foreign Office announcement without partisan framing." },
+        "confidence": { "value": "high", "reason": "Two outlets report matching dates and agenda from an official announcement." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Eight Indian-sponsored terrorists killed in Balochistan operations: ISPR",
+      "summary": "AI summary: The military's media wing ISPR said security forces killed eight militants it linked to an India-backed group in three operations in Quetta, Nushki and Khuzdar on October 17, and recovered weapons and 490 kg of explosives. The claims have not been independently verified.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40444801/eight-indian-sponsored-terrorists-killed-in-balochistan-operations-ispr" }
+      ],
+      "timestamp": "Oct 18, 2:59 PM",
+      "publishedAt": "2026-10-18T14:59:38+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct economic effect reported." },
+        "political": { "value": "neutral", "reason": "Ongoing security operations without a stated change in governance." },
+        "social": { "value": "negative", "reason": "Deadly operations and a large explosives cache point to continuing insecurity in Balochistan." },
+        "market": { "value": "low", "reason": "Limited direct market relevance, though Balochistan security matters for regional projects." },
+        "lean": { "value": "pro-government", "reason": "Headline adopts ISPR's characterisation of the militants as Indian-sponsored without independent sourcing." },
+        "confidence": { "value": "medium", "reason": "Worked from the RSS excerpt only, and claims rest on a single official source." }
+      }
+    }
+  ]
+}
