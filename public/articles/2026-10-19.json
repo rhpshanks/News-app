@@ -1,0 +1,143 @@
+{
+  "generatedAt": "2026-10-19T15:55:00+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Karachi temperature expected to remain above normal in November: Met Office",
+      "summary": "AI summary: The Met Office expects Karachi's hot, dry spell to last until Friday with highs near 38°C, easing to 34-36°C from the weekend. It forecasts November will also run warmer than usual, with days around 33-35°C and nights of 19-22°C, both above the month's typical averages.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/687256-karachi-temperature-expected-to-remain-above-normal-in-november-met-office" }
+      ],
+      "timestamp": "Oct 19, 3:32 PM",
+      "publishedAt": "2026-10-19T15:32:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A warm spell may lift power demand slightly but carries no clear economic shift." },
+        "political": { "value": "neutral", "reason": "Routine weather forecast with no governance implications." },
+        "social": { "value": "negative", "reason": "Prolonged above-normal heat adds discomfort and health strain for Karachi residents." },
+        "market": { "value": "low", "reason": "Limited relevance to investors beyond marginal energy demand." },
+        "lean": { "value": "balanced", "reason": "Straight relay of Met Office data with no political framing." },
+        "confidence": { "value": "high", "reason": "Full article read; figures attributed directly to the Met Office." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Pakistan providing 'whatever support' Saudi Arabia needs for its defence: DG ISPR",
+      "summary": "AI summary: In an interview with Independent Arabia, the ISPR chief said Pakistan is backing Saudi Arabia's defence against Houthi attacks and warned the collective-deterrence clause of the Makkah defence pact with Saudi Arabia and Türkiye could be triggered if talks fail. He described the alliance as purely defensive, said Pakistan is engaging all sides including Iran to calm tensions, and told Geo any Yemeni government request for help would be decided by the government.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2038276/pakistan-providing-whatever-support-saudi-arabia-needs-for-its-defence-dg-ispr" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/687269-pakistan-may-review-military-help-to-yemen-if-requested-says-ispr-chief-amid-houthi-attacks-on-saudi-arabia" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40444926/attacks-on-saudi-arabia-will-trigger-collective-response-says-military-spokesperson" }
+      ],
+      "timestamp": "Oct 19, 3:03 PM",
+      "publishedAt": "2026-10-19T15:03:28+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Closer Saudi ties may support remittances and investment, but deeper regional military exposure adds risk; net effect unclear." },
+        "political": { "value": "neutral", "reason": "Signals continuity of an existing defence commitment rather than a domestic institutional change." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily life in Pakistan, though escalation in the Gulf could affect its large expatriate workforce." },
+        "market": { "value": "medium", "reason": "Gulf conflict and Pakistan's role matter for oil prices, shipping routes and Saudi-linked inflows." },
+        "lean": { "value": "balanced", "reason": "Outlets attribute every claim to the ISPR chief; no Houthi or Iranian response is carried, but the framing is reportorial rather than advocacy." },
+        "confidence": { "value": "high", "reason": "Three outlets report the same interview with matching core details; Business Recorder via RSS excerpt only." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Police 'lost control' during French protests, says interior minister",
+      "summary": "AI summary: France's interior minister conceded police were overwhelmed during weekend cost-of-living protests that spiralled into looting and arson, with over 2,500 arrests and close to 1,000 security personnel hurt. President Macron refused his offer to resign and ordered a review of the planning and intelligence lapses.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2038277/police-lost-control-during-french-protests-says-interior-minister" }
+      ],
+      "timestamp": "Oct 19, 2:39 PM",
+      "publishedAt": "2026-10-19T14:39:38+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Damage to more than 2,000 shops, estimated in the hundreds of millions of euros, and underlying cost-of-living anger." },
+        "political": { "value": "negative", "reason": "A minister's admitted loss of control and offered resignation point to strain on French governance." },
+        "social": { "value": "negative", "reason": "Widespread looting, arson, injuries and mass arrests disrupted public safety in several cities." },
+        "market": { "value": "medium", "reason": "Unrest in a major eurozone economy is relevant to European retail and sentiment, with no direct Pakistan link." },
+        "lean": { "value": "balanced", "reason": "Reports the government's own admission and response without favouring protesters or authorities." },
+        "confidence": { "value": "medium", "reason": "Full article read but single-source, with some figures (custody counts) varying within the report." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "DPM Dar arrives in Tajikistan for high-level SCO moot",
+      "summary": "AI summary: Deputy Prime Minister and Foreign Minister Ishaq Dar reached Dushanbe to head Pakistan's delegation at the SCO Council of Heads of Government on October 19-20, a forum focused on economic, trade and connectivity cooperation. He is due to meet Tajikistan's leadership and other members' representatives on the sidelines, with a joint communiqué expected.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2038263/dpm-dar-arrives-in-tajikistan-for-high-level-sco-moot" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/687270-dpm-dar-leaves-for-tajikistan-to-lead-pakistans-delegation-at-sco-moot" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40444921/dpm-dar-to-attend-sco-heads-of-government-meeting-in-tajikistan" }
+      ],
+      "timestamp": "Oct 19, 1:21 PM",
+      "publishedAt": "2026-10-19T13:21:10+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Regional trade and connectivity talks may help over time but bring no immediate economic change." },
+        "political": { "value": "positive", "reason": "Routine high-level diplomatic engagement supports Pakistan's regional standing ahead of its 2027 SCO chairmanship." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily life." },
+        "market": { "value": "low", "reason": "Diplomatic meeting with no concrete trade or investment announcements yet." },
+        "lean": { "value": "balanced", "reason": "Factual itinerary reporting based on Foreign Office information." },
+        "confidence": { "value": "high", "reason": "Three outlets carry consistent details of the visit and meeting dates." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Dead phone, drained account: How biometric fraud caught two MNAs",
+      "summary": "AI summary: Two MNAs and a Karachi businessman lost between Rs1.5 million and about Rs8.5 million each after fraudsters obtained duplicate SIMs using captured fingerprints and then took over their bank access, with one case traced to a bank officer who admitted sharing customer data. The PTA fined the mobile operator Rs77.8 million, while banks were only ordered to repay victims.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/687248-dead-phone-drained-account-how-biometric-fraud-caught-two-mnas" }
+      ],
+      "timestamp": "Oct 19, 1:15 PM",
+      "publishedAt": "2026-10-19T13:15:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Exposes weaknesses that can erode trust in digital banking and cause direct financial losses." },
+        "political": { "value": "neutral", "reason": "Highlights regulatory gaps, but the PTA acted against the operator; no wider institutional instability." },
+        "social": { "value": "negative", "reason": "Shows ordinary account holders are vulnerable to SIM-swap and insider data theft." },
+        "market": { "value": "medium", "reason": "Relevant to banks, telecom operators and fintech on compliance and fraud-loss risk." },
+        "lean": { "value": "balanced", "reason": "Investigative piece sourced to victims, investigators and the regulator, critical of institutions rather than any party." },
+        "confidence": { "value": "medium", "reason": "Full article read but single-source, and some insider-link claims rest on an unnamed source." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Army major martyred, 4 terrorists killed in Balochistan IBOs: ISPR",
+      "summary": "AI summary: According to ISPR, an army major was killed by a roadside bomb while leading an operation in Gwadar district, and four militants were killed in a separate raid in Kalat. The president and prime minister praised the forces and pledged to keep up counterterrorism efforts; ISPR's attribution of the groups to Indian backing is not independently verified.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2038237/army-major-martyred-4-terrorists-killed-in-balochistan-ibos-ispr" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40444912/major-martyred-four-terrorists-killed-in-balochistan-operations-ispr" }
+      ],
+      "timestamp": "Oct 19, 12:32 PM",
+      "publishedAt": "2026-10-19T12:32:21+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Continued violence in Balochistan weighs on investment sentiment, but this incident has no direct economic effect." },
+        "political": { "value": "negative", "reason": "Ongoing militant attacks reflect persistent security instability in the province." },
+        "social": { "value": "negative", "reason": "Loss of life and continued violence harm public safety in Balochistan regardless of the operation's framing." },
+        "market": { "value": "low", "reason": "Limited direct market relevance beyond general security risk around Gwadar." },
+        "lean": { "value": "balanced", "reason": "Both outlets attribute claims to ISPR; there is no opposing account, which reflects source limits rather than partisan framing." },
+        "confidence": { "value": "medium", "reason": "Two outlets match on details, but all facts originate from a single official source with no independent verification." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Govt urged to improve cold storage infrastructure",
+      "summary": "AI summary: Business leader Mian Zahid Hussain called on the government to upgrade cold-storage facilities, speed up customs clearance and strengthen local testing and certification so exporters can reach new markets. He also sought faster tax refunds and competitive energy prices, noting September export gains were concentrated in a few sectors.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40444876/govt-urged-to-improve-cold-storage-infrastructure" }
+      ],
+      "timestamp": "Oct 19, 2:10 AM",
+      "publishedAt": "2026-10-19T02:10:09+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Advocacy for export-supporting reforms; no policy change has been announced." },
+        "political": { "value": "neutral", "reason": "Routine business-community recommendations with no governance impact." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily life." },
+        "market": { "value": "medium", "reason": "Relevant to exporters and agri-food businesses watching logistics and refund policy." },
+        "lean": { "value": "balanced", "reason": "Reports one business leader's demands without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on the RSS excerpt only, as the article page returned 403." }
+      }
+    }
+  ]
+}
