@@ -1,0 +1,485 @@
+{
+  "generatedAt": "2026-10-20T09:56:27+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "PHC takes up PTI's petitions challenging KP governor's rule, emergency",
+      "summary": "AI summary: A two-judge Peshawar High Court bench began hearing PTI petitions that argue the October 11 emergency and governor's rule in Khyber Pakhtunkhwa are unconstitutional, since there is no war and the provincial government still functions. No ruling was reported yet.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/687396-phc-takes-up-ptis-petitions-challenging-kp-governors-rule-emergency"
+        }
+      ],
+      "timestamp": "Oct 20, 9:49 AM",
+      "publishedAt": "2026-10-20T09:49:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A court hearing has no direct effect on jobs or prices."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "An active legal fight over suspending an elected provincial setup signals ongoing institutional strain."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate change to daily life from the hearing itself."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited direct relevance to markets beyond general political risk."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the petitioners' arguments and the federal government's stated terrorism rationale without endorsing either."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; factual court-reporting with clear attribution."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Govt unveils hi-tech system to manage loadshedding",
+      "summary": "AI summary: The government will roll out an asset performance management system that ties transformer-level monitoring to smart meters, starting with a LESCO pilot in Lahore and Kasur, to pinpoint power theft. The energy minister said loadshedding will continue on feeders with losses of 30% or more.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2038438/govt-unveils-hi-tech-system-to-manage-loadshedding"
+        }
+      ],
+      "timestamp": "Oct 20, 7:43 AM",
+      "publishedAt": "2026-10-20T07:43:59+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "Cutting theft and line losses could ease power-sector losses and improve supply reliability over time."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A routine administrative initiative with no bearing on governance stability."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Could reduce outages for paying users later, but loadshedding on high-loss feeders continues for now."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Relevant to power distribution companies and the circular debt picture."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Largely relays official plans; descriptive rather than promotional in tone."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but it is a plan whose results are not yet known."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Houthis inflict major losses on Yemeni forces",
+      "summary": "AI summary: A Houthi ballistic missile strike on a Yemeni government training camp in Shabwa reportedly killed at least 53 people, according to local authorities, as the Houthis also claimed attacks on Saudi targets. Riyadh issued air-threat alerts, Egypt delayed a vote on military support for Saudi Arabia, and a major Saudi investment conference was pushed to 2027.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2038443/houthis-inflict-major-losses-on-yemeni-forces"
+        }
+      ],
+      "timestamp": "Oct 20, 7:37 AM",
+      "publishedAt": "2026-10-20T07:37:34+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Escalation around Saudi Arabia and the Red Sea raises oil price and Gulf remittance risks for Pakistan."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A foreign conflict, though it bears on Pakistan's Saudi defence commitments."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Heavy casualties and widening regional insecurity."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Gulf energy infrastructure threats and a postponed investment summit matter to oil and investor sentiment."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Wire-based report attributing claims to local authorities, the Houthi spokesman and Saudi civil defence."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Casualty figures come from local sources in an active conflict, though Reuters verified scene video."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "GDP growth revised down to 3.65pc as country falls short of target",
+      "summary": "AI summary: The National Accounts Committee trimmed FY26 GDP growth to 3.65% from an earlier 3.70% estimate, citing weaker industry and services, leaving the target unmet. The economy reached about $450 billion and per capita income rose to $1,896, still the lowest in the region.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2038439/gdp-growth-revised-down-to-365pc-as-country-falls-short-of-target"
+        }
+      ],
+      "timestamp": "Oct 20, 6:57 AM",
+      "publishedAt": "2026-10-20T06:57:16+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Slower industrial and services growth than estimated points to softer job creation and business activity."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A statistical revision with no direct governance impact."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Signals stagnant living standards but no immediate change to daily life."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Official growth data directly informs investor and business expectations."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Data-driven reporting based on official committee figures and multilateral forecasts."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; figures are official and consistent with IMF, World Bank and ADB estimates."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Multan employer arrested for allegedly chasing, running over 15-year-old orphan",
+      "summary": "AI summary: Police in Multan arrested an electrician on a murder charge after a 15-year-old orphan sent to him to learn a trade was allegedly chased and run over by his car, an incident CCTV reportedly captured. Police said they found no sign the boy had stolen anything and questioned orphanage staff.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/687388-multan-employer-arrested-for-allegedly-chasing-running-over-15-year-old-orphan"
+        }
+      ],
+      "timestamp": "Oct 20, 5:29 AM",
+      "publishedAt": "2026-10-20T05:29:28+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A criminal case with no economic dimension."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "No bearing on institutional stability."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "A child's violent death raises child labour and safeguarding concerns."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not relevant to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straight crime reporting attributed to police."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but details rest on early police statements in an ongoing probe."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "CDF to visit Tehran today",
+      "summary": "AI summary: Field Marshal Asim Munir, the army and defence forces chief, was due to travel to Tehran on Tuesday, according to a Pakistani official and Iranian media.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40445053/cdf-to-visit-tehran-today"
+        }
+      ],
+      "timestamp": "Oct 20, 5:10 AM",
+      "publishedAt": "2026-10-20T05:10:15+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic measure announced."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "High-level diplomacy amid regional conflict; no domestic governance effect stated."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate effect on daily life."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Pakistan's role in the Iran conflict is watched for regional and energy risk."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Brief factual notice attributed to an official and Iranian media."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on the Business Recorder RSS excerpt only (article page returned 403), so detail is limited."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Makkah Defence Alliance: Any attack on KSA will trigger collective response: DG ISPR",
+      "summary": "AI summary: The ISPR director general reaffirmed that an attack on Saudi Arabia would draw a collective response under the Makkah Defence Alliance, while also outlining Pakistan's diplomatic engagement with Iran.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40445042/makkah-defence-alliance-any-attack-on-ksa-will-trigger-collective-response-dg-ispr"
+        }
+      ],
+      "timestamp": "Oct 20, 5:10 AM",
+      "publishedAt": "2026-10-20T05:10:15+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No economic step announced, though it relates to ties with a key financial partner."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A military policy statement, not a domestic governance change."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Signals possible entanglement in a widening regional conflict."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Defence commitments in the Gulf conflict bear on regional risk perceptions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Relays ISPR's stated position, attributed to the military spokesman."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on the Business Recorder RSS excerpt only (article page returned 403), so detail is limited."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "New Saudi envoy, CDF take stock of regional situation",
+      "summary": "AI summary: Field Marshal Asim Munir met the newly appointed Saudi ambassador at GHQ, where both sides voiced satisfaction with progress under the Makkah defence arrangement and discussed regional security.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40445043/new-saudi-envoy-cdf-take-stock-of-regional-situation"
+        }
+      ],
+      "timestamp": "Oct 20, 5:10 AM",
+      "publishedAt": "2026-10-20T05:10:15+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A courtesy-level meeting with no economic outcome reported."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine bilateral defence diplomacy."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little direct market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Official-meeting readout without editorial framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on the Business Recorder RSS excerpt only (article page returned 403), so detail is limited."
+        }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "NA session: Achakzai demands govt disclose Afridi's whereabouts",
+      "summary": "AI summary: National Assembly opposition leader Mehmood Khan Achakzai asked the government to reveal where KP Chief Minister Sohail Afridi and others have been since the October 11 emergency and governor's rule, with PTI also reacting in the session.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40445022/na-session-achakzai-demands-govt-disclose-afridis-whereabouts"
+        }
+      ],
+      "timestamp": "Oct 20, 5:10 AM",
+      "publishedAt": "2026-10-20T05:10:15+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No economic dimension."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Questions over the whereabouts of an elected chief minister point to deepening federal-provincial and government-opposition strain."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Uncertainty about detained or missing officials affects public trust and civil liberties."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Indirect political risk only."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the opposition demand; the excerpt does not show one-sided framing, though any government response is not visible."
+        },
+        "confidence": {
+          "value": "low",
+          "reason": "Based on the Business Recorder RSS excerpt only (article page returned 403), so detail is limited. The government's side is not visible in the excerpt."
+        }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "Senate passes bill letting ex-lawmakers keep blue passports without serving full term",
+      "summary": "AI summary: The Senate approved a bill letting former legislators keep official blue passports even without completing a full term, pending National Assembly approval, while a broader proposal covering their families was withdrawn. Ministers said blue passports had already been cut from 75,000 to 45,000 and urged tighter controls.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/687386-senate-passes-bill-allowing-ex-lawmakers-to-retain-blue-passports-without-completing-full-term"
+        }
+      ],
+      "timestamp": "Oct 20, 3:30 AM",
+      "publishedAt": "2026-10-20T03:30:16+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No material economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine legislative business on lawmakers' perks, with cross-party debate."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Affects a small group of former legislators, not the public."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not relevant to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Includes the mover, treasury objections, ministers' caveats and dissent within the ruling party."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read with multiple named, attributed speakers."
+        }
+      }
+    },
+    {
+      "id": 11,
+      "headline": "NAB summons KP lawmaker, four others in suspected corruption inquiry",
+      "summary": "AI summary: NAB in Khyber Pakhtunkhwa summoned provincial lawmaker Dr Amjad Ali and four witnesses in an inquiry into alleged undeclared assets, requesting property and salary records. His lawyer argued the notice breaches an earlier Peshawar High Court direction against harassment, which NAB disputes.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/687383-nab-summons-kp-lawmaker-dr-amjad-ali-in-assets-inquiry-today"
+        }
+      ],
+      "timestamp": "Oct 20, 2:50 AM",
+      "publishedAt": "2026-10-20T02:50:31+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A single accountability inquiry with no economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "An inquiry stage action; adds to KP political friction but no institutional change yet."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not relevant to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Presents NAB's position and the lawmaker's lawyer's objection; no comment from Ali himself."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but the allegations are unproven and at inquiry stage."
+        }
+      }
+    },
+    {
+      "id": 12,
+      "headline": "Govt slashes petrol price by Rs5.16 per litre, high-speed diesel rate by Rs7.69",
+      "summary": "AI summary: Petrol fell by Rs5.16 to Rs381.14 per litre and high-speed diesel by Rs7.69 to Rs389.27 from October 20 under the daily pricing regime, though both remain far above pre-war levels and still carry around Rs100 or more per litre in taxes.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2038326/govt-slashes-petrol-price-by-rs516-per-litre-high-speed-diesel-rate-by-rs769"
+        }
+      ],
+      "timestamp": "Oct 19, 11:56 PM",
+      "publishedAt": "2026-10-19T23:56:40+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "Lower diesel and petrol costs ease transport and input prices, modestly helping inflation."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A routine pricing decision."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Small relief on household fuel and commuting costs."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Fuel prices feed directly into inflation expectations and business costs."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual price reporting with historical context, including the tax burden."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; official price notification figures."
+        }
+      }
+    }
+  ]
+}
