@@ -1,0 +1,413 @@
+{
+  "generatedAt": "2026-10-21T10:17:01+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Pakistan warns India against attempt to alter strategic balance",
+      "summary": "AI summary: Speaking at an Islamabad non-proliferation conference, retired Lt Gen Khalid Kidwai, adviser to the National Command Authority, said Pakistan may revisit its nuclear deployment options, pointing to reports that India has put warheads on a patrolling submarine. A former SPD chief also warned that the two countries' rivalry could escalate through accident or miscalculation.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2038662/pakistan-warns-india-against-attempt-to-alter-strategic-balance"
+        }
+      ],
+      "timestamp": "Oct 21, 7:53 AM",
+      "publishedAt": "2026-10-21T07:53:51+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Conference remarks carry no direct effect on jobs or prices."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Strategic signalling by former officials does not change domestic governance."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Warnings of escalation risk, but no immediate change to public safety."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited direct market relevance beyond general regional risk perception."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the speakers' claims as their own and notes they rely on cited public reports."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but single outlet and no Indian response included."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "CDF Munir-Pezeshkian meeting raises peace hopes",
+      "summary": "AI summary: Field Marshal Asim Munir met Iran's president and other senior leaders in Tehran, where Iranian officials said Washington must move first to restore trust and pointed to their seven-point proposal as a basis for talks. No agreement was announced, Pakistan's Foreign Office and ISPR gave no comment, and Munir described a recent border trade closure as temporary, with crossings reopened Tuesday.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2038686/cdf-munir-pezeshkian-meeting-raises-peace-hopes"
+        }
+      ],
+      "timestamp": "Oct 21, 7:21 AM",
+      "publishedAt": "2026-10-21T07:21:30+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Border crossings reopened, but the talks produced no economic outcome."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Diplomatic mediation effort with no breakthrough and no domestic governance effect."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct change to daily life reported."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Some relevance to border trade, but no concrete commitment."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Attributes positions to Iranian officials and notes the lack of official Pakistani comment."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read from one outlet; much of the account comes from Iranian sources."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Makkah joint defence pact binds Pakistan, Turkiye, and Saudi Arabia for first 10 years",
+      "summary": "AI summary: Reuters-sourced reports say Turkiye has sent the Makkah defence pact with Pakistan and Saudi Arabia to its parliament for ratification; the treaty treats an attack on one member as an attack on all and bars withdrawal for its first decade. Pakistan has already ratified it, and a Turkish official said Ankara's role would likely be limited to equipment, intelligence and weapons systems.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/687559-makkah-defence-pact-binds-pakistan-turkiye-saudi-arabia-for-first-10-years"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2038695/makkah-alliance-binds-partners-to-decade-long-pact"
+        }
+      ],
+      "timestamp": "Oct 21, 6:33 AM",
+      "publishedAt": "2026-10-21T06:33:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No immediate effect on jobs or prices, though a defence industry memorandum is also expected."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A ratification step in a foreign parliament does not alter Pakistan's domestic governance."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct change to daily life."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Relevant to defence industry and regional security considerations for investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Both outlets relay Reuters reporting and include Turkish caveats on the scope of commitment."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Two outlets report matching details drawn from the same reviewed treaty text."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Multan orphan's prime murder suspect shot dead in alleged encounter after custody escape",
+      "summary": "AI summary: The main suspect in the death of an orphaned 14-year-old who was chased and run over by a car in Multan was killed near Bahawalpur in what the Crime Control Department called an exchange of fire, after police said he escaped custody while on remand. Police have not explained the escape, CCD says an accomplice's bullets hit him, and a second suspect remains at large.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/687555-suspect-in-multan-orphan-boys-killing-dies-in-alleged-police-encounter"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2038727/man-accused-of-running-over-multan-teenager-killed-in-alleged-ccd-encounter"
+        }
+      ],
+      "timestamp": "Oct 21, 4:21 AM",
+      "publishedAt": "2026-10-21T04:21:37+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No effect on jobs, prices or business activity."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "An unexplained custody escape followed by an alleged encounter killing raises rule-of-law and accountability questions."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "A child's violent death and a suspect killed outside court process both weigh on public safety and trust."
+        },
+        "market": {
+          "value": "low",
+          "reason": "No market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Both outlets call the encounter alleged and attribute the account to the CCD."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Two outlets agree on the core facts, though the encounter itself rests on the CCD's claim."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "APCDIA calls for competitive automotive market",
+      "summary": "AI summary: The car dealers and importers association urged an end to policies it says favour a few local assemblers, arguing that regulated commercial imports of used vehicles would help buyers and push local makers to improve. It said it is moving toward commercial imports, with Karachi's chamber of commerce offering support.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40445230/apcdia-calls-for-competitive-automotive-market"
+        }
+      ],
+      "timestamp": "Oct 21, 2:29 AM",
+      "publishedAt": "2026-10-21T02:29:59+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "An advocacy position with no policy change yet."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Trade body lobbying has no governance stability effect."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate change for consumers."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Relevant to the auto sector and vehicle import policy outlook."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports one association's view without a government counterpoint, but takes no partisan side."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on the RSS excerpt only; the article page returned 403."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Home-based workers earn as little as Rs50 an hour",
+      "summary": "AI summary: At a Lahore event marking International Home-Based Workers Day, speakers described stagnant piece rates, unpaid work, health risks and gender pay gaps among home-based workers. Union leaders called for collective action to win better wages and social protection.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40445231/home-based-workers-earn-as-little-as-rs50-an-hour"
+        }
+      ],
+      "timestamp": "Oct 21, 2:29 AM",
+      "publishedAt": "2026-10-21T02:29:59+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Very low earnings point to weak incomes for a large informal workforce."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "No governance development reported."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Exploitation, health hazards and missing social protection hurt workers' wellbeing."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited relevance to markets or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Relays workers' and unions' accounts without partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on the RSS excerpt only; the article page returned 403."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "KP gems, jewellery traders discuss formalising informal trade",
+      "summary": "AI summary: A Khyber Pakhtunkhwa advisory council member pledged to help the provincial gems and jewellery association bring informal trade into the documented economy, add value and ease trade barriers. The association also plans to send a delegation to an exhibition in Germany.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40445232/kp-gems-jewellery-traders-discuss-formalising-informal-trade"
+        }
+      ],
+      "timestamp": "Oct 21, 2:29 AM",
+      "publishedAt": "2026-10-21T02:29:59+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "Formalisation and export promotion could support business activity, though only pledged so far."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "No governance effect."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct change to daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Niche sector with limited broad market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straightforward report of a meeting and pledges."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on the RSS excerpt only; the article page returned 403."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Mayor says new phase of uplift begins in Korangi industrial area",
+      "summary": "AI summary: Karachi Mayor Murtaza Wahab broke ground on infrastructure work in Korangi Industrial Area, saying the Sindh government has set aside Rs9.5 billion for the city's industrial zones, including Rs2 billion for Korangi. He also announced security steps along Shahrah-e-Bhutto and other road and transport projects.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40445233/mayor-says-new-phase-of-uplift-begins-in-korangi-industrial-area"
+        }
+      ],
+      "timestamp": "Oct 21, 2:29 AM",
+      "publishedAt": "2026-10-21T02:29:59+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "Infrastructure spending in an industrial zone can support business activity."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine local development announcement."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Road, transport and security measures could improve daily life if delivered."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Relevant to industrial firms operating in Karachi."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the mayor's announcements; claims are his own and uncontested but not partisan in framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on the RSS excerpt only; the article page returned 403."
+        }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "Suspect in Laiba Ijaz suicide case killed in firing by 'accomplices': Islamabad police",
+      "summary": "AI summary: Islamabad police say Muhammad Noman, the main suspect in the case of gold medallist Laiba Ijaz's suicide, died after armed men fired on a team escorting him for evidence recovery, claiming his own accomplices' bullets hit him. Unnamed police sources allege he defrauded her with fake US admission documents and took money and jewellery; those details are unverified.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/687519-suspect-in-laiba-ejaz-suicide-case-killed-in-firing-by-accomplices-islamabad-police"
+        }
+      ],
+      "timestamp": "Oct 20, 11:09 PM",
+      "publishedAt": "2026-10-20T23:09:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No effect on jobs or prices."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "A suspect dying in police custody under disputed circumstances raises accountability concerns."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "A suicide linked to alleged fraud and a custodial death both affect public safety and trust."
+        },
+        "market": {
+          "value": "low",
+          "reason": "No market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Attributes the account to the police spokesperson and police sources."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but single outlet relying largely on unnamed police sources."
+        }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "Maldives President Mohamed Muizzu arrives in Pakistan on state visit",
+      "summary": "AI summary: Maldives President Mohamed Muizzu landed in Islamabad for a three-day state visit at the prime minister's invitation, the first by a Maldivian president in eleven years. Official statements say talks will cover trade, investment, health, education, defence and maritime security, with a business forum and several agreements expected.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/687498-maldives-president-mohamed-muizzu-arrive-in-pakistan-on-state-visit"
+        }
+      ],
+      "timestamp": "Oct 20, 9:38 PM",
+      "publishedAt": "2026-10-20T21:38:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "Planned trade and investment agreements could modestly support business ties."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Diplomatic visit with no effect on domestic governance stability."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct change to daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Small bilateral trade relationship with limited market impact."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Relies on official statements but makes no contested claims."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single outlet, mostly relaying Prime Minister's Office and Foreign Office statements."
+        }
+      }
+    }
+  ]
+}
