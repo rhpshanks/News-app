@@ -1,0 +1,413 @@
+{
+  "generatedAt": "2026-10-22T04:18:15+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "'Letting roots of Pak-India conflict fester invites more danger'",
+      "summary": "AI summary: At the Islamabad Non-Proliferation Conference, former CJCSC Gen (retd) Zubair Mahmood Hayat argued that ending crises without settling causes such as Kashmir and the suspended Indus Waters Treaty sets up worse confrontations later. He warned that new technology, shorter decision windows and unverified allegations raise the risk of an accidental war in South Asia.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2038904/letting-roots-of-pak-india-conflict-fester-invites-more-danger"
+        }
+      ],
+      "timestamp": "Oct 22, 7:45 AM",
+      "publishedAt": "2026-10-22T07:45:31+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Conference remarks have no direct effect on jobs or prices."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Views of a retired officer, not a change in state policy or governance."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Highlights escalation risk but brings no immediate change to public safety."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Long-run security commentary with little near-term market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straight report of a speech, quotes attributed, no partisan framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read, with direct attributed quotes from the speaker."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Saudis intercept more drones as conflict with Houthis spirals",
+      "summary": "AI summary: The Saudi-led coalition said it shot down six drones, including some heading toward Madina, and the Saudi energy ministry said debris near the Shaybah oil field killed two workers, while the Houthis denied striking the kingdom but claimed attacks on coalition sites in Aden and Mukalla. Egypt said any military help to Riyadh would be defensive, Iran warned against foreign interference, and France's President Macron visited Riyadh in solidarity.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2038928/saudis-intercept-more-drones-as-conflict-with-houthis-spirals"
+        }
+      ],
+      "timestamp": "Oct 22, 7:41 AM",
+      "publishedAt": "2026-10-22T07:41:20+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Attacks near a major Saudi oil field raise oil supply and price risks for an importer like Pakistan."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Regional conflict; no direct change to Pakistan's own institutions reported."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Deaths and injuries reported, and widening conflict in a region hosting many expatriate workers."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Direct bearing on oil supply, energy prices and Gulf risk sentiment."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Wire-based report giving Saudi, Houthi, Egyptian and Iranian positions."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but key claims are contested between the parties and the drones' origin is unstated."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "FCC reinstates three ATC judges sacked by Sindh govt",
+      "summary": "AI summary: The Federal Constitutional Court struck down the Sindh government's notification removing anti-terrorism court judges and overturned the Sindh High Court ruling that had backed it. Judges appointed before the 2025 amendment keep their terms, so appellant Muhammad Yamin will complete his tenure at ATC-IV Karachi.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40445377/fcc-reinstates-three-atc-judges-sacked-by-sindh-govt"
+        }
+      ],
+      "timestamp": "Oct 22, 5:52 AM",
+      "publishedAt": "2026-10-22T05:52:55+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Judicial tenure ruling with no direct economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Settles a tenure dispute through the courts, though it reverses a provincial government decision."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Restores continuity in specific anti-terrorism courts; limited wider effect."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little relevance to investors or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual report of a court ruling."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based only on the RSS excerpt; the article page returned 403."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "India invites Pakistan to SCO culture ministers' meeting in Delhi",
+      "summary": "AI summary: India has asked Pakistan to attend a Shanghai Cooperation Organization culture ministers' meeting in New Delhi on November 20-21. Islamabad has not yet decided on sending a delegation and will settle it after internal consultations.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40445379/india-invites-pakistan-to-sco-culture-ministers-meeting-in-delhi"
+        }
+      ],
+      "timestamp": "Oct 22, 5:52 AM",
+      "publishedAt": "2026-10-22T05:52:55+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A cultural ministerial meeting has no direct economic effect."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "A multilateral invitation keeps a diplomatic channel open amid tense relations."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Minor diplomatic item with little market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Neutral factual report; no decision yet from either side to frame."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based only on the RSS excerpt; the article page returned 403."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Service tribunal must correct unlawful actions, not replace administrative decisions, according to SC",
+      "summary": "AI summary: A two-member Supreme Court bench led by Justice Ayesha A. Malik overturned a Federal Service Tribunal ruling and restored the Recruitment Rules, 2014. The court said the tribunal may fix unlawful administrative actions but cannot substitute its own judgment for the executive's, adding that promotion is not a vested right.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40445382/service-tribunal-must-correct-unlawful-actions-not-replace-administrative-decisions-according-to-sc"
+        }
+      ],
+      "timestamp": "Oct 22, 5:52 AM",
+      "publishedAt": "2026-10-22T05:52:55+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Civil service ruling with no direct economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Clarifies the tribunal's limits; a routine judicial precedent."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Affects civil servants' promotion disputes; limited wider effect."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little relevance to investors or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual report of a court judgment."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based only on the RSS excerpt; the article page returned 403."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "PTI asks govt to 'rebuild trust' if it is serious about talks",
+      "summary": "AI summary: PTI's information secretary Sheikh Waqas Akram said the party wants confidence-building steps before any talks, including restoring its Khyber Pakhtunkhwa government's mandate, freeing political prisoners and giving Imran Khan access to his lawyers, family and own doctors. He also rejected Information Minister Attaullah Tarar's claim that the party had lost public support, after Tarar said a formal ban was unnecessary following governor's rule in KP.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2038925/pti-asks-govt-to-rebuild-trust-if-it-is-serious-about-talks"
+        }
+      ],
+      "timestamp": "Oct 22, 5:40 AM",
+      "publishedAt": "2026-10-22T05:40:51+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Political statements with no direct economic measure."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Preconditions for talks and the KP governor's rule dispute point to a continuing standoff."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Raises claims of detentions and raids but reports no new incident."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Prolonged political confrontation weighs on investor sentiment."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Mainly a report of a party statement; the minister's earlier view is included, so framing is not one-sided."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but it rests on one side's statement without a direct government reply."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "JI to launch third phase of anti-petroleum levy protests from Oct 23",
+      "summary": "AI summary: Jamaat-e-Islami said it will start a third round of protests against the petroleum levy on October 23, with district-level sit-ins nationwide on Friday. According to the party, a planned meeting with the prime minister stalled after the government stopped contacting it, and it says the levy's full abolition will be its agenda for any talks.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/687637-ji-to-launch-third-phase-of-anti-petroleum-levy-protests-from-october-23"
+        }
+      ],
+      "timestamp": "Oct 21, 9:27 PM",
+      "publishedAt": "2026-10-21T21:27:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Pressure on fuel levies could ease prices, but sit-ins may disrupt activity; no policy change yet."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Renewed street protests and stalled talks add pressure on the government."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Sit-ins may cause local disruption, but no harm reported."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Petroleum levy is a key revenue and fuel-price issue for businesses."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports JI's statement as the party's claims, without taking sides."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but it relies only on JI statements with no government response."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "'We need no loyalty certificates': Gandapur hits back at Salman Akram Raja",
+      "summary": "AI summary: After PTI's failed protest march, Secretary General Salman Akram Raja accused dozens of KP lawmakers of betraying the party as they moved to name Ali Amin Gandapur acting provincial president. Gandapur called Raja's remarks damaging, demanded an apology and challenged him to name the alleged conspirators and explain who ordered a party inquiry.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/687640-we-need-no-loyalty-certificates-gandapur-hits-back-at-salman-akram-raja"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2038929/pti-leadership-turns-on-itself-after-protest-debacle"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40445349/gandapur-challenges-salman-to-identify-party-conspirators"
+        }
+      ],
+      "timestamp": "Oct 21, 7:20 PM",
+      "publishedAt": "2026-10-21T19:20:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Internal party dispute with no direct economic effect."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Open infighting in the main opposition party adds to instability while KP is under governor's rule."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on public safety or daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Party feud has little direct relevance to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Dawn presents both leaders' claims; Geo and Business Recorder carry Gandapur's side as his statement."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Same exchange reported by three outlets with matching details."
+        }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "Pakistan, Turkiye, Qatar, and Indonesia sign defence cooperation accord",
+      "summary": "AI summary: The four countries signed the 'Badr Memorandum of Understanding' in Doha, which the Turkish defence ministry said covers joint military production, capability building, training and research. Defence Minister Khawaja Asif said Pakistan hopes it will support regional stability along with joint production and technology transfer.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/687624-pakistan-turkey-qatar-indonesia-sign-defence-cooperation-accord"
+        }
+      ],
+      "timestamp": "Oct 21, 4:46 PM",
+      "publishedAt": "2026-10-21T16:46:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "Joint defence production and technology transfer could support local industry."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "Strengthens Pakistan's ties with key partner states."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Relevant to defence-industry and bilateral trade prospects."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Relies on official statements but describes them factually without partisan framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read, with details attributed to the Turkish ministry via Reuters and to Pakistan's minister."
+        }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "Punjab to allow 'province-wide' Basant celebrations in March 2027",
+      "summary": "AI summary: Sources told Geo News the Punjab government plans to permit Basant across the province in the second week of March 2027, with designated kite-making sites, price controls and a new law setting safety rules. Separately, the chief minister has approved a 10-day Lahore Basant from late January to early February 2027.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/687614-punjab-to-allow-province-wide-basant-celebrations-in-march-2027-sources"
+        }
+      ],
+      "timestamp": "Oct 21, 4:05 PM",
+      "publishedAt": "2026-10-21T16:05:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "Festival demand could boost kite-makers, vendors and local tourism."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Provincial cultural policy with no effect on institutional stability."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "A public festival with leisure value, but kite-string safety risks remain to be managed."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Mainly relevant to small local businesses."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the plan and officials' remarks without evident partisan slant."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Province-wide plan attributed to unnamed sources; details still to be announced."
+        }
+      }
+    }
+  ]
+}
