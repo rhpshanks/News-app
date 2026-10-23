@@ -1,0 +1,341 @@
+{
+  "generatedAt": "2026-10-23T13:07:09+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Lahore tops global pollution ranking as air quality turns 'hazardous'",
+      "summary": "AI summary: IQAir's Friday morning list placed Lahore as the most polluted city in the world with an AQI of 410, with fine particulate levels about 45 times the WHO guideline, while Karachi was the only other Pakistani city in the top 21. An activist quoted in the report disputed provincial claims that smog has been brought under control, pointing to continued crop burning and smoky vehicles.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2039233/lahore-tops-global-pollution-ranking-as-air-quality-turns-hazardous"
+        }
+      ],
+      "timestamp": "Oct 23, 12:36 PM",
+      "publishedAt": "2026-10-23T12:36:29+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Hazardous smog tends to cut outdoor activity and raise health costs in a major commercial city."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Criticism of smog policy, but no change to governance or institutions."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Very unhealthy air poses a direct health risk to millions of Lahore residents."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited direct relevance to investors beyond short-term disruption."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports both the Punjab government's own data and an activist's criticism."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; ranking figures attributed to IQAir and Punjab's monitoring platform."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Political parties not supporting fight against terrorism will be 'minus': PM's aide",
+      "summary": "AI summary: Rana Sanaullah, the prime minister's adviser on political affairs, said parties that do not fully back the fight against terrorism and the security forces would be sidelined, answering a question about PTI's role in Khyber Pakhtunkhwa. He also said the KP governor's Rs160 billion request had been approved and that no draft of a 28th amendment had been discussed.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/687903-political-parties-not-supporting-fight-against-terrorism-will-be-minus-pms-aide"
+        }
+      ],
+      "timestamp": "Oct 23, 12:17 PM",
+      "publishedAt": "2026-10-23T12:17:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Mentions a provincial funding approval but no immediate economic measure."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Warning that a party could be pushed out of politics, amid governor's rule in KP, signals heightened confrontation."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Statements alone bring no direct change to daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Political rhetoric with little direct market relevance."
+        },
+        "lean": {
+          "value": "pro-government",
+          "reason": "Relays a government aide's claims against PTI with no response from the party included."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but single source and the remark's target is implied rather than named."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Army to continue anti-terror campaign vigorously, hit India-backed terrorists 'hard': CDF",
+      "summary": "AI summary: On a visit to the Peshawar Corps Headquarters, Field Marshal Asim Munir was briefed on Khyber Pakhtunkhwa's security situation and, according to ISPR, pledged to keep pursuing groups the military describes as India-sponsored. The visit came a day after a federal apex committee meeting in Peshawar, against a backdrop of sharply rising militant violence in KP and Balochistan.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/687908-military-to-continue-anti-terror-campaign-vigorously-hit-india-backed-terrorists-hard-vows-cdf-munir"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2039235/hit-them-hard-cdf-munir-vows-to-continue-campaign-against-indian-sponsored-terrorist-outfits"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40445613/cdf-munir-vows-to-continue-campaign-against-indian-sponsored-terrorist-groups"
+        }
+      ],
+      "timestamp": "Oct 23, 11:47 AM",
+      "publishedAt": "2026-10-23T11:47:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A statement of intent with no direct economic measure."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Reaffirms existing security policy rather than changing governance."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Reports cite an 83% rise in violence-linked deaths in Q3 and fresh casualties, an ongoing threat to public safety."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Security posture matters for sentiment but carries no new market signal."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Outlets attribute the claims to ISPR and add independent violence data."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Three outlets report matching details; the core claims are ISPR's own and not independently verified."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "China orders 'all-out' rescue after Tibet quake kills 16",
+      "summary": "AI summary: A shallow 7.0-magnitude earthquake in Tibet's Nagqu area killed at least 16 people, injured 65 and brought down more than 300 homes, according to Chinese state media. President Xi Jinping ordered a full rescue effort, and Pakistan's president and prime minister sent condolences.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2039229/china-orders-all-out-rescue-after-tibet-quake-kills-16"
+        }
+      ],
+      "timestamp": "Oct 23, 11:08 AM",
+      "publishedAt": "2026-10-23T11:08:51+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Disaster is abroad with no direct effect on Pakistan's economy."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Pakistan's response is limited to condolences."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Tragic, but no direct effect on public life in Pakistan."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little relevance to Pakistani investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual disaster report with attributed figures."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; figures attributed to USGS, CCTV and Xinhua."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "DPM Dar lands in Istanbul for R4, R4+ ministerial meetings on regional peace",
+      "summary": "AI summary: Deputy Prime Minister Ishaq Dar travelled to Istanbul for talks of the R4 group (Pakistan, Saudi Arabia, Türkiye and Egypt), followed by a first-ever session with the UK, France and Germany. The agenda reportedly covers US-Iran mediation, shipping security in the Strait of Hormuz, Yemen, Palestine and the Russia-Ukraine war, alongside bilateral meetings.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2039222/dpm-dar-departs-for-istanbul-ahead-of-r-4-bloc-european-e3-diplomats-meetings"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/687909-dpm-dar-departs-for-istanbul-to-participate-in-r4-r4e3-ministerial-meetings"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40445610/ishaq-dar-heads-to-istanbul-for-r4-r4e3-foreign-ministers-meetings"
+        }
+      ],
+      "timestamp": "Oct 23, 11:08 AM",
+      "publishedAt": "2026-10-23T11:08:17+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Diplomatic talks with no immediate economic outcome."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine foreign-policy engagement; no domestic governance change."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Shipping security in Hormuz and US-Iran mediation bear on oil prices and trade routes."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straight reporting based on Foreign Office and Reuters information."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Three outlets report consistent details of the trip and agenda."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Civil, military leadership working for peace, uplift in KP: PM",
+      "summary": "AI summary: Chairing a federal apex committee meeting in Peshawar, Prime Minister Shehbaz Sharif said civilian and military leaders were working together toward lasting peace and development in Khyber Pakhtunkhwa.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40445549/civil-military-leadership-working-for-peace-uplift-in-kp-pm"
+        }
+      ],
+      "timestamp": "Oct 23, 5:47 AM",
+      "publishedAt": "2026-10-23T05:47:19+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A statement of intent; the excerpt gives no concrete economic measure."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Reaffirms a joint civil-military approach without a new governance change in the excerpt."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate change to public safety is described."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little direct market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Excerpt attributes the claim to the PM; too short to judge one-sided framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Article page returned 403; worked from the RSS excerpt only."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Civil Servants Foreign Nationality rules: Ministries, divisions told to compile officers' details",
+      "summary": "AI summary: The federal government has directed ministries and divisions to gather records of officers' foreign nationalities and travel documents, warning that hiding information or false declarations could bring disciplinary action under the new rules.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40445561/civil-servants-foreign-nationality-rules-ministries-divisions-told-to-compile-officers-details"
+        }
+      ],
+      "timestamp": "Oct 23, 5:47 AM",
+      "publishedAt": "2026-10-23T05:47:19+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Administrative compliance step with no economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine enforcement of civil service rules, not a stability shift."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Affects civil servants' paperwork, not wider daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "No relevance to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Neutral administrative report."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Article page returned 403; worked from the RSS excerpt only."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "13-year-old Karachi girl rescued after receiving dangerous online tasks",
+      "summary": "AI summary: Acting on a tip and IP data from a foreign agency, the National Cyber Crime Investigation Agency traced and reached a 13-year-old Karachi girl whom an online group had allegedly told to poison a cat and then hurt herself. Her parents were unaware, and investigators are still identifying the operators and other possible victims, with no arrests announced.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/687872-13-year-old-karachi-girl-rescued-after-receiving-dangerous-online-instructions"
+        }
+      ],
+      "timestamp": "Oct 23, 3:07 AM",
+      "publishedAt": "2026-10-23T03:07:58+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No economic dimension."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A law enforcement case, not a governance shift."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Shows an active online threat to children, despite this rescue."
+        },
+        "market": {
+          "value": "low",
+          "reason": "No market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Report based on officials' account with no partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but single source relying on officials' unverified account."
+        }
+      }
+    }
+  ]
+}
