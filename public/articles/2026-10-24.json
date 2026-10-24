@@ -1,0 +1,341 @@
+{
+  "generatedAt": "2026-10-24T15:07:07+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "R4, European nations call for dialogue to resolve Middle East conflicts: FO",
+      "summary": "AI summary: Meeting in Istanbul on October 23, foreign ministers of Pakistan, Turkiye, Egypt and Saudi Arabia (the R4) and of France, Germany, Italy and the UK jointly urged dialogue and de-escalation across the region's conflicts, from the US-Israel confrontation with Iran to Houthi attacks and shipping-lane tensions, according to a Foreign Office statement. The ministers agreed to keep meeting in this format.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2039478/r4-european-nations-call-for-dialogue-to-resolve-middle-east-conflicts-fo"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40445750/muslim-european-countries-seek-negotiated-solutions-to-regional-conflicts"
+        }
+      ],
+      "timestamp": "Oct 24, 2:03 PM",
+      "publishedAt": "2026-10-24T14:03:22+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A call for de-escalation, with no concrete trade or economic measures attached."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine multilateral diplomacy; no effect on domestic institutions."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate change to daily life in Pakistan."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Shipping-route and Gulf security talk is relevant to oil and freight watchers."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Both outlets relay the joint statement factually without partisan framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Two outlets report matching details from the same official statement."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Azeri woman retracts rape allegations, gives suspect 'clean chit' in Lahore assault case",
+      "summary": "AI summary: A 22-year-old Azerbaijani woman who said she was gang-raped in a Lahore flat in September has posted a video withdrawing her allegation against one suspect and saying her earlier account was given under pressure. Police say her statement before a magistrate still stands, while Punjab's chief minister alleges the accused's family offered money to drop the case and the province says it will pursue it as the state.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/688055-azerbaijani-woman-retracts-rape-allegations-gives-suspect-clean-chit-in-lahore-assault-case"
+        }
+      ],
+      "timestamp": "Oct 24, 12:39 PM",
+      "publishedAt": "2026-10-24T12:39:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No bearing on jobs, prices or business activity."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A criminal case, though bribery claims touch on justice-system integrity."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Alleged sexual assault and claims of pressure on a victim raise public safety and justice concerns."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not relevant to investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Sets out the woman's video, the police position and provincial officials' claims side by side."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single outlet, and key claims (pressure, bribery) remain contested and unproven."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Household items 'stolen' from ex-PM Ashraf's Rawalpindi residence",
+      "summary": "AI summary: Police in Rawalpindi have registered a theft case after items worth about Rs270,000, including air conditioners, doors, carpets and crockery, were taken from former prime minister Raja Pervaiz Ashraf's house in the Jatli area. His secretary's complaint says locks were broken and a domestic worker assigned to the house is missing with his phone switched off.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/688058-household-items-stolen-from-ex-pm-ashrafs-rawalpindi-residence"
+        }
+      ],
+      "timestamp": "Oct 24, 12:10 PM",
+      "publishedAt": "2026-10-24T12:10:08+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A small property theft with no wider economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Involves a former PM personally, not any institution."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "An isolated burglary with no injuries reported."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not relevant to investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straight report of the FIR's contents."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single outlet relying on the complaint and police sources; the investigation is at an early stage."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Pakistan replaces machine-readable passports with e-passports",
+      "summary": "AI summary: From October 23, Pakistan's passport offices and missions abroad are issuing only e-passports, ending the machine-readable passport after about 22 years, according to the immigration and passports directorate. Existing machine-readable passports stay valid until expiry but can no longer be renewed, so holders will move to e-passports when they reapply.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/688051-pakistan-replaces-machine-readable-passports-with-e-passports"
+        }
+      ],
+      "timestamp": "Oct 24, 11:55 AM",
+      "publishedAt": "2026-10-24T11:55:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "An administrative switch; the report gives no fee changes or cost impact."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine implementation of an announced policy."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Affects travellers only at renewal; existing passports remain valid."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little relevance to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual account of an official change."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single outlet, though it cites the passports directorate directly."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Trump's threat to strike Iran raises public concerns, congressional questions",
+      "summary": "AI summary: At a Florida rally, President Trump again hinted at fresh military action against Iran, while ABC News, citing Israeli sources, reported joint strike options being prepared, likely after the November 3 midterms; the White House said no attack would come before then. US polls show majority disapproval of his handling of the conflict, and analysts say Congress has limited means to block a strike.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2039463/trumps-threat-to-strike-iran-raises-public-concerns-congressional-questions"
+        }
+      ],
+      "timestamp": "Oct 24, 11:06 AM",
+      "publishedAt": "2026-10-24T11:06:39+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Renewed strike threats on a neighbouring country raise oil price and regional trade risk for an energy importer like Pakistan."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Concerns US politics; no direct effect on Pakistan's institutions."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate change to daily life in Pakistan, though regional risk is elevated."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Possible US-Iran escalation is a major input for oil and regional markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Presents the threat, the White House line, polling and analyst views."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Strike plans rest on unnamed sources and the outcome is speculative."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Pakistan denounces 'heinous' church attack in Jordan, reiterates condemnation of terrorism",
+      "summary": "AI summary: Gunmen fired on a funeral procession at a church in Jordan's Karak Governorate on Friday, killing at least seven people and wounding dozens, according to Jordanian authorities, who say a manhunt is under way. Pakistan's Foreign Office condemned the attack as terrorism and expressed solidarity with Jordan, while King Abdullah II promised a strong response.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2039464/pakistan-denounces-heinous-church-attack-in-jordan-reiterates-condemnation-of-terrorism"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40445744/pakistan-condemns-deadly-church-attack-in-jordan-that-kills-seven"
+        }
+      ],
+      "timestamp": "Oct 24, 10:57 AM",
+      "publishedAt": "2026-10-24T10:57:04+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic effect on Pakistan."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A diplomatic statement of condolence; no domestic institutional effect."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "A deadly attack on worshippers, with loss of life and injuries."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not relevant to Pakistani markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports official statements and casualty figures without slant."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Two outlets agree on the core facts; injury counts differ (10 vs 34), likely reflecting updated figures."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "ISI, IB officials included in JIT formed to probe Mir Raza murder",
+      "summary": "AI summary: Acting on a judicial commission that called the police inquiry into the killing of Karachi businessman Mir Raza Ali an \"epic failure\", the Sindh government has asked the ISI, IB, NCCIA and Sindh Rangers to name officers to a joint investigation team led by a DIG. It has also asked the police chief to act against officers named in the report, moved against the doctor behind the disputed post-mortem, and set up a separate probe into possible negligence or cover-up.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/688042-isi-ib-officials-included-in-jit-formed-to-probe-mir-raza-murder"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2039466/mir-raza-murder-case-sindh-govt-asks-agencies-sindh-rangers-to-nominate-jit-members"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40445748/sindh-govt-orders-probe-into-alleged-police-negligence-in-mir-raza-case"
+        }
+      ],
+      "timestamp": "Oct 24, 10:04 AM",
+      "publishedAt": "2026-10-24T10:04:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic effect."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "A judicial finding of police failure and possible cover-up points to weak institutional accountability, even as the province responds."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Raises public concern over policing and justice in a murder case in Karachi."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not relevant to investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Relays the commission's findings and government steps; no partisan framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Three outlets report matching details from the official letter and commission report."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Indian-sponsored terrorist outfits: CDF reaffirms Pakistan's resolve to intensify its campaign",
+      "summary": "AI summary: According to an ISPR statement, Field Marshal Asim Munir told troops at Corps Headquarters Peshawar on Friday that Pakistan would step up its campaign against militant groups the military says are backed by India. He was briefed on Khyber Pakhtunkhwa's security situation, counterterrorism operations and border management, and urged units to stay vigilant.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40445708/indian-sponsored-terrorist-outfits-cdf-reaffirms-pakistans-resolve-to-intensify-its-campaign"
+        }
+      ],
+      "timestamp": "Oct 24, 5:32 AM",
+      "publishedAt": "2026-10-24T05:32:33+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A statement of intent with no announced economic measures."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Restates existing security policy; no institutional change."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Signals continuing militancy and operations in Khyber Pakhtunkhwa, with ongoing risk to civilians."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited market relevance beyond general security sentiment."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Relays the ISPR statement as attributed; claims of Indian backing are the military's, not independently verified."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single outlet relaying one official source with no independent corroboration."
+        }
+      }
+    }
+  ]
+}
