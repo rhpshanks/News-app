@@ -1,0 +1,197 @@
+{
+  "generatedAt": "2026-10-25T13:21:49+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Shadab returns, Razaullah makes debut as Pakistan elect to field in tri-series match against England",
+      "summary": "AI summary: Pakistan chose to bowl first against England in a Lahore tri-series ODI, recalling Shadab Khan as an extra spinner and handing Razaullah a debut, while an injured Naseem Shah sat out. Unbeaten so far, Pakistan can book a place in the October 31 final with a win, whereas a third loss would likely knock England out.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2039708/shadab-returns-razaullah-makes-debut-as-pakistan-elect-to-field-in-tri-series-match-against-england" }
+      ],
+      "timestamp": "Oct 25, 1:02 PM",
+      "publishedAt": "2026-10-25T13:02:06+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A single cricket match has no meaningful effect on jobs, prices or business activity." },
+        "political": { "value": "neutral", "reason": "Sports team selection has no bearing on governance stability." },
+        "social": { "value": "positive", "reason": "A home series with a winning team and a breast cancer awareness kit offers public enjoyment and a health message." },
+        "market": { "value": "low", "reason": "Of little relevance to investors beyond minor broadcast and sponsorship interest." },
+        "lean": { "value": "balanced", "reason": "Straight match report with no political framing." },
+        "confidence": { "value": "high", "reason": "Full article read; routine factual sports details." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "PM Chromebook scheme: Everything you need to know",
+      "summary": "AI summary: A federal programme will hand 500,000 refurbished Chromebooks over three years to Grade 9 students ranked by IBCC-verified SSC-I marks (minimum 50%), split by province with roughly a fifth reserved for madrasa students. The education ministry and the PM's Youth Programme are running it, with devices supplied by the TT Care Foundation; the report does not state the cost.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/688190-pm-chromebook-scheme-everything-you-need-to-know" }
+      ],
+      "timestamp": "Oct 25, 12:43 PM",
+      "publishedAt": "2026-10-25T12:43:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Unstated cost and a donor-supplied device pipeline make the near-term economic effect unclear, though digital skills may help over time." },
+        "political": { "value": "neutral", "reason": "A routine welfare rollout with set allocation rules; no sign of institutional strain." },
+        "social": { "value": "positive", "reason": "Gives laptop access to students who could not otherwise afford one, using merit-based criteria." },
+        "market": { "value": "low", "reason": "Refurbished donated devices offer limited opportunity for local tech businesses." },
+        "lean": { "value": "balanced", "reason": "An explainer drawn from official sources without critics, but descriptive rather than promotional in tone." },
+        "confidence": { "value": "medium", "reason": "Full article read, but relies only on official statements and omits cost figures." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Key militant commander killed in Balochistan's Qila Saifullah IBO: sources",
+      "summary": "AI summary: Security sources say forces killed Adil Shah, alias Darvesh, during an intelligence-based operation in Qila Saifullah, describing him as a finance handler for Fitna al-Khawarij who faced 19 terrorism cases and carried a Rs2.5 million bounty. The claims come from unnamed security sources and have not been independently verified.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/688188-key-militant-commander-killed-in-balochistans-qila-saifullah-ibo-sources" }
+      ],
+      "timestamp": "Oct 25, 12:04 PM",
+      "publishedAt": "2026-10-25T12:04:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A single operation is unlikely to shift economic activity in Balochistan." },
+        "political": { "value": "neutral", "reason": "An ongoing security campaign continues; no sign of a change in governance stability." },
+        "social": { "value": "negative", "reason": "Points to persistent militancy and armed operations affecting safety in northern Balochistan, regardless of the reported success." },
+        "market": { "value": "low", "reason": "Limited direct relevance to investors beyond the general security picture." },
+        "lean": { "value": "balanced", "reason": "Relays security-source claims without commentary; one-sourced, but not framed for or against any party." },
+        "confidence": { "value": "low", "reason": "Based solely on unnamed security sources with no independent confirmation." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "In letter to Punjab CM, Hina Javed's family seeks judicial probe into murder case",
+      "summary": "AI summary: The family of Hina Javed, a media executive found dead in Rawalpindi in August, has written to Punjab CM Maryam Nawaz rejecting the police inquiry's direction and seeking a judicial commission, alleging DNA links to her husband and father-in-law and deleted phone messages. The CM says the probe is incomplete and has pointed to evidence against the domestic worker, while a National Assembly committee has summoned Punjab's police chief.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/688178-in-letter-to-punjab-cm-hina-javeds-family-seeks-judicial-probe-into-murder-case" },
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2039712/hina-javed-murder-case-in-open-letter-to-punjab-cm-victims-family-again-expresses-mistrust-in-police-probe" }
+      ],
+      "timestamp": "Oct 25, 10:21 AM",
+      "publishedAt": "2026-10-25T10:21:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A criminal case with no material economic effect." },
+        "political": { "value": "negative", "reason": "Open public distrust of a provincial police probe and parliamentary scrutiny of the police chief strain confidence in law enforcement institutions." },
+        "social": { "value": "negative", "reason": "A violent death and contested investigation raise concerns about women's safety and access to justice." },
+        "market": { "value": "low", "reason": "Not relevant to investment or business decisions." },
+        "lean": { "value": "balanced", "reason": "Centred on the family's account but both outlets include the CM's position and official actions." },
+        "confidence": { "value": "high", "reason": "Two independent outlets report matching details from the family's letter and the CM's response." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Indian Punjab CM expresses desire to visit Pakistan for Lahore conference",
+      "summary": "AI summary: Indian Punjab Chief Minister Bhagwant Mann said he has been invited to a Punjabi conference in Lahore on November 27-29 and would like to go, but doubted New Delhi would allow it, and urged that the Kartarpur corridor be reopened. The remarks come amid frozen India-Pakistan ties since last year's conflict.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2039559/indian-punjab-cm-wants-to-attend-lahore-moot" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/688193-indian-punjab-cm-expresses-desire-to-visit-pakistan-for-lahore-conference" }
+      ],
+      "timestamp": "Oct 25, 8:00 AM",
+      "publishedAt": "2026-10-25T08:00:35+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A stated wish to attend a cultural event does not change trade or business conditions." },
+        "political": { "value": "neutral", "reason": "A goodwill gesture from an Indian state leader, with no change in official relations so far." },
+        "social": { "value": "positive", "reason": "Signals cross-border cultural goodwill and renewed interest in Kartarpur access for pilgrims." },
+        "market": { "value": "low", "reason": "No direct relevance to markets unless it leads to a policy shift." },
+        "lean": { "value": "balanced", "reason": "Both outlets report Mann's remarks factually without favouring any Pakistani political side." },
+        "confidence": { "value": "high", "reason": "Two outlets report the same quotes and details." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Gabd border crossing with Iran reopened",
+      "summary": "AI summary: Pakistan reopened the Gabd-Rimdan crossing with Iran on Saturday after a week-long halt, letting stranded LPG and food trucks move and, according to the Gwadar chamber's president, easing pressure on traders. Extra forces were posted to guard convoys after gunmen torched dozens of parked trucks near the closed crossing on Thursday; the commerce ministry never gave a reason for the suspension.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2039610/gabd-border-crossing-with-iran-reopened" }
+      ],
+      "timestamp": "Oct 25, 7:25 AM",
+      "publishedAt": "2026-10-25T07:25:29+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Restored cross-border trade should ease LPG shortages and price pressure on fuel and food." },
+        "political": { "value": "neutral", "reason": "An administrative reversal following a security review; no wider governance shift." },
+        "social": { "value": "neutral", "reason": "Relief for traders and consumers is offset by the recent truck arson and continued insecurity in the area." },
+        "market": { "value": "medium", "reason": "Relevant to LPG, transport and border-trade businesses in Balochistan." },
+        "lean": { "value": "balanced", "reason": "Factual report quoting a business chamber and noting the ministry gave no reason." },
+        "confidence": { "value": "medium", "reason": "Full article read, but single source and the price-relief effect is a projection." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Customs values of imported stationery raw materials increased",
+      "summary": "AI summary: Karachi's customs valuation directorate has raised assessed values for 10 imported stationery inputs, mostly from China, such as pen inks, nibs and ball-pen tips, citing higher global prices and freight and energy costs. The update replaces a 2017 ruling and aims to curb under-invoicing, while local makers want a cartridge-ink tariff classification fixed.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40445839/customs-values-of-imported-stationery-raw-materials-increased" }
+      ],
+      "timestamp": "Oct 25, 2:25 AM",
+      "publishedAt": "2026-10-25T02:25:41+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Higher assessed values raise duty costs for stationery makers, likely feeding into retail prices." },
+        "political": { "value": "neutral", "reason": "A routine customs valuation update." },
+        "social": { "value": "neutral", "reason": "Possible small price rise for school supplies, but limited everyday impact." },
+        "market": { "value": "medium", "reason": "Directly relevant to stationery importers and manufacturers." },
+        "lean": { "value": "balanced", "reason": "Reports the ruling alongside industry concerns." },
+        "confidence": { "value": "high", "reason": "Full article read; technical details stated plainly." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "R4 Ministerial Meeting: Joint statement seeks urgent diplomatic efforts to de-escalate regional conflicts",
+      "summary": "AI summary: After talks in Istanbul, foreign ministers of Pakistan, Saudi Arabia, Turkiye, Egypt, France, Germany, Italy and the UK jointly urged diplomacy to calm regional conflicts, citing threats to security and to shipping routes such as Hormuz, Bab-el-Mandeb and the Black Sea. They agreed to keep meeting in the same format.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40445840/r4-ministerial-meeting-joint-statement-seeks-urgent-diplomatic-efforts-to-de-escalate-regional-conflicts" }
+      ],
+      "timestamp": "Oct 25, 2:25 AM",
+      "publishedAt": "2026-10-25T02:25:41+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A statement of intent; shipping risks persist until tensions actually ease." },
+        "political": { "value": "positive", "reason": "Pakistan's place in a multilateral de-escalation forum supports diplomatic standing." },
+        "social": { "value": "neutral", "reason": "No immediate effect on daily life in Pakistan." },
+        "market": { "value": "medium", "reason": "Shipping-lane and Gulf tensions matter for oil prices and trade costs." },
+        "lean": { "value": "balanced", "reason": "Straight summary of a joint statement." },
+        "confidence": { "value": "high", "reason": "Full article read; reports an official joint statement directly." }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "Schemes like 'Apni Chhat, Apna Ghar' recognised worldwide: CM",
+      "summary": "AI summary: Marking World Development Information Day, Punjab CM Maryam Nawaz described access to development data as a public right that curbs corruption, and credited the provincial socio-economic registry, road works and health clinics with progress. She also claimed the Apni Chhat, Apna Ghar housing scheme has earned global recognition; none of these claims are independently checked in the report.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40445841/schemes-like-apni-chhat-apna-ghar-recognised-worldwide-cm" }
+      ],
+      "timestamp": "Oct 25, 2:25 AM",
+      "publishedAt": "2026-10-25T02:25:41+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A commemorative message with no new spending or policy announced." },
+        "political": { "value": "neutral", "reason": "Routine official messaging; no effect on institutional stability." },
+        "social": { "value": "neutral", "reason": "Restates existing welfare programmes without new measures." },
+        "market": { "value": "low", "reason": "Little relevance to investors." },
+        "lean": { "value": "pro-government", "reason": "Carries the provincial government's claims entirely uncontested, with no outside verification or other voices." },
+        "confidence": { "value": "medium", "reason": "Framing is clearly one-sided, but it reads as a reproduced official statement rather than editorial stance." }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "Haroon chairs meeting to boost industrial growth, economic revival",
+      "summary": "AI summary: The prime minister's industries adviser, Haroon Akhtar Khan, held a task force session with leather, sports goods, cutlery and carpet exporters and asked them to submit concrete proposals on productivity, quality and new markets. He promised further consultations, though no specific measures were announced.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40445808/haroon-chairs-meeting-to-boost-industrial-growth-economic-revival" }
+      ],
+      "timestamp": "Oct 25, 2:25 AM",
+      "publishedAt": "2026-10-25T02:25:40+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Consultation only; no concrete policy or incentive yet." },
+        "political": { "value": "neutral", "reason": "Routine policy engagement with industry." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily life." },
+        "market": { "value": "medium", "reason": "Relevant to export-oriented manufacturers watching for policy support." },
+        "lean": { "value": "pro-government", "reason": "Based solely on a government news release, quoting no industry or independent voices." },
+        "confidence": { "value": "medium", "reason": "Full article read; one-sided sourcing appears to be from a press release rather than editorial stance." }
+      }
+    }
+  ]
+}
