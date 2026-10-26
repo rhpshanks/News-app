@@ -1,0 +1,485 @@
+{
+  "generatedAt": "2026-10-26T10:28:33+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Brazil's leftist President Lula wins fourth term in dramatic comeback",
+      "summary": "AI summary: Luiz Inacio Lula da Silva secured a fourth term as Brazil's president, edging Flavio Bolsonaro by roughly 52 to 48 percent in the runoff, though his rival rejected the outcome and vowed to seek its annulment after a court-ordered two-hour voting extension. Lula will now govern alongside a right-leaning Congress.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2039915/brazils-leftist-president-lula-wins-fourth-term-in-dramatic-comeback"
+        }
+      ],
+      "timestamp": "Oct 26, 8:14 AM",
+      "publishedAt": "2026-10-26T08:14:39+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A foreign election has little direct bearing on Pakistani jobs or prices."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Concerns Brazil's governance, not Pakistan's institutional stability."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life in Pakistan."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Only marginal relevance to Pakistani investors via global emerging-market sentiment."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Wire report includes both candidates' positions, the extension dispute and Meta's denial."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Based on official results reported by an international wire service with detailed, attributed quotes."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "'No shake-up in PTI committee structure'",
+      "summary": "AI summary: PTI denied reports that its core committee had been sidelined, saying its core, political and parliamentary bodies serve separate functions with Imran Khan holding final say, and that a proposal to empower the parliamentary committee was only a suggestion. The party also renewed its demand for the release of Khan, Bushra Bibi, Khan's sisters and other detained members.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2039823/no-shake-up-in-pti-committee-structure"
+        }
+      ],
+      "timestamp": "Oct 26, 7:43 AM",
+      "publishedAt": "2026-10-26T07:43:48+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Internal party organisation has no clear economic effect."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Reflects reported internal friction and ongoing detentions of a major party's leadership, signalling continued political strain."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Limited direct effect on public daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Of little direct relevance to business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "The piece is built mainly on PTI statements without a government response, but it reports them as the party's claims rather than endorsing them."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single outlet relying largely on party sources; detention figures are the party's own and unverified."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Govt moves to establish new 'umbrella' privatisation entity",
+      "summary": "AI summary: A bill tabled in the National Assembly would fold the Public-Private Partnership Authority into the Privatisation Commission, creating a single body with a private-sector-majority board that would also manage four public funds. The draft notably shields current and former officials and consultants from legal action for acts done in good faith.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2039826/govt-moves-to-establish-new-umbrella-privatisation-entity"
+        }
+      ],
+      "timestamp": "Oct 26, 6:05 AM",
+      "publishedAt": "2026-10-26T06:05:51+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "Streamlining privatisation and PPP handling could speed up asset sales and infrastructure deals."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "An institutional restructuring through normal legislation; the immunity clause may draw scrutiny but the process itself is routine."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate effect on daily life; impact depends on later privatisation outcomes."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Directly relevant to investors tracking state-owned enterprise sales and PPP projects."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Lays out the bill's provisions including the contentious immunity clause without cheerleading, though no outside critics are quoted."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on the draft bill as reported by one outlet; final legislation may change."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Dar, Chinese envoy discuss regional developments",
+      "summary": "AI summary: Foreign Minister Ishaq Dar held talks with Chinese Ambassador Jiang Zaidong on the regional situation and the role of diplomacy in sustaining peace. Dar highlighted advances in bilateral cooperation such as CPEC, trade and agriculture, and urged regular high-level contact.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40445929/dar-chinese-envoy-discuss-regional-developments"
+        }
+      ],
+      "timestamp": "Oct 26, 4:07 AM",
+      "publishedAt": "2026-10-26T04:07:33+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A courtesy-level meeting with no new economic commitments announced."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "Reaffirms a key diplomatic partnership, supporting foreign-policy continuity."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "CPEC and trade ties with China remain relevant to investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Routine diplomatic readout without partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Working only from the RSS excerpt; the article page was not fetched."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Public officers must maintain institutional propriety: LHC",
+      "summary": "AI summary: The Lahore High Court held that officials appearing before judicial or quasi-judicial forums should act with restraint, but that mere criticism or rudeness does not count as derogatory language under the Lawyers Welfare and Protection Act 2023. On that basis it overturned an order to register an FIR against an FBR Commissioner.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40445930/public-officers-must-maintain-institutional-propriety-lhc"
+        }
+      ],
+      "timestamp": "Oct 26, 4:07 AM",
+      "publishedAt": "2026-10-26T04:07:33+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A narrow legal ruling with no broad economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Clarifies a statute's scope through normal judicial process."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Limited effect on the general public."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Minor relevance to businesses dealing with tax authorities."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straight report of a court judgment."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Working only from the RSS excerpt; the article page was not fetched."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Cultural event held to mark Hungary's National Day",
+      "summary": "AI summary: Lahore Fort hosted a Hungarian National Day celebration organised by Punjab's culture department and the Hungarian Embassy, with artists from both countries performing. Speakers emphasised cultural links and investment prospects in Punjab.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40445915/cultural-event-held-to-mark-hungarys-national-day"
+        }
+      ],
+      "timestamp": "Oct 26, 4:07 AM",
+      "publishedAt": "2026-10-26T04:07:33+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Mentions investment opportunities but announces nothing concrete."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A ceremonial cultural event."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "A public cultural celebration fostering people-to-people ties."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Of little relevance to market decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Event report with no political framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Working only from the RSS excerpt; the article page was not fetched."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Key terrorist commander killed in Balochistan operation",
+      "summary": "AI summary: Security forces killed Adil Shah, also known as Darvesh, during an intelligence-based operation in Qila Saifullah district, according to sources cited in the report. He was said to be tied to militant financing and attacks, facing 19 anti-terrorism cases and carrying a Rs2.5 million bounty.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40445911/key-terrorist-commander-killed-in-balochistan-operation"
+        }
+      ],
+      "timestamp": "Oct 26, 4:07 AM",
+      "publishedAt": "2026-10-26T04:07:33+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No clear immediate effect on jobs or prices."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A security operation within an ongoing campaign; no shift in governance."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Points to continued militant activity and armed operations affecting safety in Balochistan."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Of limited direct relevance to investors, beyond general security perceptions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports security sources' claims without editorialising, though no independent account is given."
+        },
+        "confidence": {
+          "value": "low",
+          "reason": "Based on unnamed sources and only the RSS excerpt; claims are not independently verified."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "KP Governor Kundi says Sohail Afridi, assembly speaker 'in safe hands' after house arrest",
+      "summary": "AI summary: Khyber Pakhtunkhwa Governor Faisal Karim Kundi said Chief Minister Sohail Afridi and Speaker Babar Saleem Swati are being held under house arrest and are safe, adding they would be freed if no cases emerge, and suggested the October 11 emergency and governor's rule could run past six months. Relatives of both men have petitioned the Peshawar High Court for their recovery.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2039755/kp-governor-kundi-says-sohail-afridi-assembly-speaker-in-safe-hands-after-house-arrest"
+        }
+      ],
+      "timestamp": "Oct 26, 12:57 AM",
+      "publishedAt": "2026-10-26T00:57:54+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Prolonged emergency rule in a province can deter investment and disrupt economic activity."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "The detention of an elected chief minister and speaker under extended governor's rule signals serious institutional instability."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Ongoing emergency measures and detentions create uncertainty for residents."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Provincial political instability is relevant to investor risk assessments."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Relies heavily on the governor's account, but notes the lack of explanation for continued detention and the families' court petitions."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single outlet; the governor's claims are not officially confirmed and the detained men's side is absent."
+        }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "Six terrorists killed, two soldiers martyred in DI Khan IBO",
+      "summary": "AI summary: ISPR said six militants were killed in an intelligence-based operation in DI Khan's Zarkani area on October 24, while two soldiers lost their lives in the exchange of fire. The military said weapons were recovered and a clearance operation was continuing; its claims about the militants' affiliations were not independently verified.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/688240-six-terrorists-killed-two-soldiers-martyred-in-di-khan-ibo"
+        }
+      ],
+      "timestamp": "Oct 25, 9:05 PM",
+      "publishedAt": "2026-10-25T21:05:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct effect on jobs or prices."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Part of an ongoing security campaign rather than a governance change."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Deaths of soldiers and continuing militant activity weigh on public safety in the region."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited direct market relevance beyond general security risk."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Relays the ISPR statement as attributed, typical of security reporting."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single official source with no independent verification."
+        }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "Karachi youth injured in alleged police firing, family demands justice",
+      "summary": "AI summary: A 21-year-old in Karachi's Nazimabad was wounded in the lower back, with his family saying police fired from behind without warning, while police maintain suspects shot first and the bullet came from them. A case has been registered on a constable's complaint and investigators recovered dozens of shell casings.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/688237-karachi-youth-injured-in-alleged-police-firing-family-demands-justice"
+        }
+      ],
+      "timestamp": "Oct 25, 7:27 PM",
+      "publishedAt": "2026-10-25T19:27:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A local incident with no economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A local policing matter, not a governance-level event."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Raises concerns about police use of force and public safety, plus the cost barrier to private medical care."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not relevant to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Presents both the family's and the police's accounts."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Contested accounts from a single outlet, with the investigation still ongoing."
+        }
+      }
+    },
+    {
+      "id": 11,
+      "headline": "Iran says border with Pakistan open, LPG exports face no restrictions",
+      "summary": "AI summary: Iran's ambassador in Islamabad said Tehran has not closed its borders or curbed exports such as LPG to Pakistan, blaming a change in Pakistan's E-Form import procedure for halting cargo, and said both sides are consulting on a fix. Hundreds of LPG trucks have reportedly been stranded at Gabd for weeks.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/688233-iran-says-border-with-pakistan-open-lpg-exports-face-no-restrictions"
+        }
+      ],
+      "timestamp": "Oct 25, 5:26 PM",
+      "publishedAt": "2026-10-25T17:26:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Stranded LPG shipments can tighten supply and push up fuel prices for households and traders."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A trade-procedure dispute under diplomatic discussion, not a governance shock."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "LPG supply disruption can affect household cooking and heating costs."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Directly relevant to energy importers, LPG traders and border-trade businesses."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the Iranian envoy's position as his view; no Pakistani official response is included."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single outlet carrying one side's account of the trade blockage."
+        }
+      }
+    },
+    {
+      "id": 12,
+      "headline": "Father involved in child pornography of own children for money: NCCIA",
+      "summary": "AI summary: The NCCIA said it arrested a Skardu man accused of producing abuse material involving his own young children for sale on Telegram, and separately detained 42 people linked to three Karachi firms allegedly making animated child abuse content. The agency plans action against parents who fail to report such crimes and a school awareness drive.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/688224-father-involved-in-child-pornography-of-own-children-for-money-nccia"
+        }
+      ],
+      "timestamp": "Oct 25, 5:05 PM",
+      "publishedAt": "2026-10-25T17:05:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No meaningful economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Law-enforcement action through normal channels."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Exposes serious child exploitation networks, a grave concern for child safety, even as arrests are made."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not relevant to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Relays the agency's press conference as attributed claims."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on official claims at a press conference reported by one outlet; cases remain under investigation."
+        }
+      }
+    }
+  ]
+}
