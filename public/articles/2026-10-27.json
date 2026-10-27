@@ -1,0 +1,305 @@
+{
+  "generatedAt": "2026-10-27T13:20:00+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Maaz Sadaqat makes ODI return for Pakistan as Sri Lanka win toss, field first in tri-series match",
+      "summary": "AI summary: Sri Lanka chose to bowl first against Pakistan in the fifth tri-series ODI at Lahore's Gaddafi Stadium, with Pakistan recalling opener Maaz Sadaqat after Saim Ayub's release and bringing in Naseem Shah for Razaullah. Pakistan, unbeaten in the series, have already secured a place in Saturday's final.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2040181/maaz-sadaqat-makes-odi-return-for-pakistan-as-sri-lanka-win-toss-field-first-in-tri-series-match"
+        }
+      ],
+      "timestamp": "Oct 27, 12:50 PM",
+      "publishedAt": "2026-10-27T12:50:32+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A single cricket fixture has no measurable effect on jobs or prices."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Sports team news carries no governance implications."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Match result not yet known; team news alone has limited effect on public mood."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Of little relevance to investors or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straight match report covering toss and both sides' selections."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Factual team and toss details read from the full article."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "At UNGA debate, Pakistan warns against adding more members to Security Council, extending veto privileges",
+      "summary": "AI summary: Speaking at a UN General Assembly debate on the veto, Pakistan's diplomat Gul Qaiser Sarwani argued the permanent members' veto has paralysed the Security Council and should be scrapped or tightly limited, not extended. Pakistan also restated its opposition to new permanent seats, proposing instead a bigger role for elected members.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/688473-pakistan-urges-abolition-or-curbs-on-un-security-council-veto-power"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2040183/at-unga-debate-pakistan-warns-against-adding-more-members-to-security-council-extending-veto-privileges"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40446113/pakistan-opposes-expansion-of-veto-power-calls-for-equitable-security-council-reform"
+        }
+      ],
+      "timestamp": "Oct 27, 11:29 AM",
+      "publishedAt": "2026-10-27T11:29:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A diplomatic position statement at the UN has no direct economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Restates a long-standing foreign policy stance; no domestic governance impact."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct bearing on daily life in Pakistan."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Marginal relevance to markets or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "All three outlets report the stated position factually without partisan framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Three outlets report matching details of the same UN address."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Regional trade deficit widens sharply",
+      "summary": "AI summary: State Bank data show Pakistan's trade gap with nine neighbouring countries grew about 27pc to $4.97bn in July to September, as imports, mostly from China, climbed nearly 20pc while exports slipped about 7pc. The export fall was driven largely by a collapse in shipments to Afghanistan, where trade has been suspended since October 2025.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2040061/regional-trade-deficit-widens-sharply"
+        }
+      ],
+      "timestamp": "Oct 27, 7:36 AM",
+      "publishedAt": "2026-10-27T07:36:47+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "A widening regional trade gap and falling exports add pressure on the external account and exporters."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A data report with no direct effect on governance stability."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate effect on daily life, though import dependence is noted."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Directly relevant to traders, importers and external-account watchers."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Report is based on central bank figures without partisan framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Official SBP data, read from the full article."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Pakistan reaffirms solidarity with Kashmiris on Black Day, calls for end to rights violations",
+      "summary": "AI summary: On Kashmir Black Day, President Zardari, PM Shehbaz Sharif and Deputy PM Ishaq Dar pledged continued diplomatic and political backing for Kashmiris, voiced concern over detentions and restrictions in the region, and urged a settlement in line with UN Security Council resolutions. The National Assembly unanimously passed a resolution condemning rights abuses and rejecting India's August 2019 measures.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40446069/kashmir-dispute-pm-says-pakistans-position-remains-clear-consistent"
+        },
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/688466-pakistan-reaffirms-support-for-kashmiris-call-for-peaceful-settlement-of-longstanding-dispute"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40446121/pakistan-reiterates-solidarity-with-kashmiris-on-black-day"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2040175/pakistan-reaffirms-solidarity-with-kashmiris-on-black-day-calls-for-end-to-rights-violations"
+        }
+      ],
+      "timestamp": "Oct 27, 4:30 AM",
+      "publishedAt": "2026-10-27T04:30:25+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Annual commemorative statements carry no direct economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Reflects a cross-party consensus position; no change to institutional stability."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Observance events with no direct effect on daily life in Pakistan."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little relevance to investors or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports relay official and cross-party statements on a consensus national position, not a government-opposition dispute."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Three outlets report matching statements and events."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Ex-COAS Abdul Waheed Kakar passes away",
+      "summary": "AI summary: Former army chief Gen (retd) Abdul Waheed Kakar died in Rawalpindi aged 89, with the military, president and prime minister offering condolences. He is best remembered for brokering the 1993 standoff between the president and prime minister, known as the Kakar Formula.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40446067/ex-coas-abdul-waheed-kakar-passes-away"
+        }
+      ],
+      "timestamp": "Oct 27, 4:30 AM",
+      "publishedAt": "2026-10-27T04:30:25+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "An obituary has no effect on jobs or prices."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Death of a retired figure does not affect current governance."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No effect on public wellbeing or daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not relevant to markets or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Obituary notes condolences from across institutions with no partisan angle."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Worked from the RSS excerpt only, not the full article."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Lahore woman jumps off fast moving motorbike to escape alleged harassment by rider",
+      "summary": "AI summary: A woman was hurt after leaping from a moving ride-hailing motorbike in Lahore's Johar Town on October 17 to escape what she says was harassment by the rider, an incident police say is captured on CCTV. A case has been registered on her brother's complaint, but the rider fled and no arrest has been reported.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/688448-lahore-woman-jumps-from-moving-motorcycle-to-escape-harassment"
+        }
+      ],
+      "timestamp": "Oct 27, 2:17 AM",
+      "publishedAt": "2026-10-27T02:17:02+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A single criminal case has no measurable economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A local policing matter with no governance implications."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Highlights safety risks for women using ride-hailing services, with the victim injured and suspect still at large."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Minor relevance, mainly to ride-hailing operators."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports police statements and the complainant's account without partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single outlet; harassment is alleged and the investigation is ongoing."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Pakistan will defend Saudi Arabia with 'full force', says defence minister",
+      "summary": "AI summary: Defence Minister Khawaja Asif said in a Geo News interview that Pakistan would defend Saudi Arabia with full force, describing the kingdom's security as vital to Islamabad and citing a written commitment among partner countries to respond jointly to threats. He called attacks targeting Riyadh airport and the holy sites deeply regrettable.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/688425-pakistan-will-defend-saudi-arabia-with-full-force-says-khawaja-asif"
+        }
+      ],
+      "timestamp": "Oct 26, 11:19 PM",
+      "publishedAt": "2026-10-26T23:19:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A policy statement alone has no immediate effect on jobs or prices."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Restates a defence commitment; no direct effect on domestic institutional stability."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate effect on daily life, though it signals exposure to a regional conflict."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Relevant to investors watching Gulf ties, remittances and regional security risk."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the minister's own remarks as attributed statements."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single-source interview; context claims are the minister's and not independently corroborated."
+        }
+      }
+    }
+  ]
+}
