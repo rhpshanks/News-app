@@ -1,0 +1,377 @@
+{
+  "generatedAt": "2026-10-28T04:10:56+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Pakistan warns against escalation in Iran crisis, urges diplomacy",
+      "summary": "AI summary: At a UN Security Council briefing, Pakistan's acting envoy Usman Jadoon said the dispute over Iran's nuclear programme has worsened sharply and called on all parties to show restraint, leaving compliance checks to the IAEA without political pressure. He held up the Islamabad MoU signed in June as proof that negotiation can still deliver results.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2040346/pakistan-warns-against-escalation-in-iran-crisis-urges-diplomacy"
+        }
+      ],
+      "timestamp": "Oct 28, 7:41 AM",
+      "publishedAt": "2026-10-28T07:41:17+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A diplomatic statement has no direct effect on jobs or prices, though a wider Iran escalation would carry fuel price risk."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A routine foreign policy position at the UN with no domestic governance impact."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate effect on daily life in Pakistan."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Escalation around Iran matters to oil prices, which investors in Pakistan watch closely."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straight report of the envoy's remarks with background on the wider dispute."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Based on the full article reporting an on-record UN statement."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Karachi gunpoint harassment video prompts Sindh home minister to seek police report",
+      "summary": "AI summary: Sindh's home minister has asked the DIG South for a report and an inquiry after a viral, unverified video appeared to show men in a car menacing pedestrians at gunpoint in Karachi's DHA. Police have not yet named the men or announced arrests.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/688601-karachi-gunpoint-harassment-video-prompts-sindh-minister-to-seek-police-report"
+        }
+      ],
+      "timestamp": "Oct 28, 4:50 AM",
+      "publishedAt": "2026-10-28T04:50:05+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A single street crime incident has no measurable economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine administrative response by the provincial government."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Armed intimidation of passers-by points to public safety concerns in a residential area."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little relevance to markets or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the minister's order and notes the video is unverified."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but the video's timing and authenticity are not yet confirmed."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Abolition of PL: PM has sought another seven to 10 days, says JI",
+      "summary": "AI summary: Jamaat-e-Islami chief Hafiz Naeemur Rehman said the prime minister asked for seven to ten more days to respond to the party's call for scrapping the petroleum levy entirely. JI rejects any partial cut and says it will march on Islamabad in mid-November if no relief comes.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40446233/abolition-of-pl-pm-has-sought-another-seven-to-10-days-says-ji"
+        }
+      ],
+      "timestamp": "Oct 28, 4:46 AM",
+      "publishedAt": "2026-10-28T04:46:08+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No decision yet; the levy and fuel prices are unchanged for now."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Talks are ongoing, though a long march threat adds some pressure on the government."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Possible future fuel relief, but no change for households yet."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "The petroleum levy is a major revenue line, so its fate matters to fiscal and fuel market watchers."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Presents JI's account of the meeting without editorial framing for either side."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on the RSS excerpt only; reflects one party's account of a private meeting."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "PTI asked to look inward; warned against further talks",
+      "summary": "AI summary: In a seven-hour joint parliamentary party meeting, most PTI senators and MNAs argued against further negotiations with the establishment and criticised the leadership over the failed October 4 long march, the loss of its KP government and reliance on former chief minister Sohail Afridi. A minority backed supporting the proposed 28th Amendment, and some members walked out.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2040377/pti-asked-to-look-inward-warned-against-further-talks"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40446205/failed-long-march-kp-emergency-pti-lawmakers-question-leadership"
+        }
+      ],
+      "timestamp": "Oct 28, 4:46 AM",
+      "publishedAt": "2026-10-28T04:46:07+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Internal party debate has no direct economic effect."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "A main opposition party hardening against talks, amid governor's rule in KP, points to continued confrontation and internal rifts."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Of limited direct relevance to investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Carries named critics, party officials and anonymous insiders with several viewpoints."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Two outlets report matching details of the same meeting, one from the full article."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Dar reaffirms support for Kashmiris on 'Kashmir Black Day'",
+      "summary": "AI summary: Pakistan marked the 79th Kashmir Black Day with a solidarity walk in Islamabad, where Deputy PM Ishaq Dar called on the world to back a settlement under UN Security Council resolutions and the Kashmiri right to self-determination. He also criticised developments in Indian-administered Kashmir since August 2019.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40446204/dar-reaffirms-support-for-kashmiris-on-kashmir-black-day"
+        }
+      ],
+      "timestamp": "Oct 28, 4:46 AM",
+      "publishedAt": "2026-10-28T04:46:07+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A commemorative event with no economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Restates a long-standing national position shared across parties."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Symbolic observance with no direct effect on public wellbeing."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not relevant to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports an official statement on a national, cross-party issue."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on the RSS excerpt only."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Pakistan strikes Afghan Taliban posts after cross-border attack",
+      "summary": "AI summary: One civilian was killed and five members of a family were wounded when fire from the Afghan side, including a mortar that hit their home, struck Angoor Adda in South Waziristan, according to local officials. Security sources said Pakistani forces retaliated by destroying several Afghan Taliban posts and that the response was continuing; no Afghan account of the incident was reported.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/688588-pakistan-destroys-afghan-taliban-posts-after-crossborder-attack-kills-civilian-wounds-five"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40446253/pakistan-strikes-afghan-taliban-posts-after-cross-border-attack"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2040360/one-killed-five-injured-by-afghan-firing-near-angoor-adda"
+        }
+      ],
+      "timestamp": "Oct 28, 12:14 AM",
+      "publishedAt": "2026-10-28T00:14:51+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Hostilities at Angoor Adda, a key border trade route, and damaged shops weigh on local commerce."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Renewed cross-border fighting with Afghanistan signals ongoing regional and border instability."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "A civilian death, injured family members and continuing military action harm local safety."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Border tensions affect Pakistan-Afghanistan trade and wider risk perception."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "All three outlets attribute military claims to officials or security sources rather than asserting them."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Casualties are corroborated by three outlets, but claims about the military response rest on anonymous sources with no Afghan side."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Govt cuts petrol price by Rs3.19 per litre, ups high-speed diesel rate by Rs2.25",
+      "summary": "AI summary: From October 28, petrol falls to Rs376.06 a litre while high-speed diesel rises to Rs398.07, under the daily pricing system run by Ogra since July. Levies of Rs114 on petrol and Rs100 on diesel remain, and the JI chief separately pressed the PM to scrap the petroleum levy.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2040249/govt-cuts-petrol-price-by-rs319-per-litre-ups-high-speed-diesel-rate-by-rs225"
+        }
+      ],
+      "timestamp": "Oct 27, 11:36 PM",
+      "publishedAt": "2026-10-27T23:36:18+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Mixed move: cheaper petrol helps commuters, while costlier diesel lifts transport and goods costs."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A routine pricing adjustment under an existing mechanism."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Small changes in opposite directions roughly offset for most households."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Fuel prices directly affect inflation, transport costs and business planning."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual pricing report with reactions from several parties."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article with official price figures."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Govt has 'off-the-record' contacts with PTI, says PM's aide",
+      "summary": "AI summary: PM's political adviser Rana Sanaullah said the government keeps informal contacts with some PTI leaders, mostly by phone and during parliamentary sessions, and that these could become formal talks, though he blamed PTI's internal divisions for stalling dialogue. He said a meeting between the PM and Opposition Leader Mahmood Khan Achakzai should come first.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/688575-govt-has-off-the-record-contacts-with-pti-says-pms-aide"
+        }
+      ],
+      "timestamp": "Oct 27, 10:55 PM",
+      "publishedAt": "2026-10-27T22:55:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No economic effect from political remarks."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Signals possible future dialogue, but nothing concrete has changed."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Of limited relevance to markets."
+        },
+        "lean": {
+          "value": "pro-government",
+          "reason": "Built entirely on the government aide's claims, including blame on PTI, with no PTI response included."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but it rests on one side's uncontested account."
+        }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "Karachi women thrash suspect accused of fleeing with their mobile phones",
+      "summary": "AI summary: A man accused of luring about 60 women to a Gadap farmhouse with fake job offers and running off with their phones was beaten with slippers by several of them at the Malir court. Police, who recovered some of the phones, obtained a one-day remand and say accomplices are still at large.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/688573-karachi-women-thrash-suspect-accused-of-fleeing-with-their-mobile-phones"
+        }
+      ],
+      "timestamp": "Oct 27, 10:51 PM",
+      "publishedAt": "2026-10-27T22:51:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A local fraud case has no measurable economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "No governance implications."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Job seekers were targeted by fraud and theft, with accomplices still at large, though an arrest was made."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not relevant to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straight crime report citing police."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article with police account and court outcome."
+        }
+      }
+    }
+  ]
+}
