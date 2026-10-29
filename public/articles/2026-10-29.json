@@ -1,0 +1,449 @@
+{
+  "generatedAt": "2026-10-29T09:57:42+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Arrest warrants for Sohail Afridi, others out in Radio Pakistan attack case",
+      "summary": "AI summary: A Peshawar anti-terrorism court ordered the arrest of former KP chief minister Sohail Afridi and four other PTI leaders, who were added to the May 2023 Radio Pakistan attack case through a supplementary charge-sheet relying on forensic face-matching and Nadra records. PTI disputes that the video clips relate to the incident, and the case returns to court on November 4.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2040577/arrest-warrants-for-sohail-afridi-others-out-in-radio-pakistan-attack-case"
+        }
+      ],
+      "timestamp": "Oct 29, 8:07 AM",
+      "publishedAt": "2026-10-29T08:07:29+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A criminal case against politicians has no direct bearing on jobs or prices."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Warrants against a former chief minister and senior opposition figures deepen the confrontation between PTI and the state."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate effect on public safety or daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little direct relevance to investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the court order and prosecution evidence, and notes PTI's challenge to the footage, though the defence side is brief."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single outlet, and the accused are not quoted directly in detail."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Health ministry scraps 'flawed' vaccine tender",
+      "summary": "AI summary: After an inquiry ordered by the prime minister reported irregularities in a meningitis and influenza vaccine contract for travellers, the health ministry is ending the Border Health Services arrangement, arrested officials linked to an unauthorised tender, and plans a fresh tender within a month. Jabs for pilgrims and overseas job seekers are paused in the meantime, while the health minister says his record is clean.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2040583/health-ministry-scraps-flawed-vaccine-tender"
+        }
+      ],
+      "timestamp": "Oct 29, 7:47 AM",
+      "publishedAt": "2026-10-29T07:47:37+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "A pause in mandatory vaccinations can delay overseas job seekers, and the alleged contract pushed per-traveller costs well above past rates."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Exposes procurement failings but the inquiry and arrests show the system acting on them, so the net effect on stability is limited."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Pilgrims and workers heading abroad lose a public vaccination route until a new tender is completed."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Mainly relevant to vaccine suppliers and travel agents."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Built largely on anonymous officials and internal documents, but it carries the minister's response and does not take a side between parties."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Cost figures are allegations, and the inquiry report itself is not public."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "5 killed, over two dozen injured in bus accident in Punjab's Hafizabad",
+      "summary": "AI summary: A bus travelling from Raiwind to Chiniot plunged into a drain near Pindi Bhattian in Hafizabad district, killing at least five people and injuring more than 27, according to Rescue 1122. Rescue officials blamed overspeeding as the driver attempted a U-turn on a bridge, and searched the wreckage for anyone still trapped.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/688777-five-killed-more-than-27-injured-as-bus-plunges-into-drain-in-hafizabad"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2040660/5-killed-over-two-dozen-injured-in-bus-accident-in-punjabs-hafizabad"
+        }
+      ],
+      "timestamp": "Oct 29, 7:33 AM",
+      "publishedAt": "2026-10-29T07:33:30+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A local road accident with no wider economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "No bearing on governance stability."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Deaths and dozens of injuries, and a reminder of persistent road safety failures."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not relevant to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual accident reporting attributed to rescue officials."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Two outlets report matching details from Rescue 1122."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Pak–UN Int'l Conference on Leveraging Space Technology held",
+      "summary": "AI summary: The second day of a five-day Pakistan and UN conference in Islamabad focused on using satellite data for disaster risk assessment, flood forecasting, glacial lake outburst early warning and climate resilience, including an introduction to Pakistan's national catastrophe risk modelling system. The event runs until October 31.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40446447/pak-un-intl-conference-on-leveraging-space-technology-held"
+        }
+      ],
+      "timestamp": "Oct 29, 4:31 AM",
+      "publishedAt": "2026-10-29T04:31:10+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A technical conference with no immediate economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine international cooperation event."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Better space-based early warning could improve preparedness for floods and other disasters."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited relevance to investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Descriptive event coverage with no partisan framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Based on the full article about a scheduled public event."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Justice Kayani resigns, citing growing control over the judiciary",
+      "summary": "AI summary: Lahore High Court judge Mohsin Akhtar Kayani has stepped down, citing his health and his view that the 26th and 27th amendments have eroded high court independence and expanded executive influence over judicial appointments and transfers. He says he will go back to legal practice.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40446422/justice-kayani-resigns-citing-growing-control-over-the-judiciary"
+        }
+      ],
+      "timestamp": "Oct 29, 4:31 AM",
+      "publishedAt": "2026-10-29T04:31:09+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct effect on jobs or prices."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "A sitting judge resigning in protest over judicial independence signals strain between the courts and the executive."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Indirect at most, through perceptions of rule of law."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Relays the judge's own stated reasons without adding editorial framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Based on the full article citing his resignation letter."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "FCC dismisses pleas challenging ISL Act's validity",
+      "summary": "AI summary: The Federal Constitutional Court rejected petitions seeking review of the Supreme Court's 2021 ruling that the Income Support Levy Act 2013 was not validly passed as a money bill, finding no error that justified reopening it. The court also criticised a later Supreme Court bench for taking up similar questions instead of following the review process.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40446425/fcc-dismisses-pleas-challenging-isl-acts-validity"
+        }
+      ],
+      "timestamp": "Oct 29, 4:31 AM",
+      "publishedAt": "2026-10-29T04:31:09+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Settles a long-running tax law question; the article does not set out any immediate fiscal effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A legal ruling on procedure with no direct effect on governance stability."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Tax and levy rulings matter to businesses and taxpayers affected by the act."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straight report of the court's reasoning."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but the practical effect of the ruling is not spelled out."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Minister urges Indian Punjab CM to visit Lahore",
+      "summary": "AI summary: Speaking in Punjabi on the Punjab Assembly floor, minorities minister Ramesh Singh Arora invited Indian Punjab's chief minister Bhagwant Singh Mann to the World Punjabi Conference in Lahore and the Indian Punjab Assembly speaker to Kartarpur, framing it as a step to strengthen cultural links between the two Punjabs.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40446424/minister-urges-indian-punjab-cm-to-visit-lahore"
+        }
+      ],
+      "timestamp": "Oct 29, 4:31 AM",
+      "publishedAt": "2026-10-29T04:31:09+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A cultural invitation with no economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A goodwill gesture with no direct effect on domestic stability."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Symbolic cultural outreach; no change to daily life yet."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not relevant to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the minister's speech, including his praise of the Punjab chief minister, without adding its own endorsement."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Based on the full article reporting an on-record speech."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Pregnant woman among 8 killed in oxygen cylinder blast at Tharparkar health centre",
+      "summary": "AI summary: An oxygen cylinder exploded while staff were changing it in a parked PPHI ambulance at a Tharparkar basic health unit, setting the vehicle alight and killing several people including a pregnant woman, with the toll later reported at nine. The Sindh home minister sought a report and expert teams were called in, though the cause has not been officially confirmed.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/688756-seven-killed-as-ambulance-catches-fire-after-oxygen-cylinder-blast-in-tharparkar"
+        }
+      ],
+      "timestamp": "Oct 29, 12:57 AM",
+      "publishedAt": "2026-10-29T00:57:50+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No wider economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Raises questions for health administration but no direct effect on governance stability."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Multiple deaths at a health facility in an underserved district, raising safety concerns about emergency transport."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not relevant to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual reporting with official responses and a note that the cause is unconfirmed."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single source, and the death toll and cause were still changing."
+        }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "Diesel price nears Rs400 as govt adds over a rupee to petrol, HSD rates",
+      "summary": "AI summary: From October 29 petrol rises by Rs1.85 to Rs377.91 a litre and diesel by Rs1.75 to Rs399.82, under the daily pricing system in place since July. Jamaat-i-Islami's chief pressed the prime minister to scrap the petroleum levy, and the two sides agreed on a joint committee as JI threatened a march on Islamabad in mid-November.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2040479/diesel-price-nears-rs400-as-govt-adds-over-a-rupee-to-petrol-hsd-rates"
+        }
+      ],
+      "timestamp": "Oct 28, 11:18 PM",
+      "publishedAt": "2026-10-28T23:18:56+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Higher fuel costs feed into transport and goods prices."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "JI pressure and a march threat add friction, but talks are under way through a joint committee."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Raises everyday costs for households and commuters."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Fuel prices directly affect inflation expectations and business costs."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports official prices alongside the opposition party demand for relief."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Prices come from an official Petroleum Division notification."
+        }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "'Fabricated stories': Pakistan dismisses Afghan Taliban regime's claims over border incident",
+      "summary": "AI summary: Pakistan's information ministry rejected the Afghan Taliban's account of a clash at Angoor Adda in South Waziristan, saying Afghan forces fired on civilians, killing one and injuring five members of a family, and that Pakistani forces destroyed seven Afghan posts in response. The ministry also alleged the attack was carried out at India's behest; these claims were not independently verified.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/688735-fabricated-stories-pakistan-dismisses-afghan-taliban-regimes-claims-over-border-incident"
+        }
+      ],
+      "timestamp": "Oct 28, 10:41 PM",
+      "publishedAt": "2026-10-28T22:41:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No immediate effect on prices or jobs, though border tension can disrupt cross-border trade."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Renewed armed clashes with Afghanistan add to regional instability."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "A civilian was killed and a family injured, with continuing risk for border communities."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Border instability is relevant to trade routes and security risk perceptions."
+        },
+        "lean": {
+          "value": "pro-government",
+          "reason": "Relies almost entirely on the ministry and unnamed security sources, with the Afghan side's account barely represented."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single outlet carrying unverified official claims from one side of the dispute."
+        }
+      }
+    },
+    {
+      "id": 11,
+      "headline": "Imran Khan's sister Noreen hospitalised after suffering heart discomfort in jail",
+      "summary": "AI summary: Noreen Niazi, held at Kot Lakhpat jail under public order law since September 21 along with her sisters, was moved to the Punjab Institute of Cardiology after heart discomfort, according to her lawyer. Separately, the Punjab government told the Lahore High Court it had extended the three sisters' detention by another 30 days.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/688727-imran-khans-sister-noreen-hospitalised-after-suffering-heart-discomfort-in-jail"
+        }
+      ],
+      "timestamp": "Oct 28, 9:25 PM",
+      "publishedAt": "2026-10-28T21:25:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No economic effect."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Extended detention of Imran Khan's sisters under public order law, and a health scare in custody, add to tension between PTI and the authorities."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Concerns one detainee rather than the wider public."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not relevant to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the lawyer account and the court filing without editorialising, though no official comment is included."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Health details rest on a single source, her lawyer."
+        }
+      }
+    }
+  ]
+}
