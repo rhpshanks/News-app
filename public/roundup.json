@@ -1,50 +1,62 @@
 {
-  "generatedAt": "2026-10-24T15:05:36+05:00",
-  "periodStart": "2026-10-17",
-  "periodEnd": "2026-10-23",
-  "periodLabel": "Oct 17 to Oct 23, 2026",
-  "totalArticles": 66,
+  "generatedAt": "2026-11-03T10:17:58+05:00",
+  "periodStart": "2026-10-23",
+  "periodEnd": "2026-10-29",
+  "periodLabel": "Oct 23 to Oct 29, 2026",
+  "totalArticles": 65,
   "stats": {
-    "economic": { "positive": 9, "neutral": 50, "negative": 7 },
-    "political": { "positive": 4, "neutral": 48, "negative": 14 },
-    "social": { "positive": 7, "neutral": 40, "negative": 19 }
+    "economic": {
+      "positive": 2,
+      "neutral": 54,
+      "negative": 9
+    },
+    "political": {
+      "positive": 2,
+      "neutral": 52,
+      "negative": 11
+    },
+    "social": {
+      "positive": 5,
+      "neutral": 36,
+      "negative": 24
+    }
   },
   "summary": [
-    "Miqyas logged 66 articles across the full seven days from October 17 to 23. Social coverage carried the heaviest negative share at 28.8% (19 of 66), followed by political at 21.2% (14) and economic at 10.6% (7). All three negative shares fell well below the previous week (October 10 to 16), when social reached 53%, political 34% and economic 19%. The social negatives this week cluster around violence and custody: the abduction of 20 police recruits in Mastung, an army major killed by a roadside bomb in Gwadar district, and two cases in which the main suspects in high-profile deaths (the Multan orphan case and the Laiba Ijaz case) were killed by gunfire while in police hands, in accounts given by police and the Crime Control Department that remain unverified. Lahore topping a global pollution ranking on October 23 added to the tally late in the week.",
-    "The dominant storyline was the dispute about governor's rule and the emergency imposed on Khyber Pakhtunkhwa on October 11. Eight of the week's 13 flagged stories trace back to it: ministers trading barbs with JUI-F chief Fazlur Rehman, the government declining Mahmood Achakzai's request for a neutral venue for talks, Bilawal Bhutto Zardari saying the measures could end if the opposition backs a joint counterterrorism plan, the Peshawar High Court taking up PTI's petitions that call the measures unconstitutional, Achakzai asking the government to disclose where KP Chief Minister Sohail Afridi has been, PTI setting preconditions for talks, PM's adviser Rana Sanaullah warning that parties not backing the fight against terrorism would be 'minus', and a public rift inside PTI itself, with Ali Amin Gandapur demanding an apology from Salman Akram Raja after the party's protest march. The political negatives reflect a standoff rather than a one-off event: each side set conditions for talks this week, and by their own accounts none of those conditions were met.",
-    "Economic coverage was the most neutral of the three categories (75.8% neutral) and the only one with more positive readings (9) than negative (7). The positives were mostly concrete: a petrol price cut of Rs5.16 per litre on October 20, a new system to manage loadshedding, a defence cooperation accord with Turkiye, Qatar and Indonesia, and the Maldives president's state visit. Against that, the same day as the fuel price cut brought a downward revision of GDP growth to 3.65%, short of target, and Jamaat-e-Islami announced a third phase of protests against the petroleum levy starting October 23. JI said a planned meeting with the prime minister stalled after the government stopped contacting it; the report carried no government response, so that remains the party's account only.",
-    "On lean and confidence, 62 of 66 articles read as balanced and 4 as pro-government, with none leaning the other way. Two of the four pro-government readings fell inside the KP storyline (Rana Sanaullah's remarks on the talks venue and on parties being 'minus'), in each case because the report carried only the government's side with no reply from PTI or the opposition alliance, a sourcing gap rather than an editorial slant Miqyas could attribute to the publication. Confidence was medium on 43 articles, high on 22 and low on just one: the Achakzai item about Afridi, which Miqyas could only read via an RSS excerpt. Several of the week's gravest stories, including the Mastung abduction, the Gwadar operation and the Laiba Ijaz case, rest wholly on official or police accounts, which is why they sit at medium rather than high confidence even where more than one publication reported matching details."
+    "Social coverage carried the heaviest negative weight this week: 24 of 65 social readings (37%) were negative, against 17% for political and 14% for economic. The social negatives came mostly from crime, safety and accident stories rather than politics. Two murder investigations drew sustained attention: in Karachi, a judicial commission called the police inquiry into businessman Mir Raza Ali's killing an \"epic failure\", prompting the Sindh government to bring intelligence and Rangers officials into a new joint investigation team, while in Rawalpindi the family of media executive Hina Javed wrote to the Punjab chief minister asking for a judicial probe, saying they distrust the police inquiry. Harassment cases in Lahore and Karachi, a child exploitation case reported by the NCCIA, a bus crash in Hafizabad that killed five, an oxygen cylinder blast at a Tharparkar health centre that killed eight, and Lahore topping a global pollution ranking added to the tally. Only five social readings were positive, among them a cricket selection story and the PM Chromebook scheme.",
+    "The week's dominant storyline, and the thread behind seven of its eleven flagged articles, was the deepening standoff between PTI and the state, centred on Khyber Pakhtunkhwa under governor's rule. Governor Faisal Karim Kundi said Chief Minister Sohail Afridi and the assembly speaker were under house arrest and \"in safe hands\", and suggested the October 11 emergency could last beyond six months; their relatives petitioned the Peshawar High Court. Days later an anti-terrorism court issued arrest warrants for Afridi and four other PTI leaders in the May 2023 Radio Pakistan attack case, evidence PTI disputes. Inside the party, a seven-hour parliamentary meeting saw most lawmakers argue against further talks with the establishment, according to Dawn and Business Recorder, while the prime minister's adviser Rana Sanaullah warned that parties not backing the fight against terrorism would be sidelined. The week closed with Lahore High Court judge Mohsin Akhtar Kayani resigning, citing his health and his view that the 26th and 27th amendments have weakened high court independence. Political negatives peaked on October 29, when four of eleven stories read negative.",
+    "Political lean stayed largely balanced despite this charged coverage: 60 of 65 articles read balanced, five pro-government and none pro-opposition. The pro-government readings were tied to sourcing, not to any position Miqyas takes: they appeared where a story relied on one side's account with no reply, such as Sanaullah's remarks and the information ministry's rejection of the Afghan Taliban's version of the Angoor Adda clash. That border incident shows the limits of the reporting clearly. Local officials said a civilian was killed and five family members wounded by fire from the Afghan side, and Pakistani security sources said several Afghan posts were destroyed in response; Islamabad called Kabul's account \"fabricated\" and alleged Indian involvement, and none of those claims were independently verified. AI confidence reflected this: 37 articles were rated medium against 26 high, October 26 had ten medium ratings among twelve stories, and the only two low ratings went to reports of militant commanders killed in Balochistan that rested on unnamed sources. Several of the most consequential political items, including the Kundi interview, the arrest warrants and the hospitalisation of Imran Khan's sister Noreen Niazi in custody, came through just one source each.",
+    "Economic coverage was the calmest category, with 83% neutral readings, but its nine negatives clustered toward the week's end: a sharply wider regional trade deficit, higher customs values on imported stationery raw materials, a scrapped vaccine tender, and a fuel price rise that brought diesel close to Rs400 a litre. The reopening of the Gabd border crossing with Iran and a government move toward a new umbrella privatisation entity supplied the only two positive economic readings. None of these economic stories were flagged for review, which suggests the week's sensitive material sat almost entirely in politics and security."
   ],
   "notableStories": [
     {
-      "headline": "PHC takes up PTI's petitions challenging KP governor's rule, emergency",
-      "context": "The Peshawar High Court began hearing PTI's challenge to the October 11 emergency and governor's rule in Khyber Pakhtunkhwa, moving the week's central political dispute into the courts, with no ruling reported yet.",
-      "sourceName": "Geo News",
-      "sourceUrl": "https://www.geo.tv/latest/687396-phc-takes-up-ptis-petitions-challenging-kp-governors-rule-emergency"
+      "headline": "Justice Kayani resigns, citing growing control over the judiciary",
+      "context": "A sitting Lahore High Court judge stepped down citing his health and his view that the 26th and 27th amendments have eroded high court independence, a rare public signal of strain between the courts and the executive.",
+      "sourceName": "Business Recorder",
+      "sourceUrl": "https://www.brecorder.com/news/40446422/justice-kayani-resigns-citing-growing-control-over-the-judiciary"
     },
     {
-      "headline": "Armed men abduct 20 under-training police personnel in Mastung: officials",
-      "context": "Officials said gunmen seized 20 police recruits travelling home on the Quetta-Karachi Highway, the largest security incident in Miqyas's coverage this week, with no group claiming responsibility at the time of reporting.",
+      "headline": "KP Governor Kundi says Sohail Afridi, assembly speaker 'in safe hands' after house arrest",
+      "context": "The governor confirmed that Khyber Pakhtunkhwa's elected chief minister and assembly speaker were being held under house arrest and suggested governor's rule could run beyond six months.",
       "sourceName": "Dawn News",
-      "sourceUrl": "https://www.dawn.com/news/2037816/armed-men-abduct-20-under-training-police-personnel-in-mastung-officials"
+      "sourceUrl": "https://www.dawn.com/news/2039755/kp-governor-kundi-says-sohail-afridi-assembly-speaker-in-safe-hands-after-house-arrest"
     },
     {
-      "headline": "'We need no loyalty certificates': Gandapur hits back at Salman Akram Raja",
-      "context": "Three publications reported an open feud between two senior PTI figures after the party's protest march, a sign of strain inside the main opposition party while KP is under governor's rule.",
-      "sourceName": "Geo News",
-      "sourceUrl": "https://www.geo.tv/latest/687640-we-need-no-loyalty-certificates-gandapur-hits-back-at-salman-akram-raja"
+      "headline": "PTI asked to look inward; warned against further talks",
+      "context": "Most PTI lawmakers in a seven-hour meeting argued against more talks with the establishment and criticised the leadership after the failed long march and the loss of the KP government, exposing a split inside the main opposition party.",
+      "sourceName": "Dawn News",
+      "sourceUrl": "https://www.dawn.com/news/2040377/pti-asked-to-look-inward-warned-against-further-talks"
     },
     {
-      "headline": "Multan orphan's prime murder suspect shot dead in alleged encounter after custody escape",
-      "context": "The main suspect in a 14-year-old's death was killed in what the CCD called an exchange of fire after a custody escape police have not explained, one of two custodial deaths in high-profile cases this week.",
+      "headline": "Pakistan strikes Afghan Taliban posts after cross-border attack",
+      "context": "Local officials said fire from the Afghan side killed a civilian and wounded five family members at Angoor Adda, and security sources said Pakistani forces struck Afghan Taliban posts in response, renewing hostilities on a key border trade route.",
       "sourceName": "Geo News",
-      "sourceUrl": "https://www.geo.tv/latest/687555-suspect-in-multan-orphan-boys-killing-dies-in-alleged-police-encounter"
+      "sourceUrl": "https://www.geo.tv/latest/688588-pakistan-destroys-afghan-taliban-posts-after-crossborder-attack-kills-civilian-wounds-five"
     },
     {
-      "headline": "JI to launch third phase of anti-petroleum levy protests from Oct 23",
-      "context": "Jamaat-e-Islami said it would begin a third round of nationwide sit-ins against the petroleum levy, keeping fuel taxation on the political agenda despite a petrol price cut earlier in the week.",
+      "headline": "ISI, IB officials included in JIT formed to probe Mir Raza murder",
+      "context": "After a judicial commission called the police inquiry into a Karachi businessman's killing an \"epic failure\", Sindh brought intelligence and Rangers officials into a new investigation and ordered a separate probe into possible cover-up.",
       "sourceName": "Geo News",
-      "sourceUrl": "https://www.geo.tv/latest/687637-ji-to-launch-third-phase-of-anti-petroleum-levy-protests-from-october-23"
+      "sourceUrl": "https://www.geo.tv/latest/688042-isi-ib-officials-included-in-jit-formed-to-probe-mir-raza-murder"
     }
   ]
 }
