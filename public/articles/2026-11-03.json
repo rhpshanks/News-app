@@ -1,0 +1,157 @@
+{
+  "generatedAt": "2026-11-03T05:18:28+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Imported wheat fails to cut flour prices",
+      "summary": "AI summary: The first imported wheat shipments have pushed open-market wheat down to around Rs130-137 per kg and mills have trimmed flour rates, but retail flour and bread prices have not moved, with Karachi and Hyderabad paying the most. Traders blame costly LPG and weak price regulation, and warn the planned imports fall well short of a supply gap of over two million tonnes.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2041703/imported-wheat-fails-to-cut-flour-prices" }
+      ],
+      "timestamp": "Nov 3, 8:59 AM",
+      "publishedAt": "2026-11-03T08:59:17+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Staple food prices stay high for consumers despite cheaper wheat, and a large supply shortfall persists." },
+        "political": { "value": "neutral", "reason": "No direct effect on institutional or governance stability." },
+        "social": { "value": "negative", "reason": "Households keep paying elevated prices for flour and bread, a daily necessity." },
+        "market": { "value": "medium", "reason": "Relevant to millers, grain traders and food-sector businesses." },
+        "lean": { "value": "balanced", "reason": "Sourced from traders and millers rather than either political side; no government or opposition framing." },
+        "confidence": { "value": "medium", "reason": "Full article read, but all sources are from the trade and no official or regulator is quoted." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Govt seeks PPP, MQM nominees for electoral reforms panel",
+      "summary": "AI summary: The parliamentary affairs minister has written to the PPP and MQM asking for nominees to a proposed electoral reforms committee, where the PML-N would hold nine seats, the PPP five and the MQM one, and has urged the opposition to send its own names to the Speaker. He also downplayed the PPP's separate outreach to opposition parties while admitting the ally is making legislation harder.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2041753/govt-seeks-ppp-mqm-nominees-for-electoral-reforms-panel" }
+      ],
+      "timestamp": "Nov 3, 7:52 AM",
+      "publishedAt": "2026-11-03T07:52:45+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A procedural parliamentary step with no direct effect on jobs or prices." },
+        "political": { "value": "neutral", "reason": "A cross-party reforms forum is being set up, offset by visible friction between the government and its PPP ally." },
+        "social": { "value": "neutral", "reason": "No immediate effect on public wellbeing or daily life." },
+        "market": { "value": "low", "reason": "Little direct relevance to investors." },
+        "lean": { "value": "pro-government", "reason": "Relies solely on the minister's account, including his characterisation of the PPP's motives, with no PPP, MQM or opposition response." },
+        "confidence": { "value": "medium", "reason": "Full article read, but single outlet and a single quoted source." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "US votes today in midterms that could weaken Trump's hold on Washington",
+      "summary": "AI summary: US voters head to the polls in midterm elections for all House seats, 35 Senate seats and 36 governorships, with forecasts favouring Democrats to win the House and possibly the Senate amid anger over living costs, tariffs and the war on Iran. Over 57 million early votes have been cast, and President Trump has repeated unproven fraud claims and said he could veto Democratic legislation if he loses Congress.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2041758/us-votes-today-in-midterms-that-could-weaken-trumps-hold-on-washington" }
+      ],
+      "timestamp": "Nov 3, 7:29 AM",
+      "publishedAt": "2026-11-03T07:29:09+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct effect on Pakistan's jobs or prices yet; any shift in US trade or energy policy would come later." },
+        "political": { "value": "neutral", "reason": "A foreign election with no direct bearing on Pakistan's institutional stability." },
+        "social": { "value": "neutral", "reason": "No immediate effect on daily life in Pakistan." },
+        "market": { "value": "medium", "reason": "US control of Congress can move global markets, oil prices and tariff policy." },
+        "lean": { "value": "balanced", "reason": "No Pakistani government or opposition angle; the wire copy gives more room to Trump's critics, but that does not map onto Pakistan's political sides." },
+        "confidence": { "value": "medium", "reason": "Full article read, but outcomes are forecasts and the vote had not yet been counted." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Chinese minister, CDF discuss evolving security dynamics",
+      "summary": "AI summary: According to ISPR, army chief and Chief of Defence Forces Field Marshal Asim Munir met senior Chinese Communist Party official Liu Haixing, with both sides reaffirming their strategic partnership and discussing regional security. ISPR said Munir called for regular high-level exchanges, while Liu praised Pakistan's role in regional peace.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40447147/chinese-minister-cdf-discuss-evolving-security-dynamics" }
+      ],
+      "timestamp": "Nov 3, 5:12 AM",
+      "publishedAt": "2026-11-03T05:12:26+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No concrete economic agreement or measure announced." },
+        "political": { "value": "neutral", "reason": "Routine reaffirmation of existing ties; no change to governance." },
+        "social": { "value": "neutral", "reason": "No direct effect on public safety or daily life." },
+        "market": { "value": "low", "reason": "Diplomatic courtesy meeting with no specific business content." },
+        "lean": { "value": "balanced", "reason": "Straight relay of an official military statement without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Full article read, but it rests on a single ISPR statement with no separate Chinese readout or detail on the issues discussed." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "All-weather strategic cooperative partnership: Pakistan, China reaffirm commitment",
+      "summary": "AI summary: At an Islamabad symposium co-chaired with CPC official Liu Haixing, Deputy PM Ishaq Dar urged deeper political, parliamentary and governance exchanges with China as the two countries mark 75 years of ties, citing a new party-to-party agreement between the CPC and PML-N. He also credited economic discipline and reforms for Pakistan's stabilisation.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40447143/all-weather-strategic-cooperative-partnership-pakistan-china-reaffirm-commitment" }
+      ],
+      "timestamp": "Nov 3, 5:12 AM",
+      "publishedAt": "2026-11-03T05:12:26+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Statements of intent on cooperation, with no new trade or investment measure." },
+        "political": { "value": "neutral", "reason": "Diplomatic and party-level exchanges; no effect on domestic institutional stability." },
+        "social": { "value": "neutral", "reason": "No direct effect on public wellbeing." },
+        "market": { "value": "low", "reason": "General diplomatic remarks with limited business relevance." },
+        "lean": { "value": "balanced", "reason": "Reports official remarks from both sides of a bilateral event; no domestic partisan framing beyond paraphrasing the minister." },
+        "confidence": { "value": "medium", "reason": "Full article read, but single outlet and all content is paraphrased official remarks." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "PM informed: Jinnah Medical Complex to be operational by March next year",
+      "summary": "AI summary: Officials told PM Shehbaz Sharif that the 403-bed Jinnah Medical Complex in Islamabad, about 59 percent built, should open by March 23, 2027, serving patients from the capital, KP, AJK and Gilgit-Baltistan. He ordered merit-based hiring, a private operator to run it, and advanced diagnostics such as PET scans for lower-income patients.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40447085/pm-informed-jinnah-medical-complex-to-be-operational-by-march-next-year" }
+      ],
+      "timestamp": "Nov 3, 5:12 AM",
+      "publishedAt": "2026-11-03T05:12:26+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Ongoing public construction project; no new spending figure or job estimate reported." },
+        "political": { "value": "neutral", "reason": "Routine project review with no effect on governance stability." },
+        "social": { "value": "positive", "reason": "A large new public hospital with advanced diagnostics would expand care access for several regions." },
+        "market": { "value": "low", "reason": "Limited relevance beyond healthcare suppliers and contractors." },
+        "lean": { "value": "balanced", "reason": "A straightforward readout of an official meeting without partisan language." },
+        "confidence": { "value": "medium", "reason": "Full article read, but it relies only on officials' briefings and the opening date is a projection." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "ECP says ready to hold LG polls in ICT",
+      "summary": "AI summary: The Election Commission says it has the materials ready to hold Islamabad's local government elections on December 20 under the existing 2015 law, since Parliament ended its sessions without passing the bill that would have created new town corporations. That lapse makes the months-long delimitation done under the expired ordinance redundant, and the commission will review security on November 10.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40447086/ecp-says-ready-to-hold-lg-polls-in-ict" }
+      ],
+      "timestamp": "Nov 3, 5:12 AM",
+      "publishedAt": "2026-11-03T05:12:26+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct effect on jobs, prices or business activity." },
+        "political": { "value": "negative", "reason": "Parliament's failure to pass the required bill leaves the polls on an old framework and wastes a three-month delimitation exercise." },
+        "social": { "value": "neutral", "reason": "Local elections proceeding is routine; no immediate effect on daily life." },
+        "market": { "value": "low", "reason": "Little direct relevance to investors." },
+        "lean": { "value": "balanced", "reason": "Reports the commission's position and the legislative background factually without favouring a side." },
+        "confidence": { "value": "high", "reason": "Full article read; procedural facts such as dates and the governing law are specific and verifiable." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Govt slashes high-speed diesel price by Rs7.76 per litre, petrol by Rs3.40",
+      "summary": "AI summary: From November 3, petrol drops to Rs374.51 and diesel to Rs395.20 per litre, helped by a new deal under which refineries absorb about Rs15 billion a month, though taxes of over Rs100 per litre remain. Jamaat-i-Islami is still demanding the petroleum levy be scrapped and has threatened a march on Islamabad in mid-November.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2041653/govt-slashes-high-speed-diesel-price-by-rs776-per-litre-petrol-by-rs340" }
+      ],
+      "timestamp": "Nov 3, 12:43 AM",
+      "publishedAt": "2026-11-03T00:43:39+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Lower fuel prices ease transport and production costs across the economy." },
+        "political": { "value": "neutral", "reason": "Relief may ease pressure on the government, but JI's protest threat keeps the issue live." },
+        "social": { "value": "positive", "reason": "Cheaper fuel gives some direct relief to commuters and households." },
+        "market": { "value": "high", "reason": "Directly affects refineries, oil marketing companies and fuel-dependent sectors." },
+        "lean": { "value": "balanced", "reason": "Mostly relays the official announcement but also notes the remaining tax burden and JI's demands." },
+        "confidence": { "value": "high", "reason": "Full article read; prices come from the regulator's official notification." }
+      }
+    }
+  ]
+}
