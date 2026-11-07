@@ -1,0 +1,289 @@
+{
+  "generatedAt": "2026-11-07T14:37:32+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "India says landed heavy-lift military aircraft at highest altitude",
+      "summary": "AI summary: The Indian Air Force says one of its IL-76MD transport planes touched down at Nyoma airfield in Ladakh, about 4,154 metres up near the Chinese border, which it describes as a world altitude record for the aircraft type. The airfield forms part of India's military build-up in the area following the deadly 2020 clash with China.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2042843/india-says-landed-heavy-lift-military-aircraft-at-highest-altitude"
+        }
+      ],
+      "timestamp": "Nov 7, 7:27 PM",
+      "publishedAt": "2026-11-07T19:27:49+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct bearing on Pakistan's jobs, prices or business activity."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A foreign military milestone with no immediate effect on Pakistan's institutions."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life in Pakistan."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little relevance to Pakistani investors or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the Indian Air Force claim with factual regional context, no partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single-outlet wire report resting on an Indian Air Force statement, not independently verified."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Govt announces auto policy with focus on cheaper vehicles, EVs",
+      "summary": "AI summary: The federal government unveiled a five-year auto policy that phases down duties on vehicles and parts, makes localisation and export targets binding on carmakers, adds 45 safety standards and offers EVs lower sales tax and larger State Bank financing, some of it pending IMF approval. Officials say it aims to lower car prices, cut oil imports and reach 30% electric new-vehicle sales by 2030.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2042835/govt-announces-auto-policy-with-focus-on-cheaper-vehicles-evs"
+        }
+      ],
+      "timestamp": "Nov 7, 7:26 PM",
+      "publishedAt": "2026-11-07T19:26:30+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "Gradual duty cuts, EV incentives and export rebates could lower vehicle prices and spur manufacturing activity."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A routine policy rollout still awaiting cabinet and partly IMF approval; no effect on institutional stability."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Cheaper vehicles for middle-income buyers and new safety standards could benefit consumers."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Directly relevant to automakers, parts suppliers, banks offering car finance and EV investors."
+        },
+        "lean": {
+          "value": "pro-government",
+          "reason": "Built entirely on officials' press-conference claims, with no industry or independent reaction included."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but only the government's account is given and key tax measures remain subject to approval."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "ECP takes notice of alleged code violation by Attaullah Tarar ahead of NA-77 by-poll",
+      "summary": "AI summary: The Election Commission has summoned Information Minister Attaullah Tarar over a reported helicopter visit to campaign for a candidate in the NA-77 Gujranwala by-election, as public office holders are barred from campaigning. It has asked local election officials for reports and warned it may hold back the seat's result until it decides.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2042842/ecp-takes-notice-of-alleged-code-violation-by-attaullah-tarar-ahead-of-na-77-by-poll"
+        }
+      ],
+      "timestamp": "Nov 7, 7:09 PM",
+      "publishedAt": "2026-11-07T19:09:19+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct effect on jobs, prices or business activity."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "An alleged election-code breach by a sitting federal minister, with a by-poll result possibly withheld, strains electoral credibility."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Little immediate effect on public wellbeing or daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited relevance to markets or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Relays the ECP's notice as an allegation, not a finding, though no response from the minister is included."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but it rests on a single ECP press release with no rebuttal yet."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Pakistan, Sudan agree to boost cooperation in security, cybercrime, police training",
+      "summary": "AI summary: Following talks in Islamabad, the interior ministers of Pakistan and Sudan agreed to widen cooperation on security, cybercrime and police training, with a cybercrime MoU planned. Pakistan also offered NADRA help with Sudan's civil registry and medical access, and Mohsin Naqvi ordered visa problems for Sudanese wives of Pakistani citizens to be resolved.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40447898/pakistan-sudan-agree-to-boost-cooperation-in-security-cybercrime-police-training"
+        }
+      ],
+      "timestamp": "Nov 7, 2:44 PM",
+      "publishedAt": "2026-11-07T14:44:41+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Mostly security and administrative cooperation with no stated trade or investment component."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A routine bilateral agreement with no effect on domestic governance stability."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Resolving visa issues for Sudanese spouses and offering medical access helps affected families."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little relevance to markets or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straightforward account of an official meeting without partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based only on the RSS excerpt, as the full article was not fetched."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Pakistan's first astronaut to board Chinese space station",
+      "summary": "AI summary: China's manned space agency says a Pakistani payload specialist will fly on the Shenzhou-24 mission to the Tiangong station, the first foreigner to visit it, under a 2025 SUPARCO cooperation deal. The crew member, one of two trainees (Muhammad Zeeshan Ali or Khurram Daud), is unnamed; China gave no launch date beyond year-end, while Ahsan Iqbal has cited November 25.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40447892/pakistans-first-astronaut-to-board-chinese-space-station"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2042826/pakistani-astronaut-to-join-shenzhou-24-mission-to-chinas-space-station"
+        }
+      ],
+      "timestamp": "Nov 7, 1:38 PM",
+      "publishedAt": "2026-11-07T13:38:30+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A scientific milestone with no near-term effect on jobs or prices."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Reflects existing Pakistan-China cooperation rather than any change in governance."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "A national first in human spaceflight likely to lift public morale and interest in science."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Minimal relevance to markets or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Both outlets report the Chinese agency's announcement factually."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Corroborated by two outlets with matching core details; only the launch date differs between sources."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "All six legislative houses: ECP seeks FY2025-26 financial statements from lawmakers",
+      "summary": "AI summary: The Election Commission has told members of all six legislatures to file their FY2025-26 asset and liability statements, including those of spouses and dependent children, by December 31 under the Elections Act. Members still missing by mid-January face suspension, as in past years.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40447833/all-six-legislative-houses-ecp-seeks-fy2025-26-financial-statements-from-lawmakers"
+        }
+      ],
+      "timestamp": "Nov 7, 4:51 AM",
+      "publishedAt": "2026-11-07T04:51:42+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No effect on jobs, prices or business activity."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A routine annual compliance step in the electoral calendar."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little relevance to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Procedural reporting of an ECP notice with historical context."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based only on the RSS excerpt, as the full article was not fetched."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "IBA Karachi organizes sixth Annual International Cbercon 2026",
+      "summary": "AI summary: IBA Karachi held its sixth two-day CBERCON conference with the World Bank Group and other partners, bringing together academics, officials, bankers and politicians. Sessions examined how Pakistan can move past linked economic, climate and governance crises, covering climate adaptation, population growth, solar power and reform.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40447804/iba-karachi-organizes-sixth-annual-international-cbercon-2026"
+        }
+      ],
+      "timestamp": "Nov 7, 3:44 AM",
+      "publishedAt": "2026-11-07T03:44:38+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A policy discussion forum with no concrete economic measures announced."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Academic debate with no direct effect on institutional stability."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate effect on daily life."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Discussion of reforms, energy and fuel imports may interest business and banking audiences."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Event coverage without partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based only on the RSS excerpt, as the full article was not fetched."
+        }
+      }
+    }
+  ]
+}
