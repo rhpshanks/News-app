@@ -1,0 +1,289 @@
+{
+  "generatedAt": "2026-11-08T15:30:33+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "KP plans to set up faceless ATCs, spend Rs70bn on CTD and police in a year as part of initiatives against terrorism",
+      "summary": "AI summary: At a briefing attended by the KP governor, the provincial home secretary announced plans for anti-terrorism courts that hide the identities of judges, prosecutors and witnesses, alongside Rs70 billion over one year for the CTD and police. He cited a shortfall of over 10,000 police and weak counter-drone cover, and blamed past provincial leadership for lacking ownership of counterterrorism.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2043052/kp-plans-to-set-up-faceless-atcs-spend-rs70bn-on-ctd-and-police-in-a-year-as-part-of-initiatives-against-terrorism"
+        }
+      ],
+      "timestamp": "Nov 8, 3:04 PM",
+      "publishedAt": "2026-11-08T15:04:57+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Large security outlay is planned, but no direct near-term effect on jobs or prices is described."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Announced under governor's rule, with officials blaming the previous PTI-led provincial government, pointing to ongoing Centre-province friction."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Officials themselves describe a serious terrorism threat and large police shortfalls, so public safety in KP remains fragile despite the plans."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Security conditions in KP matter for investment and trade routes in the region."
+        },
+        "lean": {
+          "value": "pro-government",
+          "reason": "Relies entirely on official briefing claims, including blame on the former provincial government, with no PTI or independent response yet."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but key figures and attributions are official claims not independently verified, and the story was still developing."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "'Foolishness, misplaced over-smartness': Maryam removes Jhelum DC over exam postponement for her visit",
+      "summary": "AI summary: Punjab Chief Minister Maryam Nawaz removed Jhelum's deputy commissioner after he had intermediate computer science papers pushed back to make way for arrangements around her November 10 visit. She ordered the exams held as originally scheduled and said her visits must not shut markets, block streets or otherwise disrupt residents.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2043049/foolishness-misplaced-over-smartness-maryam-removes-jhelum-dc-over-exam-postponement-for-her-visit"
+        }
+      ],
+      "timestamp": "Nov 8, 2:44 PM",
+      "publishedAt": "2026-11-08T14:44:52+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "An administrative personnel decision with no meaningful economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine exercise of provincial executive authority over a district official."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Students sit their exams on the original date and the CM's directive limits public disruption during official visits."
+        },
+        "market": {
+          "value": "low",
+          "reason": "No relevance to investors or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "A straight report of an official action drawn from the CM's statement and the DC's letter, though the removed officer's side is not included."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; the removal and rescheduling are documented official actions."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Babar Azam says selection not in his hands as youthful Pakistan face Sri Lanka",
+      "summary": "AI summary: Ahead of a two-Test home series against Sri Lanka starting in Rawalpindi on November 9, captain Babar Azam said squad choices belong to the selectors and coach while his task is to get results from the players given to him. Pakistan, bottom of the current World Test Championship table, are fielding a younger side as they look ahead to the next cycle.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2043046/babar-azam-says-selection-not-in-his-hands-as-youthful-pakistan-face-sri-lanka"
+        }
+      ],
+      "timestamp": "Nov 8, 1:37 PM",
+      "publishedAt": "2026-11-08T13:37:31+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A home Test series has minor local effects at most."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Sports news with no governance dimension."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Of public interest as entertainment, with no effect on wellbeing or safety."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not relevant to markets or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Sports preview with no political framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; fixtures and quotes come from an on-record press conference."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "President Zardari, PM Shehbaz wish Hindu community on Diwali, reaffirm commitment to minority rights",
+      "summary": "AI summary: President Asif Ali Zardari and Prime Minister Shehbaz Sharif issued Diwali messages to Hindus in Pakistan and abroad, praising the community's contributions and pledging to uphold minorities' constitutional religious and civil rights. Sindh Chief Minister Murad Ali Shah also sent greetings, pointing to the province's tradition of interfaith tolerance.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2043038/president-zardari-pm-shehbaz-wish-hindu-community-on-diwali-reaffirm-commitment-to-minority-rights"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40447997/president-zardari-pm-shehbaz-greet-hindu-community-on-diwali"
+        }
+      ],
+      "timestamp": "Nov 8, 1:10 PM",
+      "publishedAt": "2026-11-08T13:10:37+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Ceremonial messages with no economic content."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "Top leadership publicly reaffirming constitutional minority protections supports institutional inclusiveness."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Signals of interfaith harmony and minority inclusion support social cohesion."
+        },
+        "market": {
+          "value": "low",
+          "reason": "No relevance to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Both outlets report routine festival greetings straightforwardly, without partisan framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Two independent outlets report matching details of official statements."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "GTR Tyres to showcase Pakistani products at Automechanika Dubai",
+      "summary": "AI summary: Pakistani tyre maker GTR Tyres will exhibit at Automechanika Dubai from November 10 to 12, presenting its products as compliant with US DOT and Gulf GSO standards. The company says it hopes to use the show to build partnerships and open new export markets.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40447980/gtr-tyres-to-showcase-pakistani-products-at-automechanika-dubai"
+        }
+      ],
+      "timestamp": "Nov 8, 2:33 AM",
+      "publishedAt": "2026-11-08T02:33:13+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "A local manufacturer seeking export markets could support exports and industrial jobs if deals follow."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Corporate trade news with no governance angle."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life or safety."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Relevant to auto-parts, manufacturing and export-oriented investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "A company announcement with no political framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single source based on the company's own claims; outcomes of the exhibition are not yet known."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Punjab taking effective action against corruption: Azma",
+      "summary": "AI summary: Punjab Information Minister Azma Bokhari said the province is acting concretely against corruption, pointing to body cameras for police and emergency staff, CCTV in government offices and internal departmental accountability. She dismissed the government's critics as unemployed people seeking jobs.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40447981/punjab-taking-effective-action-against-corruption-azma"
+        }
+      ],
+      "timestamp": "Nov 8, 2:33 AM",
+      "publishedAt": "2026-11-08T02:33:13+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Claimed measures have no stated or measurable economic effect yet."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A routine government messaging statement rather than an institutional change."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Body cameras and CCTV could improve accountability, but no outcomes are reported."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited relevance to business decisions."
+        },
+        "lean": {
+          "value": "pro-government",
+          "reason": "Carries a minister's claims uncontested, including her dismissal of critics, with no independent or opposition voice."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but it consists of unverified official claims from a single source."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Anti-encroachment drive: Over 950 shops, illegal constructions demolished across Peshawar",
+      "summary": "AI summary: Peshawar's district administration and development authority have torn down more than 950 shops, markets and other structures built on state land along Ring Road and nearby junctions. Officials say the aim is wider roads, smoother traffic and keeping cleared land from being reoccupied.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40447952/anti-encroachment-drive-over-950-shops-illegal-constructions-demolished-across-peshawar"
+        }
+      ],
+      "timestamp": "Nov 8, 2:33 AM",
+      "publishedAt": "2026-11-08T02:33:13+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Demolition of over 950 shops likely removes livelihoods for many small traders, with no compensation mentioned."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A municipal enforcement action with no wider governance implication described."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Mixed: traffic and public space may improve, but displaced shopkeepers bear the cost."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Local relevance only."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "An administrative report, though affected traders' views are absent."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single source relying on officials' account; affected parties were not quoted."
+        }
+      }
+    }
+  ]
+}
