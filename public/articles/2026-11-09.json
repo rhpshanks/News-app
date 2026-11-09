@@ -1,0 +1,253 @@
+{
+  "generatedAt": "2026-11-09T16:35:46+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Water surges into nearby work areas after rock mass collapse at Tarbela Dam",
+      "summary": "AI summary: Wapda says a weak rock mass gave way during excavation at the Tarbela fifth extension site in Swabi, sending water into a tunnel and the unfinished power house, though all workers were evacuated and no one was hurt. Officials say draining is under way and damage is still being assessed, while extra water released from Tarbela has raised Indus levels and residents were told to stay away from the river.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2043275/water-surges-into-nearby-work-areas-after-rock-mass-collapse-at-tarbela-dam"
+        }
+      ],
+      "timestamp": "Nov 9, 4:31 PM",
+      "publishedAt": "2026-11-09T16:31:50+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Another setback for a 1,530MW project already delayed and far over its original budget."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "An engineering incident with no direct bearing on governance stability."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Worker evacuation and a river-level warning for downstream residents, though no injuries were reported."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Relevant to power-sector planning and the project's lenders, but no generation impact was stated."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Relies on Wapda and district officials and notes that damage assessment is incomplete, without taking sides."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single outlet, full article read, but key details (structural damage) are still being assessed."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Opposition alliance hints at movement against govt, hopes JUI-F chief will lead the effort",
+      "summary": "AI summary: The opposition alliance TTAP signalled it may launch a protest movement against the government and wants JUI-F chief Fazlur Rehman to head it, with a multiparty conference planned first. The alliance also defended Fazl against recent criticism from ministers and voiced opposition to governor's rule or an emergency in Khyber Pakhtunkhwa.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2043274/opposition-alliance-hints-at-movement-against-govt-hopes-jui-f-chief-will-lead-the-effort"
+        }
+      ],
+      "timestamp": "Nov 9, 4:16 PM",
+      "publishedAt": "2026-11-09T16:16:17+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic measure; any effect depends on whether a movement materialises."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "A planned anti-government movement points to rising confrontation between the alliance and the government."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate effect on daily life at this stage."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Early-stage political signalling with limited near-term market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "The new development is sourced mainly to TTAP, as expected for an alliance announcement, but earlier ministers' remarks are included as background."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single outlet; the movement is only hinted at and no fresh government or JUI-F response was included."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Security forces neutralise terrorists' hideouts in North Waziristan's Mir Ali: ISPR",
+      "summary": "AI summary: According to ISPR, troops raided Muzak village near Mir Ali in North Waziristan and cleared two militant hideouts, saying they recovered explosives, IEDs and weapons stored inside mosques. The military said a wider clearance operation is continuing, and the president, prime minister and KP governor praised the forces; no casualty figures or independent confirmation were reported.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40448110/two-terrorist-hideouts-in-mosques-cleared-during-north-waziristan-operation-ispr"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2043264/security-forces-neutralise-terrorists-hideouts-in-north-waziristans-mir-ali-ispr"
+        }
+      ],
+      "timestamp": "Nov 9, 1:38 PM",
+      "publishedAt": "2026-11-09T13:38:41+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic effect reported."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine security operation with no change to institutional arrangements."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "An ongoing operation and reported explosives caches in a populated village reflect continued insecurity for residents."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited direct relevance to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Both outlets attribute the claims to ISPR and official statements rather than presenting them as independently verified."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Two outlets match on details, but both rely solely on the military's own account."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Karachi wins PIA's aircraft cabin cleanliness competition",
+      "summary": "AI summary: PIA's Karachi station came first in the airline's internal contest for aircraft cabin cleanliness, ahead of Lahore, as part of an effort to improve passenger comfort. Staff were given awards at an Islamabad ceremony where the CEO said aircraft condition is a top priority.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40448108/karachi-wins-pias-aircraft-cabin-cleanliness-competition"
+        }
+      ],
+      "timestamp": "Nov 9, 1:18 PM",
+      "publishedAt": "2026-11-09T13:18:10+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "An internal service initiative with no measurable business effect stated."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "No governance implications."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Aimed at better cabin conditions for passengers."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Minor corporate item, of little interest to investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straightforward report of an airline event without political framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on the RSS excerpt only, and the story appears to come from the airline's own account."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "PM directs foreign ministry to urgently 'escalate humanitarian assistance' for rain-hit Gaza",
+      "summary": "AI summary: Prime Minister Shehbaz Sharif told the foreign ministry to step up Pakistan's aid to Gaza after heavy rain flooded around 70,000 tents of displaced people, causing injuries but no reported deaths. He also condemned Israeli limits on aid and breaches of the ceasefire, while Gaza officials said fuel shortages and destroyed equipment hampered their response.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40448109/pm-shehbaz-condemns-continued-israeli-restrictions-on-humanitarian-aid-to-gaza"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2043256/pm-directs-foreign-ministry-to-urgently-escalate-humanitarian-assistance-for-rain-hit-gaza"
+        }
+      ],
+      "timestamp": "Nov 9, 12:30 PM",
+      "publishedAt": "2026-11-09T12:30:55+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No domestic economic effect stated."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A foreign-policy statement with no effect on domestic institutional stability."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Reports worsening humanitarian conditions for displaced people in Gaza."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited relevance to Pakistani markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the PM's directive alongside Gaza officials' and residents' accounts without slanting the domestic angle."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Two outlets agree on the key details, and the full Dawn article was read."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "PM, Nawaz discuss political situation, economic reforms",
+      "summary": "AI summary: Prime Minister Shehbaz Sharif met PML-N president Nawaz Sharif at Jati Umra on Sunday, where they discussed law and order in Khyber Pakhtunkhwa, the government's economic reform agenda and the wider political situation. Deputy PM Ishaq Dar and Punjab Chief Minister Maryam Nawaz also attended.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40448037/pm-nawaz-discuss-political-situation-economic-reforms"
+        }
+      ],
+      "timestamp": "Nov 9, 5:06 AM",
+      "publishedAt": "2026-11-09T05:06:19+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Reforms were discussed but no new decision was reported."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A routine party consultation with no announced change."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "No concrete policy outcome for markets to act on."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "A brief readout of the meeting without evaluative framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on the RSS excerpt only, likely drawn from an official readout."
+        }
+      }
+    }
+  ]
+}
