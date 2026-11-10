@@ -1,0 +1,325 @@
+{
+  "generatedAt": "2026-11-10T10:20:29+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Hegseth likely to face impeachment vote this week",
+      "summary": "AI summary: A Republican congressman has filed impeachment articles against US Defence Secretary Pete Hegseth, accusing him of waging war on Iran without congressional approval, with a House vote expected Wednesday. Congressional sources think the House may pass it, but Senate conviction looks unlikely, and both Hegseth and Trump have rejected the move.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2043446/hegseth-likely-to-face-impeachment-vote-this-week"
+        }
+      ],
+      "timestamp": "Nov 10, 7:38 AM",
+      "publishedAt": "2026-11-10T07:38:21+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A US political fight with no direct, stated effect on Pakistani prices or jobs."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "An impeachment push against a sitting defence chief during active hostilities signals institutional strain in a key partner state."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life in Pakistan described."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "US war policy toward Iran affects oil and regional risk sentiment that investors watch."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Foreign political story; Hegseth, Trump and the House Speaker's views are all represented alongside the impeachment case."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but the vote outlook rests on anonymous congressional sources and a single outlet."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "LPG strike postponed after talks",
+      "summary": "AI summary: LPG marketers have shelved a strike planned for November 16 after meeting the Sindh governor, who promised to take their complaints about the new LPG policy to the federal ministry. The industry wants a say in the policy and lower duties on imported gas, warning that prices of Rs500-550 per kg and rising winter demand could deepen a gas crisis.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2043371/lpg-strike-postponed-after-talks"
+        }
+      ],
+      "timestamp": "Nov 10, 7:03 AM",
+      "publishedAt": "2026-11-10T07:03:58+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "Averting a supply strike protects distribution, though high LPG prices remain unresolved."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine industry-government negotiation, handled through dialogue."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Households keep cooking-gas supply ahead of winter instead of facing a shutdown."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Relevant to energy distributors and to inflation-sensitive sectors like transport and food."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports both the industry's demands and the governor's response without taking a side."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read with specific dates, prices and import figures."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "High returns lure foreign investors",
+      "summary": "AI summary: Foreign buying of Pakistan Investment Bonds hit about $509 million in July-October FY27, a record for the period, led largely by UAE investors, with another $238 million going into treasury bills. Higher yields after the State Bank's October rate hike to 12% and a steady rupee are cited as the draw, while equities attracted far less.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2043374/high-returns-lure-foreign-investors"
+        }
+      ],
+      "timestamp": "Nov 10, 7:03 AM",
+      "publishedAt": "2026-11-10T07:03:58+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "Foreign inflows support reserves and the currency, though higher rates may squeeze private-sector credit."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A market data story with no governance angle."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct, near-term effect on daily life described."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Directly concerns bond yields, the policy rate and foreign portfolio flows."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Data-driven report without partisan framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read with specific, attributable figures."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Opposition demands 'return to talks' in AJK",
+      "summary": "AI summary: The opposition alliance TTAP says police stopped its delegation at Kahuta as it tried to reach protesters in Azad Jammu and Kashmir, and is calling for talks with the Joint Awami Action Committee. It also wants an impartial probe into alleged excessive force, care for the injured and legal access for those detained; the report carries no official response.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2043421/opposition-demands-return-to-talks-in-ajk"
+        }
+      ],
+      "timestamp": "Nov 10, 7:02 AM",
+      "publishedAt": "2026-11-10T07:02:51+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "The report does not address economic effects of the unrest."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Ongoing protests, blocked political access and force allegations point to governance strain in AJK."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Reports of injured protesters and arrests indicate harm to public safety and wellbeing."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited direct relevance to investors or business decisions."
+        },
+        "lean": {
+          "value": "pro-opposition",
+          "reason": "The piece relays only the opposition alliance's claims and demands, with no government response or rebuttal."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but it is single-source and the allegations are unverified."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "NA Speaker discusses legislative affairs with Sindh PA speaker",
+      "summary": "AI summary: National Assembly Speaker Ayaz Sadiq visited the Sindh Assembly in Karachi and met its speaker, Awais Qadir Shah, to discuss closer cooperation between the national and provincial legislatures and the political climate. The visit included a tour of the old assembly building and an exchange of gifts.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40448168/na-speaker-discusses-legislative-affairs-with-sindh-pa-speaker"
+        }
+      ],
+      "timestamp": "Nov 10, 5:55 AM",
+      "publishedAt": "2026-11-10T05:55:47+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A ceremonial visit with no economic measures announced."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "Dialogue between federal and provincial legislatures modestly supports institutional cooperation."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little relevance to investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straight protocol reporting without partisan framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; a simple, factual event report."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Pakistan condemns attack by Houthis on Aramco",
+      "summary": "AI summary: Pakistan's Foreign Office has condemned a failed Houthi attempt to strike a Saudi Aramco administrative building in Riyadh, which caused no casualties. It urged the Houthis to halt attacks on Saudi Arabia and pledged full support for the kingdom's security.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40448208/pakistan-condemns-attack-by-houthis-on-aramco"
+        }
+      ],
+      "timestamp": "Nov 10, 4:44 AM",
+      "publishedAt": "2026-11-10T04:44:56+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Attacks on Saudi energy infrastructure raise oil-supply risk for an import-dependent economy like Pakistan's."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A routine diplomatic statement with no domestic governance effect."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No casualties reported and no direct domestic effect."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Gulf energy security matters to oil prices and regional risk."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports an official statement without editorial framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; it reports an official statement directly."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Mere apprehension cannot justify warrantless search: LHC",
+      "summary": "AI summary: The Lahore High Court ruled that customs officials cannot carry out a search without a warrant merely because they fear goods might be moved, finding the department had not met the legal conditions or proved it served notice. The court upheld a tribunal decision in the goods owner's favour, stressing that anti-smuggling work does not override statutory safeguards.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40448153/mere-apprehension-cannot-justify-warrantless-search-lhc"
+        }
+      ],
+      "timestamp": "Nov 10, 4:44 AM",
+      "publishedAt": "2026-11-10T04:44:55+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "Clearer limits on arbitrary customs searches improve legal certainty for traders."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "Courts enforcing procedural limits on state agencies strengthens rule of law."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Reinforces protection against unlawful searches."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Relevant to importers, traders and businesses dealing with customs."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Presents both the department's arguments and the court's reasoning."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; it reports a court judgment directly."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Two militant hideouts inside NW mosques cleared: ISPR",
+      "summary": "AI summary: ISPR said security forces cleared two militant hideouts inside mosques in Mir Ali, North Waziristan, on November 8, saying explosives, IEDs and weapons were recovered and that the sites were also used as torture cells. The military said search operations are continuing, and the KP governor condemned the misuse of mosques.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40448143/two-militant-hideouts-inside-nw-mosques-cleared-ispr"
+        }
+      ],
+      "timestamp": "Nov 10, 4:44 AM",
+      "publishedAt": "2026-11-10T04:44:55+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic effect described."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Part of an ongoing counterterrorism campaign, with no new governance shift reported."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Points to an active militant presence and continuing operations in North Waziristan, affecting local safety."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited relevance to investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports official statements with attribution, typical of security coverage."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Claims come solely from the military's press wing and are not independently verified."
+        }
+      }
+    }
+  ]
+}
