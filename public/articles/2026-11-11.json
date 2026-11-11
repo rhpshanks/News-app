@@ -1,0 +1,325 @@
+{
+  "generatedAt": "2026-11-11T11:03:03+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "PTI founder Imran Khan brought to Pims, undergoes eye procedure",
+      "summary": "AI summary: Jailed PTI founder Imran Khan was taken overnight from Adiala jail to PIMS, where a hospital official said he stayed clinically stable while receiving a follow-up injection for his retinal condition before being returned around 2:30am. The visit revives a dispute over an August Supreme Court order to move him to Shifa hospital, with PTI accusing the government of defying the court and the information minister blaming PTI workers for security concerns.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2043744/pti-founder-imran-khan-brought-to-pims-undergoes-eye-procedure"
+        }
+      ],
+      "timestamp": "Nov 11, 10:55 AM",
+      "publishedAt": "2026-11-11T10:55:21+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No economic effect described."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Renewed government-PTI clash over compliance with a Supreme Court order points to friction between the executive and judiciary."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Concerns the health of one detained leader; no wider public impact described."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little direct relevance to markets or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Gives both the government's security explanation and PTI's rebuttal, with medical details attributed to an official."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but the main medical account comes from an unnamed official and a single outlet."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "PM Shehbaz to join other world leaders at COP31 today, will outline Pakistan's climate priorities",
+      "summary": "AI summary: PM Shehbaz Sharif is due to address the COP31 leaders' summit in Antalya, where the Foreign Office says he will push solar and renewable expansion, disaster early warning and more predictable climate finance for developing nations, alongside bilateral meetings including with President Erdogan. Observers expect few breakthroughs, as climate finance disputes have marked the conference and the US is staying away.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2043746/pm-shehbaz-to-join-other-world-leaders-at-cop31-today-will-outline-pakistans-climate-priorities"
+        }
+      ],
+      "timestamp": "Nov 11, 10:50 AM",
+      "publishedAt": "2026-11-11T10:50:05+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Advocacy for climate finance has no immediate effect on prices or jobs."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "High-level diplomatic engagement and bilateral meetings modestly support Pakistan's external standing."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Climate resilience goals are stated, but no near-term change to daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Few expected breakthroughs limit relevance for investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Government priorities are attributed to the PMO and Foreign Office, with sceptical observer context included."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; agency-sourced, factual schedule and attributed statements."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "US House blocks bid to impeach Defence Secretary Hegseth",
+      "summary": "AI summary: The US House voted 211 to 204 to send impeachment articles against Defence Secretary Pete Hegseth to the Judiciary Committee, a move sponsor Thomas Massie said effectively kills the effort, with 11 Democrats not voting. The push stemmed from criticism of the stalled Iran war, and Democrats may revisit it after taking control of Congress in January.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2043724/us-house-blocks-bid-to-impeach-defence-secretary-hegseth"
+        }
+      ],
+      "timestamp": "Nov 11, 7:25 AM",
+      "publishedAt": "2026-11-11T07:25:57+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A US domestic vote with no stated effect on Pakistan's economy."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "The effort was blocked; no direct effect on Pakistan's governance."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No effect on daily life in Pakistan described."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "US Iran war policy, the backdrop here, bears on oil prices and regional risk."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports both sides, including Massie, Trump, Hegseth and Democratic leaders."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; vote counts and quotes are on the record."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Development spending stalls despite surplus",
+      "summary": "AI summary: Planning ministry data show federal development spending reached only about Rs104bn, or 10.4% of the Rs1 trillion PSDP, in July to October, far below the Rs412bn authorised, even as the budget showed a first-quarter surplus. The NHA used under 6% of its allocation and several ministries spent nothing, suggesting the surplus partly reflects held-back public investment.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2043633/development-spending-stalls-despite-surplus"
+        }
+      ],
+      "timestamp": "Nov 11, 6:28 AM",
+      "publishedAt": "2026-11-11T06:28:03+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Slow development outlays depress construction activity, contracts and related jobs."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Points to execution weakness, but no institutional instability."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Delayed roads, power and public projects postpone services to citizens."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Public investment pace matters for construction, cement and infrastructure-linked businesses."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Data-driven report citing ministry figures without partisan framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; figures attributed to official ministry data."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Wapda orders probe into Tarbela tunnel incident",
+      "summary": "AI summary: Wapda has ordered an inquiry after a rock collapse at the Tarbela 5th Extension site let water into the tunnel and powerhouse area, saying no one was hurt and the main dam is not at risk. A separate fault in the Tarbela-Mangla system cut power in parts of Islamabad and Rawalpindi, prompting IESCO load management.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40448366/wapda-orders-probe-into-tarbela-tunnel-incident"
+        }
+      ],
+      "timestamp": "Nov 11, 4:31 AM",
+      "publishedAt": "2026-11-11T04:31:22+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Possible delay to a 1,530-MW project and power cuts disrupt business activity."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "An operational incident handled through a departmental inquiry."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Outages in the twin cities affect households, though no injuries were reported."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Relevant to power sector and hydropower project timelines."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Relays Wapda and IESCO statements factually without partisan angle."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; claims attributed to Wapda and IESCO."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "PM urged to build trust with allies and opposition: Bilawal underscores need for a 'political reset'",
+      "summary": "AI summary: Speaking at an event marking one million homes rebuilt for Sindh flood victims, PPP chairman Bilawal Bhutto-Zardari urged PM Shehbaz Sharif to rebuild trust with allies and then the opposition amid an economic crisis linked to the US-Iran war. He praised federal support for the housing scheme and faulted an unnamed predecessor government for giving Sindh no flood aid; the project is backed by an EIB loan, with further World Bank funding sought.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40448360/pm-urged-to-build-trust-with-allies-and-opposition-bilawal-underscores-need-for-a-political-reset"
+        }
+      ],
+      "timestamp": "Nov 11, 4:31 AM",
+      "publishedAt": "2026-11-11T04:31:22+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Mentions foreign financing for housing but no broad economic shift."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A call for reconciliation, though it also hints at strained ties within the ruling alliance."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Completion of a million flood-resilient homes improves living conditions for affected families."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited relevance to markets beyond project financing."
+        },
+        "lean": {
+          "value": "pro-government",
+          "reason": "Relays a ruling-alliance leader's claims, including criticism of the previous government, with no rebuttal or independent check."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but single source and largely one speaker's unverified claims."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Baker nominated as US ambassador to Pakistan",
+      "summary": "AI summary: President Trump has nominated career diplomat Natalie Baker, currently the US charge d'affaires in Islamabad, as ambassador to Pakistan, a post empty since January 2025. Her nomination now goes to the Senate, where a Democratic majority takes over in January 2027.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40448339/baker-nominated-as-us-ambassador-to-pakistan"
+        }
+      ],
+      "timestamp": "Nov 11, 4:31 AM",
+      "publishedAt": "2026-11-11T04:31:22+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No immediate economic effect."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "Filling a long-vacant ambassadorship signals steadier diplomatic ties with Washington."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Of indirect interest to businesses tracking Pakistan-US relations."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straight factual report of a nomination."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; based on a White House announcement."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "9 pm shop-closing cut daily customer transactions by 42pc: Study",
+      "summary": "AI summary: A study presented at FPCCI's Lahore office found Pakistan's 9 pm shop-closing rule cut average daily transactions per outlet by 42% and sharply lowered retailers' sales ratings, with women's shopping trips also falling. Public opinion is split, and stakeholders urged consulting traders, allowing later closing times and targeting energy savings through solar and loss reduction instead.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40448370/9-pm-shop-closing-cut-daily-customer-transactions-by-42pc-study"
+        }
+      ],
+      "timestamp": "Nov 11, 4:31 AM",
+      "publishedAt": "2026-11-11T04:31:22+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Lower retail transactions and some staff cuts hurt traders' income and jobs."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A policy critique without signs of institutional instability."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Consumers, especially women, report less time and fewer trips to shop."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Directly relevant to retail, consumer and energy policy decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Presents survey data and split opinion; recommendations come from stakeholders."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but the study's authors and methodology details are not named."
+        }
+      }
+    }
+  ]
+}
