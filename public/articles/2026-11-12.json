@@ -1,0 +1,325 @@
+{
+  "generatedAt": "2026-11-12T10:17:20+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "President, PM condole martyrdom of 10 policemen in Kohat, vow to continue fight against terrorism",
+      "summary": "AI summary: KP Police said 10 personnel, including a DSP, and 18 attackers died when a police team returning from an anti-illegal-mining operation near Kohat was ambushed, which police blamed on TTP militants. President Zardari and PM Shehbaz Sharif condemned the attack and pledged to keep fighting terrorism in a province under governor's rule since October 11.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2044005/president-pm-condole-martyrdom-of-10-policemen-in-kohat-vow-to-continue-fight-against-terrorism"
+        }
+      ],
+      "timestamp": "Nov 12, 10:14 AM",
+      "publishedAt": "2026-11-12T10:14:30+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A localised security incident with no direct stated effect on prices, jobs or trade."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "A deadly attack in a province already under governor's rule and emergency points to continuing instability."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Ten police deaths and ongoing militant activity harm public safety in KP, regardless of the reported attacker toll."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited direct relevance to investors beyond general KP security risk."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Largely a condolence report relying on federal leaders and KP Police; casualty figures are attributed, though no provincial or opposition voices appear."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but casualty and responsibility claims come from a single official source without independent confirmation."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Punjab govt insists smog 'not a political issue' as Lahore, New Delhi gasp for air",
+      "summary": "AI summary: With Lahore ranked the world's most polluted city (AQI 358) ahead of New Delhi, Punjab minister Marriyum Aurangzeb called smog a scientific and health problem rather than a political one and claimed air quality has improved sharply since 2024. Punjab's EPA said air from India after Diwali affected around half the province, while noting local emissions and weather also contribute.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2043912/punjab-govt-insists-smog-not-a-political-issue-as-lahore-new-delhi-gasp-for-air"
+        }
+      ],
+      "timestamp": "Nov 12, 7:31 AM",
+      "publishedAt": "2026-11-12T07:31:16+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Smog closed motorway sections and weighs on transport, health costs and outdoor activity."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Official messaging and cross-border attribution, with no direct effect on governance stability."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Hazardous air quality across Lahore and Punjab poses a serious public health burden."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little direct relevance to investment decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "The minister's improvement claims are presented as her statements, alongside EPA data and Indian counterclaims; no Pakistani critics are quoted."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read; AQI figures are concrete, but the improvement percentages are unverified official claims."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "FBR deploys AI to detect discrepancies in tax returns",
+      "summary": "AI summary: Through SRO 2098 of 2026, the FBR has formalised an automated system that cross-checks individual tax returns against data it already holds and flags mismatches before any penal action. Taxpayers get electronic notices via IRIS with at least seven days to respond, plus a further seven-day reminder if they do not.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2043897/fbr-deploys-ai-to-detect-discrepancies-in-tax-returns"
+        }
+      ],
+      "timestamp": "Nov 12, 6:48 AM",
+      "publishedAt": "2026-11-12T06:48:18+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Could improve tax compliance and revenue, but also adds scrutiny for filers; net effect unclear."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "An administrative procedure change with no bearing on institutional stability."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Affects individual taxpayers procedurally, with built-in response windows before penalties."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Relevant to taxpayers, tax advisers and businesses tracking FBR enforcement."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "A straightforward description of a notified rule, without advocacy either way."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read, describing a published SRO with specific procedural details."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "FCC dismisses pleas seeking super tax order review",
+      "summary": "AI summary: A three-member Federal Constitutional Court bench led by Chief Justice Amin-ud-Din Khan rejected review petitions against its ruling that upheld the super tax under Sections 4B and 4C, saying petitioners were simply re-arguing settled issues. The court also said Supreme Court rulings are only persuasive for it after the 27th Amendment.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40448502/fcc-dismisses-pleas-seeking-super-tax-order-review"
+        }
+      ],
+      "timestamp": "Nov 12, 4:29 AM",
+      "publishedAt": "2026-11-12T04:29:06+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Keeps the super tax burden in place on high-income companies and individuals, including retrospective application from Tax Year 2022."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A final judicial ruling that settles rather than unsettles the legal position."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Little direct effect on daily life for most citizens."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Directly affects corporate tax liabilities and earnings expectations for large firms."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the court's reasoning factually without favouring a side."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read on a clear, reported court decision."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Counsel for Sindh govt tells FCC: SIDC was levied to develop road infrastructure",
+      "summary": "AI summary: Defending the Sindh Infrastructure Development Cess before the FCC, the Sindh government's counsel Farooq H Naek argued it is a fee funding provincial road infrastructure, not a tax on trade, and asked the court to uphold the 2017 law. Judges asked whether goods arriving by air, sea, pipeline or rail would be covered, and the hearing was adjourned to Thursday.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40448505/counsel-for-sindh-govt-tells-fcc-sidc-was-levied-to-develop-road-infrastructure"
+        }
+      ],
+      "timestamp": "Nov 12, 4:29 AM",
+      "publishedAt": "2026-11-12T04:29:06+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "The case is ongoing; the cess's cost to importers is unchanged until a ruling."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine litigation over provincial taxing powers."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life at this stage."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Relevant to importers and businesses moving goods through Sindh."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the counsel's arguments alongside the judges' probing questions."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read on courtroom proceedings."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "IK undergoes eye treatment",
+      "summary": "AI summary: PIMS hospital said former PM Imran Khan was moved from Adiala jail overnight on November 10 to 11 for an eye examination and treatment, remained stable and was discharged at 2:30am. PTI said the episode raises serious questions about his health and transparency, while the interior and information ministries did not respond to requests for comment.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40448503/ik-undergoes-eye-treatment"
+        }
+      ],
+      "timestamp": "Nov 12, 4:29 AM",
+      "publishedAt": "2026-11-12T04:29:06+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No economic dimension."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Adds to PTI's grievances, but the hospital reports a routine visit and discharge with no wider escalation."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Concerns one individual's health with no broad public effect."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not relevant to market decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Gives the hospital's account and PTI's concerns, and notes the government's lack of response."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full wire report read, but the government side is absent and health details are limited."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Lawyers meet IK, Bushra Bibi at Adiala jail",
+      "summary": "AI summary: Lawyers Salman Safdar and Sardar Latif Khosa held a four-hour meeting with Imran Khan and Bushra Bibi at Adiala jail following Islamabad High Court directions. Khosa said Khan has an eye problem and fluctuating blood pressure but remains alert, and that the 28th Constitutional Amendment was among the topics discussed.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40448484/lawyers-meet-ik-bushra-bibi-at-adiala-jail"
+        }
+      ],
+      "timestamp": "Nov 12, 4:29 AM",
+      "publishedAt": "2026-11-12T04:29:06+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No economic dimension."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A court-directed legal visit; no new political development beyond an undisclosed discussion of the 28th Amendment."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No broad effect on public wellbeing."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not relevant to market decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Relays the lawyer's statements as his claims, without editorialising."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but health and meeting details come only from Khan's lawyer."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Fuel prices slashed once again; high-speed diesel cut by Rs7 per litre, petrol by Rs3",
+      "summary": "AI summary: An Ogra notification cut petrol by Rs3 to Rs335 per litre and high-speed diesel by Rs7 to Rs364, effective November 12, while government levies of Rs114 on petrol and Rs100 on diesel stay in place. Prices are being revised frequently in line with global oil swings tied to US-Iran hostilities, and remain well below April's peak.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2043820/fuel-prices-slashed-once-again-high-speed-diesel-cut-by-rs7-per-litre-petrol-by-rs3"
+        }
+      ],
+      "timestamp": "Nov 12, 1:30 AM",
+      "publishedAt": "2026-11-12T01:30:51+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "Lower diesel and petrol prices ease transport and production costs and may soften inflation."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A routine regulatory price revision."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Cheaper fuel modestly relieves household and commuter costs."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Fuel prices feed directly into inflation, transport and business cost calculations."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual reporting of the notification with background on levies and price history."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read, based on an official Ogra notification with specific figures."
+        }
+      }
+    }
+  ]
+}
