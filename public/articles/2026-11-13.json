@@ -1,0 +1,325 @@
+{
+  "generatedAt": "2026-11-13T10:24:01+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Microsoft outage drags on for hours, disrupting Outlook, Teams for businesses and governments",
+      "summary": "AI summary: A roughly 10-hour Microsoft 365 disruption knocked out Outlook and Teams for companies and government agencies worldwide, with Microsoft saying server fixes were progressing slower than hoped and officials in Australia indicating it did not appear to be a cyberattack.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2044258/microsoft-outage-drags-on-for-hours-disrupting-outlook-teams-for-businesses-and-governments"
+        }
+      ],
+      "timestamp": "Nov 13, 9:57 AM",
+      "publishedAt": "2026-11-13T09:57:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Hours of email and collaboration downtime hit business productivity, and at least one company delayed its earnings release."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A technical outage abroad with no direct bearing on Pakistan's governance."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Inconvenient for office users but no reported safety or welfare harm in Pakistan."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Relevant to firms dependent on Microsoft cloud services and to tech-sector investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Wire report relying on Microsoft and official statements without taking sides."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; multiple named official sources and outage-tracker data."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Pakistan calls for 'immediate' end to Houthi attacks on Saudi Arabia as UNSC renews Yemen sanctions",
+      "summary": "AI summary: At the UN Security Council, Pakistan's envoy urged an unconditional halt to Houthi strikes on Saudi Arabia as the Council unanimously extended Yemen sanctions to late 2027 and widened its expert panel's remit to track Houthi weapons components and revenue.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2044254/pakistan-calls-for-immediate-end-to-houthi-attacks-on-saudi-arabia-as-unsc-renews-yemen-sanctions"
+        }
+      ],
+      "timestamp": "Nov 13, 9:12 AM",
+      "publishedAt": "2026-11-13T09:12:33+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No immediate domestic economic effect, though Red Sea shipping risk remains a background concern."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A routine diplomatic position aligned with a close ally; no domestic institutional impact."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life in Pakistan."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Conflict near the Bab el-Mandeb Strait matters for shipping and oil price expectations."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports Pakistan's statement and Council divisions factually, including Russian and Chinese objections."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; statements attributed to named officials at a public UN session."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Captain Asim Tariq murder case: ATC records statements of three more witnesses",
+      "summary": "AI summary: An Islamabad anti-terrorism court took testimony from three additional prosecution witnesses in the killing of PAF Group Captain Asim Tariq, raising the total to 13, and adjourned to November 16 for defence cross-examination.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40448697/captain-asim-tariq-murder-case-atc-records-statements-of-three-more-witnesses"
+        }
+      ],
+      "timestamp": "Nov 13, 7:30 AM",
+      "publishedAt": "2026-11-13T07:30:38+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A criminal trial update with no economic dimension."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Ordinary court procedure moving forward; no institutional strain indicated."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Procedural progress in a single case; no wider effect on public safety."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not relevant to markets or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straight procedural court report with no editorial framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; routine court record with named judge and prosecutor."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Work in full swing to plug crater at Tarbela project site",
+      "summary": "AI summary: Round-the-clock concrete work is filling a crater left by a rock collapse at the Tarbela 5th Extension hydropower site in Haripur, where officials say key structures were undamaged, while most of the roughly 3,000 workers have been told to stay home pending further notice.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2044133/work-in-full-swing-to-plug-crater-at-tarbela-project-site"
+        }
+      ],
+      "timestamp": "Nov 13, 7:21 AM",
+      "publishedAt": "2026-11-13T07:21:36+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Work stoppage idles most of the labour force and risks delaying a major power project."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "An engineering setback handled through Wapda and ministry reporting channels."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Thousands of workers sent home face lost income, though no injuries were reported."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Bears on power-sector capacity timelines and contractors involved in the project."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Includes official reassurances alongside a labour union's account and an official declining to commit on timelines."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; several named and attributed sources."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Two sisters of IK released",
+      "summary": "AI summary: Imran Khan's sisters Nooreen Khan Niazi and Dr Uzma Khan were freed from Kot Lakhpat Jail after 53 days of detention without trial under Punjab's public-order law, with a family member questioning the legal basis for both the detention and the release.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40448679/two-sisters-of-ik-released"
+        }
+      ],
+      "timestamp": "Nov 13, 5:14 AM",
+      "publishedAt": "2026-11-13T05:14:20+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Releases may ease one point of friction, but other MPO detentions reportedly remain in place."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Relief for the individuals released; limited wider effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not relevant to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Only the family's view is quoted and no official response is included, but the report's own wording stays factual; kept balanced given uncertainty about labelling sides."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single-source report relying on one family member's social media post with no official comment."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Naqvi for referendum on creation of new provinces",
+      "summary": "AI summary: Interior Minister Mohsin Naqvi proposed putting the creation of new provinces to a public referendum, saying he would oppose it without popular backing, and also spoke on corruption, notices to JUI-F-linked individuals, and Imran Khan's legal rights.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40448674/naqvi-for-referendum-on-creation-of-new-provinces"
+        }
+      ],
+      "timestamp": "Nov 13, 5:14 AM",
+      "publishedAt": "2026-11-13T05:14:19+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A political proposal with no near-term economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Floats a significant constitutional idea but only as a suggestion, with no formal process launched."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life at this stage."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Of limited relevance to markets unless it advances."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the minister's remarks as his statements without endorsing or attacking them."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; direct attributed quotes from a named official."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Two policemen martyred in Swabi",
+      "summary": "AI summary: Police said gunmen killed two officers, including a post in-charge, and wounded another in Swabi, while a separate overnight assault on a Dera Ismail Khan police station using an explosives-laden vehicle was repelled without police casualties, according to a police spokesperson.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40448637/two-policemen-martyred-in-swabi"
+        }
+      ],
+      "timestamp": "Nov 13, 5:14 AM",
+      "publishedAt": "2026-11-13T05:14:19+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Localised security incidents with no measurable direct economic effect."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Repeated armed attacks on police posts in Khyber Pakhtunkhwa point to continuing strain on state security institutions."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Deaths of police personnel and ongoing militant violence weigh on public safety in the province."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Of limited direct relevance to market decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Claims are attributed to police officials; no partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single wire report based on police statements, not independently corroborated."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "High-speed diesel price dips by Rs4 per litre, petrol by Rs3",
+      "summary": "AI summary: In an eighth consecutive cut, the government lowered petrol to Rs332 and diesel to Rs360 per litre from November 13, though sizeable per-litre levies remain and prices are still elevated compared with pre-crisis levels.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2044067/high-speed-diesel-price-dips-by-rs4-per-litre-petrol-by-rs3"
+        }
+      ],
+      "timestamp": "Nov 12, 10:37 PM",
+      "publishedAt": "2026-11-12T22:37:21+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "Lower fuel costs ease transport and input expenses and inflation pressure."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A routine regulatory price revision."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Modestly reduces household fuel and commuting costs."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Fuel prices feed directly into inflation, transport, and industrial cost outlooks."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the cut with context on levies and earlier price peaks, without spin."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; figures backed by an Ogra notification."
+        }
+      }
+    }
+  ]
+}
