@@ -1,62 +1,62 @@
 {
-  "generatedAt": "2026-11-07T14:37:08+05:00",
-  "periodStart": "2026-10-24",
-  "periodEnd": "2026-11-03",
-  "periodLabel": "Oct 24 to Nov 3, 2026",
-  "totalArticles": 65,
+  "generatedAt": "2026-11-13T23:15:13+05:00",
+  "periodStart": "2026-11-07",
+  "periodEnd": "2026-11-13",
+  "periodLabel": "Nov 7 to 13, 2026",
+  "totalArticles": 52,
   "stats": {
     "economic": {
-      "positive": 3,
-      "neutral": 53,
-      "negative": 9
+      "positive": 7,
+      "neutral": 35,
+      "negative": 10
     },
     "political": {
-      "positive": 2,
-      "neutral": 52,
-      "negative": 11
+      "positive": 5,
+      "neutral": 39,
+      "negative": 8
     },
     "social": {
-      "positive": 7,
-      "neutral": 36,
-      "negative": 22
+      "positive": 11,
+      "neutral": 28,
+      "negative": 13
     }
   },
   "summary": [
-    "This edition covers the seven most recent days of Miqyas data, but they are not seven consecutive days: the crawl recorded Oct 24 to Oct 29 and then Nov 3, with no entries for Oct 30 to Nov 2. Six of these days also fell inside last week's roundup, so most of what follows is a second look at the same stretch, with Nov 3 the only new day. Across the 65 articles, social coverage again carried the heaviest negative weight: 22 of 65 social readings (34%) were negative, against 17% for political and 14% for economic. Those social negatives came largely from crime and safety reporting rather than politics: a judicial commission calling the police inquiry into the killing of Karachi businessman Mir Raza Ali an \"epic failure\", the family of Hina Javed asking Punjab's chief minister for a judicial probe into her death, harassment cases in Lahore and Karachi, a bus crash in Hafizabad, and an oxygen cylinder blast at a Tharparkar health centre that killed eight people.",
-    "The dominant storyline was the standoff between PTI and the state, the subject of five of the eleven flagged articles. KP Governor Faisal Karim Kundi said Chief Minister Sohail Afridi and Speaker Babar Saleem Swati were being held under house arrest and suggested the Oct 11 emergency could run past six months; three days later a Peshawar anti-terrorism court issued arrest warrants for Afridi and four other PTI leaders in the May 2023 Radio Pakistan attack case, which PTI disputes. Inside the party, most senators and MNAs at a seven-hour joint meeting argued against further talks with the establishment, while PTI publicly denied that its core committee had been sidelined. Imran Khan's sister Noreen Niazi was moved from jail to a cardiology hospital as Punjab extended the detention of Khan's three sisters by 30 days. Close to this thread, Lahore High Court judge Mohsin Akhtar Kayani resigned, citing health and his view that the 26th and 27th amendments have eroded high court independence. The other major thread was the Afghan border: Pakistan said it destroyed Afghan Taliban posts after fire from the Afghan side killed a civilian at Angoor Adda, then dismissed the Afghan Taliban's account as fabricated and alleged Indian involvement, claims that were not independently verified.",
-    "Political lean held steady despite this charged mix: 60 of 65 articles read balanced, five pro-government and none pro-opposition. The pro-government readings track sourcing, not a position Miqyas takes. Each was a story built on one side's uncontested account, such as a provincial government statement on housing schemes, a PM aide's claim of 'off-the-record' contacts with PTI with no PTI response, the information ministry's rebuttal of the Afghan Taliban, and, on Nov 3, a minister's description of the electoral reforms panel with no PPP or MQM reply. AI confidence was mostly medium (39 articles), with 24 high and only two low. Both low readings went to reports of militant commanders killed in Balochistan operations, the two stories where the reporting rested entirely on unnamed security sources with no independent confirmation.",
-    "Economic coverage stayed the calmest category, at about 82% neutral, and none of the flagged stories was primarily economic. Its negatives tracked prices and trade: a sharply wider regional trade deficit, higher customs values on imported stationery raw materials, a scrapped vaccine tender, diesel nearing Rs400 a litre on Oct 29, and, on Nov 3, traders and millers saying imported wheat had failed to bring flour prices down. Nov 3 also brought the clearest economic positive in the window, a cut of Rs7.76 per litre in high-speed diesel and Rs3.40 in petrol, following two late-October increases in the diesel rate. The one flagged item that day was procedural: the Election Commission said it is ready to hold Islamabad's local government polls on Dec 20 under the 2015 law, because Parliament ended its sessions without passing the bill for new town corporations."
+    "Across the 52 stories Miqyas tracked from November 7 to 13, social coverage carried the heaviest negative share (13 stories, 25.0%), ahead of economic (19.2%) and political (15.4%). Most of that weight came from security and infrastructure rather than social policy: the ambush near Kohat in which KP Police said 10 personnel were killed, the shooting of two officers in Swabi, ISPR-reported operations against militant hideouts in North Waziristan, and three separate reports on the rock mass collapse and flooding at the Tarbela Dam site, which also dragged on the economic readings. Social was at the same time the most positive category (11 stories, 21.2%), helped by items such as Pakistan's first astronaut heading to the Chinese space station and two rounds of fuel price cuts late in the week, so the picture was polarised rather than uniformly bleak.",
+    "The week's clearest storyline was security in Khyber Pakhtunkhwa, which has been under governor's rule since October 11. On November 8 the provincial home secretary announced faceless anti-terrorism courts and Rs70 billion for the CTD and police over a year, citing a shortfall of more than 10,000 police; within days came the Kohat and Swabi attacks, alongside a repelled vehicle-bomb assault on a Dera Ismail Khan police station that police reported. Officials at the briefing blamed past provincial leadership for weak ownership of counterterrorism, a claim the report carried without a PTI response. Running in parallel was a sharpening government-opposition contest: the TTAP alliance hinted at a protest movement it hopes JUI-F chief Fazlur Rehman will lead and voiced opposition to governor's rule in KP, demanded talks in Azad Jammu and Kashmir after saying police stopped its delegation, and PTI accused the government of defying a Supreme Court order over Imran Khan's hospital care, which the information minister answered by citing security concerns about PTI workers.",
+    "Economic negatives were scattered rather than tied to a single shock. They included a report that development spending has stalled despite a fiscal surplus, a study claiming the 9pm shop-closing rule cut daily customer transactions by 42 percent, the FCC dismissing pleas for review of the super tax order, the Tarbela damage, and a prolonged Microsoft outage that disrupted businesses and governments. Against these sat a new auto policy aimed at cheaper vehicles and EVs, the postponement of an LPG strike after talks, a report on foreign investors drawn by high returns, and the fuel price cuts, leaving the category mostly neutral (67.3%) with negatives (10) narrowly outnumbering positives (7).",
+    "On political lean, 47 of 52 stories were rated balanced, with four leaning pro-government and one pro-opposition. In each of the clearest cases the lean reflected sourcing gaps rather than slanted language: the KP counterterrorism briefing relied entirely on official claims, while the AJK report relayed only the opposition alliance's account with no government response. A notable pattern is that the eight stories rated politically negative were exactly the eight flagged for review, and every one of them was scored medium confidence, typically because it rested on a single official statement or an unanswered allegation. No story was rated low confidence, and the share of high-confidence readings climbed through the week, from 1 of 7 stories on November 7 to 6 of 8 on November 13 (25 high and 27 medium overall)."
   ],
   "notableStories": [
     {
-      "headline": "KP Governor Kundi says Sohail Afridi, assembly speaker 'in safe hands' after house arrest",
-      "context": "The governor confirmed that KP's elected chief minister and assembly speaker were being held under house arrest and suggested the emergency and governor's rule could run past six months, while relatives of both men petitioned the Peshawar High Court.",
+      "headline": "President, PM condole martyrdom of 10 policemen in Kohat, vow to continue fight against terrorism",
+      "context": "The deadliest single incident of the week: KP Police said 10 personnel, including a DSP, were killed in an ambush near Kohat that police blamed on the TTP, in a province already under governor's rule.",
       "sourceName": "Dawn News",
-      "sourceUrl": "https://www.dawn.com/news/2039755/kp-governor-kundi-says-sohail-afridi-assembly-speaker-in-safe-hands-after-house-arrest"
+      "sourceUrl": "https://www.dawn.com/news/2044005/president-pm-condole-martyrdom-of-10-policemen-in-kohat-vow-to-continue-fight-against-terrorism"
     },
     {
-      "headline": "Justice Kayani resigns, citing growing control over the judiciary",
-      "context": "A sitting Lahore High Court judge stepped down, saying the 26th and 27th amendments have eroded high court independence and widened executive influence on judicial appointments and transfers.",
-      "sourceName": "Business Recorder",
-      "sourceUrl": "https://www.brecorder.com/news/40446422/justice-kayani-resigns-citing-growing-control-over-the-judiciary"
+      "headline": "KP plans to set up faceless ATCs, spend Rs70bn on CTD and police in a year as part of initiatives against terrorism",
+      "context": "Sets out the province's official counterterrorism response, including identity-shielded courts, a Rs70 billion security outlay and an acknowledged police shortfall of over 10,000, days before the Kohat and Swabi attacks.",
+      "sourceName": "Dawn News",
+      "sourceUrl": "https://www.dawn.com/news/2043052/kp-plans-to-set-up-faceless-atcs-spend-rs70bn-on-ctd-and-police-in-a-year-as-part-of-initiatives-against-terrorism"
     },
     {
-      "headline": "Pakistan strikes Afghan Taliban posts after cross-border attack",
-      "context": "According to local officials, fire from the Afghan side killed a civilian and wounded five members of a family at Angoor Adda, a border trade route, and security sources said Pakistani forces responded by destroying several Afghan Taliban posts.",
-      "sourceName": "Geo News",
-      "sourceUrl": "https://www.geo.tv/latest/688588-pakistan-destroys-afghan-taliban-posts-after-crossborder-attack-kills-civilian-wounds-five"
+      "headline": "Opposition alliance hints at movement against govt, hopes JUI-F chief will lead the effort",
+      "context": "Signals a possible escalation from parliamentary opposition to street protest, with TTAP seeking Fazlur Rehman as its leader and planning a multiparty conference first.",
+      "sourceName": "Dawn News",
+      "sourceUrl": "https://www.dawn.com/news/2043274/opposition-alliance-hints-at-movement-against-govt-hopes-jui-f-chief-will-lead-the-effort"
     },
     {
-      "headline": "ISI, IB officials included in JIT formed to probe Mir Raza murder",
-      "context": "After a judicial commission called the police inquiry into the killing of a Karachi businessman an \"epic failure\", the Sindh government brought intelligence agencies and the Rangers into a new joint investigation team.",
-      "sourceName": "Geo News",
-      "sourceUrl": "https://www.geo.tv/latest/688042-isi-ib-officials-included-in-jit-formed-to-probe-mir-raza-murder"
+      "headline": "PTI founder Imran Khan brought to Pims, undergoes eye procedure",
+      "context": "A routine medical visit that reopened a dispute over compliance with an August Supreme Court order, with PTI and the information minister giving opposing accounts.",
+      "sourceName": "Dawn News",
+      "sourceUrl": "https://www.dawn.com/news/2043744/pti-founder-imran-khan-brought-to-pims-undergoes-eye-procedure"
     },
     {
-      "headline": "ECP says ready to hold LG polls in ICT",
-      "context": "The Election Commission plans to hold Islamabad's local government elections on Dec 20 under the 2015 law because Parliament did not pass the bill for new town corporations, making months of delimitation work redundant.",
-      "sourceName": "Business Recorder",
-      "sourceUrl": "https://www.brecorder.com/news/40447086/ecp-says-ready-to-hold-lg-polls-in-ict"
+      "headline": "Opposition demands 'return to talks' in AJK",
+      "context": "Points to continuing unrest in Azad Jammu and Kashmir, where the opposition alliance alleges excessive force against protesters; the report carries no official response, so its claims remain unverified.",
+      "sourceName": "Dawn News",
+      "sourceUrl": "https://www.dawn.com/news/2043421/opposition-demands-return-to-talks-in-ajk"
     }
   ]
 }
