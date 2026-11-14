@@ -1,0 +1,325 @@
+{
+  "generatedAt": "2026-11-14T14:30:47+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "As smog hangs over Lahore, Pakistan's new pollution squad races to douse stubble fires",
+      "summary": "AI summary: Punjab has deployed a 750-member, 67-unit rapid-response force to extinguish illegal crop-residue fires within minutes, backed by per-acre fines and subsidised super seeders, though farmers and residents disagree on whether burning is actually declining.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40448904/as-smog-hangs-over-lahore-pakistans-new-pollution-squad-races-to-douse-stubble-fires"
+        }
+      ],
+      "timestamp": "Nov 14, 1:55 PM",
+      "publishedAt": "2026-11-14T13:55:14+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Fines add costs for farmers while machinery subsidies offset some of the burden; net effect small."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine provincial enforcement measure with no institutional dispute."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Faster fire response and reported lower smog-related hospitalisations point to modest health gains, though uptake is uneven."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited direct relevance to investors beyond agri-machinery demand."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports official figures alongside sceptical farmer and resident voices."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; figures attributed to officials and health department data."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Pakistan to host 30th ECO Council of Ministers meeting on Nov 15-16",
+      "summary": "AI summary: Islamabad will host the ECO's 30th Council of Ministers on November 15-16, chaired by Deputy PM and Foreign Minister Ishaq Dar, as Pakistan uses its 2026-27 chairmanship to push regional connectivity and trade.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2044472/pakistan-to-host-30th-eco-council-of-ministers-meeting-on-nov-15-16"
+        }
+      ],
+      "timestamp": "Nov 14, 1:06 PM",
+      "publishedAt": "2026-11-14T13:06:52+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "Regional trade and connectivity agenda could support future business activity, though no concrete deals yet."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Scheduled diplomatic meeting; no domestic stability implications."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Trade and logistics priorities are of some interest to businesses and investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straightforward report of a Foreign Office announcement."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; based on an official Foreign Office statement."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "US air travel resumption will 'take time' after hours-long stop",
+      "summary": "AI summary: A roughly four-hour nationwide US flight halt caused by an air traffic communications outage led to nearly 6,000 cancellations; officials blamed ageing equipment, said they saw no sign of sabotage, and warned normal service will take time to restore.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2044466/us-air-travel-resumption-will-take-time-after-hours-long-stop"
+        }
+      ],
+      "timestamp": "Nov 14, 12:37 PM",
+      "publishedAt": "2026-11-14T12:37:15+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Mass cancellations disrupt airlines, travel and some international routes."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Foreign infrastructure failure with no direct bearing on Pakistan's governance."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Hundreds of thousands of travellers stranded, including some international passengers."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Relevant to airline and aviation-linked investors and travel businesses."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Attributes causes and denials of foul play to named officials without editorialising."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; details attributed to officials and FlightAware data."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Police foil attack on checkpost in KP's Bannu, eliminate four terrorists",
+      "summary": "AI summary: Police in Bannu said they repelled a Friday night assault on the Kingar Pul checkpost, killing four unidentified attackers and recovering rifles, grenades and ammunition, amid a wider run of militant attacks on police in Khyber Pakhtunkhwa.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2044476/police-foil-attack-on-checkpost-in-kps-bannu-eliminate-four-terrorists"
+        }
+      ],
+      "timestamp": "Nov 14, 12:06 PM",
+      "publishedAt": "2026-11-14T12:06:44+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Localised security incident with no clear economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Attack was repelled per police; no change to governance stability."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Continued armed attacks on police posts reflect ongoing insecurity for residents of southern KP."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little direct market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Relies on police account but frames it factually with wider context of attacks."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single-source police claims not independently verified."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Wasim Akram questions Cummins' Sandpapergate denial, says bowlers would spot tampering",
+      "summary": "AI summary: Former Pakistan fast bowler Wasim Akram cast doubt on Pat Cummins' denial of knowing about sandpaper in the 2018 ball-tampering scandal, after Usman Khawaja's memoir alleged wider dressing-room awareness; Cricket Australia says it will not reopen its inquiry.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2044478/wasim-akram-questions-cummins-sandpapergate-denial-says-bowlers-would-spot-tampering"
+        }
+      ],
+      "timestamp": "Nov 14, 11:48 AM",
+      "publishedAt": "2026-11-14T11:48:46+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Sports commentary with no economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "No governance relevance."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Sports controversy with no effect on wellbeing or safety."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not relevant to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Presents Akram's view alongside Cummins' denial and Cricket Australia's stance."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; all claims clearly attributed."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "74 terrorists killed in IBOs across KP, Balochistan",
+      "summary": "AI summary: ISPR said security forces killed 74 militants in intelligence-based operations in Mir Ali and Orakzai in Khyber Pakhtunkhwa and in the Kurram area of District Quetta, recovering weapons and explosives; the figures come from military statements and were not independently verified.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40448871/74-terrorists-killed-in-ibos-across-kp-balochistan"
+        }
+      ],
+      "timestamp": "Nov 14, 5:08 AM",
+      "publishedAt": "2026-11-14T05:08:51+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic effect, though persistent insecurity weighs on investment in affected regions."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Military operations per ISPR; no institutional change."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Large-scale armed operations signal ongoing conflict and risk for civilians in KP and Balochistan, regardless of framing as a success."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited direct market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reproduces ISPR statements without independent sourcing, but does not editorialise on political sides."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single-source military claims not independently verifiable."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Illegal recruitments in PPOD: Fazl's son fails to appear before NAB",
+      "summary": "AI summary: JUI-F chief Fazlur Rehman's son Maulana Asad Mehmood skipped a second NAB summons in an inquiry into alleged hiring beyond sanctioned posts at Pakistan Post during his 2022-23 tenure as minister; sources said his written reply was deemed unsatisfactory.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40448868/illegal-recruitments-in-ppod-fazls-son-fails-to-appear-before-nab"
+        }
+      ],
+      "timestamp": "Nov 14, 5:08 AM",
+      "publishedAt": "2026-11-14T05:08:51+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Alleged overstaffing has fiscal implications for a state entity but no immediate economic effect."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Accountability probe of a political figure over alleged misgovernance adds to political friction."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Minimal market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Largely relays NAB's allegations with only a brief note on the accused's reply; framing is not clearly partisan, and party alignment is not asserted."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but rests on NAB's notice and unnamed sources, with the accused's side only partly reflected."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "ECP suspends Islamabad LG polls programme",
+      "summary": "AI summary: The Election Commission has suspended its schedule for Islamabad's December 20 local government elections until a November 26 hearing, after the Islamabad High Court stayed the polls on a petition challenging the delimitation status.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40448870/ecp-suspends-islamabad-lg-polls-programme"
+        }
+      ],
+      "timestamp": "Nov 14, 5:08 AM",
+      "publishedAt": "2026-11-14T05:08:51+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic effect."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Further delay to long-postponed local elections weakens local democratic governance."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Little immediate effect on daily life, though local representation remains absent."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not market-relevant."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the court order, ECP notification and legislative background factually."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; based on an ECP notification and the court's written order."
+        }
+      }
+    }
+  ]
+}
