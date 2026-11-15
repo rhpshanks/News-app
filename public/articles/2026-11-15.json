@@ -1,0 +1,325 @@
+{
+  "generatedAt": "2026-11-15T09:11:56+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Parliament’s nod deemed a must for referendum",
+      "summary": "AI summary: According to unnamed official sources cited by Dawn, President Zardari and PM Shehbaz Sharif agreed in Lahore that any referendum on creating new provinces must be authorised and framed by parliament, after Interior Minister Mohsin Naqvi floated the idea. The PPP opposes any division of Sindh, while the PML-N has not set out a formal position.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2044647/parliaments-nod-deemed-a-must-for-referendum"
+        }
+      ],
+      "timestamp": "Nov 15, 8:26 AM",
+      "publishedAt": "2026-11-15T08:26:39+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct near-term effect on jobs, prices or business."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "An open dispute over carving out new provinces, with a coalition partner opposed, points to institutional friction."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited relevance to investors at this stage."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Gives space to differing positions (PPP, Khawaja Asif, PML-N) without favouring a side."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Meeting details rest on anonymous sources and the official PMO statement did not mention the topic."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "US flight chaos caused by repair of old copper wiring: Trump admin",
+      "summary": "AI summary: A four-hour nationwide ground stop disrupted US air travel on Friday, with thousands of flights cancelled; Transportation Secretary Sean Duffy blamed contractor error or faulty equipment during work replacing copper communication lines with fibre. The FAA apologised and expected schedules to normalise by Sunday, while Democratic governors criticised the administration.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2044632/us-flight-chaos-caused-by-repair-of-old-copper-wiring-trump-admin"
+        }
+      ],
+      "timestamp": "Nov 15, 7:52 AM",
+      "publishedAt": "2026-11-15T07:52:31+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Mass cancellations impose costs on airlines, travellers and businesses."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A foreign infrastructure failure with no bearing on Pakistan's governance stability."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Thousands of travellers stranded or delayed."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Relevant to airline and travel-sector investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the administration's explanation alongside critics' responses."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; specific figures attributed to named officials and FlightAware."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Sales tax gets new enforcement structure to cut collection gap",
+      "summary": "AI summary: The government is undoing the 2009 merger of sales tax and income tax functions in the Inland Revenue Service, creating a dedicated sales tax and federal excise wing with separate zones starting at Large Taxpayer Offices on December 1. Officials told Dawn sales tax makes up about Rs3.4 trillion of a Rs6.2 trillion revenue gap, and separation is meant to sharpen accountability.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2044613/sales-tax-gets-new-enforcement-structure-to-cut-collection-gap"
+        }
+      ],
+      "timestamp": "Nov 15, 7:37 AM",
+      "publishedAt": "2026-11-15T07:37:31+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "Better sales tax collection could ease fiscal pressure, though businesses may face tighter enforcement."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "An administrative restructuring inside the FBR, not a governance shock."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life in the short term."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Tax enforcement changes matter directly to businesses and investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Explains the rationale factually without political framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single outlet relying on unnamed senior tax officials and internal FBR estimates."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Pakistan guidebooks author dies at 83",
+      "summary": "AI summary: Irish-born travel writer Isobel Shaw, who co-wrote one of the first modern guidebooks to Pakistan in 1981 and later the Pakistan Handbook and northern trekking guides, died at her home in Switzerland aged 83. She first came to Pakistan in 1978 and later advised the government on tourism in the 1990s.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2044598/pakistan-guidebooks-author-dies-at-83"
+        }
+      ],
+      "timestamp": "Nov 15, 7:36 AM",
+      "publishedAt": "2026-11-15T07:36:59+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "No governance effect."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "An obituary with no bearing on public wellbeing."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not relevant to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straightforward obituary."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; biographical facts are specific and uncontroversial."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Air Chief holds key defence meetings during Uzbekistan visit",
+      "summary": "AI summary: During an official visit to Uzbekistan, Air Chief Marshal Zaheer Ahmed Baber Sidhu held talks with the country's defence minister and deputy defence minister. The discussions covered regional security, joint exercises, professional exchanges and cooperation in emerging technologies.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40448996/air-chief-holds-key-defence-meetings-during-uzbekistan-visit"
+        }
+      ],
+      "timestamp": "Nov 15, 2:35 AM",
+      "publishedAt": "2026-11-15T02:35:33+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct effect on jobs or prices."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine defence diplomacy with no domestic governance impact."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little relevance to investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual readout of a bilateral visit."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on the RSS excerpt only, which reflects an official account."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Punjab approves Rs23.85bn for rural development programme",
+      "summary": "AI summary: The Punjab government has sanctioned Rs23.85 billion for its Khushhal Dehat village infrastructure programme, allotting Rs50 million per village across 475 villages in the first phase, overseen by a mixed government and private committee. Planning for a second phase covering 2,000 villages has also been sought.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40448997/punjab-approves-rs2385bn-for-rural-development-programme"
+        }
+      ],
+      "timestamp": "Nov 15, 2:35 AM",
+      "publishedAt": "2026-11-15T02:35:33+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "Public spending on village infrastructure can support local construction work and jobs."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine provincial development approval."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Improved village infrastructure may benefit rural residents if delivered."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Relevant to construction and materials suppliers."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the government decision factually; no rival claims involved."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on the RSS excerpt only; implementation is still ahead."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Railways revenue exceeds Rs100bn for first time in history: Abbasi",
+      "summary": "AI summary: Railways Minister Hanif Abbasi said Pakistan Railways has crossed Rs100 billion in revenue for the first time and is targeting Rs160 billion this fiscal year. He discussed digitalisation and operational reforms with Parliamentary Affairs Minister Tariq Fazal Chaudhry.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40448998/railways-revenue-exceeds-rs100bn-for-first-time-in-history-abbasi"
+        }
+      ],
+      "timestamp": "Nov 15, 2:35 AM",
+      "publishedAt": "2026-11-15T02:35:33+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "Higher railway revenue, if accurate, suggests stronger activity and less fiscal drain from a state enterprise."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A ministerial performance claim with no governance shock."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life reported."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Relevant to logistics and state-enterprise watchers."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "A minister's claim reported as attributed; no independent check in the excerpt but no partisan framing either."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on the RSS excerpt only; the revenue figure is the minister's own claim."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Terrorism must be eliminated to achieve economic growth: PA Speaker",
+      "summary": "AI summary: Speaking at the 10th Pakistan Industrial Exhibition in Lahore, which features 156 Chinese and Pakistani firms and runs until November 16, Punjab Assembly Speaker Malik Ahmad Khan said ending terrorism is a precondition for growth. He also touched on AI, smog, democratic governance and ties with India.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40448999/terrorism-must-be-eliminated-to-achieve-economic-growth-pa-speaker"
+        }
+      ],
+      "timestamp": "Nov 15, 2:35 AM",
+      "publishedAt": "2026-11-15T02:35:33+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Speech-based; the exhibition itself is a modest business event."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Opinion remarks with no governance change."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports a speech without partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on the RSS excerpt only."
+        }
+      }
+    }
+  ]
+}
