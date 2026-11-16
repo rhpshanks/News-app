@@ -1,0 +1,325 @@
+{
+  "generatedAt": "2026-11-16T09:11:37+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "World Bank 'satisfied' with $370m National Health Support Programme",
+      "summary": "AI summary: The World Bank has rated progress on its $370 million health programme across Punjab, Sindh and Khyber Pakhtunkhwa as satisfactory with moderate risk, with about three quarters of funds disbursed and targets expected before the December 2027 close, though contraceptive uptake remains low. Separately, a government statement carried by APP put July to October goods exports at a record $11.4 billion, up 8.8 percent.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2044800/world-bank-satisfied-with-370m-national-health-support-programme"
+        }
+      ],
+      "timestamp": "Nov 16, 8:15 AM",
+      "publishedAt": "2026-11-16T08:15:28+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "Continued donor disbursement and a reported rise in exports point to steadier external inflows."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A routine lender review with no bearing on institutional stability."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Better health facility readiness supports public wellbeing, though family planning gaps persist."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Export figures and multilateral programme performance are relevant to investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "The health section repeats the World Bank's own disclosure and the export claim is clearly attributed to a government statement."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on the full article, but both parts rely on self-reported institutional figures without independent checks."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Water demand outstrips supply in Punjab: UN agency",
+      "summary": "AI summary: An FAO water and land accounting study finds Punjab's demand for water already exceeds supply across all sectors, with aquifers losing roughly 5.5 billion cubic metres a year and an extra 10 billion cubic metres needed annually to close the gap. The agency recommends a one time review commission, a planning coordination cell and measures such as groundwater recharge.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2044799/water-demand-outstrips-supply-in-punjab-un-agency"
+        }
+      ],
+      "timestamp": "Nov 16, 7:24 AM",
+      "publishedAt": "2026-11-16T07:24:42+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Chronic water shortfall threatens agricultural output and the livelihoods tied to it."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A technical report with no immediate governance dispute attached."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Falling groundwater and shrinking wetlands are a long term risk to daily water access."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Relevant to agribusiness and long term investment planning in Punjab."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Technical tone drawing on the FAO report and former officials, with no partisan framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; figures attributed to a named UN agency report."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Punjab sugar millers snub order to begin crushing from weekend",
+      "summary": "AI summary: Only one Punjab sugar mill began crushing cane by the provincial government's November 15 deadline, according to the mill owners' association, while growers say the directive has failed. Farmers are demanding an immediate support price and prime ministerial intervention, as officials say prices will be set by a market mechanism under provincial monitoring.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2044804/punjab-sugar-millers-snub-order-to-begin-crushing-from-weekend"
+        }
+      ],
+      "timestamp": "Nov 16, 7:14 AM",
+      "publishedAt": "2026-11-16T07:14:10+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Delayed crushing hurts growers' cash flow and adds uncertainty to sugar supply and prices."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Mills openly ignoring a government directive signals weak enforcement of provincial orders."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Farmers face losses from delays and higher fertiliser costs."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Directly relevant to the sugar sector, commodity prices and agribusiness."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Gives roughly equal space to farmers' complaints and the government's stated position."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read with clearly attributed sources on each side."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "CDA finalises revised PC-I for Islamabad cricket stadium at Rs16.7bn",
+      "summary": "AI summary: The Capital Development Authority has raised its cost estimate for a new Islamabad cricket stadium to Rs16.7 billion from an earlier unapproved Rs11.9 billion, citing added components and a seating increase to 35,000, according to a CDA officer. The plan still awaits development working party approval, with groundbreaking delayed and questions over building in a restricted zone near the Margalla Hills.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2044760/cda-finalises-revised-pc-i-for-islamabad-cricket-stadium-at-rs167bn"
+        }
+      ],
+      "timestamp": "Nov 16, 7:11 AM",
+      "publishedAt": "2026-11-16T07:11:50+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A sizeable public construction project, but cost overruns offset the job and activity gains."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Administrative cost revision; delays are noted but not a stability issue."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "A future sports venue with an environmental zoning question, no immediate effect on daily life."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Relevant to construction contractors and public spending decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Neutral reporting that notes missed official promises without partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but most claims come from unnamed CDA officials."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Araghchi arrives in Islamabad",
+      "summary": "AI summary: Iran's Foreign Minister Abbas Araghchi reached Islamabad on Sunday with a political and economic delegation for the 30th ECO foreign ministers' meeting, which Pakistan is hosting over two days. He is due to address the meeting, meet counterparts and hold bilateral talks with Pakistani officials before travelling on to Muscat.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40449080/araghchi-arrives-in-islamabad"
+        }
+      ],
+      "timestamp": "Nov 16, 4:18 AM",
+      "publishedAt": "2026-11-16T04:18:15+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Regional trade talks may follow, but no concrete economic measures were announced."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "Hosting a regional ministerial meeting supports diplomatic engagement."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited immediate relevance to investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straight factual arrival report."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; routine, verifiable diplomatic event."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Bilawal slams 'govt actions' against JUI-F",
+      "summary": "AI summary: PPP chairman Bilawal Bhutto-Zardari called JUI-F chief Maulana Fazlur Rehman on Sunday and condemned what a PPP statement called political vengeance by the government against his party, amid a month of rising tension between Fazlur Rehman and the PML-N led federal government. Bilawal urged the government to tolerate opposition criticism and avoid steps that weaken Parliament.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40449082/bilawal-slams-govt-actions-against-jui-f"
+        }
+      ],
+      "timestamp": "Nov 16, 4:18 AM",
+      "publishedAt": "2026-11-16T04:18:15+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct effect on jobs, prices or business."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Allegations of government action against an opposition party point to rising political friction."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Political rhetoric with little direct market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Relays a PPP statement without a government response, but attributes the claims rather than endorsing them."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but the actions themselves are unspecified and only one side is heard."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "21st Undergraduate Degree Show of SABS University concludes",
+      "summary": "AI summary: SABS University in Jamshoro closed its six day 21st undergraduate degree show with a ceremony led by Sindh Food Minister Makhdoom Mehboob Zaman, who praised the students' work and opened a new design building. The university's vice-chancellor, whose term has been extended by four years, outlined its services to other institutions.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40449099/21st-undergraduate-degree-show-of-sabs-university-concludes"
+        }
+      ],
+      "timestamp": "Nov 16, 4:18 AM",
+      "publishedAt": "2026-11-16T04:18:15+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Minor local event with negligible economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine ceremonial appearance by a provincial minister."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "New education infrastructure and recognition for students benefit the local community."
+        },
+        "market": {
+          "value": "low",
+          "reason": "No investor relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Event report without partisan framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; simple, verifiable event."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "CJP terms selected judicial officers Pakistan's ambassadors",
+      "summary": "AI summary: Chief Justice Yahya Khan Afridi briefed 25 high performing judicial officers from across Pakistan before a training exchange in China, run by China's National Judges College from November 18 to December 1 with court visits in Beijing and Quanzhou. The programme falls under a cooperation agreement between the two countries' supreme courts aimed at building district judiciary capacity.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40449102/cjp-terms-selected-judicial-officers-pakistans-ambassadors"
+        }
+      ],
+      "timestamp": "Nov 16, 4:18 AM",
+      "publishedAt": "2026-11-16T04:18:15+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic effect."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "Judicial capacity building supports institutional strength."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Possible long term gains in justice delivery, no immediate effect."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little relevance to investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Institutional news report without partisan framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; clearly sourced institutional programme."
+        }
+      }
+    }
+  ]
+}
