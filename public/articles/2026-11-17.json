@@ -1,0 +1,289 @@
+{
+  "generatedAt": "2026-11-17T18:04:23+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "CDF Munir discusses avenues for enhancing bilateral defence cooperation with UK army, Turkish air chiefs",
+      "summary": "AI summary: According to the ISPR, Field Marshal Asim Munir held separate meetings at GHQ Rawalpindi with the UK's Chief of General Staff and the Turkish Air Force commander, covering ways to expand defence cooperation and regional security.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2045178/cdf-munir-discusses-avenues-for-enhancing-bilateral-defence-cooperation-with-uk-army-turkish-air-chiefs"
+        }
+      ],
+      "timestamp": "Nov 17, 5:46 PM",
+      "publishedAt": "2026-11-17T17:46:32+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Routine military diplomacy with no stated economic or procurement deal."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Courtesy-level defence meetings, as described by ISPR, do not alter domestic governance."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on public wellbeing or daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little relevance to investors absent any announced contracts."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straight relay of an ISPR statement, attributed as such, without added commentary."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; claims clearly attributed to the official ISPR statement."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "In hard-hitting speech, Bilawal says system was 'made to collapse'",
+      "summary": "AI summary: Speaking at the Karachi Press Club, PPP chairman Bilawal Bhutto Zardari argued the governance system was deliberately made to fail and called for a political reset starting in Parliament, including talks with PTI, release of political prisoners and an end to governor's rule in Khyber Pakhtunkhwa. He also defended Fazlur Rehman's right to criticise the government and accused authorities of using NAB against opponents, while flagging inflation and power bills as neglected issues.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40449364/bilawal-calls-for-political-reset-says-systems-failure-must-be-debated"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2045176/in-hard-hitting-speech-bilawal-says-system-was-made-to-collapse"
+        }
+      ],
+      "timestamp": "Nov 17, 5:42 PM",
+      "publishedAt": "2026-11-17T17:42:20+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Mentions inflation and power bills but announces no policy change."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "A senior political leader publicly says the system was made to collapse and institutions have lost legitimacy, signalling friction over governance."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Rhetorical demands with no immediate effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Political commentary with limited direct bearing on business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Both outlets report the speech without a government response, but PPP's exact government/opposition position is not certain enough to assign a side; defaulted to balanced."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Two outlets agree on the substance, but the coverage is one-sided and party alignment is uncertain."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Autopsy reveals multiple injuries on teenage domestic worker found dead at FIA official's residence in Islamabad",
+      "summary": "AI summary: A post-mortem on 13-year-old domestic worker Fatima Asghar, who died at a senior FIA official's Islamabad home, recorded 20 pre-death injuries and linked her death to repeated assaults. Police have arrested the official's wife and a household employee under a murder FIR, and the First Lady has called for an impartial probe and enforcement of the capital's ban on child domestic labour.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2045177/autopsy-reveals-multiple-injuries-on-teenage-domestic-worker-found-dead-at-fia-officials-residence-in-islamabad"
+        }
+      ],
+      "timestamp": "Nov 17, 4:57 PM",
+      "publishedAt": "2026-11-17T16:57:22+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No material economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Arrests and an FIR show the legal process moving; no institutional disruption reported."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Death of a child worker after alleged abuse highlights serious child-labour and safety failures."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not relevant to markets or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual report of autopsy findings, police action and official reaction."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; details sourced to the autopsy report and police FIR."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Drought risk feared in four Sindh districts as NDMA issues high alert",
+      "summary": "AI summary: The NDMA's emergency operations centre has warned of a high risk of severe drought in parts of Umerkot, Tharparkar, Mirpurkhas and Sujawal, with areas of Chagai and Washuk in Balochistan already affected. Below-normal rain and temperatures 1 to 3 degrees above normal are cutting water supplies and crop output, and authorities have told departments to protect farming communities and livestock.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40449357/drought-risk-feared-in-four-sindh-districts-as-ndma-issues-high-alert"
+        }
+      ],
+      "timestamp": "Nov 17, 4:25 PM",
+      "publishedAt": "2026-11-17T16:25:27+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Water shortages are already hurting crop production in affected districts."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine disaster-management alert; no governance disruption."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Raises food insecurity and livelihood risks for rural communities."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Relevant to agriculture, food prices and related businesses."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Relays an official NDMA alert without political framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; details attributed to the NDMA's NEOC."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Saudi's Delta Energy to explore $30 billion energy investment in Pakistan",
+      "summary": "AI summary: Delta Energy Saudi and Inter State Gas Systems have signed a framework deal to study roughly $30 billion of energy infrastructure, including a gas pipeline from the western border toward Gwadar, LNG and storage facilities, and a proposed line toward the Indian border, with Afghan gas named as a possible supply. The agreement is exploratory and is not a final investment or financing commitment.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40449353/saudis-delta-energy-to-explore-30-billion-energy-investment-in-pakistan"
+        }
+      ],
+      "timestamp": "Nov 17, 3:40 PM",
+      "publishedAt": "2026-11-17T15:40:48+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "Signals potential large-scale foreign investment in energy infrastructure, though only at framework stage."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Commercial framework agreement; cross-border pipeline routes remain speculative."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No near-term effect on daily life."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Directly relevant to energy-sector investors and gas infrastructure plans."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the company statement and notes it is not a final investment decision."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but the deal is non-binding and single-source."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "ECO explained: Its history, 10 members and Pakistan's role",
+      "summary": "AI summary: This explainer outlines the 10-member Economic Cooperation Organization, founded in 1985 and based in Tehran, as Pakistan takes up the chair of its Council of Ministers for 2026-27 after hosting the 30th meeting in Islamabad. It notes intra-regional trade remains under 8% of the bloc's total and lists Pakistan's connectivity and trade priorities alongside barriers like tariffs and weak transport links.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40449349/eco-explained-its-history-10-members-and-pakistans-role"
+        }
+      ],
+      "timestamp": "Nov 17, 2:41 PM",
+      "publishedAt": "2026-11-17T14:41:57+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Background piece; no new trade measures announced."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Chairmanship is a diplomatic role with no domestic governance effect."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on public wellbeing."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Of some interest to traders and logistics firms tracking regional connectivity."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Explainer cites officials' goals but also lists structural challenges."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; mainly established historical and institutional facts."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Asian Development Bank approves $500m loan to support Pakistan's federal pension reforms",
+      "summary": "AI summary: The ADB has approved a $500 million results-based loan backing the first phase of Pakistan's federal pension reform, including the move to a defined-contribution scheme for civil servants hired from July 2024. With pension spending now above Rs1 trillion a year, the bank says the changes aim to ease fiscal pressure and free funds for development and social spending.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2045164/asian-development-bank-approves-500m-loan-to-support-pakistans-federal-pension-reforms"
+        }
+      ],
+      "timestamp": "Nov 17, 2:24 PM",
+      "publishedAt": "2026-11-17T14:24:29+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "External financing plus reforms meant to curb a fast-growing pension bill."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Continuation of an existing reform plan; no institutional disruption."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Affects future civil servants' retirement terms gradually rather than immediately."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Relevant to fiscal outlook, sovereign risk and pension fund managers."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Relays ADB's statement and figures without partisan framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; figures attributed to the ADB."
+        }
+      }
+    }
+  ]
+}
