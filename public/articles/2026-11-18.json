@@ -1,0 +1,325 @@
+{
+  "generatedAt": "2026-11-18T16:54:11+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "PM Shehbaz, PML-N supremo Nawaz discuss AJK's development, reconstruction at Muzaffarabad huddle",
+      "summary": "AI summary: PML-N leaders including the prime minister and Nawaz Sharif met Azad Kashmir's president and premier in Muzaffarabad to review development work and campaign pledges, and the prime minister opened a rebuilt bridge in Mirpur. Nawaz handed the AJK government a 100-day reform list covering health, schooling, sanitation and roads.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2045412/pm-shehbaz-pml-n-supremo-nawaz-discuss-ajks-development-reconstruction-at-muzaffarabad-huddle"
+        }
+      ],
+      "timestamp": "Nov 18, 4:47 PM",
+      "publishedAt": "2026-11-18T16:47:44+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "Rebuilt bridge and pledged development spending should help local transport and trade."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine ruling-party review meeting with the regional government it now leads."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Reform agenda targets health, education, sanitation and road access, including remote areas."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Regional development news with limited direct market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straight account of the meeting and bridge opening; benefits are attributed to officials."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; event details are concrete and on the record."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "'He who claims equity must come with clean hands': Asif hits back at Bilawal",
+      "summary": "AI summary: Defence Minister Khawaja Asif answered Bilawal Bhutto-Zardari's speech on new provinces and the treatment of the opposition by questioning the PPP's record in Sindh and its long role as a coalition partner, while backing a referendum on new provinces. Other federal ministers added similar criticism; the report carries no PPP reply.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2045397/he-who-claims-equity-must-come-with-clean-hands-asif-hits-back-at-bilawal"
+        }
+      ],
+      "timestamp": "Nov 18, 4:08 PM",
+      "publishedAt": "2026-11-18T16:08:13+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "War of words with no direct economic measure attached."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Public sparring between ruling-coalition partners over provinces and constitutional change signals coalition strain."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Political rhetoric; markets may note coalition friction but no policy change."
+        },
+        "lean": {
+          "value": "pro-government",
+          "reason": "Piece is built around several government ministers' criticism with no PPP response included."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but the lean call rests on a framing judgement of a one-sided statement story."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "£190m corruption case: IHC directs proper medical care, hygienic living conditions for Bushra Bibi as per prison rules",
+      "summary": "AI summary: The Islamabad High Court told prison authorities to give Bushra Bibi specialist medical attention and clean living conditions under jail rules after her lawyer cited eye-surgery complications and reports of snakes in her cell. The court then put off the appeals of her and Imran Khan in the £190 million case by a week to let the defence prepare.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2045411/ps190m-corruption-case-ihc-directs-proper-medical-care-hygienic-living-conditions-for-bushra-bibi-as-per-prison-rules"
+        }
+      ],
+      "timestamp": "Nov 18, 4:05 PM",
+      "publishedAt": "2026-11-18T16:05:24+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Court proceeding with no economic dimension."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Procedural order and adjournment; appeals continue through normal judicial channels."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Concerns a single detainee's conditions; the court ordered remedies under existing rules."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little relevance to business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports defence claims and the court's response without taking sides."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; court orders are on the record."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Indian Air Force's Rafale fleet down to 32, aviation publication says, backing Pakistan's claim of downing four jets",
+      "summary": "AI summary: An annual air-forces directory from Flight International estimates India's Rafale count at 32, four fewer than before the May 2025 conflict, which the report reads as support for Pakistan's claim of downing Rafales. The directory does not state why the number fell, and India has admitted only unspecified losses while rejecting larger tallies.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2045399/indian-air-forces-rafale-fleet-down-to-32-aviation-publication-says-backing-pakistans-claim-of-downing-four-jets"
+        }
+      ],
+      "timestamp": "Nov 18, 2:53 PM",
+      "publishedAt": "2026-11-18T14:53:06+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Retrospective defence estimate with no direct economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Concerns an external conflict narrative rather than domestic governance."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No new security incident; revisits a past conflict."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited market relevance, possibly of interest to defence-sector observers."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Includes India's position and notes the directory gives no cause for the drop."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but the figure is a third-party estimate and the link to combat losses is inferred."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "CDF, Araghchi discuss regional peace, security",
+      "summary": "AI summary: According to ISPR, Field Marshal Asim Munir met Iranian Foreign Minister Abbas Araghchi in Rawalpindi, where both sides called for steady engagement and closer coordination on shared security concerns. ISPR said Araghchi praised Pakistan's regional role and voiced Tehran's interest in deeper ties.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40449470/cdf-araghchi-discuss-regional-peace-security"
+        }
+      ],
+      "timestamp": "Nov 18, 7:25 AM",
+      "publishedAt": "2026-11-18T07:25:34+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Security-focused talks with no economic announcements."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine diplomatic and military engagement."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on public daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Diplomatic meeting with little market impact."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Relays the ISPR statement without editorial slant."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single-source account based entirely on an ISPR press statement."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "CDF, UK CGS discuss defence cooperation",
+      "summary": "AI summary: ISPR said Field Marshal Asim Munir and British Army chief General Sir Charles Walker met at GHQ and agreed to expand defence and military-to-military cooperation. Per the statement, Walker commended the Pakistani forces' professionalism and readiness.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40449487/cdf-uk-cgs-discuss-defence-cooperation"
+        }
+      ],
+      "timestamp": "Nov 18, 7:09 AM",
+      "publishedAt": "2026-11-18T07:09:56+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Defence talks with no economic component announced."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine bilateral military engagement."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on public daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little relevance to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Relays the ISPR statement without editorial slant."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single-source account based entirely on an ISPR press statement."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Creation of new provinces: Tarar calls for referendum to determine public opinion",
+      "summary": "AI summary: Information Minister Attaullah Tarar, responding to Bilawal Bhutto Zardari, proposed a referendum on forming new provinces and said all four provinces must be consulted first. He also accused the PPP of enjoying government benefits while behaving like the opposition.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40449460/creation-of-new-provinces-tarar-calls-for-referendum-to-determine-public-opinion"
+        }
+      ],
+      "timestamp": "Nov 18, 5:27 AM",
+      "publishedAt": "2026-11-18T05:27:32+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Political proposal with no immediate economic effect."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Open dispute between coalition partners over provincial restructuring adds to governance friction."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate effect on daily life; any change would be long-term."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Rhetorical exchange; no concrete policy step yet."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straight report of the minister's statement, clearly attributed."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but it covers one side's statement only."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "CDF, Commander of Turkish air force discuss regional security dynamics",
+      "summary": "AI summary: ISPR said Field Marshal Asim Munir hosted Turkish Air Force Commander General Rafet Dalkiran at GHQ to discuss strengthening defence ties. According to the statement, Dalkiran reaffirmed Turkiye's commitment to closer military links.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40449450/cdf-commander-of-turkish-air-force-discuss-regional-security-dynamics"
+        }
+      ],
+      "timestamp": "Nov 18, 5:27 AM",
+      "publishedAt": "2026-11-18T05:27:32+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Defence talks with no economic component announced."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine bilateral military engagement."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on public daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little relevance to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Relays the ISPR statement without editorial slant."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single-source account based entirely on an ISPR press statement."
+        }
+      }
+    }
+  ]
+}
