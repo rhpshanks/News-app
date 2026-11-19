@@ -1,0 +1,233 @@
+{
+  "generatedAt": "2026-11-19T10:58:00+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Anthropic to begin trading after record-breaking market debut tops SpaceX record",
+      "summary": "AI summary: AI company Anthropic set its IPO price at $83 per share, above expectations, raising about $79.4bn at a roughly $1.5tn valuation and surpassing the record SpaceX set in June; shares start trading on Nasdaq under the ticker ANT. The report notes strong revenue growth alongside criticism from a US senator and the filing's own warnings about AI risk.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2045642/anthropic-to-begin-trading-after-record-breaking-market-debut-tops-spacex-record" }
+      ],
+      "timestamp": "Nov 19, 10:46 AM",
+      "publishedAt": "2026-11-19T10:46:32+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A major US tech listing with no direct effect on Pakistani jobs or prices." },
+        "political": { "value": "neutral", "reason": "No bearing on Pakistan's institutional or governance stability." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily life in Pakistan." },
+        "market": { "value": "high", "reason": "A record-size IPO is highly relevant to global investors and tech-sector sentiment." },
+        "lean": { "value": "balanced", "reason": "Wire report that includes both analyst praise and criticism and risk warnings." },
+        "confidence": { "value": "high", "reason": "Full article read; concrete figures attributed to AFP and the filing." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Trump holds talks with 'friend' Putin ahead of trilateral moot with Xi",
+      "summary": "AI summary: US President Trump began a bilateral meeting with Russia's Putin in Shenzhen ahead of a short three-way session with China's Xi at the APEC forum, with the three capitals giving differing accounts of the agenda. The talks come amid a US war with Iran that has raised oil prices, the expired US-Russia arms treaty, and criticism from US Democrats.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2045630/trump-holds-talks-with-friend-putin-ahead-of-trilateral-moot-with-xi" }
+      ],
+      "timestamp": "Nov 19, 10:35 AM",
+      "publishedAt": "2026-11-19T10:35:50+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Outcome unknown; could matter for oil prices but no concrete economic decision reported yet." },
+        "political": { "value": "neutral", "reason": "A great-power summit abroad with no direct effect on Pakistan's governance." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily life in Pakistan." },
+        "market": { "value": "medium", "reason": "Talks touching on the Iran war and arms control could move oil and risk sentiment." },
+        "lean": { "value": "balanced", "reason": "Reports all three sides' agenda claims and includes domestic US criticism." },
+        "confidence": { "value": "high", "reason": "Full article read; statements attributed to the Kremlin, AFP and named officials." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "CDF Munir visits Turbat, hails troops' professionalism, preparedness amid challenging conditions",
+      "summary": "AI summary: According to ISPR, Field Marshal Asim Munir visited Turbat in Balochistan, was briefed on the security situation and ongoing counter-terrorism operations, and praised troop readiness. The report places the visit after a November 14 attack that ISPR said killed two soldiers, and cites a CRSS finding that KP and Balochistan account for most violence-related deaths.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/691734-cdf-munir-visits-turbat-hails-troops-professionalism-preparedness-amid-challenging-conditions" }
+      ],
+      "timestamp": "Nov 19, 9:57 AM",
+      "publishedAt": "2026-11-19T09:57:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A command visit with no economic measure announced." },
+        "political": { "value": "neutral", "reason": "Routine military visit; does not by itself change governance stability." },
+        "social": { "value": "negative", "reason": "The context of ongoing militant attacks and fatalities in Balochistan reflects continuing insecurity for residents." },
+        "market": { "value": "low", "reason": "Little direct relevance to investors." },
+        "lean": { "value": "balanced", "reason": "Largely ISPR-sourced, but attributed as such and supplemented with independent CRSS data; not partisan framing." },
+        "confidence": { "value": "medium", "reason": "Full article read, but the core claims rest on a single official source (ISPR)." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Suparco warns of worsening smog across Punjab",
+      "summary": "AI summary: Suparco expects Punjab's smog to get worse over the next three days, pointing to hundreds of satellite-detected crop fires and very poor dispersion, with seven districts rated high or severe. Lahore led a global city pollution ranking and Faisalabad recorded the country's highest AQI, while authorities stepped up anti-stubble-burning and anti-smog measures.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2045563/suparco-warns-of-worsening-smog-across-punjab" }
+      ],
+      "timestamp": "Nov 19, 7:44 AM",
+      "publishedAt": "2026-11-19T07:44:08+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "negative", "reason": "Severe smog typically disrupts transport, schooling and outdoor business activity." },
+        "political": { "value": "neutral", "reason": "An environmental warning with routine administrative response." },
+        "social": { "value": "negative", "reason": "Hazardous air quality in major cities poses a direct public health risk." },
+        "market": { "value": "low", "reason": "Limited direct relevance to investment decisions." },
+        "lean": { "value": "balanced", "reason": "Data-driven report citing Suparco, IQAir and PMD without partisan framing." },
+        "confidence": { "value": "high", "reason": "Full article read; specific figures attributed to named agencies." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Pakistan tells UN India cannot hold its 240m people hostage by weaponising shared waters",
+      "summary": "AI summary: At a UN Security Council Arria-formula meeting, Pakistan's deputy envoy Usman Jadoon accused India of using water as a weapon by holding the Indus Waters Treaty in abeyance, saying it threatens the livelihoods of over 240 million people. He cited an August 2026 arbitration award he said confirms the treaty is still binding, and called for peaceful settlement under the UN Charter.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/691728-pakistan-tells-un-india-cannot-hold-240-million-people-hostage-through-water" }
+      ],
+      "timestamp": "Nov 19, 7:17 AM",
+      "publishedAt": "2026-11-19T07:17:57+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A diplomatic statement; no change yet to water flows or agriculture is reported." },
+        "political": { "value": "neutral", "reason": "Continuation of an existing bilateral dispute at a diplomatic forum, not a new domestic shock." },
+        "social": { "value": "neutral", "reason": "Highlights a long-term water security concern but reports no immediate change for citizens." },
+        "market": { "value": "low", "reason": "Limited immediate relevance to markets." },
+        "lean": { "value": "balanced", "reason": "Presents Pakistan's official position at the UN; includes background on India's stated reasons and Pakistan's denial." },
+        "confidence": { "value": "medium", "reason": "Full article read, but it relays one side's statement in an ongoing dispute." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "PTI's legal eagles 'shake and make up'",
+      "summary": "AI summary: PTI leaders Salman Akram Raja and Latif Khosa publicly denied a rift outside the Islamabad High Court, while the party sent a letter to Adiala jail warning against breaching Supreme Court orders on Imran Khan's medical care. Separately, the IHC ordered proper medical care for Bushra Bibi and adjourned the Al-Qadir Trust appeals by a week.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2045549/ptis-legal-eagles-shake-and-make-up" }
+      ],
+      "timestamp": "Nov 19, 6:53 AM",
+      "publishedAt": "2026-11-19T06:53:58+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No economic dimension reported." },
+        "political": { "value": "negative", "reason": "Continuing friction between the main opposition party and jail authorities over court orders and pending appeals signals ongoing institutional tension." },
+        "social": { "value": "neutral", "reason": "Limited direct effect on daily life." },
+        "market": { "value": "low", "reason": "Little direct relevance to investors." },
+        "lean": { "value": "balanced", "reason": "Relies mainly on PTI voices with no jail or government response, but reports claims as attributed rather than endorsing them." },
+        "confidence": { "value": "medium", "reason": "Full article read; key claims (e.g. the PIMS transfer) come from one party's account." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "183 Pakistani peacekeepers laid down their lives in 48 UN missions, Asif tells EU forum",
+      "summary": "AI summary: Speaking at a security forum at the European Parliament, Defence Minister Khawaja Asif said 237,000 Pakistanis have served in 48 UN missions and 183 have died, and warned that abrupt peacekeeping cuts could raise risks in conflict zones. He urged realistic, well-funded mandates and offered Pakistan as a bridge for multilateral cooperation.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/691725-khawaja-asif-calls-for-stronger-global-cooperation-realistic-un-peacekeeping-mandates" }
+      ],
+      "timestamp": "Nov 19, 5:24 AM",
+      "publishedAt": "2026-11-19T05:24:13+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A policy speech with no economic measures." },
+        "political": { "value": "neutral", "reason": "Diplomatic outreach that does not affect domestic stability." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily life." },
+        "market": { "value": "low", "reason": "Little relevance to market decisions." },
+        "lean": { "value": "balanced", "reason": "Straight report of a minister's speech without evaluative framing." },
+        "confidence": { "value": "medium", "reason": "Full article read; figures come from the minister's own remarks." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "PM inaugurates Rathoa Haryam Bridge during AJK visit",
+      "summary": "AI summary: Prime Minister Shehbaz Sharif opened the new Rathoa Haryam Bridge during a visit to Azad Jammu and Kashmir, a link expected to ease movement and trade around Mirpur. He met AJK leaders on development pledges, and PML-N leaders offered condolences over the death of former AJK president Raja Zulqarnain Khan.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40449651/pm-inaugurates-rathoa-haryam-bridge-during-ajk-visit?v=wyZfIQUMJ-ZSa1J-2gxqHw2l" }
+      ],
+      "timestamp": "Nov 19, 4:55 AM",
+      "publishedAt": "2026-11-19T04:55:03+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "New infrastructure expected to improve transport and local commerce around Mirpur." },
+        "political": { "value": "neutral", "reason": "Routine official visit and development pledges." },
+        "social": { "value": "positive", "reason": "Easier travel for residents in the area served by the bridge." },
+        "market": { "value": "low", "reason": "Local infrastructure with limited market relevance." },
+        "lean": { "value": "balanced", "reason": "Event-style report of an official visit without notable partisan framing." },
+        "confidence": { "value": "medium", "reason": "Full article read; based on official account of the visit." }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "Families of 19 police martyrs: Punjab approves 'Shaheed Packages'",
+      "summary": "AI summary: The Punjab government sanctioned cash compensation and houses for the families of 19 police personnel killed on duty, under three Shaheed Packages with amounts set by rank and circumstance. The law minister who chaired the meeting directed officials to make payments promptly.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40449615/families-of-19-police-martyrs-punjab-approves-shaheed-packages?v=wyZfIQUMJ-ZSa1J-2gxqHw2l" }
+      ],
+      "timestamp": "Nov 19, 4:55 AM",
+      "publishedAt": "2026-11-19T04:55:03+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Targeted welfare payments with negligible wider economic effect." },
+        "political": { "value": "neutral", "reason": "Routine administrative decision." },
+        "social": { "value": "positive", "reason": "Provides financial and housing support to bereaved police families." },
+        "market": { "value": "low", "reason": "No market relevance." },
+        "lean": { "value": "balanced", "reason": "Factual report of an official decision." },
+        "confidence": { "value": "medium", "reason": "Full article read; single official source." }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "Law, order and police reforms in AJK: Maryam underscores need for paying special attention",
+      "summary": "AI summary: In Muzaffarabad, Punjab Chief Minister Maryam Nawaz discussed AJK's 100-day development plan, urging focus on policing reform and service monitoring, and proposing a complaint channel to the prime minister with replies within a day. She offered Punjab's IT training and project-tracking models to the AJK government.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40449617/law-order-and-police-reforms-in-ajk-maryam-underscores-need-for-paying-special-attention?v=wyZfIQUMJ-ZSa1J-2gxqHw2l" }
+      ],
+      "timestamp": "Nov 19, 4:55 AM",
+      "publishedAt": "2026-11-19T04:55:03+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Proposals and pledges; no funded measure announced." },
+        "political": { "value": "neutral", "reason": "Intergovernmental cooperation talk with no immediate institutional change." },
+        "social": { "value": "neutral", "reason": "Possible future service improvements, but nothing implemented yet." },
+        "market": { "value": "low", "reason": "No market relevance." },
+        "lean": { "value": "pro-government", "reason": "Relays the chief minister's claims about Punjab's programmes uncontested, with no independent or opposition perspective." },
+        "confidence": { "value": "medium", "reason": "Full article read; framing judgement is moderate, as the piece is a straightforward event report." }
+      }
+    },
+    {
+      "id": 11,
+      "headline": "Punjab to introduce panchayat system",
+      "summary": "AI summary: Maryam Nawaz gave initial approval for Punjab panchayat committees, appointed by deputy commissioners, to mediate local disputes at union council and village levels, with a negative list to keep sensitive matters out and court access preserved. Authorities were told to draft rules for a proposed Punjab Panchayat Act.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40449618/punjab-to-introduce-panchayat-system?v=wyZfIQUMJ-ZSa1J-2gxqHw2l" }
+      ],
+      "timestamp": "Nov 19, 4:55 AM",
+      "publishedAt": "2026-11-19T04:55:03+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Could lower dispute-resolution costs, but only approved in principle." },
+        "political": { "value": "neutral", "reason": "A proposed governance mechanism; not yet law." },
+        "social": { "value": "neutral", "reason": "Potential cheaper local justice is offset by concerns about informal forums; effect depends on implementation." },
+        "market": { "value": "low", "reason": "No market relevance." },
+        "lean": { "value": "balanced", "reason": "Describes the proposal and its safeguards factually." },
+        "confidence": { "value": "medium", "reason": "Full article read; single official source." }
+      }
+    },
+    {
+      "id": 12,
+      "headline": "Pakistan poised to become world's most populous Muslim-majority country by 2070",
+      "summary": "AI summary: A Pew Research Centre projection says Pakistan will overtake Indonesia as home to the largest Muslim population by 2070, roughly doubling to about 461 million, and that Muslims will outnumber Christians globally by 2035. Pew links this to higher fertility and younger populations, and cautions the figures assume current trends continue.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/691715-pakistan-projected-to-overtake-indonesia-as-home-to-worlds-largest-muslim-population-by-2070" }
+      ],
+      "timestamp": "Nov 19, 2:16 AM",
+      "publishedAt": "2026-11-19T02:16:23+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A long-range projection with no near-term economic effect; rapid growth carries both labour-force and resource implications." },
+        "political": { "value": "neutral", "reason": "No bearing on current governance." },
+        "social": { "value": "neutral", "reason": "Long-term demographic outlook, no immediate effect on daily life." },
+        "market": { "value": "low", "reason": "Of background interest only for long-horizon planning." },
+        "lean": { "value": "balanced", "reason": "Reports a research study's findings with its stated caveats." },
+        "confidence": { "value": "high", "reason": "Full article read; figures attributed to a named Pew study." }
+      }
+    }
+  ]
+}
