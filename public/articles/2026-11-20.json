@@ -1,0 +1,449 @@
+{
+  "generatedAt": "2026-11-20T10:15:36+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Pakistan, 14 other nations welcome UK, Australia sanctions on Israeli settlements",
+      "summary": "AI summary: Pakistan joined 14 other countries in a joint foreign ministers' statement backing new British and Australian sanctions on firms and individuals tied to Israeli settlement building in the occupied West Bank, and called on Israel to reverse its settlement measures and work toward a two-state outcome.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2045854/pakistan-14-other-nations-welcome-uk-australia-sanctions-on-israeli-settlements"
+        }
+      ],
+      "timestamp": "Nov 20, 10:08 AM",
+      "publishedAt": "2026-11-20T10:08:49+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A diplomatic statement with no direct bearing on domestic prices or jobs."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Reflects a long-standing foreign policy position with no effect on domestic governance."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life in Pakistan."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little relevance to Pakistani markets or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the joint statement and the sanctioning governments' reasons; no Israeli response is included, but domestic framing is not partisan."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; the joint statement and the sanctions are documented, on-record government actions."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Lahore once again ranks as world's most polluted major city as AQI crosses 400",
+      "summary": "AI summary: Thick smog pushed air quality in several Punjab cities into the hazardous range on Friday morning, with Gujranwala and Multan reading even worse than Lahore, while the provincial environment department pointed to its ongoing crackdown on polluting brick kilns and residents were urged to limit time outdoors.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2045870/lahore-once-again-ranks-as-worlds-most-polluted-major-city-as-aqi-crosses-400"
+        }
+      ],
+      "timestamp": "Nov 20, 10:05 AM",
+      "publishedAt": "2026-11-20T10:05:05+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Kiln closures and reduced outdoor activity carry some local cost, but no broad economic shift is reported."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine enforcement reporting with no effect on institutional stability."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Hazardous air puts children, the elderly and people with heart or lung conditions at direct health risk."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited relevance to investors beyond local operating disruption."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports monitoring data and the department's enforcement figures without taking sides."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; AQI readings and enforcement figures are specific and measurable."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Security withdrawn from Fazl, family members",
+      "summary": "AI summary: Police and Federal Constabulary guards protecting JUI-F chief Fazlur Rehman and relatives in Islamabad and Dera Ismail Khan were reportedly pulled back, a move the party called a siege but an Islamabad police official said involved only one guard; opposition figures demanded the protection be restored, while police separately booked two JUI-F leaders and some 200 workers over a November 7 road blockade.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2045802/security-withdrawn-from-fazl-family-members"
+        }
+      ],
+      "timestamp": "Nov 20, 7:46 AM",
+      "publishedAt": "2026-11-20T07:46:59+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic consequence reported."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Withdrawal of an opposition leader's security alongside anti-terrorism cases against party workers signals rising government-opposition friction."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Party leaders cite threats to their safety, and the cases and arrest warrant add to tension on the streets."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Minor relevance to markets unless the standoff escalates."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Gives both the party's account and the police official's narrower version; no official government statement was available."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but the scale of the withdrawal is disputed between party and police sources."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "FTO uncovers multimillion-rupee sales tax frauds",
+      "summary": "AI summary: The Federal Tax Ombudsman found fraudsters broke into a taxpayer's IRIS account to file fake sales tax returns that drained the victim's input credit, aided by loose company-registration checks, and directed the FBR and PRAL to open criminal proceedings and tighten registration rules and portal security within 60 days.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40449785/fto-uncovers-multimillion-rupee-sales-tax-frauds"
+        }
+      ],
+      "timestamp": "Nov 20, 5:18 AM",
+      "publishedAt": "2026-11-20T05:18:40+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Exposed weaknesses in the tax system let fraud erode legitimate businesses' credits and public revenue."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "An oversight body acting on a complaint shows institutional checks working, offsetting the governance lapse."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Limited direct effect on daily life beyond affected taxpayers."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Relevant to businesses relying on IRIS and to sales tax compliance risk."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "A factual account of the ombudsman's findings and directions."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but it is a single-source account of one ombudsman ruling."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Pakistan, Turkiye to sign MoU on judicial cooperation",
+      "summary": "AI summary: A delegation from Turkiye's Court of Cassation will visit Pakistan's Supreme Court from November 23 to 27 and sign an agreement on judicial cooperation covering judge training, exchanges and the use of technology in courts.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40449789/pakistan-turkiye-to-sign-mou-on-judicial-cooperation"
+        }
+      ],
+      "timestamp": "Nov 20, 5:18 AM",
+      "publishedAt": "2026-11-20T05:18:40+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic effect."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "Capacity-building for the judiciary, especially district courts, supports institutional strength."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Possible long-run benefit to access to justice, but no near-term change to daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little relevance to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "A straightforward announcement of a scheduled visit and agreement."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read; the signing is scheduled, not yet completed."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Date adjustment petition: ECP again summons Tarar",
+      "summary": "AI summary: The Election Commission has called Information Minister Atta Tarar back over his own request to move the December 1 hearing in a case examining whether he broke the code of conduct by visiting the NA-77 Gujranwala constituency a day before the by-election.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40449790/date-adjustment-petition-ecp-again-summons-tarar"
+        }
+      ],
+      "timestamp": "Nov 20, 5:18 AM",
+      "publishedAt": "2026-11-20T05:18:40+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "An election regulator pursuing a sitting minister shows oversight at work, though it adds minor friction with the government."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on public wellbeing."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not relevant to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the ECP's actions; Tarar's side is limited to his petition, as no further statement was reported."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read; single-source report of procedural steps in an ongoing case."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Silicon Valley elites 'bankrolled' news platform Visegrad24 publishing pro-Israel content: report",
+      "summary": "AI summary: Citing a Wired investigation that Dawn says it has not verified, the report says Polish platform Visegrad24 leaned into pro-Israel content to draw more than $1 million from wealthy tech-sector donors; its founder denied the claims through a lawyer, and named donors declined comment or disputed the characterisation.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2045708/silicon-valley-elites-bankrolled-news-platform-visegrad24-publishing-pro-israel-content-report"
+        }
+      ],
+      "timestamp": "Nov 20, 1:04 AM",
+      "publishedAt": "2026-11-20T01:04:03+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No bearing on Pakistan's economy."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A foreign media story with no effect on Pakistani governance."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life in Pakistan."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not relevant to Pakistani markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Not about Pakistan's government or opposition; includes the founder's denial and donors' responses."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but the core claims are second-hand from Wired and flagged as unverified."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "President, PM agree to settle all issues through dialogue amid new provinces debate",
+      "summary": "AI summary: President Zardari and Prime Minister Shehbaz Sharif met in Islamabad and pledged to resolve disputes through consultation, a meeting that came as PPP chairman Bilawal Bhutto-Zardari publicly warned against carving up Sindh into new provinces and federal ministers pushed back at his criticism.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/691815-president-pm-agree-to-settle-all-issues-through-dialogue-amid-new-provinces-debate"
+        }
+      ],
+      "timestamp": "Nov 19, 10:08 PM",
+      "publishedAt": "2026-11-19T22:08:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A pledge of dialogue eases tension, but the underlying new-provinces dispute between coalition partners remains open."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate effect, though Bilawal warned forced changes could bring unrest."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Some indirect relevance as a gauge of coalition stability."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Carries both Bilawal's objections and ministers' rebuttals alongside the presidency's statement."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; the meeting and quoted positions are on record."
+        }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "PM credits civil-military cooperation for economic stability",
+      "summary": "AI summary: Speaking to a US-Pakistan business gathering in Islamabad, Prime Minister Shehbaz Sharif credited close coordination with the military leadership for recent economic stabilisation, cautioned that the recovery remains fragile given heavy reliance on imported energy, and pressed for export-led growth, more private investment, wider US market access and a push toward electric vehicles.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/691791-pm-vows-to-put-pakistan-on-path-of-sustained-export-led-economic-growth"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40449847/pm-credits-civil-military-cooperation-for-economic-stability"
+        }
+      ],
+      "timestamp": "Nov 19, 8:40 PM",
+      "publishedAt": "2026-11-19T20:40:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Signals pro-export, pro-investment intent, but these are stated goals rather than new measures, and the PM himself called the recovery fragile."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Restates the existing civil-military alignment without new institutional changes."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate effect on daily life; the EV push and fuel relief are ongoing policies."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Directly relevant to investors: trade access, auto localisation, EV policy and tax concessions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Both outlets report the PM's speech largely in his own words; it is a straight speech report rather than slanted framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Two independent outlets report matching details of the same speech, both read in full."
+        }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "Zulfi Bukhari named along Mamdani and El-Sayed among new generation of global politicians",
+      "summary": "AI summary: London magazine The Luxurist included former PTI minister Zulfi Bukhari in a list of ten new-generation political figures alongside names such as Zohran Mamdani and Abdul El-Sayed, praising his international reach and communication style; the report notes he now campaigns abroad for Imran Khan and faces several cases at home.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/691802-zulfi-bukhari-named-along-mamdani-and-el-sayed-among-new-generation-of-global-politicians"
+        }
+      ],
+      "timestamp": "Nov 19, 7:56 PM",
+      "publishedAt": "2026-11-19T19:56:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A magazine listing has no bearing on governance."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Not relevant to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Relays the magazine's praise but also notes the cases he faces in Pakistan."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read; it relays a single lifestyle magazine's list."
+        }
+      }
+    },
+    {
+      "id": 11,
+      "headline": "Pakistan extends airspace closure for Indian aircraft by another month",
+      "summary": "AI summary: A new notice to airmen keeps Pakistani airspace shut to Indian-registered civil and military aircraft until December 24, 2026, prolonging restrictions first imposed in April 2025 after the Pahalgam attack, which India blamed on Pakistan and Pakistan denies.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/691785-pakistan-extends-airspace-closure-for-indian-aircraft-by-another-month"
+        }
+      ],
+      "timestamp": "Nov 19, 5:51 PM",
+      "publishedAt": "2026-11-19T17:51:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Continues an existing restriction; overflight losses are ongoing rather than new."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Status quo extension with no new escalation reported."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No change to daily life in Pakistan."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Relevant to aviation and regional trade watchers."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "States Pakistan's denial and India's accusation as each side's position."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; the extension is a formal, published notice."
+        }
+      }
+    }
+  ]
+}
