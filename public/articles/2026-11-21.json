@@ -1,0 +1,179 @@
+{
+  "generatedAt": "2026-11-21T21:45:00+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Portuguese foreign minister to visit Pakistan for two days from tomorrow",
+      "summary": "AI summary: Portugal's foreign minister Paulo Rangel begins a two-day official visit to Pakistan on Sunday, marking 77 years of ties, with talks with Ishaq Dar on trade, agriculture, renewables, migration and education, plus an SIFC-backed business forum on Monday.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40450124/portuguese-foreign-minister-to-visit-pakistan-for-two-days-from-tomorrow" }
+      ],
+      "timestamp": "Nov 21, 8:43 PM",
+      "publishedAt": "2026-11-21T20:43:48+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "A planned business forum and B2B meetings could open modest trade and investment channels." },
+        "political": { "value": "neutral", "reason": "A routine bilateral visit with no effect on domestic governance." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily life." },
+        "market": { "value": "medium", "reason": "Of interest to exporters in agri-food, textiles, pharma and IT sectors named for B2B talks." },
+        "lean": { "value": "balanced", "reason": "Straight announcement relayed from the Foreign Office and SIFC with no partisan framing." },
+        "confidence": { "value": "high", "reason": "Full article read; details sourced to an official Foreign Office release." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "India's Congress warns of more protests against Meta after clashes with police outside its offices",
+      "summary": "AI summary: India's opposition Congress youth wing threatened wider protests against Meta after members stormed the building housing its Hyderabad office over removed accounts, while Meta and the Indian government say takedowns follow local law and the BJP condemned the vandalism.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2046135/indias-congress-warns-of-more-protests-against-meta-after-clashes-with-police-outside-its-offices" }
+      ],
+      "timestamp": "Nov 21, 8:41 PM",
+      "publishedAt": "2026-11-21T20:41:51+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A foreign political dispute with no direct effect on Pakistan's economy." },
+        "political": { "value": "neutral", "reason": "Concerns Indian domestic politics, not Pakistani governance." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily life in Pakistan." },
+        "market": { "value": "low", "reason": "Marginal relevance to Pakistani investors; mainly a story about platform regulation in India." },
+        "lean": { "value": "balanced", "reason": "Wire report carries Congress, Meta, Indian government and BJP positions." },
+        "confidence": { "value": "high", "reason": "Full Reuters report read with multiple sides attributed." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Capt Safdar seeks Rs10bn in damages from Advocate Mian Dawood over 'defamatory' remarks",
+      "summary": "AI summary: Retired Capt Muhammad Safdar has sent lawyer Mian Dawood a legal notice under Punjab's 2024 defamation law demanding an apology, removal of videos and Rs10 billion in damages over remarks tied to a dispute about a former bar leader's degree; Dawood says he will respond after reviewing it.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2046124/capt-safdar-seeks-rs10bn-in-damages-from-advocate-mian-dawood-over-defamatory-remarks" }
+      ],
+      "timestamp": "Nov 21, 8:22 PM",
+      "publishedAt": "2026-11-21T20:22:20+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A private legal dispute with no economic effect." },
+        "political": { "value": "neutral", "reason": "A personal defamation claim; adds to legal friction but does not affect institutional stability." },
+        "social": { "value": "neutral", "reason": "Limited bearing on public wellbeing, though it touches on the use of the new defamation law." },
+        "market": { "value": "low", "reason": "No relevance to markets or business decisions." },
+        "lean": { "value": "balanced", "reason": "Reports the notice's contents and gives the recipient's acknowledgment; his substantive response is not yet available." },
+        "confidence": { "value": "medium", "reason": "Full article read, but the account rests largely on one party's legal notice." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Karachi finds a new way to remember its icons",
+      "summary": "AI summary: Karachi's Central District administration has started a commemorative blue plaque scheme, marking the former homes of qawwal Amjad Sabri, comedian Umer Sharif and artist Sadequain, with a committee of journalists and historians picking future honourees.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/692090-karachi-finds-a-new-way-to-remember-its-icons" }
+      ],
+      "timestamp": "Nov 21, 7:57 PM",
+      "publishedAt": "2026-11-21T19:57:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A small civic heritage project with no notable economic effect." },
+        "political": { "value": "neutral", "reason": "Local administrative initiative with no governance implications." },
+        "social": { "value": "positive", "reason": "Recognises cultural figures and civic heritage, welcomed by a family member quoted." },
+        "market": { "value": "low", "reason": "Not relevant to investors." },
+        "lean": { "value": "balanced", "reason": "Feature piece with no partisan framing." },
+        "confidence": { "value": "high", "reason": "Full article read; claims attributed to named officials and family." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Rizwan, Shan, Saim among notable omissions as PCB awards contracts to 38 players",
+      "summary": "AI summary: The PCB handed central contracts to 38 men's cricketers for Nov 2026 to June 2027 under a new format-based track system, leaving out names such as Mohammad Rizwan, Shan Masood and Saim Ayub, with officials stressing that contracts do not guarantee selection.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2046112/rizwan-shan-saim-among-notable-omissions-as-pcb-awards-contracts-to-38-players" }
+      ],
+      "timestamp": "Nov 21, 6:17 PM",
+      "publishedAt": "2026-11-21T18:17:25+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Sports administration decision with negligible economic effect." },
+        "political": { "value": "neutral", "reason": "No bearing on governance." },
+        "social": { "value": "neutral", "reason": "Of public interest to cricket fans but no effect on wellbeing or safety." },
+        "market": { "value": "low", "reason": "Minimal relevance to markets." },
+        "lean": { "value": "balanced", "reason": "Reports the board's announcement and officials' explanations; no partisan angle." },
+        "confidence": { "value": "high", "reason": "Full article read with named officials quoted." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Musadik Malik calls for evidence-based mechanism to address terrorism",
+      "summary": "AI summary: Speaking to media on the sidelines of the SCO forum in New Delhi, Climate Minister Musadik Malik proposed a transparent mechanism under which Pakistan and India would present evidence on terrorism concerns rather than trade accusations, while urging that the forum not be narrowed to bilateral disputes.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40450118/musadik-malik-calls-for-evidence-based-mechanism-to-address-terrorism" }
+      ],
+      "timestamp": "Nov 21, 5:24 PM",
+      "publishedAt": "2026-11-21T17:24:02+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No immediate economic effect." },
+        "political": { "value": "neutral", "reason": "A diplomatic proposal; could ease tensions marginally but changes nothing institutionally." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily life, though it touches on security concerns." },
+        "market": { "value": "low", "reason": "Limited near-term relevance to investors." },
+        "lean": { "value": "balanced", "reason": "Reports the minister's remarks plainly; no Indian response is included but framing is not partisan in domestic terms." },
+        "confidence": { "value": "medium", "reason": "Full article read, but it is a single-source account of informal remarks." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Govt cuts kerosene, jet fuel and LDO prices",
+      "summary": "AI summary: Per PSO, jet fuel, kerosene and light diesel oil prices were cut by roughly Rs10 to Rs12 per litre nationwide from November 21, following an earlier small cut to petrol and a Rs2 rise in high-speed diesel, amid fuel price pressure linked to the Middle East conflict.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/692074-govt-cuts-kerosene-jet-fuel-and-ldo-prices" }
+      ],
+      "timestamp": "Nov 21, 4:44 PM",
+      "publishedAt": "2026-11-21T16:44:35+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Lower jet fuel, kerosene and LDO prices ease costs for aviation, industry and households." },
+        "political": { "value": "neutral", "reason": "Routine pricing adjustment with no governance implication." },
+        "social": { "value": "positive", "reason": "Cheaper kerosene helps lower-income households, especially for winter heating and cooking." },
+        "market": { "value": "high", "reason": "Directly relevant to airlines, oil marketing companies and fuel-intensive businesses." },
+        "lean": { "value": "balanced", "reason": "Factual price report sourced to PSO, no partisan framing." },
+        "confidence": { "value": "high", "reason": "Full article read; specific figures attributed to PSO." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Ishaq Dar calls for new regional security architecture, says Pakistan pursuing US-Iran dialogue",
+      "summary": "AI summary: In a Euronews interview, Deputy PM and Foreign Minister Ishaq Dar said Pakistan hopes for an early US-Iran agreement, still backs the Islamabad Memorandum of Understanding, and proposed a new Middle East security framework building on the Makkah defence pact, while restating Pakistan's positions on Afghanistan, Kashmir and the Indus Waters Treaty.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40450113/ishaq-dar-calls-for-new-regional-security-architecture-says-pakistan-pursuing-us-iran-dialogue" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/692088-pakistan-hopes-for-early-us-iran-deal-as-world-cannot-afford-prolonged-conflict" }
+      ],
+      "timestamp": "Nov 21, 4:25 PM",
+      "publishedAt": "2026-11-21T16:25:50+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Mentions energy disruption, debt and GSP+ but announces no policy change." },
+        "political": { "value": "neutral", "reason": "Restates existing foreign policy; no effect on domestic institutional stability." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily life." },
+        "market": { "value": "medium", "reason": "US-Iran de-escalation and GSP+ extension are relevant to energy prices and exporters." },
+        "lean": { "value": "pro-government", "reason": "Both pieces relay the foreign minister's claims at length without counterpoint or rebuttal from other parties." },
+        "confidence": { "value": "medium", "reason": "Two outlets corroborate the interview content, but the lean call rests on absence of counter-voices rather than overt framing." }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "At SCO moot in India, Musadik Malik declares climate change 'enemy' of civilisations",
+      "summary": "AI summary: Addressing the SCO Civilisational Dialogue Forum in New Delhi, the first visit to India by a Pakistani federal minister since 2023, Climate Minister Musadik Malik called climate change the real threat to civilisations and heritage, citing the 2022 floods and damage to Mohenjo-Daro, and proposed SCO heritage cooperation; Indian opposition figures criticised the invitation.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/692032-in-new-delhi-pakistans-climate-minister-urges-collective-efforts-for-improvement-in-region" },
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2046109/at-sco-moot-in-india-musadik-malik-declares-climate-change-enemy-of-civilisations" },
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40450120/at-sco-forum-musadik-malik-warns-climate-change-threatens-civilisation-cultural-heritage" }
+      ],
+      "timestamp": "Nov 21, 9:51 AM",
+      "publishedAt": "2026-11-21T09:51:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No immediate economic effect." },
+        "political": { "value": "positive", "reason": "A rare ministerial visit to India through a multilateral forum is a modest signal of engagement." },
+        "social": { "value": "neutral", "reason": "Raises climate and heritage awareness but has no direct effect on daily life." },
+        "market": { "value": "low", "reason": "Limited relevance to investors." },
+        "lean": { "value": "balanced", "reason": "Coverage reports the speech factually; Geo also includes Indian opposition criticism and an Indian official's response." },
+        "confidence": { "value": "high", "reason": "Three outlets report matching details from full articles." }
+      }
+    }
+  ]
+}
