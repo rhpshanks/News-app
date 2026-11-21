@@ -1,62 +1,62 @@
 {
-  "generatedAt": "2026-11-13T23:15:13+05:00",
-  "periodStart": "2026-11-07",
-  "periodEnd": "2026-11-13",
-  "periodLabel": "Nov 7 to 13, 2026",
-  "totalArticles": 52,
+  "generatedAt": "2026-11-21T21:30:00+05:00",
+  "periodStart": "2026-11-14",
+  "periodEnd": "2026-11-20",
+  "periodLabel": "Nov 14 to Nov 20, 2026",
+  "totalArticles": 62,
   "stats": {
     "economic": {
-      "positive": 7,
-      "neutral": 35,
-      "negative": 10
+      "positive": 9,
+      "neutral": 46,
+      "negative": 7
     },
     "political": {
-      "positive": 5,
-      "neutral": 39,
-      "negative": 8
+      "positive": 3,
+      "neutral": 49,
+      "negative": 10
     },
     "social": {
-      "positive": 11,
-      "neutral": 28,
-      "negative": 13
+      "positive": 7,
+      "neutral": 43,
+      "negative": 12
     }
   },
   "summary": [
-    "Across the 52 stories Miqyas tracked from November 7 to 13, social coverage carried the heaviest negative share (13 stories, 25.0%), ahead of economic (19.2%) and political (15.4%). Most of that weight came from security and infrastructure rather than social policy: the ambush near Kohat in which KP Police said 10 personnel were killed, the shooting of two officers in Swabi, ISPR-reported operations against militant hideouts in North Waziristan, and three separate reports on the rock mass collapse and flooding at the Tarbela Dam site, which also dragged on the economic readings. Social was at the same time the most positive category (11 stories, 21.2%), helped by items such as Pakistan's first astronaut heading to the Chinese space station and two rounds of fuel price cuts late in the week, so the picture was polarised rather than uniformly bleak.",
-    "The week's clearest storyline was security in Khyber Pakhtunkhwa, which has been under governor's rule since October 11. On November 8 the provincial home secretary announced faceless anti-terrorism courts and Rs70 billion for the CTD and police over a year, citing a shortfall of more than 10,000 police; within days came the Kohat and Swabi attacks, alongside a repelled vehicle-bomb assault on a Dera Ismail Khan police station that police reported. Officials at the briefing blamed past provincial leadership for weak ownership of counterterrorism, a claim the report carried without a PTI response. Running in parallel was a sharpening government-opposition contest: the TTAP alliance hinted at a protest movement it hopes JUI-F chief Fazlur Rehman will lead and voiced opposition to governor's rule in KP, demanded talks in Azad Jammu and Kashmir after saying police stopped its delegation, and PTI accused the government of defying a Supreme Court order over Imran Khan's hospital care, which the information minister answered by citing security concerns about PTI workers.",
-    "Economic negatives were scattered rather than tied to a single shock. They included a report that development spending has stalled despite a fiscal surplus, a study claiming the 9pm shop-closing rule cut daily customer transactions by 42 percent, the FCC dismissing pleas for review of the super tax order, the Tarbela damage, and a prolonged Microsoft outage that disrupted businesses and governments. Against these sat a new auto policy aimed at cheaper vehicles and EVs, the postponement of an LPG strike after talks, a report on foreign investors drawn by high returns, and the fuel price cuts, leaving the category mostly neutral (67.3%) with negatives (10) narrowly outnumbering positives (7).",
-    "On political lean, 47 of 52 stories were rated balanced, with four leaning pro-government and one pro-opposition. In each of the clearest cases the lean reflected sourcing gaps rather than slanted language: the KP counterterrorism briefing relied entirely on official claims, while the AJK report relayed only the opposition alliance's account with no government response. A notable pattern is that the eight stories rated politically negative were exactly the eight flagged for review, and every one of them was scored medium confidence, typically because it rested on a single official statement or an unanswered allegation. No story was rated low confidence, and the share of high-confidence readings climbed through the week, from 1 of 7 stories on November 7 to 6 of 8 on November 13 (25 high and 27 medium overall)."
+    "Miqyas logged 62 articles in this seven-day window, and the political column carried the heaviest negative tilt. Ten stories (16.1%) were rated politically negative against just three (4.8%) rated positive, a gap wider than in either of the other categories. The ten politically negative stories line up exactly with the ten articles the crawl flagged for review this week, so the flags were not scattered noise: they tracked one cluster of domestic political disputes, ranging from a NAB inquiry involving the son of JUI-F chief Fazlur Rehman to the Election Commission suspending the Islamabad local government poll schedule after a court stay.",
+    "The dominant storyline was a widening public dispute within and around the governing coalition. It began with a Dawn report, based on unnamed official sources, that President Zardari and Prime Minister Shehbaz Sharif agreed any referendum on new provinces would need parliamentary approval. PPP chairman Bilawal Bhutto Zardari then condemned what a PPP statement called government action against JUI-F, and followed with a Karachi speech in which he said the system was 'made to collapse' and called for a political reset. Federal ministers Khawaja Asif and Attaullah Tarar answered by questioning the PPP's record and backing a referendum. By the end of the week JUI-F said security for Fazlur Rehman and his family had been withdrawn, which an Islamabad police official described as involving only one guard. Miqyas takes no position on any of these claims; each is attributed to the party that made it.",
+    "Social coverage had the largest raw negative share, at 19.4% (12 stories), yet its causes were mostly physical and civic hazards rather than political argument: hazardous smog readings in Lahore and wider Punjab, an NDMA high alert for severe dry conditions in four Sindh districts, a UN agency finding that Punjab's water demand exceeds supply, militant attacks in Khyber Pakhtunkhwa, and the death of a 13-year-old domestic worker in Islamabad. Economic coverage was the calmest of the three, at 74.2% neutral, with nine positive readings (14.5%) tied to items such as a $500m ADB loan for pension reform, a World Bank 'satisfactory' rating on a health programme, and a Saudi framework deal to study roughly $30bn of energy investment. Its seven negatives leaned toward climate and supply risk, plus a Punjab sugar standoff in which mills ignored a government order to begin crushing.",
+    "Despite how charged the coalition dispute was, the lean readings stayed almost entirely balanced: 60 of 62 stories were rated balanced and two pro-government, with none pro-opposition. One of the two was the Dawn report built around ministers' rebuttals of Bilawal with no PPP reply included. AI confidence leaned toward the middle, with 34 medium ratings against 28 high and no low ratings. The medium calls clustered on the political stories: eight of the ten flagged articles were rated medium, mostly because they rested on one party's statement, anonymous sources, or disputed accounts, such as the conflicting party and police versions of the Fazlur Rehman security withdrawal. Readers should treat those stories as claims still awaiting a full public record."
   ],
   "notableStories": [
     {
-      "headline": "President, PM condole martyrdom of 10 policemen in Kohat, vow to continue fight against terrorism",
-      "context": "The deadliest single incident of the week: KP Police said 10 personnel, including a DSP, were killed in an ambush near Kohat that police blamed on the TTP, in a province already under governor's rule.",
-      "sourceName": "Dawn News",
-      "sourceUrl": "https://www.dawn.com/news/2044005/president-pm-condole-martyrdom-of-10-policemen-in-kohat-vow-to-continue-fight-against-terrorism"
+      "headline": "In hard-hitting speech, Bilawal says system was 'made to collapse'",
+      "context": "Bilawal Bhutto Zardari's Karachi speech calling for a political reset, including talks with PTI, set the tone for the week's coalition dispute.",
+      "sourceName": "Business Recorder",
+      "sourceUrl": "https://www.brecorder.com/news/40449364/bilawal-calls-for-political-reset-says-systems-failure-must-be-debated"
     },
     {
-      "headline": "KP plans to set up faceless ATCs, spend Rs70bn on CTD and police in a year as part of initiatives against terrorism",
-      "context": "Sets out the province's official counterterrorism response, including identity-shielded courts, a Rs70 billion security outlay and an acknowledged police shortfall of over 10,000, days before the Kohat and Swabi attacks.",
+      "headline": "'He who claims equity must come with clean hands': Asif hits back at Bilawal",
+      "context": "Defence Minister Khawaja Asif's rebuttal to Bilawal, backing a referendum on new provinces, showed the dispute had become an open exchange between coalition partners.",
       "sourceName": "Dawn News",
-      "sourceUrl": "https://www.dawn.com/news/2043052/kp-plans-to-set-up-faceless-atcs-spend-rs70bn-on-ctd-and-police-in-a-year-as-part-of-initiatives-against-terrorism"
+      "sourceUrl": "https://www.dawn.com/news/2045397/he-who-claims-equity-must-come-with-clean-hands-asif-hits-back-at-bilawal"
     },
     {
-      "headline": "Opposition alliance hints at movement against govt, hopes JUI-F chief will lead the effort",
-      "context": "Signals a possible escalation from parliamentary opposition to street protest, with TTAP seeking Fazlur Rehman as its leader and planning a multiparty conference first.",
+      "headline": "Security withdrawn from Fazl, family members",
+      "context": "JUI-F said security for Fazlur Rehman and his family was withdrawn, while police said only one guard was affected, marking a sharp escalation in the government's standoff with JUI-F.",
       "sourceName": "Dawn News",
-      "sourceUrl": "https://www.dawn.com/news/2043274/opposition-alliance-hints-at-movement-against-govt-hopes-jui-f-chief-will-lead-the-effort"
+      "sourceUrl": "https://www.dawn.com/news/2045802/security-withdrawn-from-fazl-family-members"
     },
     {
-      "headline": "PTI founder Imran Khan brought to Pims, undergoes eye procedure",
-      "context": "A routine medical visit that reopened a dispute over compliance with an August Supreme Court order, with PTI and the information minister giving opposing accounts.",
+      "headline": "Punjab sugar millers snub order to begin crushing from weekend",
+      "context": "Punjab's sugar mills largely ignored a provincial deadline to start crushing, leaving growers demanding a support price and raising questions about enforcement.",
       "sourceName": "Dawn News",
-      "sourceUrl": "https://www.dawn.com/news/2043744/pti-founder-imran-khan-brought-to-pims-undergoes-eye-procedure"
+      "sourceUrl": "https://www.dawn.com/news/2044804/punjab-sugar-millers-snub-order-to-begin-crushing-from-weekend"
     },
     {
-      "headline": "Opposition demands 'return to talks' in AJK",
-      "context": "Points to continuing unrest in Azad Jammu and Kashmir, where the opposition alliance alleges excessive force against protesters; the report carries no official response, so its claims remain unverified.",
-      "sourceName": "Dawn News",
-      "sourceUrl": "https://www.dawn.com/news/2043421/opposition-demands-return-to-talks-in-ajk"
+      "headline": "ECP suspends Islamabad LG polls programme",
+      "context": "The Election Commission suspended Islamabad's December 20 local government poll schedule after a court stay, extending a long delay in local elections for the capital.",
+      "sourceName": "Business Recorder",
+      "sourceUrl": "https://www.brecorder.com/news/40448870/ecp-suspends-islamabad-lg-polls-programme"
     }
   ]
 }
