@@ -1,0 +1,485 @@
+{
+  "generatedAt": "2026-11-22T09:11:56+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Portuguese foreign minister due in Islamabad today",
+      "summary": "AI summary: Portugal's foreign minister Paulo Rangel arrives for a two-day official visit hosted by Ishaq Dar, marking 77 years of relations, with bilateral talks and a business forum aimed at agri-food, renewables, pharma, IT and textile trade.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2046203/portuguese-foreign-minister-due-in-islamabad-today"
+        }
+      ],
+      "timestamp": "Nov 22, 8:38 AM",
+      "publishedAt": "2026-11-22T08:38:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "A business forum with B2B sessions may open modest new export and investment links."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine bilateral diplomacy with no bearing on domestic governance."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Relevant to exporters in the named sectors seeking EU market access."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straight relay of a Foreign Office announcement with no partisan framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; details attributed to the Foreign Office spokesperson."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Focus on public issues, avoid new fault lines: PPP",
+      "summary": "AI summary: PPP's Sherry Rehman urged the government to prioritise people's problems over divisive moves such as new provinces, after Bilawal Bhutto-Zardari's warnings about dividing Sindh drew sharp replies from PML-N ministers and prompted President Zardari to call for dialogue and restraint.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2046213/focus-on-public-issues-avoid-new-fault-lines-ppp"
+        }
+      ],
+      "timestamp": "Nov 22, 7:28 AM",
+      "publishedAt": "2026-11-22T07:28:18+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Rehman warned of winter gas shortages, but the story itself carries no direct economic measure."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Open friction within the ruling arrangement over new provinces signals coalition strain."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Talk of possible bloodshed over provincial division raises public unease."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Political rhetoric with limited direct market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports PPP criticism alongside PML-N and MQM-P responses and the President's reconciliation meetings."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; statements are attributed to named figures."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Trump intends to secure 'permanent deal' with Iran",
+      "summary": "AI summary: Donald Trump told Fox News he wants a lasting agreement that keeps Iran from a nuclear weapon, while Iran's Abbas Araghchi said talks continue through mediators but Tehran wants guarantees; separately, UKMTO reported a tanker struck in the Strait of Hormuz and Iranian state TV claimed a US drone was downed.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2046200/trump-intends-to-secure-permanent-deal-with-iran"
+        }
+      ],
+      "timestamp": "Nov 22, 7:20 AM",
+      "publishedAt": "2026-11-22T07:20:11+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Continued Hormuz incidents keep oil and shipping costs elevated for an import-dependent economy like Pakistan's."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A foreign dispute with no direct effect on Pakistan's institutions."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Ongoing regional hostilities sustain instability and fuel-price pressure for households."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Oil supply and Gulf shipping risk are directly market-moving."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Presents both US and Iranian positions, each attributed to its source."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but it compiles wire claims (including an unverified drone shootdown) from several outlets."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Tobacco prevention requires coordinated institutional approach: EYDS",
+      "summary": "AI summary: At a Lahore media session, the Entrepreneurship and Youth Development Society argued that schools and colleges should curb youth nicotine use through clear policies, staff training and referral systems rather than discipline alone, and asked journalists to avoid fear-based reporting.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40450199/tobacco-prevention-requires-coordinated-institutional-approach-eyds"
+        }
+      ],
+      "timestamp": "Nov 22, 2:23 AM",
+      "publishedAt": "2026-11-22T02:23:59+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "An awareness event with no economic measure attached."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A civil-society initiative with no governance implications."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Promotes prevention of youth nicotine use and supportive responses in schools."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little relevance to investors beyond a faint signal for tobacco firms."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Advocacy event reported without political framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; views attributed to named EYDS officials."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Courts must respect constitutional boundaries: LHC",
+      "summary": "AI summary: The Lahore High Court declined to overturn revised education-department hiring criteria, holding that recruitment policy is the government's domain and courts should intervene only for illegality, arbitrariness or bad faith, none of which the petitioners proved.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40450200/courts-must-respect-constitutional-boundaries-lhc"
+        }
+      ],
+      "timestamp": "Nov 22, 2:23 AM",
+      "publishedAt": "2026-11-22T02:23:59+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Affects public-sector hiring rules but carries no broad economic effect."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "Reinforces separation of powers and judicial restraint on executive policy."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Applicants under the old criteria lose their challenge, but the wider impact is limited."
+        },
+        "market": {
+          "value": "low",
+          "reason": "A service-law ruling with little market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the court's reasoning factually without favouring either side."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; reasoning attributed to the court order."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Customs values of copper-clad laminated sheets revised",
+      "summary": "AI summary: Karachi's customs valuation directorate raised the import value of copper-clad laminated sheets to USD 6 per kg, replacing an eight-year-old ruling after traders cited a sharp rise in global copper prices.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40450197/customs-values-of-copper-clad-laminated-sheets-revised"
+        }
+      ],
+      "timestamp": "Nov 22, 2:23 AM",
+      "publishedAt": "2026-11-22T02:23:59+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "A higher assessed value raises duty costs for electronics and PCB manufacturers using these sheets."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine administrative ruling."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Relevant to importers and electronics assemblers' input costs."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual report of an official ruling."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; figures attributed to the valuation ruling."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "LABSA: customs value fixed at USD2.6/kg",
+      "summary": "AI summary: Customs authorities set new minimum import values for the detergent ingredient LABSA, USD 2.60 per kg from Iran and USD 2.78 from elsewhere, after local producers complained of under-invoiced imports.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40450198/labsa-customs-value-fixed-at-usd26kg"
+        }
+      ],
+      "timestamp": "Nov 22, 2:23 AM",
+      "publishedAt": "2026-11-22T02:23:59+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Protects local LABSA makers but may lift input costs for detergent producers, roughly offsetting."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine administrative ruling."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Any pass-through to detergent prices is likely marginal."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Relevant to chemical manufacturers and soap and detergent companies."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual report citing both the complainants and the directorate's method."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; figures attributed to the valuation ruling."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Pakistani youth rank among world's most environmentally optimistic, ahead of India, BD",
+      "summary": "AI summary: A survey by Oxford Scholastica Academy placed Pakistani students seventh of 41 countries for optimism about the environment and 14th overall, with politics their least hopeful area, though the rankings rest on about 1,400 responses.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692124-pakistani-youth-rank-among-worlds-most-optimistic-about-environment-ahead-of-india-bangladesh"
+        }
+      ],
+      "timestamp": "Nov 22, 12:34 AM",
+      "publishedAt": "2026-11-22T00:34:51+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "An attitudes survey with no economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Low political optimism is noted but has no direct governance effect."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Reflects sentiment rather than any change in wellbeing."
+        },
+        "market": {
+          "value": "low",
+          "reason": "No market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports survey figures without partisan framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but it relies on a small, privately run survey sample."
+        }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "Presidential ordinance withdraws most privileges of KP MPAs, including protection against preventive detention",
+      "summary": "AI summary: Under the emergency in Khyber Pakhtunkhwa, President Zardari issued five ordinances that strip provincial lawmakers of most privileges, including immunity from preventive detention, and set up centrally nominated committees, shielded from civil courts, to run special initiatives in designated districts.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2046142/presidential-ordinance-withdraws-most-privileges-of-kp-mpas-including-protection-against-preventive-detention"
+        }
+      ],
+      "timestamp": "Nov 22, 12:23 AM",
+      "publishedAt": "2026-11-22T00:23:53+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Development committees could steer spending, but no economic figures are given."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Curbing elected legislators' protections and bypassing courts during an emergency deepens institutional strain."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Detention of provincial lawmakers and emergency rule add to uncertainty for KP residents."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited direct market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Sets out the ordinances' contents and cites both police and the governor on the detentions."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; details drawn from the gazette and the President's office."
+        }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "Security forces kill 15 terrorists in Balochistan's Mastung: sources",
+      "summary": "AI summary: Unnamed security sources told Geo that two operations in Mastung, Balochistan killed 15 militants and cleared four areas, a claim not independently verified, set against think-tank data showing KP and Balochistan account for nearly all violence-related deaths this year.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692107-security-forces-kill-15-terrorists-in-balochistans-mastung-sources"
+        }
+      ],
+      "timestamp": "Nov 21, 10:03 PM",
+      "publishedAt": "2026-11-21T22:03:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic effect reported."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Operations continue an existing security campaign without changing governance."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Continued armed conflict and casualties weigh on safety in Balochistan regardless of the operation's framing."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited market relevance beyond general security risk."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Relays security-source claims while adding independent CRSS violence data."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but the core claim rests on unnamed sources and is unverified."
+        }
+      }
+    },
+    {
+      "id": 11,
+      "headline": "Karachi finds a new way to remember its icons",
+      "summary": "AI summary: Karachi's Central District has begun marking the former homes of figures like Amjad Sabri, Umer Sharif and Sadequain with commemorative blue plaques, with a selection committee choosing future honourees and hopes to extend the scheme citywide.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692090-karachi-finds-a-new-way-to-remember-its-icons"
+        }
+      ],
+      "timestamp": "Nov 21, 7:57 PM",
+      "publishedAt": "2026-11-21T19:57:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A cultural initiative with no economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Local administrative project without governance implications."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Celebrates local heritage and civic identity."
+        },
+        "market": {
+          "value": "low",
+          "reason": "No market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Includes the family's and the district administration's perspectives."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; comments attributed to named people."
+        }
+      }
+    },
+    {
+      "id": 12,
+      "headline": "Pakistan hopes for early US-Iran deal as 'world cannot afford prolonged conflict",
+      "summary": "AI summary: In a Euronews interview, Ishaq Dar said Pakistan still backs its June US-Iran accord and hopes for a deal soon, pressed Afghanistan to act against militant groups, and said talks with India depend on New Delhi.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692088-pakistan-hopes-for-early-us-iran-deal-as-world-cannot-afford-prolonged-conflict"
+        }
+      ],
+      "timestamp": "Nov 21, 7:13 PM",
+      "publishedAt": "2026-11-21T19:13:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Mentions debt and expiring GSP+ status but announces no policy."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Restates existing foreign policy positions."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Regional de-escalation and GSP+ status matter to traders and investors."
+        },
+        "lean": {
+          "value": "pro-government",
+          "reason": "State-agency relay of the minister's views without counterpoints or outside comment."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but it is a one-sided official account."
+        }
+      }
+    }
+  ]
+}
