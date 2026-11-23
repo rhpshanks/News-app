@@ -1,0 +1,449 @@
+{
+  "generatedAt": "2026-11-23T12:47:10+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "World needs Pakistan's role in promoting global peace: Portuguese foreign minister",
+      "summary": "AI summary: Portugal's foreign minister Paulo Rangel held talks with Ishaq Dar in Islamabad during a two-day visit, with the Foreign Office saying they covered trade, EU and UN cooperation and migration. Rangel told state-run Pakistan TV that Pakistan's part in facilitating US-Iran dialogue was decisive, and a business delegation is in town for a first bilateral business forum.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40450335/world-needs-pakistans-role-in-promoting-global-peace-portuguese-foreign-minister"
+        },
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2046519/in-meeting-with-dar-portugese-foreign-minister-reaffirms-commitment-to-bolster-islamabad-lisbon-ties"
+        }
+      ],
+      "timestamp": "Nov 23, 12:24 PM",
+      "publishedAt": "2026-11-23T12:24:40+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "A first business forum in agri-food, renewables, pharma, IT and textiles could open modest trade links."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "A high-level European visit supports diplomatic standing and institutional engagement."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct near-term effect on daily life."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Named export sectors are relevant to businesses, though no deals or values are reported."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Warm official tone reflects a diplomatic visit and does not take a side in domestic politics."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Two outlets report matching details of the visit, though both rely on official statements."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "PM to attend ECO moot in Iran after Russia trip",
+      "summary": "AI summary: Shehbaz Sharif is due in Russia for three days from Nov 30 for expected talks with Vladimir Putin on energy, defence and trade, then heads to Tehran for the ECO summit on Dec 3 and 4. A PM Office source says Russian help for Pakistan Steel Mills and oil and gas investment may come up.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2046394/pm-to-attend-eco-moot-in-iran-after-russia-trip"
+        }
+      ],
+      "timestamp": "Nov 23, 7:50 AM",
+      "publishedAt": "2026-11-23T07:50:27+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Possible energy and steel cooperation remains an expectation, with nothing agreed yet."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine summit diplomacy with no immediate effect on governance stability."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on public wellbeing at this stage."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Potential energy and Pakistan Steel Mills talks matter to investors if they materialise."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "A plain preview of the schedule without promotional framing."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Agenda details rest on a single unnamed PM Office source."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Govt moves to overhaul 'weak' audit system",
+      "summary": "AI summary: The federal cabinet has cleared an SECP amendment bill that would reshape the Audit Oversight Board's membership, independence and investigative powers, after a PM's task force on the FBR judged current oversight weak. Dawn bases the report on documents and an official briefing, and carries no response from auditors or ICAP.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2046399/govt-moves-to-overhaul-weak-audit-system"
+        }
+      ],
+      "timestamp": "Nov 23, 7:32 AM",
+      "publishedAt": "2026-11-23T07:32:55+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "Stronger audit oversight could improve investor trust if the bill passes and is enforced."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A regulatory reform still awaiting parliament, with no visible institutional clash."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Little direct effect on daily life."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Audit quality and regulator powers bear directly on listed companies and investors."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Relies on official material but reports a reform critically described as overdue, without praising the government."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Single outlet using unnamed documents, with no industry response included."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Conveyor belt failure at bulk terminal disrupts coal imports",
+      "summary": "AI summary: The sole coal conveyor at Port Qasim's PIBT has been out since Nov 18, and Jamshoro Power Company says unloading has dropped from about 30,000 to 3,000 tonnes a day, risking demurrage and capacity payment losses. PIBT blames contaminated cargo, expects repairs in eight to 10 days, and has refused the power company's request to declare force majeure.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2046386/conveyor-belt-failure-at-bulk-terminal-disrupts-coal-imports"
+        }
+      ],
+      "timestamp": "Nov 23, 5:03 AM",
+      "publishedAt": "2026-11-23T05:03:37+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "Slower coal unloading brings claimed demurrage and capacity payment costs for the power and shipping chain."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A commercial and operational dispute with no governance dimension so far."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No reported effect on electricity supply to the public yet."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Directly relevant to energy, port and shipping businesses."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Both the power company and the terminal operator get to state their positions."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Detailed and two-sided, but from one outlet, and the loss figures are one party's claims."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Bilawal says successful US-Iran talks vital for global economy",
+      "summary": "AI summary: In a TRT World interview, PPP chairman Bilawal Bhutto-Zardari argued that a US-Iran deal would benefit the world economy and said Pakistan is actively involved in the talks. He also described militant presence in Afghanistan as a major security challenge and said Pakistan can act as a bridge between Washington and Beijing.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40450258/bilawal-says-successful-us-iran-talks-vital-for-global-economy"
+        }
+      ],
+      "timestamp": "Nov 23, 4:48 AM",
+      "publishedAt": "2026-11-23T04:48:34+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Commentary on the global economy with no direct policy change."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A statement of foreign policy views that does not alter institutional stability."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "General remarks with no specific market signal."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "A straight relay of one interview, without the outlet endorsing a side."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Claims are clearly attributed but come from a single interview with no outside check."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Mayor inaugurates Rs1.67bn uplift projects in Karachi's District West",
+      "summary": "AI summary: Karachi Mayor Murtaza Wahab opened sewerage, water and road works worth about Rs1.67 billion in Orangi Town and nearby areas. He also said 165 roads will be rebuilt this year and that KMC's monthly revenue has doubled to Rs300 million, figures the report does not independently check.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40450238/mayor-inaugurates-rs167bn-uplift-projects-in-karachis-district-west"
+        }
+      ],
+      "timestamp": "Nov 23, 4:48 AM",
+      "publishedAt": "2026-11-23T04:48:34+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "Local public works spending supports construction activity in the district."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A routine municipal inauguration with little effect on wider stability."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Better sewerage, water and roads would improve daily life for residents if delivered."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Local civic project with limited investor relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Promotional in tone toward the mayor, but this is a local matter and does not clearly favor a federal side."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Figures come from the mayor and one report, with no independent verification."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Rs1.5bn allocated to fast-track Warsak Canal Remodelling Project",
+      "summary": "AI summary: Khyber Pakhtunkhwa's planning department raised funding for the Warsak Canal remodelling from Rs650 million to Rs1.5 billion, with the remaining tunnel work due by June 30, 2027. The KP governor's adviser Dr Muhammad Irshad says the scheme would meet nearly 80% of Peshawar's drinking water needs.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40450260/rs15bn-allocated-to-fast-track-warsak-canal-remodelling-project"
+        }
+      ],
+      "timestamp": "Nov 23, 4:48 AM",
+      "publishedAt": "2026-11-23T04:48:34+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "Added funding supports irrigation and construction in the Peshawar and Nowshera area."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A provincial development decision with no visible political dispute."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Improved water supply would benefit residents if the project finishes on schedule."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Regional infrastructure with limited direct market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reads as an official briefing, without framing that favors a government or opposition side."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Details come from an adviser and project briefing in one report, with no outside check."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Evidence must be basis for talks on terrorism, Musadik Malik tells Indian media",
+      "summary": "AI summary: Speaking on the sidelines of an SCO forum in New Delhi, Climate Change Minister Musadik Malik said any Pakistan-India conversation on terrorism should rest on evidence, offering bilateral or multilateral forums for both sides to present it. The report carries no Indian response.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692206-evidence-must-be-basis-for-talks-on-terrorism-musadik-malik-tells-indian-media"
+        }
+      ],
+      "timestamp": "Nov 22, 10:37 PM",
+      "publishedAt": "2026-11-22T22:37:43+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct effect on trade or business."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A restatement of position that neither eases nor escalates Pakistan-India tension."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate effect on public safety or daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited relevance to investment decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "One-sided on Pakistan-India, but this does not favor a side in domestic government versus opposition politics."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "The statement is clearly attributed, but only one side is presented."
+        }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "PPP says no discussion on referendum for new provinces at leadership level",
+      "summary": "AI summary: PPP Senator Sherry Rehman told Geo News her party's top leadership has not discussed a referendum on new provinces, and argued provincial assembly decisions cannot be overruled. Her remarks answer PML-N's Tariq Fazal Chaudhry, while Defence Minister Khawaja Asif separately suggested a referendum could come early next year.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692205-ppp-says-no-discussion-on-referendum-for-new-provinces-at-leadership-level"
+        }
+      ],
+      "timestamp": "Nov 22, 10:09 PM",
+      "publishedAt": "2026-11-22T22:09:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No immediate economic effect from the debate."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Open disagreement between major parties over new provinces adds constitutional and federal strain."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life yet."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Only indirect relevance through general political uncertainty."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Centers the PPP voice but also reports the PML-N position."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Statements are attributed, though one position is reported second-hand."
+        }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "Naqvi fires warning at 'minister' over criticism amid provinces debate",
+      "summary": "AI summary: Interior Minister Mohsin Naqvi told Geo News he has put up with an unnamed minister's criticism for two and a half years and implied he could embarrass that person if he answered fully. He also defended businessmen criticised at an economic forum and questioned why the minister accepts party donations from them.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692186-naqvi-fires-warning-at-minister-over-criticism-amid-provinces-debate"
+        }
+      ],
+      "timestamp": "Nov 22, 4:43 PM",
+      "publishedAt": "2026-11-22T16:43:31+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "The business community is mentioned, but no economic measure is involved."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "A public warning between senior figures signals friction at a sensitive political moment."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on public life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little direct relevance to markets."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "One person's remarks are relayed, without the outlet clearly favoring government or opposition."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Informal remarks from one speaker, with the target unnamed and no reply included."
+        }
+      }
+    },
+    {
+      "id": 11,
+      "headline": "Karachi placed on 'high alert', traffic advisory issued ahead of planned rallies",
+      "summary": "AI summary: Police have put Karachi on high alert, deploying personnel around the Red Zone and Karachi Press Club ahead of planned rallies, while a JUI-F protest has shut Gurumandir road and commuters are being diverted. MQM-P has postponed its Nov 29 rally over law-and-order concerns, officials and reports say.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692170-karachi-placed-on-high-alert-traffic-advisory-issued-ahead-of-planned-rallies"
+        }
+      ],
+      "timestamp": "Nov 22, 3:26 PM",
+      "publishedAt": "2026-11-22T15:26:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Road closures may cause short-term disruption, but no business losses are reported."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Competing rallies, a heavy security posture and a postponed party event point to political tension."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Commuters face closures and diversions, and residents face a heightened security situation."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Short-term local disruption with limited market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Neutral, service-style reporting of security and traffic arrangements."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on officials and traffic police in a single outlet."
+        }
+      }
+    }
+  ]
+}
