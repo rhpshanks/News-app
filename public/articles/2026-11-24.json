@@ -1,0 +1,413 @@
+{
+  "generatedAt": "2026-11-24T10:28:20+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "'Carrying hopes of 250m people': Zeeshan Ali to be first Pakistani in space aboard China's Shenzhou-24",
+      "summary": "AI summary: China's space agency has picked Pakistani astronaut Muhammad Zeeshan Ali as a payload specialist on the Shenzhou-24 mission launching November 25, which would make him the first Pakistani in orbit and the first foreigner aboard the Tiangong station. He is expected to spend about a week there before returning with the Shenzhou-23 crew.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2046714/carrying-hopes-of-250m-people-zeeshan-ali-to-be-first-pakistani-in-space-aboard-chinas-shenzhou-24"
+        }
+      ],
+      "timestamp": "Nov 24, 10:18 AM",
+      "publishedAt": "2026-11-24T10:18:35+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A prestige milestone with no direct effect on jobs, prices or business activity."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "Deepens Pakistan-China cooperation and gives the state a widely welcomed national achievement."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "A source of national pride and a likely boost to public interest in science and space."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little relevance to investors or near-term business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Celebratory and sourced to Chinese officials and ministers, but the tone is national rather than partisan."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article with specific, officially announced mission details from the Chinese space agency."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "LHC rejects US-Indian origin citizen's plea for Pakistan Origin Card",
+      "summary": "AI summary: The Lahore High Court dismissed a petition from an American citizen of Indian origin married to a Pakistani, ruling that marriage only makes a foreigner eligible to apply for a Pakistan Origin Card and does not create a right to one. The court called the card a facilitation document rather than citizenship and upheld Nadra's discretion in the matter.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2046613/lhc-rejects-us-indian-origin-citizens-plea-for-pakistan-origin-card"
+        }
+      ],
+      "timestamp": "Nov 24, 9:43 AM",
+      "publishedAt": "2026-11-24T09:43:54+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "An individual immigration ruling with no broader economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Clarifies existing rules on origin cards without changing governance or policy."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Mainly affects a narrow group of foreign spouses seeking origin cards."
+        },
+        "market": {
+          "value": "low",
+          "reason": "No bearing on markets or business decisions."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports both the petitioner and government arguments alongside the court reasoning."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full, legally detailed report of a court judgment with both sides presented."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "Petroleum dealers warn of another strike over unmet demands",
+      "summary": "AI summary: The Pakistan Petroleum Dealers Association has given the government 15 days to switch from daily to monthly fuel pricing and raise dealer margins to 8pc of the retail price, threatening to close pumps otherwise. Dealers say daily price changes are eroding their working capital, while official sources indicate the margin demand would cost far more per litre than the current rate.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2046670/petroleum-dealers-warn-of-another-strike-over-unmet-demands"
+        }
+      ],
+      "timestamp": "Nov 24, 7:58 AM",
+      "publishedAt": "2026-11-24T07:58:32+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "negative",
+          "reason": "A pump strike would disrupt fuel supply, and higher margins would push up retail fuel prices."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A recurring industry dispute that earlier strike calls show is usually settled through talks."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Pump closures would hit commuters and daily life, and higher margins would raise fuel costs."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Directly relevant to fuel retailers, oil marketing companies and fuel-sensitive businesses."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Mostly the association account, but it does not frame the issue as for or against the government."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article, though dealer claims on supply cuts and daily deposits are not independently verified."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Punjab holds over 60pc of senior federal posts, Senate body told",
+      "summary": "AI summary: A Senate subcommittee on devolution heard that Punjab holds about 60pc of senior federal secretariat posts in grades 18 to 22, and its convener called this a constitutional violation and sought a correction plan within two weeks. The panel also pressed the issue of oil and gas company profits that it says have not been shared with provinces.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2046667/punjab-holds-over-60pc-of-senior-federal-posts-senate-body-told"
+        }
+      ],
+      "timestamp": "Nov 24, 6:45 AM",
+      "publishedAt": "2026-11-24T06:45:18+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Concerns hiring shares and revenue claims, with no immediate effect on prices or business."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Highlights interprovincial imbalance and unmet constitutional quotas, a source of federal friction."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Raises equity concerns for smaller provinces but no immediate change to daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "The unshared profit claims touch energy firms, but the report has little near-term market bearing."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Built on committee statements without favoring the government or the opposition."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Official data is cited, but the profit figures are the convener estimates and no rebuttal is included."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Shehbaz, Naqvi discuss debate on creation of new provinces",
+      "summary": "AI summary: Interior Minister Mohsin Naqvi met Prime Minister Shehbaz Sharif amid the row over his proposal for new provinces, though the PM's office said the talks covered law and order and the national situation. Several parties, including the PPP, PTI and JUI-F, have voiced objections or set conditions on the proposal.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40450447/shehbaz-naqvi-discuss-debate-on-creation-of-new-provinces"
+        }
+      ],
+      "timestamp": "Nov 24, 4:50 AM",
+      "publishedAt": "2026-11-24T04:50:48+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No direct economic measure involved."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Points to a growing controversy over new provinces with objections from several major parties."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate effect on public wellbeing or daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Political debate with no direct market relevance yet."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the official readout alongside objections from multiple parties."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on the RSS excerpt only, not the full article."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "FCC rules no employee has inherent right to regularization",
+      "summary": "AI summary: In a split 2-1 decision, the Federal Constitutional Court sided with the State Bank of Pakistan against a contract worker hired through a third-party firm, holding that regularisation requires a legal or policy basis. One judge dissented from the majority view.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40450454/fcc-rules-no-employee-has-inherent-right-to-regularization"
+        }
+      ],
+      "timestamp": "Nov 24, 4:50 AM",
+      "publishedAt": "2026-11-24T04:50:48+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Clarifies employment law but does not directly change jobs or prices."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A routine judicial ruling with no effect on governance stability."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Weakens job security claims of contract staff hired through third-party firms."
+        },
+        "market": {
+          "value": "medium",
+          "reason": "Relevant to employers that rely on outsourced or contract staffing."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports the majority ruling and notes the dissent."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Based on the RSS excerpt only, not the full article."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Rana Sanaullah hits back at Naqvi, says he mishandled debate on new provinces",
+      "summary": "AI summary: Rana Sanaullah, the prime minister's adviser on political affairs, said on a TV show that he would not be intimidated by Interior Minister Mohsin Naqvi's warning and accused him of mishandling the new provinces debate. He said the issue would now reach parliament as a contested matter and suggested taking it up with the PPP there.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692355-rana-sanaullah-hits-back-at-naqvi-says-he-mishandled-debate-on-new-provinces"
+        }
+      ],
+      "timestamp": "Nov 23, 11:25 PM",
+      "publishedAt": "2026-11-23T23:25:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No economic measure involved."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "An open public rift between senior figures in the same government over a major proposal."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on public wellbeing."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little direct market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "An intra-government dispute reported through attributed remarks, not framed for either side."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article, but sourced mainly to one side with no fresh response from Naqvi."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Bilawal urges political unity, reforms to restore public trust in state institutions",
+      "summary": "AI summary: Launching the Sindh Youth Card in Karachi, PPP chairman Bilawal Bhutto-Zardari urged politicians to drop divisive politics and said any political 'reset' must be democratic, including restoring parliament's supremacy and trust in the judiciary. The scheme's first phase is meant to support 100,000 young people.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692306-bilawal-urges-political-unity-reforms-to-restore-public-trust-in-state-institutions"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40450448/bilawal-says-any-reset-must-be-democratic"
+        }
+      ],
+      "timestamp": "Nov 23, 6:54 PM",
+      "publishedAt": "2026-11-23T18:54:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "The youth card offers targeted aid, but the speech carries no broad economic measure."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "A call for unity and reform, but without concrete steps or responses from other parties."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "The youth card scheme aims to support 100,000 young people in its first phase."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Political speech with little market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports one speaker without framing it for or against the government."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Two outlets report the same event with matching details."
+        }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "In meeting with Malaysian PM, CDF Munir vows to boost defence ties",
+      "summary": "AI summary: According to an ISPR statement, Field Marshal Asim Munir met Malaysian Prime Minister Anwar Ibrahim and Defence Minister Mohamed Khaled Nordin during an official visit, with both sides pledging closer defence and security cooperation. The Malaysian side's remarks are reported only through ISPR's account.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692278-in-meeting-with-malaysian-pm-cdf-munir-vows-to-boost-defence-ties"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40450449/cdf-malaysian-pm-vow-to-promote-peace-stability-amp-security"
+        }
+      ],
+      "timestamp": "Nov 23, 4:02 PM",
+      "publishedAt": "2026-11-23T16:02:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No trade or economic agreement was reported."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "Signals stronger bilateral defence ties, per ISPR."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited market relevance, though defence ties can support future cooperation."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reprints an official statement without partisan framing toward government or opposition."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Two outlets carry it, but both rely on the same ISPR statement, not independent sourcing."
+        }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "Naqvi, PML-Q's Shujaat discuss new provinces, devolution of powers",
+      "summary": "AI summary: Interior Minister Mohsin Naqvi met PML-Q chief Chaudhry Shujaat Hussain in Lahore, where they discussed new provinces, devolution and security in Balochistan and KP. PTI chairman Gohar Ali Khan separately said new provinces require a two-thirds majority in both houses rather than a referendum, and that PTI had not been consulted.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692269-naqvi-pml-qs-shujaat-discuss-new-provinces-devolution-of-powers"
+        }
+      ],
+      "timestamp": "Nov 23, 3:32 PM",
+      "publishedAt": "2026-11-23T15:32:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No economic measure involved."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine consultation, though PTI conditions show the proposal still faces hurdles."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little direct market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Includes the PTI position alongside the meeting readout."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article, but statements are largely paraphrased from a meeting readout."
+        }
+      }
+    }
+  ]
+}
