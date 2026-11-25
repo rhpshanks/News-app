@@ -1,0 +1,215 @@
+{
+  "generatedAt": "2026-11-25T12:05:00+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Bangladesh garment workers win 36pc wage rise",
+      "summary": "AI summary: After weeks of at times violent protests, Bangladesh's wage board approved a 36 per cent rise in the garment sector's minimum wage to 17,000 taka from January, short of the 30,000 taka workers sought; the industry body puts protest losses at about $428m.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2046973/bangladesh-garment-workers-win-36pc-wage-rise" }
+      ],
+      "timestamp": "Nov 25, 11:25 AM",
+      "publishedAt": "2026-11-25T11:25:10+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Foreign labour story; may modestly shift regional textile cost competition but no direct effect on Pakistani prices or jobs." },
+        "political": { "value": "neutral", "reason": "Concerns Bangladesh's labour politics, not Pakistan's governance." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily life in Pakistan." },
+        "market": { "value": "medium", "reason": "Relevant to Pakistani textile exporters competing with Bangladesh for the same buyers." },
+        "lean": { "value": "balanced", "reason": "Includes worker, wage-board and industry voices with attribution." },
+        "confidence": { "value": "high", "reason": "Full wire report read with specific, attributed figures." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Pakistan calls for human control over decisions on nuclear weapons use",
+      "summary": "AI summary: At a UN Security Council debate on technology and conflict, Pakistan's envoy Syed Haider Shah argued that nuclear-use decisions must stay with humans and that AI should never be aimed at nuclear command and control systems, calling for binding safeguards and an end to technology monopolies.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2046970/pakistan-calls-for-human-control-over-decisions-on-nuclear-weapons-use" }
+      ],
+      "timestamp": "Nov 25, 11:09 AM",
+      "publishedAt": "2026-11-25T11:09:19+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Diplomatic position with no direct economic effect." },
+        "political": { "value": "neutral", "reason": "Routine statement of foreign policy at the UN; no domestic governance impact." },
+        "social": { "value": "neutral", "reason": "No immediate effect on public wellbeing." },
+        "market": { "value": "low", "reason": "Little relevance to investment decisions." },
+        "lean": { "value": "balanced", "reason": "Straight report of the envoy's speech, though no other delegations are quoted." },
+        "confidence": { "value": "medium", "reason": "Full article read, but single source covering one government's position only." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "$150m Punjab education project downgraded",
+      "summary": "AI summary: The World Bank cut its implementation rating for the $150m Punjab GRADES education project to moderately satisfactory, citing unmobilised technical assistance, missing baseline data and stalled classroom construction, while noting enrolment and early childhood targets were met early.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2046863/150m-punjab-education-project-downgraded" }
+      ],
+      "timestamp": "Nov 25, 6:45 AM",
+      "publishedAt": "2026-11-25T06:45:40+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Rating change does not alter the loan amount; restructuring could delay spending on construction." },
+        "political": { "value": "neutral", "reason": "Administrative performance issue, not a governance crisis." },
+        "social": { "value": "negative", "reason": "Delays to classroom construction and support affect a programme aimed at millions of children in a province with over 7 million out of school." },
+        "market": { "value": "low", "reason": "Limited relevance to markets beyond donor-financing watchers." },
+        "lean": { "value": "balanced", "reason": "Factual report noting both shortfalls and progress, though no provincial response is included." },
+        "confidence": { "value": "medium", "reason": "Full article read; based on a single World Bank disclosure without government comment." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "‘A new era begins’: Pakistan’s Zeeshan Ali enters new frontier as Shenzhou-24 docks with space station",
+      "summary": "AI summary: China's Shenzhou-24 lifted off from Jiuquan carrying Pakistan Air Force pilot Muhammad Zeeshan Ali, who before launch said he carried the hopes of 250 million Pakistanis; the craft docked with Tiangong about 3 hours 38 minutes later, making him the first foreign national aboard the station for a roughly week-long stay with planned experiments.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40450619/zeeshan-says-will-be-carrying-the-hopes-of-250-million-pakistanis" },
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2046753/a-new-era-begins-pakistans-zeeshan-ali-enters-new-frontier-as-shenzhou-24-docks-with-space-station" }
+      ],
+      "timestamp": "Nov 25, 6:26 AM",
+      "publishedAt": "2026-11-25T06:26:43+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Prestige milestone with no immediate effect on jobs or prices." },
+        "political": { "value": "positive", "reason": "Strengthens Pakistan-China ties and offers a broadly unifying national moment." },
+        "social": { "value": "positive", "reason": "Widely framed as an inspiration for young people toward science and technology." },
+        "market": { "value": "low", "reason": "Little direct relevance to investment decisions." },
+        "lean": { "value": "balanced", "reason": "Celebratory and official-sourced, but a non-partisan national event rather than favouring a political side." },
+        "confidence": { "value": "high", "reason": "Two outlets with matching details, both full articles read, citing CMSA, Reuters and AFP." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "PM congratulates CDF on induction into Malaysia’s Hall of Fame",
+      "summary": "AI summary: Prime Minister Shehbaz Sharif issued a statement praising Field Marshal Asim Munir, Chief of Defence Forces, for being inducted into the Hall of Fame of Malaysia's National Defence Studies Centre, crediting the honour to his leadership, the armed forces and the public.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40450617/pm-congratulates-cdf-on-induction-into-malaysias-hall-of-fame" }
+      ],
+      "timestamp": "Nov 25, 4:45 AM",
+      "publishedAt": "2026-11-25T04:45:58+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Ceremonial honour with no economic effect." },
+        "political": { "value": "neutral", "reason": "Ceremonial statement; no change to governance stability." },
+        "social": { "value": "neutral", "reason": "No effect on daily life." },
+        "market": { "value": "low", "reason": "Not relevant to business decisions." },
+        "lean": { "value": "pro-government", "reason": "Reproduces a laudatory government statement with no other voices or context." },
+        "confidence": { "value": "medium", "reason": "Full but very short single-source statement; the lean reading rests on the absence of any independent framing." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Sindh fixes official price of wheat flour at Rs138",
+      "summary": "AI summary: Sindh's food minister set the official wheat flour price at Rs138 per kg and said imported wheat and Passco stocks will go straight to flour mills, alongside pledges to curb hoarding and narrow the wholesale-retail price gap; the flour mills association said supply can improve with adequate wheat.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40450647/sindh-fixes-official-price-of-wheat-flour-at-rs138" }
+      ],
+      "timestamp": "Nov 25, 4:45 AM",
+      "publishedAt": "2026-11-25T04:45:58+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "A fixed price and direct wheat supply aim to stabilise a key staple's cost, though enforcement is untested." },
+        "political": { "value": "neutral", "reason": "Routine provincial policy step." },
+        "social": { "value": "positive", "reason": "Intended to ease flour affordability for households." },
+        "market": { "value": "medium", "reason": "Relevant to flour millers, grain traders and food inflation watchers." },
+        "lean": { "value": "balanced", "reason": "Policy announcement reported with a mill-owner voice; no overtly partisan framing." },
+        "confidence": { "value": "medium", "reason": "Full article read but single source, government-centred, with no consumer or independent view." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "PM congratulates nation on participation in space mission",
+      "summary": "AI summary: Shehbaz Sharif congratulated the country on its part in the Shenzhou-24 mission, thanked China, named astronauts Zeeshan Ali and Khurram Dawood, and said experiments from Suparco and universities would fly, presenting the mission as a spur for young scientists.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40450593/pm-congratulates-nation-on-participation-in-space-mission" }
+      ],
+      "timestamp": "Nov 25, 4:45 AM",
+      "publishedAt": "2026-11-25T04:45:58+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct economic effect." },
+        "political": { "value": "positive", "reason": "Unifying national message reinforcing ties with China." },
+        "social": { "value": "positive", "reason": "Aims to inspire youth interest in science and technology." },
+        "market": { "value": "low", "reason": "Little relevance to investors." },
+        "lean": { "value": "balanced", "reason": "Promotional government statement, but on a non-partisan national milestone." },
+        "confidence": { "value": "medium", "reason": "Full article read; single-source official statement." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Rana Sanaullah says referendum cannot create new provinces",
+      "summary": "AI summary: PM's political adviser Rana Sanaullah said on a TV talk show that new provinces can only come through a constitutional process, not a referendum, and that the issue should go before parliament; he also said he has no personal quarrel with Interior Minister Mohsin Naqvi despite their public exchange.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/692504-rana-sanaullah-says-referendum-cannot-create-new-provinces" }
+      ],
+      "timestamp": "Nov 24, 10:31 PM",
+      "publishedAt": "2026-11-24T22:31:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No immediate economic effect." },
+        "political": { "value": "neutral", "reason": "Pushes the provinces debate toward parliament, which may ease rather than deepen the row." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily life." },
+        "market": { "value": "low", "reason": "Constitutional debate at an early stage; limited market relevance for now." },
+        "lean": { "value": "balanced", "reason": "Single speaker quoted, but reported without promotional framing." },
+        "confidence": { "value": "medium", "reason": "Full article read; one source and no response from Naqvi or the PPP." }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "JUI-F moves LHC against 'house arrest' of Maulana Fazl in Lahore",
+      "summary": "AI summary: A JUI-F lawyer petitioned the Lahore High Court alleging police confined party chief Maulana Fazlur Rehman to his Lahore home and stopped him addressing a lawyers' convention; police said he was asked to limit movement, and containers around the house were removed by evening.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/692438-jui-f-moves-lhc-against-house-arrest-of-maulana-fazl-in-lahore" }
+      ],
+      "timestamp": "Nov 24, 3:21 PM",
+      "publishedAt": "2026-11-24T15:21:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct economic effect." },
+        "political": { "value": "negative", "reason": "Movement restrictions on an opposition party chief, amid withdrawn security and NAB summons for his son, signal rising confrontation." },
+        "social": { "value": "negative", "reason": "Road blockades and curbs on assembly raise civil liberties concerns." },
+        "market": { "value": "low", "reason": "Limited direct market relevance." },
+        "lean": { "value": "pro-opposition", "reason": "Built mainly on the JUI-F petition and senator's condemnation; the police view gets a single line." },
+        "confidence": { "value": "medium", "reason": "Full article read, but single source and the house-arrest claim is largely one side's account." }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "PM urges ministers to avoid spat amid Sanaullah-Naqvi row over new provinces",
+      "summary": "AI summary: Shehbaz Sharif told federal ministers and provincial representatives to stop public attacks on each other after Rana Sanaullah and Mohsin Naqvi traded barbs, with the wider new-provinces dispute also pitting ministers against Bilawal Bhutto-Zardari over any division of Sindh.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/692435-pm-takes-notice-as-ministers-trade-barbs-in-provinces-debate" }
+      ],
+      "timestamp": "Nov 24, 3:08 PM",
+      "publishedAt": "2026-11-24T15:08:00+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct economic effect." },
+        "political": { "value": "negative", "reason": "Open infighting within the cabinet and with an allied party required the PM to intervene, showing strain." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily life, though warnings of unrest over Sindh are cited." },
+        "market": { "value": "medium", "reason": "Coalition friction over restructuring provinces is relevant to policy-stability watchers." },
+        "lean": { "value": "balanced", "reason": "Includes ministers' criticism and Bilawal's reply, though the PM's statement dominates." },
+        "confidence": { "value": "medium", "reason": "Full article read; single source." }
+      }
+    },
+    {
+      "id": 11,
+      "headline": "PPP may eventually back referendum on new provinces: key official",
+      "summary": "AI summary: An unnamed senior government official predicted the PPP will ultimately accept a referendum on creating new provinces, possibly under a 28th amendment envisaging 12 or more provinces, despite Bilawal Bhutto Zardari's public opposition; boundary and NFC funding hurdles remain.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/692409-ppp-may-eventually-back-referendum-on-new-provinces-key-official" }
+      ],
+      "timestamp": "Nov 24, 11:17 AM",
+      "publishedAt": "2026-11-24T11:17:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Speculative; fiscal redistribution questions are flagged but not yet in play." },
+        "political": { "value": "neutral", "reason": "A forecast, not an agreement; neither eases nor escalates the dispute on its own." },
+        "social": { "value": "neutral", "reason": "No immediate effect on daily life." },
+        "market": { "value": "low", "reason": "Too speculative to guide business decisions yet." },
+        "lean": { "value": "balanced", "reason": "Relies on an anonymous official with no PPP response, but acknowledges opposition and hurdles; defaulted to balanced given the uncertainty." },
+        "confidence": { "value": "low", "reason": "Rests entirely on one anonymous source's prediction." }
+      }
+    }
+  ]
+}
