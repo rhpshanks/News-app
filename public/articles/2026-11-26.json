@@ -1,0 +1,449 @@
+{
+  "generatedAt": "2026-11-26T10:33:08+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "Lahore High Court seeks police report on Maulana Fazl's confinement",
+      "summary": "AI summary: Acting on a JUI-F lawyer's petition, the Lahore High Court ordered Lahore's police chief to report by Thursday on claims that Fazlur Rehman is being held at his residence, with the judge warning of consequences if the detention proves unlawful; the provincial law officer did not flatly deny the confinement.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2047148/lahore-high-court-seeks-police-report-on-maulana-fazls-confinement"
+        }
+      ],
+      "timestamp": "Nov 26, 7:58 AM",
+      "publishedAt": "2026-11-26T07:58:21+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Legal and political dispute with no direct effect on prices or business."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Alleged confinement of a major party chief and court scrutiny point to escalating state-opposition friction."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Concerns one leader's liberty; limited direct effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little relevance to investors beyond general political-risk sentiment."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Reports both the petitioner and the government's law officer, plus the judge's remarks."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but the confinement claim is not independently confirmed and police gave no comment."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "PTI disowns Achakzai's call for national govt",
+      "summary": "AI summary: At a joint meeting of its MNAs and senators, PTI distanced itself from Opposition Leader Mehmood Khan Achakzai's proposal for a national government and agreed to hold off on any stance on new provinces until the government publishes its draft; unnamed sources also reported a heated exchange between two senior leaders.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2047151/pti-disowns-achakzais-call-for-national-govt"
+        }
+      ],
+      "timestamp": "Nov 26, 7:25 AM",
+      "publishedAt": "2026-11-26T07:25:04+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Intra-opposition politics with no direct economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Shows opposition divisions but does not directly affect institutional stability."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No direct effect on public wellbeing."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Marginal market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Relies on anonymous insiders but does not frame the story in favour of government or opposition."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but key details rest on unnamed sources without comment from those named."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "PM stresses IT potential for economic growth",
+      "summary": "AI summary: PM Shehbaz Sharif ordered a third-party audit of IT parks under the Special Technology Zones Authority to curb misuse and told officials to speed up selling loss-making state enterprises, as the ministry cited $4.6bn in FY26 IT exports.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2047128/pm-stresses-it-potential-for-economic-growth"
+        }
+      ],
+      "timestamp": "Nov 26, 6:55 AM",
+      "publishedAt": "2026-11-26T06:55:28+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "Push on IT exports, tech-zone oversight and SOE privatisation could support business activity and fiscal relief."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine policy directives with no effect on governance stability."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "No immediate effect on daily life."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Directly relevant to IT investors, tech-zone operators and privatisation prospects."
+        },
+        "lean": {
+          "value": "pro-government",
+          "reason": "Reads as an official readout: government-supplied figures and directives with no independent or critical voices."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but the export and investment figures are unverified government data."
+        }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "ISPR's Press Release: CDF praises historic launch of Pakistan's first human spaceflight mission",
+      "summary": "AI summary: In a press release, the armed forces' top commanders congratulated the nation and SUPARCO on Pakistan's first human spaceflight, praised astronaut Wing Commander Muhammad Zeeshan Ali and thanked China for its support.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40450811/isprs-press-release-cdf-praises-historic-launch-of-pakistans-first-human-spaceflight-mission"
+        }
+      ],
+      "timestamp": "Nov 26, 5:16 AM",
+      "publishedAt": "2026-11-26T05:16:21+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Ceremonial statement with no economic content."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "Projects institutional unity and strong Pakistan-China ties."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Reinforces a moment of national pride."
+        },
+        "market": {
+          "value": "low",
+          "reason": "No market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Official military statement on a non-partisan national event; no government-opposition framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Verbatim official release about an event corroborated by multiple outlets."
+        }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "Ahsan slams calls in India to ban Pakistani content on Netflix",
+      "summary": "AI summary: Planning Minister Ahsan Iqbal criticised an Indian cine-workers' group that asked PM Modi to stop Netflix releasing a Pakistani series on December 4 and to bar Pakistani content, arguing art should be kept separate from politics.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40450775/ahsan-slams-calls-in-india-to-ban-pakistani-content-on-netflix"
+        }
+      ],
+      "timestamp": "Nov 26, 5:16 AM",
+      "publishedAt": "2026-11-26T05:16:21+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "A ban could dent Pakistan's nascent streaming exports, but nothing has been decided."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Cross-border cultural spat; no effect on domestic governance."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Limited effect on daily life."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Minor relevance to the creative-export sector."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Carries no Indian response, but the issue is Pakistan vs India rather than government vs opposition."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, single source, no response from the other side."
+        }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Nov 25 to be commemorated every year to mark historic space mission: Tarar",
+      "summary": "AI summary: Information Minister Attaullah Tarar said Pakistan will mark November 25 annually to honour its first crewed space mission, announcing it while opening a four-day public mission control centre exhibit in Islamabad.",
+      "sources": [
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40450777/nov-25-to-be-commemorated-every-year-to-mark-historic-space-mission-tarar"
+        }
+      ],
+      "timestamp": "Nov 26, 5:16 AM",
+      "publishedAt": "2026-11-26T05:16:21+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Symbolic announcement with no economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Commemorative step; no effect on governance stability."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Public exhibit and commemoration support national pride and science awareness."
+        },
+        "market": {
+          "value": "low",
+          "reason": "No market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Straight report of a non-partisan announcement."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; simple, verifiable official announcement."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "JUI-F claims senior leaders, Abdul Ghafoor Haideri, Amjad Khan arrested in Khushab",
+      "summary": "AI summary: JUI-F said Punjab Police detained its secretary-general Abdul Ghafoor Haideri, Punjab chief Amjad Khan and a student-wing leader in Khushab ahead of a Sargodha rally, and raided other leaders' homes; police had not confirmed the arrests, and Fazlur Rehman vowed the gathering would go ahead.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692636-jui-f-claims-senior-leaders-arrested-in-khushab-ahead-of-sargodha-gathering"
+        }
+      ],
+      "timestamp": "Nov 26, 12:09 AM",
+      "publishedAt": "2026-11-26T00:09:36+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "No clear economic effect reported beyond alleged local closures."
+        },
+        "political": {
+          "value": "negative",
+          "reason": "Reported arrests of opposition leaders before a rally signal a sharpening political confrontation."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Alleged raids and detentions raise civil-liberty and public-order concerns."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Little direct market relevance."
+        },
+        "lean": {
+          "value": "pro-opposition",
+          "reason": "Sourced almost entirely from the party, with no police or government response."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but arrests are unconfirmed by police and rely on one side."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "Diesel price dips below Rs350 after 4 months; petrol rate down by Rs4",
+      "summary": "AI summary: Ogra cut diesel by Rs5 and petrol by Rs4 a litre from November 26, bringing them to Rs348 and Rs314, the lowest since mid-July, while per-litre taxes stayed unchanged.",
+      "sources": [
+        {
+          "name": "Dawn News",
+          "url": "https://www.dawn.com/news/2047017/petrol-diesel-price-for-nov-26-2026"
+        }
+      ],
+      "timestamp": "Nov 25, 10:52 PM",
+      "publishedAt": "2026-11-25T22:52:25+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "positive",
+          "reason": "Lower fuel costs ease transport and input prices for households and businesses."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Routine regulatory price adjustment."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Modest relief on everyday commuting and goods costs."
+        },
+        "market": {
+          "value": "high",
+          "reason": "Fuel prices feed directly into inflation, transport and industry costs."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Factual report of an official notification with neutral framing."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Full article read; figures come from an official Ogra notification."
+        }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "PM Shehbaz orders swift NCCIA restructuring, resolution of pending cybercrime cases",
+      "summary": "AI summary: PM Shehbaz Sharif told authorities to speed up remaking the National Cyber Crime Investigation Agency into a tech- and AI-focused body with merit-based hiring, and set up a four-minister committee to report on reform proposals, including a possible national cyber police, by week's end.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692585-pm-orders-swift-nccia-restructuring-resolution-of-pending-cybercrime-cases"
+        }
+      ],
+      "timestamp": "Nov 25, 3:57 PM",
+      "publishedAt": "2026-11-25T15:57:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Administrative reform with no near-term economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Institutional restructuring plan; no stability effect yet."
+        },
+        "social": {
+          "value": "neutral",
+          "reason": "Could eventually speed cybercrime cases, but nothing concrete has changed."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Limited market relevance."
+        },
+        "lean": {
+          "value": "pro-government",
+          "reason": "Wire report based solely on the official readout, with no outside or critical views."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but it only relays government statements."
+        }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "Three killed, 14 injured as under-construction Karachi building collapses; case filed",
+      "summary": "AI summary: Upper floors of an under-construction six-storey building collapsed near Karachi's Baloch Colony, killing at least three and injuring 14; police filed a negligence and murder case and arrested four, while officials blamed illegal commercial construction and a court stay that blocked demolition.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692580-four-injured-as-parts-of-building-collapse-in-karachis-baloch-colony-area"
+        }
+      ],
+      "timestamp": "Nov 25, 2:48 PM",
+      "publishedAt": "2026-11-25T14:48:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Localised loss with no broad economic effect."
+        },
+        "political": {
+          "value": "neutral",
+          "reason": "Raises building-control accountability questions but no wider governance instability."
+        },
+        "social": {
+          "value": "negative",
+          "reason": "Deaths, injuries and possible missing people highlight unsafe construction."
+        },
+        "market": {
+          "value": "low",
+          "reason": "Minor relevance, mainly to Karachi construction and real estate."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Attributes facts to rescue, police, mayor, minister and SBCA, though no response from owner or contractor."
+        },
+        "confidence": {
+          "value": "medium",
+          "reason": "Full article read, but casualty figures are inconsistent across official statements."
+        }
+      }
+    },
+    {
+      "id": 11,
+      "headline": "'Made history': Pakistan cheers as astronaut Zeeshan Ali flies pioneering mission",
+      "summary": "AI summary: Pakistani Air Force pilot Muhammad Zeeshan Ali launched aboard China's Shenzhou-24 and docked with the Tiangong station, becoming its first foreign crew member, with a short stay planned to run experiments chosen from Pakistani university proposals; Pakistani leaders and viewers in Islamabad celebrated.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/692573-made-history-pakistan-cheers-as-astronaut-zeeshan-ali-flies-pioneering-mission"
+        },
+        {
+          "name": "Business Recorder",
+          "url": "https://www.brecorder.com/news/40450792/historic-mission-china-space-station-receives-pak-astronaut"
+        }
+      ],
+      "timestamp": "Nov 25, 2:02 PM",
+      "publishedAt": "2026-11-25T14:02:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": {
+          "value": "neutral",
+          "reason": "Scientific milestone with no direct economic effect."
+        },
+        "political": {
+          "value": "positive",
+          "reason": "Highlights deepening Pakistan-China cooperation and state institutional achievement."
+        },
+        "social": {
+          "value": "positive",
+          "reason": "Broad public celebration and inspiration, particularly for students."
+        },
+        "market": {
+          "value": "low",
+          "reason": "No direct market relevance."
+        },
+        "lean": {
+          "value": "balanced",
+          "reason": "Wire reporting on a non-partisan national event, with officials and academics quoted."
+        },
+        "confidence": {
+          "value": "high",
+          "reason": "Two outlets carrying AFP wire reports with matching details."
+        }
+      }
+    }
+  ]
+}
