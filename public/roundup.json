@@ -1,62 +1,62 @@
 {
-  "generatedAt": "2026-11-21T21:30:00+05:00",
-  "periodStart": "2026-11-14",
-  "periodEnd": "2026-11-20",
-  "periodLabel": "Nov 14 to Nov 20, 2026",
-  "totalArticles": 62,
+  "generatedAt": "2026-11-27T23:15:20+05:00",
+  "periodStart": "2026-11-21",
+  "periodEnd": "2026-11-27",
+  "periodLabel": "Nov 21 to Nov 27, 2026",
+  "totalArticles": 74,
   "stats": {
     "economic": {
-      "positive": 9,
-      "neutral": 46,
-      "negative": 7
+      "positive": 11,
+      "neutral": 59,
+      "negative": 4
     },
     "political": {
-      "positive": 3,
+      "positive": 10,
       "neutral": 49,
-      "negative": 10
+      "negative": 15
     },
     "social": {
-      "positive": 7,
-      "neutral": 43,
-      "negative": 12
+      "positive": 17,
+      "neutral": 44,
+      "negative": 13
     }
   },
   "summary": [
-    "Miqyas logged 62 articles in this seven-day window, and the political column carried the heaviest negative tilt. Ten stories (16.1%) were rated politically negative against just three (4.8%) rated positive, a gap wider than in either of the other categories. The ten politically negative stories line up exactly with the ten articles the crawl flagged for review this week, so the flags were not scattered noise: they tracked one cluster of domestic political disputes, ranging from a NAB inquiry involving the son of JUI-F chief Fazlur Rehman to the Election Commission suspending the Islamabad local government poll schedule after a court stay.",
-    "The dominant storyline was a widening public dispute within and around the governing coalition. It began with a Dawn report, based on unnamed official sources, that President Zardari and Prime Minister Shehbaz Sharif agreed any referendum on new provinces would need parliamentary approval. PPP chairman Bilawal Bhutto Zardari then condemned what a PPP statement called government action against JUI-F, and followed with a Karachi speech in which he said the system was 'made to collapse' and called for a political reset. Federal ministers Khawaja Asif and Attaullah Tarar answered by questioning the PPP's record and backing a referendum. By the end of the week JUI-F said security for Fazlur Rehman and his family had been withdrawn, which an Islamabad police official described as involving only one guard. Miqyas takes no position on any of these claims; each is attributed to the party that made it.",
-    "Social coverage had the largest raw negative share, at 19.4% (12 stories), yet its causes were mostly physical and civic hazards rather than political argument: hazardous smog readings in Lahore and wider Punjab, an NDMA high alert for severe dry conditions in four Sindh districts, a UN agency finding that Punjab's water demand exceeds supply, militant attacks in Khyber Pakhtunkhwa, and the death of a 13-year-old domestic worker in Islamabad. Economic coverage was the calmest of the three, at 74.2% neutral, with nine positive readings (14.5%) tied to items such as a $500m ADB loan for pension reform, a World Bank 'satisfactory' rating on a health programme, and a Saudi framework deal to study roughly $30bn of energy investment. Its seven negatives leaned toward climate and supply risk, plus a Punjab sugar standoff in which mills ignored a government order to begin crushing.",
-    "Despite how charged the coalition dispute was, the lean readings stayed almost entirely balanced: 60 of 62 stories were rated balanced and two pro-government, with none pro-opposition. One of the two was the Dawn report built around ministers' rebuttals of Bilawal with no PPP reply included. AI confidence leaned toward the middle, with 34 medium ratings against 28 high and no low ratings. The medium calls clustered on the political stories: eight of the ten flagged articles were rated medium, mostly because they rested on one party's statement, anonymous sources, or disputed accounts, such as the conflicting party and police versions of the Fazlur Rehman security withdrawal. Readers should treat those stories as claims still awaiting a full public record."
+    "Miqyas logged 74 articles between Nov 21 and Nov 27, and the political category carried the week's heaviest negative weight: 15 of 74 political readings (20.3%) were negative against 10 positive (13.5%). That weight was concentrated. Every one of the 15 stories flagged for review this week was a political story rated negative, and nearly all of them trace to two linked confrontations: a dispute inside the governing coalition about creating new provinces, and an escalating standoff between Punjab authorities and the JUI-F. The economic picture ran the other way. Economic readings were 79.7% neutral, with positives (14.9%) nearly triple the negatives (5.4%), helped by government cuts to kerosene, jet fuel and light diesel oil prices on Nov 21 and a diesel price that fell below Rs350 on Nov 26 for the first time in four months, as reported. The few economic negatives were operational: a petroleum dealers' strike warning and a conveyor belt failure that disrupted coal imports at a bulk terminal.",
+    "The new provinces row was the week's dominant storyline, and it unfolded as a chain of public exchanges. On Nov 22, PPP Senator Sherry Rehman urged the government to put people's problems ahead of divisive moves, after Bilawal Bhutto-Zardari's warnings against dividing Sindh drew sharp replies from PML-N ministers. Interior Minister Mohsin Naqvi then publicly warned an unnamed minister about his criticism; PM's adviser Rana Sanaullah answered that he would not be intimidated and accused Naqvi of mishandling the debate; and by Nov 25 Prime Minister Shehbaz Sharif had told ministers to stop attacking each other in public. Information Minister Attaullah Tarar ended the week challenging Bilawal's opposition to a referendum on new provinces, while saying differences had not broken party ties; the same report notes that no referendum proposal exists. A related thread came via a Senate subcommittee, whose convener said Punjab holds about 60pc of senior federal secretariat posts and called that a constitutional violation, a claim reported without a government rebuttal.",
+    "The second cluster concerns civil liberties and the limits of state power. Under the emergency in Khyber Pakhtunkhwa, President Zardari issued ordinances on Nov 22 withdrawing most privileges of provincial lawmakers, including protection against preventive detention, and creating centrally nominated committees shielded from civil courts. In Punjab, the JUI-F petitioned the Lahore High Court alleging that party chief Maulana Fazlur Rehman had been confined to his Lahore home, which police described as a request to limit his movement; the court ordered a police report on Nov 26. The party then said senior leaders had been arrested in Khushab and, on Nov 27, that Fazl himself had been detained, which a senior police officer denied. These stories help explain the social category's 17.6% negative share, as several involved road closures, raids or curbs on assembly, and Karachi was placed on high alert ahead of planned rallies. Even so, social coverage posted the week's highest positive share at 23.0%. A former IHC judge's warning that the 26th and 27th amendments have pitted two superior courts against each other added an institutional dimension to the week.",
+    "On lean, the readings held steady despite charged material: 67 of 74 articles were rated balanced, 5 pro-government and 2 pro-opposition. Both pro-opposition ratings went to JUI-F stories built mainly on the party's own account, which reflects how those reports were sourced. Confidence is the more telling signal. Across the week 26 articles were rated high confidence, but among the 15 flagged stories only 2 were, with 12 medium and 1 low. The low rating went to the competing claims about Fazl's arrest, where the party and the police gave directly conflicting accounts with no independent verification. The week's most dramatic political claims should be read as attributed and, in several cases, still unconfirmed. One caveat on coverage: Nov 21 produced no flagged stories, so the flagged set spans Nov 22 to Nov 27."
   ],
   "notableStories": [
     {
-      "headline": "In hard-hitting speech, Bilawal says system was 'made to collapse'",
-      "context": "Bilawal Bhutto Zardari's Karachi speech calling for a political reset, including talks with PTI, set the tone for the week's coalition dispute.",
-      "sourceName": "Business Recorder",
-      "sourceUrl": "https://www.brecorder.com/news/40449364/bilawal-calls-for-political-reset-says-systems-failure-must-be-debated"
-    },
-    {
-      "headline": "'He who claims equity must come with clean hands': Asif hits back at Bilawal",
-      "context": "Defence Minister Khawaja Asif's rebuttal to Bilawal, backing a referendum on new provinces, showed the dispute had become an open exchange between coalition partners.",
+      "headline": "Presidential ordinance withdraws most privileges of KP MPAs, including protection against preventive detention",
+      "context": "Under emergency rule in Khyber Pakhtunkhwa, five presidential ordinances stripped provincial lawmakers of most privileges, including immunity from preventive detention, and set up centrally nominated committees shielded from civil courts.",
       "sourceName": "Dawn News",
-      "sourceUrl": "https://www.dawn.com/news/2045397/he-who-claims-equity-must-come-with-clean-hands-asif-hits-back-at-bilawal"
+      "sourceUrl": "https://www.dawn.com/news/2046142/presidential-ordinance-withdraws-most-privileges-of-kp-mpas-including-protection-against-preventive-detention"
     },
     {
-      "headline": "Security withdrawn from Fazl, family members",
-      "context": "JUI-F said security for Fazlur Rehman and his family was withdrawn, while police said only one guard was affected, marking a sharp escalation in the government's standoff with JUI-F.",
+      "headline": "PM urges ministers to avoid spat amid Sanaullah-Naqvi row over new provinces",
+      "context": "The new provinces debate escalated into public sparring between senior government figures, prompting Prime Minister Shehbaz Sharif to tell ministers to stop attacking each other.",
+      "sourceName": "Geo News",
+      "sourceUrl": "https://www.geo.tv/latest/692435-pm-takes-notice-as-ministers-trade-barbs-in-provinces-debate"
+    },
+    {
+      "headline": "Punjab holds over 60pc of senior federal posts, Senate body told",
+      "context": "A Senate subcommittee convener called Punjab's reported share of about 60pc of senior federal posts a constitutional violation and sought a correction plan, feeding the week's wider argument about provincial balance.",
       "sourceName": "Dawn News",
-      "sourceUrl": "https://www.dawn.com/news/2045802/security-withdrawn-from-fazl-family-members"
+      "sourceUrl": "https://www.dawn.com/news/2046667/punjab-holds-over-60pc-of-senior-federal-posts-senate-body-told"
     },
     {
-      "headline": "Punjab sugar millers snub order to begin crushing from weekend",
-      "context": "Punjab's sugar mills largely ignored a provincial deadline to start crushing, leaving growers demanding a support price and raising questions about enforcement.",
+      "headline": "Lahore High Court seeks police report on Maulana Fazl's confinement",
+      "context": "The court ordered Lahore's police chief to respond to the JUI-F's claim that its chief was being held at his residence, a dispute that later produced conflicting accounts of an arrest.",
       "sourceName": "Dawn News",
-      "sourceUrl": "https://www.dawn.com/news/2044804/punjab-sugar-millers-snub-order-to-begin-crushing-from-weekend"
+      "sourceUrl": "https://www.dawn.com/news/2047148/lahore-high-court-seeks-police-report-on-maulana-fazls-confinement"
     },
     {
-      "headline": "ECP suspends Islamabad LG polls programme",
-      "context": "The Election Commission suspended Islamabad's December 20 local government poll schedule after a court stay, extending a long delay in local elections for the capital.",
-      "sourceName": "Business Recorder",
-      "sourceUrl": "https://www.brecorder.com/news/40448870/ecp-suspends-islamabad-lg-polls-programme"
+      "headline": "26th, 27th Amendments sparked judicial conflict: ex-IHC judge",
+      "context": "Former IHC judge Mohsin Akhtar Kayani said the two constitutional amendments have set superior courts against each other and urged parliament to resolve it, while also criticising PECA notices to media.",
+      "sourceName": "Dawn News",
+      "sourceUrl": "https://www.dawn.com/news/2047372/26th-27th-amendments-sparked-judicial-conflict-ex-ihc-judge"
     }
   ]
 }
