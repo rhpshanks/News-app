@@ -1,0 +1,197 @@
+{
+  "generatedAt": "2026-11-27T11:54:22+05:00",
+  "articles": [
+    {
+      "id": 1,
+      "headline": "LHC seeks replies on plea by five Afghan medical students over MBBS registration",
+      "summary": "AI summary: The Lahore High Court has asked PMDC, UHS, the HEC and federal and Punjab authorities to respond by December 1 to five HEC-sponsored Afghan MBBS students who say they are being blocked from registering for their January professional exam.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2047447/lhc-seeks-replies-on-plea-by-five-afghan-medical-students-over-mbbs-registration" }
+      ],
+      "timestamp": "Nov 27, 11:47 AM",
+      "publishedAt": "2026-11-27T11:47:02+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A procedural court matter for a handful of students with no wider economic effect." },
+        "political": { "value": "neutral", "reason": "Routine judicial notices; no sign of institutional strain from this step." },
+        "social": { "value": "neutral", "reason": "Affects the education of five students; outcome still pending replies." },
+        "market": { "value": "low", "reason": "No relevance to investors or business decisions." },
+        "lean": { "value": "balanced", "reason": "Straight court reporting; respondents have not yet filed replies, which the piece notes." },
+        "confidence": { "value": "medium", "reason": "Full article read, but single outlet and the respondents' side relies on counsel's account." }
+      }
+    },
+    {
+      "id": 2,
+      "headline": "Death toll from Baloch Colony building collapse in Karachi rises to six",
+      "summary": "AI summary: Six people have now died after an illegally built six-storey structure near Karachi's Baloch Colony collapsed; the Sindh chief minister removed senior building-control and district officials, suspended 16 SBCA staff, and ordered arrests, while four suspects are on police remand.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2047440/death-toll-from-baloch-colony-building-collapse-in-karachi-rises-to-six" }
+      ],
+      "timestamp": "Nov 27, 10:24 AM",
+      "publishedAt": "2026-11-27T10:24:30+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Local losses and planned demolition of 14 sealed buildings, but limited broader economic effect." },
+        "political": { "value": "neutral", "reason": "Swift administrative removals signal accountability rather than instability." },
+        "social": { "value": "negative", "reason": "Six deaths and many injuries highlight serious building-safety risks for residents." },
+        "market": { "value": "low", "reason": "Marginal relevance to Karachi construction and real estate oversight." },
+        "lean": { "value": "balanced", "reason": "Factual reporting from official, rescue and FIR sources without partisan framing." },
+        "confidence": { "value": "high", "reason": "Full article with multiple named official sources and concrete figures." }
+      }
+    },
+    {
+      "id": 3,
+      "headline": "PM hails launch of astronaut aboard Chinese space mission",
+      "summary": "AI summary: Prime Minister Shehbaz Sharif welcomed, in talks with China's ambassador, the Shenzhou-24 launch carrying Pakistani astronaut Muhammad Zeeshan Ali to China's Tiangong station, which the PM's office describes as a first for a foreign astronaut there.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40450960/pm-hails-launch-of-astronaut-aboard-chinese-space-mission?v=ZjARFEpSMFSmFeCccoUuIQp-" }
+      ],
+      "timestamp": "Nov 27, 6:09 AM",
+      "publishedAt": "2026-11-27T06:09:34+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Symbolic scientific milestone with no direct effect on jobs or prices." },
+        "political": { "value": "positive", "reason": "Reinforces Pakistan-China ties during the 75th anniversary of relations." },
+        "social": { "value": "positive", "reason": "A national achievement likely to inspire public pride and interest in science." },
+        "market": { "value": "low", "reason": "Little bearing on market or investment decisions." },
+        "lean": { "value": "balanced", "reason": "Relies on a PMO statement, but the subject is non-partisan and framing is not aimed at any rival." },
+        "confidence": { "value": "medium", "reason": "Based on the RSS excerpt only; article page returned 403." }
+      }
+    },
+    {
+      "id": 4,
+      "headline": "Bilawal advocates for consensus on political, democratic 'reset'",
+      "summary": "AI summary: Speaking in Multan, PPP chairman Bilawal Bhutto Zardari called for an all-stakeholder political and democratic reset, said ordinary people face an unprecedented economic crisis, opposed passing the proposed 27th Amendment on majority votes alone, and invited PTI to join electoral reform talks.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40450959/bilawal-advocates-for-consensus-on-political-democratic-reset?v=ZjARFEpSMFSmFeCccoUuIQp-" }
+      ],
+      "timestamp": "Nov 27, 6:07 AM",
+      "publishedAt": "2026-11-27T06:07:19+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Rhetoric about economic hardship, with no policy change announced." },
+        "political": { "value": "neutral", "reason": "A call for consensus and dialogue; no immediate institutional effect." },
+        "social": { "value": "neutral", "reason": "Raises public hardship concerns but changes nothing on the ground yet." },
+        "market": { "value": "low", "reason": "Political commentary with little direct relevance to investors." },
+        "lean": { "value": "balanced", "reason": "Reports one leader's remarks without editorial endorsement; no reply included." },
+        "confidence": { "value": "medium", "reason": "Based on the RSS excerpt only; article page returned 403." }
+      }
+    },
+    {
+      "id": 5,
+      "headline": "26th, 27th Amendments sparked judicial conflict: ex-IHC judge",
+      "summary": "AI summary: Former IHC judge Mohsin Akhtar Kayani said at a seminar that the 26th and 27th amendments have pitted two superior courts against each other, urged parliament to resolve it, and criticised PECA notices issued to media over news reports.",
+      "sources": [
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2047372/26th-27th-amendments-sparked-judicial-conflict-ex-ihc-judge" }
+      ],
+      "timestamp": "Nov 27, 5:48 AM",
+      "publishedAt": "2026-11-27T05:48:11+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Legal and constitutional debate with no direct economic effect." },
+        "political": { "value": "negative", "reason": "Highlights an unresolved conflict between superior courts, a sign of institutional strain." },
+        "social": { "value": "neutral", "reason": "Press freedom concerns raised, but no immediate change to daily life." },
+        "market": { "value": "low", "reason": "Limited relevance to near-term business decisions." },
+        "lean": { "value": "balanced", "reason": "Reports a seminar speech; no government rebuttal, but no editorial endorsement either." },
+        "confidence": { "value": "medium", "reason": "Full article read, but a single speaker's view from one outlet." }
+      }
+    },
+    {
+      "id": 6,
+      "headline": "Pakistan, BD entering a new era of relations: BD Speaker",
+      "summary": "AI summary: Visiting Bangladesh Parliament Speaker Hafiz Uddin Ahmad told the Lahore chamber that ties are entering a new phase, pointing to a trading corporations meeting in Dhaka on November 29, while Bangladeshi MPs voiced interest in Sialkot sports goods and LCCI proposed a joint economic council.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40450906/pakistan-bd-entering-a-new-era-of-relations-bd-speaker?v=ZjARFEpSMFSmFeCccoUuIQp-" }
+      ],
+      "timestamp": "Nov 27, 4:56 AM",
+      "publishedAt": "2026-11-27T04:56:54+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "positive", "reason": "Signals possible new export demand and trade links with Bangladesh." },
+        "political": { "value": "neutral", "reason": "Warm diplomatic tone but no formal agreement yet." },
+        "social": { "value": "neutral", "reason": "No direct effect on daily life at this stage." },
+        "market": { "value": "medium", "reason": "Relevant to exporters in sports goods, textiles and other sectors named." },
+        "lean": { "value": "balanced", "reason": "Business-event reporting with no partisan angle." },
+        "confidence": { "value": "medium", "reason": "Based on the RSS excerpt only; article page returned 403." }
+      }
+    },
+    {
+      "id": 7,
+      "headline": "Sindh plans unified control centre for BRT network: Sharjeel",
+      "summary": "AI summary: Sindh Senior Minister Sharjeel Inam Memon said the province plans to run Karachi's BRT lines under one command and control centre with a smart fare system and integrated routes; no cost or timeline was given.",
+      "sources": [
+        { "name": "Business Recorder", "url": "https://www.brecorder.com/news/40450898/sindh-plans-unified-control-centre-for-brt-network-sharjeel?v=ZjARFEpSMFSmFeCccoUuIQp-" }
+      ],
+      "timestamp": "Nov 27, 4:56 AM",
+      "publishedAt": "2026-11-27T04:56:54+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A plan without stated budget or timeline; no near-term economic effect." },
+        "political": { "value": "neutral", "reason": "Routine provincial administrative announcement." },
+        "social": { "value": "positive", "reason": "If delivered, could improve public transport reliability for Karachi commuters." },
+        "market": { "value": "low", "reason": "Minor relevance to transport technology vendors." },
+        "lean": { "value": "balanced", "reason": "Reports an official's plan plainly, without partisan framing." },
+        "confidence": { "value": "medium", "reason": "Based on the RSS excerpt only; article page returned 403." }
+      }
+    },
+    {
+      "id": 8,
+      "headline": "JUI-F claims Maulana Fazl arrested in Lahore; police deny",
+      "summary": "AI summary: JUI-F said Lahore police detained party chief Maulana Fazlur Rehman near Thokar Niaz Baig, but a senior police officer denied any arrest, saying he went home with his convoy; the party had earlier gone to the Lahore High Court alleging house arrest.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/692790-conflicting-claims-emerge-over-jui-f-chief-fazls-arrest-in-lahore" }
+      ],
+      "timestamp": "Nov 27, 1:31 AM",
+      "publishedAt": "2026-11-27T01:31:47+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "No direct economic effect; police say traffic was flowing normally." },
+        "political": { "value": "negative", "reason": "Disputed detention claims deepen an escalating standoff between JUI-F and authorities." },
+        "social": { "value": "neutral", "reason": "Potential for protests, but no confirmed disruption reported in this piece." },
+        "market": { "value": "low", "reason": "Limited relevance to investors at this stage." },
+        "lean": { "value": "balanced", "reason": "Gives both the party's claim and the police denial." },
+        "confidence": { "value": "low", "reason": "Directly conflicting accounts with no independent verification." }
+      }
+    },
+    {
+      "id": 9,
+      "headline": "Tarar criticises Fazl, Bilawal over protests and referendum debate",
+      "summary": "AI summary: Information Minister Attaullah Tarar accused JUI-F chief Fazlur Rehman of seeking confrontation through road-blocking protests and challenged Bilawal Bhutto Zardari's opposition to a referendum on new provinces, while saying differences had not broken party ties.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/692789-tarar-criticises-fazl-bilawal-over-protests-and-referendum-debate" }
+      ],
+      "timestamp": "Nov 27, 1:05 AM",
+      "publishedAt": "2026-11-27T01:05:38+05:00",
+      "flaggedForReview": true,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "Political exchange with no policy change affecting the economy." },
+        "political": { "value": "negative", "reason": "Sharp rhetoric toward JUI-F signals rising confrontation between government and a protesting party." },
+        "social": { "value": "negative", "reason": "Protests referenced have disrupted traffic in several cities." },
+        "market": { "value": "low", "reason": "Limited direct relevance to business decisions." },
+        "lean": { "value": "balanced", "reason": "Centres a minister's remarks but adds Bilawal's stated view and a note that no referendum proposal exists." },
+        "confidence": { "value": "medium", "reason": "Full article read, but single outlet and no direct JUI-F or PPP response." }
+      }
+    },
+    {
+      "id": 10,
+      "headline": "Islamabad set to host 2-day Makkah Defence Alliance meeting; Yemen conflict also on agenda",
+      "summary": "AI summary: Islamabad is hosting a two-day top-level meeting of the Pakistan-Saudi Arabia-Turkiye Makkah Defence Alliance, with Defence Minister Khawaja Asif saying the Yemen conflict will be discussed and the still-early pact needs frequent meetings; local holidays and movement limits apply in Islamabad and Rawalpindi.",
+      "sources": [
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/692748-makkah-pact-nations-to-discuss-yemen-in-islamabad-meeting-defence-minister" },
+        { "name": "Dawn News", "url": "https://www.dawn.com/news/2047415/islamabad-set-to-host-2-day-makkah-defence-alliance-meeting-yemen-conflict-also-on-agenda" },
+        { "name": "Geo News", "url": "https://www.geo.tv/latest/692826-yemen-conflict-on-agenda-as-makkah-defence-alliance-meeting-begins-in-islamabad-today" }
+      ],
+      "timestamp": "Nov 26, 7:12 PM",
+      "publishedAt": "2026-11-26T19:12:00+05:00",
+      "flaggedForReview": false,
+      "indicators": {
+        "economic": { "value": "neutral", "reason": "A one-off local holiday aside, no direct economic measures announced." },
+        "political": { "value": "neutral", "reason": "Institution-building for a defence pact, though tied to a volatile regional conflict." },
+        "social": { "value": "neutral", "reason": "Temporary holiday and movement restrictions for twin-city residents; no wider effect yet." },
+        "market": { "value": "medium", "reason": "Relevant to regional risk assessment given Gulf security ties." },
+        "lean": { "value": "balanced", "reason": "Relies on the defence minister, but reports positions factually without promoting them." },
+        "confidence": { "value": "high", "reason": "Matching details across Dawn and two Geo reports, all read in full." }
+      }
+    }
+  ]
+}
